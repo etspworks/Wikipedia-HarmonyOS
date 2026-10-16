@@ -1,0 +1,4832 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Vsebina licence"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Če ni določeno drugače, je vsebina na voljo pod \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "licenco Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Sodelavci"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Uporabljene knjižnice"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Popolni seznam"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenca"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Obožujemo odprtokodno programje \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licenca zemljevida krajev"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Kraji uporabljajo zemljevide, ki jih zagotavlja Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Za podrobnosti o licenci glejte tukaj"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Ustvarila \\$1 v sodelovanju s prostovoljci, kot ste vi"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Shrambe"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Izvorna koda je na voljo pod licenco \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT licenca"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Sporočite svoje mnenje"
+    },
+    {
+      "name": "about_title",
+      "value": "O projektu"
+    },
+    {
+      "name": "about_translators",
+      "value": "Prevajalci"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Prevedli prostovoljci na \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fundacija Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ne vidite slike? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Pridobivanje novega CAPTCHA ..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Zahtevaj račun."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Varnostno preverjanje CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Ustvarite račun"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Že imate račun? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Prijava."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Prijavljanje ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Da ustvarite račun, morate vnesti uporabniško ime in geslo ter potrditi geslo."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Polja gesla se ne ujemajo."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Shranjevanje ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Ustvarite nov račun"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Vaš račun"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Izbris računa"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Vaša stran za pogovor"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Pogovori s samodejnim podpisom"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Pri samodejnem podpisovanju pogovorov bo uporabljen podpis, določen v nastavitvah podpisa"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Nastavitve strani za pogovor"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Dodaj k..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Dodaj na bralni seznam"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Dodaj na seznam"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Prekliči"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Zavrzi urejanje"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Zavrzi urejanje"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Poišči na strani"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Nadaljuj urejanje"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Spremeni jezik"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Prestavi v..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Prestavi na bralni seznam"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Naslednja redakcija"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Prejšnja redakcija"
+    },
+    {
+      "name": "action_read",
+      "value": "Preberi"
+    },
+    {
+      "name": "action_redo",
+      "value": "Uveljavi"
+    },
+    {
+      "name": "action_remove",
+      "value": "Odstrani"
+    },
+    {
+      "name": "action_retry",
+      "value": "Poskusite znova"
+    },
+    {
+      "name": "action_save",
+      "value": "Shrani"
+    },
+    {
+      "name": "action_saved",
+      "value": "Shranjeno"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Shranjeno. Aktivirajte, da ne shranite."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Članek shranjen za pozneje"
+    },
+    {
+      "name": "action_share",
+      "value": "Deli"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Deli"
+    },
+    {
+      "name": "action_sort",
+      "value": "Razvrsti"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Zahvala uporabniku"
+    },
+    {
+      "name": "action_undo",
+      "value": "Razveljavi"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Neshranjeno"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Članek neshranjen"
+    },
+    {
+      "name": "action_update",
+      "value": "Posodobi"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Dodaj {{PLURAL:\\$1|\\$1 članek|\\$1 članka|\\$1 članke|\\$1 člankov}} na bralni seznam"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Opusti"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedija, referenca, viki, enciklopedija, info, znanje, raziskovanje, informacije, odkrivanje, učenje"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Popolnoma prilagodljiv in za branje preprostejši vir Razišči. Lokalizacija, izboljšave delovanja in popravki napak."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Prenesite aplikacijo Wikipedija za raziskovanje krajev v vaši bližini, sinhronizirajte članke za branje brez povezave in si prilagodite svojo bralno izkušnjo."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Prosta enciklopedija"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Prilagodite velikost besedila članka"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Razširite tabele"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Vse tabele v vseh člankih so nastavljene tako, da so privzeto odprte, vključno s hitrimi dejstvi, sklici, opombami in zunanjimi povezavami."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Zmanjšaj prosojnost slik pri temnih in črnih temah"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Teme za branje"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Nastavitve preglednic"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Povlecite drsnik, da spremenite velikost besedila članka. Uporabite sistemsko velikost besedila, da spremenite velikost drugih besedilnih območij v aplikaciji."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Možnosti tem"
+    },
+    {
+      "name": "article_about_title",
+      "value": "O članku"
+    },
+    {
+      "name": "article_delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|članek izbrisan|članki izbrisani}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Aplikacija ni mogla pravočasno pridobiti posodobljene vsebine. Prosimo, osvežite to stran pozneje, da se vaše spremembe prikažejo."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Najdi jezik"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Izberite jezik"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Drugi jeziki"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Vaši jeziki"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Preberi še kaj"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Sklic \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Zgodovina redakcij članka"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "V napravi nimate dovolj prostora, da bi lahko shranili ta članek"
+    },
+    {
+      "name": "article_share",
+      "value": "Deli"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Pogovorna stran članka"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Upravljanje bralnih tem"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Nazaj"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Tapnite, da se vrnete nazaj"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Nazaj"
+    },
+    {
+      "name": "button_next",
+      "value": "Naprej"
+    },
+    {
+      "name": "button_ok",
+      "value": "V redu"
+    },
+    {
+      "name": "button_publish",
+      "value": "Objavi"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Vseeno objavi"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Prijavi hrošč"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Shrani za pozneje"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Shranjeno za pozneje"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Odstrani iz shranjenega"
+    },
+    {
+      "name": "button_skip",
+      "value": "Preskoči"
+    },
+    {
+      "name": "cancel",
+      "value": "Prekliči"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednje različice kitajščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\n简体 – kitajščina, poenostavljeno (zh-hans)\n香港繁體 – Hongkong, tradicionalno (zh-hk)\n澳門繁體 – Makav, tradicionalno (zh-mo)\n大马简体 – Malezija, poenostavljeno (zh-my)\n新加坡简体 – Singapur, poenostavljeno (zh-sg)\n臺灣正體 – Tajvan, tradicionalno (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Posodobitve podpore za kitajske različice"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Počisti"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Čiščenje predpomnilnika je končano."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Poteka čiščenje predpomnilnika."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zapri"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ob \\$1 uri"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Nadaljuj"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Raziščite Wikipedijo za več člankov, ki jih lahko preberete"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ni pred kratkim ogledanih člankov"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednji različici krimske tatarščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nQırımtatarca – krimska tatarščina, latinica (chr-latn) \nкъырымтатарджа, Кирил – krimska tatarščina, cirilica (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Posodobitve podpore za krimskotatarski različici"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Posodabljam ..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Dodaj opis"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Opis članka za \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "S spremembo opisa članka se strinjam s \\$1 in nepreklicno objavljam svoj prispevek pod licenco \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Uredi uvod"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Urejanje opisa članka"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Kratki opisi so najboljši"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Objavi opis"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Uredi opis"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Poskusite opise ohraniti kratke, da bodo uporabniki lahko takoj razumeli temo članka."
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Veliko začetnico uporabite samo pri lastnih imenih. To vključuje tudi začetek povedi."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Opisi člankov povzamejo članek tako, da lahko bralci razumejo temo že ob prvem pogledu"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "O projektu"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "O Wikipodatkih"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Opisi so shranjeni in vzdrževani v Wikipodatkih, projektu Fundacije Wikimedia, ki zagotavlja prosto, sodelovalno, večjezično, sekundarno podatkovno zbirko, ki podpira Wikipedijo in druge projekte."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Več informacij"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Idealno bi bilo, da bi opisi ustrezali eni vrstici in bili dolgi od dveh do dvanajst besed. Ne pišejo se z veliko začetnico, razen če je prva beseda lastno ime."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "opis članka za članek o Moni Lizi"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "opis članka za članek o Mount Everestu"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "slika Leonarda da Vincija"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "najvišja gora na Zemlji"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Na primer:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Nasveti za ustvarjanje opisov"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Pomoč za opis članka"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Vodnik Wikipodatkov za pisanje opisov"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Končano"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Wikipedijo ste pravkar izboljšali za vsakogar"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Opis objavljen!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Najboljše ena vrstica, od dve do dvanajst besed"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Naj bo kratko"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Povzetek članka, ki bralcem pomaga razumeti temo ob prvem pogledu"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Opisi člankov"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Ob začetku obljubljam, da te možnosti ne bom zlorabil_a"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Začetek urejanja"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Zgodovina redakcij članka"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Dodatek, \\$1, konec dodatka."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Odstavek je bil premaknjen navzdol za {{PLURAL:\\$1|0=0 vrstic|\\$1 vrstico|\\$1 vrstici|\\$1 vrstice|\\$1 vrstic}}. Pojdite na novo mesto."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Odstavek je bil premaknjen navzgor za {{PLURAL:\\$1|0=0 vrstic|\\$1 vrstico|\\$1 vrstici|\\$1 vrstice|\\$1 vrstic}}. Pojdite na novo mesto."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Odstavek je bil premaknjen. Pojdite na prejšnje mesto."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Odstavek je bil premaknjen navzdol za {{PLURAL:\\$1|0=0 razdelkov|\\$1 razdelek|\\$1 razdelka|\\$1 razdelke|\\$1 razdelkov}}. Pojdite na novo mesto."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Odstavek je bil premaknjen navzgor za {{PLURAL:\\$1|0=0 razdelkov|\\$1 razdelek|\\$1 razdelka|\\$1 razdelke|\\$1 razdelkov}}. Pojdite na novo mesto."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Odstranitev, \\$1 , konec odstranitve."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Prejšnje urejanje"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Primerjava redakcij"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Prikazano urejanje"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Primerjava redakcij"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Dodana vsebina, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Odstranjena vsebina, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Strni \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Razširi \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Pokaži"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Skrij"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Datum redakcije:"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Vrstice \\$1–\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Odstavek prestavljen"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "navzdol"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "navzgor"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 vrstico|\\$1 vrstici|\\$1 vrstice|\\$1 vrstic}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 razdelek|\\$1 razdelka|\\$1 razdelki|\\$1 razdelkov}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Odstavek premaknjen \\$2 \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Redakcije ni mogoče naložiti."
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Vrni"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Ali res želite vrniti urejanja?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Vrnitev urejanj"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Urejanje vrnjeno."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 urejanje|\\$1 urejanji|\\$1 urejanja|\\$1 urejanj}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Podatki o urejevalcu"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 zlog dodan|\\$1 zloga dodana|\\$1 zlogi dodani|\\$1 zlogov dodanih}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 zlog odstranjen|\\$1 zloga odstranjena|\\$1 zlogi odstranjeni|\\$1 zlogov odstranjenih}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Povzetek urejanja"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Uvod"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Vrstica \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonimnim uporabnikom se ni mogoče zahvaliti."
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Zahvale so preprost način, da izrazite spoštovanje do urednikovega dela v Wikipediji. Za pošiljanje zahvale morate biti prijavljeni."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Za pošiljanje zahvale se prijavite"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Pošlji zahvalo"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Zahvale so preprost način za izražanje priznanja za delo urejevalca v Wikipediji. Zahval ni mogoče razveljaviti in so javno vidne."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Javno pošlji zahvalo"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Vaša zahvala je bila poslana \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Za to urejanje ste že poslali zahvalo"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Zahval ni mogoče preklicati."
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Kontekstna vrstica, nespremenjena: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "To bo razveljavilo spremembe, narejene z redakcijo(ami) članka, prikazanega tukaj. Če želite nadaljevati, navedite razlog za razveljavitev tega urejanja."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Redakcija je razveljavljena."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 vrstica neurejena|\\$1 vrstici neurejeni|\\$1 vrstice neurejene|\\$1 vrstic neurejenih}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Dvokliknite, da odprete meni"
+    },
+    {
+      "name": "dim_images",
+      "value": "Zatemnjene slike"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Dvakrat tapnite za izbiro zneska donacije."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Dvakrat tapnite za doniranje \\$1 Fundaciji Wikimedia."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Dvakrat tapnite, da Fundaciji Wikimedia dovolite, da vam pošlje e-pošto."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Dvakrat tapnite, da zaprete prikaz tipkovnice za vnos količine."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Dvakrat tapnite, da omogočite samodejne mesečne donacije tega zneska."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Vnesite znesek po meri za donacijo."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Dvakrat tapnite, da znesku donacije dodate provizijo za transakcijo."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Hvala, spoštovani donator! Vaša velikodušnost pomaga ohranjati uspeh Wikipedije in njenih sorodnih spletišč."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple ni zadolžen za zbiranje denarja v ta namen."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Da, Fundacija Wikimedia mi lahko občasno pošlje e-pošto."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Pogosto postavljena vprašanja"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Drugi načini doniranja"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Težave pri doniranju?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Informacije o davčnih olajšavah"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Znova vas bomo opomnili jutri."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Prek našega spletišča ne sprejemamo donacij, večjih od \\$1 \\$2. Obrnite se na naše glavno osebje za doniranje na benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Prosimo, izberite znesek (najmanj \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Naj bo to mesečna ponavljajoča se donacija."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Doniranje z Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Donirajte z Apple Pay ali izberite drug način plačila."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Drug način plačila"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Želite donirati z Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Vaša velikodušnost nam veliko pomeni."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Hvala!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Izberite znesek"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Velikodušno želim dodati \\$1 za kritje stroškov transakcije, da boste lahko obdržali 100%% moje donacije."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Prikaz besedila"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Povezava cilja"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Odstrani povezavo"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Uredi povezavo"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Uredi"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "To je morda zato, ker besedila, ki ste ga izbrali, (npr. naslova članka ali naslovov infopolj) ni mogoče urejati ali zaradi dolžine označenega besedila"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Besedila, ki ste ga izbrali, ni bilo mogoče najti."
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Več o manjših urejanjih"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Manjše urejanje"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Obvestila o urejanju"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Vedno prikaži obvestila o urejanju"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Prosimo, preberite pred urejanjem"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Vsa vsebina je prikazana v poenostavljeni obliki."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Prikaži spletni predogled"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Dodaj povzetek urejanja"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Slovnični popravek"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "popravek tipkarske napake"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Dodane povezave"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Kako ste izboljšali članek?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Več o vašem nadzornem seznamu"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Opazuj stran"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Pri posodabljanju člankov bodite pogumni, toda ne nepremišljeni. Ne vznemirjajte se zaradi napak: Shranjena je vsaka pretekla redakcija strani, zato lahko naša skupnost zlahka popravi napake."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Vaš glas je pomemben"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Vsa vsebina mora biti preverljiva. Ko v članek dodajajo nove informacije, morajo urejevalci zagotoviti sprotno navedbo zanesljivega vira, ki neposredno podpira prispevek."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Navedite zanesljive vire"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Prizadevamo si, da bi bili članki napisani v nepristranskem tonu. Pri urejanju si prizadevajte za pošteno predstavitev sveta, kot ga opisujejo zanesljivi viri."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Pišite na nepristranski način"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Da bi vsem omogočili dostop do svetovnega znanja, potrebujemo vaše sodelovanje pri njegovem ustvarjanju z branjem, urejanjem in prispevanjem k temam, ki so za vas najpomembnejše."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Osvobodite znanje"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Vaše urejanje je objavljeno."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Uredi vir"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Ali res želite zapustiti način urejanja, ne da bi najprej objavili spremembe?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Ali res želite zavreči to urejanje?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Želite opustiti način urejanja?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Počistite iskanje"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Zaprite iskanje"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "Skupno najdenih \\$1 ujemanj. Označeno ujemanje s številko \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Ni najdenih ujemanj"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Naslednji najdeni zadetek"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Prejšnji najdeni zadetek"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Poišči"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Krepko"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Zaprite meni za oblikovanje besedila"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Komentar"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Naslov"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Zmanjšanje zamika"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Povečanje zamika"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Ležeče"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Povezava"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Urejeni seznam"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Neurejeni seznam"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Odstavek"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Sklic"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Prečrtano"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Podnaslov 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Podnaslov 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Podnaslov 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Podnaslov 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Podpisano"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Nadpisano"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Predloga"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Oblikovanje besedila"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Podčrtano"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Izvedba zamenjave. Vrsta zamenjave je nastavljena na \\$1."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Počistite zamenjavo"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Zamenjava"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Zamenjaj z/s ..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Zamenjaj vse"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Zamenjajte vse pojavitve"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Zamenjajte vrsto zamenjave. Trenutno je nastavljena na \\$1. Izberite za spremembo."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Zamenjaj"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Zamenjajte posamezno pojavitev"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Krepko oblikovanje besedila"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Premik kazalca navzdol v naslednjo vrstico."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Premik kazalca na naslednji znak."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Premik kazalca na prejšnji znak."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Premik kazalca navzgor v prejšnjo vrstico."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Poiščite na strani"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "Oblikovanje besedila slike"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "Zmanjšanje zamika besedila"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "Povečanje zamika besedila"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Ležeče oblikovanje besedila"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "Oblikovanje besedila povezave"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "Oblikovanje besedila urejenega seznama"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "Oblikovanje besedila neurejenega seznama"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Odprtje menija za oblikovanje besedila"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "Oblikovanje besedila sklica"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Ogled dodatnih možnosti oblikovanja"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "Oblikovanje besedila predloge"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "Nalaganje besedila urejevalnika"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Viki urejevalnik besedila"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Med redakcijama ni razlik"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Ni bilo vidnih sprememb"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Prazen povzetek urejanja"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Izberite datoteko iz Wikimedijine zbirke"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Žal članka ni bilo mogoče naložiti"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Še vedno lahko berete shranjene strani"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Priporočene članke si lahko ogledate, ko imate internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Tu lahko sledite, kaj ste prebrali."
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ni zgodovine za prikaz"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Ta članek še ni napisan v nobenem drugem jeziku"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Drugi jeziki niso na voljo"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Ustvarite lahko sezname krajev, ki jih želite obiskati, priljubljenih tem in še marsičesa drugega"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizirajte shranjene članke z bralnimi seznami"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Shranite strani v ta seznam, da se prikažejo tukaj"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "V tem seznamu ni shranjena nobena stran"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Shranite strani, da si jih ogledate pozneje, tudi brez povezave"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Nimate še shranjenih strani"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ni zadetkov"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Za tega uporabnika še ni bilo objavljeno nobeno sporočilo"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prosimo, poskusite znova pozneje"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Prišlo je do neznane napake"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Še en naključni članek"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Ker ste prebrali"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Dodatni povezani članki"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Nadaljuj branje"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Nazaj na vir Raziskuj"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Raziščite članke blizu vaše trenutne lokacije"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Izbrani članek"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Iz vikipedije v jeziku \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Iz Wikipedije"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Prilagodi"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Jezikovne nastavitve vira Raziskovanje"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Dodatne jezike lahko dodate na strani z nastavitvami »Moji jeziki«."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kartica skrita"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Hitra povezava nazaj na branje odprtega članka"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Vir Raziskuj po meri"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Prilagodi vir Raziskuj"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Skritje vrste kartice bo preprečilo pojavljanje te kartice v viru Raziskovanje."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Zavihek Razišči"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Izbrani članek dneva v Wikipediji"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Izključeno"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Vključeno povsod"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Vključeno"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "V \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Vse kartice \\$1 skrite"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Ta kartica ni vezana na jezik. Če jo izklopite, jo boste odstranili iz vašega vira Rsziskuj."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Kartice, ki niso specifične za jezik"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ni specifično za jezik"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globalne kartice"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Skrij kartico"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Skrij vse kartice »\\$1«"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Članki o tekočih dogodkih"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Če skrijete vse kartice vira Raziskuj v vseh svojih jezikih, bo zavihek Raziskuj izklopljen."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Zgodovinski dogodki na današnji dan"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Članki Wikipedije blizu vas"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Izbrana slika dneva iz Zbirke"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Prikazuje naključne članke za branje"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Predlogi na podlagi zgodovine branja"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Prikaži bralno kartico Nadaljuj"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Če boste izklopili kartico Izbrani članek, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Prikaži kartico Izbrani članek"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Če boste izklopili kartico V novicah, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Prikaži kartico V novicah"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Če boste izklopili kartico Na današnji dan, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Prikaži kartico Na današnji dan"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Prikaži kartico Slika dneva"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Če boste izklopili kartico Kraji, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Prikaži kartico Kraji"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Če boste izklopili kartico Naključno, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Prikaži kartico Naključno"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Prikaži kartico Ker ste prebrali"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Če boste izklopili kartico Najbolj brano, bo ta kartica izklopljena v vseh razpoložljivih jezikih."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Prikaži kartico Najbolj brano"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Predlogi za dodajanje vsebine v Wikipedijo"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Pokaži kartico s predlaganimi popravki"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Danes najbolj brani članki"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Izklopi vir Raziskuj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Skritje vseh kartic vira Raziskovanje bo izklopilo zavihek Raziskovanje in ga nadomestilo z zavihkom Nastavitve"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Izklopim vir Raziskuj?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Izklopi Raziskuj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Zavihek Raziskuj lahko znova vklopite v nastavitvah vira Raziskuj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Želite izklopiti zavihek Raziskuj?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Izklop zavihka Razišči bo zavihek Razišči zamenjal z zavihkom Nastavitve."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "S prikazom kartic vira Raziskovanje boste vklopili zavihek Raziskovanje"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Vklopi Raziskovanje"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "To bo zamenjalo zavihek Nastavitve z zavihkom Razišči. Do nastavitev lahko dostopate z vrha zavihka Razišči tako, da tapnete ikono zobnika."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Vklopim zavihek Raziskovanje?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Skrij kartico"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Glavna stran projektov Wikimedie"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Danes v Wikipediji"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Vsi najbolj brani članki"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Najbolj brano"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Najbolj brano dne \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "V vikipediji v jeziku \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "V Wikipediji"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Bližnji kraji"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Kraji"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Iz vikipedije v jeziku \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Iz Wikipedije"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Vaša lokacija"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Vaša lokacija iz vikipedije v jeziku \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Slika dneva"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Iz Wikimedijine zbirke"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Naključni članek"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Iz vikipedije v jeziku \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Iz Wikipedije"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Naključno"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Dodaj"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Dodajte predlagane slike v članke Wikipedije, da izboljšate njihovo razumljivost."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Dodaj sliko"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Skupna raba vaše knjižnice aplikacij vključuje podatke o vaših bralnih seznamih in zgodovini, nastavitvah in vsebini vira Raziskuj. To podatkovno datoteko delite samo z zaupanja vrednim prejemnikom za uporabo v tehnične diagnostične namene."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Želite deliti knjižnico aplikacij?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Med izvozom vaših podatkov je prišlo do napake. Prosimo, poskusite znova pozneje."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "V napravi nimate dovolj prostora za izvoz vaših uporabniških podatkov. Prosimo, poskusite znova pozneje."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Izvoz uporabniških podatkov"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Za ta datum izbrani članek še ni na voljo"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Odkrijte najboljše članke v Wikipediji, ki jih vsak dan izbira naša skupnost."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Iz vikipedije v jeziku \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Iz Wikipedije"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Vaš osnovni jezik Wikipedije ne podpira izbranega članka. Svojo osnovno Wikipedijo lahko posodobite v meniju nastavitev aplikacije."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Izbrani članek"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Nekaj je šlo narobe. Prosimo, poskusite znova pozneje."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Aplikacija je prejela nepričakovan odgovor strežnika. Prosimo, poskusite znova pozneje."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Neveljavna CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Gesli se ne ujemata"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Neveljavna koda"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Uporabniško ime ni na voljo"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Varnostna koda"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Besedilo CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Vnesite besedilo, ki ga vidite zgoraj"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "zgled@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-pošta"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-pošta (izbirno)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "znova vnesite novo geslo"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Potrditev gesla"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "vnesite novo geslo"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Novo geslo"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "znova vnesite geslo"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Potrditev gesla"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "vnesite geslo"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Geslo"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Koda za preverjanje"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "vnesite uporabniško ime"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Uporabniško ime"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Vse"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Počisti iskanje"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Naslednji najdeni zadetek"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Prejšnji najdeni zadetek"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Poišči in zamenjaj"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Zapri iskanje in zamenjavo"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Poišči"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Ponastavi"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Poslano je bilo e-poštno sporočilo z navodili za ponastavitev gesla"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Izpolnite eno od spodnjih polj, da po e-pošti prejmete navodila za ponastavitev gesla"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Ponastavitev gesla"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Ali"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednje različice jezika gan kot osnovnega ali sekundarnega jezika v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\n贛語 原文 Gan (gan)\n赣语简体 Gan, poenostavljeno (gan-hans)\n贛語 繁體 Gan, tradicionalno (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Posodobitve podpore za različice jezika gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Ali res želite izbrisati vse svoje nedavne predmete?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Da, izbriši vse"
+    },
+    {
+      "name": "history_title",
+      "value": "Zgodovina"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedija, nazaj na Razišči"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedija, nazaj na Shranjeno"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Več kot \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Več krajev blizu vaše lokacije"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Več v bližini kraja \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Več aktualnih dogodkov"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Shranjene članke si lahko zdaj urejate v bralne sezname in jih sinhronizirate med napravami. Za shranjevanje bralnih seznamov v uporabniške nastavitve se prijavite."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Urejanje nastavitev"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Za udobnejšo izkušnjo branja v orodni vrstici članka ali v uporabniških nastavitvah prilagodite svoje nastavitve branja, vključno z velikostjo besedila in temo."
+    },
+    {
+      "name": "home_title",
+      "value": "Raziskovanje"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedija, pomaknite se na vrh Razišči"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Bližnji članki"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Naključni članek"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Išči v Wikipediji"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Neznan avtor."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Želite dodati to sliko?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Poskusi se vrniti pozneje."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Trenutno nimate več predlaganih slik."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Odločite se, ali naj se predlagana slika doda v članek v Wikipediji."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Ogled predloga"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Predlogi so strojno ustvarjeni in po svoji presoji se boste odločili, ali jih boste sprejeli ali zavrnili."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Sprejmite ali zavrnite sliko"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Slike izvirajo iz Wikimedijine zbirke (Wikimedia Commons), zbirke prosto licenciranih slik, ki jih uporablja Wikipedija."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Licencirane slike"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Več o predlaganih urejanjih"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Dodajanje slike v članek"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Vaši odgovori izboljšujejo prihodnje predloge."
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Dodaj sliko"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Ogled članka"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Moj bralni seznam"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Izpolni anketo"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "»Deli bralne sezname« je preizkusna možnoste, zato vas prosimo za vaše mnenje, da jo izboljšamo ali odstranimo."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Nam lahko pomagate izboljšati možnost »Deli bralne sezname«?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Uvoz skupnega bralnega seznama"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Iz vikipedije v \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Iz Wikipedije"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "V novicah"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Vstavi"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Vstavi povezavo"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Besedilni opis za bralce, ki ne morejo videti slike"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Opišite to sliko"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Nadomestno besedilo"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Kako je ta slika povezana s člankom?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Oznaka, ki je prikazana poleg predmeta za vse bralce"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Napis"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Usredinjeno"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Levo"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Brez"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Desno"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Položaj slike"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Več informacij"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Izberite sliko"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Po meri"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Privzeto"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": " točk"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Velikost slike"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Osnovno"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Okvir"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Brez okvirja"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Sličica"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Vrsta slike"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Nastavitve predstavnosti"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Vstavi predstavnost"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Aplikacija Wikipedia zdaj podpira naslednji različici inuktituta kot osnovni ali sekundarno jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ – inuktitut, zlogovno (ike-cans)\nInuktitut ilisautik – inuktitut, latinica (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Posodobitve podpore za inuktitutske različice"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednje različice kazaščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nҚазақша – kazaščina (kk)\nҚазақша Кирил – kazaščina, cirilica (kk-cyrl)\nqazaqşa latinica — kazaščina, latinica (kk-latn)\nتوتە قازاقشا – kazaščina, arabska pisava (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Posodobitve podpore za kazaško različico"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednji različici kurdščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nKurdî Latînî – kurdščina, latinica (ku-latn)\nكوردی – kurdščina, arabska pisava (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Posodobitve podpore za kurdsko različico"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Jeziki"
+    },
+    {
+      "name": "languages_title",
+      "value": "Spremeni jezik"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Jeziki Wikipedije"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Več o tem"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Nadaljujte brez prijave"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Prijavite se v svoj račun"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Pri avtentikaciji vašega računa je prišlo do težave. Če želite sinhronizirati svoje bralne sezname in urejati pod svojim uporabniškim imenom, se znova prijavite."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Odjavljeni ste"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ste pozabili geslo?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Pridružite se Wikipediji."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Še nimate uporabniškega računa? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Prijavite se v svoj račun"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "O aplikaciji"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Prijava"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Odjava"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ali se res želite odjaviti?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Če se boste odjavili, boste izbrisali lokalno shranjene podatke o računu (obvestila in sporočila), vendar bodo podatki o vašem računu še vedno na voljo na spletu in bodo znova preneseni, če se boste znova prijavili."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Prijavljeni ste kot \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Zasebnost in pogoji"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Bližnje"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Pravilnik o zasebnosti"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Ocenite aplikacijo"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Pogoji uporabe"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Več"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Pogosta vprašanja o Wikipedija Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Iščite v Wikipediji v več kot 300 jezikih"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Dodaj jezike"
+    },
+    {
+      "name": "more_menu",
+      "value": "Več"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Premakni {{PLURAL:\\$1|\\$1 članek|\\$1 članka|\\$1 članke|\\$1 člankov}} na bralni seznam"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Predogled"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 čevljev"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milj"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Prijavili ste se z začasnim geslom. Za dokončanje prijave tu nastavite novo geslo."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Nastavite svoje geslo"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "V svoji napravi nastavite e-poštni račun in poskusite znova."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Ni internetne povezave"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ne zdaj"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Iz \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Opozorilo"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Filter obvestil – ima uporabljene filtre"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Filter projektov – ima uporabljene filtre"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Obvestila z značko neprebrano"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "Obvestilo \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Spremeni geslo"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Iskanje obvestil ..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "V aplikaciji"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Na spletu"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Podrobnost obvestila"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Iskanje obvestil ..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Nimate novih sporočil"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Trenutno niste naročeni na nobena obvestila Wikipedije"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Spremenite \\$1, če želite videti več sporočil"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Če želite videti več sporočil, dodajte projekte"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter|\\$1 filtra|\\$1 filtri|\\$1 filtrov}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Vklopi potisna obvestila"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "V aplikaciji je zdaj na voljo urejanje obvestil za vse projekte Wikimedie. Prijavite se za potisna obvestila, da boste na tekočem s svojimi sporočili v Wikipediji, ko ste na poti."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Filter obvestil"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Vsa"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Prebrana"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Neprebrana"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Stanje branja"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtri"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Spremenite vrste obvestil, da jih filtrirate v/iz vaš/ega predal/a za obvestila. Vrste, ki so izklopljene, ne bodo vidne, vendar bodo njihova vsebina in morebitna nova obvestila na voljo, če bo stikalo znova vklopljeno."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Vse vrste"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Vrste obvestil"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Članek"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Pogovorna stran za \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Prim"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Uporabniška stran: \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Predmet v Wikipodatkih"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Vaša pogovorna stran"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Opozorilo od \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Končano"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projekti"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Tu bodo navedeni samo projekti, za katere ste ustvarili račun"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Projekti Wikimedie"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Vikipedije"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 v jeziku \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Obvestila o prijavi"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Označi"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Označi vse kot prebrano"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Ste prepričani, da želite označiti {{PLURAL:\\$1|eno sporočilo|obe sporočili|vsa \\$1 sporočila|vseh \\$1 sporočil}} vaših obvestil kot {{PLURAL:\\$1|prebrano|prebrani|prebrana|prebranih}}? {{PLURAL:\\$1Vaše obvestilo bo označeno kot prebrano|Vaši obvestili bosta označeni kot prebrani|Vaša obvestila bodo označena kot prebrana}} v vseh vaših napravah."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Ste prepričani, da želite označiti vsa svoja obvestila kot prebrana? Vaša obvestila bodo označena kot prebrana v vseh vaših napravah."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Označi kot prebrano"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Označi kot neprebrano"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Več"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Nastavitve obvestil"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|Eno sporočilo|Dve sporočili|\\$1 sporočila|\\$1 sporočil}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Nadaljuj"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Filtrirajte obvestila po stanju prebranosti in vrsti, da preprosto zožite seznam prejetih."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtri"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Več o obvestilih"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Obvestila vas seznanjajo z dejavnostjo, povezano z vašimi urejanji in računom."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Obvestila in opomniki"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Oglejte si vsa svoja neprebrana sporočila iz vikipedij in projektov Wikimedie v različnih jezikih na enem mestu."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Projektni nabiralniki"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Prijavite se za potisna obvestila, da boste na tekočem s svojimi sporočili o urejanju in opomniki tudi, ko boste na poti."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Potisna obvestila"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Obvestila o urejanju"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Želite vklopiti potisna obvestila?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Vklopi potisna obvestila"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Ne, hvala"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedija je sodelovalni projekt in vklop potisnih obvestil lahko olajša obveščanje o sporočilih, opomnikih in zahvalah sourejevalcev."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Filter projektov"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Vse"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Vsa obvestila"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 v \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtrirano po"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=V 1 projektu|V \\$1 projektih}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 projekt|\\$1 projekta|\\$1 projekti|\\$1 projektov}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 vrsta|\\$1 vrsti|\\$1 vrste|\\$1 vrst}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Prebrano"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 in \\$2 v \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Neprebrano"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Mejnik urejanja"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Vaše urejanje je bilo razveljavljeno"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nova e-pošta"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Več neuspešnih poskusov prijave"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Neuspešen poskus prijave"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Prijava iz neznane naprave"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Omemba na pogovorni strani članka"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Omemba v povzetku urejanja"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Neuspešna omemba"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Uspešna omemba"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Omemba na pogovorni strani"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Sporočilo na vaši pogovorni strani"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Povezava na stran"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Stran je bila pregledana"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Hvala"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Mejnik prevajanja"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Sprememba uporabniških pravic"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Pozdravljeni!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Povezava z Wikipodatki vzpostavljena"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Označi kot prebrano"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Označi kot neprebrano"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Več"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Obvestila"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Označi izbrana obvestila"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Omembe"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Obvestilo"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Pozdravno sporočilo"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Povezava z Wikipodatki"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Mejnik urejanja"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Urejanje vrnjeno"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Omemba v povzetku urejanja"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-pismo drugega uporabnika"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Poskusi prijave"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Neuspešen poskus prijave v vaš račun"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Uspešna prijava"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Drugo"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Povezava na stran"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Pregled strani"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Pošiljanje omembe ni uspelo"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Pošiljanje omembe je uspelo"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Omemba na pogovorni strani"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Zahvala"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Mejnik prevajanja"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Sprememba uporabniških pravic"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Sporočilo na pogovorni strani"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Pozdrav"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Nova dejavnost v Wikipediji"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 novo sporočilo|\\$1 novi sporočili|\\$1 nova sporočila|\\$1 novih sporočil}} na \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Novo sporočilo|Nova sporočila}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 G"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 k"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "od \\$1 – \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 zgodovinski dogodek|\\$1 zgodovinska dogodka|\\$1 zgodovinski dogodki|\\$1 zgodovinskih dogodkov}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Več zgodovinskih dogodkov na današnji dan"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "Še {{PLURAL:\\$1|\\$1 zgodovinski dogodek|\\$1 zgodovinska dogodka|\\$1 zgodovinski dogodki|\\$1 zgodovinskih dogodkov}} na današnji dan"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Vaš osnovni jezik Wikipedije ne podpira rubrike Na današnji dan. Svojo osnovno Wikipedijo lahko spremenite v meniju Nastavitve aplikacije."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Na voljo ni nobenih podatkov"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 iz Wikipedije v jeziku \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Na današnji dan"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Da se vrnete na zavihek, s katerim ste začeli, tapnite »W«"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "urejanja botov"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Tapnite, da izberete dve redakciji za primerjavo"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Primerjaj"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Grafikon urejanj skozi čas"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "manjša urejanja"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Avtor: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentar \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Zgodovina redakcij"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Manjše urejanje"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|Dodan \\$1 zlog|Dodana \\$1 zloga|Dodani \\$1 zlogi|Dodanih \\$1 zlogov}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|Odstranjen \\$1 zlog|Odstranjena \\$1 zloga|Odstranjeni \\$1 zlogi|Odstranjenih \\$1 zlogov}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Datum redakcije: \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Izberete lahko samo dve redakciji"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|1 urejanje|\\$1 urejanji|\\$1 urejanja |\\$1 urejanj}} od \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Težave s stranjo"
+    },
+    {
+      "name": "page_location",
+      "value": "Prikaži na zemljevidu"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nimate pravic za urejanje te strani."
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ta stran je zaščitena"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Podobne strani"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Primerjava redakcij pomaga prikazati, kako se je članek spreminjal skozi čas. Primerjava dveh redakcij članka bo prikazala razliko med tema redakcijama tako, da bo označena katera koli vsebina, ki je bila spremenjena."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Primerjava redakcij"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Urejanje brez prijave"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Niste prijavljeni"
+    },
+    {
+      "name": "pictured",
+      "value": "na sliki"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Počisti shranjena iskanja"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 člankov"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Osredini na mojo lokacijo"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Prikaži kot seznam"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Prikaži na zemljevidu"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Prikaži več člankov"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Raziskujte mesta, države, celine, naravne znamenitosti, zgodovinske dogodke, stavbe in drugo."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Poiščite članke Wikipedije z geografskimi lokacijami"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Omogoči lokacijo"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Dostop do vaše lokacije je na voljo samo, ko je aplikacija ali ena od njenih možnosti vidna na vašem zaslonu."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Raziskujte članke v vaši bližini tako, da omogočite dostop do svoje lokacije"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtriraj članke"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filter"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nimate shranjenih krajev"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Shranjeni članki"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Najbolj brano"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 članek|\\$1 članka|\\$1 članki|\\$1 člankov}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Najbolj brani članki"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Lokacija omogočena"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Podatkov o lokaciji nima noben od vaših shranjenih člankov"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1, ki ustreza »\\$2«"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Iskanje po krajih"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Ali ste mislili \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Nedavno iskano"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Vsi shranjeni članki"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Predlagana iskanja"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Zadetki na tem območju"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Vsi najboljši članki"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Bližnje"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Vaša trenutna lokacija"
+    },
+    {
+      "name": "places_title",
+      "value": "Kraji"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "neznana oddaljenost"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Slika dneva za \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Pridobivanje slike dneva za \\$1 ni uspelo"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "Dva bika tečeta, medtem ko ju džokej drži v pacu jawi (iz Minangkabau, »tekma bikov«), tradicionalna tekma bikov v Tanah Datar, Zahodna Sumatra, Indonezija. 2015, finale-45."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Uživajte v čudoviti dnevni fotografiji, ki jo je izbrala naša skupnost."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Slika dneva"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Omogočite Fundaciji Wikimedia zbiranje podatkov o tem, kako uporabljate aplikacijo, da bo ta postala še boljša."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Pravilnik o zasebnosti"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "Pomakne se na pogled profila."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profil"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "Profil z neprebrano značko"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikiknjige"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikipodatki"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedijina zbirka"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinovice"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikinavedek"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikivir"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikivrste"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiverza"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikipotovanje"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikislovar"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Želite dodati ta članek na bralni seznam?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Dodam »\\$1« na bralni seznam?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Da, dodaj jih na moje bralne sezname"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "V vaši aplikaciji Wikipedia so shranjeni članki. Ali jih želite obdržati in združiti z bralnimi seznami, sinhroniziranimi z vašim računom?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Najdeni shranjeni članki"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Ta vnos ni sinhroniziran, ker ste dosegli omejitev števila vnosov za ta seznam."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Pri sinhroniziranju vaših bralnih seznamov je prišlo do nepričakovane napake."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Ta seznam ni sinhroniziran, ker ste dosegli omejitev števila sinhroniziranih seznamov."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Ustvari seznam za branje"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Opis"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Ime seznama za branje"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Ustvari nov seznam"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Seznam za branje izbrisan"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ne, izbriši članke iz naprave"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Za nadaljnje sinhroniziranje vseh člankov na tem seznamu zmanjšajte število člankov na tem seznamu na \\$1."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Presegli ste omejitev {{PLURAL:\\$1|\\$1 članek|\\$1 članka|\\$1 članke|\\$1 člankov}} na račun."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1| Članka|Člankov}} ni mogoče dodati na ta seznam. Za \\$3 ste dosegli omejitev \\$2 člankov na bralni seznam."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "To ime bralnega seznama je že v uporabi"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Pri posodabljanju vaših bralnih seznamov je prišlo do nepričakovane napake."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Da, ohrani članke v napravi"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Z vašim računom v Wikipediji so sinhronizirani nekateri članki. Ali jih želite obdržati v tej napravi po odjavi?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Ali želite shranjene članke ohraniti v napravi?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Razvrsti članke"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Število nerazvrščenih člankov je omejeno na 5000. Razvrstite svoje obstoječe članke v sezname, da nadaljujete sinhroniziranje nerazvrščenih člankov."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Dosežena omejitev za nerazvrščene članke"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Ta bralni seznam in članki, shranjeni na njem, ne bodo sinhronizirani. Zmanjšajte število seznamov na \\$1, da nadaljujete sinhroniziranje tega seznama."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Presegli ste omejitev {{PLURAL:\\$1|\\$1 članka|\\$1 člankov}} na račun."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Dosegli ste omejitev \\$1 bralnih seznamov na račun"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Za sinhroniziranje shranjenih člankov se prijavite"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Prijava ali registracija"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Za sinhroniziranje shranjenih člankov se prijavite"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Za sinhronizacijo bralnih seznamov med napravami in shranjevanje v vaših uporabniških nastavitvah se prijavite ali si ustvarite račun."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Želite sinhronizirati shranjene članke?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[uporabniško ustvarjeno]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "izbirni kratki opis"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "naslov bralnega seznama"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Sinhroniziranje bralnih seznamov je bilo za vaš račun v Wikipediji v drugi napravi onemogočeno. Sinhroniziranje lahko znova vklopite tako, da posodobite nastavitve."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinhronizacija je onemogočena"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Omogočite sinhronizacijo"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Vaše shranjene članke in bralne sezname lahko zdaj shranite v svoj račun v Wikipediji in jih sinhronizirate med aplikacijami Wikipedije."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Vklopim sinhroniziranje bralnih seznamov?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Sinhroniziranje bralnih seznamov je za ta račun omogočeno. Če želite sinhroniziranje za ta račun ustaviti, ga lahko izklopite tako, da posodobite nastavitve."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "V tem računu je vklopljeno sinhroniziranje"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Pri dodajanju vnosa na bralni seznam je prišlo do nepričakovane napake. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Pri ustvarjanju bralnega seznama je prišlo do nepričakovane napake. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Pri brisanju bralnega seznama je prišlo do nepričakovane napake. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Pri odstranjevanju vnosa z bralnega seznama je prišlo do nepričakovane napake. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Pri posodabljanju vašega bralnega seznama je prišlo do nepričakovane napake. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Bralni seznam z imenom »\\$1« ni bil najden. Preverite, ali imate pravo ime."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Članek dodan k »\\$1«"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Članka ni mogoče sinhronizirati"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ni sinhronizirano"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Omejitev člankov je presežena. Članka ni mogoče sinhronizirati."
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Omejitev seznama je presežena. Članka ni mogoče sinhronizirati."
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Članek je v čakalni vrsti za prenos"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Omejitev naprave je presežena. Članka ni mogoče sinhronizirati."
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Sprostite nekaj prostora v napravi in poskusite znova."
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Nekateri članki niso sinhronizirani. Omejitev je presežena."
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Vaš seznam »\\$1« je bil preimenovan v »\\$2«"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|En bralni seznam|Dva bralna seznama|\\$1 bralni seznami|\\$1 bralnih seznamov}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Privzeti seznam za vaše shranjene članke"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Shranjeno"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Tega dejanja ni mogoče razveljaviti. Vsi članki, ki so shranjeni samo v {{PLURAL:\\$1|tem seznamu|teh seznamih}}, bodo odshranjeni."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Izbrišem {{PLURAL:\\$1|seznam|seznama|sezname}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 članek|\\$1 članka|\\$1 članki|\\$1 člankov}} in {{PLURAL:\\$2|\\$2 bralni seznam|\\$2 bralna seznama|\\$2 bralni seznami|\\$2 bralnih seznamov}} je bilo sinhroniziranih iz vašega računa."
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Seznam ni sinhroniziran, omejitev je presežena"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Razvrstitev shranjenih člankov"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Bralni seznami so omejeni na \\$1 člankov. Obstoječi seznami, ki presegajo to dolžino, so bili razdeljeni v več seznamov."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sinhroniziranje se bo nadaljevalo, ko bo na voljo internetna povezava"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Črna tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Drsnik za svetlost"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Temna tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Svetleča tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepija tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Označevanje skladnje"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Drsnik za velikost besedila"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Označevanje skladnje"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Skoči na razdelek s sklici"
+    },
+    {
+      "name": "reference_title",
+      "value": "Sklic \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Danes|1=Včeraj|Pred \\$1 dnevi}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Pred kratkim|Pred \\$1 uro|Pred \\$1 urama|Pred \\$1 urami}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "Pred \\$1 h"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Pred kratkim|Pred \\$1 uro|Pred \\$1 urama|Pred \\$1 urami}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Pravkar|Pred \\$1 minuto|Pred \\$1 minutama|Pred \\$1 minutami}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 min"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Pravkar|Pred \\$1 minuto|Pred \\$1 minutama|Pred \\$1 minutami}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "Pred \\$1 min"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Ta mesec|1=Prejšnji mesec|Pred \\$1 mesecema|Pred \\$1 meseci}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "Pred \\$1 s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Letos|1=Lani|Pred \\$1 letoma|Pred \\$1 leti}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Vrnitev"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Nazaj na članek"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Vrnjeno urejanje"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Vsi članki"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Tega seznama ni mogoče izbrisati"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Prenos slik za to shranjeno stran ni uspel."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Prenos članka v teku ..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Bralni seznami"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Iskanje shranjenih člankov"
+    },
+    {
+      "name": "saved_title",
+      "value": "Shranjeno"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Odshranjevanje {{PLURAL:\\$1|tega članka ga bo odstranilo|teh člankov ju bo odstranilo|teh člankov jih bo odstranilo}} z vseh povezanih bralnih seznamov"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Odshranim \\$1 {{PLURAL:\\$1|članek|članka|članke|člankov}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Preišči Wikipedijo"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Počisti"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Preiščite Wikipedijo"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Želite izbrisati vsa nedavna iskanja?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tega dejanja ni mogoče razveljaviti!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "izbriši vse"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Ni zadnjih iskanj"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Nedavno iskano"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Preusmeritev iz: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Iskanje"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Aplikacija Wikipedia zdaj podpira naslednji različici srbščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nсрпски ћирилица – srbščina, cirilica (sr-ec)\nsrpski latinica – srbščina, latinica (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Posodobitve podpore za srbske različice"
+    },
+    {
+      "name": "settings_account",
+      "value": "Račun"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Nastavitve za branje"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Počisti predpomnjene podatke"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Počiščenje predpomnjenih podatkov bo sprostilo približno \\$1 prostora. Vaše shranjene strani ne bodo izbrisane."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Počistim predpomnjene podatke?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Prekliči"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Počisti predpomnenje"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Donirajte"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Pomoč in odziv"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Pri iskanju prikaži jezike"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Kateri jeziki so prikazani v viru Raziskuj, lahko upravljate tako, da prilagodite nastavitve vira Raziskuj."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Moji jeziki"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Potisna obvestila"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Med preverjanjem naročil na obvestila v zvezi z vašim računom je prišlo do napake."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Ni mogoče preveriti naročil na obvestila Echo"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Poskusite znova"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Bodite opozorjeni na dejavnosti, povezane z vašim računom, kot so sporočila sodelujočih, opomniki in obvestila. Vse se zagotavlja ob upoštevanju zasebnosti in s sprotnimi podatki."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Osnovni"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Prvi jezik na tem seznamu se uporablja kot osnovni jezik aplikacije."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Nastavite aplikacijo tako, da se odpre na zavihku Iskanje namesto na zavihku Raziskuj"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Odpri aplikacijo na zavihku Iskanje"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Dovolite Wikimedii, da shrani vaše shranjene članke in bralne sezname v vaše uporabniške nastavitve, ko se prijavite in sinhronizirate."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sinhroniziranje shranjenih člankov in seznamov"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Vaši bralni seznami se bodo sinhronizirali v ozadju"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Zahtevajte posodobitev vaših sinhroniziranih člankov in bralnih seznamov."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Posodobi sinhronizirane bralne sezname"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "V pogledu bralnih seznamov prikažite shranjeni (npr. privzeti) bralni seznam kot ločen seznam. Ta seznam se prikaže v napravah Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Prikaži bralni seznam Shranjeno"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Shranjevanje in sinhroniziranje člankov"
+    },
+    {
+      "name": "settings_title",
+      "value": "Nastavitve"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Ustvarjeno z aplikacijo Wikipedija"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "»\\$1« v Wikipediji:"
+    },
+    {
+      "name": "share_building",
+      "value": "Ustvarjanje kartice Deli dejstvo"
+    },
+    {
+      "name": "share_default_format",
+      "value": "»\\$1« iz »\\$2«: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "»\\$1«\n\niz »\\$2«\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Pridobi navodila za pot"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Deli ..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "»\\$1«, \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "prek Wikipedije"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Odpri v Zemljevidih"
+    },
+    {
+      "name": "share_social_format",
+      "value": "»\\$1« iz Wikipedije: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "»\\$1« iz Wikipedije: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Pred kratkim dodano"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Naslov"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Predlagana urejanja"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Kazalo vsebine"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zapri"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Zapri kazalo"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Vsebina"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Skrij kazalo"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Podnaslov \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Aplikacija Wikipedia zdaj podpira naslednje različice tašelhita kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v želenih različicah:\n\nⵜⴰⵛⵍⵃⵉⵜ – tašelhit, tifinag (shi-tfng)\nTaclḥit – tašelhit, latinica (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Posodobitve podpore za različice tašelhita"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Aplikacija Wikipedia zdaj podpira naslednji različici tadžišcine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\nсрпски ћирилица – tadžiščina, cirilica (sr-ec)\nsrpski latinica – tadžiščina, latinica (sr-el)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Posodobitve podpore za tadžiško različico"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktiven uporabnik|\\$1 aktivna uporabnika|\\$1 aktivni uporabniki|\\$1 aktivnih uporabnikov}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Dodaj temo"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Arhivi"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "O pogovornih straneh"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Zamenjaj jezik"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Strni nit"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Prebrano"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Neprebrano"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Aplikacija je prejela nepričakovan odgovor strežnika. Prosimo, poskusite pozneje znova."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Nepričakovana napaka"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Nekaj je šlo narobe."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Pogovorne strani ni mogoče naložiti"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Razširi nit"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Poišči na strani"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Odpri vse niti"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Upoštevajte, da smo vsi tukaj ljudje"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Bodite prijazni"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Vaš pogovor je bil uspešno objavljen"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Vaš pogovor je bil uspešno objavljen"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Dvakrat tapnite, da se vrnete na odgovor"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Več možnosti pogovorne strani"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Podatki o strani"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Trajna povezava"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Preverite internetno povezavo."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Vašega komentarja ni bilo mogoče objaviti."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Nove teme ni bilo mogoče objaviti."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Beri na spletu"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Kaj se povezuje sem"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 odgovor|\\$1 odgovora|\\$1 odgovori|\\$1 odgovorov}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Odgovori"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Odgovori uporabniku_ci \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Globina odgovora: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Odgovori uporabniku_ci \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Zgodovina redakcij"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Zapri pogled odgovora"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Deli pogovorno stran"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Naroči"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Obveščeni boste o novih komentarjih pri tej temi."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Naročili ste se!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Naročanje na temo ni uspelo, poskusite znova."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Pogovor o članku"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Uporabniški pogovor"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Odnaroči"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "O novih komentarjih pri tej temi ne boste več prejemali obvestil."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Odnaročeni ste."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Odnaročilo teme ni uspelo, poskusite znova."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "O uporabniških pogovornih straneh"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Prispevki"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Ni najdenih arhivskih strani."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Arhivi"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Preberi več"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Vaš komentar je dodan"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Nadaljujte urejanje"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Uredi vir"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Pogovorne strani so namenjene pogovorom o tem, kako čim bolj izboljšati vsebino v Wikipediji. **Začnite z dodajanjem nove pogovorne teme**, da se povežete in sodelujete s skupnostjo Wikipedistov."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Pogovorne strani so namenjene pogovorom o tem, kako čim bolj izboljšati vsebino v Wikipediji. Začnite nov pogovor, da se povežete in začnete sodelovati z \\$1. Kar boste tukaj objavili, bodo drugi lahko videli."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Dodaj novo temo"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Začni pogovor"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Pogovor se začne tukaj"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Začnite pogovor z \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Ali res želite zavreči ta odgovor?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Vaša tema je dodana"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Opis"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Opis teme"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Zavrzi odgovor"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Ali res želite zavreči to novo temo?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Tema"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Naslov teme"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Pogovorne strani so namenjene pogovorom o tem, kako karseda izboljšati vsebino Wikipedije. Dodajte novo temo za razpravo, da se povežete in sodelujete s skupnostjo Wikipedistov.\n\nBodite prijazni, vsi tu smo ljudje."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Pogovorne strani so kraj, kjer lahko \\$1ljudje razpravljajo o tem, kako čim bolj izboljšati vsebino v Wikipediji. **Začnite z dodajanjem nove pogovorne teme**, da se povežete in sodelujete s skupnostjo Wikipedistov."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Prosimo, bodite prijazni, tu smo vsi ljudje."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Pogovorne strani"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Uporabniške skupine"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Dnevniki"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Pogovor"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Pogoji uporabe"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Črna"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Temna"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Privzeto"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Usklajeno s sistemsko temo"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Svetla"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepija"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Izvedite, kaj svet danes bere v Wikipediji."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 bralcev"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Najbolj brano"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Nadaljuj prijavo"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Vnesite dvofaktorsko kodo za preverjanje"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Prijavite se v svoj račun"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Uporabite eno od svojih varnostnih kod"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Uporabite kodo za preverjanje"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Pogovorne strani ni mogoče naložiti"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Neznano"
+    },
+    {
+      "name": "unwatch",
+      "value": "Odopazuj"
+    },
+    {
+      "name": "user_title",
+      "value": "Uporabnik"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Aplikacija Wikipedija zdaj podpira naslednji različici uzbeščine kot osnovni ali sekundarni jezik v aplikaciji, kar omogoča lažje branje, iskanje in urejanje v vaših želenih različicah:\n\noʻzbekcha lotin – uzbeščina, latinica (uz-latin)\nўзбекча кирилл – uzbeščina, cirilica (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Posodobitve podpore za uzbeške različice"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Nadaljuj"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Uporabniško ime in uporabniška stran"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Izbris je **skrajni ukrep** in ga **uporabite le, če želite za vedno prenehati z urejanjem** in tudi, da skrijete čim več svojih preteklih povezav.\n\nIzbris računa v Wikipediji se opravi tako, da spremenite ime svojega računa, da drugi ne morejo prepoznati vaših prispevkov. **Izbris ne zagotavlja popolne anonimnosti ali odstranitve prispevkov k projektom**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Opozorilo"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Ne, hvala"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Preglejte svoje nastavitve"
+    },
+    {
+      "name": "watch",
+      "value": "Opazuj"
+    },
+    {
+      "name": "watchlist",
+      "value": "Nadzorni seznam"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Dodano na vaš nadzorni seznam za 1 mesec."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Dodano na vaš nadzorni seznam za 1 teden."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Dodano na vaš nadzorni seznam za 1 leto."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Trajno dodano na vaš nadzorni seznam."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Dodano na vaš nadzorni seznam za 6 mesecev."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Dodano na vaš nadzorni seznam za 3 mesece."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Ogled nadzornega seznama"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 zlog|\\$1 zloga|\\$1 zlogi|\\$1 zlogov}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 mesec"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 teden"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 leto"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Trajno"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 mesecev"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 meseci"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Izberite čas spremljanja na nadzornem seznamu"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Pretek nadzornega seznama"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Pojdi na razl"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Povzetek urejanja"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Iskanje člankov"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Na nadzornem seznamu nimate predmetov"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "Spremljajte spremembe člankov, ki vas zanimajo. Za opazovanje sprememb tapnite prelivni meni in izberite »Opazuj«."
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "Tu so prikazani članki, ki ste jih dodali na nadzorni seznam"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "Po prvzetem strani ostanejo, vendar so na voljo možnosti za začasno opazovanje od enega tedna do enega leta."
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Določitev preteka"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filter"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Dejavnost nadzornega seznama"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Videne spremembe"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Nevidene spremembe"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Samodejni prispevki"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Človek (ni bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Zadnje redakcije"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Zadnja redakcija"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ni zadnja redakcija"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Pomembnost"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Manjša urejanja"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Nemanjša urejanja"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Vrsta spremembe"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Spremembe kategorij"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Dnevniška dejanja"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Ustvaritve strani"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Urejanja strani"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Urejanja v Wikipodatkih"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Registriranost in izkušnje uporabnikov"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Registrirani"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Neregistrirani"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Dodaj jezik ..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "Za ogled več predmetov na nadzornem seznamu spremenite [{{PLURAL:\\$1|\\$1 filter|\\$1 filtra|\\$1 filtre|\\$1 filtrov}}]"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Več o nadzornem seznamu"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Predstavitev vašega nadzornega seznama"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Odstranjeno z vašega nadzornega seznama"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Vaša zahvala je bila poslana \\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "Nadzorni seznam je orodje, s katerim lahko spremljate spremembe strani ali člankov, ki vas zanimajo."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Sledenje sprememb"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Do nadzornega seznama s stranimi, ki ste jih dodali, kot so urejanja ali razprave, lahko dostopate prek Nastavitve → Račun."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Ogled posodobitev"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Zahvala"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Uporabniški prispevki"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Uporabniška stran"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Uporabniška pogovorna stran"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "S tapnjenjem zvezdice ali dejanja »Opazuj« v orodni vrstici na dnu članka lahko to stran dodate na svoj nadzorni seznam."
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Opazovanje člankov"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Podatki in zasebnost"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Priporočeno branje in dnevni članki iz naše skupnosti"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Vir Raziskuj"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Potujte v preteklost in spoznajte, kaj se je v zgodovini zgodilo na današnji dan"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Na današnji dan"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Odkrijte znamenitosti v svoji bližini ali raziskujte kraje po vsem svetu"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Zavihek Kraji"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Začni"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Novi načini raziskovanja"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Razumem"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedijo v sodelovanju pišejo prostovoljci in obsega več kot 40 milijonov člankov v več kot 300 jezikih."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Več o Wikipediji"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "O Wikipediji"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedija je globalni projekt ustvarjanja prostih enciklopedij v vseh jezikih sveta. Sodeluje lahko skorajda vsak, ki ima dostop do interneta, in sicer s prispevanjem nepristranskih informacij in navajanjem virov."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Prosta enciklopedija"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Dodajte drug jezik"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Dodajte ali uredite želene jezike"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "V vaši napravi smo našli naslednje jezike:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Iščite v več kot 300 jezikih"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "Menimo, da vam za sodelovanje v gibanju prostega znanja ne bi smelo biti potrebno posredovati osebnih podatkov. Podatki o uporabi, zbrani za to aplikacijo, so anonimni."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Seznanite se podrobneje z našim pravilnikom o zasebnosti in pogoji uporabe"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Raziščite, kaj se je v zgodovini zgodilo na današnji dan."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Prosta spletna enciklopedija, ki jo lahko ureja vsakdo"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Na spletu je na voljo Wikipedija, prosta enciklopedija vikivsebin."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Pridobivanje predogleda vaših sprememb ..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ta povezava vodi na zunanje spletno mesto: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Zunanja povezava"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedija nima članka s točno takim imenom"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Ni najdenih notranjih povezav"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Ta povezava vodi na »\\$1«"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Predogled povezave"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Shrani spremembe"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Napaka pri preverjanju CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Potrebno je preverjanje s CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Ni mogoče ugotoviti rezultata nalaganja vikibesedila."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Objavljanje ..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Urejanja bodo pripisana IP-naslovu vaše naprave. Več zasebnosti boste imeli, če se boste \\$1prijavili\\$2."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Urejanja bodo pripisana naslovu IP-naslovu vaše naprave. Če boste izbrali \\$1, boste imeli več zasebnosti."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "Z objavo sprememb izražate strinjanje s \\$1Pogoji uporabe\\$2 ter svoj prispevek nepreklicno objavljate pod licencama \\$3CC BY-SA.0\\$4 in \\$5GDFL\\$6. Strinjate se, da kot navedba avtorja pod licenco Creative Commons zadostuje hiperpovezava ali URL."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Pogoji uporabe"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Doniraj"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Donirajte zdaj"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Ker ste prebrali"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Vsi najbolj brani članki"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Še en naključni članek"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Iz vikipedije v jeziku %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "V vikipediji v jeziku %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Iz Wikimedijine zbirke"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ni zgodovine za prikaz"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Skrij kartico"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Prilagodi vir Raziskuj"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kartica skrita"
+    },
+    {
+      "name": "editor_published",
+      "value": "Vaše urejanje je objavljeno."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Opis članka za %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Ali ste mislili %s?"
+    }
+  ]
+}

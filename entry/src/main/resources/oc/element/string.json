@@ -1,0 +1,664 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipèdia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licéncia del contengut"
+    },
+    {
+      "name": "about_contributors",
+      "value": "!Contributors"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Bibliotècas utilizadas"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Lista completa"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licéncia"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Fait per la \\$1 amb l’ajuda de volontaris tals coma vos"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Referencials"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Licéncia MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Mandar un comentari sus l’aplicacion"
+    },
+    {
+      "name": "about_title",
+      "value": "A prepaus"
+    },
+    {
+      "name": "about_translators",
+      "value": "Traductors"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Aquesta aplicacion es estada traduita per de traductors benevòls sus \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fondacion Wikimèdia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipèdia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Impossible de veire l’imatge ? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Obtencion d’un novèl CAPTCHA…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Demandar un compte."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Verificacion de seguretat CAPTCHA"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Connexion en cors…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Vos cal sasir un nom d'utilizaire, un senhal e una confirmacion de vòstre senhal per crear un compte."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Los senhals son pas identics."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Enregistrament en cors…"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Ajustar a la lista"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Abandonar la modificacion"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Trobar dins la pagina"
+    },
+    {
+      "name": "action_read",
+      "value": "Legir"
+    },
+    {
+      "name": "action_retry",
+      "value": "Tornar ensajar"
+    },
+    {
+      "name": "action_save",
+      "value": "Enregistrar"
+    },
+    {
+      "name": "action_share",
+      "value": "Partejar"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Pas enregistrat"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Ignorar"
+    },
+    {
+      "name": "article_delete",
+      "value": "Suprimir"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Trobar la lenga"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Causir una lenga"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Autras lengas"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Vòstras lengas"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Referéncia \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "Partejar"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Retorn"
+    },
+    {
+      "name": "button_next",
+      "value": "Seguent"
+    },
+    {
+      "name": "button_ok",
+      "value": "D’acòrdi"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publicar"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Senhalar una error"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Enregistrar per mai tard"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Enregistrat per mai tard"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Suprimir dels enregistraments"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Tampar"
+    },
+    {
+      "name": "compass_direction",
+      "value": "a \\$1 oras"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Cap d'articles pas legits recentament"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Correccion gramaticala"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Correccion de fautas"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Ligams aponduts"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Clicatz sul « + » blau per crear de listas de lecturas a prepaus de luòcs a visitar, de subjèctes favorits e de nombrosas autras tematicas"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Cap de resultat pas trobat"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Un autre article a l'azard"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Contunhar de legir"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Article de qualitat"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Uèi sus Wikipèdia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Totes los articles los mai legits"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Los mai legits"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Los mai legits al \\$1"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Endreits a proximitat"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Endreits"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Vòstre emplaçament"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Imatge del jorn"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Article a l'azard"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Article a l'azard"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Corrièr electronic"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Corrièr electronic (facultatiu)"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Senhal novèl"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Senhal"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Còdi de verificacion"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nom d'utilizaire"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Reïnicializar"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Reïnicializar lo senhal"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "O"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Òc, suprimir tot"
+    },
+    {
+      "name": "history_title",
+      "value": "Istoric"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipèdia, tornar a Explorar"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipèdia, tornar a Enregistrats"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mai coma \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Mai pròche d'ont sètz"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mai pròche de \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "Explorar"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipèdia, far desfilar cap amont per Explorar"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Articles vesins"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Article a l'azard"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Recercar dins Wikipèdia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Dins l'actualitat"
+    },
+    {
+      "name": "languages_title",
+      "value": "Cambiar de lenga"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Senhal doblidat ?"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "A prepaus de l’aplicacion"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Connexion"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Desconnexion"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Sètz segur que vos volètz desconnectar ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Connectat en tant que \\$1."
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Confidencialitat e condicions"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "A proximitat"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Politica de confidencialitat"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Notar l’aplicacion"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Condicions d'utilizacion"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mai"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "FAQ de Wikipèdia Zèro"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Trasladar {{PLURAL:\\$1|\\$1 article|\\$1 articles}} a la lista de lectura"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Apercebut"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pès"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 millas"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Definir vòstre senhal"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Activar las notificacions"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1G"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 eveniment istoric|\\$1 eveniments istorics}}"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Aqueste jorn"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Aquesta pagina es protegida"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Recercat recentament"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Totes los articles enregistrats"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Recèrcas suggeridas"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultats dins aquesta zòna"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Totes los melhors articles"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "A proximitat"
+    },
+    {
+      "name": "places_title",
+      "value": "Luòcs"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Imatge del jorn per \\$1"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Vòstres articles e listas de lectura salvagardats pòdon ara èstre salvats dins vòstre compte Wikipedia e sincronizats demest las aplicacions Wikipedia."
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Article ajustat a la tièra per èstre teledescargat"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referéncia \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Uèi|Ièr|Fa \\$1 jorns}}"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Sincronizacion de l'article en cors..."
+    },
+    {
+      "name": "saved_title",
+      "value": "Enregistrat"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Recercar dins Wikipèdia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Escafar totas las recèrcas recentas ?"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Suprimir tot"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Recercats recentament"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Redirigit dempuèi: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Recercar"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Aparéncia"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Anullar"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Ajuda e comentaris"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Mas lengas"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Notificacions"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Principal"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Actualizar listas de lectura sincronizadas"
+    },
+    {
+      "name": "settings_title",
+      "value": "Paramètres"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "« \\$1 » sus @Wikipedia:"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via @Wikipèdia"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Ensenhador"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Tampar"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Tampar l'ensenhador"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Contenguts"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Annular l'inscripcion"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Paginas de discussion"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Se connectar a vòstre compte"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 mes"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filtrar"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Començar"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "L’obténer"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Apondre una autra lenga"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publicacion en cors…"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Condicions d'utilizacion"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Totes los articles los mai legits"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Un autre article a l'azard"
+    }
+  ]
+}

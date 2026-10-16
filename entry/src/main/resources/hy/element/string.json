@@ -1,0 +1,780 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Վիքիպեդիա"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Հեղինակներ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Թույլատրագիր"
+    },
+    {
+      "name": "about_title",
+      "value": "Ծրագրի մասին"
+    },
+    {
+      "name": "about_translators",
+      "value": "Թարգմանիչներ"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Վիքիմեդիա Հիմնադրամ"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Վիքիպեդիա"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Մտնել"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Մուտք համակարգ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Դուք պետք է մուտքագրեք մասնակցային անուն, գաղտնաբառ և գաղտնաբառի հաստատում մասնակցային հաշիվ ստեղծելու համար"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Պահպանվում է..."
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Ձեր քննարկման էջ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Չեղարկել"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Գտնել էջում"
+    },
+    {
+      "name": "action_read",
+      "value": "Կարդալ"
+    },
+    {
+      "name": "action_redo",
+      "value": "Կրկին անել"
+    },
+    {
+      "name": "action_remove",
+      "value": "Հեռացնել"
+    },
+    {
+      "name": "action_retry",
+      "value": "Կրկնել"
+    },
+    {
+      "name": "action_save",
+      "value": "Հիշել"
+    },
+    {
+      "name": "action_share",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "action_sort",
+      "value": "Տեսակավորել"
+    },
+    {
+      "name": "action_undo",
+      "value": "Հետ շրջել"
+    },
+    {
+      "name": "action_update",
+      "value": "Թարմացնել"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Հոդվածներ"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Ակտիվություն"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Փակել"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ջնջել"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Հոդվածը}} ջնջվել է"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Գտնել լեզուն"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Ընտրեք լեզուն"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Այլ լեզուներ"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Ձեր լեզուն"
+    },
+    {
+      "name": "article_share",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Հետ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Հետ գնալ"
+    },
+    {
+      "name": "button_next",
+      "value": "Հաջորդ"
+    },
+    {
+      "name": "button_ok",
+      "value": "Լավ"
+    },
+    {
+      "name": "button_publish",
+      "value": "Հրապարակել"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Հայտնել խնդիր"
+    },
+    {
+      "name": "button_skip",
+      "value": "Բաց թողնել"
+    },
+    {
+      "name": "cancel",
+      "value": "Չեղարկել"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Մաքրել"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Փակել"
+    },
+    {
+      "name": "compass_direction",
+      "value": "Ժամը \\$1"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Ծրագրի մասին"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Վիքիտվյալների մասին"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Օրինակ"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Արված է"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Ցուցադրել"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Թաքցնել"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ներքև"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "վեր"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Շնորհակալություն հայտնել"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Խմբագրել հղում"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Խմբագրել"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Ավելացվել են հղումներ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Հսկել այս էջը"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Մատչելի այլ լեզուներ չկան"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Ընտրյալ հոդված"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Վիքիպեդիայից"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Վայրեր մոտակայքում"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Վայրեր"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Վիքիպեդիայից"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Ձեր գտնվելու վայր"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Օրվա պատկեր"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Վիքիպահեստից"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Պատահական հոդված"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Վիքիպեդիայից"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Ավելացնել"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Էլ. փոստ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Էլ. փոստ (ոչ պարտադիր)"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Գաղտնաբառ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Մասնակցային անուն"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Գտնել և փոխարինել"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Գտնել"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Վերակայել"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Կամ"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Այո, ջնջել ամբողջը"
+    },
+    {
+      "name": "history_title",
+      "value": "Պատմություն"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Վիքիպեդիա, վերադառնալ Պահված"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Պատահական հոդված"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Որոնել Վիքիպեդիայում"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Հեղինակը անհայտ է։"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Այլ"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Պատճառ"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Ավելացնել պատկեր"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Դիտել հոդվածը"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 Վիքիպեդիայից"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Վիքիպեդիայից"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Նորություններում"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Ավելացնել"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Ավելացնել հղում"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Վերնագիր"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Կենտրոն"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Ձախ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ոչ մեկը"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Աջ"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Լռելյայն"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": " փիքսել"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Պատկերի չափս"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Հիմնական"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Շրջանակով"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Առանց շրջանակի"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Լեզուներ"
+    },
+    {
+      "name": "languages_title",
+      "value": "Փոխել լեզուն"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Վիքիպեդիայի լեզուներ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Ծրագրի մասին"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Մուտք գործել"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Դուրս գալ"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Գաղտնիություն և պայմաններ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Մոտակայքում"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Գաղտնիության քաղաքականություն"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Գնահատել ծրագիրը"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Օգտագործման պայմաններ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Ավելին"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Վիքիպեդիա Զրո ՀՏՀ"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Ավելացնել լեզուներ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Նախադիտում"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ֆուտ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 կմ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 մ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 մղոն"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Հաջորդ"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Հիմա չէ"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Հոդված"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 քննարկման էջ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Վիկիտվյալների տառռ"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Ձեր քննարկման էջ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Արված է"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Նշել"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Նշել բոլորը որպես ընթերցված"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 նախագիծ|\\$1 նախագիծ}}"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Նշել ընթերցված"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Նշել չընթերցված"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Ավելին"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|Նոր հաղորդագրություն|Նոր հաղորդագրություններ}} \\$2-ում"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Նոր հաղորդագրություն|Նոր հաղորդագրություններ}}"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "բոտ"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Համեմատել"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "չնչին խմբագրումներ"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Հեղինակ. 1"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "չնչին խմբագրում"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Դուք իրավունք չունեք խմբագրել այս էջը:"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Այս էջը պաշտպանված է"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 հոդվածներ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Զտիչ"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Որոնել վայրեր"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Մոտակայքում"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Նկարագրություն"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Բոլոր հոդվածներ"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Որոնել Վիքիպեդիայում"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Մաքրել"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Որոնել Վիքիպեդիայում"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Հեռացնե՞լ բոլոր վերջին որոնումները:"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Ջնջել ամբողջը"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Վերջին որոնումները"
+    },
+    {
+      "name": "search_title",
+      "value": "Որոնել"
+    },
+    {
+      "name": "settings_account",
+      "value": "Հաշիվ"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Չեղարկել"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Նվիրաբերել"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Իմ լեզուններ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push ծանուցումներ"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Հիմնական"
+    },
+    {
+      "name": "settings_title",
+      "value": "Կարգավորումներ"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Վերնագիր"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "Այլ"
+    },
+    {
+      "name": "survey_title",
+      "value": "Պատճառ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Փակել"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Բովանդակություն"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Կարդալ"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Բաժանորդագրվել"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Հոդվածի քննարկում"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Քննարկման էջեր"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Քննարկում"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Սև"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Լռելյայն"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Սեպիա"
+    },
+    {
+      "name": "today_title",
+      "value": "Այսօր"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Անհայտ"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Շարունակել"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Զգուշացում"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Ուսումնասիրելու նոր եղանակներ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Հասկանալի է"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Վիքիպեդիայի մասին"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Պահպանել փոփոխությունները"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Պահպանվում է..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Օգտագործման պայմաններ"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Նվիրաբերել"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "Վերջացնել"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Երեկ"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Վիքիպահեստից"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Այսօր"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Երեկ"
+    }
+  ]
+}

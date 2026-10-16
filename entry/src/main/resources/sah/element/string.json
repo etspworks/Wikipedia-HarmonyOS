@@ -1,0 +1,1268 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Бикипиэдьийэ"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Иһинээҕитин лиссиэнсийэтэ"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Атын ыйыллыбытах буоллаҕына иһинээҕитэ бу усулуобуйаннан тарҕанар \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike лиссиэнсийэннэн"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Оҥорсооччулар"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Туһаныллар бибилэтиэкэлэр"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Толору тиһилик"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лиссиэнсийэ"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Биһиги аһаҕас исходниктаах бырагыраамалары сөбүлүүбүт \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Маны \\$1 оҥордо, Эн курдук бэйэлэрин баҕаларынан үлэлиир дьону кытта"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Харалта"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Төрүт тиэксэ бу усулуобуйаҕа тарҕанар \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT лиссиэнсийэ"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Дьибилгэт туһунан санааҕын ыыт"
+    },
+    {
+      "name": "about_title",
+      "value": "Бу туһунан"
+    },
+    {
+      "name": "about_translators",
+      "value": "Тылбаасчыттар"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Бу дьибилгэт \\$1 дьон босхо тылбаастаабыта"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Викимедиа пуондата"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Бикипиэдьийэ"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ойууну көрбөккүн дуо? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Саҥа капчаны ылыы..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Бэлиэ-аат көрдөбүлэ."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA тургутуу"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Саҥа ааты бэлиэтииргэ"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Бэлиэтэммитиҥ дуо? \\$1."
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Киир"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Киирии..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Ааккын бэлиэтииргэ кыттааччы аатын, аһарыккын уонна аһарыккын хос суруйуохтааххын."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Аһарыктар сөп түбэспэтилэр."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Бигэргэнэр..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Саҥа ааты бэлиэтээ"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Ырытар сирэйи нарылааһын"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Манна эп..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Ааҕар испииһэккэ киллэр"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Испииһэккэ киллэр"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Салҕаама"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Бу сирэйтэн бул"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Тылы уларытыы"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Манна көһөр..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Ааҕар испииһэккэ көһөр"
+    },
+    {
+      "name": "action_read",
+      "value": "Ааҕыы"
+    },
+    {
+      "name": "action_redo",
+      "value": "Хатылаа"
+    },
+    {
+      "name": "action_remove",
+      "value": "Сот"
+    },
+    {
+      "name": "action_save",
+      "value": "Бигэргэт"
+    },
+    {
+      "name": "action_saved",
+      "value": "Бигэргэннэ"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Бигэргэннэ. Соттороргор көҕүт."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Ыстатыйа кэлиҥҥигэ хаалларылынна"
+    },
+    {
+      "name": "action_share",
+      "value": "Тарҕат"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Тарҕат"
+    },
+    {
+      "name": "action_sort",
+      "value": "Нардаа"
+    },
+    {
+      "name": "action_undo",
+      "value": "Төннөр"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Бигэргэммэтэ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Ыстатыйа испииһэктэн сотулунна"
+    },
+    {
+      "name": "action_update",
+      "value": "Саҥардыы"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "\\$1 ыстатыйаны ааҕыы испииһэгэр киллэр"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Сап"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Бикипиэдьийэ, ыстатыйа, биики, энциклопедия, билии, аах, бил, билис, көр, быһаарыы"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Аһаҕас энциклопедия"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Ыстатыйа тиэкиһин кээмэйин уларытар"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Ойуу курдат көстөрүн хараҥа тиэмэҕэ кыччатар"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Таабыл нарылааһына"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Тиэмэ туруоруулара"
+    },
+    {
+      "name": "article_delete",
+      "value": "Сот"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Ыстатыйа сотулунна"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Тыл сиидэтэ"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Тылгын тал"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Атын омук тылынан"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Эн тылларыҥ"
+    },
+    {
+      "name": "article_share",
+      "value": "Тарҕат"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Төнүн"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Баттаан төнүн"
+    },
+    {
+      "name": "button_next",
+      "value": "Аныгыскы"
+    },
+    {
+      "name": "button_ok",
+      "value": "Сөп"
+    },
+    {
+      "name": "button_publish",
+      "value": "Бэчээттииргэ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Алҕас туһунан этии"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Хойутуу"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Кэлин бигэргэтиэм"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Бигэргэммиттэн сот"
+    },
+    {
+      "name": "button_skip",
+      "value": "Аһар"
+    },
+    {
+      "name": "cancel",
+      "value": "Салҕаама"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Сот"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Сап"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 чааска"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Бикипиэдьийэни чинчийэн өссө элбэх сэргиир ыстатыйаҕын бул"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Соторутааҕыта ааҕыллыбыт суох"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Быһааран суруй"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Аатын быһаарыыта «\\$1»"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Биики Тиһик туһунан"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Ойуулааһыннар Биики Тиһик диэн сиргэ бааллар. Биики Тиһик (Wikidata) Бикимиэдьийэ Пуондатын бырайыага: аһаҕас, көҥүл туттуллар билии олоҕо, онно Бикипиэдьийэни, Биики Хааһаҕы, Бикимиэдьийэ атын да бырайыактарын уонна да атыттары өйүүргэ аналлаах билии сааһыланан түмүллэр."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Сиһилии"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Ойуулааһын - толору этии буолбатах, отой кылгас быһаарыы. Уһуна үксүгэр икки сүһүөхтэн уон икки сүһүөххэ диэри буолар, биир устуруокаҕа батара ордук. Таба суруйуу быраабылата атыны ирдээбэт түгэнигэр ойуулааһыны кыра буукубаттан саҕалыыр куолу. Туочука туруоруллубат."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Мона Лиза туһунан ыстатыйа ис хоһооно"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Эверест чыпчаалын туһунан ыстатыйа ис хоһооно"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Леонардо да Винчи хартыыната"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Сир саамай үрдүк хайата"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Холобур:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Сүбэлэр"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Сатанна"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Ойуулааһын бигэргэннэ!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Кыаллар буоллаҕына биир устуруоканан, икки тылтан сүүрбэ тылга диэри"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Бука диэн, кылгастык"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Кылгас ойуулааһыны көрөн киһи ыстатыйа туох туһунан буоларын тута билэр"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Кылгас ойуулааһынар"
+    },
+    {
+      "name": "dim_images",
+      "value": "Ойууну мынаарыт"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Таба суруйуутун көннөрдүм"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Алҕас суруллубут буукубаны көннөрдүм"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Эбиллибит сигэлэр"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Баалаама, ыстатыйа кыайан хачайдаммата"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Урут хаалларыллыбыт ыстатыйалары көрө түһүөххүн сөп"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Сүбэлиир ыстатыйаларбытын ситим баар буоллаҕына көрүөххүн сөп"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Манна аахпыккын кэтээ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Устуоруйата суох эбит"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Билигин хааллардаххына, кэлин ситимэ да суох ааҕыаххын сөп"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Хараллыбыт сирэй суох эбит"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Туох да көстүбэтэ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Биллибэт сыыһа таҕыста"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Атын түбэспиччэ ыстатыйа"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Ааҕыллыбыкка олоҕуран"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Салгыы ааҕыы"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Чугас баар эбийиэктэр тустарынан ыстатыйалары аах"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Бастыҥ ыстатыйа"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Бикимиэдьийэ бырайыагын сүрүн сирэйэ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Бикипиэдьийэҕэ бүгүн"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Элбэхтэ ааҕыллар ыстатыйалар барыта"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Элбэхтэ ааҕыллар"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Манна \\$1 элбэхтэ ааҕыллар"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Бикипиэдьийэ"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Бикипиэдьийэ"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Чугастааҕы сирдэр"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Миэстэ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Бикипиэдьийэттэн"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Бикипиэдьийэттэн"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Баар сириҥ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Күннээҕи ойуу"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Түбэспиччэ ыстатыйа"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Рандомизатор"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Сыыһа CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Аһарыктарыҥ сөп түбэспэтилэр"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Куодуҥ сыыһа"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Маннык аат сатаммат"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Код үкчү киэбин оҥоруу"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Captcha сурук"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Үөһэ баар тиэкиһи суруй"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Э-почта"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Электроннай почта (булгуччута суох)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "аһарыккын хос суруй"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Аһарыккын бигэргэт"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "саҥа аһарыккын суруй"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Саҥа аһарык"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "аһарыккын хос суруй"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Аһарыккын бигэргэт"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "саҥа аһарыккын суруй"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Аһарык"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Куоду бигэргэт"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ааккын суруй"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Бэлиэ-аат"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 манна \\$2"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Бул"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Саҥаттан"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Аһарыгы уларытар туһунан сурук ыытылынна"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Аһарыгы саҥардыы"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Эбэтэр"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Соторутааҥыны барытын сотоору гынаҕын дуо?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Оннук, барытын сот"
+    },
+    {
+      "name": "history_title",
+      "value": "Устуоруйата"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Бикипиэдьийэ, Устуоруйатыгар төнүн"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Бикипиэдьийэ, бигэргэтиигэ төнүн."
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Эбии манна \\$1 майгынныыр"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Эйигиттэн чугас эбии туох баарый"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Мантан чугас, эбии \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Сиһилии сонуннарга"
+    },
+    {
+      "name": "home_title",
+      "value": "Чинчий!"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Чугас туох баарый"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Түбэспиччэ ыстатыйа"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Бикипиэдьийэттэн булуу"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ааптара биллибэт."
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Сонуннарга ахтыллар"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Ук"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Сигэни ук"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Ойуу көстүбэтэҕинэ көстөр сурук"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Бу ойуу туһунан суруй"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Ортотунан"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Хаҥас өттүнэн"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Чопчу баайыыта суох"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Уҥа өттүнэн"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Ойуу ханна турара"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Сиһилии"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Ойууну тал"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Чопчу ыйыллыбатаҕына"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "пкс"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Ойуу кээмэйэ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Сүрүн"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Рамка"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Раамката суох"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Ойуучаан"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Ойуу көрүҥэ"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Медиа-билэ туруоруулара"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Тыллар"
+    },
+    {
+      "name": "languages_title",
+      "value": "Тылын уларыт"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Аһарык тылгын санаттараҕын дуо?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Бикипиэдьийэҕэ кыттыс."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Бэлиэтэнэ иликкин дуо? '''\\$1'''."
+    },
+    {
+      "name": "login_title",
+      "value": "Бэлиэтэммит ааккынан киир"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Дьибилгэт туһунан"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Киирии"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Тахсыы"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Кырдьык тахсаары гынаҕын дуо?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Киирбит аатыҥ \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Бүк охсунуу"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Чугастааҕы"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Кистээһин сиэрэ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Дьибилгэти сыаналаа"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Туһаныы сиэрэ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Эбии"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero туһунан ыйытыылар"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Эрдэ көрүү"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фуут"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 миилэ"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Быстах кэмҥэ туттуллар аһарыгынан киирдиҥ.\nТүмүктүүргэ саҥа аһарыгы суруйуохтааххын:"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Аһарыккын суруй"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Бука диэн, ҕааддьыккар электрон почталаах бэлиэ-аатта оҥоһун, онтон киирэн көрөөр."
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Саҥа сонуннар таҕыстахтарына миэхэ биллэр"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Сатанна"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 млрд."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 мөл."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 тыһ."
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Бу сирэйи уларытар кыаҕыҥ суох эбит"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Бу сирэй хатанан турар"
+    },
+    {
+      "name": "pictured",
+      "value": "ойууланна"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Тиһиликтэн бүтэһик көрдөөһүннэри соттор"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 ыстатыйа"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Баар сирбин каарта ортотугар көрдөр"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Испииһэк курдук көрдөр"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Каарта курдук көрдөр"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Ыстатыйата эбии көрдөр"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Хараллыбыт сириҥ суох."
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Хараллыбыт ыстатыйалар"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Элбэхтэ ааҕыллар"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "\\$1 {{PLURAL:\\$1|ыстатыйа|ыстатыйаны|ыстатыйалар}}"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Булбут ыстатыйаҕар биирдэстэригэр ханан баарын туһунан биллэрии суох"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1  “\\$2” барсар."
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Көрдөөбүт сирдэриҥ"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Маннык диэри гынаҕын дуо \\$1"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Кэлиҥҥи көрдөөһүннэр."
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Хараллыбыт ыстатыйалар бары"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Бу эргин"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Элбэхтэ ааҕыллар ыстатыйалар барыта"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Чугастааҕы"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Билигин баар сириҥ."
+    },
+    {
+      "name": "places_title",
+      "value": "Миэстэ"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "кээмэйэ биллибэт"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Күннээҕи ойуу \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 күн ойуутун ылар сатаммата"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Дьибилгэти туһанар туһунан Викимедиаҕа ыытары көҥүллээтэххинэ дьибилгэти тупсарарга көмөлөһүөҥ."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Ыстатыйалары наардаа"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Наардамматах ыстатыйа ахсаана 5000-ттан таҕыстаҕына мэнэйдэммэт. Бука диэн наардаа, оччоҕо мэнэйдээһин салҕаныа."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Наардамматах ыстатыйалар хааччахтанар ахсааннара"
+    },
+    {
+      "name": "reference_title",
+      "value": "Быһаарыы \\$1"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Бу урут хаалларыллыбыт сирэй ойуута хачайдамматах эбит."
+    },
+    {
+      "name": "saved_title",
+      "value": "Бигэргэннэ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Бикипиэдьийэттэн булуу"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Кэлиҥҥи көрдөөһүннэри сотоҕун дуо?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Маны төннөрөр кыах суох!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Барытын сот"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Кэлиҥҥи көрдөөһүннэр"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "(Мантан: \\$1  утаарылынна)"
+    },
+    {
+      "name": "search_title",
+      "value": "Бул"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Кээһи ыраастаа."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Кээһи ыраастаатаххына \\$1 миэстэ тахсыа. Харайбыт сирэйдэриҥ сотуллубаттар."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Кээһи ыраастыыгын дуо?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Салҕаама"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Кээскин ыраастаа"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Көмө уонна ситим"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Көрдүүргэ омугун тылын көрдөрөр буол"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Мин тылларым"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Биллэриилэр"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Сүрүн"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Бу тиһиликкэ бастакыннан ааттаммыт тыл дьибилгэт сүрүн тылын быһыытынан туттуллар. Бу тылы уларыттаххына Эйиэхэ күн аайы көрдөрүллэр уларыйан сөп (холобура Бастыҥ ыстатыйа)."
+    },
+    {
+      "name": "settings_title",
+      "value": "Туруоруулар"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» @Wikipedia:"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Суолу салҕаа"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "@Wikipedia нөҥүө"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Каартаҕа арый"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Иһинээҕитэ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Сап"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Ис хоһоонун тиһилигин сап"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Иһинээҕитэ"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Киириини салҕаа"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Бэлиэ-ааккынан киир"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Куоду бигэргэт"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Саҕалыырга"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Чинчийии саҥа ньымалара"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Бу өйдөнөр"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Атын тылла эп"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Оҥорбут уларытыыны эрдэ көрүүнү ылыы..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Бу сигэ \\$1' тириэрдэр."
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Сигэни көрүөх иннинэ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Капча алҕастаах."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Капча көмөтүнэн тургутуу ирдэнэр."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Биики-тиэкис хачайдаммыт түмүгүн быһаарар сатаммата."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Бэчээттээһин..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Көннөрүүҥ IP-аадырыскынан бэлиэтэниэ. Өскөтө \\$1 буоллаххына, айпигын кистиир кыахтаныаҥ."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Туһаныы сиэрэ"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Ааҕыллыбыкка олоҕуран"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Элбэхтэ ааҕыллар ыстатыйалар барыта"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Атын түбэспиччэ ыстатыйа"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Бикипиэдьийэ"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Устуоруйата суох эбит"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Аатын быһаарыыта «%s»"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Маннык диэри гынаҕын дуо %s"
+    }
+  ]
+}

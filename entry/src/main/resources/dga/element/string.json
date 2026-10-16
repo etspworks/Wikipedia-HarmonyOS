@@ -1,0 +1,3856 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipiideɛ"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Yelzu sori terebo"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "See ka yelkaŋa, a yelzu be la a \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Kuribu yeltarre kyaare poŋyitaa sori terebo"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Tontomba"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Gama binziiri toŋ"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Gama zaa baarɛɛ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Sori terebo"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Yes neŋ la maale eŋ software \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Biŋ a sori teroo mere"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Ziiri tonͻ ne la mapore Apple Mapore  \\$1 naŋ wane. ‎"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Sɔrɔɔ la kaa a kyɛ nyɛ a sori teroo yɛlɛ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Maale a \\$1 ne a noba na sage ka ba toŋ aŋa fooŋ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Maale eebo"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Maale zie be la a \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT sori terebo"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Tere app noɔre yɛlɛ"
+    },
+    {
+      "name": "about_title",
+      "value": "Aŋa"
+    },
+    {
+      "name": "about_translators",
+      "value": "Leɛ leɛre ba"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Noba na ŋmɛ nyaa ka ba leɛre \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia nyaabu"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipiideɛ"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Koŋ baŋ nyɛ a enfuomo? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Derɛɛ a CAPTCHA bompaalba..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Sɔre toma yiri."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA kaa la"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Maale a fo toma zie"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Fo taa la fo toma soriŋ?\\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Kpɛ."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Bɔɔrɔ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "A seŋ ka ka fo eŋ fo yuori, kpeɛbo sori, ane a kpeɛbo sori maaloo zie."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Kpeɛbo bie ba tu."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Biŋ na ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Maale toŋ zie paalaa"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Fo toŋ zie"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Toma bɔrɛɛ la"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Fo yɛlɛ zie gampɛle"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Eŋ o meŋɛ yel-yaga diibo"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Enna yɛlɛ yaga diibo zie na de la a nu-gloglo maale ne"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Yeli gampɛle sommo yizie"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Eŋ ..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Eŋ o a kannoo gama poɔ"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Eŋ o a gama poɔ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Sãã bare"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Sãã a maaloo na bare"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Be gampɛle"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Leɛre a Kɔkɔre"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Gaa a..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Gaa a kannoo gama poɔ"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Leɛ-kannoo"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Puori leɛ-kannoo"
+    },
+    {
+      "name": "action_read",
+      "value": "Kanne"
+    },
+    {
+      "name": "action_redo",
+      "value": "Leɛ e"
+    },
+    {
+      "name": "action_remove",
+      "value": "Iri bare"
+    },
+    {
+      "name": "action_retry",
+      "value": "Leɛ e"
+    },
+    {
+      "name": "action_save",
+      "value": "Biŋ soŋ"
+    },
+    {
+      "name": "action_saved",
+      "value": "Biŋ"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Biŋ. Leɛ bɔ anaŋ na ba biŋ soŋ."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Aatekle naŋ biŋ la a puori"
+    },
+    {
+      "name": "action_share",
+      "value": "Poŋ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Poŋ"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ŋmaa"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Puori a tontona"
+    },
+    {
+      "name": "action_undo",
+      "value": "Leɛ sãã"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Ta leɛ biŋ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Aatekle ba biŋ"
+    },
+    {
+      "name": "action_update",
+      "value": "Yɛlɛ naŋ ta o bebiri"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Eŋ {{PLURAL:\\$1|\\$1 article|\\$1 articles}} a kanne a gama"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Iri bare"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipiideɛ, sommo yizie,wiki, duoro mɔlɔ be zie, duoro, yɛŋ, leɛ boɔbu, duoro yɛlɛ, ŋmɛ yaare, zanne"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Neɛ zaa naŋ baŋ kpeɛ la a tõɔ kanne yɛlɛ. Bezie,toma, baara la."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Iri a Wikipiideɛ app a tõɔ nyɛ anaŋ na peɛle fo, sync a Aatekle kyɛ kanne ka fooŋ ba wa taa data."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "A Weԑlԑ encyclopedia"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Duori ganlee yԑlԑ semmo"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Yaare a tabol"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Maale a tabol zaa a Aatekle zaa poɔ anaŋ na baŋ yuo a menne, pãã de anaŋ na e weoŋ, sommo yizie, sɛgre ane yeŋ tag laŋ."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Segree a enfuomo opacity naŋ be a zi-lige ane sɔglo yelzu zie"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Kanna yelzu"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabol maaloo"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Tag fēē a tõɔ leɛre a Aatekle semmo. Maale a fo Zie velaa ka a semmo tõɔ seŋ ka fo Sɛge a app poɔ velaa."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Yelzu boŋkaairri"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Kyaare ne Aatekle"
+    },
+    {
+      "name": "article_delete",
+      "value": "Sãã"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|article|articles}} Sãã"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "A app ŋa ba tõɔ de a yelzu weoŋ. Leɛ tage a gampɛle ŋa a tõɔ nyɛ fo leɛroo."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Bɔ Kɔkɔre"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Kaa iri Kɔkɔre"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Kɔkɔɛ mine"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Fo Kɔkɔre"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Kanne yaga"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Sommo \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Aatekle leɛ-knnoo yɛlɛ"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Fo ba taa zie yaga a fo taŋgaraa zu a naŋ biŋ a Aatekle ŋa"
+    },
+    {
+      "name": "article_share",
+      "value": "Poŋ"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Aatekle yel-yaga gampɛle"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kanna yelzu gɔɔbo"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Puori"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Neɛ a leɛ gaa puori"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Gaa puori"
+    },
+    {
+      "name": "button_next",
+      "value": "Yi gaa"
+    },
+    {
+      "name": "button_ok",
+      "value": "Tɔɔ"
+    },
+    {
+      "name": "button_publish",
+      "value": "De-eŋ"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Tɔɔ de-eŋ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Yeli ko a bug"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Biŋ o a puori"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Biŋ a puori"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Iri a yi a bimmo zie"
+    },
+    {
+      "name": "button_skip",
+      "value": "Tag-gaa"
+    },
+    {
+      "name": "cancel",
+      "value": "Sãã"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative commons CCO"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana sage la a Chinese deme a pramare ne sacondere kɔkɔɛ a app poɔ, ana vɛŋ la ka a kannoo e mɔlɔ, bɔ ane a maaloo a lɛ fo naŋ boɔrɔ:\n\n简体 Chinese, Simplified (zh-hans)\n香港繁體 Hong Kong Traditional (zh-hk)\n澳門繁體 Macau Traditional (zh-mo)\n大马简体 Malaysia Simplified (zh-my)\n新加坡简体 Singapore Simplified (zh-sg)\n臺灣正體 Taiwanese Traditional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "E yɛlɛ kyaare ne a Chinese deme sommo"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Nimi-pɛle"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Nimi-pɛloo cache baaroo."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Nimi-pɛle naŋ gɛrɛ la"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Page"
+    },
+    {
+      "name": "compass_direction",
+      "value": "Wagere \\$1 o'clock"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Naŋ gɛrɛ"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "De Wikipiideɛ Aatekle yaga kannoo eŋɛ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Pampana leɛroo kyɛbe a Aatekle kannoo poɔ"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana soŋ na la a Crimean Tatar aŋa paramere bee sacondere kɔkɔɛ a app, naŋ na vɛŋ ka a kannoo e mɔlɔ:\n\nQırımtatarca\n, Latin Crimean Tatar Latin (chr-latn)\nкъырымтатарджа, Кирил Crimean Tatar Cyrillic (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Yɛlɛ kyaare ne Crimean Tatar sommo"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Maale eŋe"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Maale eŋ mannoo"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Ganlee mannoo ko \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Ka ba naŋ leɛtɛ a Aatekle kannoo, N sagɛɛ la a \\$1 kyɛ e toŋ ena kaŋa a \\$2 sori teroo."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Maale eŋ piiluu"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Maale eŋ ganlee mannoo"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Mannoo ŋmaa la maŋ soma"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "De-eŋ mannoo"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Maale eŋ mannoo"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Mɔ kyɛ taa a kannoo a lɛ naŋ vɛŋ la ka tontonba tõɔ baŋ a Aatekle yelzu seɛ te tɔ"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Yuori yelbie yoŋ la naŋ ma piili ne sɛgebibɛre ka anaŋ gba e yɛlɛ piiloŋ la."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Aatekle kannoo na soŋ la a kane kanna tõɔ teɛ a yɛlɛ yelzu seɛ te baare."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "A kyaare"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "A kyaare saseԑ yԑlԑ"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Kannoo be la a Wikipiideɛ, a toma a Wikipiideɛ maaloo poɔ tere la mɔlɔ, nɔlaŋ,kɔkɔɛ, sakondere database sommo a Wikipiideɛ ane a toma mine."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Duori yaga"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Mannoo seŋ ka a maŋ tu a sori velaa, kyɛ taa yelbie pie ne ayi yoŋ. A ba sɛŋ ka o taa sɛgebibɛrɛ see ka a e onaŋ yoŋ na piili ne a yɛlɛ yuori yelbiri la a lɛ."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Aatekle mannoo kyaare ne a Aatekle a ko Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Aatekle mannoo kyaare ne a Aatekle a ko Mount Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo Da Vinci la sɔ"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Salogɔ wommo taŋa"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Aseŋ bondemannewulaa:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Yel-fēē kyaare ne mannoo"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Ganlee mannoo sommo"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Saseԑ yԑlԑ guubu a ko sԑgebo mannoo"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Baarɛɛ"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Fo deԑ maale la saseԑ duoro zie vela ko neԑzaa"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Mannoo de-eŋe!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Duuli yeni maŋ la, a yi duulo ayi ane pie ne ayi yelbie sogaŋ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Taa o ŋmaa"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Kyoͻre a ganlee a soŋ kanneba ka ba baŋe a yelnyͻgeraa dayeni kannoo"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Ganlee mannoo sommo"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "A piiluŋ, n pͻԑ la ka n koŋ bonne toŋe ne a zie ŋa"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Piili maale emmo"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Aatekle leɛ-knnoo yɛlɛ"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Anaŋ naŋ daŋ maale eŋ"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Manne taa leԑkaabo"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Wuli maaloo"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Manne taa leԑkaabo"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Wuli"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Sɔgle"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Leɛ kannoo na"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Mid \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Vuo teroo"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "Puli"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "Saazu"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 line|\\$1 lines}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 section|\\$1 sections}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Vuo gaa \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Ba tõɔ bɔ leɛ-kannoo"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Leɛ puori"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Fo serve boɔrɔ ka fo leɛ gaa puori te maale?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Puori maaloo"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "A maaloo leɛ waɛ la."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 edit|\\$1 edits}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Maale duoro yɛlɛ"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 byte added|\\$1 bytes added}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 byte iri bare|\\$1 bytes iri bare}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Maale ka e ŋmaa"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Wuli meŋɛ"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Migre \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Neɛ zaa naane ba naŋ baŋ puore"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Bareka' e la yel ŋmaa zie fo naŋ baŋ puori neɛ a Wikipiideɛ. A see ka fo kpɛ a saŋ na ka fo puori 'Bareka'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Kpɛ kyɛ puori 'Bareka'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Puori 'Bareka'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Bareka' waa la so-mͻlͻ ba naŋ maŋ de wuli nommo a ko maale emmԑ toma saseԑ duoro emmo zie. 'Bareka' koŋ baŋ ba toŋe baare kyԑ na baŋ nyԑ gbaŋgbale kaabo."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Gbaŋgbale toͻlebo 'Bareka'"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Fo 'bareka' da toͻle  gaa \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Fo daŋ toͻle la ‘Bareka’ ko a maale emmo ŋa"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Bareka koŋ baŋ toͻle"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "O baŋ na leɛ e la a leɛroo na a leɛ kanna na wuli a Aatekle . ka fo na kyoge ne, sɔrɔɔ la wuli bone na sɔ ka fo leɛ e a maaloo ŋa."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "A leɛ mannoo da leɛ e la."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 line unedited|\\$1 lines unedited}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Neɛ gbɛ ayi ka o yuo"
+    },
+    {
+      "name": "dim_images",
+      "value": "Dim enfuomo"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Neɛ gbɛ ayi a iri lɛ fo naŋ boɔrɔ ka fo tere"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Neɛ gbɛɛ ayi \\$1 a wuli lɛ fo naŋ boɔrɔ ka fo tere a Wikipiideɛ toma poɔ."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Neɛ gbɛɛ ayi kyɛ tere a sori ka a Wikipiideɛ tõɔ de a duoro ta fo"
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Neɛ gbɛre ayi a iri lɛ fo naŋ neɛ a sɛgebie daga"
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Neɛ gbɛre ayi a soŋ kyuuri sommo."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Eŋ lɛ fo boɔrɔ ka fo tere."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Neɛ gbɛre ayi a eŋ lɛ fo naŋ tere ana e la mɔlɔ."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Bareka, te-terɛ! Yɛ zuiŋ la ka Wikipiideɛ na baara."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple ŋa naane sɔ a libie yɛlɛ."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Ooo, a Wikipiideɛ tondeme na koma la a yuoni baaroo duoro bie."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Sɔɔrɔ yɛlɛ saŋa zaa"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "so-yobo tu terebo"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Yeiferre iri teroo?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Lampoŋ ŋmaabaroo duoro"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Te na la maaleŋ teԑre fo la bieo."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Te koŋ lɛ baŋ de boŋ zaa na zoo \\$1 \\$2 a langbuli poɔ.sɔrɔɔ la page a benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Sͻroo iri libiri noͻre (ka o bile sembo e \\$1 \\$2)"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "E a kyuuri ŋa teroo gɛrɛ velaa."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "De Apple yɔɔ bone tere ne"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "De Apple yɔɔ bone tere ne bee fo iri fo meŋɛ yɔɔ bone."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Yɔɔ bone kaŋa"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Yɔɔ/tere ne Apple?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Fo nɔmmo e la yel kpoŋ ko te."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Fo bareka!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Iri lɛ fo naŋ boɔrɔ ka fo yɔɔ"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "N na eŋ la \\$1 a tõɔ ta page a 100% yɔɔ yɛlɛ."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "E ka ŋmaaroo yi"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Tag lammo"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Iri tag lammo"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Maale tag lammo"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Maale"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "A yɛlɛ na fo naŋ de wuli la ka o koŋ tõɔ maale o (aseŋ. Astekel yelzu) bee anaŋ baŋ wuli la ka a ŋmaaroo ba iri biŋ."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "A ŋmaaroo ŋa fo naŋ iri ba taa zie/ koŋ baŋ gaa"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Zane yɛlɛ yaga kyaare neŋ anaŋ nana e boŋ fēē"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "A maaloo ŋa baseŋ bonne"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Maaloo kyɛloo"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Naŋ eŋ a maaloo kyɔloo"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Sɔrɔɔ la ma kanne kyɛ baŋ maala"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Eŋ s maaloo yɛlɛ ŋmaa"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Eŋ Kɔkɔre yelbie gɔɔloŋ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Eŋ sɛgebo"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Eŋ tag lammo"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Wolɔ ka fo e maale a Aatekle gaa tɔɔre?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Zanne yɛlɛ yaga a gama poɔ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Kaa a gampɛle ŋa"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Sage ko fo meŋɛ kyɛ ta bonnɔ maala aatekle s lɛ. Tɔɔ ŋmeɛrɛgbɛɛ yagalɛ: gsmpɛle zaa naŋ Kore naŋ biŋ la,a lɛ wuli ka langbuli deme naŋ baŋ maalegbɛ ŋmɛ yɛlɛ na eŋ."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Fo Kɔkɔre taa la tɔnɔ"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "A seŋ ka ba kaa a yɔlɛ zaa. Ka Fooŋ enna yel paala a Aatekel poɔŋ, aseŋ ka nobs na aŋ maala a Aatekel maŋ bɔ sommo yizie eŋ a."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Bɔ sommo zie na taa nimiri"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Te toŋ boɔra la ka a Aatekel naŋ na sɛge boŋ taa voonoo. Ka foo maala, mɔɔ kyɛ de a yelbie ka a tori ne a yiibu zie."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Ŋmaa Kɔkɔre na ba taa soobo"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Asaŋ na ka fo naŋ vɛŋ neɛ zaa nyɛ a yɛŋ na, te boɔrɔ ka fo maala Aatekel aseŋ kannoo, maaloo, ane e emmo a KO a yelzuri naŋ taa tɔna ko fo."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Maale yɛŋ mɔlɔ"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Fo sere boɔra ka fo bare a yɛlɛ maaloo kyɛ ba eŋ?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Iri/bare maaloo?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Tɛɛtɛɛ kyɛbe a leɔ-kannoo Poɔ"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Bone zaaba leɛre a kyɛ"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Iri gampɛle a wikimedia commons poɔ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Gaafera, a Aatekle ba tõɔ maale"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Fo naŋ baŋ tõɔ Kane la gampɛle na ba naŋ biŋ"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Fo naŋ nyɛ la a Aatekle na fo naŋ e ka fooŋ wa ta internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Taa a anaŋ na fo naŋ kanna a kyɛ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Yipɔge zaa kyɛ"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "A Aatekle na ba Sɛge eŋ Kɔkɔre zaa poɔ"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Kɔkɔre zaa kyɛbe"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Maale zie na ana baŋ nyɛ zie gas, yezuri na fo naŋ neŋ ane a taaba"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Law Aatekle n fo biŋ kanna a gama poore"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Gampɛle na fo naŋ biŋ baŋ baŋ nyɛ la a kyɛ"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Gampɛle zaa ba be a kyɛ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Anaŋ fo naŋ biŋ na baŋ nyɛ la bebiri kaŋa, ka foo gba ba taa data"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Gampɛle zaa ba kyɛbe"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Yeli zaa kyɛbe"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Duoro zaa ba be a kyɛ ko a tontonba"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Leɛ maale e bebiri kaŋa"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Gbɛ-ŋmɛ kaŋa eɛɛ la"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Aatekle kaŋa na bebe"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Bonso fo Kane la"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Aatekle mine naŋ poɔŋ"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Kyoge kanna gɛrɛ"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Leɛ woŋ tɔ"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "De Aatekle yineŋ ka peɔle zie na fo naŋ be"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Aatekle naŋ waana a puoriŋ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "A yi \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "A yi Wikipiideɛ"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Mɛ ka o kpɛ"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Yineŋ a Kɔkɔre maaloo"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Kɔkɔre mine na baŋ eŋ la ' N Kɔkɔre' gampɛle maaloo."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Boma mine sɔglɛɛ"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Weoŋ tage lammo fo naŋ na yuo ne a Aatekle"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Mɛ ka o kpɛ yi gaa"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Mɛ ka o kpɛ yi"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Boma mine naŋ sɔgle na bare la a yiibo a kyɛ."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Yineŋ a tab"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Brbie Aatekle a Wikipiideɛ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Gaaɛ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Be a zaa"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Bebe"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Be la \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Zaa \\$1 sɔglɛɛ"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "A voonoo ŋa ba e a Kɔkɔre meŋɛ leɛ kó o bee iri o bare a yɔlɔ poɔŋ."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Kɔkɔre zaa gambie"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ba e kɔkɔre zaa gambie"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Tendaa gambie"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Sɔgle a gambie"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Sɔgle a zaa \"\\$1\" gambie"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Aatekle naŋ kyaare ne pampana yɛlɛ"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Anaŋ na sɔgele a Kɔkɔre poɔ na kó a mine a yɛlɛ poɔŋ."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Meŋ gba yipɔge yɛlɛ a bebiri ŋa"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipiideɛ Aatekel naŋ peɛle fo"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Begoo enfuomo a yi a commons zie"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Bɔ/maale Aatekel tɛɛtɛɛ kyɛ kanne"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Wuli teɛroo kyaare ne kannoo"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Wuli kannoo"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Ka foo kó a pampana Aatekel a meŋ koŋ kyɛbe a kɔkɔɛ zaa poɔ."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Wuli Aatekel na fo naŋ sɛgre"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Ka foo kó a pampana Aatekel a meŋ koŋ kyɛbe a kɔkɔɛ zaa poɔ."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Wuli a duoro zie"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Ka fooŋ yuo a zinɛ bebiri bie naŋ ko la a kɔkɔɛ zaa."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Wuli zinɛ bebiri bie"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Wuli Zinɛ enfuomo"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Kó a zie naŋ a Aatekel zaa gaa a kɔkɔɛ zaa poɔ."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Wuli a zie"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Kó a zie naŋ a Aatekel zaa naŋ be a kɔkɔɛ zaa poɔ."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Wuli Aatekel tɛɛtɛɛ"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Wuli anaŋ aŋ so ka fo Kane a gane"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Kó a saazu gane fo naŋ kanna onaŋ kó la anaŋ na be a kɔkɔɛ zaa poɔ."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Wuli saazu gane fo naŋ kanne"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Brbiri zaa Aatekel kannoo"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Kó a yɛlɛ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Sɔgle yɛlɛ naŋ zaa na be a gane poɔ na yi la kyɛ leɛre o neŋ a maale gane"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Kó a yɛlɛ?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Kó a yɛlɛ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "A yɛlɛ naŋ gaa naŋ baŋ leɛ wa la ka fo maale"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Kó a yɛlɛ zie?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Kó a zie naŋ fo naŋ ba leɛ neŋ maaloo"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Wuli a pagebu gane fo naŋ na kó ne yɛlɛ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Yuo a yɛlɛ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "A naŋ leɛre la a yɛlɛ maaloo, fo naŋ baŋ nyɛ la a yɛlɛ ka fooŋ neɛ a tombiri"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Yuo a yɛlɛ tombiri?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Gan-sɔgle la"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Wikipiideɛ gampɛle zu toma meŋɛ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Zinɛ Wikipiideɛ"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Aatekel na zaa na be a saazu"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Saazu kannoo"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Saazu \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Be \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Be Wikipiideɛ"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Peɛle"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Zie"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "A yi \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "A yi wikipiideɛ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Fo bezie"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Fo bezie a yi \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Zinɔ enfuomo"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "A yi wikipiideɛ commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Bebiri Aatekle"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "A yi \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "A yi wikipiideɛ"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Bebie zaa"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Poɔ app doge?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Gbɛ ŋmɛ kaŋa bebe la a saŋa na fo yirɔ neŋ a yɛlɛ.\nSɔrɔɔ la leɛ e nyɛ."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Fo zie na ba see bone anaŋ de a yɛlɛ. Sɔrɔɔ la leɛ e nyɛ."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Yineŋ a yɛlɛ"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "A Aatekel ba kyɛbe pampana."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Nyɛ a Aatekel velaa zaa a Wikipiideɛ poɔ, iri kaŋa a te langbuli Poɔ."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "A yi \\$1 will"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "A yi wikipiideɛ"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Fo paramere Wikipiideɛ Kɔkɔre ba sage a Aatekel na toŋtoma. Fo naŋ baŋ toŋ-maale la a paramere Wikipiideɛ a Maaloo bie poɔ."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Zinɔ Aatekle"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Bonkaŋa kpɛ la. Leɛ e nyɛ."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "A app de la yɛlɛ mime anaŋ ba seŋ ka o de yineŋ. Sɔrɔɔ la leɛ e nyɛ."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA ba toŋ na"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Gboribie ba yi taa"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Kpeɛbo bie ba ta"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Toŋtoŋ yuori ba kyɛbe"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Sommo bie"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA ŋmaaroo"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Eŋ a ŋmaaroo na fo naŋ nyɛ a saazu"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "Aseŋ@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Duoro daga"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Duoro daga(boɔbu)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Leɛ- eŋ Gboribiri paalaa"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Kaa a Gboribiri paalaa na nyɛ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Eŋ Gboribiri paalaa"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Gboribiri paalaa"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Leɛ-eŋ Gboribiri"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Kaa Gboribiri"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Eŋ Gboribiri"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Gboribiri"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kaa Gboribiri bie"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Eŋ tontoŋ yuori"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Tontoŋ yuori"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "A zaa"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Sãã gampɛle"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Bɔ yɛlɛ naŋtuuro"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Yɛlɛ naŋ pare"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Bɔ kyɛ leɛre"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Page anaŋ fo bɔ kyɛ leɛre"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Bɔ"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Leɛ-maale"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Duoro daga ne Gboribiri leɛ-maaloo la ka ba tere"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Bɔ yɛlɛ eŋ a gane a de Gboribiri a maale neŋ a duoro"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Leɛ-maale Gboribiri"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Bee"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "\nA Wikipiideɛ app pampana sage la a Gan aŋa paramare bee Sakondare kɔkɔɛ a app, na vɛŋ ka kannoo e mɔlɔ, bɔ ane maaloo:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Simplified (gan-hans)\n贛語 繁體 Gan, Traditional (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Leɛ e Gan sommo"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Fo serve boɔrɔ ka fo iri fo pampana boma bare?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ooo, iri a zaa"
+    },
+    {
+      "name": "history_title",
+      "value": "Yipɔge"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipiideɛ, leɛ gaa a yɛlɛ zie"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipiideɛ, leɛ anaŋ fo naŋ biŋ"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mine aŋa \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Mine naŋ peɛlefi zie"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mine naŋ peɛle \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Pampana yɛlɛ mine"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Fo Aatekel na fo naŋ biŋ pampana be la a kannoo die kyɛ be a taŋgamie zaa. Kpɛ a vɛŋ ka a yɛlɛ na fo naŋ e biŋ ka a be lɛ fo boɔrɔ"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Maale taa fo boɔbɔ"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Eŋ faŋa fo kannoo a pãã de a ŋmaaroo ane a yelzu a yi a Aatekel bie"
+    },
+    {
+      "name": "home_title",
+      "value": "E ka a yi"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipiideɛ, rage siege te tɔ a saazu yɛlɛ"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Aatekel naŋ peɛle"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Boyeni boyeni Aatekel"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Bɔ Wikipiideɛ"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ba baŋ sɛgerɛ"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "N kannoo gama"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "De leɛ kaa"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Poɔ kannoo gama\" e la ŋmaaroo kyɛ te boɔrɔ la fo teɛroo bee iri o bare."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Fo naŋ baŋ soŋ te la daa a yineŋ \" poɔ kannoo gama \"?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "De kpɛ a poɔ kannoo gama"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "A yi \\$1 Wikipiideɛ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "A yi Wikipiideɛ"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "A duoroo"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Eŋ"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Eŋ tage lammo"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Ŋmaa fo teɛroo ko ba naŋ na koŋ kanne a enfuomo"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Manne a enfuomo"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Yel-meŋɛ ŋmaaroo"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Wola ka aenfuomo ŋa tɔgele ne a Aatekel ŋa?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Anaŋ aŋ wuli a ŋmaaroo la tu a boma ba naŋ na kanna poɔ"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Enfuomo"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Soga"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Gɔɔ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Kaŋa"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Duloo"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Enfuomo aroozie"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Duoro yaga/yɛlɛ yaga"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Kaa iri enfuomo"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Yipɔge"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Ba tõõbu"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Enfuomo semmo"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Piiloŋ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Maaloo"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Bon-yaga"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Mannoo fēē"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Enfuomo bõõsoba"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Mediá maaloo"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Eŋ mediá"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana sage la a Inuktitut aŋa paramare bee Sakondare kɔkɔɛ a app, na vɛŋ ka kannoo e mɔlɔ, bɔ ane maaloo:\n\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Syllabics (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Eŋ a Inuktitut sommo"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "A wikipiideɛ app pampana ŋa sage la ka a Kazakh aŋa paramere bee sakondere Kɔkɔɛ a app poɔ, lɛ na vɛŋ la ka kannoo e mɔlɔ, be ane a fo meŋɛ maaloo:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Cyrillic (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arabic (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Eŋ a Kazakh sommo"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "A wikipiideɛ app pampana ŋa sage la ka a Kazakh aŋa paramere bee sakondere Kɔkɔɛ a app poɔ, lɛ na vɛŋ la ka kannoo e mɔlɔ, be ane a fo meŋɛ maaloo:\n\nKurd\nî Latînî Kurdish, Latin (ku-latn)\nكوردی Kurdish, Arabic (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Eŋ a Kurdish sommo"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Kɔkɔɛ"
+    },
+    {
+      "name": "languages_title",
+      "value": "Leɛre Kɔkɔre"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipiideɛ kɔkɔɛ"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Na kyoge ne a kpeɛbu"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Leɛ kpɛ fo toma die poɔ"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Yeli kaŋa ta kpeɛ la fo toma die poɔ. Ka foo na leɛ kanne bee maale yel zaa see ka fo kpɛ neŋ fo toma yuori."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Fo kpa la kyɛ yi"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Innee fo gboribiri be?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Põɔ Wikipiideɛ."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Ba taa maaloo sori? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Kpɛ a fo maaloo daga poɔ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Kyaare ne a app"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Kpɛ"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Kpa kyɛ yi"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Fo serve boɔrɔ ka fo kpa kyɛ yi?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Kpɛ aŋa \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Gu n meŋɛ yɛlɛ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Peɛloo"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Meŋɛ yɛlɛ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Wuli a app"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Yɛlɛ na fo naŋ na de"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mine"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipiideɛ zagelaa FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Bɔ Wikipiideɛ a 300 kɔkɔɛ poɔ"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Eŋ kɔkɔɛ"
+    },
+    {
+      "name": "more_menu",
+      "value": "Mine"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Gaa {{PLURAL:\\$1|\\$1 article|\\$1 articles}} a kannoo gama poɔ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Leɛ kaa"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 gbɛre"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 miles"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Maale fo gu-bie"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ba e pampana"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "A yi \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Kpegere"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 leɛ teɛre ma"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Naŋ bɔɔrɔ teɛroo"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "A app"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "A web"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Teɛroo yɛlɛ"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Naŋ bɔɔrɔ fo teɛroo ..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Fo ba taa yeli zaa a daga poɔ"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Fo ba e yeli zaa a naŋ nyɛ teɛroo zaa"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Leɛ-maale \\$1 a nyɛ yɛlɛ yaga"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Eŋ toma a nyɛ yɛlɛ yaga"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter|\\$1 filters}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "You a nyɛ teɛroo"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Teɛroo ma gampɛle"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Zaa"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Kanne"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Ta leɛ kanne"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Kanne yelzu"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Kyoore"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Parԑԑ zaa"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Duoro terebo parԑԑ"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Ganlee"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 gampɛle yel-yaga"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Tɛɛ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1's tontona gampɛle"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata boma"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Fo yel-yaga gampɛle"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Daa tɔɔbo \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Baarɛɛ"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Toma"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedia toma"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipiideɛ"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Kpɛ yel-yaga"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Tɔ biri"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Tɔ bie aŋa fo kanne la"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Tɔ aŋa Kanne"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Tɔ aŋa kanne"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Mine/yaga"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Teɛre ma maaloo"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 message|\\$1 messages}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Ns gɛrɛ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Bareka kyɛbe"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Toma boŋkyooraa"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Zaa"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Yɛlɛ yaga bezie"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 a te \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Kyoore ne"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=In 1 project|In \\$1 projects}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 project|\\$1 projects}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 type|\\$1 types}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Kanne"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 ane \\$2 yi \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Ba tõɔ kanne"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Maale taabu"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Fo maaloo leɛ waɛ la"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Duoro zie paalaa"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Fo kpeɛ la gbɛɛ yaga kyɛ ba tõɔ"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Kpeɛbo na ba tõɔ"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Kpɛ zie na fo naŋ ba baŋ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "E ka be a Aatekel yɛlɛ gampɛle"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "E ŋmaaroo ŋmaa lɛ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Ba tõɔ e bee boɔle"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "A eɛɛ velaa"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Yel-eŋ a Gaŋpɛle zu"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Duoro be la fo gampɛle gane poɔ"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Tag lag gampɛle"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Gaŋpɛle leɛ-kaaɛ la"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Bareka"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Leɛre milestone"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Toma yuori leɛre la"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Waabo yaane!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Wikidata tag-nyɔge la"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Tɔ aŋa ba naŋ kanne"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Tɔ la aŋa ba naŋ ba kanne"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Mine/yaga"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Duoroo"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Tɔ iruu duoroo"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Boɔle"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Saa tɔɔbu"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Waabu duoro"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Wikidata tag-nyɔgebu"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Maale milestone"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Maaloo leɛ-waɛ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Maaloŋ boŋ-ŋmaa"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Yelle daga a yi toŋtoŋ yuori zie"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Kpɛ boɔraa"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Ba tõɔ kpɛ fo toŋtoŋ die"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Tõɔ kpɛ la"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Mine"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Tage lag gampɛle"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Leɛ kaa gampɛle"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Ba tõɔ gaa"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Gaaɛ velaa"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Yelle gampɛle zu"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Bareka"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Leɛre milestone"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Sori teroo leɛ la"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Yelle gampɛle zu"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Waabo yaane"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Yel-paalba a Wikipiideɛ"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 new message|\\$1 new messages}} a \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|New message|New messages}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "A yi \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historical event|\\$1 historical events}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Yipɔge yɛlɛ a zinɛ bebiri"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 more historical event|\\$1 more historical events}} zinɛ bebiri"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "A fo paramere Wikipiideɛ kɔkɔɛ ba sage a zinɛ bebiri. Fo naŋ baŋ toŋ la a paramere Wikipiideɛ a app maaloo biri zu."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Yeli zaa kyɛbe"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 a yi \\$2 Wikipiideɛ"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Zinɛ bebiri"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Neɛ a 'W' a leɛ neɛ a piila zie"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot maaloo"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Neɛ a bie ayi soba a kaa a zaa yi nyɛ"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Tag-lantaa kaa nyɛ"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Magebu Maaloŋ gaŋ la a wagere"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "Boŋ maal-fēē"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Kaŋa: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Yel-yɛlɛ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Leɛ-kaa yipɔge"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Boŋ fēē maaloŋ"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Eŋ {{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Iri {{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Leɛ-e \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Boma ayi toŋ la baŋ baŋ iri"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 edit|\\$1 edits}} a yi \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Gampɛle yɛlɛ"
+    },
+    {
+      "name": "page_location",
+      "value": "Kaa a map zu nyɛ"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Fo ba taa a sori ka fo maale a gampɛle ŋa"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ba gɔ la a gampɛle ŋa"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Gampɛle ŋmɛ-taa"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Boma de laŋ kaabu"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Maale kyɛ ba kpɛ"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Fo ba tõɔ kpɛ"
+    },
+    {
+      "name": "pictured",
+      "value": "Enfuomo"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Sãã bɔɔbo"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 Aatekel"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Leɛ maale fo bezie"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Wuli aŋa gama"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Wuli aŋa map"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Aatekel yaga wuloo"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Yineŋ tenne, tenne, tendaa,Ŋmene bammbʣ, yipɔge yɛlɛ,meɛbo ane a taa ba."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Bɔ Wikipiideɛ Aatekel ne magebo zie"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Wuli be zie"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Aatekel kyooroo"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Kyɔɔre"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Fo ba taa bie zie"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Bie Aatekel"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Saazu kannoo"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 article|\\$1 articles}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Saazu Aatekel kannoo"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Bezie toɔɛl la"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Aatekel naŋ zaa fo naŋ baŋ ba taa bezie yɛlɛ"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 tu taa \"\\$2\""
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Bɔ zie"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Fo yeli ka \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Bɔɛ pampana"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Aatekel ŋmaa binɛɛ"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Yɛŋ bɔɔbo"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Magere zie la a kyɛ"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Saazu zaa Aatekel"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Peɛloo"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Fo pampana be zie"
+    },
+    {
+      "name": "places_title",
+      "value": "Ziiri"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "Zie ba naŋ ba baŋ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Enfuomo bebiri \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Ba tõɔ nyɛ enfuomo a bebiri ŋa \\$1"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "wikigama"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimiideɛ Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikiduoro"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikibɔ-zie"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikikaazie"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikiyebie doge"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Eŋ Aatekel a kannoo gama poɔ?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Eŋ “\\$1” kannoo gama poɔ?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ooo, eŋ a kannoo gama poɔŋ"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "A Aatekel be la a Wikipiideɛ app poɔ. Fo naŋ boɔrɔ ka fo de a lantaa a kannoo gama poɔ?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Boŋ Aatekel fo naŋ nyɛ"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Anaŋ fo naŋ eŋ ba ta bonso fo ta la zie / gaŋ a namba ."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Gbɛ ŋmɛ kaŋa kpeɛ la a saŋa na fo naŋ da boɔrɔ fo gama."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "A gama ama ba yi bonso fo ta la a namba naŋ ba naŋ boɔrɔ."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Maale kannoo gama"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Bigruu"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Kannoo gane yuori"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Kuri bompaala"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Kannoo gama sãã la"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Aayi, iri a Aatekel bare a taŋgaraa zu"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Sɔrɔɔ la degree a fo namba a Aatekel gama \\$1 kyɛ piili ne Aatekel zaa s gama poɔ."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Fo gsŋ la a namba  {{PLURAL:\\$1|\\$1 article|\\$1 articles}} a yi a toma."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Article|Articles}} koŋ eŋ o a hama Poɔŋ. Fo ta la a namba \\$2 Aatekel kaŋa zaa \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Kannoo yuori na da de la toŋne toma"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Gbɛ ŋmɛ kaŋa kpeɛ la a saŋa na fo naŋ kanna a gama."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ooo, taa a Aatekel taŋgaraa"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Aatekel mine peɛle la a Wikipiideɛ toŋ toŋ boma. Fo naŋ boɔrɔ ka fo boŋ a kyɛbe yi ka fooŋ baare?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Taa a Aatekel na fo naŋ baŋ a taŋgaraa poɔ?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Poɔ Aatekel"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "A ta la 5000 Aatekel yi naŋ ba baŋ. Sɔrɔɔ la baŋ a aatekel velaa a gama poɔ ka fooŋ boɔra Aatekel."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Tɛge a Aatekel naŋ ba baŋ"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "A kannoo Aatekel gama na boŋ koŋ baŋ e, sɔrɔɔ la segree fo namba te ta \\$1 a leɛ see a gama."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Fo naŋ la zie naŋ ba naŋ yeli ka fo tɛg {{PLURAL:\\$1|\\$1 reading list|\\$1 reading lists}} toŋ bone kaŋa zaa."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Fo ta la a tɛgoo zie \\$1 kanne a gama na be a toŋ tone bone"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Kpɛ a tõɔ nyɛ fo Aatekel na biŋ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Kpɛ bee kuri toŋ toŋ zie"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Kpɛ kyɛ eŋ Aatekel"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Kpɛ bee kuri toŋ toŋ bone a vɛŋ Aatekel na fo naŋ baŋ ane a kannoo gama na be a taŋgaraa zaa kyɛ de onaŋ fo boɔrɔ."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Nyɛ fo Aatekel?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[toŋ tons kuri la]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "Boɔbu ŋmaa bigruu"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "Yelzu kannoo"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Eŋ a Aatekel \"\\$1\""
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Aatekel ba tõɔ sync"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ba tõɔ synced"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Aatekel gaŋ la, lɛ zuiŋ ba tõɔ sync"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Gama gaŋ la, lɛ zuiŋ ba tõɔ gaa"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Aatekel are gyoge la taa a boɔra iruu"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "A taŋgaraa gaŋ la, lɛ zuiŋ ba tõɔ gaa"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Maale ziiri a fo taŋgaraa zu kyɛ leɛ e nyɛ"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Aatekel mine ba tõɔ gaa, gaŋ la"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Fo gama '\\$1' ko a la yoe '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 reading list|\\$1 reading lists}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Aatekel Gama ba tõɔ biŋ soŋ"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Biŋ"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "A toma ŋa koŋ baŋ leɛ tõɔ leɛ-eŋ. Aatekel kaŋa zaa naŋ baŋ {{PLURAL:\\$1|this list|these lists}} koŋ leɛ biŋ."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Iri  {{PLURAL:\\$1|list|lists}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 article|\\$1 articles}} ane {{PLURAL:\\$2|\\$2 reading list|\\$2 reading lists}} bɔ a toma zieŋ"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Gama ba tõɔ gaa, gaŋ la"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Aatekel ŋmaa binɛɛ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Puori yelzu"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Kyaanoo zie"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Yelzu sɔgloŋ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Yelzu kyaa"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Syntax Sɔɔŋmãã"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Ŋmaaroŋ semmo"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Syntax Sɔɔŋmãã"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Yage kpɛ sommo yizie"
+    },
+    {
+      "name": "reference_title",
+      "value": "Sommo \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Today|1=Yesterday|\\$1 days ago}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Recently|\\$1 hour ago|\\$1 hours ago}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h naŋ pare"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Recently|\\$1 hr ago|\\$1 hrs ago}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Now|\\$1 min ago|\\$1 mins ago}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Just now|\\$1 minute ago|\\$1 minutes ago}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m naŋ pare"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=This month|1=Last month|\\$1 months ago}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s naŋ pare"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=This year|1=Last year|\\$1 years ago}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Leɛ wa"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Leɛ gaa Aatekel zie"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Leɛre maaloo"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Aatekel zaa"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "A gane ŋa koŋ baŋ iri bare"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Ba tõɔ iri a enfuomo a gampɛle zu."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Aatekel iruu naŋ gɛrɛ la..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Kannoo gama"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Bɔ Aatekel na biŋ"
+    },
+    {
+      "name": "saved_title",
+      "value": "Biŋ"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Ba tõɔ biŋ {{PLURAL:\\$1|this article will remove it|these articles will remove them}} a yi kannoo gama poɔ"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": " Ba tõɔ biŋ {{PLURAL:\\$1|article|articles}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Bɔ Wikipiideɛ"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Sãã"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Bɔ Wikipiideɛ"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Iri pampana ŋa bɔɔbu?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "A Aatekel ŋa koŋ la baŋ leɛ e!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Iri a zaa"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Pampana ŋa bɔɔbu kyɛbe"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Bɔɛ pampana"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Gɔɔ o la yineŋ: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Bɔ"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana ŋa tuuro la a Serbian paramare bee sakondere Kɔkɔɛ a app poɔ, lɛ vɛŋɛ a kannoo, bɔɔbu, ane maaloo e mɔlɔ:\n\nсрпски ћирилица Serbian, Cyrillic (sr-ec)\nsrpski latinica Serbian, Latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Eŋ a Serbian sommo"
+    },
+    {
+      "name": "settings_account",
+      "value": "Yɛlɛ bezie"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Kannoo sommo yizie"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Sãã cached\n data"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Sãã cached data kyɛ bare zie te ta \\$1. O koŋ iri bonzaa bare a gampɛle biŋ zie."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Sãã cached data?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Sãã"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Saaŋ cache"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Tere"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Soŋ ane yel leɛ teroo"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Wuli Kɔkɔre bɔɔbu"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Fo naŋ maale taa la a kɔkɔɛ naŋ be a yɛlɛ gane zu kyɛ e ka a yi daa daa a maaloo gane zu."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "N kɔkɔɛ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Daa teɛre ma"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Gbɛ ŋmɛ kaŋa bebe a saŋa na fo naŋ boɔrɔ a yɛlɛ a teɛre ma gane zu na kyaare neŋ fo yɛlɛ bezie."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Ba tõɔ bɔ a voonoo teɛre sagebu"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Leɛ e nyɛ"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Paramare"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "A Kɔkɔre dɛŋdɛŋ soba la ka ba de ka o e a paramere Kɔkɔre app poɔ."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Maale a app kyɛ yuo a bɔɔbo zie anaŋ seɛ yineŋ"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Yuo a app boɔbu zie"
+    },
+    {
+      "name": "settings_title",
+      "value": "Maaloo"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Maale neŋ a Wikipiideɛ app"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" a Wikipiideɛ:"
+    },
+    {
+      "name": "share_building",
+      "value": "Poŋ mɛ a bid..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” a yi “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\na yi “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "De wuloo"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Poɔ..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipiideɛ"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "You a maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” via Wikipiideɛ: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” via Wikipiideɛ: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Pampana emmo"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Yelzu"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Yɛlɛ yelzu"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Page"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Page a yɛlɛ yelzu"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Yelzu"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Sɔgle a yɛlɛ yelzu"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Yelzuri \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana ŋa taa la Tachelhit a paramere bee sakondere kɔkɔɛ app poɔ, vɛŋ ka kannoo e mɔlɔ, bɔ kyɛ maale fo eŋɛ:\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachelhit, Latin (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Eŋ a Tachelhit sommo"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "A Wikipiideɛ app pampana ŋa taa la Tajik a paramere bee sakondere kɔkɔɛ app poɔ, vɛŋ ka kannoo e mɔlɔ, bɔ kyɛ maale fo eŋɛ:\n\nтоҷикӣ кирилликӣ Tajik, Cyrillic (tg-cyrl)\ntojikī lotinī Tajik, Latin (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Eŋ a Tajik sommo"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 active user|\\$1 active users}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Eŋ yelzu"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Nyaabu"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Kyaare Gampɛle yɛlɛ"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Leɛ-kɔkɔre"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Sãã a mie"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Kanne"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Ba kanne"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Gbɛ ŋmɛ naŋ for naŋ ba boɔrɔ"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Yeli kaŋa ta kpeɛ la."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Ba tõɔ iri a gampɛle yɛlɛ"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Kyaare mie"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Bɔ gampɛle"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Yuo a mid zaa"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Teɛre, te zaa eɛɛ nensaalba a kyɛ"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Sɔrɔɔ la nyoge fo meŋɛ"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Fo yɛlɛ tõɔ gaaɛ la velaa"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Fo yɛlɛ tõɔ gaaɛ la velaa"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Neɛ gbɛrebo a yi kyɛ yeli tere"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Yelle yaga gampɛle iruu"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Duoro gampɛle"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Tage lammo ŋa bebe la koroŋ"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Sɔrɔɔ la a fo internet zie."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Ba tõɔ eŋ fo yɛlɛ na ."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Ba tõɔ eŋ fo yelzu paalba ."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Kannoo a web"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Tag-laŋ boɔsoba a kyɛ"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 reply|\\$1 replies}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Leɛ sagbo"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Leɛ sage \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Sage puli: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Leɛ sage \\$1"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Aatekel yɔlɛ"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Yelzu"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Sͻgelaa"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Sͻgelaa"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Meŋɛ beree"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Vũũ"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 kanneba"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Bone baŋ kanne yaga"
+    },
+    {
+      "name": "user_title",
+      "value": "Tontona"
+    },
+    {
+      "name": "watch",
+      "value": "Kaa"
+    },
+    {
+      "name": "watchlist",
+      "value": "Kaa gama"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Eŋ fo boŋ kaare gama a kyu boyeni poɔ."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Eŋ fo bokaare a beri anuu daare."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Eŋ fo bo-kaare a yuoni gbuli."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Eŋ fo bo-kaare zaa daadaa."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Eŋ fo bo-kaare kyuuri a ayoɔbo."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Eŋ fo bokaare a kyuuri ata daare."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Kaa gama"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "Kyu yeni"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "Beri anuu"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "Yuoni boyeni"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Kpi maroo"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "Kyuuri ayoɔbo"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "Kyuuri ata"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Page gan-kaare"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Gsn-kaare naŋ baare la"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Gaa a diff"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Ŋmaa maaloŋ"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Bɔ Aatekel"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Fo ba taa bo-kaare boma zaa"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Maale boɔbu"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Kyɔɔre"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Kaanyaabo yeltontutaa yel-erre"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Tere leɛroo"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Ta there leɔroo"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Toŋ emmo"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Boŋ-maala"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Nensaala (ba e boŋ-maala)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Bompaalba leɔ-kaabo"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Pampana leɛkaabo"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ba e leɛ peɛre paaba"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Tɔnɔ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Boŋ maal-fēē"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Anaŋ na ba e fēē"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Leɛroo iruŋ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Zage leɛrɛŋ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Kpeɛbu  tontone"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Gampɛl kuribu"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Gaŋpɛle maaloo"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikiyelpeɛre binni sɛgeroo"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Bɔ leɛroo"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Kaa yɛlɛ"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Bareks"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Tontona toma"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Gaŋpɛle soba"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Fo yɛlɛ zie gampɛle"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Kas Aatekel"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "De kannoo ane bebiri zaa Aatekel a yi a lan-gbuli poɔ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Yineŋ yɛlɛ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Gaa weoŋ te bona na e zinɛ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Zinɛ yoŋ"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Nyɛ la torigbogi bee bɔ zie a teŋdaa zu zaa"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Sɔrɔɔ la neɔ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "De piiloŋ"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Yrl-paalba naŋ na Dr yineŋ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Nyɔge la"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipiideɛ e yɛlɛ sɛgebu zie na boɔrɔ noba ka ba sage yi aŋa 40 Aatekel a KO  300 kɔkɔɛ."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Zanne yɛlɛ yaga kyaare neŋ Wikipiideɛ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Kyaare neŋ Wikipiideɛ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipiideɛ e la teŋdaa zss na mɛ duoro mɔlɔ bɔ yizie ko kɔkɔɛ zaa a teŋɛ zu kyɛ. Neɛ zaa naŋ taa data naŋ kpɛ la e eŋ beezanne yɛlɛ yi o poɔ."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Duoro mɔlɔ bɔ yizie"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Eŋ Kɔkɔreŋ kaŋs"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Eŋ Ber maslale fo Kɔkɔɛ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Te nyɛ la a Kɔkɔɛ ama a fo taŋgaraa zu:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Bɔ 300 kɔkɔɛ"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Yineŋ yɛlɛ aŋ e a bebiri ŋa yɛlɛ poɔ."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Duoro mɔlɔ bɔ yizie maaloo"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipiideɛ, la a duoro mɔlɔ bɔ yizie. Yi la a taŋgaraa zu."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Leɛ boɔrɔ anaŋ fo naŋ leɛre..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "A tag-laŋ ŋa la ba de to gaa neŋ a website zie: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Yeŋɛ stage lammo"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipiideɛ ŋa ba taa Aatekel na taa yuori zaa"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Stage lammo zaa ba nyɛ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "A tsge lammo ŋa la te ta '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Tage laŋ puori yɛlɛ"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Eŋ leɛroo"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA boɔbu ba tu"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Boɔrɔ la CAPTCHA nyaabu"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Ba tõɔ baŋ a wiki ŋmaaroo a magere"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "De yiibu..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Maaloo ŋa na gaa la IP addresses zie a fo taŋgaraa zu. Ka fooŋ \\$1 kpɔ\\$2 fo naŋ taa la kaarba yaga."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Maaloo ŋa na gaa la IP addresses zie a fo taŋgaraa zu. Ka fooŋ \\$1 fo naŋ taa la kaarba yaga."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Yɛlɛ na fo naŋ ba de"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Bonso fo Kane la"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Aatekel na zaa na be a saazu"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Aatekle kaŋa na bebe"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "A yi %s Wikipiideɛ"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Be %s Wikipiideɛ"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "A yi wikipiideɛ commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Yipɔge zaa kyɛ"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Sɔgle a gambie"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Mɛ ka o kpɛ yi"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Boma mine sɔglɛɛ"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Ganlee mannoo ko %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Fo yeli ka %s?"
+    }
+  ]
+}

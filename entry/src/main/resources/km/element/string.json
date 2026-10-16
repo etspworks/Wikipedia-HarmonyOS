@@ -1,0 +1,2948 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "វិគីភីឌា"
+    },
+    {
+      "name": "about_content_license",
+      "value": "អាជ្ញាប័ណ្ណអត្ថបទ"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "អត្ថបទនេះត្រូវបានផ្ដល់ជូនក្រោម \\$1 លើកលែងមានការសម្គាល់ផ្សេងពីនេះ។"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike License"
+    },
+    {
+      "name": "about_contributors",
+      "value": "អ្នករួមចំណែក"
+    },
+    {
+      "name": "about_libraries",
+      "value": "បណ្ណាល័យដែលបានប្រើ"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "បញ្ជីទាំងមូល"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "អាជ្ញាប័ណ្ណ"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "ពួកយើងចូលចិត្តប្រើសូហ្វវែរបើកចំហរកូដ\\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "អាជ្ញាប័ណ្ណផែនទីទីកន្លែង"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "ទីកន្លែងប្រើប្រាស់ផែនទីដែលផ្តល់ដោយ Apple Maps ។ \\$1 ។"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "សូមអានព័ត៌មានលម្អិតអំពីអាជ្ញាប័ណ្ណនៅទីនេះ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "បង្កើតឡើងដោយ \\$1 ដោយមានជំនួយពីអ្នកស្ម័គ្រចិត្តដូចអ្នកជាច្រើននាក់"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "កូដផ្ដល់ជូនក្រោម \\$1។"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "អាជ្ញាប័ណ្ណ MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ផ្ញើមតិយោបល់អំពីកម្មវិធីនេះ"
+    },
+    {
+      "name": "about_title",
+      "value": "អំពី"
+    },
+    {
+      "name": "about_translators",
+      "value": "អ្នកបកប្រែ"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "ត្រូវបានបកប្រែដោយអ្នកស្ម័គ្រចិត្តនៅ \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "មូលនិធិវិគីមេឌា"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "វិគីភីឌា"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "មើលរូបភាពមិនឃើញមែនទេ? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "កំពុងយក CAPTCHA ថ្មី..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ស្នើសុំគណនី។"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "ពិនិត្យសុវត្ថិភាពCAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "បង្កើតគណនីរបស់អ្នក"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "តើអ្នកមានគណនីមួយរួចហើយឬ? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "កត់ឈ្មោះចូល។"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "កំពុងកត់ឈ្មោះចូល..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "អ្នកត្រូវតែវាយបញ្ចូលអត្តនាម ពាក្យសម្ងាត់ និងផ្ទៀងផ្ទាត់ពាក្យសម្ងាត់ដើម្បីបង្កើតគណនីមួយ។"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ពាក្យសម្ងាត់មិនត្រូវគ្នាទេ។"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "កំពុង​រក្សា​ទុក..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "បង្កើតគណនីថ្មី"
+    },
+    {
+      "name": "account_group_title",
+      "value": "គណនីរបស់អ្នក"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "ទំព័រពិភាក្សារបស់អ្នក"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "ការពិភាក្សាមានដាក់ហត្ថលេខាស្វ័យប្រវត្តិ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "ការចុះហត្ថលេខាដោយស្វ័យប្រវត្តិនៃការពិភាក្សានឹងប្រើហត្ថលេខាដែលបានកំណត់នៅក្នុងការកំណត់ហត្ថលេខា"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ចំណង់ចំណូលចិត្តទំព័រពិភាក្សា"
+    },
+    {
+      "name": "action_add_to",
+      "value": "បន្ថែមទៅ…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "បន្ថែមទៅក្នុងបញ្ជីអំណាន"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "បន្ថែមទៅក្នុង​បញ្ជី​"
+    },
+    {
+      "name": "action_cancel",
+      "value": "បោះបង់"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "បោះបង់ការកែប្រែ"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ស្វែងរកក្នុងទំព័រ"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ប្ដូរភាសា"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ប្ដូរទៅតាំងទៅ…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ប្ដូរទៅតាំងទៅបញ្ជីអំណាន"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "កំណែប្រែបន្ទាប់"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "កំណែប្រែមុន"
+    },
+    {
+      "name": "action_read",
+      "value": "អាន"
+    },
+    {
+      "name": "action_redo",
+      "value": "ធ្វើ​វិញ"
+    },
+    {
+      "name": "action_remove",
+      "value": "ដកចេញ"
+    },
+    {
+      "name": "action_retry",
+      "value": "សាកល្បងម្ដងទៀត"
+    },
+    {
+      "name": "action_save",
+      "value": "រក្សា​ទុក​"
+    },
+    {
+      "name": "action_saved",
+      "value": "​រក្សាទុករួច"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "រក្សាទុករួច។ បើកសុពលភាពដើម្បីឈប់រក្សាទុកវិញ។"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "អត្ថបទរក្សាទុកសម្រាប់លើកក្រោយ"
+    },
+    {
+      "name": "action_share",
+      "value": "ចែកចាយ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ចែកចាយ"
+    },
+    {
+      "name": "action_sort",
+      "value": "តម្រៀប"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "ថ្លែងអំណរគុណអ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "action_undo",
+      "value": "មិន​ធ្វើ​វិញ"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ឈប់រក្សាទុក"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "អត្ថបទឈប់រក្សាទុករួច"
+    },
+    {
+      "name": "action_update",
+      "value": "បន្ទាន់សម័យ"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "បន្ថែម{{PLURAL:\\$1|អត្ថបទចំនួន \\$1|អត្ថបទចំនួន \\$1}}ទៅបញ្ជីអំណាន"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "លាក់"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "វិគីភីឌា ឯកសារយោង វិគី សព្វវចនាធិប្បាយ ព័ត៌មាន ចំណេះដឹង ការស្រាវជ្រាវ ព័ត៌មាន ស្វែងយល់ សិក្សា"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "សព្វវចនាធិប្បាយសេរី"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "កែតម្រូវទំហំតួអក្សរអត្ថបទ"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ពន្លាតតារាង"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "កំណត់តារាងទាំងអស់អោយបើកតាមលំនាំដើម​ រួមទាំងព័ត៌មានសង្ខេប ឯកសារយោង កំណត់សម្គាល់ និងតំណភ្ជាប់ខាងក្រៅ។"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "បន្ថយភាពស្រអាប់របស់រូបភាពនៅលើរចនាបថងងឹតនិងខ្មៅ"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "រចនាបថអំណាន"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ការកំណត់តារាង"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "អូសលើរបារដើម្បីប្ដូរទំហំអក្សរអត្ថបទ។ ប្រើមុខងារកែប្រែទំហំអក្សរក្នុងប្រព័ន្ធឧបករណ៍របស់អ្នក ដើម្បីប្ដូរទំហំអក្សរក្នុងផ្នែកផ្សេងទៀតក្នុងកម្មវិធីនេះ។"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "ជម្រើសសម្រាប់រចនាបថ"
+    },
+    {
+      "name": "article_about_title",
+      "value": "អំពីអត្ថបទនេះ"
+    },
+    {
+      "name": "article_delete",
+      "value": "លុបចោល"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "បានលុបចោល{{PLURAL:\\$1|អត្ថបទមួយ|អត្ថបទជាច្រើន}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ស្វែងរក​ភាសា"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ជ្រើសរើសភាសា"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ភាសា​ដទៃ​ទៀត"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ភាសារបស់អ្នក"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "អានបន្ថែម"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "ឯកសារ​យោង​\\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ឧបករណ៍របស់អ្នកគ្មានកន្លែងទំនេរគ្រប់គ្រាន់សម្រាប់រក្សាទុកអត្ថបទនេះទេ"
+    },
+    {
+      "name": "article_share",
+      "value": "ចែកចាយ"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "ការកំណត់រចនាបថអំណាន"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ត្រឡប់ក្រោយ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "ចុចដើម្បីត្រឡប់ក្រោយ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "ត្រឡប់​ក្រោយ"
+    },
+    {
+      "name": "button_next",
+      "value": "បន្ទាប់"
+    },
+    {
+      "name": "button_ok",
+      "value": "យល់ព្រម"
+    },
+    {
+      "name": "button_publish",
+      "value": "បោះផ្សាយ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "រាយ​ការណ៍​អំពី​បញ្ហា"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "រក្សាទុកសម្រាប់អានពេលក្រោយ"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "បានរក្សាទុកសម្រាប់អានពេលក្រោយ"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "លុបចេញពីទំព័ររក្សាទុក"
+    },
+    {
+      "name": "button_skip",
+      "value": "រំលង"
+    },
+    {
+      "name": "cancel",
+      "value": "បោះបង់"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ជម្រះ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "បិទ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ចង្អុលទីតាំងម៉ោង\\$1"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "រុករកអត្ថបទសម្រាប់អានបន្ថែមតទៀតក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "គ្មានអត្ថបទទើបអានថ្មីៗទេ"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "កំពុងបន្ទាន់សម័យ..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "បន្ថែមចំណារពន្យល់"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "ចំណារពន្យល់អំពីអត្ថបទសម្រាប់ \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "កែប្រែសេចក្ដីផ្ដើម"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "កែប្រែការពិពណ៌នាអត្ថបទ"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "ការពិពណ៌នាកាន់តែខ្លីកាន់តែល្អ"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "ផ្សព្វផ្សាយការពិពណ៌នា"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "កែ​ប្រែការ​ពិពណ៌នា"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "ព្យាយាមប្រើការពណ៌នាខ្លីៗដើម្បីឱ្យអ្នកប្រើប្រាស់ដទៃទៀតអាចយល់ពីប្រធានបទរបស់អត្ថបទភ្លាមៗ"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "អំពី"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "អំពី Wikidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ព័ត៌មានបន្ថែម"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "ការពិពណ៌នាអត្ថបទសម្រាប់អត្ថបទអំពីម៉ូណាលីសា"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "ការពិពណ៌នាអត្ថបទសម្រាប់អត្ថបទអំពីភ្នំអេវើរេស"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ផ្ទាំងគំនូររបស់ឡេអូណាដូ ដា វិនឈី"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ភ្នំខ្ពស់ជាងគេលើផែនដី"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ឧទាហរណ៍៖"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "គន្លឹះក្នុងការបង្កើតការពិពណ៌នា"
+    },
+    {
+      "name": "description_help_title",
+      "value": "ជំនួយសម្រាប់ចំណារពន្យល់អំពីអត្ថបទ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "សេចក្ដីណែនាំWikidataសម្រាប់ការសរសេរចំណារពន្យល់"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "រួចរាល់"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "អ្នកទើបតែធ្វើឱ្យវិគីភីឌាកាន់តែប្រសើរឡើងសម្រាប់អ្នករាល់គ្នា"
+    },
+    {
+      "name": "description_published_title",
+      "value": "បានចេញផ្សាយការពិពណ៌នាបានសម្រេចហើយ!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "ឃ្លាខ្លីល្អបំផុតពីមានតែមួយជួរនិងមានពាក្យពី២ទៅ១២ពាក្យ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "ប្រើឃ្លាខ្លីៗ"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "សង្ខេបអត្ថបទដើម្បីជួយអ្នកអានយល់អំពីប្រធានបទនេះភ្លាមៗ"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ចំណារពន្យល់អំពីអត្ថបទ"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "ខ្ញុំសន្យាថានឹងមិនប្រើមុខងារនេះខុសក្បួនទេ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "ចាប់ផ្ដើមកែប្រែ"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "ពី៖"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "ប្រៀបធៀបកំណែប្រែ"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ទៅកាន់៖"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "ប្រៀបធៀបកំណែប្រែ"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "បង្ហាញ"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "លាក់"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "បន្ទាត់ទី \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "បានផ្លាស់ទីកថាខណ្ឌ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ចុះក្រោម"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ឡើងលើ"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 បន្ទាត់|\\$1 បន្ទាត់}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 ផ្នែក|\\$1 ផ្នែក}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "បានផ្លាស់ទីកថាខណ្ឌ \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "មិនអាចផ្ទុកកំណែប្រែទេ"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 កំណែប្រែ|\\$1 កំណែប្រែ}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "ព័ត៌មានអ្នកកែប្រែ"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|បានបន្ថែម \\$1 បៃ|បានបន្ថែម \\$1 បៃ}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|បានលុបចោល \\$1 បៃ|បានលុបចោល \\$1 បៃ}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "ចំណារពន្យល់ការកែប្រែ"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "សេចក្ដីផ្ដើម"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "បន្ទាត់ទី\\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "អ្នកប្រើប្រាស់អនាមិកមិនអាចទទួលការថ្លែងអំណរគុណបានទេ"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "«ការថ្លែងអំណរគុណ»គឺជាវិធីងាយស្រួលសម្រាប់សរសើរអ្នកកែប្រែសម្រាប់ការងារក្នុងវិគីភីឌា។ អ្នកត្រូវតែកត់ឈ្មោះចូលដើម្បីផ្ញើ«ការថ្លែងអំណរគុណ»។"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "កត់ឈ្មោះចូលដើម្បីផ្ញើ«ការថ្លែងអំណរគុណ»"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "ផ្ញើ«ការថ្លែងអំណរគុណ»"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "«ការថ្លែងអំណរគុណ»គឺជាវិធីងាយស្រួលសម្រាប់សរសើរអ្នកកែប្រែសម្រាប់ការងារក្នុងវិគីភីឌា។ «ការថ្លែងអំណរគុណ»មិនអាចលុបបានទេ ហើយនឹងត្រូវបង្ហាញជាសាធារណៈ។"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "ផ្ញើ«ការថ្លែងអំណរគុណ»ជាសាធារណៈ"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "«ការថ្លែងអំណរគុណ» របស់អ្នកត្រូវបានផ្ញើទៅកាន់ \\$1 ហើយ"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "អ្នកបានផ្ញើ«ការថ្លែងអំណរគុណ» ចំពោះការកែប្រែនេះហើយ"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "ការថ្លែងអំណរគុណដែលផ្ញើហើយមិនអាចលុបចោលបានទេ"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|បានឈប់កែប្រែ\\$1បន្ទាត់|បានឈប់កែប្រែ\\$1បន្ទាត់}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "រូបភាពស្រអាប់"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "បង្ហាញអត្ថបទ"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "តំណភ្ជាប់គោលដៅ"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ដកតំណភ្ជាប់ចេញ"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "កែប្រែតំណភ្ជាប់"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "កែប្រែ"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "ស្វែងយល់បន្ថែមអំពីកំណែប្រែតិចតួច"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "នេះជា​កំណែប្រែតិចតួចប៉ុណ្ណោះ"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "សូមអានមុនពេលធ្វើការកែប្រែ"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "បន្ថែមចំណារពន្យល់"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "បានកែតម្រូវវេយ្យាករណ៍"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "បានកែតម្រូវកំហុសអក្ខរាវិរុទ្ធ"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "បានបន្ថែមតំណភ្ជាប់"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "តើអ្នកបានកែលម្អអត្ថបទនេះដោយរបៀបណា?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "ស្វែងយល់បន្ថែមអំពីបញ្ជីតាមដាន"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "តាមដានទំព័រនេះ"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "កែលម្អអត្ថបទដោយភាពក្លាហានតែម៉ត់ចត់។ កុំព្រួយបារម្ភពីការធ្វើខុស។ រាល់​កំណែពីមុនរបស់​ទំព័រ​ត្រូវ​បាន​រក្សា​ទុក ដូច្នេះ​កំហុស​ទាំងឡាយអាច​ត្រូវ​បាន​កែ​តម្រូវ​យ៉ាង​ងាយ​ដោយ​សហគមន៍​យើងខ្ញុំ។"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "យោបល់របស់អ្នកមានសារៈសំខាន់ណាស់"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "ខ្លឹមសារទាំងអស់ត្រូវតែអាចផ្ទៀងផ្ទាត់បាន។ នៅពេលបន្ថែមព័ត៌មានថ្មីទៅក្នុងអត្ថបទ អ្នកកែប្រែគួរតែផ្តល់នូវការយោងក្នុងជួរមួយទៅកាន់ប្រភពដែលអាចទុកចិត្តបាននិងបញ្ជាក់ថាអ្វីដែលអ្នកបានសរសេរពិតជាត្រឹមត្រូវមែន។"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "យោងទៅកាន់ប្រភពដែលអាចទុកចិត្តបាន"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "យើងខ្ញុំប្រឹងប្រែងធ្វើអោយអត្ថបទនានាសរសេរដោយតុល្យភាព។ នៅពេលកែសម្រួល សូមតាំងចិត្តសរសេរដោយគ្មានលម្អៀង ស្របតាមអ្វីដែលប្រភពឯកសារបានសរសេរ។"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "សរសេរដោយគ្មានលម្អៀង"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "គ្មានចំនុចខុសគ្នារវាងកំណែនានាទេ"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "គ្មានកំណែប្រែទេ"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "ជ្រើសយកឯកសារមួយពីវិគីមេឌារួម"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "សូមអភ័យទោស។ អត្ថបទផ្ទុកមិនបានទេ។"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "អ្នកនៅតែអាចអានទំព័រដែលបានរក្សាទុក"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "អ្នកអាចមើលឃើញអត្ថបទស្នើអោយអាយពេលដែលអ្នកមានអ៊ីនធើណិត។"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "តាមដានអ្វីដែលអ្នកបានអាននិងកំពុងអាននៅទីនេះ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "គ្មានប្រវត្តិសម្រាប់បង្ហាញ"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "អត្ថបទនេះមិនទាន់មានសរសេរជាភាសាដទៃទៀតទេ"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "មិនអាចអានជាភាសាដទៃទេ"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "បង្កើងបញ្ជីទីកន្លែងដែលអ្នកចង់ទៅទស្សនា និងប្រធានបទដែលអ្នកចូលចិត្តជាដើម"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "រៀបចំអត្ថបទដែលបានរក្សាទុកដោយប្រើបញ្ជីអាន"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "រក្សាទុកទំព័រនានាក្នុងបញ្ជីនេះដើម្បីមើលទំព័រទាំងនោះនៅទីនេះ"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "គ្មានទំព័រត្រូវបានរក្សាទុកក្នុងបញ្ជីនេះទេ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "រក្សាទុកទំព័រសម្រាប់អានលើកក្រោយ ទោះគ្មានអ៊ីនធើណិត"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "មិនទាន់មានទំព័ររក្សាទុកនៅឡើយទេ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "រកមិនឃើញលទ្ធផលទេ"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "គ្មានសារបង្ហោះឡើងសម្រាប់អ្នកប្រើប្រាស់នេះនៅឡើយទេ"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "សូម​សាកល្បង​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "បញ្ហាមិនស្គាល់មួយបានកើតឡើង"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "អត្ថបទចៃដន្យមួយទៀត"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "អត្ថបទត្រូវចំណូលចិត្តអ្នក"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "អត្ថបទផ្សេងទៀតដែលទាក់ទិន"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "អត្ថបទសម្រាប់អានបន្ត"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "ត្រឡប់ទៅហ្វីដរុករក"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "រុករកអត្ថបទក្បែរទីតាំងរបស់អ្នក"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "អត្ថបទឆ្នើម"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "ពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ពីវិគីភីឌា"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "កែ​តាម​បំណង"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "កំណត់ភាសាសម្រាប់ហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "ភាសាអាចបន្ថែមបាននៅក្នុងទំព័រកំណត់«ភាសារបស់ខ្ញុំ»"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "កាតដែលបានលាក់"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "តំណភ្ជាប់រហ័សត្រឡប់ទៅអានអត្ថបទដែលបានបើក"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "កំណត់ហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "កំណត់ហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "ការលាក់ប្រភេទកាតណាមួយនឹងឈប់បង្ហាញប្រភេទកាត់នោះនៅក្នុងហ្វីដរុករក។"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "ផ្ទាំងរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "អត្ថបទឆ្នើមប្រចាំថ្ងៃនៅក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "លាក់"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "បង្ហាញទាំងអស់"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "បង្ហាញ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "បង្ហាញជាភាសាចំនួន\\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "លាក់កាត\\$1ទាំងអស់"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "កាតនេះមិនអាស្រ័យតាមភាសាទេ។ បិទមិនប្រើកាតនេះនឹងលុបវាចេញពីហ្វីដរុករករបស់អ្នក។"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "កាតដែលមិនអាស្រ័យតាមភាសា"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "មិនអាស្រ័យតាមភាសា"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "កាតសកល"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "លាក់កាតនេះ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "លាក់កាត «\\$1» ទាំងអស់"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "អត្ថបទអំពីព្រឹត្តិការណ៍បច្ចុប្បន្ន"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "ការលាក់កាតជាភាសាទាំងអស់របស់អ្នកនៅក្នុងហ្វីដរុករកនឹងបិទមិនប្រើផ្ទាំងរុករក។"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "ព្រឹត្តិការណ៍ក្នុងប្រវត្តិសាស្ត្រនៅថ្ងៃនេះ"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "អត្ថបទវិគីភីឌានៅក្បែរទីតាំងរបស់អ្នក"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "រូបភាពឆ្នើមប្រចាំថ្ងៃពីវិគីរួម"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "បង្ហាញអត្ថបទចៃដន្យសម្រាប់អាន"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "អត្ថបទស្នើជូនយោងតាមអត្ថបទដែលអ្នកបានអាន"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "បង្ហាញកាត«អត្ថបទសម្រាប់អានបន្ត»"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "ការលាក់កាត«អត្ថបទឆ្នើម»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "បង្ហាញកាត«អត្ថបទឆ្នើម»"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "ការលាក់កាត«ព័ត៌មានក្នុងសារព័ត៌មាន»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "បង្ហាញកាត«ព័ត៌មានក្នុងសារព័ត៌មាន»"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "ការលាក់កាត«ព្រឹត្តិការណ៍ថ្ងៃនេះ»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "បង្ហាញកាត«ព្រឹត្តិការណ៍ថ្ងៃនេះ»"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "បង្ហាញកាត«រូបភាពប្រចាំថ្ងៃ»"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "ការលាក់កាត«ទីកន្លែងនានា»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "បង្ហាញកាត«ទីកន្លែងនានា»"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "ការលាក់កាត«អត្ថបទចៃដន្យ»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "បង្ហាញកាត«អត្ថបទចៃដន្យ»"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "បង្ហាញកាត«អត្ថបទត្រូវចំណូលចិត្តអ្នក»"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "ការលាក់កាត«អត្ថបទពេញនិយម»នេះនឹងលាក់កាតជាភាសាកំពុងប្រើទាំងអស់។"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "បង្ហាញកាត«អត្ថបទពេញនិយម»"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "អត្ថបទអានច្រើនជាងគេប្រចាំថ្ងៃ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "បិទមិនប្រើហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "ការលាក់កាតហ្វីដរុករកទាំងអស់នឹងបិទមិនប្រើផ្ទាំងរុករក ហើយជំនួសដោយផ្ទាំងការកំណត់។"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "បិទមិនប្រើហ្វីដរុករកឬ?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "បិទមិនប្រើហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "ផ្ទាំងរុករកអាចបើកប្រើវិញនៅក្នុងការកំណត់ហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "បិទមិនប្រើផ្ទាំងរុករកឬ?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "ការបិទមិនប្រើផ្ទាំងរុករកនឹងជំនួសផ្ទាំងរុករកដោយផ្ទាំងការកំណត់។"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "អ្នកនឹងបើកប្រើផ្ទាំងរុករកដោយជ្រើសរើសកាតហ្វីដរុករកសម្រាប់បង្ហាញ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "បើកប្រើហ្វីដរុករក"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "ផ្ទាំងកំណត់នឹងត្រូវជំនួសដោយផ្ទាំងរុករក។ អ្នកអាចចូលទៅការកំណត់ពីផ្នែកខាងលើរបស់ផ្ទាំងរុករក ដោយគ្រាន់តែចុចកើរូបកងចក្រ។"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "បើកប្រើផ្ទាំងរុករកឬ?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "លាក់កាតនេះ"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ទំព័រដើមរបស់គម្រោងវិគីមេឌា"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ព្រឹត្តិការណ៍ថ្ងៃនេះនៅក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "អត្ថបទដែលមានគេអានច្រើនទាំងអស់"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "អត្ថបទអានច្រើនជាងគេ"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "អត្ថបទអានច្រើនជាងគេនៅ \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "ក្នុងវិគីភីឌា\\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ទីកន្លែងក្បែរៗ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ទី​កន្លែងនានា"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "ពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ពីវិគីភីឌា"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ទីតាំងរបស់អ្នក"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "ទីតាំងរបស់អ្នកពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "រូបភាពប្រចាំថ្ងៃ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ពីវិគីមេឌារួម"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "អត្ថបទចៃដន្យ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "ពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ពីវិគីភីឌា"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "អត្ថបទចៃដន្យ"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "គ្មានអត្ថបទឆ្នើមសម្រាប់អាននាកាលបរិច្ឆេទនេះទេ"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "រុករកអត្ថបទល្អជាងគេនៅក្នុងវិគីភីឌា ដែលសហគមយើងខ្ញុំបានសម្រាំងប្រចាំថ្ងៃ។"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "ពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "ពីវិគីភីឌា"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "ភាសាចម្បងរបស់វិគីភីឌារបស់អ្នកមិនអាចប្រើអត្ថបទឆ្នើមបានទេ។ អ្នកអាចបន្ទាន់សម័យវិគីភីឌាចម្បងរបស់អ្នកនៅក្នុងបញ្ជីការកំណត់នៅក្នុងកម្មវិធីនេះ។"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "អត្ថបទឆ្នើម"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "មានបញ្ហាណាមួយកើតឡើង។ សូមសាកល្បងម្ដងទៀតនៅពេលក្រោយ។"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA មិនត្រឹមត្រូវ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ពាក្យសម្ងាត់មិនត្រូវគ្នាទេ"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "លេខកូដមិនត្រឹមត្រូវ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ឈ្មោះអ្នកប្រើប្រាស់ប្រើមិនបាន"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "លេខកូដបម្រុង"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "ឃ្លា CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "វាយបញ្ចូលឃ្លាដែលអ្នកឃើញខាងលើ"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "អ៊ីមែល"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "អ៊ីមែល (ដាក់ក៏បានមិនដាក់ក៏បាន)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "វាយបញ្ចូលពាក្យសម្ងាត់ថ្មីម្ដងទៀត"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "អះអាងពាក្យសម្ងាត់ថ្មី"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "វាយបញ្ចូលពាក្យសម្ងាត់ថ្មី"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ពាក្យសម្ងាត់ថ្មី"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "វាយបញ្ចូលពាក្យសម្ងាត់ម្ដងទៀត"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "អះអាងពាក្យសម្ងាត់"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "វាយបញ្ចូលពាក្យសម្ងាត់"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ពាក្យសម្ងាត់"
+    },
+    {
+      "name": "field_token_title",
+      "value": "កូដបញ្ចាក់ទទួលស្គាល់"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "វាយបញ្ចូលឈ្មោះអ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ឈ្មោះអ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "ជម្រះការស្វែងរក"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "លទ្ធផលស្វែងរកបន្ទាប់"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "លទ្ធផលស្វែងរកមុន"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ស្វែង​រកនិងជំនួស"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ស្វែងរកពាក្យស្រដៀងនិងជំនួស"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ស្វែងរក"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "កំណត់ឡើងវិញ"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "អ៊ីមែលសេចក្ដីណែនាំពីរបៀបកំណត់ពាក្យសម្ងាត់ឡើងវិញត្រូវបានផ្ញើរួចហើយ"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "សូមបំពេញប្រអប់ខាងក្រោមដើម្បីទទួលសេចក្ដីណែនាំពីរបៀបកំណត់ពាក្យសម្ងាត់ឡើងវិញតាមរយៈអ៊ីមែល"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ឬ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "តើអ្នកពិតជាងចង់លុបចោលរបស់ថ្មីៗទាំងអស់ឬ?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "លុបចោលទាំងអស់"
+    },
+    {
+      "name": "history_title",
+      "value": "ប្រវត្តិ"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "វិគីភីឌា ត្រឡប់ទៅ រុករក"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "វិគីភីឌា ត្រឡប់ទៅ អត្ថបទរក្សាទុក"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "អត្ថបទស្រដៀង \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "កន្លែងផ្សេងទៀតដែលនៅជិតទីតាំងរបស់អ្នក"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "អត្ថបទនៅក្បែរ\\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "ព្រឹត្តិការណ៍បច្ចុប្បន្នផ្សេងទៀត"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "កំណត់ចំណង់ចំណូលចិត្ត"
+    },
+    {
+      "name": "home_title",
+      "value": "រុករក"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "វិគីភីឌា អូសទៅផ្នែកខាងលើរបស់ រុករក"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "អត្ថបទនៅក្បែរ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "អត្ថបទចៃដន្យ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ស្វែងរកក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "អ្នកនិពន្ធមិនស្គាល់។"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "ពីវិគីភីឌា\\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ពីវិគីភីឌា"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "ព័ត៌មានក្នុងសារព័ត៌មាន"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "បញ្ចូល"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "បញ្ចូលតំណភ្ជាប់"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "ការពិពណ៌នាសម្រាប់អ្នកអានដែលមើលមិនឃើញរូបភាព"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ពិពណ៌នារូបភាពនេះ"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "អត្ថបទ​ជំនួស"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "តើ​រូបភាព​នេះ​ទាក់ទង​នឹង​អត្ថបទ​នេះបែប​ណា?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "ឃ្លាដែលបង្ហាញនៅជាប់នឹងរូបភាពនេះសម្រាប់អ្នកអានទាំងអស់"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "កូនចំណងជើង"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "កណ្ដាល"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ឆ្វេង"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "មិនកំណត់"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ស្ដាំ"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ទីតាំងរូបភាព"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "ព័ត៌មានបន្ថែម"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "ជ្រើសរើសរូបភាព"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "តាមចិត្ត"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "តាមលំនាំ​ដើម"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ទំហំ​រូបភាព​"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ធម្មតា"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ស៊ុម"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "គ្មានស៊ុម"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "កូនរូបភាព"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ប្រភេទ​រូបភាព"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "ការ​កំណត់​មេឌា"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "បញ្ចូលមេឌា"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ភាសា"
+    },
+    {
+      "name": "languages_title",
+      "value": "ប្ដូរភាសា"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ភាសាវិគីភីឌា"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "បន្តដោយមិនកត់ឈ្មោះចូល"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "កត់ឈ្មោះចូលគណនីរបស់អ្នកឡើងវិញ"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "អ្នកបានកត់ឈ្មោះចេញហើយ"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "អ្នកភ្លេចពាក្យសម្ងាត់ហើយ?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ចូលរួមជាមួយវិគីភីឌា។"
+    },
+    {
+      "name": "login_no_account",
+      "value": "​បើលោកអ្នក​មិនទាន់មាន​គណនី​​ទេ​ សូម\\$1។"
+    },
+    {
+      "name": "login_title",
+      "value": "កត់ឈ្មោះចូលគណនីរបស់អ្នក"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "អំពីកម្មវិធី"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "កត់ឈ្មោះចូល"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "កត់ឈ្មោះចេញ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "តើអ្នកពិតជាងចង់កត់ឈ្មោះចេញមែនទេ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "កត់ឈ្មោះចូលជា \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "ភាពឯកជននិងលក្ខខណ្ឌប្រើប្រាស់"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ជិតខាង"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "គោលការណ៍នៃ​ភាពឯកជន"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "វាយតម្លៃកម្មវិធី"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "លក្ខខណ្ឌប្រើប្រាស់"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "បន្ថែមទៀត"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "សំនួរញឹកញាប់សម្រាប់វិគីភីឌាសូន្យ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ស្វែងរកក្នុងវិគីភីឌាជាភាសាជាង៣០០ភាសា"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "បន្ថែមភាសា"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "ប្ដូរទីតាំង{{PLURAL:\\$1|អត្ថបទចំនួន\\$1|អត្ថបទចំនួន\\$1}}ទៅក្នុងបញ្ជីអំណាន"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "មើលជាមុន"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ហ្វីដ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 គ.ម"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 ម"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ម៉ៃល៍"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "អ្នកបានកត់ឈ្មោះចូលដោយប្រើពាក្យសម្ងាត់បណ្ដោះអាសន្ន។ កំណត់ពាក្យសម្ងាត់ថ្មីនៅទីនេះដើម្បីបញ្ចប់ការកាត់ឈ្មោះចូល។"
+    },
+    {
+      "name": "new_password_title",
+      "value": "កំណត់ពាក្យសម្ងាត់របស់អ្នក"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "សូមកំណត់គណនីអ៊ីមែលលើឧបករណ៍របស់អ្នករួចសាកល្បងម្ដងទៀត។"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "គ្មានបណ្ដាញអ៊ីនធើណិត"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "ពី \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "សារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ប្តូរពាក្យសម្ងាត់"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "កំពុងពិនិត្យមើលសារជូនដំណឹង..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "នៅក្នុងកម្មវិធី"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "នៅលើវិប"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "កំពុងពិនិត្យមើលសារជូនដំណឹង..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "អ្នកគ្មានសារទេ"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "បើកប្រើសារជូនដំណឹងបែបជម្រុញ"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "តម្រងសារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ទាំងអស់"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "អានរួច"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "មិនទាន់អាន"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "ស្ថានភាពការអាន"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "តម្រង"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "គ្រប់ប្រភេទ"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "ប្រភេទនៃសារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "អត្ថបទ"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "ទំព័រពិភាក្សាអំពី \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "ប្រៀបធៀប"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "ទំព័រអ្នកប្រើប្រាស់របស់\\$1"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "ទំព័រពិភាក្សារបស់អ្នក"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "សារជូនដំណឹងពី\\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "រួចរាល់"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "គម្រោង​"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "មានតែគម្រោងដែលអ្នកបានបង្កើតគណនីហើយប៉ុណ្ណោះដែលនឹងបង្ហាញនៅទីនេះ"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "គម្រោងវិគីមេឌា"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "វិគីភីឌា"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "សារជូនដំណឹងអំពីការកត់ឈ្មោះចូល"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "ដាក់សញ្ញាសម្គាល់"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ដាក់សម្គាល់ថាបានអានរួចហើយទាំងអស់"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "ដាក់សម្គាល់ថាបានអានរួចហើយ"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "ដាក់សម្គាល់ថាមិនទាន់អាន"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "បន្ថែមទៀត"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "ការកំណត់សារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|សារ\\$1|សារ\\$1}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "បន្ត"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "តម្រង"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "ស្វែងយល់បន្ថែមអំពីសារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "សារជូនដំណឹងជួយឱ្យអ្នកដឹងអំពីសកម្មភាពដែលទាក់ទងនឹងការកែសម្រួលនិងគណនីរបស់អ្នក។"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "សារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "ប្រអប់សំបុត្រចូលគម្រោង"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "តម្រងគម្រោង"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ទាំងអស់"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "សារជូនដំណឹងទាំងអស់"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 ក្នុង \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "ត្រងដោយ"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=ក្នុងមួយគម្រោង|ក្នុងគម្រោងចំនួន\\$1}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=មួយគម្រោង|គម្រោងចំនួន\\$1}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=មួយប្រភេទ|ប្រភេទចំនួន\\$1}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "អានរួច"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "អ៊ី​ម៉ែ​ល​ថ្មី"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "សូមស្វាគមន៍!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "កត់ចំណាំថាបានអានហើយ"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "កត់ចំណាំថាមិនទាន់អានហើយ"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "បន្ថែមទៀត"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "សារជូនដំណឹង"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "សារស្វាគមន៍"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "អ៊ីមែលពីអ្នកប្រើប្រាស់ដទៃ"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ការកត់ឈ្មោះចូលមិនបានសម្រេច"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "ការកត់ឈ្មោះចូលទៅក្នុងគណនីរបស់អ្នកដែលមិនបានសម្រេច"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "កត់ឈ្មោះចូលបានសម្រេច"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ផ្សេងទៀត"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "តំណភ្ជាប់ទំព័រ"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "ពិនិត្យខ្លឹមសារអត្ថបទ"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "ការសំដៅទៅដែលមិនបានសម្រេច"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "ការសំដៅទៅដែលបានសម្រេច"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "ការសំដៅទៅទំព័រពិភាក្សា"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ការថ្លែងអំណរគុណ"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "បន្លាស់ប្ដូរសិទ្ធិអ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "សារទំព័រពិភាក្សា"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "សារស្វាគមន៍"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "សកម្មភាពថ្មីនៅក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|សារថ្មីៗចំនួន\\$1|សារថ្មីៗចំនួន\\$1}} នៅក្នុង\\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|សារថ្មីៗ|សារថ្មីៗ}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1ពាន់លាន"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1លាន"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1ពាន់"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "ពី \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 ព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រ|\\$1 ព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រ}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ព្រឹត្រិការណ៍ប្រវត្តិសាស្ត្រនៅថ្ងៃនេះបន្ថែមទៀត"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|ព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រចំនួន\\$1ទៀត|ព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រចំនួន\\$1ទៀត}}កើតឡើងថ្ងៃនេះ"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "ភាសាចម្បងរបស់វិគីភីឌារបស់អ្នកមិនអាចប្រើព្រឹត្តិការប្រចាំថ្ងៃបានទេ។ អ្នកអាចបន្ទាន់សម័យវិគីភីឌាចម្បងរបស់អ្នកនៅក្នុងបញ្ជីការកំណត់នៅក្នុងកម្មវិធីនេះ។"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "គ្មានទិន្នន័យទេ"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 ពីវិគីភីឌា\\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "នៅថ្ងៃនេះ"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "ចុចលើ 'W' ដើម្បីត្រឡប់ទៅផ្ទាំងដែលអ្នកបានចាប់ផ្តើម"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "កំណែប្រែដោយរូបយន្ត"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "ចុចដើម្បីជ្រើសយកកំណែ២ច្បាប់សម្រាប់ប្រៀបធៀប"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "ប្រៀបធៀប"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "ក្រាហ្វចំនួនកំណែប្រែតាមពេលវេលា"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "កំណែប្រែតិចតួច"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "អ្នកនិពន្ធ៖ \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "ចំណារពន្យល់​ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "ប្រវត្តិនៃកំណែ"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "កំណែប្រែតិចតួច"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "បានបន្ថែម{{PLURAL:\\$1|\\$1បៃ|\\$1បៃ}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "បានលុបចោល{{PLURAL:\\$1|\\$1បៃ|\\$1បៃ}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "កំណែនៅ\\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "អាចជ្រើសរើសតែ២កំណែទេ"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|កំណែចំនួន\\$1|កំណែចំនួន\\$1}} តាំងពីឆ្នាំ \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "បញ្ហាក្នុងទំព័រ"
+    },
+    {
+      "name": "page_location",
+      "value": "មើលនៅលើផែនទី"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "អ្នកគ្មានសិទ្ធិក្នុងការកែប្រែទំព័រនេះទេ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ទំព័រនេះត្រូវបានការពាររួចហើយ"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ទំព័រស្រដៀង"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "ការប្រៀបធៀបកំណែនានាអាចជួយបង្ហាញថាអត្ថបទនេះបានប្រែប្រួលបែបណា។ ការប្រៀបធៀបកំណែ២របស់អត្ថបទតែមួយនឹងបង្ហាញពីចំនុចខុសគ្នារបស់កំណែទាំង២នោះ ដោយផាត់ពណ៌លើខ្លឹមសារដែលបានផ្លាស់ប្ដូរ។"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "ប្រៀបធៀបកំណែ"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "អ្នកមិនទាន់កត់ឈ្មោះចូលទេ"
+    },
+    {
+      "name": "pictured",
+      "value": "រូបគូរ"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "ជម្រះពាក្យស្វែងរកដែលបានរក្សាទុក"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 អត្ថបទ"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "ត្រឡប់ទៅទីតាំងរបស់អ្នក"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "បង្ហាញជាបញ្ជី"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "បង្ហាញជាផែនទី"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "បង្ហាញអត្ថបទបន្ថែម"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "រុករកទីក្រុង ប្រទេស ទ្វីប រមណីយដ្ឋានធម្មជាតិ ព្រឹត្តិការណ៍ប្រវត្តិសាស្ត្រ សំណង់អាគារ និងអ្វីៗជាច្រើនទៀត។"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "ស្វែងរកអត្ថបទវិគីភីឌាដោយប្រើទីតាំងភូមិសាស្ត្រ"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "បើប្រើព័ត៌មានទីតាំង"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "ព័ត៌មានទីតាំងអាចប្រើបានតែពេលដែលកម្មវិធីនេះឬមុខងារពិសេសរបស់វាបង្ហាញនៅលេអេក្រង់របស់អ្នក។"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "រុករកអត្ថបទនៅក្បែរទីតាំងរបស់អ្នកដោយបើកប្រើព័ត៌មានទីតាំង"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "តម្រងអត្ថបទ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "តម្រង"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "អ្នកគ្មានទីកន្លែងដែលបានរក្សាទុកទេ"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "អត្ថបទដែលបានរក្សាទុក"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "អត្ថបទអានច្រើនជាងគេ"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1អត្ថបទ|\\$1អត្ថបទ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "អត្ថបទអានច្រើនជាងគេ"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "បានបើកប្រើព័ត៌មានទីតាំង"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "គ្មានអត្ថបទដែលបានរក្សាទុករបស់អ្នកណាមួយ ដែលមានព័ត៌មានទីតាំងទេ"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 ត្រូវនឹង «\\$2»"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "ស្វែងរកទីកន្លែង"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "ប្រហែលជាអ្នកចង់រក \\$1"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ការស្វែងរកថ្មីៗនេះ"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "អត្ថបទរក្សាទុកទាំងអស់"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "សំណើស្វែងរក"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "លទ្ធផលនៅក្នុងតំបន់នេះ"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "អត្ថបទលើគេទាំងអស់"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ជិតខាង"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "ទីតាំងបច្ចុប្បន្នរបស់អ្នក"
+    },
+    {
+      "name": "places_title",
+      "value": "ទី​កន្លែង"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ចម្ងាយមិនច្បាស់លាស់"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "រូបភាពថ្ងៃនេះសម្រាប់ \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "យកមើលរូបភាពថ្ងៃនេះសម្រាប់\\$1 មិនបានសម្រេច"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "រីករាយជាមួយរូបភាពស្អាតៗប្រចាំថ្ងៃដែលសហគមយើងខ្ញុំបានសម្រាំង។"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "រូបភាពប្រចាំថ្ងៃ"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "អនុញ្ញាតអោយមូលនិធិវិគីមេឌាប្រមូលព័ត៌មានអំពីរបៀបប្រើប្រាស់កម្មវិធីរបស់អ្នក ដើម្បីជួយកែច្នៃកម្មវិធីនេះអោយកាន់តែប្រសើរ"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "មេឌាវិគី"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "វិគីសៀវភៅ"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "វិគីទិន្នន័យ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "វិគីមេឌារួម"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "វិគីព័ត៌មាន"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "វិគីពាក្យពេចន៍"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "វិគីបណ្ណាល័យ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "វិគីជីវសាស្ត្រ"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "វិគីសាកលវិទ្យាល័យ"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "វិគីទេសចរណ៍"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "វិគីនានុក្រម"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "បន្ថែមអត្ថបទនេះទៅក្នុងបញ្ជីអានឬ?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "បន្ថែម “ \\$1 ” ទៅក្នុងបញ្ជីអានឬ?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "បាទ/ចាស៎ បន្ថែមអត្ថបទទាំងនេះទៅក្នុងបញ្ជីអានរបស់ខ្ញុំ"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "រកឃើញអត្ថបទដែលបានរក្សាទុក"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "បង្កើតបញ្ជីអាន"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "ការពិពណ៌នា"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "ឈ្មោះបញ្ជីអាន"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "បង្កើតបញ្ជីថ្មីមួយ"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "បានលុបបញ្ជីអាន"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "ទេ។ សូមលុបអត្ថបទពីឧបករណ៍នេះ"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "ឈ្មោះបញ្ជីអាននេះមានប្រើហើយ"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "បាទ/ចាស៎។ សូមទុកអត្ថបទនៅលើឧបករណ៍នេះ"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "តម្រៀបអត្ថបទ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "កត់ឈ្មោះចូលឬបង្កើតគណនី"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "ចំណារពន្យល់សង្ខេប(សរសេរក៏បានមិនសរសេរក៏បាន)"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "ចំណងជើងបញ្ជីអត្ថបទចង់អាន"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "រចនាបថខ្មៅ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "របារកែសម្រួលពន្លឺ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "រចនាបថងងឹត"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "រចនាបថភ្លឺ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "រចនាបថកាគី"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "របារកែសម្រួលទំហំអក្សរ"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "លោតទៅផ្នែកឯកសារយោង"
+    },
+    {
+      "name": "reference_title",
+      "value": "ឯកសារ​យោង​\\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ថ្ងៃនេះ|1=ម្សិលមិញ|\\$1 ថ្ងៃមុន}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1ម៉ោង"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=ថ្មីៗនេះ|\\$1 ១ម៉ោងមុន|\\$1 ម៉ោងមុន}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1ម៉ោងមុន"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=ថ្មីៗនេះ|\\$1ម៉ោងមុន|\\$1ម៉ោងមុន}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=អម្បាញ់មិញ|\\$1នាទីមុន|\\$1នាទីមុន}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1នាទី"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=អម្បាញ់មិញ|\\$1នាទីមុន|\\$1នាទីមុន}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1នាទីមុន"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=ខែនេះ|1=១ខែមុន|\\$1ខែមុន}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1វិនាទី"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1វិនាទីមុន"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ឆ្នាំនេះ|1=ឆ្នាំមុន|\\$1ឆ្នាំមុន}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "អត្ថបទទាំងអស់"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "បញ្ជីនេះមិនអាចលុបចោលបានទេ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "ទាញយករូបភាពរបស់ទំព័រដែលបានរក្សាទុកនេះមិនបានសម្រេចទេ។"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "កំពុងទាញយកអត្ថបទ..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "បញ្ជីអត្ថបទចង់អាន"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "ស្វែងរកអត្ថបទដែលបានរក្សាទុក"
+    },
+    {
+      "name": "saved_title",
+      "value": "រក្សាទុករួច"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "ការឈប់រក្សាទុក{{PLURAL:\\$1|អត្ថបទនេះនឹងលុបវា|អត្ថបទនេះនឹងលុបវា}}ចេញពីបញ្ជីអ្នកចង់អានទាំងអស់។"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "ឈប់រក្សាទុក{{PLURAL:\\$1|អត្ថបទ|អត្ថបទ}}ឬ?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ស្វែងរកក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ជម្រះ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ស្វែងរកក្នុងវិគីភីឌា"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "លុបចោលការស្វែងរកថ្មីៗនេះទាំងអស់ឬ?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "សកម្មភាពនេះមិនអាចឈប់ធ្វើវិញបានទេ!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "លុបចោលទាំងអស់"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "មិនទាន់មានពាក្យស្វែងរកថ្មីៗនេះនៅឡើយទេ"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ការស្វែងរកថ្មីៗនេះ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "បានបញ្ជូនបន្តពី៖\\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "ស្វែងរក"
+    },
+    {
+      "name": "settings_account",
+      "value": "គណនី"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ចំណង់ចំណូលចិត្តអំណាន"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "បោះបង់"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "ជំនួយនិងមតិយោបល់"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "បង្ហាញភាសាក្នុងផ្ទាំងស្វែងរក"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ភាសារបស់ខ្ញុំ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "សារជូនដំណឹង"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ព្យាយាមម្ដងទៀត"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ភាសាចម្បង"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ភាសាលើគេនៅក្នុងបញ្ជីនេះនឹងត្រូវបានប្រើជាភាសាចម្បងសម្រាប់កម្មវិធីនេះ។"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "កំណត់អោយកម្មវិធីបើកឡើងក្នុងផ្ទាំងស្វែងរក មិនមែនក្នុងផ្ទាំងរុករក"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "បើកកម្មវិធីឡើងក្នុងផ្ទាំងស្វែងរក"
+    },
+    {
+      "name": "settings_title",
+      "value": "ការកំណត់"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "បង្កើតឡើងដោយប្រើកម្មវិធីវិគីភីឌា"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" នៅលើវិគីភីឌា៖"
+    },
+    {
+      "name": "share_building",
+      "value": "ធ្វើកាតចែកចាយព័ត៌មាន..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” ពី “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nពី “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "ស្វែងរកផ្លូវ"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "ចែកចាយ..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "តាមរយៈវិគីភីឌា"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "បើកក្នុងកម្មវិធីផែនទី"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” តាមរយៈវិគីភីឌា៖ \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” តាមរយៈវិគីភីឌា៖ \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "ទើបបន្ថែមថ្មីៗ"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "ចំណងជើង"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "មាតិកា"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "បិទ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "បិទមាតិកា"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "មាតិកា"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "លាក់តារាងមាតិកា"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "កូនចំណងជើង\\$1"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "អំពីទំព័រពិភាក្សា"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "ប្ដូរភាសា"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "អានរួច"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "មិនទាន់អាន"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "ស្វែងរកក្នុងទំព័រ"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "បើកមើលខ្សែសន្ទនាទាំងអស់"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "សូមចាំថា ពួកយើងទាំងអស់គ្នាសុទ្ធតែជាមនុស្សដូចគ្នា"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "សូមចេះអធ្យាស្រ័យគ្នា"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "ការឆ្លើយតបរបស់អ្នកត្រូវបានបោះពុម្ពផ្សាយបានសម្រេចហើយ"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "ការពិភាក្សារបស់អ្នកត្រូវបានបោះពុម្ពផ្សាយបានសម្រេចហើយ"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "ព័ត៌មានអំពីទំព័រនេះ"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "តំណភ្ជាប់អចិន្ត្រៃយ៍"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "អ្វី​ដែលភ្ជាប់មកទីនេះ"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "ឆ្លើយតប"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "ការពិភាក្សាអំពីអត្ថបទ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "ការពិភាក្សារបស់អ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "អានបន្ថែម"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "ការ​ពិភាក្សា"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ខ្មៅ"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "ងងឹត"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "តាមលំនាំដើម"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "សម្របតាមរចនាបថប្រព័ន្ធ"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "ភ្លឺ"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "កាគី"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "ស្វែងយល់ពីអ្វីដែលមនុស្សក្នុងពិភពលោកកំពុងអានថ្ងៃនេះនៅក្នុងវិគីភីឌា។"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "អ្នកអាន\\$1នាក់"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "អត្ថបទអានច្រើនជាងគេ"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "បន្តកត់ឈ្មោះចូល"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "សូមវាយបញ្ចូលលេខកូដបញ្ជាក់ពីរតង់"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "កត់ឈ្មោះចូលគណនីរបស់អ្នក"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "ប្រើលេខកូដបម្រុងមួយរបស់អ្នក"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "ប្រើលេខកូដបញ្ជាក់"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "អត្តនាមនិងទំព័រអ្នកប្រើប្រាស់"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "ពិនិត្យចំណង់ចំណូលចិត្តរបស់អ្នក"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "អត្ថបទស្នើអានប្រចាំថ្ងៃពីសហគមយើងខ្ញុំ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "ហ្វីដរុករក"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "ក្រឡេកមើលអតីតកាលដើម្បីសិក្សាពីអ្វីដែលបានកើតឡើងថ្ងៃនេះក្នុងប្រវត្តិសាស្ត្រ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ព្រឹត្តិការណ៍ថ្ងៃនេះ"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "រុករកទីកន្លែងនៅក្បែរអ្នកឬស្វែងរកកន្លែងនានាក្នុងពិភពលោក"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "ទីកន្លែង"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "ចាប់ផ្ដើមប្រើ"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "វិធីរុករកថ្មីៗ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "យល់ហើយ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "វិគីភីឌាត្រូវបានសរសេរឡើងដោយមានការសហការគ្នាពីអ្នកស្ម័គ្រចិត្តជាច្រើននាក់ និងមានអត្ថបទជាង៤០លានចំណងជើង សរសេរជាភាសាជាង៣០០ភាសា។"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "ស្វែងយល់បន្ថែមពីវិគីភីឌា"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "អំពីវិគីភីឌា"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "វិគីភីឌាជាគម្រោងជាសាកលលោក ក្នុងគោលបំណងស្ថាបនាសព្វវចនាធិប្បាយសេរី ជាភាសាទាំងអស់ក្នុងពិភពលោក។ ជាក់ស្ដែង អ្នកដែលមានបណ្ដាញអ៊ីនធើណិតមានសិទ្ធិចូលរួមដោយសេរី ក្នុងការរួមចំណែកផ្ដល់ព័ត៌មានដែលមានអព្យាក្រិតនិងមានឯកសារយោងត្រឹមត្រូវ។"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "សព្វវចនាធិប្បាយសេរី"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "បន្ថែមភាសាមួយទៀត"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "បន្ថែមឬកែប្រែភាសាចូលចិត្ត"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "រកឃើញភាសាខាងក្រោមនេះនៅក្នុងឧបករណ៍របស់អ្នក៖"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "ស្វែងរកជាភាសាជាង៣០០ភាសា"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "ស្វែងយល់ពីអ្វីដែលបានកើតឡើងនៅថ្ងៃនេះក្នុងប្រវត្តិសាស្ត្រ។"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "សព្វវចនាធិប្បាយអនឡាញឥតគិតថ្លៃដែលមនុស្សគ្រប់គ្នាអាចកែប្រែបាន។"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "វិគីភីឌាជាសព្វវចនាធិប្បាយឥតគិតថ្លៃ ដំណើរការលើអ៊ីនធើណិត។"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "វិគីភីឌាគ្មានអត្ថបទដែលមានចំណងជើងនេះទេ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "តំណភ្ជាប់នេះនាំទៅកាន់\\$1"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "មើលតំណភ្ជាប់មុន"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "រក្សាទុក​បន្លាស់ប្ដូរ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "បញ្ហាក្នុងការផ្ទៀងផ្ទាត់ CAPTCHA។"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "ត្រូវការផ្ទៀងផ្ទាត់ CAPTCHA។"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "កំពុងបោះផ្សាយ..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "ការកែប្រែនឹងត្រូវភ្ជាប់ព័ត៌មានជាមួយអាសយដ្ឋាន IP របស់ឧបករណ៍របស់អ្នក។ ប្រសិនបើអ្នក\\$1 នោះអ្នកនឹងអាចរក្សាឯកជនភាពរបស់អ្នកបានប្រសើរជាងនេះ។"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "លក្ខខណ្ឌប្រើប្រាស់"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "អត្ថបទត្រូវចំណូលចិត្តអ្នក"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "អត្ថបទដែលមានគេអានច្រើនទាំងអស់"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "អត្ថបទចៃដន្យមួយទៀត"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "ពីវិគីភីឌា%s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "ក្នុងវិគីភីឌា%s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ពីវិគីមេឌារួម"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "គ្មានប្រវត្តិសម្រាប់បង្ហាញ"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "លាក់កាតនេះ"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "កំណត់ហ្វីដរុករក"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "កាតដែលបានលាក់"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "ចំណារពន្យល់អំពីអត្ថបទសម្រាប់ %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "ប្រហែលជាអ្នកចង់រក %s"
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ვიკიპედია"
+    },
+    {
+      "name": "about_content_license",
+      "value": "კონტენტის ლიცენზია"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ავტორები"
+    },
+    {
+      "name": "about_libraries",
+      "value": "გამოყენებული მასალები"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "სრული სია"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ლიცენზია"
+    },
+    {
+      "name": "about_product_of",
+      "value": "ეს პროგრამული პროდუქტი \\$1-მ თქვენნაირი მოხალისეების დახმარებით შეიმუშავა"
+    },
+    {
+      "name": "about_repositories",
+      "value": "რეპოზიტორები"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "შეაფასეთ აპლიკაცია"
+    },
+    {
+      "name": "about_title",
+      "value": "პროექტის შესახებ"
+    },
+    {
+      "name": "about_translators",
+      "value": "მთარგმნელები"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "ეს აპლიკაცია ნათარგმნია მოხალისეების მიერ \\$1-ზე"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ფონდი ვიკიმედია"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ვიკიპედია"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "ახალი CAPTCHA-ს მიღება..."
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "შესვლა."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "შედიხართ სისტემაში..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "ანგარიშის შესაქმნელად, თქვენ უნდა შეიყვანოთ მომხმარებლის სახელი, პაროლი და პაროლის დადასტურება."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "პაროლის ველები არ დაემთხვა."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "ინახება..."
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "გვერდში ძიება"
+    },
+    {
+      "name": "action_read",
+      "value": "კითხვა"
+    },
+    {
+      "name": "action_save",
+      "value": "შენახვა"
+    },
+    {
+      "name": "action_saved",
+      "value": "შენახულია"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "უარყოფა"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "მოძებნე ენა"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "აირჩიეთ ენა"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "სხვა ენები"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "შენი ენები"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "უკან"
+    },
+    {
+      "name": "button_next",
+      "value": "შემდეგი"
+    },
+    {
+      "name": "button_ok",
+      "value": "კარგი"
+    },
+    {
+      "name": "button_publish",
+      "value": "გამოქვეყნება"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "განაცხადე ხარვეზის შესახებ"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "შეინახეთ"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "შენახულია"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "შენახულიდან წაშლა"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "დახურვა"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 საათზე"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "გრამატიკის შესწორება"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "ტიპოგრაფიული შესწორება"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "დამატებული ბმულები"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "უკაცრავად, სტატიის ჩატვირთვა ვერ მოხერხდა"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "შეგიძლიათ იხილოთ შენახული გვერდები"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "თქვენ შეძლებთ რეკომენდებული სტატიების ნახვას, როდესაც გექნებათ ინტერნეტი"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "შეინახეს ის, რასაც აქ კითხულობდით"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "სანახავი ისტორია არ არსებობს"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "შეინახეთ გვერდები მათ მოგვიანებით სანახავად"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "გვერდები არ არის შენახული"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "შედეგები ვერ მოიძებნა"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "სხვა შემთხვევითი სტატია"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "განაგრძეთ კითხვა"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "რჩეული სტატია"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "დღეს ვიკიპედიაზე"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ყველა ყველაზე კითხვადი სტატია"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ყველაზე კითხვადი"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "საუკეთესო \\$1-ზე"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ადგილები სიახლოვეში"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ადგილები"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ვიკიპედიაში"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "თქვენი მდებარეობა"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "დღის სურათი"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "შემთხვევითი სტატია"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "არასწორი CAPTCHA"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ელ. ფოსტა"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ელ. ფოსტა (არასავალდებულო)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "გაიმეორეთ ახალი პაროლი"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "დაადასტურეთ ახალი პაროლი"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "შეიყვანეთ ახალი პაროლი"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ახალი პაროლი"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "გაიმეორეთ პაროლი"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "დაადასტურეთ პაროლი"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "შეიყვანეთ პაროლი"
+    },
+    {
+      "name": "field_password_title",
+      "value": "პაროლი"
+    },
+    {
+      "name": "field_token_title",
+      "value": "დადასტურების კოდი"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "შეიყვანეთ მომხმარებლის სახელი"
+    },
+    {
+      "name": "field_username_title",
+      "value": "მომხმარებლის სახელი"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ყველა თქვენი ბოლო ელემენტი?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "დიახ, ყველას წაშლა"
+    },
+    {
+      "name": "history_title",
+      "value": "ისტორია"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1-ის მსგავსად"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "თქვენი მდებარეობის გადატანა"
+    },
+    {
+      "name": "home_title",
+      "value": "გამოიკვლიე"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ახლომახლო სტატიები"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "შემთხვევითი სტატია"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ძიება ვიკიპედიაში"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ავტორი უცნობია."
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "სიახლეებში"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "ალტერნატიული ტექსტი"
+    },
+    {
+      "name": "languages_title",
+      "value": "ენის შეცვლა"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "შემოუერთდით ვიკიპედიას."
+    },
+    {
+      "name": "main_menu_about",
+      "value": "აპლიკაციის შესახებ"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "შესვლა"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "გასვლა"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "დარწმუნებული ხართ, რომ გსურთ გასვლა?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "შესული ხართ როგორც \\$1."
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "კონფიდენციალურობა და პირობები"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "სიახლოვეს"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "კონფიდენციალურობის პოლიტიკა"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "შეაფასეთ აპლიკაცია"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "გამოყენების პირობები"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "მეტი"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ვიკიპედია ზეროს ხშირი შეკითხვები"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ენების დამატება"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "წინასწარ გადახედვა"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ფუტი"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 კმ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 მ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 მილი"
+    },
+    {
+      "name": "new_password_title",
+      "value": "დააყენეთ პაროლი"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 მლრდ."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 მლნ."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ათ."
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "თქვენ არ გაქვთ ამ გვერდის რედაქტირების უფლება"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ეს გვერდი დაცულია"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 სტატიები"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "სიის სახით ჩვენება"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "რუკის სახით ჩვენება"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "ლოკაციის გააქტიურება"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "მანძილი უცნობია"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "დღის სურათი \\$1-სთვის"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "შეუძლებელია \\$1-სთვის დღის სურათის ჩატვირთვა"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ნება მიეცი ვიკიმედიას მოაგროვოს ინფორმაცია თუ როგორ იყენებ ამ აპლიკაციას, რათა ის უკეთესი გახადოს"
+    },
+    {
+      "name": "reference_title",
+      "value": "სქოლიო \\$1"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "შეუძლებელია სურათების ჩაწერა ამ შენახული გვერდისთვის."
+    },
+    {
+      "name": "saved_title",
+      "value": "შენახულია"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ძიება ვიკიპედიაში"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "წავშალოთ ყველა ბოლოს მოძიებულები?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ამ ქმედების გაუქმება შეუძლებელია!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ყველას წაშლა"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ბოლოს მოძიებული"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "გადამისამართებულია \\$1-დან"
+    },
+    {
+      "name": "search_title",
+      "value": "ძიება"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "წაკითხვის დაყენება"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "დახმარება და უკუკავშირი"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "ენების ჩვენება ძიებისას"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ჩემი ენები"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "შეტყობინებები"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ძირითადი"
+    },
+    {
+      "name": "settings_title",
+      "value": "კონფიგურაცია"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ @ვიკიპედიაზე"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "სარჩევი"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "დახურვა"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "სარჩევის დახურვა"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "შინაარსი"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "შესვლის გაგრძელება"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "გთხოვთ, შეიყვანოთ ორფაქტორიანი დადასტურების კოდი"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "თქვენ ანგარიშში შესვლა"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "გამოიყენეთ დადასტურების კოდი"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "დაწყება"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "მიღება"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "თქვენი ცვლილებების წინასწარი გადახედვის ჩვენება..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA-ს დადასტურების შეცდომა."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "საჭიროა CAPTCHA-ს დადასტურება."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ვიკიტექსტის ატვირთვის შედეგის განსაზღვრა შეუძლებელია."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "გამოქვეყნება..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "რედაქტორებს მიენიჭებათ თქვენი მოწყობილობის IP მისამართი. თუ თქვენ \\$1, იქნებით ინფორმაციულად უფრო დაცული."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "გამოყენების პირობები"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ყველა ყველაზე კითხვადი სტატია"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "სხვა შემთხვევითი სტატია"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "სანახავი ისტორია არ არსებობს"
+    }
+  ]
+}

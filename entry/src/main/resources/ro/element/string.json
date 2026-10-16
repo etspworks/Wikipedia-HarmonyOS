@@ -1,0 +1,3916 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licență conținut"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Dacă nu se specifică altfel, conținutul este disponibil sub \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Licența Creative Commons Atribuire și distribuire în condiții identice"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Contribuitori"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Biblioteci utilizate"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Lista completă"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licență"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Ne place software-ul cu sursă deschisă \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licența hărților cu locuri"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Locurile folosesc hărți oferite de Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Vă rugăm să consultați aici pentru detalii despre licență"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Creat de \\$1 cu ajutorul voluntarilor ca dumneavoastră"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Depozite"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Codul sursă este disponibil sub \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "licența MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Trimiteți o părere despre aplicație"
+    },
+    {
+      "name": "about_title",
+      "value": "Despre"
+    },
+    {
+      "name": "about_translators",
+      "value": "Traducători"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Tradusă de traducătorii voluntari de la \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fundația Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Nu pot vedea imaginea? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Se obține un nou CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Cereți un cont."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Verificare de securitate CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Creează un cont"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Aveți deja un cont? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Autentificare"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Autentificare în curs..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Trebuie să introduceți un nume de utilizator, o parolă și confirmarea parolei pentru a crea un cont."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Câmpurile cu parole nu corespund."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Se salvează..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Creează un cont nou"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Contul tău"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Pagina ta de discuții"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Semnare automată a discuțiilor"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Semnarea automată a discuțiilor va utiliza semnătura definită în Setări semnătură"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferințele paginii de discuții"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Adaugă la…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Adăugați la lista de citire"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Adaugă la listă"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Anulează"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Renunță la modificări"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Găsește în pagină"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Schimbă limba"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Mută la..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Mută la lista de citire"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Versiunea Următoare"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Versiunea anterioară"
+    },
+    {
+      "name": "action_read",
+      "value": "Citește"
+    },
+    {
+      "name": "action_redo",
+      "value": "Refă"
+    },
+    {
+      "name": "action_remove",
+      "value": "Elimină"
+    },
+    {
+      "name": "action_retry",
+      "value": "Reîncercare"
+    },
+    {
+      "name": "action_save",
+      "value": "Salvează"
+    },
+    {
+      "name": "action_saved",
+      "value": "Salvat"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Salvat. Activați pentru a anula salvarea."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Articol salvat pentru mai târziu"
+    },
+    {
+      "name": "action_share",
+      "value": "Distribuie"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Distribuie"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sortare"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Mulțumește Utilizator"
+    },
+    {
+      "name": "action_undo",
+      "value": "Anulează"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Nu salva"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Articol nesalvat"
+    },
+    {
+      "name": "action_update",
+      "value": "Actualizați"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Adaugă {{PLURAL:\\$1|\\$1 articol|\\$1 articole}} la lista de citire"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Respinge"
+    },
+    {
+      "name": "app_onboarding_data_privacy_policy_link",
+      "value": "politica de confidențialitate"
+    },
+    {
+      "name": "app_onboarding_data_privacy_terms_link",
+      "value": "termeni de utilizare"
+    },
+    {
+      "name": "app_onboarding_data_privacy_title",
+      "value": "Date & Confidențialitate"
+    },
+    {
+      "name": "app_onboarding_feed_preference_in_the_news",
+      "value": "De actualitate"
+    },
+    {
+      "name": "app_onboarding_feed_preference_personalized_option",
+      "value": "Conținut personalizat"
+    },
+    {
+      "name": "app_onboarding_feed_preference_picture_of_the_day",
+      "value": "Imaginea zilei"
+    },
+    {
+      "name": "app_onboarding_languages_title",
+      "value": "Citește în peste 300 de limbi"
+    },
+    {
+      "name": "app_onboarding_page_indicator",
+      "value": "Pagina \\$1 din \\$2"
+    },
+    {
+      "name": "app_onboarding_personalization_title",
+      "value": "Urmează-ți curiozitatea"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, referință, wiki, enciclopedie, informații, cunoștințe, cercetare, informații, explorați, învățați"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Complet personalizabile și cel mai ușor de citit Explorare flux. Localizare, îmbunătățiri ale performanței și remedieri ale erorilor."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Descărcați aplicația Wikipedia pentru a explora locațiile din apropierea dvs., pentru a sincroniza articole pentru a citi offline și a personaliza experiența dvs. de citire."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Enciclopedia liberă"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Reglați dimensiunea textului articolului"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Extindeți tabelele"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Setați ca toate tabelele din toate articolele să fie deschise implicit, inclusiv date rapide, referințe, note și legături externe."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Reduceți opacitatea imaginilor pe temele întunecate și negre"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Citirea temelor"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Setări tabel"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Trageți glisorul pentru a modifica dimensiunea textului articolului. Utilizați dimensiunea textului sistemului pentru redimensionarea altor zone de text din aplicație."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opțiuni temă"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Despre acest articol"
+    },
+    {
+      "name": "article_delete",
+      "value": "Șterge"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|articol|articole}} șterse"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Aplicația nu a reușit să recupereze conținutul actualizat la timp. Reîmprospătați această pagină mai târziu pentru a vedea modificările reflectate."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Găsește limba"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Alegere limbă"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Alte limbi"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Limbile dumneavoastră"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Citiți mai multe"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Referință \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Nu aveți suficient spațiu pe dispozitiv pentru a salva acest articol"
+    },
+    {
+      "name": "article_share",
+      "value": "Distribuie"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Deschide în filă nouă"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Pagina de discuție a articolului"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Controlul temelor de citire"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Înapoi"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Atingeți pentru a vă întoarce"
+    },
+    {
+      "name": "button_next",
+      "value": "Înainte"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publică"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Raportare eroare"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Salvează pentru mai târziu"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Salvat pentru mai târziu"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Scoateți din salvat"
+    },
+    {
+      "name": "button_skip",
+      "value": "Sari"
+    },
+    {
+      "name": "cancel",
+      "value": "Anulează"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante chinezești ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\n简体 Chineză simplificată (zh-hans)\n香港繁體 Hong Kong Tradiţional (zh-hk)\n澳門繁體 Macau Tradiţional (zh-mo)\n大马简体 Malaeziană simplificată (zh-my)\n新加坡简体 Singapore simplificat (zh-sg)\n臺灣正體 Taiwanez Tradițional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta chineză"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Curăță"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Închide"
+    },
+    {
+      "name": "compass_direction",
+      "value": "la ora \\$1"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Continuă"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Explorați Wikipedia pentru a citi mai multe articole"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nici un articol citit recent"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante tătare din Crimeea ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nQırımtatarca, Latin Crimean Tatar Latin (chr-latn)\nкъырымтатарджа, Кирил Crimean Tatar Cyrillic (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta tătară din Crimeea"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Actualizare..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Adaugă descriere"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Descrierea articolului pentru \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Prin schimbarea descrierii articolului, sunt de acord cu \\$1 și îmi eliberez irevocabil contribuțiile sub licența \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Modifică introducerea"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Modificați descrierea articolului"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Descrierile scurte sunt cele mai bune"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publică descrierea"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Modifică descrierea"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Încercați să păstrați descrierile scurte, astfel încât utilizatorii să înțeleagă subiectul articolului dintr-o privire"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Doar substantivele proprii trebuie majuscule, chiar și la începutul propoziției."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Descrierile articolelor rezumă un articol pentru a ajuta cititorii să înțeleagă subiectul dintr-o privire."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Despre"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Despre Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Descrierile sunt stocate și menținute pe Wikidata, un proiect al Fundației Wikimedia care oferă o bază de date gratuită, colaborativă, multilingvă, secundară, care sprijină Wikipedia și alte proiecte."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Mai multe informații"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "În mod ideal, descrierile ar trebui să se încadreze pe o singură linie și pot avea între două și doisprezece cuvinte. Nu sunt majuscule decât dacă primul cuvânt este un substantiv propriu."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "descrierea articolului pentru un articol despre Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "descrierea articolului pentru un articol despre Muntele Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "pictură de Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Cel mai înalt munte de pe Pământ"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "De exemplu:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Sfaturi pentru crearea descrierilor"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Ajutor pentru descrierea articolului"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Ghidul Wikidata pentru scrierea descrierilor"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Realizat"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Tocmai ai făcut Wikipedia mai bună pentru toată lumea"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Descriere publicată!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "În mod ideal, o linie, între două până la douăsprezece cuvinte"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Pe scurt"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Rezumă un articol pentru a ajuta cititorii să înțeleagă subiectul dintr-o privire"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Descrierea articolelor"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Începând, promit să nu folosesc greșit această caracteristică"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Începeți să modificați"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Modificarea anterioară"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Comparați Versiunile"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Modificarea afișată"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Comparați Versiunile"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Afișare"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Ascunde"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linii \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Paragraful a fost mutat"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "jos"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "sus"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linie|\\$1 linii}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 secțiune|\\$1 secțiuni}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Paragraful a mutat \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Nu pot încărca versiunile"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Rollback"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Sigur doriți să anulați modificările?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Redactarea editărilor"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 modificare|\\$1 modificări}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Informații editor"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 bit adăugat|\\$1 biți adăugat}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 octet șters|\\$1 octeți șterși}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Rezumatul modificărilor"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Introducere"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linia \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Utilizatorilor anonimi nu li se poate mulțumi"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "„Mulțumirile” sunt o modalitate ușoară de a arăta aprecieri pentru lucrările unui editor pe Wikipedia. Trebuie să fiți autentificat pentru a trimite „Mulțumiri”."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Autentificați-vă pentru a trimite „Mulțumiri”"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Trimite 'Mulțumiri'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "„Mulțumirile” sunt o modalitate ușoară de a arăta aprecieri pentru lucrările unui editor pe Wikipedia. „Mulțumirile” nu pot fi anulate și pot fi vizualizate public."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Trimiteți public „Mulțumiri”"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "„Mulțumirile” dvs. au fost trimise către \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Ați trimis deja o „Mulțumire” pentru această editare"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Mulțumirile nu pot fi ignorate"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Acest lucru va anula modificările făcute de revizuirile articolului afișat aici. Pentru a continua, furnizați un motiv pentru anularea acestei modificări."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 linie nemodificată|\\$1 linii nemodificate}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "Întunecarea imaginilor"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Donează cu Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Donați cu Apple Pay?"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Mulțumim!"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Afișează text"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Legătura țintă"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Scoate legătura"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Modifică legătura"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Modifică"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Aceasta se poate datora faptului că textul pe care l-ați selectat nu poate fi modificat (de exemplu, titlul articolului sau titlurile infocasetei) sau din cauza lungimii textului evidențiat"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Textul selectat nu a putut fi localizat"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Aflați mai multe despre modificările minore"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Aceasta este o modificare minoră"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Adăugați un rezumat al modificării"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Ajustări gramaticale"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Corectat greșeli ortografice"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Adăugat legături"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Cum ai îmbunătățit articolul?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Aflați mai multe despre lista dvs. de pagini urmărite"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Urmărește această pagină"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Fii îndrăzneț, dar nu nesăbuit în actualizarea articolelor. Nu agoniza dacă ai făcut greșeli: fiecare versiune anterioară a unei pagini este salvată, astfel încât greșelile pot fi ușor corectate de comunitatea noastră."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Vocea ta este importantă"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Tot conținutul trebuie să fie verificabil. Atunci când adăugați informații noi la un articol, editorii ar trebui să furnizeze o citare în rând către o sursă de încredere care să susțină direct afirmația."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Citați surse de încredere"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Ne străduim să avem articole scrise pe un ton imparțial. Atunci când editați, dorește-ți să oferi o reprezentare corectă a lumii așa cum este descrisă de surse de încredere."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Scrieți pe un ton imparțial"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Pentru a oferi tuturor accesul la cunoștințele lumii, avem nevoie de dvs. să participați la crearea acesteia citind, modificând și contribuind la subiectele care vă interesează cel mai mult."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Eliberează cunoașterea"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Sigur doriți să părăsiți modul de editare fără a publica mai întâi?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Închideți modul de editare?"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Listă ordonată"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Lista neordonată"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Înlocuiește"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Înlocuiește cu..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Înlocuiește peste tot"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Înlocuiește"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Nu există diferență între versiuni"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Nu s-au făcut modificări vizibile"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Selectați un fișier din Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Ne pare rău, articolul nu poate fi încărcat"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Puteți încă lectura paginile salvate"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Puteți vedea articolele recomandate atunci când aveți acces la internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Țineți aici evidența a ceea ce ați lecturat"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Niciun istoric de afișat"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Acest articol nu a fost încă scris în alte limbi"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Nu există alte limbi disponibile"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Creați liste pentru locuri în care să călătoriți, subiecte preferate și multe altele"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizați articole salvate cu liste de citire"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Salvați paginile în această listă pentru a le vedea cum apar aici"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Nu există pagini salvate în această listă"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Salvați pagini pentru a le vizualiza mai târziu, chiar și în modul off-line"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Nicio pagină salvată încă"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Niciun rezultat găsit"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Nu au fost postate încă mesaje pentru acest utilizator"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Vă rugăm să încercați din nou mai târziu"
+    },
+    {
+      "name": "error_unknown",
+      "value": "A apărut o eroare necunoscută."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Alt articol aleatoriu"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Pentru că ai citit"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Articole conexe suplimentare"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Reluare lectură"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Înapoi la fluxul Explore"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Explorați articole în apropierea locației dvs. actuale"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Articol de calitate"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "De la \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "De la Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Personalizare"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Explorați setările de limbă pentru flux"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "În pagina de setări „Limbile mele” se pot adăuga limbi suplimentare."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Card ascuns"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Legătură rapid înapoi la citirea unui articol deschis"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Personalizează Explorare flux"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Personalizează fluxul Explorează"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ascunderea unui tip de card va opri acest tip de card să apară în fluxul Explore."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Fila Explore"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Articol de calitate zilnic pe Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Oprit"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Pe toate"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Pornit"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Pe \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Toate cardurile \\$1 ascunse"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Această card nu este specific limbii, oprirea acestui card o va elimina din fluxul dvs. Explore."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Carduri specifice limbii"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Nu este specific limbii"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Card global"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Ascunde acest card"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Ascunde toate cardurile “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Articole despre evenimente actuale"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Ascunderea tuturor cardurilor de fluxuri Explore în toate limbile dvs. va dezactiva fila Explore."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Evenimente din istorie în această zi"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Articole Wikipedia în apropierea locației dvs."
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Imagine recomandată zilnic de la Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Generați articole aleatorii pentru a fi citite"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Sugestii bazate pe citirea istoricului"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Afișați Continuarea lecturii cardului"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Dezactivarea cardului cu articol recomandat va opri cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Afișează cardul Articolului recomandat"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Dezactivarea cardului de Știri va dezactiva cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Afișați cardul în Actualități"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Dezactivarea cardului În această zi va opri cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Afișați cardul În această zi"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Afișați cardul Imaginea zilei"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Dezactivarea cardului Locuri va dezactiva cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Afișați cardul Locații"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Dezactivarea cardului Aleatoriu va opri cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Afișează cardul Aleatoriu"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Arată cardul Pentru că ai citit"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Dezactivarea cardului Cele mai citite va opri cardul în toate limbile disponibile."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Afișează cardul Cele mai citite"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Cele mai citite articole zilnic"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Dezactivați fluxul Explorează"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Ascunderea tuturor cardurilor de fluxuri Explore va dezactiva fila Explore și o va înlocui cu o filă Setări"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Dezactivați fluxul Explore?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Dezactivați fluxul Explore"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Fila Explorare poate fi reactivată în setările fluxului Explore"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Dezactivați fila Explorare?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Dezactivarea filei Explore va înlocui fila Explore cu o filă Setări."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Dacă alegeți să afișați cardul fluxului Explore, activați fila Explorare"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Activați Explore"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Aceasta va înlocui fila Setări cu fila Explorer; puteți accesa Setări în partea de sus a filei Explore, făcând click pe pictograma volanului."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Activați fila Explorare?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Ascunde acest card"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Pagina principală a proiectelor Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Astăzi la Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Toate cele mai citite articole din top"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Cele mai citite"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Cele mai citite articole pe \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Pe \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Pe Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Locuri din apropiere"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Locuri"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "De la \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "De la Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Locația ta"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Locația dvs. de la \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Imaginea zilei"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "De la Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Articol aleatoriu"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "De la \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "De la Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Aleatorizare"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Un articol de calitate nu este disponibil pentru această dată."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Descoperiți cele mai bune articole de pe Wikipedia, selectate zilnic de comunitatea noastră."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "De la \\$1 Wikipedia"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "De la Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Limba dvs. principală Wikipedia nu susține articolul de calitate. Puteți actualiza Wikipedia principală în meniul Setări al aplicației."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Articol de calitate"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Ceva nu a mers bine. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Aplicația a primit un răspuns neașteptat de la server. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA nevalid"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Parolele nu sunt identice"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Cod nevalid"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Nume de utilizator indisponibil"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Cod de rezervă"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Text CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Introduceți textul pe care îl vedeți mai sus"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Email"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-mail (opțional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "reintroduceți parola nouă"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Confirmă noua parolă"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "introduceți o parolă nouă"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Parola nouă"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Reintroduceți parola"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Confirmă parola"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Introdu parola"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Parola"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Cod de verificare"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "introduceți numele de utilizator"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nume de utilizator"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Toate"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Ștergeți căutarea"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Următorul rezultat găsit"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Rezultat găsit anterior"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Găsiți și înlocuiți"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Închide găsește și înlocuiește"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Găsește"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Resetează"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "A fost trimis un e-mail cu instrucțiuni de resetare a parolei"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Completați unul dintre câmpurile de mai jos pentru a primi instrucțiuni de resetare a parolei prin e-mail"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Resetează parola"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Sau"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante Gan ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Simplificat (gan-hans)\n贛語 繁體 Gan, Tradiţional (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Sigur doriți să ștergeți toate elementele recente?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Da, șterge tot"
+    },
+    {
+      "name": "history_title",
+      "value": "Istoric"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, reveniți la Explore"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, reveniți la Salvat"
+    },
+    {
+      "name": "home_feed_interests_deselect_all",
+      "value": "Deselectează tot"
+    },
+    {
+      "name": "home_feed_interests_header_title",
+      "value": "Ce te interesează?"
+    },
+    {
+      "name": "home_feed_interests_search_placeholder",
+      "value": "Caută un articol"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mai multe precum \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Mai multe articole din aproMai multe locuri lângă locația dvs.pierea dumneavoastră"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mai multe locuri de lângă \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Mai multe evenimente actuale"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Articolele dvs. salvate pot fi acum organizate în liste de citire și sincronizate pe dispozitive. Conectați-vă pentru a permite salvarea listelor dvs. de citire în preferințele utilizatorului."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Administrează preferințele"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Ajustați preferințele dvs. de lectură, inclusiv dimensiunea textului și tema din bara de instrumente a articolului sau în setările utilizatorului pentru o experiență de citire mai confortabilă."
+    },
+    {
+      "name": "home_title",
+      "value": "Explorare"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, derulați în partea de sus a Explore"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Articole în apropiere"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Articol aleatoriu"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Căutare în Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autor necunoscut."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "De la \\$1 Wikipedia"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "De la Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Știri"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Inserează"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Inserare legătură"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Descriere text pentru cititorii care nu pot vedea imaginea"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Descrieți această imagine"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Text alternativ"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Cum se raportează această imagine la articol?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Etichetă care se afișează lângă articol pentru toți cititorii"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Legendă"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centru"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Stânga"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Fără"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Dreapta"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Poziția imaginii"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Mai multe informații"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Selectează imaginea"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Personalizat"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Implicit"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Dimensiunea imaginii"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Bază"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Cadru"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Fără cadru"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatură"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tipul imaginii"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Setări media"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Introduceți media"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante inuktitut ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Syllabics (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante kazahe ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Cyrillic (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arabic (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta kazahă"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante kurde ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nKurdî Latînî Kurdish, Latin (ku-latn)\nكوردی Kurdish, Arabic (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta kurdă"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Limbile"
+    },
+    {
+      "name": "languages_title",
+      "value": "Schimbare limbă"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Limbile Wikipedia"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Continuați fără autentificare"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Autentificați-vă în contul dvs."
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "A apărut o problemă la autentificarea în contul tău. Pentru a vă sincroniza listele de citire și a edita sub numele de utilizator, vă rugăm să vă autentificați."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Ai fost deconectat"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ai uitat parola ta?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Alăturați-vă Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nu aveți cont? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Autentificați-vă în contul dvs."
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Despre aplicație"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Autentificare"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Închide sesiunea"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Sigur doriți să închideți sesiunea?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Deconectarea va șterge datele contului stocate local (notificări și mesaje), dar datele contului dvs. vor fi în continuare disponibile pe web și vor fi re-descărcate dacă vă conectați din nou."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Autentificat ca \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Confidențialitate și Termeni"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "În apropiere"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Politica de confidențialitate"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Evaluează aplicația"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Termeni de utilizare"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mai mult"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Într. frecv. Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Căutați Wikipedia în peste 300 de limbi"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Adaugă limbi"
+    },
+    {
+      "name": "more_menu",
+      "value": "Mai mult"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Mută {{PLURAL:\\$1|\\$1 articol|\\$1 articole}} la lista de citit"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Previzualizare"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 picioare"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 metri"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mile"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Sunteți autentificat cu o parolă temporară. Pentru a termina autentificarea, setați o parolă nouă aici."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Setați parola"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Vă rugăm să configurați un cont de e-mail pe dispozitivul dumneavoastră și să încercați din nou."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Fără conexiune internet"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nu acum"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "De la \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Alerte"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Filtru de notificări - are filtre aplicate"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Filtrul de proiecte - are filtre aplicate"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Notificări cu insigna necitită"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 notificare"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Schimbare parolă"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Se verifică notificările..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "În app"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Pe web"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Se verifică notificările..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Nu aveți mesaje"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "În prezent, nu sunteți abonat la nicio Notificare Wikipedia"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Modificați \\$1 pentru a vedea mai multe mesaje"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Adăugați proiecte pentru a vedea mai multe mesaje"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filtru|\\$1 filtre}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Activați notificările push"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Notificările de editare pentru toate proiectele Wikimedia sunt acum disponibile prin intermediul aplicației. Înscrieți-vă pentru notificări push pentru a fi la curent cu mesajele dvs. de pe Wikipedia în timp ce sunteți în deplasare."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Filtru de notificări"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Toate"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Citește"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Necitit"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Status Citire"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "\nModificați tipurile de notificări pentru a le filtra în/din căsuța dvs. de notificări. Tipurile care sunt dezactivate nu vor fi vizibile, dar conținutul lor și orice notificări noi vor fi disponibile când comutatorul este activat din nou."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Toate tipurile"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Tipuri de notificări"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Articol"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 pagina de discuție"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Diferență"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Pagina de utilizator \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Elementul Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Pagina de discuție a dvs."
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Alertă de la \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Realizat"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Proiecte"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Aici vor apărea doar proiectele pentru care ați creat un cont"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Proiecte Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedii"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Notificări de conectare"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Marchează"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Marchează toate ca citite"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Sunteți sigur că doriți să marcați toate {{PLURAL:\\$1|\\$1 mesaje|\\$1 mesaje}} notificărilor dvs. ca citite? Notificările dvs. vor fi marcate ca citite pe toate dispozitivele dvs."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Sigur doriți să marcați toate notificările dvs. ca citite? Notificările dvs. vor fi marcate ca citite pe toate dispozitivele dvs."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Marchează ca citit"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Marchează ca Necitit"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Mai mult"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Setări de notificare"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 mesaj|\\$1 mesaje}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Continuă"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Filtrați notificările după starea de citire și introduceți text pentru a restrânge cu ușurință căsuța de e-mail."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Aflați mai multe despre notificări"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Notificările vă ajută să vă țineți informat cu privire la activitatea legată de editările și contul dvs."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Notificări și alerte"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Vizualizați toate mesajele dvs. necitite din Wikipedia în diferite limbi și proiecte Wikimedia într-un singur loc."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Mesaje primite de la proiect"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Înscrieți-vă pentru notificări push pentru a fi la curent cu mesajele și alertele de editare în timp ce sunteți în deplasare."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Notificări push"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Notificări de editare"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Activați notificările push?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Activați notificările push"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nu mulțumesc"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia este un proiect de colaborare, iar activarea notificărilor push poate face mai ușor să fiți la curent cu mesajele, alertele și „mulțumirile” de la colegii editori."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Filtrul de proiecte"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Toate"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Toate notificările"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 în \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtrat după"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=Într-un proiect|În proiecte \\$1}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 proiect|\\$1 proiecte}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "\n{{PLURAL:\\$1|1=1 tip|\\$1 tipuri}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Citește"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\n\\$1 și \\$2 în \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Necitit"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Bornă modificări"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Editarea dvs. a fost anulată"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Email nou"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Mai multe încercări de conectare eșuate"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Încercări eșuate de autentificare"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Conectați-vă de pe un dispozitiv necunoscut"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Menționați pe pagina de discuție a articolului"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Menționați în rezumatul editării"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Menționare eșuată"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Menționare reușită"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Menționați pe pagina de discuție"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Mesaj pe pagina de discuție"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Link-ul paginii"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Pagină revizuită"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Mulțumiri"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Bornă traduceri"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Modificări ale drepturilor de utilizator"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Bun-venit!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Conexiunea Wikidata a fost realizată"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Marchează ca citit"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Marchează ca necitit"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Mai mult"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Notificări"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Marcați notificările selectate"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Menționări"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Notificare"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Mesaj de întâmpinare"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Conexiune cu Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Bornă modificări"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Modificare anulată"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Sumar modificare/menționare"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-mail de la alt utilizator"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Încercări de conectare"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Încercări eșuate de conectare la contul dvs"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Autentificare reușită"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Altele"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Link-ul paginii"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Pagină verificare"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Mențiunea nu a fost trimisă"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Mențiune trimisă succes"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Menționat pe pagina de discuție"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Mulțumesc"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Bornă traduceri"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Modificări ale drepturilor de utilizator"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Mesaj în pagina de discuție"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Bun-venit"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Activitate nouă pe Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 mesaj nou|\\$1 mesaje noi}} pe \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "\n{{PLURAL:\\$1|Mesaj nou|Mesaje noi}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1Mld."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1Mil"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1Mii"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "de la \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 eveniment istoric|\\$1 evenimente istorice}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Mai multe evenimente istorice în această zi"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 mai mult despre evenimentul istoric|\\$1 mai multe evenimente istorice}} din această zi"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Limba dvs. principală Wikipedia nu acceptă În această zi. Puteți actualiza Wikipedia principală în meniul Setări al aplicației."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Nicio informație disponibilă"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 de la \\$2 Wikipedia"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Astăzi în istorie"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Atingeți „W” pentru a reveni la fila de la care ați început"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "robot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Atingeți pentru a selecta două versiuni pentru a compara"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Compară"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Grafic al modificărilor de-a lungul timpului"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "modificări minore"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autor: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Comentariu \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Istoricul modificărilor"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Modificări minore"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Adăugat {{PLURAL:\\$1|\\$1 bit|\\$1 biți}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Șters {{PLURAL:\\$1|\\$1 bit|\\$1 biți}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Revizuiri facute \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Trebuie selectate doar două versiuni"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 modificare|\\$1 modificări}} din \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Probleme de pagină"
+    },
+    {
+      "name": "page_location",
+      "value": "Vezi pe o hartă"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nu aveți drepturi pentru a modifica această pagină"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Această pagină este protejată"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Pagini similare"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Compararea versiunilor vă ajută să arătați cum s-a schimbat un articol în timp. Compararea a două versiuni ale unui articol va arăta diferența dintre aceste versiuni prin evidențierea oricărui conținut modificat."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Compararea reviziilor"
+    },
+    {
+      "name": "pictured",
+      "value": "imagine"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Ștergeți căutările salvate"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 articole"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Mai recent pe locația dvs."
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Afișați ca listă"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Arată ca hartă"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Afișează mai multe articole"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Explorați orașe, țări, continente, repere naturale, evenimente istorice, clădiri și multe altele."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Căutați articole Wikipedia cu locații geografice"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Activați locația"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Accesul la locația dvs. este disponibil numai atunci când aplicația sau una dintre funcțiile sale sunt vizibile pe ecran."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Explorați articole din apropierea locației dvs. activând Accesul la locație"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtrează articole"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtru"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nu aveți locuri salvate"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Articole salvate"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Cele mai citite"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 articol|\\$1 articole}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Cele mai citite articole"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Locația activată"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Niciunul dintre articolele dvs. salvate nu are informații despre locație"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 care se potrivește “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Căutați locuri"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Ai vrut să spui \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Căutări recente"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Toate articolele salvate"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Căutări sugerate"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Rezultate în acest domeniu"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Toate articolele de top"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Apropiere"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Locația dvs. actuală"
+    },
+    {
+      "name": "places_title",
+      "value": "Locuri"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "distanță necunoscută"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Imaginea zilei în \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Nu s-a putut găsi imaginea zilei pentru \\$1"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "Doi tauri galopând în timp ce jockey-ul stă deasupra lor în pacu jawi (de la Minangkabau, „cursă de tauri”), un taur tradițional alergat în Tanah Datar, Sumatra de Vest, Indonezia. 2015, Final-45."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Bucurați-vă de o fotografie zilnică frumoasă selectată de comunitatea noastră."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Imaginea zilei"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Permiteți Fundației Wikimedia să colecteze informații despre modul în care utilizați aplicația pentru a îmbunătăți aplicația"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikimanuale"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikiștiri"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikicitat"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisursă"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecii"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversitate"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikționar"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Adăugați acest articol la o listă de citire?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Adăugați “\\$1” la o listă de lectură?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Da, adăugați-le la listele mele de lectură"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Există articole salvate în aplicația dvs. Wikipedia. Doriți să le păstrați și să fuzionați cu listele de citire sincronizate cu contul dvs.?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Articole salvate găsite"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Această intrare nu este sincronizată, deoarece ați atins limita pentru numărul de intrări din această listă."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "A apărut o eroare neașteptată în timpul sincronizării listelor de citire."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Această listă nu este sincronizată, deoarece ați atins limita pentru numărul de liste sincronizate."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Creați lista de citire"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Descriere"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Citirea numelui listei"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Creați o listă nouă"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Lista de citire a fost ștearsă"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nu, ștergeți articole de pe dispozitiv"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Reduceți numărul dvs. de articole din această listă la \\$1 pentru a relua sincronizarea tuturor articolelor din această listă."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Ați depășit limita de {{PLURAL:\\$1|\\$1 articol|\\$1 articole}} pentru fiecare cont."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Articol|Articole}} nu poate fi adăugat la această listă. Ați atins limita de \\$2 articole pe listă de lectură pentru \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Numele listei de citire este deja folosit"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "A apărut o eroare neașteptată la actualizarea listelor de citire."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Da, păstrează articolele pe dispozitiv"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Există articole sincronizate cu contul dvs. Wikipedia. Ați dori să le păstrați pe acest dispozitiv după ce vă deconectați?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Păstrați articolele salvate pe dispozitiv?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sortează articole"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Există o limită de 5000 de articole nesortate. Sortează articolele existente în liste pentru a continua sincronizarea articolelor nesortate."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Limitați accesul pentru articole nesortate"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Această listă de citire și articolele salvate în ea nu vor fi sincronizate, vă rugăm să reduceți numărul de liste la \\$1 pentru a relua sincronizarea acestei liste."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Ați depășit limita de {{PLURAL:\\$1|\\$1 listă de citit|\\$1 liste de citire}} per cont."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Ați atins limita de \\$1 liste de citire pe cont"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Conectați-vă pentru a sincroniza articolele salvate"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Autentificare sau creați un cont"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Conectați-vă pentru a sincroniza articolele salvate"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Conectați-vă sau creați un cont pentru a permite sincronizarea articolelor și listelor de citire salvate pe dispozitive și salvate la preferințele utilizatorului."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Sincronizați articolele salvate?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[utilizator creat]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "descriere scurtă opțională"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "titlu listă de citire"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Sincronizarea listei de citire a fost dezactivată pentru contul dvs. Wikipedia pe un alt dispozitiv. Puteți activa sincronizarea prin actualizarea setărilor."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sincronizarea dezactivată"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Activați sincronizarea"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Articolele dvs. salvate și listele de citire pot fi acum salvate în contul dvs. Wikipedia și sincronizate în aplicațiile Wikipedia."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Activați sincronizarea listelor de citire?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Sincronizarea listelor de citire este activată pentru acest cont. Pentru a opri sincronizarea, puteți dezactiva sincronizarea pentru acest cont prin actualizarea setărilor."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Sincronizarea este activată pe acest cont"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "A apărut o eroare neașteptată la adăugarea unei intrări la lista de citire. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "A apărut o eroare neașteptată la crearea listei de citire. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "A apărut o eroare neașteptată la ștergerea listei de citire. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "A apărut o eroare neașteptată la eliminarea unei intrări din lista de citire. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "A apărut o eroare neașteptată la actualizarea listei de citire. Vă rugăm să încercați din nou mai târziu."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Nu a fost găsită o listă de citire cu numele “\\$1”. Vă rugăm să vă asigurați că aveți numele corect."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Articol adăugat la “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Imposibil de sincronizat articolul"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nu este sincronizat"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Limita articolului a fost depășită, incapabil să sincronizeze articolul"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Limita listei a fost depășită, imposibil de sincronizat articolul"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Articolul a fost descărcat în coadă"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Limita dispozitivului depășită, incapabil să sincronizeze articolul"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Ștergeți puțin spațiu pe dispozitiv și încercați din nou"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Unele articole nu sunt sincronizate, limita depășită"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Lista dvs. '\\$1' a fost redenumită la '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 lista de citire|\\$1 liste de citire}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Lista implicită pentru articolele salvate"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Salvat"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Această acțiune nu poate fi anulată. Orice articole salvate doar în {{PLURAL:$ 1|această listă|aceste liste}} nu vor fi salvate."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Șterge {{PLURAL:\\$1|listă|liste}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 articol|\\$1 articole}} și {{PLURAL:\\$2|\\$2 lista de citit|\\$2 liste de citit}} sincronizate din cont"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Lista nu este sincronizată, limita depășită"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sortează articolele salvate"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Există o limită de \\$1 pentru fiecare listă de lectură. Listele existente cu mai mult de această limită au fost împărțite în mai multe liste."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sincronizarea va fi reluată atunci când conexiunea la internet va fi disponibilă"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Tema neagră"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Glisor luminozitate"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tema întunecată"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Tema ușoară"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Tema sepia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Evidențierea Sintaxei"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Slider pentru dimensiunea textului"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Evidențierea Sintaxei"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Salt la secțiunea de referință"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referință \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Astăzi|1=Ieri|\\$1 zile în urmă}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Recent|\\$1 acum o oră|\\$1 ore în urmă}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h în urmă"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Recent|Acum \\$1 oră|Acum \\$1 ore}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Acum|Acum \\$1 minut|Acum \\$1 minute}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Chiar acum|\\$1 acum un minut|\\$1 acum câteva minute}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m în urmă"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Luna aceasta|1=Luna trecută|\\$1 luni în urmă}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s în urmă"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Anul acesta|1=Anul trecut|\\$1 ani în urmă}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Modificare anulată"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Toate articolele"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Această listă nu poate fi ștearsă"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Nu se pot descărca imaginile pentru această pagină salvată."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Descărcarea articolului în curs ..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Liste de citire"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Căutați articole salvate"
+    },
+    {
+      "name": "saved_title",
+      "value": "Salvat"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Desalvarea {{PLURAL:\\$1|acestui articol îl va elimina|acestor articole le va elimina}} din toate listele de citire asociate"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Desalvează {{PLURAL:\\$1|articol|articole}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Caută pe Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Șterge"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Căutare în Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Ștergeți toate căutările recente?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Această acțiune nu poate fi anulată!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Șterge tot"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Nu există încă căutări recente"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Căutări recente"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Redirecționare de la: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Căutare"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante sârbești ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nсрпски ћирилица Serbian, Cyrillic (sr-ec)\nsrpski latinica Serbian, Latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta sârbească"
+    },
+    {
+      "name": "settings_account",
+      "value": "Cont"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Tema aplicației"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Ștergeți datele din cache"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Ștergerea datelor din cache va elibera aproximativ \\$1 din spațiul. Nu va va șterge paginile salvate."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Ștergeți datele din cache?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Anulează"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Ștergeți memoria cache"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Asistență și comentarii"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Arată limbile la căutări"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Puteți gestiona limbile care sunt afișate în fluxul dvs. Explore personalizând setările pentru fluxul dvs. Explore."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Limbile mele"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Notificări push"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "A apărut o eroare la verificarea abonamentelor de notificări legate de contul dvs."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Nu se pot verifica abonamentele Echo Notification"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Încearcă din nou"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Fiți avertizat cu privire la activități legate de contul dvs., cum ar fi mesaje de la colegii colaboratori, alerte și notificări. Toate furnizate cu respectarea confidențialității și a datelor de până la minut."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Principală"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Prima limbă din această listă reprezintă limba principală a aplicației."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Setați aplicația să se deschidă în fila Căutare în loc de fila Explore"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Deschideți aplicația din fila Căutare"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Permiteți Wikimedia să salveze articolele salvate și listele de citire la preferințele utilizatorului dvs. atunci când vă autentificați și sincronizați."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sincronizați articolele și listele salvate"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Listele dvs. de citire vor fi sincronizate în fundal"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Solicitați o actualizare la articolele dvs. sincronizate și listele de citire."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Actualizați listele de citire sincronizate"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Afișați lista de citire salvată (de exemplu, implicit) ca listă separată în vizualizarea listelor de citire. Această listă apare pe dispozitivele Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Arată lista de citire salvată"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Stocarea și sincronizarea articolului"
+    },
+    {
+      "name": "settings_title",
+      "value": "Setări"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Realizat cu aplicația Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1” la @Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Crearea unui card „Împărtășește o informație” ..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” de la “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nde la “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Indicații de orientare"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Distribuie..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Deschide în Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” via Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” via Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Adaugat recent"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titlu"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Cuprins"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Închide"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Închide cuprinsul"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Cuprins"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Ascundeți cuprinsul"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Subtitlu \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante Tachelhit ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachelhit, Latin (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta Tachelhit"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante tajik ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\nтоҷикӣ кирилликӣ Tajik, Cyrillic (tg-cyrl)\ntojikī lotinī Tajik, Latin (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Actualizări pentru sprijin varianta tadjică"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Despre paginile de discuție"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Citește"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Necitit"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Găsește în pagină"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Amintiți-vă, suntem toți oameni aici"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Vă rugăm să fiți amabili"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Răspunsul dvs. a fost publicat cu succes"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Discuția dvs. a fost publicată cu succes"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Distribuie pagină de discuție"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Veți primi notificări despre noi comentarii din acest subiect."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Discuție articol"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Discuție Utilizator"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Nu veți mai primi notificări despre noi comentarii din acest subiect."
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Contribuții"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Citiți mai multe"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Începeți o discuție"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Conversația începe aici"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Descriere"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Pagini de discuții"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Discuție"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Negru"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Închisă"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Implicit"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Potrivește tema sistemului"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Deschis"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Aflați ce citește lumea astăzi pe Wikipedia."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 cititori"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Cele mai citite"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Continuă autentificarea"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Vă rugăm să introduceți codul de verificare în doi factori"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Conectați-vă la contul dvs."
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Utilizați unul dintre codurile de rezervă"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Utilizați codul de verificare"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Pagina de discuție nu putut fi încărcată"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Necunoscut"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Aplicația Wikipedia acceptă acum următoarele variante uzbece ca limbi principale sau secundare în cadrul aplicației, facilitând citirea, căutarea și editarea în variantele preferate:\n\noʻzbekcha lotin Uzbek, Latin (uz-latin)\nўзбекча кирилл Uzbek, Cyrillic (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Actualizări ale suportului pentru varianta uzbekă"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nu mulțumesc"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Examinați-vă preferințele"
+    },
+    {
+      "name": "watchlist",
+      "value": "Lista de urmrire"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 lună"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 săptămână"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 an"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Permanent"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 luni"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 luni"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "Paginile rămân în mod implicit, dar există opțiuni pentru vizionarea temporară, de la o săptămână la un an."
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Setează expirarea"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Activitate în paginile urmărite"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Modificări văzute"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Modificări nevăzute"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Contribuții automate"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Robot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Om (nu robot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Ultimele versiuni"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Ultima versiune"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Versiuni mai vechi"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Semnificație"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Modificări minore"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Modificări non-minore"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Tip de modificare"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Modificări de categorie"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Acțiuni înregistrate"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Creări de pagini"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Modificări de pagini"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Editări Wikidata"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Înregistrarea și experiența utilizatorului"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Înregistrat"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Neînregistrat"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Aflați mai multe despre lista de pagini urmărite"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Prezentarea listei de pagini urmărite"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "Lista de pagini urmărite este un instrument care vă permite să urmăriți modificările făcute la paginile sau articolele care vă interesează."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Urmărește schimbările"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Lista de urmărire a paginilor pe care le-ați adăugat, cum ar fi modificările sau discuțiile, poate fi accesată prin Setări → Cont."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Vezi actualizările"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "Dacă apăsați pe stea sau pe acțiunea \"Urmărește\" din toolbarul din partea de jos a articolului, puteți adăuga acea pagină în lista de pagini urmărite."
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Urmărește articole"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Confidențialitatea datelor"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Recomandări de citire și articole zilnice din comunitatea noastră"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Fluxul Explore"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Călătoriți înapoi în timp pentru a afla ce s-a întâmplat astăzi în istorie"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Astăzi în istorie"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Descoperiți repere în apropierea dvs. sau căutați locuri din întreaga lume"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Fila Locuri"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Să începem"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Noi modalități de explorare"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Am înțeles"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia este scrisă în colaborare de voluntari și constă din peste 40 de milioane de articole în peste 300 de limbi."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Aflați mai multe despre Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Despre Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia este un proiect global pentru construirea de enciclopedii gratuite în toate limbile lumii. Practic, oricine are acces la Internet este liber să participe contribuind cu informații neutre și citate."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Enciclopedia liberă"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Adaugă încă o limbă"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Adăugați sau editați limbile preferate"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Am găsit următoarele limbi pe dispozitiv:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Căutați în peste 300 de limbi"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Explorează ce s-a întâmplat în această zi din istorie."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Enciclopedie online gratuită pe care oricine o poate modifica"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, o enciclopedie gratuită de conținut wiki, intră online."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Se obține previzualizarea modificărilor dumneavoastră..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Această legătură duce la un site web extern: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Legătură externă"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia nu are un articol cu acest nume exact"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Nu a fost găsită nicio legătură internă"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Această legătură duce la '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Previzualizare legătură"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Salvează modificările"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Eroare de verificare la Captcha."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Verificare captcha necesară."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Imposibil de determinat rezultatul încărcării textului wiki."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publicare..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Modificările vor fi atribuite adresei IP a dispozitivului. Dacă vă autentificați \\$1Log in\\$2, veți avea mai multă confidențialitate."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Modificările vor fi atribuite adresei IP a dispozitivului dumneavoastră. Dacă recurgeți la \\$1 veți beneficia de mai multă confidențialitate."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Termeni de utilizare"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Donați acum"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Pentru că ai citit"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Toate cele mai citite articole din top"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Alt articol aleatoriu"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "De la %s Wikipedia"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Pe %s Wikipedia"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "De la Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Niciun istoric de afișat"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Ascunde acest card"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Personalizează fluxul Explorează"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Card ascuns"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Descrierea articolului pentru %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Ai vrut să spui %s?"
+    }
+  ]
+}

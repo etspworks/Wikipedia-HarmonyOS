@@ -1,0 +1,380 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Википедия"
+    },
+    {
+      "name": "about_contributors",
+      "value": "саҳмгузорон"
+    },
+    {
+      "name": "about_libraries",
+      "value": "китобхонаҳои истифодашуда"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Иҷозатнома"
+    },
+    {
+      "name": "about_title",
+      "value": "Дар бораи"
+    },
+    {
+      "name": "about_translators",
+      "value": "тарҷумонҳо"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Тавассути ихтиёриҳо дар \\$1 тарҷума шудааст"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Фонди Викимедиа"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Википедия"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Дарёфти як CAPTCHA нав."
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Вуруд."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Дар ҳоли вуруд..."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Фазоҳои гузарвожа бо ҳам мутобиқат надоранд."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Дар ҳоли захиракунӣ..."
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Тағйири забон"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Нусхаи баъдӣ"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Нусхаи қаблӣ"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Ташаккур кардани корбар"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Барои дидани виришҳо ва хониши бештар ворид шавед ё ҳисоб эҷод кунед."
+    },
+    {
+      "name": "article_delete",
+      "value": "Ҳазф кардан"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Филтри Забон"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Интихоби забон"
+    },
+    {
+      "name": "article_share",
+      "value": "Хабардор кардан"
+    },
+    {
+      "name": "button_next",
+      "value": "Баъдӣ"
+    },
+    {
+      "name": "button_skip",
+      "value": "Рафтан"
+    },
+    {
+      "name": "cancel",
+      "value": "Пӯшидан"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Тавзеҳот илова намудан"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Карда шуд"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Аз:"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Ба:"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Нишон додан"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Пинҳон"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Сатрҳои \\$1 – \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "поён"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 сатр}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 ҷузъ|\\$1 ҷузъҳо}}"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 вироиш|\\$1 вироишот}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Иттилои вироишгар"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 байт}} илова шуд"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 байт}} ҳазф шуд"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Хулосаи вироиш"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Сатри \\$1"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Барои фиристодани 'ташаккур' ворид шавед"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Фиристодани 'Ташаккур'"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Фиристодани 'ташаккур'-и ҳамагонӣ"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "'Ташаккур'-и шумо ба \\$1 фиристода шуд"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Шумо аллакай барои ин вироиш 'ташаккур' фиристодед"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 сатр}} вироиш нашуд"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Ягон тафовуте байни нусхаҳо нест"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Бахшиш, мақоларо кушода натавонистам"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Бахшиш, натиҷаҳоро кушода натавонистам"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Номи корбар"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ҳазви Ҳама"
+    },
+    {
+      "name": "languages_title",
+      "value": "Тағйир кардани забон"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Вуруд ба Википедиа"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Хуруҷ"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Вуруд шуд чун: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Ҳарими шахсӣ ва Шартҳо"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Наздикӣ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Баҳогузори барои ин афзуна"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Шартҳои истифода"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Бештар"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Пешнамоиш"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фут"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 мил"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Карда шуд"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "вироишоти роботҳо"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "вироишҳои хурд"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Муаллиф: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Таърихи вироишҳо"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Вироиши хурд"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|\\$1 байт|\\$1 байт}} илова шуд"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 байт|\\$1 байт}} тоза шуд"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 вироиш|\\$1 вироишот}} аз \\$2"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "Сабтиномнашуда"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Ҷои ҷустуҷӯ"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 соат"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 соат пеш"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 дақ."
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 дақ. пеш"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Ҳамин моҳ|1=Моҳи пешина|\\$1 моҳ пеш}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1ҳо"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Ҷустуҷӯи Википедия"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Ҳазви Ҳама"
+    },
+    {
+      "name": "search_title",
+      "value": "Ҷустуҷӯ"
+    },
+    {
+      "name": "settings_title",
+      "value": "Танзимот"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Мундариҷа"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Хондан"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2Шумо дар айни замон ҳисоби муваққатиро истифода мебаред.\\$3 Вироишоте, ки бо ҳисоби муваққатии \\$1 анҷом дода мешаванд, ҳангоми ворид шудан ба ҳисоби доимии шумо интиқол дода намешаванд. Ворид шавед ё бо номи корбарии худ барои бартариҳои бештар ҳисоб эҷод кунед."
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Номаълум"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Фарохонии пешнамоиши тағийроти шумо..."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Дар ҳоли захиракунӣ..."
+    }
+  ]
+}

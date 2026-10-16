@@ -1,0 +1,3244 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedie"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licence obsahu"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Pokud není uvedeno jinak, obsah je k dispozici pod \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Uveďte autora-Zachovejte licenci"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Přispěvatelé"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Použité knihovny"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Úplný seznam"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licence"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Máme rádi open source software \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licence bodů zájmu"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Místa používají mapy poskytované službou Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Podívejte se na informace o licenci"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Vytvořila \\$1 s pomocí dobrovolníků, jako jste vy"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repozitáře"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Zdrojový kód je k dispozici pod licencí \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT License"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Poslat zpětnou vazbu"
+    },
+    {
+      "name": "about_title",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "about_translators",
+      "value": "Překladatelé"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Přeloženo více než 10 dobrovolníky na \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "nadace Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedie"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Nemůžete přečíst obrázek? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Příprava nového obrázku CAPTCHA…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Požádat o účet."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Bezpečnostní kontrola CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Vytvořte si účet"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Už máte účet? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Přihlaste se"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Přihlašování…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Pro vytvoření účtu musíte zadat uživatelské jméno, heslo a potvrzení hesla."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Hesla se neshodují."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Ukládá se…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Vytvořit uživatelský účet"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Váš účet"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Nechat zmizet účet"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Vaše diskusní stránka"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Automaticky podepisovat příspěvky v diskusích"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Automatické podpisování příspěvků v diskusích bude používat podpis definovaný v Nastavení podpisu"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Nastavení diskusí"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Přidat do…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Přidat do seznamu k přečtení"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Přidat do seznamu"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Zrušit"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Zahodit úpravy"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Najít na stránce"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Pokračujte v editování"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Změnit jazyk"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Přesunout do…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Přesunout do seznamu k přečtení"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Další revize"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Předchozí revize"
+    },
+    {
+      "name": "action_read",
+      "value": "Číst"
+    },
+    {
+      "name": "action_redo",
+      "value": "Znovu"
+    },
+    {
+      "name": "action_remove",
+      "value": "Odebrat"
+    },
+    {
+      "name": "action_retry",
+      "value": "Zkusit znovu"
+    },
+    {
+      "name": "action_save",
+      "value": "Uložit"
+    },
+    {
+      "name": "action_saved",
+      "value": "Uloženo"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Uloženo. Aktivujte pro odstranění z uložených."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Článek byl uložen pro pozdější čtení"
+    },
+    {
+      "name": "action_share",
+      "value": "Sdílet"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Sdílet"
+    },
+    {
+      "name": "action_sort",
+      "value": "Seřadit"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Poděkovat"
+    },
+    {
+      "name": "action_undo",
+      "value": "Zpět"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Zrušit uložení"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Zrušeno uložení článku"
+    },
+    {
+      "name": "action_update",
+      "value": "Aktualizovat"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "Zjistěte, kolik času jste strávili čtením a které články nebo témata jste v průběhu času prozkoumali."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Statistiky čtení"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "Vyberte, které moduly chcete zobrazit. Veškerá osobní data zůstanou soukromá na vašem zařízení a historii prohlížení lze kdykoli vymazat."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Mějte vše pod kontrolou"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "Objevte informace o svých příspěvcích a o dosahu znalostí, které jste sdíleli."
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "Dopady vlivu"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Články uložené tento měsíc"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Přidat {{PLURAL:\\$1|\\$1 článek|\\$1 články|\\$1 článků}} do seznamu k přečtení"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Pokročilé nastavení"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Další informace."
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Zrušit"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedie, reference, wiki, encyklopedie, info, znalosti, výzkum, informace, objevování, učení"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Plně přizpůsobitelné a snadnější čtení zdroje informací. Lokalizace, vylepšení výkonu a opravy chyb."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Stáhněte si aplikaci Wikipedie pro objevování míst poblíž vás, ke stažení článků do vašeho zařízení a přizpůsobení čtení článků."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Otevřená encyklopedie"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Upravit velikost textu článku"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Rozbalit tabulky"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Nastavit všechny tabulky ve všech článcích ve výchozím nastavení, včetně Rychlé fakty, Reference, Poznámky a Externí odkazy."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Snížení průhlednosti snímků ve tmavém a černém motivu"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Témata čtení"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Nastavení tabulek"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Chcete-li změnit velikost textu článku, přetáhněte jezdce. Pro změnu velikosti textu v ostatních částech aplikace použijte prosím změnu v systémovém nastavení."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Možnosti motivu"
+    },
+    {
+      "name": "article_about_title",
+      "value": "O tomto článku"
+    },
+    {
+      "name": "article_delete",
+      "value": "Odstranit"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Článek odstraněn|Články odstraněny}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Aplikace nebyla schopna načíst aktualizovaný obsah včas. Obnovte prosím tuto stránku později, aby se změny projevily."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Najít jazyk"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Vybrat jazyk"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Jiné jazyky"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Vaše jazyky"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Pokračovat ve čtení…"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Reference \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Nemáte dostatek místa pro uložení tohoto článku"
+    },
+    {
+      "name": "article_share",
+      "value": "Sdílet"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Ovládací prvky pro čtení motivů"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Zpět"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Klepnutím se vrátíte zpět"
+    },
+    {
+      "name": "button_next",
+      "value": "Další"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Zveřejnit"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Nahlásit chybu"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Uložit na později"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Uloženo na později"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Odstranit z uložených"
+    },
+    {
+      "name": "button_skip",
+      "value": "Přeskočit"
+    },
+    {
+      "name": "cancel",
+      "value": "Storno"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Aplikace wikipedie nyní podporuje následující Čínské varianty jako primární nebo sekundární jazyky v aplikaci, aby bylo jednodušší číst, hledat nebo upravovat ve vaší oblíbené variantě.\n\n简体 Čínština, Zjednodušená (zh-hans)\n香港繁體 Hong Kongská tradiční (zh-hk)\n澳門繁體 Macauská tradiční (zh-mo)\n大马简体 Malajská zjednodušená (zh-my)\n新加坡简体 Singapurská zjednodušená (zh-sg)\n臺灣正體 Taiwanská Tradiční (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Aktualizace podpory čínských variant"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Vymazat"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Probíhá čištění cache."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zavřít"
+    },
+    {
+      "name": "compass_direction",
+      "value": "na \\$1. hodině"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Procházet další články na Wikipedii"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Žádné nedávno přečtené články"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Aplikace Wikipedie nyní podporuje následující krymskotatarské varianty jako primární nebo sekundární jazyky v rámci aplikace, což usnadňuje čtení, vyhledávání a úpravy ve vámi preferovaných variantách:\n\nQırımtatarca, latinská krymská tatarská latina (chr-latn) \nкъырымтатарджа, Кирил krymská tatarská azbuka (crh-cyrl)"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Aktualizace…"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Přidat popis"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Popis článku pro článek \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Změnou popisu článku souhlasím s \\$1 a neodvolatelně uvolňuji své příspěvky pod licencí \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Editovat úvod"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Editovat popis článku"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Nejlepší jsou krátké popisy"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Zveřejnit popis"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Editovat popis"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Pokuste se zachovat krátké popisy, aby uživatelé na první pohled pochopili téma článku"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Popis shrnuje základní informace o tématu článku, aby čtenáři ihned pochopili, o čem článek pojednává."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "O Wikidatech"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Popisy jsou uloženy a spravovány na Wikidatech, projektu nadace Wikimedia, která poskytují bezplatnou, kolaborativní a mnohojazyčnou databázi podporující Wikipedii a další projekty"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Více informací"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Ideální popis se vejde na jeden řádek a je 2 až 12 slov dlouhý. Nezačíná velkým písmenem, tím začíná, jen pokud je prvním slovem popisu vlastní podstatné jméno."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "popis článku o Mona Lise"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "popis článku o Mount Everestu"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "obraz Leonarda da Vinciho"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "nejvyšší hora na Zemi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Například:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Tipy pro vytváření popisů"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Nápověda pro popisy článků"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Průvodce pro psaní popisů na Wikidatech"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Hotovo"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Právě jste pro všechny vylepšili Wikipedii"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Popis byl zveřejněn!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "V ideálním případě jeden řádek, mezi dvěma až dvanácti slovy"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Kratší je lepší"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Shrnuje základní informace o tématu článku, aby čtenáři ihned pochopili, o čem článek pojednává."
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Popis článku"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Spuštěním slibuji, že této funkce nezneužiji"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Začít editovat"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Předchozí editace"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Porovnat revize"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Zobrazená editace"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Porovnat revize"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Zobrazit"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Skrýt"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Řádky \\$1 až \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Odstavec přesunut"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "dolů"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "nahoru"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 řádek|\\$1 řádky|\\$1 řádků}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 sekce|\\$1 sekce|\\$1 sekcí}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Odstavec přesunut \\$2 \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Nepodařilo se načíst revizi"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 editace|\\$1 editace|\\$1 editací}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Informace o wikipedistovi"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|Přidán \\$1 bajt|Přidány \\$1 bajty|Přidáno \\$1 bajtů}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|Odstraněn \\$1 bajt|Odstraněny \\$1 bajty|Odstraněno \\$1 bajtů}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Shrnutí editace"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Úvod"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Řádek \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonymním uživatelům nelze poděkovat"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Poděkování jsou jednoduchým způsobem, jak wikipedistovi můžete poděkovat za práci na Wikipedii. Pro poslání poděkování musíte být přihlášeni."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Pro odeslání poděkování se přihlaste"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Poslat poděkování"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Poděkování jsou jednoduchým způsobem, jak wikipedistovi můžete poděkovat za práci na Wikipedii. Nelze je vzít zpět a jsou veřejná."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Veřejně poslat poděkování"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Poděkování bylo odesláno uživateli/uživatelce \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Za tuto editaci jste již poděkování poslali"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Poděkování nelze vrátit"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|Neupraven \\$1 řádek|Neupraveny \\$1 řádky|Neupraveno \\$1 řádků}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "Ztmavení obrázků"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Zobrazovaný text"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Cíl odkazu"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Odstranit odkaz"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Upravit odkaz"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Editovat"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "To může být způsobeno tím, že vybraný text není editovatelný (např. název článku nebo název infoboxu) nebo z důvodu délky zvýrazněného textu."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Vybraný text nelze nalézt"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Informace o malých editacích"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Malá editace"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Přidat shrnutí editace"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Přidán obrázek"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Oprava pravopisu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Oprava překlepu"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Přidány odkazy"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Jak jste vylepšili článek?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Další informace o sledovaných stránkách"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Sledovat tuto stránku"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Buďte smělí, ale ne bezohlední při aktualizaci článků. Nedělejte si starosti s menšími chybami: každá předchozí verze stránky je uložena, takže chyby mohou být snadno napraveny naší komunitou."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Váš hlas je důležitý"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Veškerý obsah musí být ověřitelný. Při přidávání nových informací do článku by měli wikipedisté poskytnout citaci spolehlivého zdroje."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Citujte ověřitelné zdroje"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Usilujeme o to, aby byly články psány nestranně. Při editacích si klademe za cíl vytvořit spravedlivou reprezentaci světa, jak jej popisují spolehlivé zdroje."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Pište nestranně, nepropagujte"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Abychom měli všichni přístup ke znalostem světa, potřebujeme, abyste se podíleli na jeho tvorbě čtením, editováním a přispěním k tématům, která jsou pro vás nejdůležitější a zajímají vás."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Zdarma vytvářejte vědomosti"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Zavřít režim úprav?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Žádný rozdíl mezi revizemi"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Žádné zobrazitelné změny"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Vybrat soubor z Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Omlouváme se, nepovedlo se načíst článek."
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Stále ještě můžete číst uložené stránky"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Doporučené články si můžete přečíst, když jste připojeni k internetu"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Mějte přehled o tom, co jste zde četli"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Žádná historie k zobrazení"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Tento článek ještě nebyl napsán v žádném jiném jazyce"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Nejsou k dispozici žádné další jazyky"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Vytvořte seznamy míst, kam cestovat, oblíbených témat a mnoho dalšího"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizovat uložené články pomocí seznamů k přečtení"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Uložte stránky do tohoto seznamu a zobrazte je zde"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "V tomto seznamu k přečtení nejsou uloženy žádné stránky"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Uložte si stránky pro jejich prohlížení později, a to i v režimu offline"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Žádné uložené stránky"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nenalezeny žádné výsledky"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Tento uživatel zatím neodeslal žádné zprávy"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prosíme, zkuste to znovu"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Došlo k neznámé chybě."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Další náhodný článek"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Protože jste četli"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Další související články"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Pokračovat ve čtení"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Zpět do kanálu Objevit"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Objevte články poblíž vaší aktuální polohy"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Doporučený článek"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Z Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedie"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Přizpůsobit"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Nastavení jazyků pro kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Další jazyky lze přidat na obrazovce „Moje jazyky“."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Karta skryta"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Rychlý odkaz zpět na čtení otevřeného článku"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Přizpůsobení kanálu Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Přizpůsobit kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Skrytím typu karty se tyto karty nebudou zobrazovat v kanálu Objevit."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Doporučený článek na Wikipedii"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Vypnout"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Ve všech jazycích"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Zapnout"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "V \\$1 jazycích"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Všech \\$1 karet skryto"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "V této kartě nelze zvolit jazyk, vypnutím této karty bude odstraněna z vašeho kanálu Objevit."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Bez možnosti zvolit jazyk"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Bez možnosti zvolit jazyk"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globální karty"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Skrýt tuto kartu"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Skrýt všechny karty „\\$1“"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Články o aktuálních událostech"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Skrytí všech karet ve všech vybraných jazycích vypne kanál Objevit."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Historické události v tento den"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Články na Wikipedii poblíž vaší polohy"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Obrázek dne z Wikimedia Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Vybírá náhodné články ke čtení"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Návrhy založené na vámi dříve přečtených článcích"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Zobrazit kartu Pokračovat ve čtení"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Vypnutím karty Doporučený článek ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Zobrazit kartu Vybraný článek"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Vypnutím karty Aktuality ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Zobrazit kartu Aktuální události"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Vypnutím karty V tento den ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Zobrazit kartu V tento den"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Zobrazit kartu Obrázek dne"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Vypnutím karty Místa ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Zobrazit kartu Místa"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Vypnutím karty Náhodný článek ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Zobrazit kartu Náhodný článek"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Zobrazit kartu Protože jste četli"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Vypnutím karty Populární ji vypnete ve všech dostupných jazycích."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Zobrazit kartu Populární"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Nejčastěji prohlížené články za tento den"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Vypnout kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Skrytí všech karet informačních kanálů vypne kanál Objevit a nahradí jej kartou Nastavení"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Jste si jisti, že chcete vypnout kanál Objevit?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Vypnout kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Kanál Objevit lze znovu zapnout v části Přizpůsobení kanálu Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Vypnout kanál Objevit?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Vypnutím kanálu Objevit ho nahradíte za kartu Nastavení."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Vybráním možnosti zobrazit kanál Objevit zapnete kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Zapnout kanál Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Tímto nahradíte Nastavení za kanál Objevit. Klepnutím na ikonu ozubeného kola můžete přistupovat k nastavení v horní části kanálu Objevit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Zapnout kanál Objevit?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Skrýt tuto kartu"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Hlavní strana Wikimedia projektů"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Dnes na Wikipedii"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Všechny nejčtenější články"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Nejčtenější"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Nejlepší dne \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Na Wikipedii"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Místa v blízkosti"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Místa"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Z Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Z Wikipedie"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Vaše poloha"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Vaše poloha z Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Obrázek dne"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Náhodný článek"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Z Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedie"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Náhodný článek"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Sdílení knihovny aplikací zahrnuje data o vašich seznamech četby a historii, předvolbách a obsahu kanálu Prozkoumat. Tento datový soubor by měl být sdílen pouze s důvěryhodným příjemcem pro účely technické diagnostiky."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Sdílet knihovnu aplikací?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Při exportu vašich dat došlo k chybě. Prosím zkuste to znovu později."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "K exportu uživatelských dat nemáte v zařízení dostatek místa. Prosím zkuste to znovu později."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Export uživatelských dat"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Doporučený článek není pro toto datum k dispozici."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Objevte nejlepší články na Wikipedii, které denně vybírá naše komunita."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Z \\$1 Wikipedie"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Z Wikipedie"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Váš primární jazyk Wikipedie nepodporuje Doporučený článek. Primární jazyk Wikipedie můžete aktualizovat v nabídce Nastavení aplikace."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Doporučený článek"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Něco se nepovedlo. Prosím zkuste to později znovu."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Aplikace přijala neočekávanou odpověď ze serveru. Prosím zkuste to znovu později."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Neplatná CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Hesla se neshodují"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Neplatný kód"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Uživatelské jméno není k dispozici"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Záložní kód"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA text"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Zadejte výše uvedený text"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "priklad@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-mail"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-mail (nepovinný)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "znovu zadejte nové heslo"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Potvrďte nové heslo"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "zadejte nové heslo"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nové heslo"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "znovu zadejte heslo"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Potvrzení hesla"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "zadejte heslo"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Heslo"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Ověřovací kód"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "zadejte uživatelské jméno"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Uživatelské jméno"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Vymazat"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Další výskyt"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Předchozí výskyt"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Najít a nahradit"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Zavřít najít a nahradit"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Najít"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Vynulovat"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Email s instrukcemi pro obnovení hesla byl odeslán"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Vyplňte jedno z níže uvedených polí a obdržíte pokyny pro obnovení hesla prostřednictvím e-mailu"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Přenastavit heslo"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Nebo"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Jste si jisti, že chcete smazat všechny vaše poslední položky?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Smazat vše"
+    },
+    {
+      "name": "history_title",
+      "value": "Historie"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedie, zpět na kanál Objevit"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedie, zpět na Uložené"
+    },
+    {
+      "name": "home_feed_modules_featured_article_subtitle",
+      "value": "Doporučené články patří mezi nejkvalitnější články na Wikipedii, které denně vybírají redaktoři"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "Objevte historické události z tohoto dne"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_subtitle",
+      "value": "Denní obrázky na Wikimedia Commons, vybrané dobrovolnými přispěvateli"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Více podobných článku jako \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Více míst z vašeho okolí"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Další místa v okolí \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Více Aktuálních událostí"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Vámi uložené články mohou být nyní organizovány do seznamů k přečtení a synchronizovány skrze zařízení. Přihlaste se, abyste povolili ukládání seznamů k přečtení do vašich uživatelských nastavení."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Spravujte předvolby"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Upravte si předvolby pro čtení, včetně velikosti a motivu textu, z panelu nástrojů článku nebo z uživatelských nastavení pro pohodlnější čtení."
+    },
+    {
+      "name": "home_title",
+      "value": "Objevit"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedie, přejít na začátek kanálu Objevit"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Blízké články"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Náhodný článek"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Hledat ve Wikipedii"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Neznámý autor"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Z Wikipedie v jazyce \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Z Wikipedie"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Aktuality"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Vložit"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Vložit odkaz"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Popis, který se zobrazí čtenářům, kteří neuvidí obrázek"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Popsat obrázek"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativní text"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Jak se obrázek vztahuje k článku?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Popisek, který se zobrazí vedle položky všem čtenářům"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Titulek"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Střed"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Vlevo"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Žádný"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Vpravo"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Pozice obrázku"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Více informací"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Vybrat obrázek"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Vlastní"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Výchozí"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Velikost obrázku"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Základní"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Rámeček"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Bez rámečku"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Náhled"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Typ obrázku"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Nastavení médií"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Vložit soubor"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Jazyky"
+    },
+    {
+      "name": "languages_title",
+      "value": "Změnit jazyk"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Jazyk Wikipedie"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Další informace"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Dokončit bez přihlášení"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Přihlásit se zpět do vašeho účtu"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Při ověřování účtu došlo k chybě. Chcete-li synchronizovat seznamy k přečtení a editovat pod svým uživatelským jménem, prosíme, přihlaste se znovu."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Byli jste odhlášeni"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Zapomněli jste heslo?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Připojte se k Wikipedii."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nemáte účet? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Přihlaste se do svého účtu"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Přihlásit se"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Odhlásit se"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Opravdu se chcete odhlásít?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "{{GENDER:\\$1|Jste přihlášen|Jste přihlášena}} účtem \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Ochrana soukromí a podmínky užívání"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Poblíž"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Ochrana osobních údajů"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Ohodnotit aplikaci"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Podmínky užití"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Více"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "FAQ Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Vyhledávejte a čtěte Wikipedii ve více než 300 jazycích"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Přidat jazyky"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Přidat {{PLURAL:\\$1|\\$1 článek|\\$1 články|\\$1 článků}} do seznamu k přečtení"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Náhled"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 stop(y)"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 míle"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Jste přihlášeni pomocí dočasného hesla. Chcete-li dokončit přihlášení, zadejte prosím nové heslo."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Zadejte své heslo"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Prosím, přidejte do svého zařízení e-mailový účet a zkuste to znovu."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Nejste připojeni k internetu."
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Upozornění"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Změnit heslo"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Kontrola oznámení..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "V aplikaci"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Na webu"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Kontrola oznámení..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Nemáte žádné zprávy"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Momentálně nejste přihlášeni k odběru žádného oznámení z Wikipedie"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Zapnout push oznámení"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Vše"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Stav čtení"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtry"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 uživatelská stránka"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Položka Wikidat"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Hotovo"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Označit"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Označit vše jako přečtené"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Označit jako přečtené"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Označit jako nepřečtené"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Více"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Pokračovat"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Další informace o upozorněních"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Oznámení vám pomohou informovat vás o aktivitě související s vašimi úpravami a účtem."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Oznámení a upozornění"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Doručená pošta projektu"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push oznámení"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Zapnout oznámení push?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Zapnout push oznámení"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Ne děkuji"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Vše"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Všechna oznámení"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Číst"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Milník editací"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Vaše úprava byla vrácena zpět"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nový email"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Několik neúspěšných pokusů o přihlášení"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Pokus o přihlášení se nezdařil"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Přihlášení z neznámého zařízení"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Neúspěšná zmínka"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Úspěšná zmínka"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Zmínka na diskusní stránce"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Zpráva na vaší diskusní stránce"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Odkaz na stránku"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Stránka zkontrolována"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Vítejte!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Označit jako přečtené"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Označit jako nepřečtené"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mld."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mil."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 tis."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "mezi \\$1 až \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historická událost|\\$1 historické události|\\$1 historických událostí}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Další historické události tento den"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 z Wikipedie v jazyce \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Dnešek v minulosti"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Klepnutím na W se vrátíte na kartu, ze které jste začali"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "robot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Klepněte pro vybrání dvou revizí k porovnání"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Porovnat"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Graf editací v čase"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "malé editace"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autor: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentář \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Historie revizí"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Malá editace"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "({{PLURAL:\\$1|Přidán \\$1 bajt|Přidány \\$1 bajty|Přidáno \\$1 bajtů}})"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|Odebrán \\$1 bajt|Odebrány \\$1 bajty|Odebráno \\$1 bajtů}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Editoval/a \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Můžete vybrat pouze dvě revize"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 editace|\\$1 editace|\\$1 editací}} od \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Nedostatky stránky"
+    },
+    {
+      "name": "page_location",
+      "value": "Zobrazit na mapě"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nemáte oprávnění editovat tuto stránku"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Tato stránka je zamčena"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Podobné stránky"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Porovnávání revizí zobrazuje, jak se článek měnil v průběhu času. Porovnávání dvou revizí článku zobrazí rozdíl mezi danými revizemi se zvýrazněním jakéhokoliv obsahu, který byl změněn."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Porovnávání revizí"
+    },
+    {
+      "name": "pictured",
+      "value": "na obrázku"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Vymazat uložená hledání"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 článků"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Vycentrovat vaší polohu"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Ukázat jako seznam"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Ukázat na mapě"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Zobrazit více článků"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Objevte města, země, kontinenty, přírodní památky, historické události, budovy a další."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Vyhledejte na Wikipedii články s tématem geografických oblastí"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Povolit polohu"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Přístup k vaší poloze je dostupný pouze tehdy, když je aplikace nebo jedna z jejích funkcí viditelná na obrazovce."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Objevte články poblíž vaší polohy tím, že povolíte přístup k poloze"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtrovat články"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtr"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nemáte uložená žádná místa"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Uložené články"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Nejčtenější"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 článek|\\$1 články|\\$1 článků}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Nejčtenější články"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Geolokace povolena"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Žádný z uložených článků neobsahuje informace o poloze"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 odpovídá „\\$2“"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Hledat Místa"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Měli jste na mysli „\\$1“?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Nedávná hledání"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Všechny uložené články"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Návrhy vyhledávání"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Výsledky vyhledávání v této oblasti"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Všechny vybrané články"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Poblíž"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Vaše současná poloha"
+    },
+    {
+      "name": "places_title",
+      "value": "Místa"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "neznámá vzdálenost"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Obrázek dne \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Nepodařilo se načíst obrázek dne pro \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Umožnit nadaci Wikimedia sbírat informace o používání aplikace, aby ji mohla zlepšovat"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Problém s funkcí"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Přidat tento článek do seznamu k přečtení?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Přidat „\\$1“ do seznamu k přečtení?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ano, přidat články do tohoto seznamu k přečtení"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Ve vaší aplikaci Wikipedie jsou uložené články. Chtěli byste je ponechat a sloučit se seznamy k přečtení, které jsou synchronizovány do vašeho účtu?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Uložené články nalezeny"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Tento záznam není synchronizován, protože jste překročili limit v počtu článků v tomto seznamu."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Nastala neočekávaná chyba při synchronizaci vašich seznamů k přečtení."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Tento seznam není synchronizován, protože jste překročili limit počtu synchronizovaných seznamů."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Vytvořit seznam k přečtení"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Popis"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Název seznamu k přečtení"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Vytvořit nový seznam"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Seznam k přečtení byl odstraněn"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ne, odstranit články ze zařízení"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Zmenšete počet článků v tomto seznamu na \\$1, abyste obnovili synchronizaci všech článků v tomto seznamu."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Překročili jste maximální limit {{PLURAL:\\$1|\\$1 článku|\\$1 článků}} na účet."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Článek|Články}} nelze do tohoto seznamu přidat. Dosáhli jste limitu \\$2 článků pro seznam k přečtení \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Toto jméno seznamu již má jiný seznam k přečtení"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Nastala neočekávaná chyba při aktualizaci vašich seznamu k přečtení."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ano, zanechat články v zařízení"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Existují články, které byly synchronizovány do vašeho účtu na Wikipedii. Chcete je na tomto zařízení po odhlášení ponechat?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Ponechat uložené články na zařízení?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Seřazené články"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Existuje limit 5000 nezařazených článků. Zařaďte prosím vaše existující články do seznamů, abyste umožnili pokračování synchronizování nezařazených článků."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Překročení limitu pro nezařazené články"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Tento seznam k přečtení a články uložené do něj nebudou synchronizovány, prosím, snižte počet seznamů na \\$1, abyste obnovili synchronizaci tohoto seznamu."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Překročili jste maximální limit {{PLURAL:\\$1|\\$1 seznamu k přečtení|\\$1 seznamů k přečtení}} na účet."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Dosáhli jste limitu \\$1 seznamů k přečtení na účet"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Přihlašte se pro synchronizaci vámi uložených článků"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Přihlásit se nebo vytvořit účet"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Přihlašte se pro synchronizaci uložených článků"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Přihlašte se nebo si založte účet, abyste mohli povolit synchronizaci článků a seznamů k přečtení skrze zařízení."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Synchronizovat vámi uložené články?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[uživatel vytvořen]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "volitelný krátký popis"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "název seznamu k přečtení"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Synchronizace seznamu k přečtení byla zakázána pro váš účet na Wikipedii na jiném zařízení. Synchronizaci můžete obnovit aktualizací nastavení."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Synchronizace je vypnuta"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Povolit synchronizaci"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Vámi uložené články a seznamy k přečtení mohou být nyní uloženy na vašem účtu na Wikipedii a synchronizovány skrze zařízení."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Zapnout synchronizaci seznamů k přečtení?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Synchronizace seznamů k přečtení je pro tento účet zapnutá. Chcete-li synchronizaci ukončit, můžete synchronizaci vypnout pro tento účet aktualizací nastavení."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Synchronizace je na tomto účtu zapnuta"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Nastala neočekávaná chyba při přidávání odkazu do vašeho seznamu k přečtení. Zkuste prosím později znovu."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Nastala neočekávaná chyba při vytváření vašeho seznamu k přečtení. Zkuste prosím později znovu."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Nastala neočekávaná chyba při odstraňování vašeho seznamu k přečtení. Zkuste to prosím později znovu."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Nastala neočekávaná chyba při přidávání odkazu do vašeho seznamu k přečtení. Zkuste prosím později znovu."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Nastala neočekávaná chyba při aktualizaci vašeho seznamu k přečtení. Zkuste prosím později znovu."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Seznam k přečtení s názvem „\\$1“ nebyl nalezen. Ujistěte se prosím, že jste vyhledali správné jméno."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Článek přidán do „\\$1“"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Nelze synchronizovat článek"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nesynchronizováno"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Limit článků byl překročen, nelze synchronizovat"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Limit seznamů k přečtení byl překročen, nelze synchronizovat"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Článek čeká ve frontě stahování"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Úložiště v zařízení je plné, nelze synchronizovat"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Uvolněte místo na vašem zařízení a zkuste to znovu"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Některé články nebyly synchronizovány, limit byl překročen"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Váš seznam „\\$1“ byl přejmenován na „\\$2“"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 seznam k přečtení|\\$1 seznamy k přečtení|\\$1 seznamů k přečtení}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Výchozí seznam pro vaše uložené články"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Uloženo"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Tato akce nemůže být zrušena. Jakékoliv články uložené jenom do {{PLURAL:\\$1|tohoto seznamu|těchto seznamů}} nebudou nadále mezi uloženými."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Odstranit {{PLURAL:\\$1|seznam|seznamy}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "Synchronizace {{PLURAL:\\$1|0=0 článků|\\$1 článku|\\$1 článků}} a {{PLURAL:\\$2|0=0 seznamů k přečtení|\\$2 seznamu k přečtení|\\$2 seznamů k přečtení}} z vašeho účtu byla úspěšná."
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Seznam nebyl synchronizován, limit byl překročen"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Třídění uložených článků"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Existuje limit \\$1 článků pro seznamy k přečtení. Existující seznamy, které mají více než tento počet článků, byly rozděleny do více seznamů."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Synchronizace se obnoví, až se připojíte k internetu."
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Černý vzhled"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Posuvník jasu"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tmavý vzhled"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Světlý vzhled"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Vzhled sépie"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Zvýraznění syntaxe"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Posuvník velikosti textu"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Zvýraznění syntaxe"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Skočit na sekci referencí"
+    },
+    {
+      "name": "reference_title",
+      "value": "Reference \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Dnes|1=Včera|2=Předevčírem|Před \\$1 dny}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Nedávno|Před \\$1 hodinou|Před \\$1 hodinami}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "před \\$1 h"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 min"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Právě teď|Před \\$1 minutou|Před \\$1 minutami}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "před \\$1 min"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Tento měsíc|1=Minulý měsíc|2=Předminulý měsíc|Před \\$1 měsíci}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "před \\$1 s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Tento rok|1=Loni|2=Předloni|Před \\$1 lety}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Revertovaná editace"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Všechny články"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Tento seznam nemůže být odstraněn"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Nepodařilo se stáhnout obrázky pro tuto uloženou stránku."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Stahuje se článek..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Seznamy k přečtení"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Hledat uložené články"
+    },
+    {
+      "name": "saved_title",
+      "value": "Uložené"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Zruší uložení {{PLURAL:\\$1|tohoto článku a odstraní jej|těchto článků a odstraní je}} ze všech seznamů k přečtení, ve kterých se nachází"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Zrušit uložení {{PLURAL:\\$1|článku|článků}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Hledat na Wikipedii"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Odebrat"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Hledat ve Wikipedii"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Smazat všechna poslední hledání?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tato operace nemůže být vrácena zpět!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Smazat vše"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Zatím žádné vyhledávání"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Poslední hledání"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Přesměrováno z „\\$1“"
+    },
+    {
+      "name": "search_title",
+      "value": "Hledání"
+    },
+    {
+      "name": "settings_account",
+      "value": "Účet"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Nastavení čtení"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Vymažte data uložená v cache"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Vymazání dat uložených v mezipaměti (cache) uvolní přibližně \\$1 místa. Vaše uložené články nebudou smazány."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Vymazat data v mezipaměti?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Storno"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Vyprázdnit cache"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Pomoc a zpětná vazba"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Ukazovat jazyky při vyhledávání"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Přizpůsobením kanálu Objevit můžete nastavit, ve kterých jazycích se zobrazí články, z témat které vyberete."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Moje jazyky"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push oznámení"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primární"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "První jazyk v seznamu bude použit jako primární jazyk pro aplikaci."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Otevírat aplikaci v kartě Hledání (místo kanálu Objevit)"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Otevírat aplikaci v kartě Hledání"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Umožnit Wikimedii uložení uložených článků a seznamů k přečtení podle vašich uživatelských předvoleb při přihlašování a synchronizaci."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Synchronizovat uložené články a seznamy"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Vaše seznamy k přečtení budou synchronizovány na pozadí"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Požádat o aktualizaci synchronizovaných článků a seznamů k přečtení."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Aktualizovat synchronizované seznamy k přečtení"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Zobrazit seznam uložených (například výchozí) jako samostatný seznam v zobrazení seznamu čteček. Tento seznam se zobrazí pouze na zařízeních Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Zobrazit uložené seznamy k přečtení"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Ukládání a synchronizace článků"
+    },
+    {
+      "name": "settings_title",
+      "value": "Nastavení"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Vytvořeno s aplikací Wikipedie"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ na Wikipedii:"
+    },
+    {
+      "name": "share_building",
+      "value": "Vytváření karty Sdílení faktu…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "„\\$1” z článku „\\$1”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "„\\$1”\n\nz článku „\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Najít trasu"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Sdílet…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "„\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "přes Wikipedii"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Otevřít v Mapách"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„\\$1“ na Wikipedii: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "„\\$1“ na Wikipedii: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Nedávno přidáno"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Název"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Obsah"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zavřít"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Schovat obsah"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Obsah"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Skrýt tabulku s obsahem"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Podnadpis \\$1"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Přečteno"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Nepřečteno"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Pamatujte, že všichni jsme lidé"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Buďte přátelští"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Vaše odpověď byla úspěšně zveřejněna"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Vaše diskuse byla úspěšně zveřejněna"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Diskuse ke článku"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Diskuse s wikipedistou"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Příspěvky"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Diskusní stránky jsou místa, kde lidé diskutují o tom, jak udělat obsah na Wikipedii co nejlepší. Zahajte novou diskusi a připojte se a spolupracujte s \\$1. To, co zde řeknete, bude pro ostatní veřejné."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Přidat nové téma"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Zahájit diskusi"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Rozhovor začíná zde"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Opravdu chcete tuto novou odpověď zahodit?"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Černé"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Tmavé"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Standardní"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Přizpůsobeno vzhledu systému"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Světlý"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sépie"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Pokračovat v přihlášení"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Prosím zadejte dvoufaktorizační ověřovací kód."
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Přihlaste se do svého účtu"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Použít jeden z vašich záložních kódů"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Použít ověřovací kód"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Nelze načíst diskusní stránku"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Neznámé"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Ne, děkuji"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Doporučené čtení a vybrané články z naší komunity"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Kanál Objevit"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Cestujte zpět v čase, abyste se dozvěděli, co se dělo v historii"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Dnešek v minulosti"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Objevte památky v okolí nebo místa po celém světě"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Karta Místa"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Začít"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nové možnosti pro objevování"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Mám to"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedie je tvořena spoluprací více než 80 milionů dobrovolných přispěvatelů a skládá se z více než 50 milionů článků ve více než 300 jazycích."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Další informace o Wikipedii"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "O Wikipedii"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedie je globální projekt svobodných encyklopedií ve všech jazycích světa. Kdokoli s přístupem k internetu se může svobodně podílet přispíváním neutrálních a ověřených informací."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Otevřená encyklopedie"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Přidat další jazyk"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Přidat nebo upravit preferované jazyky"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Na vašem zařízení jsme našli následující jazyky:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Vyhledávejte a čtěte ve více než 300 jazycích"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Načítání náhledu vašich změn…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Tento odkaz vede na externí webovou stránku: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Externí odkaz"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedie nemá článek s tímto (přesným) názvem"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Interní odkaz nebyl nalezen"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Tento odkaz vede na „\\$1“"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Náhled odkazu"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Uložit změny"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Chyba v ověření CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Je potřeba ověření pomocí CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Nelze určit výsledek uložení wikitextu."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Zveřejňuje se…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Editace budou přiřazeny IP adrese vašeho zařízení. Pokud se \\$1přihlásíte\\$2, budete mít více soukromí."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Jako autor editace bude uvedena IP adresa vašeho zařízení. Pokud kliknete na \\$1, budete mít více možností ochránit své soukromí."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Podmínkami užití"
+    },
+    {
+      "name": "year_in_review_articles_slide_subtitle",
+      "value": "Zde jsou články, které jste v roce 2025 navštívili nejčastěji: \n\\$1"
+    },
+    {
+      "name": "year_in_review_categories_slide_subtitle",
+      "value": "Kategorie seskupují články na podobná témata. V roce 2025 jste články v těchto zajímavých kategoriích navštívili několikrát.\n\n\\$1"
+    },
+    {
+      "name": "year_in_review_feature_explore_footer_v3",
+      "value": "Vaše historie čtení je chráněna. Statistiky čtení se vypočítávají na základě dat uložených lokálně ve vašem zařízení."
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "Přečtené články"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "Oblíbený den na čtení"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "Články, které čtu nejvíce"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "Děkujeme, že jste strávili rok s Wikipedií."
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "Vaše nejzajímavější kategorie"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "Oblíbený den na čtení"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "Měsíc, ve kterém jste četli nejvíce"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "Oblíbený čas na čtení"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "Máte jasné čtenářské návyky"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "večer"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "ráno"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Protože jste četli"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Všechny nejčtenější články"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Další náhodný článek"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Z Wikipedie v jazyce %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Wikipedie v jazyce %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Žádná historie k zobrazení"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Skrýt tuto kartu"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Přizpůsobit kanál Objevit"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Karta skryta"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Popis článku pro článek %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Měli jste na mysli „%s“?"
+    }
+  ]
+}

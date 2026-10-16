@@ -1,0 +1,1088 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "விக்கிப்பீடியா"
+    },
+    {
+      "name": "about_content_license",
+      "value": "உள்ளடக்க உரிமம்"
+    },
+    {
+      "name": "about_contributors",
+      "value": "பங்களிப்பாளர்கள்"
+    },
+    {
+      "name": "about_libraries",
+      "value": "பயன்படுத்தும் நிரலகங்கள்"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "முழு பட்டியல்"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "உரிமம்"
+    },
+    {
+      "name": "about_repositories",
+      "value": "களஞ்சியங்கள்"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "எம்ஐடி உரிமம்"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "நிரல் பின்னூட்டம் அனுப்புக"
+    },
+    {
+      "name": "about_title",
+      "value": "இதைப் பற்றி"
+    },
+    {
+      "name": "about_translators",
+      "value": "மொழிபெயர்ப்பாளர்கள்"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1யில் தன்னார்வலர்களால் மொழிபெயர்க்கப்பட்டுள்ளது"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "விக்கிமீடியா அறக்கட்டளை"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "விக்கிப்பீடியா"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "\\$1 படத்தை பார்க்க முடியவில்லையா?"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "புதிய காப்ச்சா பெறப்படுகிறது..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "கணக்கை கோருக."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "காப்சா பாதுகாப்பு சோதனை"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "உங்கள் கணக்கை உருவாக்குக"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ஏற்கனவே பயனர் கணக்கு உள்ளதா? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "புகுபதிகை"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "உள்நுழைய படுகிறது..."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "கடவுச்சொல் களங்கள் பொருந்தவில்லை."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "சேமிக்கிறது..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "புதிய கணக்கு ஒன்றை உருவாக்கு"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "பட்டியலில் சேர்"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ரத்து செய்"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "பக்கத்திற்குள் கண்டுபிடி"
+    },
+    {
+      "name": "action_read",
+      "value": "படி"
+    },
+    {
+      "name": "action_save",
+      "value": "சேமி"
+    },
+    {
+      "name": "action_saved",
+      "value": "சேமிக்கப்பட்டது"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "பிற்காலத்திற்கு கட்டுரை சேமிக்கப்பட்டது"
+    },
+    {
+      "name": "action_share",
+      "value": "பகிர்க"
+    },
+    {
+      "name": "action_unsave",
+      "value": "சேமிக்கப்படாதது"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "கட்டுரை சேமிக்கப்படவில்லை"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "அகற்று"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "கட்டுரை அளவை பொருத்திக்கொள்"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "அட்டவணைகளை விரி"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "தோற்றங்கள் படிக்கப்படுகிறது"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "அட்டவணை அமைவுகள்"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "தோற்ற அமைவுகள்"
+    },
+    {
+      "name": "article_delete",
+      "value": "நீக்கு"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|கட்டுரை நீக்கப்பட்டது|கட்டுரைகள் நீக்கப்பட்டன}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "மொழியைக் கண்டறி"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "மொழியைத் தேர்ந்தெடுக்கவும்"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "மற்ற மொழிகளில்"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "தங்களது மொழி"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "மேலும் படிக்க"
+    },
+    {
+      "name": "article_share",
+      "value": "பகிர்க"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "பின்னே"
+    },
+    {
+      "name": "button_next",
+      "value": "அடுத்தது"
+    },
+    {
+      "name": "button_ok",
+      "value": "சரி"
+    },
+    {
+      "name": "button_publish",
+      "value": "பதிப்பிடு"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "வழுக்களை அறிக்கையிடுக"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "பிற்காலத்திற்கு சேமி"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "பிற்காலத்திற்கு சேமிக்கப்பட்டது"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "சேமிப்பிலிருந்து அகற்று"
+    },
+    {
+      "name": "button_skip",
+      "value": "தவிர்"
+    },
+    {
+      "name": "cancel",
+      "value": "கைவிடுக"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "மூடுக"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 மணிக்கு"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "மேலும் கட்டுரைகளைப் படிக்க விக்கிப்பீடியாவை சுற்றிப்பார்"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "அண்மையில் படித்த கட்டுரைகள் ஏதுமில்லை"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$2 இல் \\$1"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "நிரலைப் பற்றி"
+    },
+    {
+      "name": "dim_images",
+      "value": "படங்களை மந்தப்படுத்து"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "நன்றி!"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "தற்காலிகக் கணக்கு அறிவிப்பு"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "நிலையான இலக்கணம்"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "தட்டுப்பிழைத்திருத்தம்"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "இணைக்கப்பட்ட சுட்டிகள்"
+    },
+    {
+      "name": "edited_article",
+      "value": "தொகுக்கப்பட்டது"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "கண்டுபிடி"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "சாய்வெழுத்துகள்"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "அடிக்கோடிடு"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "பக்கத்திற்குள் கண்டுபிடி"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "மன்னிக்கவும், கட்டுரையை ஏற்றமுடியவில்லை"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "நீங்கள் சேமிக்கப்பட்ட பக்கங்களை தொடர்ந்து படிக்கலாம்"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "காட்டுவதற்கு வரலாறு ஏதுமில்லை"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "இன்னும் சேமிக்கப்பட்ட பக்கங்கள் இல்லை."
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "முடிவுகள் எதுவும் காணப்படவில்லை"
+    },
+    {
+      "name": "error_unknown",
+      "value": "அறியாப் பிழை ஏற்பட்டது"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "மற்றொரு தொடர்பிலா கட்டுரை"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "நீங்கள் படித்ததால்"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "வாசிப்பைத் தொடர்"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "உங்கள் இடத்திற்கு அருகாமையிலுள்ள கட்டுரைகளை சுற்றிபார்க்கவும்"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "சிறப்பு கட்டுரைகள்"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "விக்கிமீடியா திட்டங்களின் முதன்மை பக்கங்கள்"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "இன்று விக்கிப்பீடியாவில்"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "அதிகமாக படிக்கப்பட்டது"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "அருகில் இடங்கள்"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "இடங்கள்"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 விக்கிபீடியாவில் இருந்து"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "விக்கிப்பீடியாவில் இருந்து"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "உங்களது இருப்பிடம்"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "இன்றைய சிறப்புப்படம்"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "தொடர்பற்ற கட்டுரை"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "தற்போக்கான்"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "செல்லாத காப்சா"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "கடவுச் சொற்கள் பொருந்தவில்லை"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "செல்லத்தகாத குறி"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "பயனர்பெயர் கிடைக்கவில்லை"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "நிரற்றொடர் காப்புநகல்"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA உரை"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "நீங்கள் மேலே காணும் உரையை உள்ளீடு செய்க"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "மின்னஞ்சல்"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "மின் அஞ்சல் (விருப்பத்துக்குரியது)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "மறுமுறை புதிய கடவுச்சொல்லை உள்ளிடுக"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "புதிய கடவுச்சொல்லை உறுதி செய்க"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "புதிய கடவுச்சொல்லை உள்ளிடுக"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "புதிய கடவுச்சொல்"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "மறுமுறை கடவுச்சொல்லை உள்ளிடுக"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "கடவுச்சொல்லை உறுதிசெய்க"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "கடவுச்சொல்லை உள்ளிடுக"
+    },
+    {
+      "name": "field_password_title",
+      "value": "கடவுச்சொல்"
+    },
+    {
+      "name": "field_token_title",
+      "value": "உறுதிப்படுத்தல் குறியீடு"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "பயனர் பெயரொன்றை இடுக"
+    },
+    {
+      "name": "field_username_title",
+      "value": "பயனர் பெயர்"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$2 இல் \\$1"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "மீட்டமை"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "கடவுச்சொலை மீளமை"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "அல்லது"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ஆம், யாவையும் நீக்கு"
+    },
+    {
+      "name": "history_title",
+      "value": "வரலாறு"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "விக்கிப்பீடியா, சுற்றிப்பார்க்க திரும்புக"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "விக்கிப்பீடியா, சேமிக்கபட்டதற்கு திரும்புக"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 போல மேலும்"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "உங்கள் இடத்திற்கு அருகாமையில் இருக்கும் மேலும் இடங்கள்"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 க்கு அருகாமையில் மேலும்"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "மேலும் தற்போதய நிக்ழ்வுகள்"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "விருப்பங்களை நிருவகி"
+    },
+    {
+      "name": "home_title",
+      "value": "சுற்றிப்பார்"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "அருகாமை கட்டுரைகள்"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "தொடர்பற்ற கட்டுரை"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "விக்கிப்பீடியாவில் தேடவும்"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "அறயப்படாத ஆசிரியர்."
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "செய்திகளில்"
+    },
+    {
+      "name": "languages_title",
+      "value": "மொழியை மாற்று"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "விக்கப்பீடியா மொழிகள்"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "கடவுச்சொல் மறந்துவிட்டதா?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "விக்கிப்பீடியாவில் சேர்க"
+    },
+    {
+      "name": "login_no_account",
+      "value": "பயனர் கணக்கு இல்லையா? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "உங்கள் கணக்கிற்கு உள்நுழையவும்"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "நிரலைப் பற்றி"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "புகுபதிகை"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "விடுபதிகை"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "நீங்கள் விடுபதிகை செய்ய உறுதியாக உள்ளீர்களா ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 என புகுபதிகை செய்யப்பட்டுள்ளது"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "அகவுரிமை மற்றும் வரையறைகள்"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "அருகிலுள்ள"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "தனியுரிமைக் கொள்கை"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "செயலியில் தரத்தை நிர்ணயி"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "பயன்பாட்டு விதிமுறைகள்"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "மேலும்"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "விக்கிப்பீடியா சுழி அடிக்கடிக் கேட்கப்படும் கேள்விகள்"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "\\$1 வகைகள் சேர்க்கப்பட்டன"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "மொழிகளைச் சேர்க்கவும்"
+    },
+    {
+      "name": "more_menu",
+      "value": "மேலும்"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "முன்தோற்றம்"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 அடி"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 கி.மீ."
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 மீ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 மைல்கள்"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "நீங்கள் தற்காலிகமாக மின்னஞ்சல் செய்யப்பட்ட குறியீடுடன் புகுபதிந்துள்ளீர்.\nபுகுபதிவை நிறைவு செய்ய, புதிய கடவுச்சொல்லை இங்கு உருவாக்குங்கள்:"
+    },
+    {
+      "name": "new_password_title",
+      "value": "உங்கள் கடவுச்சொல்லை அமைக்கவும்"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "விழிப்பூட்டல்கள்"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "இணையத்தில்"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "யாவும்"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 பேச்சுப் பக்கம்"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "குறி"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "அறிவிப்புகள் மற்றும் விழிப்பூட்டல்கள்"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "படி"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "புது மின்னஞ்சல்"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "வாசித்ததாக குறியிடு"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "நன்றி"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 நிகற்புதம்"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ஆயிரம்"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": " \\$1 முதல் \\$2 வரை"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 வரலாற்று நிகழ்வு|\\$1 வரலாற்று நிகழ்வுகள்}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "மேலும் இந்த நாளின் வரலாற்று நிகழ்வுகள்"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "தரவேதும் கிடைக்கப்பெறவில்லை"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "இந்த நாளில்"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "உங்களுக்கு இந்த பக்கத்தை தொகுக்கும் உரிமைகள் இல்லை"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "இந்த பக்கம் பாதுகாக்கப்பட்டுள்ளது."
+    },
+    {
+      "name": "pictured",
+      "value": "படம்"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "சேமித்த தேடல்களை அழி"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 கட்டுரைகள்"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "உங்கள் இடத்தை மறுமையமாக்கவும்"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "பட்டியலாக காட்டுக"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "நிலப்படமாக காட்டவும்"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "மேலும் கட்டுரைகளை காட்டவும்"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "இருப்பிடத்தை செயல்படுத்து"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "சேமிக்கப்பட்ட இடங்கள் ஏதும் உங்களிடம் இல்லை"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "சேமிக்கப்பட்ட கட்டுரைகள்"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "அதிகமாக படிக்கப்பட்டது"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 கட்டுரை|\\$1 கட்டுரைகள்}}"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "இடங்களைத் தேடு"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "தாங்கள் கருதியது \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "அண்மையில் தேடப்பட்டது"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "அனைத்து சேமிக்கப்பட்ட கட்டுரைகள்"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "பரிந்துரைக்கப்படும் கட்டுரைகள்"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "இந்த இடத்தின் முடிவுகள்"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "அணைத்து முன்னணி கட்டுரைகள்"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "அருகில்"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "தங்களது தற்போதைய இருப்பிடம்"
+    },
+    {
+      "name": "places_title",
+      "value": "இடங்கள்"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "தெரியாத தொலைவு"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "கறுப்பு தோற்றம்"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "ஒளிர்வு வழுக்கான்"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "இருண்ட தோற்றம்"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "வெளிர் தோற்றம்"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "பழுப்பு தோற்றம்"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "உரை அளவு வழுப்பான்"
+    },
+    {
+      "name": "reference_title",
+      "value": "மேற்கோள்கள் \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=இன்று|1=நேற்று|\\$1 நாட்களுக்கு முன்}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=அண்மையில்|\\$1 மணிக்கு முன்பு|\\$1 மணி நேரத்திற்கு முன்பு}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=இப்பொழுது|\\$1 நிமிடத்திற்கு முன்பு|\\$1 நிமிடங்களுக்கு முன்பு}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=இந்த வருடம்|1=சென்ற வருடம்|\\$1 வருடங்களுக்கு முன்பு}}"
+    },
+    {
+      "name": "saved_title",
+      "value": "சேமிக்கப்பட்டது"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "விக்கிப்பீடியாவில் தேடவும்"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "விக்கிப்பீடியாவில் தேடவும்"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "அண்மைய தேடல்களையும் அனைத்தையும் நீக்கவா?"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "யாவையும் நீக்கு"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "அண்மையில் தேடப்பட்டது"
+    },
+    {
+      "name": "search_title",
+      "value": "தேடு"
+    },
+    {
+      "name": "settings_account",
+      "value": "கணக்கு"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "வாசிப்பு விருப்பங்கள்"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "கைவிடுக"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "என் மொழிகள்"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "அறிவிக்கைகள்"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "முதன்மை"
+    },
+    {
+      "name": "settings_title",
+      "value": "அமைப்புகள்"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "விக்கிப்பீடியா செயலி மூலம் உருவாக்கப்பட்டது"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "பகிர்க..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "நிலப்படத்தில் திறக்கவும்"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "உள்ளடக்க வரிசைப் பட்டியல்"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "மூடுக"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "உள்ளடக்க வரிசைப் பட்டியை மூடுக"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "உள்ளடக்கம்"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "கருப்பு"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "இருட்டான"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "இயல்பிருப்பு"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 வாசகர்கள்"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "உள்நுழைவை தொடரவும்"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "உங்கள் கணக்கிற்கு பகுபதியவும்"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 மாதம்"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 வாரம்"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "இந்த நாளில்"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "தொடங்கவும்"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "சுற்றிப்பார்பதற்கான புதிய வழிகள்"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "புரிந்துகொண்டேன்"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "விக்கிப்பீடியாவைப்பற்றி மேலும் அறி"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "விக்கிப்பீடியாவைப் பற்றி"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "இலவச கலை கலஞ்சியம்"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "மற்றொரு மொழி சேர்க்கவும்"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "பதிப்பிடப்படுகின்றது..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "பயன்பாட்டு விதிமுறைகள்"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "மதியம்"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "பின்னிரவு"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "நண்பகல்"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "காலை"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "இரவு"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "நேற்று"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "நீங்கள் படித்ததால்"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "மற்றொரு தொடர்பிலா கட்டுரை"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "காட்டுவதற்கு வரலாறு ஏதுமில்லை"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "நேற்று"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s இல் %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "தாங்கள் கருதியது %s?"
+    }
+  ]
+}

@@ -1,0 +1,1460 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Turagt n ugbur"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Arama yettwammel kan akken-nniḍen, agbur yella daw n \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Turagt Creative Commons Attribution-ShareAlike"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Imttekkiyen"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Timkarḍiyin yettwaseqdacen"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Tabdart yemden"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Turagt"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Nḥemmel aseɣzan n tengalt yeldin \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Yettwag sɣur \\$1 s tallelt n imttekkiyen am kečč"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Ikufan"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Tangalt aɣbalu yella daw n \\$1"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Turagt MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Azen tikti deg usnas"
+    },
+    {
+      "name": "about_title",
+      "value": "Ɣef"
+    },
+    {
+      "name": "about_translators",
+      "value": "Imsuqal"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Suqlen-t imttekkiyen di \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Tasbeddit Wikimédia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ur tezmireḍ ara ad twalid tugna? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Awway n CAPTCHA amaynut..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Suter amiḍan"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Asenqed n tɣellist n CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Rnu amiḍan-ik"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Ɣur-k yakan amiḍan?"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Qqen."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Tuqqna..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Yessef ad tsekkecmeḍ usem n useqdac, awal uffir, akked usentem n wawal uffir akken ad ternud amiḍan."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Urtan n wawal uffir ur mṣadan ara."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Asekles..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Rnu amiḍan"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Rnu ɣer..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Rnu ɣer wumuɣ yettwaɣran"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Rnu ɣer wumuɣ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Kkes"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Af-d deg usebter"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Snifel tutlayt"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Smimmeḍ ɣer..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Smimmeḍ ɣer wumuɣ yettwaɣran"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Aceggeṛ i d-itteddun"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Aceggeṛ yezrin"
+    },
+    {
+      "name": "action_read",
+      "value": "Ɣeṛ"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ales"
+    },
+    {
+      "name": "action_remove",
+      "value": "Kkes"
+    },
+    {
+      "name": "action_save",
+      "value": "Sekles"
+    },
+    {
+      "name": "action_saved",
+      "value": "Yettwasekles"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Yettwasekles. Rmed akken ad tekkseḍ asekles."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Amagrad yettwasekles i ticki"
+    },
+    {
+      "name": "action_share",
+      "value": "Bḍu"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Bḍu"
+    },
+    {
+      "name": "action_unsave",
+      "value": "UR yettwasekles ara"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Amagrad ur yettwasekles ara"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Rnu tugniwin"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Imagraden"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Issin ugar."
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Zgel"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Tasanayt tilellit"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Seggem teɣzi n uḍris n umagrad"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Senɣes tebrek n tugniwin n usentel ubrik"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Isental n tɣuri"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "timnaḍin deg usnas."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Iɣewwaṛen n isental"
+    },
+    {
+      "name": "article_delete",
+      "value": "Kkes"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Amagrad yettwakkes"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Af-d tutlayt"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Fren tutlayt"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Tutlayin-nniḍen"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Tutlayt-ik"
+    },
+    {
+      "name": "article_share",
+      "value": "Bḍu"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Asenqed n isental n tɣuri"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Uɣal"
+    },
+    {
+      "name": "button_next",
+      "value": "Ar zdat"
+    },
+    {
+      "name": "button_ok",
+      "value": "IH"
+    },
+    {
+      "name": "button_publish",
+      "value": "Suffeɣ-d"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Azen abug"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Sekles i ticki"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Yettwasekles i ticki"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Kkes seg usekles"
+    },
+    {
+      "name": "button_skip",
+      "value": "Zgel"
+    },
+    {
+      "name": "cancel",
+      "value": "Sefsex"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Mdel"
+    },
+    {
+      "name": "compass_direction",
+      "value": "af \\$1 n isragen"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Snirem Wikipedia i wugar n imagraden ara teɣreḍ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ula d yiwen n umagrad ur yerrwaɣra melmi kan"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Ɣef"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Sken-d"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Ffer"
+    },
+    {
+      "name": "dim_images",
+      "value": "Sibrek tugniwin"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Aseɣti n tira"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Aseɣti n tuccḍiwin"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Iseɣwan yettwarnan"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Suref-aɣ, ur tezmireḍ ara ad tessaliḍ amagrad"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Tzemreḍ ad teɣreḍ isebtar yettwaskelsen"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Tzemreḍ ad twaliḍ imagraden yettuweṣṣan ticki ɣur-k internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Ḍfeṛ ayen ɣef wayen telliḍ teqqareḍ dagi."
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ulac amazray ara twaliḍ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Sekles isebtar ara twaliḍ ticki, ɣas ukac tuqqna"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Ulac yakan asebter yettwawskelsen"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ulac igmaḍ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Teḍra tuccḍa tarussint"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Amargad-nniḍen agacuran"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Acku teɣriḍ"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Kemmel taɣuri"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Snirem imagraden iqeṛben ar wadig-ik amiran"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Amagrad ifazen"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Asebter agejdan n isenfaṛen Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Ass-a di Wikipedia"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Ttwaɣran aṭas"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Ttwaɣran aṭas arama d \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Deg Wikipidya \\$1"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Imeḍqan iqerben"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Idigen"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Di Wikipedia di \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Di Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Adig-ik"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Tugna n wass"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Amagrad agacuran"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Agacuran"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Rnu"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Rnu tugna"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Yir CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Awalen uffiren ur menṭaḍen ara"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Yir tangalt"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Ulac isem n useqdac"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Tangalt n tririt"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Aḍris CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Sekcem aḍris ara twaliḍ daw-a"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "amedya@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Imayl"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Imayl (Afrayan)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Ales asekcem n wawal uffir amaynut"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Sentem awal uffir amaynut"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Sekcem awal n uffir amaynut"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Awal uffir amaynut"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Ales asekcem n wawal uffir amaynut"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Sentem awal uffir amaynut"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Sekcem awal n uffir"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Awal uffir"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Tangalt n usenqed"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Sekcem isem n useqdac"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Isem n useqdac"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Akk"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Ales awennez"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Imayl s tinadin n uwennez n wawal uffir yettwazen"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Ččaṛ urtan ddaw-a akken ad d-remseḍ tinaḍin n uwennez n wawal uffir s yimayl"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Ales awennez n wawal uffir"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Neɣ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Tebɣiḍ ad tekkseḍ akk iferdisen n melmi kan?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ih, kkes akk"
+    },
+    {
+      "name": "history_title",
+      "value": "Amazray"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, uɣal ar umazray"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, uɣal ar Yettwasekles"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Ugar am \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Yeqreb ugar ar wanida telliḍ"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Yeqreb ugar ar \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Ugar deg isallen"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Sekles ismenyifen"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Seggem ismenyifen-ik n tɣuri (ula d teɣzi n uḍris d usentel) seg ufeggag n ifecka n umagrad neɣ deg ismenyifen-ik n useqdac i tɣuri ifazen."
+    },
+    {
+      "name": "home_title",
+      "value": "Snirem"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, sedrurem d asawen akken ad waliḍ"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Imagraden icuban"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Amagrad agacuran"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Nadi di Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ameskar arussin."
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Uhu"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Ih"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Deg isallen"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Tutlayin"
+    },
+    {
+      "name": "languages_title",
+      "value": "Fren tutlayt"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Tutlayin n wikipedia"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Tettuḍ awal uffir?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Ddu ar Wikipedia"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Ur tesɛiḍ ara amiḍan ? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Qqen ar umiḍan-ik"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ɣef usnas"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Qqen"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Ffeɣ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Tebɣiḍ ad teffɣed?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Yeqqen s yisem \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Tabaḍnit d tiwtilin"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "S lqeṛban"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Tasertit n tbaḍnit"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Rnu tazmilt i usnas"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Tiwtilin n useqdec"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Ugar"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Isteqsiyen FAQ Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Rnu tutlayin"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Taskany"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 n uḍaṛ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 n imilen"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Teqqneḍ s wawal uffir askudan. Akken ad fakeḍ tuqqna, sekcem awal-nniḍen uffir dagi."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Sbadu awal-ik uffir"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Swel amiḍan n yiznan deg usagu-ik sakin ɛreḍ tikelt-nniḍen."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Ulac ɣur-k·m iznan"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Rmed ilɣa"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Akk"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Amagrad"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Ugar"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 n yizen|\\$1 n yiznan}}"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Akk"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Tanemmirt"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Ansuf"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 n yizen amaynut|\\$1 n yiznan imaynuten}} ɣef \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|n yizen amaynut|n yiznan imaynuten}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1AṬ"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "Seg \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 n tedyant tamazrayt|\\$1 n tidyanin timazrayin}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Ugar n tidyanin timazrayin ass-a"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ass-a"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Ur ɣur-k ara azref n usnifel n usebtre-agi"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Asebter-agi yettummesten"
+    },
+    {
+      "name": "pictured",
+      "value": "s tugna"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Sfeḍ inadiyen yettwaskelsen"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 n imagraden"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Slemmes ar wadig-ik"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Sken am tebdart"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Sken am tkarḍa"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Sken ugar n imagraden"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Snirem timdinin, timura, imenẓawen, imedruzen igamanen, tidyanin timazrayin, izadaɣen, d wayen nniḍen."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Nadi imagraden Wikipedia s yidigen irakalen"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Rmed asideg"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Kcem kan ar usideg-ik yellan ticki asnas neɣ yiqet si timahilin-is tettban-d ɣef ugdil-ik."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Snirem imagraden iqeṛben ar wadig s urmed n unekcum ar usideg"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Ur ɣur-k ara idigen yettwaskelsen"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Imagraden yettwaskelsen"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Ttwaɣran aṭas"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 n umagrad|\\$1 n imagraden}}"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ula d yiwen seg imagraden-ik yettwaskelsen ur yesɛi talɣut n usideg"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 imenṭeḍ akked \"\\$2\""
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Nadi imeḍqan"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Tebɣiḍ ad tiniḍ \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Inadiyen n melmi kan"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Akk imagraden yettwaskelsen"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Inadiyen yettwasumren"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Igmaḍ di temnaḍt-agi"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Akk imagraden ifazen"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "S lqeṛban"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Asideg-ik arakal amiran"
+    },
+    {
+      "name": "places_title",
+      "value": "Idigen"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ameccaq arussin"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Tugna n wass i \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Ur izmir ara ad d-yawi tugna n wass i \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Eǧǧ Tasbeddit Wikimedia ad telqeḍ talɣut ɣef wamek tseqdaceḍ asnas akken ad yuɣal igarrez ugar."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Amaɣnu"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Qqen / Jerred di Wikipidya"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Aglam"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Taḥnaččaḍt n tafat"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Asentel aberkan"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Asentel aceɛlal"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Asentel sepia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Taḥnaccaḍt n teɣzi n uḍris"
+    },
+    {
+      "name": "reference_title",
+      "value": "Tamsisɣelt \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ass-a|Iḍelli|\\$1 n wussan aya}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Melmi kan|\\$1 usrag aya|\\$1 n isragen aya}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=tura kan|\\$1 n tesdat|\\$1 n tisdatin aya}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Aseggas-a|Aseggas yezrin|\\$1 n useggas aya}}"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Ur izmir ara ad d-isali tugniwin n usebter-agi yettwaskelsen."
+    },
+    {
+      "name": "saved_title",
+      "value": "Yettwasekles"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Nadi di Wikipedia"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Nadi di Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Kkes akk inadiyen n melmi kan?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tigawt-agi ur tettwasefsax ara!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Kkes i meṛṛa"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Inadiyen n melmi kan"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Awelleh si: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Nadi"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Udem"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Sfeḍ akk isefka yeffren"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Asfaḍ n isefka n tuffirt ad iserreḥ azal n \\$1 n umḍiq. Ayagi ur itekkes ara isebtar-ik yettwaskelsen."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Sfeḍ isefka yeffren?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Sefsex"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Sfeḍ tuffirt"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Mudd tawsa"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Tallelt d iwenniten"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Sken tutlayt deg unadi"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Tutlayin-iw"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Ilɣa"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Ɛreḍ tikkelt nniḍen."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Agejdan"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Tutlayt tamezwarut di tebdart-agi ad tettwaseqdec d tutlayt tagejdant n usnas-ik. Asnifel n tutlayt-agi ad ibeddel agbur n wass (am imagraden itran) yettwaseknen di Snirem (Explore)."
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "Ffeɣ"
+    },
+    {
+      "name": "settings_title",
+      "value": "Iɣewwaren"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Yettwag s usnas Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" di @Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Rnu takarḍa Bḍu-tigawt..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” si “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nsi “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Awi iwellihen"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Bḍu..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "s @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Ldi di Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” s Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” s @Wikipedia: \\$2"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Agbur"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Mdel"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Mdel agbur"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Igburen"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Snifel tutlayt"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Ɣeṛ ugar"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Tiwtilin n useqdec"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Aberkan"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Aberkan"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Amezwer"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Aceɛlal"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Ɛreḍ tura"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Kemmel tuqqna"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Sekcem tangalt n usentem n snat n tarrayin"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Qqen ar umiḍan-ik"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Seqdec yiwet si tengalin n uḥraz"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Seqdec tangalt n usenqed"
+    },
+    {
+      "name": "user_title",
+      "value": "Aseqdac"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Rnu tutlayt..."
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Taɣuri d imagraden n yal ass yelhan si tmezdagnut"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Snirem asuddem"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Uɣal ar deffir akken ad tissineḍ ayen yeḍran am ass-a deg umezruy."
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ass-a"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Wali ticraḍ yersen iqerben ɛur-k neɣ nadi imeḍqan deg umaḍal"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Icerren n timnaḍin"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Bdu"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Tarrayin-nniden n usnirem"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Awi-t"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia uran-tt iwiziwen s uɛiwen , llant deg-s ugar n 40 n imeyaln n imagraden s 300 n tutlayin gar-asent taqbaylit."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Issin ugar ɣef Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Ɣef Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia d asenfaṛ amaḍalan i bennu n tsanayt tilellit di tutlayin n umaḍal meṛṛa. S wudem uhlis, yal yiwen s unekcum ar Internet yezmer ad ittekki s war tasnakta, s umuddu n timsisɣal."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Tasanayt tilellit"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Rnu tutlayt-nniḍen"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Rnu neɣ ẓreg tutlayin tebɣiḍ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Nufa-d tutlayin-agi deg ibenk-ik:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Nadi seg ugar n 300 tutlayin"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Awway n teskant n usnifel-ik..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Aseɣwen-agi ad yawi ar '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Taskant n useɣwen"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Sekles isenfal"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Tuccḍa n usenqed n CAPTCHA"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Asenqed n CAPTCHA  ilaq"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Urizmir ara ad d-yaf agmuḍ n usali n uḍris n uwiki."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Asuffeɣ..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Asnifel ad ittunefk i tensa IP n terbaɛt-ik. Ma yella kečč \\$1, ad yili ɣur-k ugar n tbaḍnit."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Tiwtilin n useqdec"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Acku teɣriḍ"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Amargad-nniḍen agacuran"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Deg Wikipidya %s"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ulac amazray ara twaliḍ"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Tebɣiḍ ad tiniḍ %s?"
+    }
+  ]
+}

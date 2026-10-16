@@ -1,0 +1,3840 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Vikipedija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Turinio licencija"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Nebent nurodyta kitaip, turinys prieinamas pagal \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike licencija"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Autoriai"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Panaudotos bibliotekos"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Pilnas sąrašas"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licencija"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Mes mylime atviro kodo programinę įrangą \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Čia žiūrėkite licencijos informaciją"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Sukurta \\$1, su savanorių pagalba, tokių kaip jūs"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Duomenų saugyklos"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Šaltinio kodas prieinamas pagal \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT licencija"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Siųsti atsiliepimą apie programėlę"
+    },
+    {
+      "name": "about_title",
+      "value": "Apie"
+    },
+    {
+      "name": "about_translators",
+      "value": "Vertėjai"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Išversta savanorių \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Vikimedijos fondas"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Vikipedija"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Nematote paveikslėlio? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Gaunamas naujas CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Prašyti paskyros."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA saugumo patikra"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Sukurkite savo paskyrą"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Jau turite paskyrą? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Prisijungti."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Jungiamasi..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Turite įvesti naudotojo vardą, slaptažodį ir patvirtinti slaptažodį, kad sukurtumėte paskyrą."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Slaptažodžių laukai nesutampa."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Įrašoma..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Kurti naują paskyrą"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Jūsų paskyra"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Jūsų aptarimo puslapis"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Automatiškai pasirašyti diskusijose"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Automatinis pasirašymas diskusijose naudos parašą, apibrėžtą parašo nustatymuose"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Aptarimo puslapio nustatymai"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Pridėti prie…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Įtraukti į skaitymo sąrašą"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Pridėti į sąrašą"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Atšaukti"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Atsisakyti pakeitimų"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Rasti puslapyje"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Keisti kalbą"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Perkelti į…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Perkelti į skaitymo sąrašą"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Sekanti versija"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Ankstesnė versija"
+    },
+    {
+      "name": "action_read",
+      "value": "Skaityti"
+    },
+    {
+      "name": "action_redo",
+      "value": "Atkurti"
+    },
+    {
+      "name": "action_remove",
+      "value": "Pašalinti"
+    },
+    {
+      "name": "action_retry",
+      "value": "Bandyti dar kartą"
+    },
+    {
+      "name": "action_save",
+      "value": "Išsaugoti"
+    },
+    {
+      "name": "action_saved",
+      "value": "Išsaugota"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Išsaugota. Aktyvuokite, kad nebebūtų saugoma."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Straipsnis išsaugotas vėlesniam laikui"
+    },
+    {
+      "name": "action_share",
+      "value": "Dalintis"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Dalintis"
+    },
+    {
+      "name": "action_sort",
+      "value": "Rūšiuoti"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Padėkoti naudotojui"
+    },
+    {
+      "name": "action_undo",
+      "value": "Anuliuoti"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Nebesaugoti"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Straipsnis nebesaugomas"
+    },
+    {
+      "name": "action_update",
+      "value": "Atnaujinti"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Paslėpti"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Vikipedija, nuoroda, viki, enciklopedija, informacija, žinios, mokslas, tyrinėjimas, mokymasis"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Pilnai tinkintinas ir lengvas skaityti Tyrinėjimo srautas. Lokalizacija, našumo patobulinimai ir klaidų ištaisymai."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Atsisiųskite Vikipedijos programėlę ir tyrinėkite aplinkines vietas, sinchronizuokite straipsnius skaitymui neprisijungus ir tinkinkite savo skaitymo patirtį."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Laisvoji enciklopedija"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Tinkinti straipsnio teksto dydį"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Išskleisti lenteles"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Nustatyti, kad visos lentelės visuose straipsniuose būtų išskleistos, įskaitant trumpus faktus, nuorodas, pastabas ir išorės nuorodas."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Sumažinti paveikslėlių skaidrumą tamsiuose ir juodose temose"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Skaitymo temos"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Lentelės nustatymai"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Slinkite, kad pakeistumėte straipsnio teksto dydį. Kitų programėlės dalių dydį galite pakeisti nustatydami dydį savo sistemos nustatymuose."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Temos parinktys"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Apie šį straipsnį"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ištrinti"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Programėlei laiku nepavyko gauti atnaujinto turinio. Perkraukite šį puslapį vėliau, kad pamatytumėte savo pakeitimus."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Rasti kalbą"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pasirinkite kalbą"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Kitos kalbos"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Jūsų kalbos"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Skaityti daugiau"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Nuoroda \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Savo įrenginyje neturite pakankamai vietos, kad išsaugoti šį straipsnį"
+    },
+    {
+      "name": "article_share",
+      "value": "Dalintis"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Skaitymo temų kontrolė"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Atgal"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Spustelėkite, kad grįžtumėte"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Grįžti"
+    },
+    {
+      "name": "button_next",
+      "value": "Kitas"
+    },
+    {
+      "name": "button_ok",
+      "value": "Gerai"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publikuoti"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Vis tiek skelbti"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Pranešti apie klaidą"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Išsaugoti ateičiai"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Išsaugoti ateičiai"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Pašalinti iš išsaugotų"
+    },
+    {
+      "name": "button_skip",
+      "value": "Praleisti"
+    },
+    {
+      "name": "cancel",
+      "value": "Atšaukti"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Kinų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Išvalyti"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Uždaryti"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 valandą"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Tyrinėkite Vikipediją, kad rastumėte daugiau straipsnių skaitymui"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nėra neseniai skaitytų straipsnių"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Krymo Totorių varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Atnaujinama..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Pridėti aprašymą"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 straipsnio aprašymas"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Pakeičiant straipsnio aprašymą aš sutinku su \\$1 ir leidžiu naudoti savo indėlį pagal \\$2 licenciją."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Redaguoti įžangą"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Redaguoti straipsnio aprašymą"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Geriausi yra trumpi aprašymai"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Paskelbti aprašymą"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Redaguoti aprašymą"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Stenkitės išlaikyti aprašymus trumpus, kad naudotojai galėtų akimirksniu suprasti straipsnio esmę"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Straipsnių aprašymai leidžia apžvelgti straipsnį, kad naudotojai galėtų suprasti straipsnio temą akimirksniu."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Apie"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Apie Vikiduomenis"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Aprašymai talpinami ir tvarkomi Vikiduomenyse, Vikimedijos fondo projekte, kuris leidžia nemokamai, bendradarbiaujant, keliomis kalbomis suteikti antrinį duomenų bazės palaikymą Vikipedijai ir kitiems projektams."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Daugiau informacijos"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "straipsnio apie Moną Lizą aprašymas"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "straipsnio apie Everesto kalną aprašymas"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo da Vinčio paveikslas"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Aukščiausias kalnas žemėje"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Pavyzdžiui:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Aprašymų kūrimo patarimai"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Straipsnio aprašymo pagalba"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Vikiduomenų gidas aprašymų rašymui"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Atlikta"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Jūs ką tik padarėte Vikipediją geresne visiems"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Aprašymas paskelbtas!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealiai, viena eilutė, tarp dviejų ir dvylikos žodžių"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Turėtų būti trumpas"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Pateikia straipsnio santrauką, kad skaitytojai suprastų temą akimirksniu"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Straipsnių aprašymai"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Pradėdamas prižadu naudoti šią funkciją geranoriškai"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Pradėti redagavimą"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Ankstesnis keitimas"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Lyginti versijas"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Rodomas keitimas"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Lyginti versijas"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Rodyti"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Slėpti"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Eilutės \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Pastraipa perkelta"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "žemyn"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "aukštyn"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linija|\\$1 linijos}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 skyrius|\\$1 skyriai}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Pastraipa perkelta \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Nepavyko įkelti versijos"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Atmesti"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Ar tikrai norite atmesti keitimus?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Atmesti keitimus"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Keitimai atmesti."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 keitimas|\\$1 keitimai}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Redaktoriaus informacija"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|pridėtas \\$1 baitas|pridėta \\$1 baitai}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|pašalintas \\$1 baitas|pašalinta \\$1 baitai}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Keitimo santrauka"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Įvadas"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Eilutė \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Negalima padėkoti anoniminiams naudotojams"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Padėkos yra lengvas būdas įvertinti naudotojo darbą Vikipedijoje. Turite prisijungti, kad galėtumėte siųsti padėkas."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Prisijunkite, kad galėtumėte siųsti padėkas"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Siųsti padėką"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Padėkos yra lengvas būdas įvertinti naudotojo darbą Vikipedijoje. Padėkų atšaukti negalima ir jos yra viešai matomos"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Padėkoti viešai"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Jūsų padėka išsiųsta \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Už šį keitimą jau padėkojote"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Padėkos negali būti atšauktos"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Keitimas atmestas."
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Dukart palieskite, kad atidarytumėte meniu"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Rodyti tekstą"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Nuorodos tikslas"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Pašalinti nuorodą"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Redaguoti nuorodą"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Redaguoti"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Nepavyko rasti jūsų pasirinkto teksto"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Sužinokite daugiau apie smulkius pakeitimus"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Tai smulkus pakeitimas"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Redagavimo pranešimai"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Visada rodyti redagavimo pranešimus"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Prašome perskaityti prieš redaguodami"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Pridėti keitimo santrauką"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Pataisyta gramatika"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Pataisyta rašyba"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Pridėtos nuorodos"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Kaip patobulinote straipsnį?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Sužinokite daugiau apie stebimųjų sąrašus"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Stebėti šį puslapį"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Būkite drąsūs, bet atsargūs atnaujindami straipsnius. Nebijokite klaidų: visos ankstesnės puslapio versijos saugomos, tad klaidas lengvai gali ištaisyti mūsų bendruomenė."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Jūsų balsas svarbus"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Visas turinys turi būti patikrinamas. Kai pridedama nauja informacija prie straipsnio naudotojai turėtų pridėti citatą į patikimą šaltinį, kuris tiesiogiai pagrindžia indėlį."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Cituokite patikimus šaltinius"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Siekiame, kad straipsniai būtų rašomi nešališku tonu. Kai redaguojate, stenkitės perteikti patikimų šaltinių reprezentaciją."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Rašykite nešališku tonu"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Kad galėtume suteikti prieiga prie pasaulio žinių, mums reikia, kad jūs dalyvautumėte kūrime skaitydami, redaguodami ir prisidėdami prie temų, kurios jums svarbiausios."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Išlaisvinkite žinias"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Ar esate tikri, jog norite palikti redagavimo režimą nepaskelbę pakeitimų?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Paslėpti redagavimo režimą?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Jokio skirtumo tarp versijų"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Jokių peržiūrėtinų pakeitimų neatlikta"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Pasirinkti failą iš Vikitekos"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Atsiprašome, nepavyko įkelti straipsnio"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Jūs dar galite skaityti išsaugotus puslapius"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Galėsite matyti savo rekomenduojamus straipsnius, kai turėsite interneto ryšį"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Čia sekite tai, ką skaitote"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nėra rodytinos istorijos"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Šis straipsnis kol kas neparašytas jokia kita kalba"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Jokios kitos kalbos neprieinamos"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Kurkite sąrašus lankytinoms vietoms, mėgstamiausioms temoms ir daugiau"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizuokite išsaugotos straipsnius su skaitymo sąrašais"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Išsaugokite puslapius į šį sąrašą, kad juos matytumėte čia"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Nėra į šį sąrašą išsaugotų puslapių"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Išsaugokite puslapius peržiūrai vėliau, net ir neprisijungus"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Dar nėra išsaugotų puslapių"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Rezultatų nerasta"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Šiam naudotojui nepaskelbtos jokios žinutės"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prašome pabandyti vėliau"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Įvyko nežinoma klaida"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Kitas atsitiktinis straipsnis"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Nes jūs skaitėte"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Papildomi susiję straipsniai"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Skaityti toliau"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Grįžti į Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Tyrinėkite straipsnius šalia jūsų dabartinės vietos"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Rinktinis straipsnis"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Iš \\$1 Vikipedijos"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Iš Vikipedijos"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Tinkinti"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Tyrinėjimo srauto kalbos nustatymai"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Papildomos kalbos gali būti pridėtos „Mano kalbos“ nustatymų puslapyje."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kortelė paslėpta"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Tinkinti Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Tinkinti Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Kortelės tipo paslėpimas sustabdys šio kortelės tipo atsidarymą Tyrinėjimo sraute."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Tyrinėjimo skirtukas"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Kasdienis Vikipedijos išskirtinis straipsnis"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Išjungta"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Visi įjungti"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Įjungta"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Visos \\$1 kortelės paslėptos"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Ši kortelė nepriklauso nuo kalbos, jos išjungimas pašalins ją iš Tyrinėjimo srauto."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Nuo kalbos nepriklausomos kortelės"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Nuo kalbos nepriklausomos"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Visuotinės kortelės"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Paslėpti šią kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Slėpti visas „\\$1“ korteles"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Straipsniai apie dabartinius įvykius"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Visų Tyrinėjimo srauto kortelių visomis kalbomis paslėpimas išjungs Tyrinėjimo skirtuką."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Šios dienos istoriniai įvykiai"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Vikipedijos straipsniai arti jūsų vietos"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Kasdienis Vikitekos išskirtinis paveikslėlis"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Generuoti atsitiktinius straipsnius skaitymui"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Pasiūlymai remiantis skaitymo istorija"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Rodyti skaitymo pratęsimo kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Šios išskirtinio straipsnio kortelės išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Rodyti išskirtinio straipsnio kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Kortelės apie naujienas išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Rodyti naujienų kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Kortelės apie istorinius dienos įvykius išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Rodyti šios dienos įvykių kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Rodyti dienos nuotraukos kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Vietų kortelės išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Rodyti vietų kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Atsitiktinės kortelės išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Rodyti atistiktinę kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Rodyti „Nes skaitėte“ kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Daugiausia skaitomų kortelės išjungimas išjungs kortelę visomis prieinamomis kalbomis."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Rodyti daugiausia skaitomų kortelę"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Kasdien daugiausiai skaitomi straipsniai"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Išjungti Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Visų Tyrinėjimo srauto kortelių paslėpimas išjungs Tyrinėjimo skirtuką ir pakeis jį nustatymų skirtuku"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Išjungti Tyrinėjimo srautą?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Išjungti Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Tyrinėjimo skirtukas vėl gali būti įjungtas Tyrinėjimo srauto nustatymuose"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Išjungti Tyrinėjimo skirtuką?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Tyrinėjimo skirtuko išjungimas pakeis jį nustatymų skirtuku"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Pasirenkant rodyti Tyrinėjimo srauto kortelės jūs įjungiate Tyrinėjimo skirtuką"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Įjungti Tyrinėjimą"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Tai pakeis nustatymų skirtuką su Tyrinėjimo skirtuku, galėsit pasiekti nustatymus Tyrinėjimo skirtuko viršuje paspaudus krumpliaračio piktograma"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Įjungti Tyrinėjimo skirtuką?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Paslėpti šią kortelę"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Vikimedijos projektų pagrindinis puslapis"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Šiandien Vikipedijoje"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Visi labiausiai skaitomi straipsniai"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Populiariausi skaitiniai"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Viršuje \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Vikipedijoje"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Vikipedijoje"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Artimos vietovės"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Vietos"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Panaudota \\$1 Vikipedijoje"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Iš Vikipedijos"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Jūsų vieta"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Jūsų vieta iš \\$1 Vikipedijos"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Dienos nuotrauka"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Iš Vikitekos"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Atsitiktinis straipsnis"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Iš \\$1 Vikipedijos"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Iš Vikipedijos"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Atsitiktinis"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Dalijimasis jūsų programėlės biblioteka apima duomenis apie jūsų skaitymo sąrašus ir istoriją, nustatymus ir Tyrinėjimo srautu turinį. Šiuo duomenų failu turėtumėte dalintis tik su patikimais gavėjais techninės diagnostikos tikslais."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Dalinis programėlės biblioteka?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Įvyko klaida eksportuojant jūsų duomenis. Pabandykite vėliau dar kartą."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Neturite pakankamai įrenginio talpyklos vietos, kad būtų eksportuoti jūsų naudotojo duomenis. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Eksportuoti naudotojo duomenis"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Išskirtinis straipsnis šiai datai neprieinamas."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Atraskite geriausius Vikipedijos straipsnius, kuriuos kasdien atrenka mūsų bendruomenė."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Iš \\$1 Vikipedijos"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Iš Vikipedijos"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Jūsų pagrindinė Vikipedijos kalba nepalaiko išskirtinių straipsnių. Galite atnaujinti savo pagrindinę Vikipediją savo programėlės nustatymų meniu."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Rinktinis straipsnis"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Kažkas ne taip. Prašome pabandyti dar kartą."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Programėlė gavo netikėtą atsakymą iš serverio. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Neteisingas CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Slaptažodžiai nesutampa"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Netinkamas kodas"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Vartotojo vardas negalimas"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Atsarginis kodas"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA tekstas"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Įveskite tekstą, kurį matote aukščiau"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "pavyzdys@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "El. paštas"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "El. paštas (neprivaloma)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "pakartokite naują slaptažodį"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Patvirtinkite naują slaptažodį"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "įveskite naują slaptažodį"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Naujas slaptažodis"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "pakartokite slaptažodį"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Patvirtinkite slaptažodį"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "įveskite slaptažodį"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Slaptažodis"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Patvirtinimo kodas"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "įveskite naudotojo vardą"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Naudotojo vardas"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Valyti paieškos lauką"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Kitas rastas rezultatas"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Ankstesnis rastas rezultatas"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Rasti ir pakeisti"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Uždaryti „rasti ir pakeisti“"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Rasti"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Atstatyti"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "El. laiškas su slaptažodžio atstatymo instrukcijomis išsiųstas"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Užpildykite vieną iš laukelių žemiau, kad gautumėte slaptažodžio atstatymo instrukcijas el. paštu"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Atstatyti slaptažodį"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Arba"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Ar tikrai norite ištrinti visus naujus elementus?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Taip, ištrinti viską"
+    },
+    {
+      "name": "history_title",
+      "value": "Istorija"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Vikipedija, grįžti į Tyrinėjimą"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Vikipedija, grįžti į Išsaugota"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Daugiau kaip \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Daugiau vietų šalia jūsų vietovės"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Daugiau netoliese \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Daugiau dabartinių įvykių"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Jūsų išsaugoti straipsniai dabar gali būti tvarkomi skaitymo sąrašuose ir sinchronizuojami tarp įrenginių. Prisijunkite, kad leistumėte savo skaitymo sąrašus išsaugoti savo naudotojo nustatymuose."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Tvarkyti nustatymus"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Kad skaityti būtų patogiau, pritaikykite savo skaitymo nuostatas, įskaitant teksto dydį ir temą, iš straipsnio įrankio juostos arba savo naudotojo nustatymuose."
+    },
+    {
+      "name": "home_title",
+      "value": "Naršyti"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Vikipedija, slinkti į Tyrinėjimo viršų"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Netoli esančių objektų straipsniai"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Atsitiktinis straipsnis"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Ieškoti Vikipedijoje"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autorius nežinomas."
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Mano skaitymo sąrašas"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Atlikti apklausą"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "Skaitymo sąrašų dalijimasis yra bandoma funkcija ir mums reikia jūsų grįžtamojo ryšio, kad galėtume patobulinti ar pašalinti šią funkciją."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Ar galite mums padėti patobulinti skaitymo sąrašų dalijimąsi?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Importuoti pasidalintą skaitymo sąrašą"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Iš \\$1 Vikipedijos"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Iš Vikipedijos"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Naujienos"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Įterpti"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Įterpti nuorodą"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Teksto aprašymas skaitytojams, kurie negali matyti paveikslėlio"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Apibūdinkite šį paveikslėlį"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternatyvus tekstas"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Kaip šis paveikslėlis susijęs su straipsniu?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Antraštė"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centras"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Kairė"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Nėra"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Dešinė"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Paveikslėlio pozicija"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Daugiau informacijos"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Pasirinkite paveikslėlį"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Pasirinktinis"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Numatytasis"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Paveikslėlio dydis"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Paprastas"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Rėmelis"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Berėmis"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatiūra"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Paveikslėlio tipas"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Medijos nustatymai"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Įterpti mediją"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos inuktituto variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Syllabics (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Inuktituto varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos kazachų kalbos variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Cyrillic (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arabic (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Kazachų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos kurdų kalbos variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nKurdî Latînî Kurdish, Latin (ku-latn)\nكوردی Kurdish, Arabic (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Kurdų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Kalbos"
+    },
+    {
+      "name": "languages_title",
+      "value": "Keisti kalbą"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Vikipedijos kalbos"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Tęsti neprisijungus"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Prisijunkite atgal prie savo paskyros"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Problema autentifikuojant jūsų paskyrą. Skaitymo sąrašu sinchronizavimui ir redagavimui jūsų naudotojo vardu, prašome prisijungti atgal."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Buvote atjungti"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Pamiršote savo slaptažodį?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Prisijunkite prie Vikipedijos."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Neturite paskyros? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Prisijunkite prie savo paskyros"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Apie programėlę"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Prisijungti"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Atsijungti"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ar tikrai norite atsijungti?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Atsijungimas ištrins jūsų lokaliai laikomus paskyros duomenis (pranešimus ir žinutes), bet jūsų paskyros duomenis išliks prieinami internete ir bus galima juos persisiųsti iš naujo, jei prisijungsite atgal."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Prisijungta kaip \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privatumas ir sąlygos"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Netoliese"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Privatumo politika"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Įvertinti programėlę"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Naudojimo sąlygos"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Daugiau"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Vikipedija Zero DUK"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Ieškokite Vikipedijoje daugiau nei 300 kalbų"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Pridėti kalbas"
+    },
+    {
+      "name": "more_menu",
+      "value": "Daugiau"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Perkelti {{PLURAL:\\$1|\\$1 straipsnį| \\$1 straipsnius}} į skaitinių sąrašą"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Peržiūra"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pėdų"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mylių"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Jūs prisijungėte su laikinu slaptažodžiu. Kad baigtumėte prisijungimą, prašome nustatyti savo naują slaptažodį čia."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Nustatykite savo slaptažodį"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Prašome nustatyti el. pašto paskyrą savo įrenginyje ir bandyti dar kartą."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Nėra interneto ryšio"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ne dabar"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Iš \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Įspėjimas"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Pranešimų filtras - yra taikomų filtrų"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Projektų filtras - yra taikomų filtrų"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Pranešimai su neskaitytų ženkliuku"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 pranešimas"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Keisti slaptažodį"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Tikrinami pranešimai..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Programėlėje"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Internete"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Tikrinami pranešimai..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Jūs neturite žinučių"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Šiuo metu neprenumeruojate jokių Vikipedijos pranešimų"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Pakeiskite \\$1, kad matytumėte daugiau žinučių"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Pridėkite projektų, kad matytumėte daugiau žinučių"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filtras|\\$1 filtrai}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Įjungti pranešimus"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Pranešimų filtras"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Visi"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Skaityti"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Neskaityti"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Perskaitymo būsena"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtrai"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Pritaikykite pranešimų tipus, kad juos filtruotumėte savo pranešimų dėžutėje. Išjungti tipai bus nematomi, bet jų turinys ir bet koks naujas pranešimas bus prieinami, kai vėl įjungsite."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Visi tipai"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Pranešimų tipai"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Straipsnis"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 aptarimo puslapis"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Skirt"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 naudotojo puslapis"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Vikiduomenų elementas"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Jūsų aptarimo puslapis"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Įspėjimas iš \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Atlikta"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projektai"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Tik projektai, kur sukūrėte paskyra, bus rodomi čia"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Vikimedijos projektai"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Vikipedijos"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Prisijungimo pranešimai"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Pažymėti"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Pažymėti kaip perskaitytą"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Ar tikrai norite pažymėti {{PLURAL:\\$1|\\$1 savo pranešimų žinutę kaip skaitytą|visas \\$1 savo pranešimų žinutes kaip skaitytas}}? Jūsų pranešimai bus pažymėti kaip skaityti visuose jūsų įrenginiuose."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Ar tikrai norite pažymėti visus pranešimus kaip skaitytus? Jūsų pranešimai bus pažymėti kaip skaityti visuose jūsų įrenginiuose."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Žymėti skaitytu"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Žymėti neskaitytu"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Daugiau"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Pranešimų nustatymai"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 pranešimas|\\$1 pranešimai}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Tęsti"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Filtruokite savo pranešimus pagal perskaitymo būseną ir tipą, kad lengvai susiarintumėte savo gautuosius."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtrai"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Sužinokite daugiau apie pranešimus"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Pranešimai padeda jus informuoti apie su jūsų keitimais ir paskyra susijusią veiklą"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Pranešimai ir įspėjimai"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Peržiūrėkite visas savo neskaitytas žinutes iš skirtingų kalbų Vikipedijų ir Vikimedijos projektų vienoje vietoje."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Projekto gautieji"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Keitimų pranešimai"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Ne, ačiū"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Projektų filtras"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Visi"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Visi pranešimai"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtruojama"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=1 projekte|\\$1 projektuose}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 projekte|\\$1 projektuose}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 tipas|\\$1 tipai}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Skaityta"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 ir \\$2 \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Neskaityta"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Keitimų pasiekimas"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Jūsų keitimas atmestas"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Naujas el. laiškas"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Keli nepavykę prisijungimo bandymai"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Nepavykęs prisijungimo bandymas"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Prisijungimas iš nepažįstamo įrenginio"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Paminėjimas straipsnio aptarimo puslapyje"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Paminėjimas keitimo santraukoje"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Nepavykęs paminėjimas"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Pavykęs paminėjimas"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Paminėjimas aptarimo puslapyje"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Žinutė jūsų aptarimo puslapyje"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Puslapio nuoroda"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Puslapis peržiūrėtas"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Padėka"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Vertimo pasiekimas"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Naudotojo teisių pakeitimai"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Sveiki atvykę!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Vikiduomenų ryšys sukurtas"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Žymėti skaitytu"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Pažymėti kaip neskaitytą"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Daugiau"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Pranešimai"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Žymėti pasirinktus pranešimus"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Paminėjimai"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Pranešimas"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Sveikinimo žinutė"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Ryšys su Vikiduomenimis"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Keitimų pasiekimas"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Keitimas atmestas"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Keitimo santraukos paminėjimas"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "El. laiškas iš kito naudotojo"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Prisijungimo bandymai"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Nepavykę prisijungimo prie jūsų paskyros bandymai"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Sėkmingas prisijungimas"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Kita"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Puslapio nuoroda"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Puslapio peržiūra"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Nepavykęs išsiųstas paminėjimas"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Pavykęs išsiųstas paminėjimas"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Aptarimo puslapio paminėjimas"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Padėka"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Vertimo pasiekimas"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Naudotojo teisių pakeitimai"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Aptarimo puslapio žinutė"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Sveikinimas"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Nauja veikla Vikipedijoje"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 nauja žinutė|\\$1 naujos žinutės}} \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Nauja žinutė|Naujos žinutės}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mlrd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mln."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 tūkst."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "nuo \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 istorinis įvykis|\\$1 istoriniai įvykiai|\\$1 istorinių įvykių}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Daugiau šios dienos istorinių įvykių"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|dar \\$1 istorinis įvykis|\\$1 istoriniai įvykiai}} šią dieną"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Jūsų pagrindinė Vikipedijos kalba nepalaiko šios dienos įvykių. Galite atnaujinti savo pagrindinę Vikipediją savo programėlės nustatymų meniu."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Nėra duomenų"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 iš \\$2 Vikipedijos"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Šią dieną"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Paspauskite 'W', kad grįžtumėte į pradinį skirtuką"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "robotų keitimai"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Paspauskite, kad pasirinktumėte dvi versijas palyginimui"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Palyginti"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Keitimų laike grafikas"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "smulkūs pakeitimai"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autorius: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentara \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Versijų istorija"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Smulkus keitimas"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Pridėta {{PLURAL:\\$1|\\$1 baitas|\\$1 baitai}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Pašalinta {{PLURAL:\\$1|\\$1 baitas|\\$1 baitai}}"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Galima pasirinkti tik dvi versijas"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 keitimas|\\$1 keitimai}} nuo \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Puslapio problemos"
+    },
+    {
+      "name": "page_location",
+      "value": "Žiūrėti žemėlapyje"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Neturite teisių redaguoti šį puslapį"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Šis puslapis užrakintas"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Panašūs puslapiai"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Versijų palyginimas parodo kaip straipsnis pasikeitė per laiką. Dviejų straipsnio versijų palyginimas parodys šių versijų skirtumus, paryškinant turinį, kuris pakito."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Versijų palyginimas"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Redaguoti neprisijungus"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Esate neprisijungę"
+    },
+    {
+      "name": "pictured",
+      "value": "vaizduojama"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Išvalyti išsaugotas paieškas"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 straipsniai"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Centruoti į mano vietą"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Rodyti kaip sąrašą"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Rodyti kaip žemėlapį"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Rodyti daugiau straipsnių"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Tyrinėkite miestus, valstybės, žemynus, natūralias žymias vietas, istorinius įvykus, pastatus ir daugiau."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Ieškoti Vikipedijos straipsnių su geografine vieta"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Įgalinti vietą"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Prieiga prie jūsų vietos prieinama tik programėlė ar viena iš jos funkcijų yra matomos jūsų ekrane."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Tyrinėkite straipsnius šalia jūsų vietos įgalindami vietos prieigą"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtruoti straipsnius"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtras"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Neturite išsaugotų vietų"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Išsaugoti straipsniai"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Populiariausi skaitiniai"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 straipsnis|\\$1 straipsniai|\\$1 straipsnių}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Daugiausiai skaitomi straipsniai"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Vietovė įjungta"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Nei vienas iš jūsų išsaugotų straipsnių neturi vietos informacijos"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 atitinka „\\$2“"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Ieškoti vietų"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Ar turėjote omenyje \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Neseniai ieškota"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Visi išsaugoti straipsniai"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Siūlomos paieškos"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Rezultatai šioje vietoje"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Visi skaitomiausi straipsniai"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Netoliese"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Jūsų dabartinė vietovė"
+    },
+    {
+      "name": "places_title",
+      "value": "Vietos"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "nežinomas atstumas"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Dienos nuotrauka \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Nepavyko gauti \\$1 dienos nuotraukos"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Mėgaukitės gražia nuotrauka, kurią kiekvieną dieną parenka mūsų bendruomenė."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Dienos nuotrauka"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Leisti Vikimedijos fondui rinkti informaciją apie tai, kaip naudojate programėlę, taip ją tobulinant"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Vikiknygos"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Vikiduomenys"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Vikiteka"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Vikinaujienos"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Vikicitatos"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Vikišaltiniai"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Vikirūšys"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Vikiversitetas"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Vikikelionės"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Vikižodynas"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Pridėti šį straipsnį prie skaitymo sąrašo?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Pridėti „\\$1“ straipsnį prie skaitymo sąrašo?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Taip, pridėti juos prie mano skaitymo sąrašų"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Yra straipsnių, išsaugotų jūsų Vikipedijos programėlėje. Ar norite juos išlaikyti ir juos sujungti su skaitymo sąrašai, kurie sinchronizuojami su jūsų paskyra?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Rasti išsaugoti straipsniai"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Šis įrašas nėra sinchronizuojamas, nes pasiekėte šio sąrašo įrašų limitą."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Sinchronizuojant jūsų skaitymo sąrašus įvyko netikėta klaida."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Šis sąrašas nesinchronizuojamas, nes pasiekėte sinchronizuojamų sąrašų limitą."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Sukurti skaitymo sąrašą"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Aprašymas"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Skaitymo sąrašo pavadinimas"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Sukurti naują sąrašą"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Skaitymo sąrašas ištrintas"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ne, ištrinti straipsnius iš įrenginio"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Sumažinkite straipsnių skaičių šiame sąraše iki \\$1, kad būtų tęsiamas visų straipsnių šiame sąraše sinchronizavimas."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Viršijote {{PLURAL:\\$1|\\$1 straipsnio|\\$1 straipsnių}} limitą vienai paskyrai."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Straipsnis negali būti įtrauktas|Straipsniai negali būti įtraukti}} į šį sąrašą. Pasiekėte \\$2 straipsnių limitą vienam skaitymo sąrašui \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Skaitymo sąrašo pavadinimas jau naudojamas"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Atnaujinant jūsų skaitymo sąrašus įvyko netikėta klaida."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Taip, išlaikyti straipsnius įrenginyje"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Yra straipsnių, sinchronizuotu su jūsų Vikipedijos paskyra. Ar norėtumėte išlaikyti juos savo įrenginyje atsijungus?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Išlaikyti išsaugotos straipsnius įrenginyje?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Rūšiuoti straipsnius"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Yra 5000 nerūšiuotų straipsnių limitas. Prašome išrūšiuoti savo egzistuojančius straipsnius į sąrašas, kad toliau būtų sinchronizuojami neišrūšiuoti straipsniai."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Pasiekimas nerūšiuotų straipsnių limitas"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Šis skaitymo sąrašas ir jame išsaugoti straipsniai nebus sinchronizuojami, prašome sumažinti sąrašų skaičių iki \\$1, kad būtų tęsiamas šio sąrašo sinchronizavimas."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Viršijote {{PLURAL:\\$1|\\$1 skaitymo sąrašo|\\$1 skaitymo sąrašų}} limitą vienai paskyrai."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Pasiekėte paskyros skaitymo sąrašo limitą \\$1"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Prisijunkite, kad sinchronizuotumėte savo išsaugotos straipsnius"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Prisijunkite arba sukurkite paskyrą"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Prisijunkite, kad sinchronizuokite išsaugotos straipsnius"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Prisijunkite ar sukurkite paskyrą, kad leistumėte savo išsaugotus straipsnius ir skaitymo sąrašus sinchronizuoti tarp įrenginių ir išsaugoti į savo naudotojo parinktis."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Sinchronizuoti savo išsaugotos straipsnius?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[sukurta naudotojo]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "pasirinktinis trumpas aprašymas"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "skaitymo sąrašo pavadinimas"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Skaitymo sąrašo sinchronizavimas išjungtas jūsų Vikipedijos paskyrai kitame įrenginyje. Galite vėl įjungti sinchronizavimą atnaujinant savo nustatymus."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinchronizavimas išjungtas"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Įgalinti sinchronizavimą"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Jūsų išsaugoti straipsniai ir skaitymo sąrašai dabar gali būti išsaugoti jūsų Vikipedijos paskyroje ir sinchronizuojami tarp Vikipedijos programėlių."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Įjungti skaitymo sąrašo sinchronizavimą?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Skaitymo sąrašo sinchronizavimas šiai paskyrai įjungtas. Kad sustabdytumėte sinchronizavimą, galite jį išjungti šiai paskyrai atnaujindami savo nustatymus."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Sinchronizavimas šiai paskyrai yra įjungtas"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Pridedant įrašą prie jūsų skaitymo sąrašo įvyko klaida. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Kuriant jūsų skaitymo sąrašą įvyko klaida. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Trinant jūsų skaitymo sąrašą įvyko klaida. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Trinant jūsų skaitymo sąrašo elementą įvyko klaida. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Atnaujinant jūsų skaitymo sąrašą įvyko klaida. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Skaitymo sąrašas pavadinimu „\\$1“ nerastas. Prašome patikrinti pavadinimą."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Straipsnis pridėtas prie „\\$1“"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Nepavyko sinchronizuoti straipsnio"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nesinchronizuota"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Straipsnių limitas viršytas, negalima sinchronizuoti straipsnio"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Sąrašų limitas viršytas, negalima sinchronizuoti straipsnio"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Straipsnis atsisiuntimo eilėje"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Išvalykite vietą savo įrenginyje ir bandykite dar kartą"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Kai kurie straipsniai nesinchronizuoti, viršytas limitas"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Jūsų sąrašas '\\$1' parvadintas į '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 skaitymo sąrašas|\\$1 skaitymo sąrašai}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Numatytasis sąrašas jūsų išsaugotiems straipsniams"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Išsaugota"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Ištrinti {{PLURAL:\\$1|sąrašą|sąrašus}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 straipsnis|\\$1 straipsniai}} ir {{PLURAL:\\$2|\\$2 skaitymo sąrašas|\\$2 skaitymo sąrašai}} sinchronizuoti iš jūsų paskyros"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Sąrašas nesinchronizuojamas, viršytas limitas"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Rūšiuoti išsaugotus straipsnius"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Yra skaitymo sąrašo limitas, \\$1 straipsnių sąraše. Egzistuojantys sąrašai su daugiau, nei limitas, buvo perskirti į kelis sąrašus."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sinchronizavimas bus tęsiamas, kai interneto ryšys bus prieinamas"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Juoda tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Ryškumo slankiklis"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tamsioji tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Šviesioji tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepijos tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Sintaksės paryškinimas"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Teksto dydžio slankiklis"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Sintaksės paryškinimas"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Pereiti į nuorodų skyrių"
+    },
+    {
+      "name": "reference_title",
+      "value": "Išnaša \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Šiandien|1=Vakar|Prieš \\$1 dienas|Prieš \\$1 dienų}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 val."
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Neseniai|Prieš \\$1 valandą|Prieš \\$1 valandas|Prieš \\$1 valandų}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "prieš \\$1 val."
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Neseniai|prieš \\$1 val.}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Dabar|prieš \\$1 min.}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Ką tik|Prieš \\$1 minutę|Prieš \\$1 minutes|Prieš \\$1 minučių}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "prieš \\$1m"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Šį mėnesį|1=Praeitą mėnesį|prieš \\$1 mėnesius}}"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "prieš \\$1s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Šiais metais|1=Praeitais metais|Prieš \\$1 metus|Prieš \\$1 metų}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Atmesti keitimai"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Visi straipsniai"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Šis sąrašas negali būti ištrintas"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Nepavyko atsisiųsti paveikslėliųų šiam išsaugotam puslapiui."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Straipsnio atsiuntimas vyksta..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Skaitymo sąrašai"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Ieškoti išsaugotų straipsnių"
+    },
+    {
+      "name": "saved_title",
+      "value": "Išsaugota"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Paieška Vikipedijoje"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Išvalyti"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Paieška Vikipedijoje"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Naikinti visas naujausias paieškas?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Šio veiksmo anuliuoti negalima!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Naikinti viską"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Nėra naujausių paieškų"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Neseniai ieškota"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Nukreipta iš: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Paieška"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos serbų k. variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nсрпски ћирилица Serbian, Cyrillic (sr-ec)\nsrpski latinica Serbian, Latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Serbų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "settings_account",
+      "value": "Paskyra"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Skaitymo nustatymai"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Atšaukti"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Pagalba ir atsiliepimai"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Rodyti kalbas paieškoje"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Galite valdyti kokios kalbos rodomos jūsų Tyrinėjimo sraute pritaikant savo Tyrinėjimo srauto nustatymus."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Mano kalbos"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Pranešimai"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Įvyko klaida tikrinant pranešimų prenumeratas, susijusias su jūsų paskyra."
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Bandykite dar kartą"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Sužinokite apie veiklą, susijusią su jūsų paskyra, kaip žinutės iš kitų naudotojų, įspėjimai ir pranešimai. Visi pateikiami gerbiant privatumą ir minutės tikslumu."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Pagrindinis"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Pirmoji šio sąrašo kalba naudojama kaip programėlės numatytoji."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Nustatyti, kad programėlė atsidarytu paieškos skirtuke, o ne Tyrinėjimo skirtuke."
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Atidaryti programėlę paieškos skirtuke"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sinchronizuoti išsaugotos straipsnius ir sąrašus"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Jūsų skaitymo sąrašai bus sinchronizuojami fone"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Prašyti savo sinchronizuojamų straipsnių ir skaitymo sąrašų atnaujinimo."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Atnaujinti sinchronizuojamus skaitymo sąrašus"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Rodyti išsaugotą skaitymo sąrašą"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Straipsnių talpinimas ir sinchronizavimas"
+    },
+    {
+      "name": "settings_title",
+      "value": "Nustatymai"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Sukurta su Vikipedijos programėle"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ Vikipedijoje:"
+    },
+    {
+      "name": "share_building",
+      "value": "Kuriama faktų dalijimosi kortelė…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "„\\$1“ iš „\\$2“: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "„\\$1“ \n\niš „\\$2“\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Gauti Nuorodas"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Dalintis…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "„\\$1“ \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "Vikipedija"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Atidaryti Žemėlapiuose"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„\\$1“ Vikipedijoje: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "„\\$1“ Vikipedijoje: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Neseniai pridėta"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Pavadinimas"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Turinys"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Uždaryti"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Uždaryti Turinio lentelę"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Turinys"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Slėpti turinį"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Poraštė \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos šilhų k. variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachelhit, Latin (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Šilhų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos tadžikų k. variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\nтоҷикӣ кирилликӣ Tajik, Cyrillic (tg-cyrl)\ntojikī lotinī Tajik, Latin (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Tadžikų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktyvus naudotojas|\\$1 aktyvūs naudotojai}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Pridėti temą"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Archyvai"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Apie aptarimo puslapius"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Keisti kalbą"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Sutraukti giją"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Skaitytas"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Neskaitytas"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Programėlė gavo netikėtą atsakymą iš serverio. Prašome pabandyti dar kartą vėliau."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Netikėta klaida"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Kažkas nutiko ne taip."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Nepavyko įkelti aptarimo puslapio"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Išplėsti giją"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Rasti puslapyje"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Atverti visas gijas"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Atminkite, kad mes visi žmonės"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Būkite geranoriški"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Jūsų atsakymas sėkmingai paskelbtas"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Jūsų diskusija sėkmingai paskelbta"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Paspauskite dukart, kad grįžtumėte į atsakymą"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Daugiau aptarimo puslapio parinkčių"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Puslapio informacija"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Nuolatinė nuoroda"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Patikrinkite savo interneto ryšį."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Nepavyko paskelbti jūsų komentaro."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Nepavyko paskelbti naujos temos."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Skaityti naršyklėje"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Nuorodos, vedančios į čia"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 atsakymas|\\$1 atsakymai}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Atsakyti"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Atsakyti į \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Atsakymo gylis: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Atsakyti \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Versijų istorija"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Uždaryti atsakymo peržiūrą"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Dalintis aptarimo puslapiu"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Prenumeruoti"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Gausite pranešimus apie naujus komentarus šioje temoje."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Užsiprenumeravote!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Užsiprenumeruoti šios temos nepavyko, bandykite dar kartą."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Straipsnio aptarimas"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Naudotojo aptarimas"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Nutraukti prenumeratą"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Nebegausite pranešimų apie naujus komentarus šioje temoje."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Nebeprenumeruojate."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Atsisakyti šios temos prenumeratos nepavyko, bandykite dar kartą."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Apie naudotojų aptarimo puslapius"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Indėlis"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Nerasta suarchyvuotų puslapių."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Archyvai"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Skaityti daugiau"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Jūsų komentaras pridėtas"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Tęskite redagavimą"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Aptarimo puslapiai yra vieta, kur žmonės diskutuoja kaip Vikipedijos turinį padaryti geriausiu, koks jis tik gali būti. **Pradėkite pridėdami naują diskusijos temą** ir bendradarbiaukite su Vikipedijos naudotojų bendruomene."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Aptarimo puslapiai yra vieta, kur žmonės diskutuoja kaip Vikipedijos turinį padaryti geriausiu, koks jis tik gali būti. Pradėkite pridėdami naują diskusijos temą ir bendradarbiaukite su \\$1. Ką čia pasakysite bus matoma viešai."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Pridėti naują temą"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Pradėti diskusiją"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Pokalbis prasideda čia"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Pradėkite diskusiją su \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Ar tikrai norite atsisakyti šio naujo atsakymo?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Jūsų tema pridėta"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Aprašymas"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Temos aprašymas"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Atsisakyti atsakymo"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Ar tikrai norite atsisakyti šios naujos temos?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Tema"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Temos pavadinimas"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Aptarimo puslapiuose žmonės diskutuoja apie tai, kaip \"Vikipedijos\" turinį padaryti kuo geresnį. Įtraukite naują diskusijų temą ir užmegzkite ryšį bei bendradarbiaukite su \"vikipedininkų\" bendruomene.\n\nBūkite malonus, visi čia esame žmonės."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Aptarimo puslapiai yra \\$1vieta, kur žmonės diskutuoja kaip Vikipedijos turinį padaryti geriausiu, koks jis tik gali būti.\\$1 Pradėkite pridėdami naują diskusijos temą ir bendradarbiaukite su Vikipedijos naudotojų bendruomene."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Būkite geri, mes visi žmonės."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Aptarimo puslapiai"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Naudotojo grupės"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Žurnalai"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Aptarimas"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Juoda"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Tamsi"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Numatytoji"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Sutampa su sistemos tema"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Šviesi"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepija"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Sužinokite ką šiandien skaito Vikipedijoje."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 skaitytojai"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Populiariausi skaitiniai"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Tęsti prisijungimą"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Įveskite dviejų veiksnių patvirtinimo kodą"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Prisijunkite prie savo paskyros"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Naudoti viena iš savo atsarginių kodų"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Naudoti patvirtinimo kodą"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Nepavyko įkelti aptarimo puslapio"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Nežinoma"
+    },
+    {
+      "name": "unwatch",
+      "value": "Nebestebėti"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Vikipedijos programėlė dabar palaiko šiuos uzbekų kalbos variantus kaip pirmines ar antrines programėlės kalbas ir tai suteikia galimybę lengviau skaityti, ieškoti ir redaguoti jūsų norimais variantais:\n\noʻzbekcha lotin Uzbek, Latin (uz-latin)\nўзбекча кирилл Uzbek, Cyrillic (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Uzbekų k. varianto palaikymo atnaujinimai"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Tęsti"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Naudotojo vardas ir naudotojo puslapis"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Įspėjimas"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Ne, ačiū"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Peržiūrėkite savo nustatymus"
+    },
+    {
+      "name": "watch",
+      "value": "Stebėti"
+    },
+    {
+      "name": "watchlist",
+      "value": "Stebimųjų sąrašas"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filtras"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Naudotojo indėlis"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Naudotojo puslapis"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Naudotojo aptarimo puslapis"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Mūsų bendruomenės rekomenduojami ir kasdieniai skaitiniai"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Naršyti srautą"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Keliaukite atgal laiku, kad sužinotumėte kas šią dieną nutiko istorijoje"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Šią dieną"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Atraskite lankytinas vietas šalia jūsų arba ieškokite vietų visame pasaulyje"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Vietų skirtukas"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Pradėti"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nauji būdai naršyti"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Supratau"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Vikipedija rašoma savanoriams bendradarbiaujant ir susideda iš daugiau nei 40 milijonų straipsnių daugiau nei 300 kalbų."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Sužinokite daugiau apie Vikipediją"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Apie Vikipediją"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Vikipedija yra visuotinis projektas, skirtas kurti laisvas enciklopedijas visomis pasaulio kalbomis. Praktiškai bet kas su interneto prieiga gali dalyvauti prisidedant prie neutralios ir šaltiniais paremtos informacijos."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Laisvoji enciklopedija"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Pridėti kitą kalbą"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Pridėti ar pakeisti norimą kalbą"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Radome šias kalbas jūsų prietaise:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Ieškokite daugiau nei 300 kalbų"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Tyrinėkite kas įvyko šią dieną istorijoje."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Laisvoji skaitmeninė enciklopedija, kurią gali redaguoti visi"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Paleista Vikipedija, laisvo viki turinio enciklopedija."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Gaunama jūsų keitimų peržiūra..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ši nuoroda veda į išorinę svetainę: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Išorinė nuoroda"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Vikipedijoje nėra straipsnio šiuo pavadinimu"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Nerasta vidinė nuoroda"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Nuoroda veda į '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Nuorodos peržiūra"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Išsaugoti pakeitimus"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Saugos kodo tikrinimo klaida."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Reikia patikrinimo saugos kodu."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Nepavyko nustatyti vikiteksto įkėlimo rezultato."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publikuojama..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Keitimai bus priskirti jūsų įrenginio IP adresui. Jeigu \\$1prisijungsite\\$2, turėsite daugiau privatumo."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Keitimai bus priskirti jūsų įrenginio IP adresui. Jeigu \\$1, turėsite daugiau privatumo."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Naudojimo sąlygos"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Nes jūs skaitėte"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Visi labiausiai skaitomi straipsniai"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Kitas atsitiktinis straipsnis"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Iš %s Vikipedijos"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Vikipedijoje"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Iš Vikitekos"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nėra rodytinos istorijos"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Paslėpti šią kortelę"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Tinkinti Tyrinėjimo srautą"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kortelė paslėpta"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s straipsnio aprašymas"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Ar turėjote omenyje %s?"
+    }
+  ]
+}

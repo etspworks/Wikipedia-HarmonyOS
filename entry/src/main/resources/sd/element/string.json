@@ -1,0 +1,4364 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "وڪيپيڊيا"
+    },
+    {
+      "name": "about_content_license",
+      "value": "مواد جو اجازتنامو"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "مواد \\$1 تحت موجود آھي، جيسيتائين ٻي صورت واضع نہ ڪئي وڃي."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "ڪريئيٽو ڪامنز انتساب-ھڪجھڙي-ونڊ اجازتنامو"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ڀاڱيدارَ"
+    },
+    {
+      "name": "about_libraries",
+      "value": "مستعمل لائبريريون"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "مڪمل فھرست"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "اجازتنامو"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "اسان اوپن سورس سافٽويئر \\$1 سان پيار ڪريون ٿا"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "جڳھن جي نقشن جو اجازتنامو"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "مھرباني ڪري ايپل نقشن پاران ڏنل نقشو استعمال ڪريو. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "اجازتنامي جي تفصيلن لاءِ ھتي ڏسو"
+    },
+    {
+      "name": "about_product_of",
+      "value": "توھان جھڙن رضاڪارن جي مدد سان \\$1 پاران ٺھيل"
+    },
+    {
+      "name": "about_repositories",
+      "value": "ڀنڊارون"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "سورس ڪوڊ \\$1 تحت موجود آھي."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "ايم.آئِٽي اجازتنامو"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ايپ تي موٽ موڪليو"
+    },
+    {
+      "name": "about_title",
+      "value": "بابت"
+    },
+    {
+      "name": "about_translators",
+      "value": "ترجميڪارَ"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 تي رضاڪارن طرفان ترجمو ڪيل"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "وڪيميڊيا تنظيم"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "وڪيپيڊيا"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "عڪس نٿا ڏسي سگهو؟ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "ھڪ نئون  CAPTCHA حاصل ڪندي..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "کاتي جي درخواست ڏيو."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "ڪيپچا حفاظتي روڪ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "پنھنجو کاتو کوليو"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "اڳ ئي کاتو رکو ٿا؟ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "داخل ٿيو."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "داخل ٿيندي..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "کاتو کولڻ لاءِ توھان کي لازمي ڪو واپرائيندڙنانءُ، ڳجهولفظ، ۽ ڳجهي‌لفظ جي پڪ داخل ڪرڻا پوندا."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ڳجهي‌لفظ جون جڳھون مشابھت نٿيون رکن."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "سانڍيندي..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "نئون کاتو کوليو"
+    },
+    {
+      "name": "account_group_title",
+      "value": "توهان جو کاتو"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "کاتو گم ڪريو"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "توھان جو بحث صفحو"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "پاڻمرادو-دستخط-ٿيل تبصرا"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "تبصرن جو پاڻمرادو-دستخط-ڪرڻ دستخط ترتيبن ۾ وصف-ڪيل دستخط استعمال ڪندو"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "بحث صفحو ترجيحون"
+    },
+    {
+      "name": "action_add_to",
+      "value": "۾ وجهو…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "پڙھڻ جي فھرست ۾ شامل ڪريو"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "فھرست ۾ شامل ڪريو"
+    },
+    {
+      "name": "action_cancel",
+      "value": "رد"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "سنوار ڦٽو ڪريو"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "سنوارون ڦٽو ڪريو"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "صفحي ۾ لھو"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "سنواريندا رهو"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ٻولي بدليو"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ڏانهن چوريو"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "پڙھڻ جي فھرست ڏانھن چوريو"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "اڳيون ورجاءُ"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "پويون ورجاءُ"
+    },
+    {
+      "name": "action_read",
+      "value": "پڙھو"
+    },
+    {
+      "name": "action_redo",
+      "value": "وري-ڪريو"
+    },
+    {
+      "name": "action_remove",
+      "value": "هٽايو"
+    },
+    {
+      "name": "action_retry",
+      "value": "ٻيھر ڪوشش ڪريو"
+    },
+    {
+      "name": "action_save",
+      "value": "سانڍيو"
+    },
+    {
+      "name": "action_saved",
+      "value": "سانڍيل"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "سانڍيل. اڻسانڍڻ لاءِ سرگرم ڪريو."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "بعد لاءِ سانڍل مضمون"
+    },
+    {
+      "name": "action_share",
+      "value": "ونڊيو"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ونڊيو"
+    },
+    {
+      "name": "action_sort",
+      "value": "مرتب"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "واپرائيندڙ کي مھرباني چئو"
+    },
+    {
+      "name": "action_undo",
+      "value": "اڻڪريو"
+    },
+    {
+      "name": "action_unsave",
+      "value": "اڻسانڍيو"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "مضمون اڻسانڍيل"
+    },
+    {
+      "name": "action_update",
+      "value": "تجديد"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 مضمون|\\$1 مضمونَ}} پڙھڻ جي فھرست ۾ شامل ڪريو"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "متقدم ترتيبون"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "برخواست"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "وڪيپيڊيا، حوالا، وڪي، انسائيڪلوپيڊيا، ڄاڻ، علم، تحقيق، ڄاڻ، تلاش، سکو"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "مڪمل طور پنھنجي حساب موجب رکڻ جوڳي ۽ پڙهڻ ۾ آسان ايڪسپلور رسد. مڪانيتڪاري، ڪارڪردگي ۾ بھتريون، ۽ چُڪون حل ڪيون ويون."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "پنهنجي ويجھو جڳھن کي جاکوڙڻ، مضمونن کي آف لائين پڙهڻ، ۽ پنھنجي پڙهڻ جي تجربي کي پنھنجو ڪرڻ لاءِ وڪيپيڊياڻايپ ڊائونلوڊ ڪريو."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "کليل انسائيڪلوپيڊيا"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "مضمون جي متن جي ماپ ترتيبيو"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "جدول کوليو"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "مضمونن ۾ جدولون، بشمول ترت معلومات، حوالا، حاشيا، ۽ ٻاھريان ڳنڍڻا عام طور تي کليل هجن."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "عڪسن جي غيرشفافيت گھري ۽ ڪاري نظاري تي گھٽايو"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "پڙھڻ جا نظارا"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "جدول جون ترتيبون"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "مضمون جي متن جي ماپ بدلائڻ لاءِ سلائيڊر ڇڪيو. پنھنجي سرشتي جي متن کي ڪتب آڻيندي ايپ جي ٻين متن ايراضين کي بدلايو."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "نظارن جا چارا"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ھن مضمون بابت"
+    },
+    {
+      "name": "article_delete",
+      "value": "ڊاھيو"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|مضمون|مضمونَ}} ڊھيل"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ٻولي لھو"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ٻولي چونڊيو"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ٻيون ٻوليون"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "توھان جون ٻوليون"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "وڌيڪ پڙھو"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "حوالو \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "مضمون جي ورجاءُ سوانح"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "توھان جي ڊوائيس تي ايتري جڳھ ناھي جو ھي مضمون سانڍي سگهجي"
+    },
+    {
+      "name": "article_share",
+      "value": "ونڊيو"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "مضمون جو بحث صفحو"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "پڙھڻ جي نظارن جا ضابطا"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "واپس"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "واپس وڃڻ لاءِ ڇھو"
+    },
+    {
+      "name": "button_go_back",
+      "value": "واپس وڃو"
+    },
+    {
+      "name": "button_next",
+      "value": "اڳيون"
+    },
+    {
+      "name": "button_ok",
+      "value": "ٺيڪ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ڇاپيو"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "پوءِ بہ ڇاپيو"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ڪنھن جيت جي رپورٽ ڪريو"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "بعد لاءِ سانڍيو"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "بعد لاءِ سانڍل"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "سانڍيلن مان ھٽايو"
+    },
+    {
+      "name": "button_skip",
+      "value": "ڇڏيو"
+    },
+    {
+      "name": "cancel",
+      "value": "رد"
+    },
+    {
+      "name": "cc_zero",
+      "value": "ڪريئيٽو ڪامنز سيسي0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ختم ڪريو"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "ڪيشي صاف ڪرڻ مڪمل."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "ڪيشي صاف ڪرڻ جاري آهي."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "بند ڪريو"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 وڳي"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "جاري رکو"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "وڪيپيڊيا کي وڌيڪ مضمون پڙھڻ لاءِ کوجيو"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ڪي بہ تازو پڙھيل مضمون ناھن"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "تجديد ڪندي..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "تشريح ڏيو"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 لاءِ تشريح"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "مضمون جي تشريح بدلائيندي، آئون \\$1 سان ۽ پنھنجون ڀاڱيداريون بغير رد ڪئي \\$2 اجازتنامي ھيٺ جاري ڪرڻ لاءِ راضي آھيان."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "تعارف سنواريو"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "مضمون جي تشريح سنواريو"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "مختصر تشريحون بھترين آھن"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "تشريح ڇاپيو"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "تشريح سنواريو"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "تشريح مختصر رکڻ جي ڪوشش ڪريو جيئن وپرائيندڙ ھڪ جھلڪ ۾ مضمون جو موضوع سمجھي وڃن"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "مضمون جون تشريحون ڪنھن بہ مضمون جو تت ڏين ٿيون جيئن پڙھندڙ موضوع کي ھڪ جهلڪ ۾ سمجهي وڃن."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "بابت"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "وڪيڊيٽا بابت"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "تشريحن کي وڪيڊيٽا ۾ سنڀاليو ۽ سھيڙيو ويندو آھي، جيڪا پڻ وڪيميڊيا فائونڊيشن جي ھڪ رٿا آھي، اھا مفت، گڏيل، گهڻ-لساني، ثانوي ڊيٽابيس آھي، جيڪا وڪيپيڊيا ۽ ٻين رٿائن جي سھڪار ڪري ٿي."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "وڌيڪ معلومات"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "تشريحون ھڪ سٽ تي پوريون ٿيڻ گهرجن، ۽ اھي ڊيگهہ ۾ ٻن کان ٻارھن لفظن جي وچ ۾ ھجڻ گهرجن. انھن کي وڏن اکرن ۾ نہ لکيو وڃي جيسيتائين پھريون لفظ ڪو خاص اسم نہ ھجي."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "مونا ليزا بابت ھڪ مضمون جي تشريح"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "ايوريسٽ ج بابت ھڪ مضمون جي تشريح"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ليونارڊو ڊا ونسي پاران مصوري"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ڌرتي جو سڀ کان اوچو جبل"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "مثال طور:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "تشريح لکڻ لاءِ صلاحون"
+    },
+    {
+      "name": "description_help_title",
+      "value": "مضمون جي تشريح لاءِ مدد"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "تشريحون لکڻ لاءِ وڪيڊيٽا رھنما"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ٿي ويو"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "اوهان هاڻ ئي ھر ڪنھن لاءِ وڪيپيڊيا کي بھتر بڻايو"
+    },
+    {
+      "name": "description_published_title",
+      "value": "تشريح ڇپجي وئي!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "مثالي طور هڪ سٽ، 2 کان 12 لفظن ائين"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "ان کي مختصر رکو"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "ڪنھن بہ مضمون جو تت ڏئي ٿي تہ جيئن پڙھندڙ موضوع کي ھڪ جھلڪ ۾ سمجھي وڃن"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "مضمونن جون تشريحون"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "شروع ڪرڻ سان، آئون واعدو ڪريان ٿو تہ هن خصوصيت جو غلط استعمال نہ ڪندس"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "سنوارڻ شروع ڪريو"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "مضمون جي ورجاءُ سوانح"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "پوئين سنوار"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "ورجاءَ ڀيٽيو"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ظاھر ڪيل سنوار"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "ورجاءَ ڀيٽيو"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "شامل ڪيل مواد، \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "ھٽايل مواد، \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 تائين بند ڪريو"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 تائين پکيڙيو"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ڏيکاريو"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "لڪايو"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "مطابق ڪيل ورجاءُ"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "سٽون \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "نثري-ٽڪرو چوريو ويو"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ھيٺ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "مٿي"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 سٽ|\\$1 سٽون}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 ڀاڱو|\\$1 ڀاڱا}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "نثري ٽڪرو چوريو ويو \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "ورجاءُ لاھڻ ۾ ناڪام"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "واپس ورايو"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "ڇا توھان کي پڪ آھي تہ توھان سنوارن کي واپس ورائڻ چاھيو ٿا؟"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "واپس ورايل سنوارون"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "سنورارون موٽايون ويون."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 سنوار|\\$1 سنوارون}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "سنواريندڙ جي معلومات"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 بائيٽ وڌي|\\$1 بائيٽون وڌيون}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 بائيٽ ھٽائي|\\$1 بائيٽون ھٽايون}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "سنوار جو تتُ"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "تعارف"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "سِٽَ \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "گمنام واپرائيندڙن کي مھرباني نٿي چئي سگهجي"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'مھربانيون' وڪيپيڊيا تي ڪنھن سنواريندڙ جي ڪم جي تعريف ڪرڻ جو آسان طريقو آھن. 'مھربانيون' موڪلڻ لاءِ توھان کي لازماً داخل ٿيل ھئڻ گهرجي."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'مھربانيون' موڪلڻ لاءِ داخل ٿيو"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'مھربانيون' موڪليو"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'مھربانيون' وڪيپيڊيا تي ڪنھن سنواريندڙ جي ڪم جي تعريف ڪرڻ جو آسان طريقو آھن. 'مھربانيون' اڻ نٿيون ڪري سگهجن ۽ عوامي طور ڏسي سگهجندڙ آھن."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "عوامي طور 'مھربانيون' موڪليون"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "توھان جي 'مھرباني' \\$1 ڏانھن موڪلي وئي"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "توھان اڳ ئي ھن سنوار لاءِ 'مھربانيون' موڪلي چڪا آھيو"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "مھربانيون اڻ-موڪلجي نٿيون سگهجن"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "ورجاءَ کي ختم ڪيو ويو."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 سٽ اڻسنواريل|\\$1 سٽون اڻسنواريل}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "مينيو کولڻ لاءِ ڊبل ٽيپ ڪريو"
+    },
+    {
+      "name": "dim_images",
+      "value": "ڊم عڪس"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "امداد جي رقم چونڊڻ لاءِ ڊبل ٽيپ ڪريو."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "وڪيميڊيا فائونڊيشن کي \\$1 امداد ڏيڻ لاءِ ڊبل ٽيپ ڪريو."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "وڪيميڊيا فائونڊيشن کي توهان کي ايميل ڪرڻ جي اجازت ڏيڻ لاءِ ٻہ ڀيرا ٽيپ ڪريو."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "امداد ڏيڻ لاءِ پنھنجي مرضي جي رقم داخل ڪريو."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "مھرباني، پيارا عطيو ڏيندڙ! توهان جي سخاوت وڪيپيڊيا ۽ ان جي ۽ ٻين مفت علم جي منصوبن کي ترقي ڏيڻ ۾ مدد ڪري ٿي."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "ايپل هن مقصد لاءِ پئسا گڏ ڪرڻ جي ذميداري ۾ نہ آھي."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "ها، وڪيميڊيا فائونڊيشن مون کي ڪڏهن ڪڏهن ايميل موڪلي سگهي ٿي."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "ڪثرتاً پڇجندڙ سوال"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "ڏيڻ جا ٻيا طريقا"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "امداد ڏيڻ ۾ مسئلا اچن ٿا؟"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "ٽيڪس ڪٽوتي جي معلومات"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "اسان توهان کي سڀاڻي ٻيھر ياد ڏيارينداسين."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "مھرباني ڪري ھڪڙي رقم چونڊيو (گهٽ۾گهٽ \\$1 \\$2)."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "ايپل پي سان عطيو ڏيو"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "ايپل پي سان عطيو ڪريو يا ٻيو ادائگي جو طريقو چونڊيو."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "ٻيو ادائگي جو طريقو"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "ايپل پي سان عطيو ڏجي؟"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "توهان جي سخاوت اسان لاء تمام گهڻي معنيٰ رکي ٿي."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "توهان جي مھرباني!"
+    },
+    {
+      "name": "donate_title",
+      "value": "رقم چونڊيو"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "متن ڏيکاريو"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "ڳنڍڻي جو ھدف"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ڳنڍڻو ھٽايو"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "ڳنڍڻو سنواريو"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "سنواريو"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "معمولي سنوارن بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ھيءَ ھڪ معمولي سنوار آھي"
+    },
+    {
+      "name": "edit_notices",
+      "value": "سنوار جا اطلاع"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "سدائن سنوار جا اطلاع ڏيکاريو"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "مھرباني ڪري سنوارڻ کان اڳ پڙھو"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "سمورو مواد آسان فارميٽ ۾ ڏيکاريل آهي."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "ويب پيش-نگاھ ڏيکاريو"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "پنھنجي سنوار جو تَتُ ڏيو"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "عڪس شامل ڪيو"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "عڪس ۽ عنوان شامل ڪيا"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "گرامر ٺيڪ ڪيو"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "هجي جون چڪون درست ڪيون ويون"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ڳنڍڻا وڌا"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "توھان مضمون کي ڪيئن سڌاريو؟"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "پنھنجي نظر۾فھرست بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "هي صفحو نظر۾رکو"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "توھان جو آواز اھم آھي"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "اعتمادجوڳن ذريعن مان حوالا ڏيو"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "اڻ-ڌري انداز ۾ لکو"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "ڄاڻ مفت بڻايو"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "توھان جي سنوار ڇپجي وئي."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "ذريعو سنواريو"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "ڇا توھان کي پڪ آھي تہ توھان سنوارڻ جي موڊ کي ڇاپڻ کان اگ ئي ڇڏڻ گهرو ٿا؟"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "ڇا توھان پڪ سان ھي سنوار ڦٽو ڪرڻ چاھيو ٿا؟"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "سنوارڻ جي موڊ کي برخواست ڪريون؟"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "لڌل صاف ڪريو"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "لھڻ بند ڪريو"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "ڪي بہ ميل نہ لڌا"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "لھڻ جو اڳيون نتيجو"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "لھڻ جو پويون نتيجو"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "لھو"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "گھرو"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "متن جو فارميٽنگ مينيو بند ڪريو"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "راءِ"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "سرخي"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "ٽيڏو"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "ڳنڍڻو"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "ترتيبوار فھرست"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "بي ترتيبوار فھرست"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "پيراگراف"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "حوالو"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "وچ۾ليڪ"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "ھيٺين-سرخي 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "ھيٺين-سرخي 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "ھيٺين-سرخي 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "ھيٺين-سرخي 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "ھيٺاھين لکت"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "مٿاھين لکت"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "سانچو"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "متن فارميٽنگ"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "هيٺان ليڪ"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "مٽايل صاف ڪريو"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "مٽايو"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "سان مٽايو..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "سڀ مٽايو"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "سڀني جگھن تي مٽايو"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "مٽايو"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "صفحي ۾ لھو"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "سنوارگاھ جو متن لھي رھيو آھي"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "وڪي متن سنوارگاھ"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "ورجائن وچ ۾ ڪي بہ تفاوت ناھن"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "ڪي بہ ڏسي سگھجندڙ تبديليون ناھن ٿيون"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "سنوار تَتُ خالي آھي"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "وڪيميڊيا العام مان ڪو فائيل چونڊيو"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "معاف ڪجو، مضمون اتاري نہ سگهياسين."
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "توھان اڃان بہ سانڍيل صفحا پڙھي سگهو ٿا"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "جڏهن توهان کي انٽرنيٽ ڳانڍاپو آهي تہ توهان پنهنجا سفارش ڪيل مضمون ڏسي سگهو ٿا"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "هتي توهان ڇا پڙهندا رهيا آهيو ان جي يادگيري رکو"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ڏيکارڻ لاءِ ڪابہ سوانح ناھي"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "هي مضمون اڃا تائين ڪنھن بہ ٻي ٻوليءَ ۾ نہ لکيو ويو آهي"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "وڌيڪ ٻوليون موجود ناھن"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "سفر جي جڳھن، پسنديده عنوانن، ۽ گهڻن شين لاءِ فھرستون سرجيو"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "سانڍيل مضمونن کي پڙھڻ جي فھرستن سان منظم ڪريو"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "صفحن کي ھتي ظاھر ٿيڻ لاءِ هن فھرست ۾ محفوظ ڪريو."
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ھن فھرست ۾ ڪي بہ صفحا سانڍيل ناھن"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "بعد ۾ ڏسڻ لاءِ صفحا سانڍيو ، ڀلي آف لائين بہ"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "اڃان ڪي بہ صفحا سانڍيل نہ آهن"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ڪي بہ نتيجا نہ لڌا"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ھن واپرائيندڙ لاءِ اڃا ڪي بہ پيغام ناھن لکيا ويا"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "مھرباني ڪري ٻيھر ڪوشش ڪريو"
+    },
+    {
+      "name": "error_unknown",
+      "value": "اڻڄاتل خرابي پيش آئي"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ھڪ ٻيو بلاترتيب مضمون"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "ڇو تہ توھان پڙھيو"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "وڌيڪ لاڳاپيل مضمون"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "پڙهڻ جاري رکو"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "کوجنا رسد ڏانھن واپس"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "پنھنجي ھاڻوڪي مڪانيت جي ويجھو مضمون کوجيو"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "چونڊ مضمون"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا تان"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "وڪيپيڊيا تان"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "پنھنجايو"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "ايڪسپلورر فيڊ ٻولي ترتيبون"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "’منھنجون ٻوليون‘ ترتيبن جي صفحي ۾ واڌو ٻوليون وجهي سگهجن ٿيون."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "ڪارڊ لڪيل"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "ڪنھن کليل پڙھيو ويندڙ مضمون ڏانھن تڪڙو واپس ڳنڍيو"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "کوجنا رسد کي پنھنجايو"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "کوجنا رسد کي پنھنجايو"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "ڪنھن پتي جي قسم کي لڪائڻ سان ان پتي جي قسم کي کوجنا رسد ۾ ظاھر ٿيڻ کي بند ڪندو."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "کوجنا دري"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "وڪيپيڊيا تي روزانو چونڊ مضمون"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "بند ڪريو"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "سڀ کوليو"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "کوليو"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "کوليو \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "سڀ \\$1 ڪارڊ لڪل"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "ھي ڪارڊ ٻولي مخصوص ناھي، ھن ڪارڊ کي بند ڪرڻ ان جي کوجنا رسد مان ھٽائي ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "غير-ٻولي مخصوص ڪارڊَ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "ٻولي مخصوص ناھي"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "عالمي ڪارڊ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "هي ڪارڊ لڪايو"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "سڀ ”\\$1“ پتا لڪايو"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "ھاڻوڪن واقعن بابت مضمون"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "توھان جي سڀني ٻولين ۾ کوجنا رسد جا سڀ ڪارڊ لڪائڻ کوجنا ٽيب کي بند ڪري ڇڏيندو"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "هن ڏينھن تي تاريخ ۾ واقعا"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "اوهان جي مڪانيت جي ويجھو وڪيپيڊيا مضمون"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "وڪيميڊيا العام مان روزانو چونڊ عڪس"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "پڙھڻ لاءِ بلاترتيب مضمون ڏسو"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "اوهان جي پڙهڻ سوانح تي ٻڌل مشورا"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "پڙهڻ جاري رکو وارو ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "چونڊ مضمون ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "چونڊ مضمون وارو ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "خبرون ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "''خبرن ۾'' وارو ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "ھن ڏينھن تي ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "ھن ڏينھن تي ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "ڏينھن جي تصوير وارو ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "جڳھون ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "جڳھن جا پتا ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "بلاترتيبڪار ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "بلاترتيبڪار پتو ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "ڇوتہ توھان پڙھو ٿا ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "گھڻو پڙھيل ڪارڊ کي بند ڪرڻ ڪارڊ کي سڀني موجود ٻولين ۾ بند ڪري ڇڏيندو."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "گھڻو پڙھيو-ويندڙ پتو ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "وڪيپيڊيا ۾ مواد شامل ڪرڻ لاءِ صلاحون"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "صلاح ڏنل سنوارن جو ڪارڊ ڏيکاريو"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "روزانو وڌيڪ-ترين پڙھيل مضمون"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "کوجنا رسد بند ڪريو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "سڀ کوجنا پتا لڪائڻ سان کوجنا ٽيب بند ٿي ويندي ۽ ترتيبون ٽيب سان مٽائجي ويندي"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "کوجنا رسد بند ڪجي؟"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "کوجنا بند ڪريو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "کوجنا رسد ترتتيبن ۾ کوجنا رسد ٽيب واپس آڻي سگهجي ٿي"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "کوجنا ٽيب بند ڪجي؟"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "کوجنا ٽيب کي بند ڪرڻ کوجنا ٽيب کي ترتيبون ٽيب سان مٽائيندو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "کوجنا رسد پتا ڏيکاريو چونڊڻ سان توھان کوجنا ٽيب کي کولي رھيا آھيو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "کوجنا کوليو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "کوجنا ٽيب کولجي؟"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "هي ڪارڊ لڪايو"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "وڪيميڊيا رٿائن جو مک صفحو"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "اڄ وڪيپيڊيا تي"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "سڀ گھڻو پڙھيل مضمون"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "گھڻو پڙھيل"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 تي مٿيان"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا تي"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "وڪيپيڊيا تي"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ويجھيون جڳھون"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ماڳ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا مان"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "وڪيپيڊيا مان"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "توھان جي مڪانيت"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا ۾ توھان جي مڪانيت"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "اڄ جي تصوير"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "وڪيميڊيا العام تان"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "بلا ترتيب مضمون"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "وڪيپيڊيا \\$1 تان"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "وڪيپيڊيا تان"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "بلاترتيبڪار"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "وجهو"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "ڪو عڪس شامل ڪريو"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "ايپ لائبرري ونڊيون؟"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "توهان جي ڊيٽا برآمد ڪرڻ دوران ڪا چُڪَ پيش آئي. مھرباني ڪري ڪجهہ دير رکي ٻيھر ڪوشش ڪندا."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "واپرائيندڙ ڊيٽا درآمد ڪريو"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا تان"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "وڪيپيڊيا تان"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "چونڊ مضمون"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "ڪاشيءِ غلط وئي. مھرباني ڪري ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "ايپ سرور کان غيرمتوقع جواب حاصل ڪيو. مھرباني ڪري بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "ناقابلِڪار ڪيپچا"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ڳجهولفظ ھڪجھڙائي نٿو رکي"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "اڻقبوليل ڪوڊ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "واھپنانءُ موجود ناھي"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "بيڪ اپ ڪوڊ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "ڪيپچا متن"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "مٿيون جيڪو متن ڏسو پيا اھو داخل ڪريو"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ايميل"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ايميل (اختياري)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "نئون ڳجهولفظ ٻيھر داخل ڪريو"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "نيئن ڳجهي‌لفظ جي پڪ ڪريو"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "نئون ڳجهولفظ داخل ڪريو"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "نئون ڳجهولفظ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ڳجهولفظ ٻيھر داخل ڪريو"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ڳجھي-لفظ جي پڪ ڪريو"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ڳجهولفظ داخل ڪريو"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ڳجهولفظ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "تصديقي ڪوڊ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "واهپنانءُ داخل ڪيو"
+    },
+    {
+      "name": "field_username_title",
+      "value": "واھپنانءُ"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "سڀ"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "لڌل صاف ڪريو"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "لھڻ جو اڳيون نتيجو"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "لھڻ جو پويون نتيجو"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "لھو ۽ مٽايو"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "لھو ۽ مٽايو کي بند ڪريو"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "لھو"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "وري ترتيب ڪريو"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "ڳجهولفظ وري مرتب ڪرڻ جي ھدايتن سان ھڪ ايميل موڪليو وئي"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "ايميل ذريعي ڳجهي‌لفظ کي ٻيھر ترتيب ڏيڻ جون ھدايتون حاصل ڪرڻ لاءِ ھيٺين مان ڪنھن ھڪ جڳھ ۾ ڀريو"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ڳجهولفظ ٻيھر مقرر ڪريو"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "يا"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "ڇا توھان کي پڪ آھي تہ توھان سڀ تازيون شيون ڊاھڻ چاھيو ٿا'"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ھا، سڀ ختم ڪريو"
+    },
+    {
+      "name": "history_title",
+      "value": "سوانح"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "وڪيپيڊيا، ايڪسپلور ڏانھن ورو"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "وڪيپيڊيا، سانڍيل ڏانھن ورو"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "وڌيڪ \\$1 وانگر"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "اوهان جي مڪانيت ويجھو وڌيڪ جڳھون"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "وڌيڪ ويجها \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "وڌيڪ هاڻوڪا واقعا"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ترجيحون سنڀاليو"
+    },
+    {
+      "name": "home_title",
+      "value": "تلاش ڪريو"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "وڪيپيڊيا، کوجڻ لاءِ اسڪرول ڪريو"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ويجها مضمون"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "بلا ترتيب مضمون"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "وڪيپيڊيا ۾ ڳوليو"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ليکڪ اڻڄاتل."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "ھي عڪس شامل ڪريو؟"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "بعد ۾ واپس اچڻ جي ڪوشش ڪريو."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "ڪا غلطي ٿي آهي."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "صفحو لاھڻ ۾ ناڪام"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "فيصلو ڪندا تہ وڪيپيڊيا مضمون ۾ ڏسيل عڪس رکيو وڃي يا نہ."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "ڪا صلاح ڏسو"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "صلاحون مشين پاران جوڙيل آھن ۽ توهان طئي ڪرڻ لاءِ پنھنجو فيصلو استعمال ڪندا تہ انهن کي قبول ڪجي يا رد ڪجي."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "ڪو عڪس قبول يا رد ڪريو"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "عڪس وڪيميڊیا ڪامنس مان آھن، آزاد لائسنس ٿيل عڪسن جو مجموعو جيڪو وڪيپيڊیا پاران استعمال ڪيو ويندو آھي."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "لائسنس ٿيل عڪس"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "صلاح ڏنل سنوارن بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "ڪنھن مضمون ۾ ڪو عڪس شامل ڪريو"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "توھان جا جواب ايندڙ صلاحن کي بھتر ڪن ٿا."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "ھڪ يا وڌيڪ چارا چونڊيو"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "عڪس لاڳاپيل نہ آھي"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "فيصلي ڪرڻ لاءِ مناسب معلومات ناھي"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "عڪس چڙڏياريندڙ آھي"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "عڪس گهٽ معيار جو آھي"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "آئون ھي موضوع نٿو ڄاڻان"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "ٻيو ڪجهہ"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "اماڻيو"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "سبب"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "عڪس شامل ڪريو"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "موضوع کي سمجھڻ لاءِ ھن مضمون جو جائزو وٺو."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "نظرثاني ڪريو"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "عڪس ۽ ان سان جُڙيل معلومات جو معائنو ڪريو."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "معائنو ڪرڻ"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "فيصلو ڪريو تہ ڇا عڪس پڙهندڙن کي هن موضوع کي بھتر سمجهڻ ۾ مدد ڪري ٿو."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "فيصلو ڪريو"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "مضمون ڏسو"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "مسئلي جي رپورٽ - عڪس شامل ڪريو خصوصيت"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "نہ"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "پڪ ناھي"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "ها"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "منھنجي پڙھڻ جي فھرست"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "سروي ڏيو"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "ونڊيل فھرست درآمد ڪريو"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 وڪيپيڊيا مان"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "وڪيپيڊيا تان"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "خبرن ۾"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "وجھو"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "ڳنڍڻو وجھو"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "عڪس جا تفصيل شامل ڪريو"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "متن جي تشريح انھن پڙھندڙن جي لاءِ جيڪي عڪس ڏسي نٿا سگهن"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ھن عڪس کي بيان ڪريو"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "متبادل متن"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ھي عڪس مضمون سان ڪيئن تعلق رکي ٿو؟"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "عنوان"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "مرڪز"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "کاٻو"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ڪو بہ نہ"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ساڄو"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "عڪس جي بيھڪ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "وڌيڪ معلومات"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "عڪس چونڊيو"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "مرضي موجب"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "ڏنل"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "اوچائي"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "ويڪر"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "عڪ"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "عڪس ماپ"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "متن کي عڪس جي چوڌاري ويڙھيو"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "بنيادي"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "فريم"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "بنا-فريم"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "ٽِڪِلِي"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "عڪس قسم"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "ميڊيا ترتيبون"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "ميڊيا وجھو"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ٻوليون"
+    },
+    {
+      "name": "languages_title",
+      "value": "ٻولي بدلايو"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "وڪيپيڊيا ٻوليون"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "داخل ٿيڻ سواءِ جاري رکو"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "پنھنجي کاتي ۾ واپس داخل ٿيو"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "توھان ٻاھر نڪري چڪا آھيو"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "ڳجهولفظ وساري ويٺا آھيو؟"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "وڪيپيڊيا ۾ شامل ٿيو."
+    },
+    {
+      "name": "login_no_account",
+      "value": "کاتو نٿا رکو؟ \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "پنھنجي کاتي ۾ داخل ٿيو"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ايپ بابت"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "داخل ٿيو"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ٻاھر نڪرو"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "ڇا توھان کي پڪ آھي تہ توھان ٻاھر نڪرڻ ٿا چاھيو؟"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "بطور \\$1 داخل ٿيل"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "نويڪلائي ۽ شرط"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ويجها"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "نويڪلائي نِيَمَ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ايپ کي ريٽ ڪريو"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "استعمال جون شرطون"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "وڌيڪ"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "وڪيپيڊيا زيرو FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "وڪيپيڊيا کي 300 کان مٿي ٻولين ۾ ڳوليو"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ٻوليون شامل ڪريو"
+    },
+    {
+      "name": "more_menu",
+      "value": "وڌيڪ"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 مضمون|\\$1 مضمونَ}} پڙھڻ جي فھرست ڏانھن چوريو"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "پيش-نگاھ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 فوٽ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 ڪلوميٽر"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 ميٽر"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ميلَ"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "توھان ھڪ عارضي ڳجهي‌لفظ سان داخل ٿيا. داخل ٿيڻ کي مڪمل ڪرڻ لاءِ ھڪ نئون ڳجهولفظ مرتب ڪريو."
+    },
+    {
+      "name": "new_password_title",
+      "value": "پنھنجو ڳجهولفظ مرتب ڪريو"
+    },
+    {
+      "name": "next_action_title",
+      "value": "اڳيون"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "مھرباني ڪري پنھنجي ڊوائس تي ڪو ايميل کاتو سيٽ اپ ڪريو ۽ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "انٽرنيٽ ڳانڍاپو ناھي"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ھاڻي نہ"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 کان"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "چتاءُ"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "نہ-پڙھيل بيج وارا اطلاع"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 اطلاع"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ڳجهولفظ بدلايو"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "اطلاعن لاءِ چڪاس ڪندي..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ايپ تي"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ويب تي"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "اطلاعن جا تفصيل"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "اطلاعن لاءِ ڏسو..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "توھان وٽ ڪي بہ پيغام ناھن"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "توھان پاران في الوقت ڪنھن بہ وڪيپيڊيا اطلاعن لاءِ سبسڪرائب ناھي ڪيل"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "وڌيڪ پيغام ڏسڻ لاءِ \\$1 کي بدلايو"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "وڌيڪ نياپا ڏسڻ لاءِ رٿائون شامل ڪريو"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 ڇاڻي|\\$1 ڇاڻيون}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "ڌڪيل اطلاع آن ڪريو"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "اطلاعن جي ڇاڻي"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "سڀ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "پڙھيل"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "نہ-پڙھيل"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "پڙھڻ جو اسٽيٽس"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "ڇاڻيون"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "سڀ قسم"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "اطلاعن جا قسم"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "مضمون"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 بحث صفحو"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "تفاوت"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 جو واپرائيندڙ صفحو"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "وڪيڊيٽا آئٽم"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "توھان جو بحث صفحو"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1 مان خبر"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ٿي ويو"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "رٿائون"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "وڪيميڊيا رٿائون"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "وڪيپيڊيائون"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "داخل ٿيڻ جا اطلاع"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "نشان ھڻو"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "سڀ پڙھيل طور نشان ھڻو"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "پڙھيل طور نشان لڳايو"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "نہ-پڙھيل طور نشان لڳايو"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "وڌيڪ"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "اطلاعن جون ترتيبون"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 پيغام|\\$1 پيغامَ}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "جاري رکو"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "ڇاڻيون"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "اطلاع بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "اطلاع ۽ چتاءَ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "رٿا جا پيغام خانا"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "ڌڪيل اطلاع"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "اطلاع سنواريندي"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "ڌڪيل اطلاع آن ڪجن؟"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "ڌڪيل اطلاع آن ڪريو"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "نہ مھرباني"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "وڪيپيڊيا هڪ گڏيل رٿا آهي ۽ پش نوٽيفڪيشن کي آن ڪرڻ سان ساٿي سنواريندڙن جي پيغامن، خبردارين، ۽ ”مھربانين“ بابت باخبر رهڻ آسان ٿي سگهي ٿو."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "رٿائن جي ڇاڻي"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "سڀ"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "سڀ اطلاع"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 ۾ \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "ڇاڻيل بطور"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=1 رٿا ۾|\\$1 رٿائن ۾}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 رٿا|\\$1 رٿائون}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 قسم|\\$1 قسمَ}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "پڙھيل"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$3 ۾ \\$1 ۽ \\$2"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "نہ-پڙھيل"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "سنوارڻ جا سنگِ-ميلَ"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "توھان جي سنوار موٽائي وئي"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "نئين ايميل"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "داخل ٿيڻ جون ھيڪاندو ناڪام ڪوششون"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "داخل ٿيڻ جي ناڪام ڪوشش"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "اڻ-سونھين ڊوائيس ذريعي داخل ٿيڻ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "مضمون جي بحث صفحي تي مينشن"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "سنوار جي تَتَ ۾ مينشن"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "ناڪام مينشن"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "ڪامياب مينشن"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "بحث صفحي تي مينشن"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "توھان جي بحث صفحي تي نياپو"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "صفحي جو ڳنڍڻو"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "صفحي جي نظرثاني ڪئي وئي"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "مھربانيون"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "ترجمي جو سنگِ-ميل"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "واپرائيندڙ جي حقن ۾ بدلاء"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ڀليڪار!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "وڪيڊيٽا ڳانڍاپو ٺاھيو ويو"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "پڙھيل طور نشان ھڻو"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "نہ-پڙھيل طور نشان ھڻو"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "وڌيڪ"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "اطلاع"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "چونڊيل اطلاعن کي نشان ھڻو"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ذڪر"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "اعلان"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ڀليڪار پيغام"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "وڪيڊيٽا سان ڳانڍاپو"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "سنوار سنگِ-ميلَ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "سنوار موٽائي وئي"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "سنوار جي تَت ۾ ذڪر"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "ٻي واپرائيندڙ طرفان ايميل"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "داخل ٿيڻ جون ڪوششون"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "توھان جي کاتي ۾ داخل ٿيڻ جون ناڪام ڪوششون"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "داخل ٿيڻ ڪامياب"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ٻيو"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "صفحي جو ڳنڍڻو"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "صفحي جي نظرثاني"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "موڪليل ذڪر ۾ ناڪامي"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "موڪليل ذڪر ۾ ڪامياب"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "بحث صفحي تي ذڪر"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "مھرباني"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "ترجمي جو سنگِ-ميل"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "واپرائيندڙ جي حقن ۾ بدلاء"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "بحث صفحي تي نياپو"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ڀليڪار"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "وڪيپيڊيا تي نئين سرگرمي"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2 تي {{PLURAL:\\$1|\\$1 نوان نياپا|\\$1 نوان نياپا}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|نئون نياپو|نوان نياپا}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 - \\$2 کان"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 تاريخي واقعو|\\$1 تاريخي واقعا}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ھن ڏينھن تي وڌيڪ تاريخي واقعا"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "ھن ڏينھن تي {{PLURAL:\\$1|\\$1 وڌيڪ تاريخي واقعو|\\$1 وڌيڪ تاريخي واقعا}}"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "ڪابہ ڊيٽا موجود ناھي"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2 وڪيپيڊيا مان \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ھن ڏينھن تي"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "جنھن ٽيب کان توھان شروع ڪيو ان ڏانھن ورڻ لاءِ 'W' تي ڇھو"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "بوٽ"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "ٻن ورجائن کي چونڊي ڀيٽڻ لاءِ ڇھو"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "ڀيٽيو"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "وقت بہ وقت سنوارن جو گراف"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "معمولي سنوارون"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "مصنف: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "راءِ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "ورجاءَ سوانح"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "معمولي سنوار"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|\\$1 بائيٽ|\\$1 بائيٽون}} وڌيـ(ـون)"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 بائيٽ|\\$1 بائيٽون}} ھٽائيـ(ـون)"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "\\$1ع مطابق ڪيل ورجاءُ"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "صرف ٻہ ورجاءَ چونڊي سگهجن ٿا"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2 کان {{PLURAL:\\$1|\\$1 سنوار|\\$1 سنوارون}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "صفحي جا مسئلا"
+    },
+    {
+      "name": "page_location",
+      "value": "نقشي تي ڏسو"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "توهان کي هيءُ صفحو سنوارڻ جا حق حاصل نہ آهن"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "هيءُ صفحو تحفظيل آهي"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ملندڙ صفحا"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "ورجاءَ ڀيٽيندي"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "داخل ٿيڻ بغير سنواريو"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "توھان داخل ٿيل نہ آھيو"
+    },
+    {
+      "name": "pictured",
+      "value": "تصوير لڳل"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "سانڍيل ڳولائون ختم ڪريو"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 مضمونَ"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "پپنھنجي مڪانيت کي ٻيھر مڪرڪريو"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "فھرست وانگر ڏيکاريو"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "نقشي وانگر ڏيکاريو"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "وڌيڪ مضمونَ ڏيکاريو"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "شھر، ملڪ، کنڊ، قدرتي ماڳ، تاريخي واقعا، اڏاوتون ۽ گهڻو ڪجهہ کوجيو."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "وڪيپيڊيا مضمون ڳوليو جن ۾ جاگرافيائي مڪانيت آھي"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "مڪانيت کي قابل بڻايو"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "مڪانيت رسائي کي قابلِڪار بڻائي پنھنجي ويجھو مضمون کوجيو"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "مضمون ڇاڻيو"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "ڇاڻي"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "توھان وٽ ڪي بہ سانڍيل جڳھون نہ آھن"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "سانڍيل مضمون"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "گھڻو پڙھيل"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 مضمونُ|\\$1 مضمونَ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "گھڻو پڙھيل مضمون"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "مڪانيت فعال-ٿيل"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "توھان جي سانڍيل صفحن مان ڪنھن بہ مڪانيت جي معلومات ناھي"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 سان ملندي “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "جڳھون ڳوليو"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "ڇا توھان جو مطلب \\$1 ھيو؟"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "تازو ڳولھيل"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "سڀ سانڍيل مضمون"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "ڏسيل ڳولائون"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ھن ايراضي ۾ نتيجا"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "سڀ مٿاھان مضمون"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ويجها"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "توھان جي ھاڻوڪي مڪانيت"
+    },
+    {
+      "name": "places_title",
+      "value": "جڳھون"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "اَڻڄاتل مفاضلو"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 لاءِ اڄ جي تصوير"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 لاءِ اڄ جي تصوير حاصل ڪرڻ ۾ ناڪام"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "اڄ جي تصوير"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "وڪيميڊيا فائونڊيشن کي اجازت ڏيو تہ توهان هن ايپ ڪيئن استعمال ڪريو ٿا جي معلومات جمع ڪري تہ جيئن هن ايپ کي وڌيڪ بھتر بڻائي سگهجي"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "نويڪلائي نِيَمَ"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "خاصيت ۾ مسئلو آھي"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "ميڊياوڪي"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "وڪي‌ڪتاب"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "وڪيڊيٽا"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "وڪيميڊيا ڪامنز"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "وڪي‌خبرون"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "وڪي‌قول"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "وڪي‌ذريعو"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "وڪي‌جنسون"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "وڪيورسٽي"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "وڪي‌سفر"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "وڪي‌لغت"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ھن مضمون کي ڪنھن پڙھڻ جي فھرست ۾ شامل ڪجي؟"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "”\\$1“ کي ڪنھن پڙھڻ جي فھرست ۾ شامل ڪندا؟"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "ھا، انھن کي منھنجي پڙھڻ جي فھرستن ۾ شامل ڪريو"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "سانڍيل مضمون لڌا"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "پڙھڻ جي فھرست تخليقيو"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "تشريح"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "پڙھڻ جي فھرست جو نالو"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "ڪا نئين فھرست تخليقيو"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "پڙھڻ جي فھرست ڊاٿي وئي"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "نہ، مضمونن کي آلي مان ڊاھيو"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "توھان في کاتو {{PLURAL:\\$1|\\$1 مضمون|\\$1 مضمونن}} جي حد کان اڳتي وڌي ويا آھيو."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|مضمون|مضمون}} فھرست ۾ نٿو/نٿا وجهي سگهجي(جن). توھان في فھرست \\$2 مضمونن جي حد تي \\$3 لاءِ پھچي ويا آھيو"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "پڙھڻ جي فھرست جو نالو سڳ ئي استعمال ھيٺ آھي"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "توھان جي پڙھڻ جون فھرستون چاڙھيندي غير متوقع چڪ پيش آئي."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ھا، مضمونن کي آلي تي رکو"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "سانڍيل مضمونن کي آلي تي رکو؟"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "مضمون مرتب ڪريو"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "غير مرتب مضمونن لاءِ آخري حد"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "داخل ٿيو يا کاتو کوليو"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[واپرائيندڙ سرجيل]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "مرضي مطابق مختصر تشريح"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "پڙھڻ جي فھرست جو عنوان"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "توھان جي پڙھڻ جي فھرست سرجڻ دوران ھڪ غير متوقع چُڪَ پيش آئي. مھرباني ڪري بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "توھان جي پڙھڻ جي فھرست ڊاھڻ وقت ڪا غير متوقع چڪ پيش آئي. مھرباني ڪري بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "توھان جي پڙھڻ جي فھرست مان ڪا داخلا ھٽائيندي ڪا غير متوقع چڪ پيش آئي. مھرباني ڪري بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "توھان جي پڙھڻ جي فھرست چاڙھڻ وقت ڪا غير متوقع چڪ پيش آئي. مھرباني ڪري بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "\"\\$1\" نالي پڙھڻ جي فھرست نہ لڌي. براءِ مھرباني ان ڳالھ جي پڪ ڪريو تہ توھان درست نالو ھنيو آھي."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "مضمون \"\\$1\" ۾ وڌو ويو"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "مضمون کي لاھڻ لاءِ قطاريو ويو"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "پنھنجي ڊوائيس تي ڪجهہ جڳھ خالي ڪريو ۽ پوءِ ٻيھر ڪوشش ڪريو"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "توھان جي فھرست '\\$1' کي '\\$2' نالو ڏنو ويو آھي"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 پڙھڻ جي فھرست|\\$1 پڙھڻ جون فھرستون}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "توھان جي سانڍيل مضمونن جي لاءِ ڏنل فھرست"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "سانڍيل"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "ھي عمل اڻڪري نٿو سگهجي. رڳو {{PLURAL:\\$1|ھن فھرست|ھنن فھرستن}} ۾ سانڍيل مضمون اڻسانڍجي ويندا."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|فھرست|فھرستون}} ڊاھيو؟"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "سانڍيل مضمون مرتب ڪريو"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "ڪارو نظارو"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "چمڪداري سوريندڙ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "گھرو نظارو"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ھلڪو نظام"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "سيپيا نظارو"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "سنٽيڪس نمايان ڪرڻ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "متن جي ماپ جو سلائيڊر"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "سنٽيڪس نمايان ڪرڻ"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "حوالن واري ڀاڱي ڏانھن وڃو"
+    },
+    {
+      "name": "reference_title",
+      "value": "حوالو \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=اڄ|1=ڪالھ|\\$1 ڏينھن اڳ}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=ھاڻي|\\$1 ڪلاڪ اڳ|\\$1 ڪلاڪَ اڳ}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h اڳ"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=تازوئي|\\$1 ڪلاڪ اڳ|\\$1 ڪلاڪَ اڳ}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=ھاڻي|\\$1 منٽ اڳ|\\$1 منٽَ اڳ}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=بلڪل ھاڻي|\\$1 منٽ اڳ|\\$1 منٽَ اڳ}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m اڳ"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=ھي مھينو|1=گذريل مھينو|\\$1 مھينا اڳ}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s اڳ"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ھن سال|1=گذريل سال|\\$1 سالَ اڳ}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "واپس ورو"
+    },
+    {
+      "name": "return_to_article",
+      "value": "مضمون ڏانهن واپس ورو"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "موٽايل سنوار"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "سڀ مضمون"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "ھي فھرست نٿي ڊاھي سگهجي"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "هن سانڍيل صفحي لاءِ عڪس لاھڻ ۾ ناڪامي ٿي."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "آرٽيڪل لاھڻ عمل ۾ آھي…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "پڙھڻ جون فھرستون"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "سانڍيل مضمون ڳوليو"
+    },
+    {
+      "name": "saved_title",
+      "value": "سانڍيل"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "نہ-سانڍڻ {{PLURAL:\\$1|ھن مضمون کي|ھنن مضمونن کي}} سڀني لاڳاپيل پڙھڻ فھرستن مان ھٽائيندو"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "{{PLURAL:\\$1|مضمون|مضمون}} اڻسانڍيو؟"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "وڪيپيڊيا ۾ ڳوليو"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ختم ڪريو"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "وڪيپيڊيا ۾ ڳوليو"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "سموريون تازيون ڳولائون ختم ڪريون؟"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "هي عمل واپس نٿو ڪري سگهجي!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "سڀ ختم ڪريو"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ڪي بہ ھاڻوڪيون ڳولائون ڪونھن"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "تازو ڳولھيل"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1: کان چوريل"
+    },
+    {
+      "name": "search_title",
+      "value": "ڳوليو"
+    },
+    {
+      "name": "settings_account",
+      "value": "کاتو"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ايپ جو نظارو"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "ڪيچڊ ڊيٽا صاف ڪريو"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "ڪيچڊ ڊيٽا صاف ڪرڻ سان توھان \\$1 جڳھ بچندي. ان سان توھان جا سانڍيل صفحا نہ ڊھندا."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "ڪيچڊ ڊيٽا صاف ڪريون؟"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "رد"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "ڪيچي صاف ڪريو"
+    },
+    {
+      "name": "settings_donate",
+      "value": "امداد ڏيو"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "مدد ۽ موٽ"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "ڳولا تي ٻوليون ڏيکاريو"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "پنھنجي کوجنا رسد ترتيبن کي پنھنجائي توھان سنڀالي سگهو ٿا جيڪي ٻوليون توھان جي کوجنا رسد تي ڏيکاريون وڃن پيون."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "منھنجون ٻوليون"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "ڌڪيل اطلاع"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ٻيھر ڪوشش ڪريو"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "شروعاتي"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ھن فھرست جي پھرين ٻولي ايپ جي شروعاتي ٻولي طور استعمال ڪئي وڃي ٿي."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "کوجنا ٽيب بجاءِ ڳولا ٽيب کولڻ لاءِ ايپ کي مرتب ڪريو"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "ڳولا ٽيب ۾ ايپ کوليو"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "سانڍيل پڙھڻ فھرست ڏيکاريو"
+    },
+    {
+      "name": "settings_title",
+      "value": "ترتيبون"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "وڪيپيڊيا ايپ سان ٺھيل"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" وڪيپيڊيا تي:"
+    },
+    {
+      "name": "share_building",
+      "value": "ھڪ-نقطو-ونڊيو ڪارڊ اڏيندي..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "”\\$1“ کان ”\\$2“: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "”\\$1“\n\nکان ”\\$2“\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "هدايتون وٺو"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "ونڊيو..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "”\\$1“ \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "وايہ وڪيپيڊيا"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "نقشن ۾ کوليو"
+    },
+    {
+      "name": "share_social_format",
+      "value": "”\\$1“ وايه وڪيپيڊيا: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” وايہ وڪيپيڊيا: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "تازو ئي وڌل"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "عنوان"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "ڏسيل سنوارون"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "عنوانن جي فھرست"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "بند ڪريو"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "عنوانن جي فھرست بند ڪريو"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "فھرست"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "عنوانن جي فھرست لڪايو"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "ھيٺين-سرخي \\$1"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 سرگرم واپرائيندڙ|\\$1 سرگرم واپرائيندڙَ}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "موضوع شامل ڪريو"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "آرڪائيوز"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "بحث صفحن بابت"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "ٻولي بدلايو"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "سلسلن کي ويڙھيو"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "پڙھو"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "اڻپڙھو"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "ايپ سرور کان غيرمتوقع جواب حاصل ڪيو. بعد ۾ ٻيھر ڪوشش ڪريو."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "اڻڄاتل چُڪَ"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "ڪا غلطي ٿي آهي."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "بحث صفحو لاھڻ ۾ ناڪام"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "سلسلن کي وڌايو"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "صفحي ۾ لھو"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "سڀ سلسلا کوليو"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "ياد رھي، ھتي اسان سڀ انسان آھيون"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "مھرباني ڪري رحمدل ٿيو"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "توھان جي ورندي ڪاميابيءَ سان ڇپجي وئي"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "توھان جي گفتگو ڪاميابيءَ سان ڇپجي وئي"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "ورندي ڏيڻ ڏانھن واپس وڃڻ لاءِ ٻہ ڀيرا ٽيپ ڪريو"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "بحث صفحي جا وڌيڪ اوزار"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "صفحي جي معلومات"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "مستقل ڳنڍڻو"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "مھرباني ڪري پنھنجو انٽرنيٽ ڪنيڪشن چڪاسيو."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "توھان جو تبصرو ڇاپڻ ۾ ناڪامي ٿي."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "نئون موضوع ڇاپڻ ۾ ناڪامي ٿي."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "ويب ۾ پڙھو"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "هتان ڇا ڳنڍيل آهي"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 ورندي|\\$1 ورنديون}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "ورندي ڏيو"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1 کي ورندي ڏيو"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "ورنديءَ جي گَھِرائي: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1 کي ورندي"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "ياد رھي تہ توھان جي ورنديءَ تي پاڻمرادو توھان جي واپرائيندڙنانءَ سان سھي ٿي ويندي. تبديليون سانڍڻ سان، توھان \\$1استعمال جي شرطن\\$2 سان راضي آھيو، ۽ \\$3CC BY-SA 4.0\\$4 ۽ \\$5GFDL\\$6 اجازتنامن ھيٺ پنھنجي ڀاڱيداري جاري ڪرڻ لاءِ راضي آھيو."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "ورجاءَ سوانح"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "ورنديءَ جو ڏيک بند ڪريو"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "بحث صفحو ونڊيو"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "سبسڪرائب ڪريو"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "توھان کي ھن موضوع بابت نون تبصرن جا اطلاع ڏنا ويندا."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "توھان سبسڪرائب ڪري ڇڏيو!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "عنوان کي سبسڪرائب ڪرڻ ۾ ناڪامي ٿي، ٻيھر ڪوشش ڪندا."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "مضمون بحث"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "واپرائيندڙ بحث"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "تبديليون ڇاپڻ سان، توھان \\$1استعمال جي شرطن\\$2 سان راضي آھيو، ۽ بغير واپس ڪئي پنھنجي ڀاڱيداري\\$3CC BY-SA 4.0 اجازتنامي\\$4 ۽ \\$5GFDL\\$6 ھيٺ جاري ڪرڻ لاءِ راضي آھيو."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "اڻسبسڪرائب ڪريو"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "توھان کي ھن موضوع بابت نون تبصرن جا اطلاع نہ ڏنا ويندا."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "توھان اڻسبسڪرائب ڪري ڇڏيو."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "عنوان کي انسبسڪرائب ڪرڻ ۾ ناڪامي ٿي، ٻيھر ڪوشش ڪندا."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "واپرائيندڙ بحث صفحن بابت"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "ڀاڱيداريون"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "ڪي بہ آرڪائيو ڪيل صفحا نہ مليا."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "آرڪائيوز"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "وڌيڪ پڙهو"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "توھان جو رايو شامل ڪيو ويو"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "سنواريندا رهو"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "ذريعو سنواريو"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "بحث صفحن تي ماڻھو ڳالھائيندا آهن تہ ڪيئن وڪيپيڊيا مواد کي بھترين طريقي سان ٺاهيو وڃي. وڪيپيڊينس جي برادريءَ سان ڳنڍجڻ ۽ تعاون ڪرڻ لاءِ هڪ **نئون بحث موضوع شامل ڪري شروعات ڪريو**."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "ڪو نئون موضوع شامل ڪريو"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "ڪا گفتگو شروع ڪريو"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "گفتگو هتي شروع ٿئي ٿي"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1 سان ڪا گفتگو شروع ڪريو"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "ڇا توھان پڪ سان ھي نئين ورندي ڦٽو ڪرڻ چاھيو ٿا؟"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "توھان جو موضوع وڌو ويو"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "تشريح"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "موضوع جي تشريح"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "ورندي ڦٽي ڪريو"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "موضوع ڦٽو ڪريو"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "ڇا توھان پڪ سان ھي نئون نوضوع ڦٽو ڪرڻ چاھيو ٿا؟"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "موضوع"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "موضوع جو عنوان"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "بحث صفحن تي ماڻھو ڳالھائيندا آهن تہ ڪيئن وڪيپيڊيا مواد کي بھترين طريقي سان ٺاهيو وڃي. وڪيپيڊينس جي برادريءَ سان ڳنڍجڻ ۽ تعاون ڪرڻ لاءِ هڪ نئون بحث موضوع شامل ڪري شروعات ڪريو.\n\nرحمدل رھو، ھتي پاڻ سڀ انسان آھيون."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "رحمدل رھو، ھتي پاڻ سڀ انسان آھيون."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "بحث صفحا"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "واپرائيندڙ جا گروھ"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "لاگس"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "بحث"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "استعمال جا شرط"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ڪارو"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "گھرو"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "ڏنل"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "سرشتي جي نظاري سان ملي ٿو"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "هلڪو"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "سيپيا"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "ڏسو وڪيپيڊيا تي اڄ دنيا ڇا پڙھي رھي آھي."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 پڙھندڙ"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "گهڻو پڙھيل"
+    },
+    {
+      "name": "try_now_title",
+      "value": "هاڻي ئي آزمايو"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "سکيانامو"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "داخل ٿيڻ جاري رکو"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "ٻہ-فيڪٽر تصديق ڪوڊ داخل ڪندا"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "پنھنجي کاتي ۾ داخل ٿيو"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "پنھنجو ڪوبہ بيڪ اپ ڪوڊ استعمال ڪريو"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "تصديقي ڪوڊ استعمال ڪيو"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "بحث صفحو لاھڻ ۾ ناڪام"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "اڻڄاتل"
+    },
+    {
+      "name": "unwatch",
+      "value": "نظر۾نہ رکو"
+    },
+    {
+      "name": "user_title",
+      "value": "واپرائيندڙ"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "جاري رکو"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "واپرائيندڙنانءُ ۽ واپرائيندڙ جو صفحو"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "چتاءُ"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "نہ مھرباني"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "پنھنجي تجيحن تي نظرثاني ڪريو"
+    },
+    {
+      "name": "watch",
+      "value": "نظر۾رکو"
+    },
+    {
+      "name": "watchlist",
+      "value": "نظر۾فھرست"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "1 مھيني لاءِ توهان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "1 هفتي لاءِ توهان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "1 سال لاءِ توھان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "مستقل طور تي توھان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "6 مھينن لاءِ توھان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "3 مھينن لاءِ توھان جي نظر۾فھرست ۾ رکيو ويو."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "نظر۾فھرست ڏسو"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 بائيٽ|\\$1 بائيٽون}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 مھينو"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 ھفتو"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 سال"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "مستقل"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 مھينا"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 مھينا"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "نظر۾فھرست جو عرصو چونڊيو"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "نظر۾فھرست جو خارج ٿيڻ"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "تفاوت ڏانهن وڃو"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "سنوار جو تتُ"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "مضمون ڳوليو"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "توهان نظر۾فھرست ۾ ڪي بہ شيون ناھن"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "مضمون جيڪي توهان نظر۾فھرست ۾ رکيا اھي هتي ظاهر ٿيندا"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "خارج ٿيڻ جو وقت مقرر ڪريو"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "ڇاڻي"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "نظر۾فھرست ۾ سرگرمي"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "ڏٺل تبديليون"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "اڻڏٺل تبديليون"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "پاڻمراديون ڀاڱيداريون"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "بوٽ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "انسان (بوٽ نہ)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "تازا-ترين ورجاءَ"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "تازوترين ورجاءُ"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "تازوترين ورجاءُ نہ آھي"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "اهميت"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "معمولي سنوارون"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "غير-معمولي سنوارون"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "تبديليءَ جو قِسم"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "زمري ۾ تبديليون"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "لاگڊ عمل"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "صفحي سرجايون"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "صفحي سنوارون"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "وڪيڊيٽا سنوارون"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "واپرائيندڙن جي رجسٽريشن ۽ تجربو"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "رجسٽر ٿيل"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "اڻرجسٽر ٿيل"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "ٻولي شامل ڪريو..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "نظر۾فھرست ۾ موجود وڌيڪ شين کي ڏسڻ لاءِ [{{PLURAL:\\$1|\\$1 ڇاڻي|\\$1 ڇاڻين}}](wikipedia://watchlist/filter) کي بدلايو"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "نظر۾فھرست بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "توهان جي نظر۾فھرست متعارف ڪرائيندي"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "اوهان جي نظر۾فھرست مان ھٽايو ويو"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "توھان جي ’مھرباني‘ \\$1 ڏانهن موڪلي وئي"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "تبديلين جي واٽ ڏسو"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "تجديدون ڏسو"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "مھرباني چئو"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "واپرائيندڙ جون ڀاڱيداريون"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "واپرائيندڙ جو صفحو"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "واپرائيندڙ جو بحث صفحو"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "مضمون نظر۾رکو"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "ڊيٽا ۽ رازداري"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "اسان جي نيات طرفان سفارش ڪيل پڙھائي ۽ روزانو مضمون"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "پھچ کوجيو"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "اڄ تاريخ ۾ ڇا ٿيو ڄاڻڻ لاءِ وقت ۾ واپس سفر ڪريو"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ھن ڏينھن"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "پنھنجي ويجھو نشان دريافت ڪريو يا دنيا ڀر مان جڳھن جي لاءِ ڳوليو"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "جڳھن جي ٽيب"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "شروع ڪريو"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "کوجنا ڪرڻ جا نوان گس"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "سمجھي ويا"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "وڪيپيڊيا رضاڪارن پاران گڏجي لکيل آھي ۽ ان ۾ 300 کان مٿي ٻولين ۾ 40 ملين مضمون آھن."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "وڪيپيڊيا بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "وڪيپيڊيا بابت"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "دنيا جي سڀني ٻولين ۾ کليل انسائيڪلوپيڊيا ٺاھڻ لاءِ وڪيپيڊيا ھڪ عالمي رٿا آھي. اڻڌري، باحوالا معلومات جي ڀاڱيداري ڪري عملً ڪوبہ انٽرنيٽ رسائي سان شامل ٿيڻ لاءِ آزاد آھي."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "مفت انسائيڪلوپيڊيا"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "ٻي ٻولي شامل ڪريو"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "ترجيحي ٻوليون شامل يا مرتب ڪريو"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "اسان توھان جي اوزار تي ھي ٻوليو لڌيون آھن:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300 کان مٿي ٻولين ۾ ڳوليو"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "اسان جي نويڪلائي نِيَمَن ۽ استعمال جي شرطن بابت وڌيڪ ڄاڻيو"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "تاريخ ۾ اڄوڪي ڏينھن تي ڇا ٿيو اھو کوجيو."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "کليل آنلائين انسائيڪلوپيڊيا جنھن کي ھر ڪوئي سنواري سگهي ٿو"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "وڪيپيڊيا، ھڪ کليل وڪي مواد وارو انسائيڪلوپيڊيا، آنلائين وڃي ٿو."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "توهان جي تبديلين جي پيش-نگاھ آڻيندي..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ھي ڳنڍڻو ڪنھن ٻاھرين ويبسائيٽ ڏانھن وٺي وڃي ٿو: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "ٻاھريون ڳنڍڻو"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "وڪيپيڊيا کي بلڪل ھن نالي سان ڪو مضمون ڪونھي"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "ڪو بہ اندروني ڳنڍڻو نہ لڌو"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "ھي ڳنڍڻو '\\$1' ڏانھن وٺي ھلي ٿو"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "ڳنڍڻي جي پيش-نگاھ"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "تبديليون سانڍيو"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA پڪ ۾ چُڪَ."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA پڪ جي ضرورت آھي."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "وڪي ٽيڪسٽ چاڙھہ جو نتيجو حاصل ڪرڻ کان قاصر."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "ڇاپيندي..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "سنوارون توھان جي ڊوائيس جي آئِپي پتي سان منتسب ڪيون وينديون. جيڪڏھن توھان \\$1داخل ٿيو\\$2 ٿا تہ توھان کي وڌيڪ نويڪلائي ھوندي."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "سنوارون توھان جي ڊوائيس جي آئپي پتي سان منتسب ڪيون وينديون. جيڪڏھن توھان \\$1 توھان کي وڌيڪ نويڪلائي آھي."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "تبديليون ڇاپڻ سان توھان \\$1استعمال جي شرطن\\$2، ۽ بغير رد ڪئي پنھنجون ڀاڱيداريون \\$3CC BY-SA 4.0\\$4 اجازتنامي ۽ \\$5GFDL\\$6 ھيٺ جاري ڪرڻ لاءِ راضي آھيو. توھان راضي آھيو تہ ڪو ھائپرڳنڍڻو يا يوآرايل ڪريئيٽو ڪامنز اجازتنامي ھيٺ ڪافي انتساب آھي."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "استعمال جا شرط"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "ڇو تہ توھان پڙھيو"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "سڀ گھڻو پڙھيل مضمون"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ھڪ ٻيو بلاترتيب مضمون"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s وڪيپيڊيا تان"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s وڪيپيڊيا تي"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "وڪيميڊيا العام تان"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ڏيکارڻ لاءِ ڪابہ سوانح ناھي"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "هي ڪارڊ لڪايو"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "کوجنا رسد کي پنھنجايو"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "ڪارڊ لڪيل"
+    },
+    {
+      "name": "editor_published",
+      "value": "توھان جي سنوار ڇپجي وئي."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s لاءِ تشريح"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "ڇا توھان جو مطلب %s ھيو؟"
+    }
+  ]
+}

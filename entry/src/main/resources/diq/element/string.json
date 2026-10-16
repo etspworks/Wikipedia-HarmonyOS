@@ -1,0 +1,592 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipediya"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lisansê zerreki"
+    },
+    {
+      "name": "about_contributors",
+      "value": "İştırakkeri"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisans"
+    },
+    {
+      "name": "about_title",
+      "value": "Heqa"
+    },
+    {
+      "name": "about_translators",
+      "value": "Çarnayoği"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipediya"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Cı kewe."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Kewno cı..."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Qeyd beno..."
+    },
+    {
+      "name": "account_group_title",
+      "value": "Hesabê şıma"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Pela şımaya werênayışi"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Bıtexelne"
+    },
+    {
+      "name": "action_read",
+      "value": "Bıwane"
+    },
+    {
+      "name": "action_redo",
+      "value": "Newe ke"
+    },
+    {
+      "name": "action_remove",
+      "value": "Wedare"
+    },
+    {
+      "name": "action_save",
+      "value": "Qeyd ke"
+    },
+    {
+      "name": "action_saved",
+      "value": "Qeyd bi"
+    },
+    {
+      "name": "action_share",
+      "value": "Vıla ke"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Vıla ke"
+    },
+    {
+      "name": "action_sort",
+      "value": "Weçine"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Notr"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Fealiyet"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Tayêna bımuse."
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Red ke"
+    },
+    {
+      "name": "article_delete",
+      "value": "Bestere"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Zıwan bıvin"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Zıwan weçine"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Zıwanê bini"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Zıwanê şıma"
+    },
+    {
+      "name": "article_share",
+      "value": "Vıla ke"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Peyser"
+    },
+    {
+      "name": "button_next",
+      "value": "Bahdoyên"
+    },
+    {
+      "name": "button_ok",
+      "value": "TEMAM"
+    },
+    {
+      "name": "button_publish",
+      "value": "Bıweşane"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Qandë bahdpy rê bıstarnë"
+    },
+    {
+      "name": "cancel",
+      "value": "Bıtexelne"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Pak ke"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Kip ke"
+    },
+    {
+      "name": "compass_direction",
+      "value": "Hettê seate \\$1 ya"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": " Mesela :"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Bımocne"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Bınımne"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Metıni basne"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Hedefê gıreyi"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Gıreyi wedare"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Gıreyi bestere"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Bıvurne"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Heqa vurnayışanê qıcan de tayêna bımuse"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "No yew vırnayışo werdiyo"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Ena pele seyr ke"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Yew dosya weçine"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Akerde"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Nuşteyo raştameye"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-poste"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Parola"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Namey karberi"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Bıvêne"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Raçarne"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Parola newe ke"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "Bıcıne"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Şıma qayılê vêrdey xo pêro besterê?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Eya, pêro bestere"
+    },
+    {
+      "name": "history_title",
+      "value": "Tarix"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Cemaet"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "Zıwan cı kerê ya zi bıvurnê"
+    },
+    {
+      "name": "home_tab_title",
+      "value": "Keye"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Nezdıra wesiqey"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Nuşteyo raştameye"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Metıno alternatif"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Bınnuşte"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Merkez"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Çep"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Çıniyo"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Raşt"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Tayêna melumat"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Resım weçine"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Hesabiyaye"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "pksl"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Ebadê resımi"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Bıngeh"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Çerçewe"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Bêçerçewe"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Resımo qıckek"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Babetê resımi"
+    },
+    {
+      "name": "languages_title",
+      "value": "Zıwani bıvurne"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Cı kewe"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Bıveciye"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Şıma zey \\$1 kewtê cı."
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Nımnayışi u şerti"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Nezdıra"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Şertê gurenayışi"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Zêde"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Verqayt"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 fit"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 metre"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Gıredayışê interneti çıniyo"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Pêro"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 Hezar"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Miqayese"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Nuştekar: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Mışewre \\$1"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Vurriyayışo werdi"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Şınasnayış"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Sinorê yew hesabi ra {{PLURAL:\\$1|\\$1 meqale vêrd|\\$1 meqaleyi vêrdi}} ra."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Sinorê yew hesabi ra {{PLURAL:\\$1|\\$1 lista wendışi vêrde|\\$1 listeyê wendışi vêrdi}} ra."
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Qeyd bi"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Themay akerdeyi"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Themay sepia"
+    },
+    {
+      "name": "reference_title",
+      "value": "Çımeyê \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Ewro|1=Vızêri|\\$1 roci raver}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Emseri|1=Par|\\$1 serri raver}}"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Meqalanê qeydkerdeyan cı geyre"
+    },
+    {
+      "name": "saved_title",
+      "value": "Qeyd bi"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Wikipediya de cı geyre"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Wa cı geyrayışi peyêni pêron esteri yê?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ena kerden peyd nêgêrên na!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Pêron estern"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Cıgeyrışo peyên"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Kırışıyayış: \\$1 ra"
+    },
+    {
+      "name": "search_title",
+      "value": "Cı geyre"
+    },
+    {
+      "name": "settings_account",
+      "value": "Hesab"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Bıtexelne"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Peşti u peyd rışten"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Cı geyrayış dı zıwana bıasne"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Zıwanê mı"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Tebliği (Pêhesnayışi)"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Verorên"
+    },
+    {
+      "name": "settings_title",
+      "value": "Eyari"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia de \\$1 :"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "@Wikipedia ya"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Tabloyê zerreki"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Kip ke"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Werênayışê karberi"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Akerde"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Dest pêke"
+    },
+    {
+      "name": "which_came_first_correct_feedback",
+      "value": "Raşt!"
+    },
+    {
+      "name": "which_came_first_log_in_button",
+      "value": "Cı kewe"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Verqaytê vıriyayış dê şıma yo arêno..."
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Vurnayışan qeyd ke"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Weşaniyeno..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Şertê gurenayışi"
+    },
+    {
+      "name": "wmf_localizations_tests_nonexistent_key",
+      "value": "peyserardış"
+    },
+    {
+      "name": "games_card_play",
+      "value": "Bıcıne"
+    }
+  ]
+}

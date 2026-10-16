@@ -1,0 +1,5392 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Википедија"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Лиценца садржаја"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Осим ако није другачије наведено, садржај је доступан под \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Ауторство-Делити под истим условима"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Сарадници"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Коришћене библиотеке"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Целокупна листа"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лиценца"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Обожавамо софтвер отвореног кода \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Лиценца мапа за приказ места"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "За приказ места користе се мапе које покреће Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Детаљније о лиценци"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Апликацију је направила \\$1 уз помоћ добровољаца попут вас"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Складишта"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Изворни кôд је доступан под \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT лиценца"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Пошаљите повратне информације"
+    },
+    {
+      "name": "about_title",
+      "value": "О"
+    },
+    {
+      "name": "about_translators",
+      "value": "Преводиоци"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Превели добровољци на сајту \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Задужбина Викимедија"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Википедија"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Не видите слику? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Преузимам нову CAPTCHA слику…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Захтевајте налог."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Безбедносна провера помоћу CAPTCHA слике"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Отвори налог"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Већ имате налог? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Пријави ме."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Пријављивање…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "За отварање налога је потребно да унесете корисничко име, лозинку и потврду лозинке."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Лозинке се не поклапају."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Чување…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Отварање новог налога"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Ваш налог"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Гашење налога"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Ваша страница за разговор"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Аутоматско потписивање дискусија"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Аутоматско потписивање дискусија ће користити потпис дефинисан у подешавањима потписа"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Подешавања странице за разговор"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Додај у…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Додај на листу за читање"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Додај на листу"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Откажи"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Одбаци измене"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Одбаци измене"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Пронађи на страници"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Настави уређивање"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Промени језик"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Премести у…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Премести на листу за читање"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Следећа измена"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Претходна измена"
+    },
+    {
+      "name": "action_read",
+      "value": "Прочитај"
+    },
+    {
+      "name": "action_redo",
+      "value": "Понови"
+    },
+    {
+      "name": "action_remove",
+      "value": "Уклони"
+    },
+    {
+      "name": "action_retry",
+      "value": "Покушај поново"
+    },
+    {
+      "name": "action_save",
+      "value": "Сачувај"
+    },
+    {
+      "name": "action_saved",
+      "value": "Сачувано"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Сачувано. Активирајте да бисте уклонили."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Чланак је сачуван за касније"
+    },
+    {
+      "name": "action_share",
+      "value": "Дели"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Подели"
+    },
+    {
+      "name": "action_sort",
+      "value": "Сортирај"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Захвали се кориснику"
+    },
+    {
+      "name": "action_undo",
+      "value": "Опозови"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Уклони"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Чланак је уклоњен из сачуваних"
+    },
+    {
+      "name": "action_update",
+      "value": "Ажурирај"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Додајте предложене слике у чланке на Википедији да би сте побољшали њихово разумевање."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Додај слике"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Чланци"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[Опишите предложено решење]"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "Ништа за приказ"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "НА ВИКИПЕДИЈИ ЗА iOS"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "Од \\$1 до \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "хвала"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "укупно измена"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Дан"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Видите више уређивачких и читалачких активности"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Неутралан"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Још нисте направили измене ове недеље. Додајте слике да би сте побољшали разумевање чланка."
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Задовољан"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Започни уређивање"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Активност"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Незадовољан"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Веома задовољан"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Веома незадовољан"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Погледај историју читања"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Погледај сачуване чланке"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Уредили сте {{PLURAL:\\$1|\\$1 пут|\\$1 пута}} ове недеље."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Прочитали сте {{PLURAL:\\$1|\\$1 чланак|\\$1 чланака}} ове недеље."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Сачували сте {{PLURAL:\\$1|\\$1 чланак|\\$1 чланака}} ове недеље."
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Додај {{PLURAL:\\$1|\\$1 чланак|\\$1 чланка|\\$1 чланака}} на листу за читање"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Напредна подешавања"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Користите привремени налог. Привремени налог ће истећи за 90 дана."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Сазнајте више."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Повратне информације послате"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Одбаци"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Википедија, референце, вики, енциклопедија, инфо, знање, истраживање, информације, истражи, научи"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Потпуно прилагодљив и читљивији фид „Истражи“. Побољшања локализације, перформанси и исправке грешака."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Преузмите апликацију Википедија да бисте истражили места у близини и синхронизовали чланке за читање офлајн."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Слободна енциклопедија"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Прилагоди величину текста"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Прошири табеле"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Раширите све табеле у свим чланцима по подразумеваном, укључујући укратко, референце, белешке и спољашње линкове."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Смањите непровидност слика у тамним и црним темама"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Теме за читање"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Подешавања табела"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Промените величину текста клизачем. Подесите величину фонта у подешавањима система да бисте променили текст у целој апликацији."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Опције теме"
+    },
+    {
+      "name": "article_about_title",
+      "value": "О овом чланку"
+    },
+    {
+      "name": "article_delete",
+      "value": "Избриши"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Чланак је избрисан|Чланци су избрисани}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Апликација није била у могућности да прибави ажуриран садржај на време. Освежите ову страницу касније да би сте видели ваше примењене измене."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Пронађите језик"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Одабир језика"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Други језици"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Ваши језици"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Детаљније"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Референца \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "Назад на \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Историја чланка"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Немате довољно простора на уређају да бисте сачували овај чланак"
+    },
+    {
+      "name": "article_share",
+      "value": "Дели"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Отвори"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Отвори у новој картици"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Страница за разговор чланка"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Подешавања тема за читање"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Привремени налог \\$1 је направљен после објављивања Ваше измене. Привремени налог ће истећи за 90 дана."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Привремени налог направљен"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Назад"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Додирните да бисте се вратили"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Назад"
+    },
+    {
+      "name": "button_next",
+      "value": "Следеће"
+    },
+    {
+      "name": "button_ok",
+      "value": "У реду"
+    },
+    {
+      "name": "button_publish",
+      "value": "Објави"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Свеједно објави"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Пријави грешку"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Сачувај за касније"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Сачувано за касније"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Уклони из сачуваних"
+    },
+    {
+      "name": "button_skip",
+      "value": "Прескочи"
+    },
+    {
+      "name": "cancel",
+      "value": "Откажи"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Чисто"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Чишћење кеша завршено."
+    },
+    {
+      "name": "clearing_cache_error",
+      "value": "Грешка при чишћењеу кеша."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Чишћење кеша у току."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Затвори све картице"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Затвори свих \\$1 картица?"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "Желите ли да затворите {{PLURAL:\\$1|\\$1 картицу|\\$1 картице}}? Ово је неповратна радња."
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "Затвори {{PLURAL:\\$1|\\$1 картицу|\\$1 картица}}?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Затвори"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Затвори друге картице"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Затвори картицу?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Затвори картице"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1|Затворена \\$1 картица|Затворено \\$1 картица}}."
+    },
+    {
+      "name": "compass_direction",
+      "value": "у \\$1 ч."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Потврди брисање"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Локална историја је обрисана"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Настави"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Истражите Википедију да бисте нашли још чланака за читање"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Нема недавно прочитаних чланака"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Прилагоди"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Ажурирање..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Додавање описа"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Опис чланка за страницу \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Променом описа чланка, прихватам \\$1 и неопозиво објављујем доприносе под лиценцом \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Уреди увод"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Додај опис чланка"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Кратки описи су најбољи"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Објави опис"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Уређивање описа"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Покушајте да задржите описе кратким тако да корисници могу да разумеју тему чланка на први поглед"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Само властите именице треба писати великим словима, чак и на почетку реченице."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Привремени налог \\$1 је направљен после објављивања Ваше измене. Привремени налог ће истећи за 90 дана."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Описи чланака резимирају чланак како би читаоци на први поглед разумели његову тему."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "О"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "О Википодацима"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Описи се смештају и одржавају на Википодацима, пројекту Задужбине Викимедија, који пружа слободну, колаборативну, вишејезичку, секундарну базу података, која помаже Википедији и другим пројектима."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Више информација"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Описи би, по могућству, требало да буду у једном реду и да се састоје од две до дванаест речи. Не почињу великим словом осим ако је прва реч властита именица."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "опис чланка за чланак о Мона Лизи"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "опис чланка за чланак о Монт Евересту"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "слика Леонарда да Винчија"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "највиша планина на Земљи"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "На пример:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Савети за прављење описа"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Помоћ за описивање чланка"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Водич за писање описа на Википодацима"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Готово"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Управо сте учинили Википедију бољом за свакога"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Опис је објављен."
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Идеално један ред, између две и дванаест речи"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Будите кратки"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Описи наслова резимирају чланак како би читаоци на први поглед разумели његову тему."
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Описи чланака"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Започињањем, обећавам да нећу злоупотребити ову функцију"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Почни са уређивањем"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Подешавања за програмере"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "Заобилажење донирања"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "Пошаљи аналитику wmflabs-у."
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Историја чланка"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Додато, \\$1, додавање завршено."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Уклоњено, \\$1, уклањање завршено."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Претходна измена"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Упореди измене"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Приказана измена"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Упореди измене"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Садржај додат, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Садржај уклоњен, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Скупи \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Развији \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Прикажи"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Сакриј"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Измена начињена"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Редови \\$1—\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Пасус је премештен"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "доле"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "горе"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 линија|\\$1 линије}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 одељак|\\$1 одељци}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Параграф премештен \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Није могуће учитати измену"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Врати"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Сигурно врати измене?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Враћање измена"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Измене враћене."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 измена|\\$1 измене}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Информација о уреднику"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 бајт додат|\\$1 бајтова додато}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 бајт уклоњен|\\$1 бајтова уклоњено}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Опис измене"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Увод"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Линија \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Нерегистровани корисници не могу бити захваљени"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Захваљивање је лак начин да покажете да цените рад уредника на Википедији. Морате бити улоговани на Википедији како би сте послали захвалницу."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Пријавите се да бисте послали захвалницу"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Пошаљи захвалницу"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Захваљивање је лак начин да покажете да цените рад уредника на Википедији. Захваљивања не могу бити поништена и јавно су видљива"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Пошаљи јавно захвалницу"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Ваша захвалница је послата кориснику \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Већ сте се захвалили на овој измени"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Није могуће опозвати слање захвалница"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Ово ће поништити измене напррављене у изменама чланка приказаним овде. Да наставите, наведите разлог за враћање ове измене."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Измена је поништена."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 линија неуређена|\\$1 линија неуређено}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Тапните два пута да отворите мени"
+    },
+    {
+      "name": "dim_images",
+      "value": "Затамни слике"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Тапните двапут да изаберете износ донације."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Тапните двапут да донирате \\$1 Задужбини Викимедије."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Тапните двапут да бисте дозволили Задужбини Викимедије да Вам шаље мејлове."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Тапните двапут да сваки месец донирате овај износ."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Други износ донације."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Тапните двапут да додате и провизију за трансакцију износу донације."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Хвала, драги донаторе! Ваша великодушност помаже да Википедија и њени сестрински сајтови напредују."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Епл није задужен за прикупљање новца у ове сврхе."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Да, нека ми Задужбина Викимедија периодично шаље имејлове."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Често постављана питања"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Други начини донирања"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Имате проблема при донирању?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Подаци о пореским олакшицама"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Подсетићемо вас поново сутра."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Нисмо у могућности да прихватимо донације веће од \\$2 \\$1 путем нашег сајта. Контактирајте наш тим за поклоне на benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Изаберите износ (најмање \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Донирај аутоматски сваког месеца."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Донирајте путем Apple Pay-а"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Донирајте путем Apple Pay-а или одаберите други начин плаћања."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Други начини донирања"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Да ли желите да донирате путем Apple Pay-а?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Ваша великодушност нам много значи."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Хвала вам!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Износ донације"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Платићу и провизију (\\$1), да би добили цео износ моје донације."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "Ми не продајемо нити размењујемо Ваше податке ни са ким. Донирањем, Ви делите своје податке са Задужбином Викимедија, непрофитном организацијом која покреће Википедију и друге Викимедијине пројекте, и с њеним добављачима у складу са [donor policy](\\$1). Задужбина Викимедија и њени добављачи се налазе у САД-у и другим земљама чији закони о приватности не морају бити исти Вашим. За више информација молимо прочитајте [donor policy](\\$1)."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "За редовне донаторе, Задужбина Викимедија ће аутоматски сваког месеца узимати фиксни износ на дан првог донирања, све док не откажете претплату. Донације извршене 29, 30 или 31 у месецу ће бити поновљене задњег дана у месецу, за краће месеце. За питања контактирајте donate@wikimedia.org."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Прикажи текст"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Циљ везе"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Уклони везу"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Уреди везу"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Уреди"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Ово се може десити због тога што текст који сте одабрали није уредив (нпр. наслов чланка или наслов инфокутије) или због дужине текста који је истакнут"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Текст који сте одабрали не може бити пронађен"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Сазнајте више о мањим изменама"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Ова измена је мања"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Уређивачка обавештења"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Увек приказује уређивачка обавештења"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Прочитајте пре уређивања"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Сав приказан садржај је у поједностављеном формату."
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "Напомена у вези привременог налога"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Прикажи веб преглед"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Додај опис измене"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Додата слика"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Додата слика и натпис"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Поправљена граматика"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Исправљена грешка у куцању"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Додати линкови"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Како сте побољшали чланак?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Додат кратак опис"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Ажуриран кратак опис"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Сазнајте више о списку надгледања"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Надгледај ову страницу"
+    },
+    {
+      "name": "edited_article",
+      "value": "Уређено"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Будите одважни, али не несмотрени у ажурирању чланака. Немојте се оптерећивати због грешака: свака претходна верзија странице се чува, тако да наша заједница може лако да исправи грешке."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Ваш глас је важан"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Сав садржај мора бити проверљив. Приликом додавања нових информација у чланак, уредници требају да пруже референце ка поузданом извору, који директно подржава допринос."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Цитирајте поуздане изворе"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Тежимо да чланци буду писани непристрасним тоном. Приликом уређивања имајте за циљ да пишете онако како га описују поуздани извори."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Пишите непристрасним тоном"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Да бисмо свима омогућили приступ светском знању, потребно нам је да учествујете у његовом стварању читајући, уређујући и доприносећи темама које су вам најважније."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Учините знање слободним"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Измена је објављена."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Уреди извор"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Желите ли заиста да напустите режим уређивања без претходног објављивања измена?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Желите ли заиста да одбаците измене?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Одбаци режим уређивања?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Очисти поље"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Затвори претрагу"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "Укупно поклапања пронађено: \\$1. Истакнуто поклапање број \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Нема подударања"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Следећи резултат претраге"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Пронађи"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Подебљано"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Коментар"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Наслов"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Искошено"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Веза"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Сврстан списак"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Пасус"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Референца"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Поднаслов 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Поднаслов 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Поднаслов 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Поднаслов 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Индекс"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Експонент"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Шаблон"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Обликовање текста"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Подвуци"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Очисти замене"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Замени"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Замени са..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Замени све"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Замени све"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Замени"
+    },
+    {
+      "name": "editor_title",
+      "value": "Уређивач"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Подебљано"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Пронађи у страници"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "Учитавање уређивача текста"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Уређивач викитекста"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Нема разлика између измена"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Нема направљених видљивих промена"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Без описа измене"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Изаберите датотеку са Викимедијине оставе"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Није могуће учитати чланак"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "И даље можете да читате сачуване странице"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Препоручене чланке ћете видети када будете онлајн"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Овде пратите све што сте читали"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Нема историје"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Овај чланак тренутно није написан на другим језицима"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Нема других језика"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Правите листе о местима која желите да посетите, омиљеним темама и друго"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Организујте сачуване чланке помоћу листа за читање"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Странице се појављују овде када их сачувате на листу"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "На овој листи нема сачуваних страница"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Сачувајте странице да бисте их читали касније, чак и када сте офлајн"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Још увек нема сачуваних страница"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Резултати нису пронађени"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Још увек није објављена ниједна порука за овог корисника"
+    },
+    {
+      "name": "end_session",
+      "value": "Заврши сесију"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Покушајте поново касније"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Дошло је до непознате грешке"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Други случајни чланак"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "На основу прочитаног"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Други сродни чланци"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Настави читање"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Назад на фид „Истражи”"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Истражите чланке о објектима у близини ваше тренутне локације"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Изабрани чланак"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Језик Википедије: \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Са Википедије"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Прилагоди"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Подешавања језика за фид „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Додатне језике можете додати у одељку „Моји језици” у подешавањима."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Картица је скривена"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Брзи линк за враћање на читање отвореног чланка"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Прилагођавање фида „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Прилагоди фид „Истражи“"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ако сакријете овај тип картице, он се више неће приказивати у фиду „Истражи”."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Картица „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Изабрани чланак дана на Википедији"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Искључено"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Укључено за све"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Укључено"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Укључено \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Све картице \\$1 су скривене"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Ова картица је невезана за језик. Ако је искључите, уклонићете је из фида „Истражи”."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Картице невезане за језик"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Невезано за језик"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Глобалне картице"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Сакриј ову картицу"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Сакриј све картице „\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Чланци о тренутним догађајима"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Скривањем свих картица на свим вашим језицима, искључићете фид „Истражи”."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Историјски догађаји на данашњи дан"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Чланци на Википедији у вашој близини"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Изабрана слика дана са Оставе"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Генериши случајне чланке за читање"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Предлози засновани на историји читања"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Прикажи картицу „Настави читање”"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Искључивање картице „Изабрани чланак“ ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Прикажи картицу „Изабрани чланак”"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Искључивање картице „Вести” ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Прикажи картицу „Вести”"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Искључивање картице „На данашњи дан” ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Прикажи картицу „На данашњи дан”"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Прикажи картицу „Слика дана”"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Искључивање картице „Места” ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Прикажи картицу „Места”"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Искључивање картице „Случајни чланак” ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Прикажи картицу „Случајни чланак”"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Прикажи картицу „На основу прочитаног”"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Искључивање картице „Најчитанији” ће бити примењено на све доступне језике."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Прикажи картицу „Најчитанији”"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Предлози за додавање садржаја на Википедију"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Најчитанији чланци за данас"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Искључи фид „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Скривање свих картица ће искључити функцију „Истражи” и заменити је са „Подешавања”"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Искључити фид „Истражи“?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Искључи „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Картицу „Истражи“ можете поново укључити у подешавањима"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Искључити картицу „Истражи”?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Искључивањем картице „Истражи”, заменићете је картицом „Подешавања”."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Фид „Истражи” ће бити приказан ако укључите његове картице"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Укључи „Истражи”"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Картица „Подешавања” ће бити замењена картицом „Истражи”. Подешавања се налазе на врху картице „Истражи” притиском на икону зупчаника."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Укључити картицу „Истражи”?"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "Игре"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Сакриј ову картицу"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Главна страница Викимедијиних пројеката"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Данас на Википедији"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Сви најчитанији чланци"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Најчитанији"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Најчитанији за \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Језик Википедије: \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "На Википедији"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Места у близини"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Места"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Језик Википедије: \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Са Википедије"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Ваша локација"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Ваша локација са Википедије: \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Слика дана"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Са Викимедијине оставе"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Случајни чланак"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Језик Википедије: \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Са Википедије"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Случајни чланак"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Додај"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Додај слику"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "Истражи Википедију"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Дељење ваше библиотеке апликације укључује податке о вашим Листама за читање и историји, подешавањама, и садржају фида за истраживање. Ова датотека са подацима би требало да буде дељена искључиво са примаоцем од поверења за коришћење у сврхе техничке дијагностике."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Дели библиотеку апликације?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Дошло је до грешке приликом извоза ваших података. Молимо покушајте поново касније."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Немате довољно слободног простора на уређају за извоз Ваших корисничких података. Молимо покушајте поново касније."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Извоз корисничких података"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Истакнути чланак није доступан за овај датум."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Откријте најбоље чланке на Википедији, који се дневно бирају од стране наше заједнице."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Са Википедије (\\$1)"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "С Википедије"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Википедије на овом језику не подржава изабране чланке. Можете променити језик Википедије у подешавања апликације."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Сјајан чланак"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Нешто је кренуло наопако. Покушајте поново касније."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Апликација је добила неочекиван одговор од стране сервера. Молимо покушајте касније."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Неважећа CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Лозинке се не поклапају"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Неважећи кôд"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Корисничко име није доступно"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Резервни кôд"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "Код из имејла"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA текст"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Унесите горенаведени текст"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "primer@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Имејл"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Имејл (необавезно)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "поново унесите нову лозинку"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Потврдите нову лозинку"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "унесите нову лозинку"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Нова лозинка"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "поново унесите лозинку"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Потврдите лозинку"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "унесите лозинку"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Лозинка"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Кôд за верификацију"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "унесите корисничко име"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Корисничко име"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Све"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Очисти претрагу"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Следећи резултат претраге"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Претходни резултат претраге"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Пронађи и замени"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Затвори дијалог „пронађи и замени”"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Пронађи"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Ресетуј"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Имејл са упутством за ресетовање лозинке је послат"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Попуните једно од поља испод да бисте примили упутство за ресетовање лозинке путем имејла"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Ресетовање лозинке"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Или"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Желите ли заиста да избришете све недавне ставке?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Да, избриши све"
+    },
+    {
+      "name": "history_title",
+      "value": "Историја"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Википедија, назад на „Истражи”"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Википедија, назад на сачуване"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Заједница"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_title",
+      "value": "Настави читање"
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "Модули"
+    },
+    {
+      "name": "home_feed_interests_settings_title",
+      "value": "Ваша интересовања"
+    },
+    {
+      "name": "home_feed_modules_featured_article_title",
+      "value": "Сјајан чланак"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "У вестима"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "На данашњи дан"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_title",
+      "value": "Слика дана"
+    },
+    {
+      "name": "home_feed_modules_top_read_title",
+      "value": "Најчитаније"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "Заједница"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "За вас"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_title",
+      "value": "Језици"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "Историја читања"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_title",
+      "value": "Ваша интересовања"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "За вас"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Још чланака попут \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Још места у близини"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Још у близини \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Још актуелних догађаја"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Сачувани чланци се сада могу организовати у листама за читање и синхронизовати између уређаја. Пријавите се и дозволите чување листа у вашим подешавањима."
+    },
+    {
+      "name": "home_tab_title",
+      "value": "Почетна"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Управљај подешавањима"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Прилагодите подешавања за читање (укључујући величину текста и тему) у траци за управљање чланцима или у вашим подешавањима."
+    },
+    {
+      "name": "home_title",
+      "value": "Истражи"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Википедија, померите на врх фида „Истражи”"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Чланци о објектима у близини"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Случајни чланак"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Претрага"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Отпремалац је непознат."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Додај ову слику?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Покушајте касније."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Дошло је до грешке."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Учитавање странице неуспешно"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Одлучите да ли предложена слика треба да буде постављена у чланак на Википедији."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Види предлог"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Предлози су машински генерисани и Ви ћете на основу своје процене одлучити да ли ћете их прихватити или одбити."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Прихватите или одбаците слику"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Слике су са Викимедијине оставе, колекције слободно лиценцираних слика које се користе на Википедији."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Лиценциране слике"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Научите Више о предложеним изменама"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Додај слику у чланка"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Ваши одговори унапређују будуће предлоге."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Изаберите једну или више опција"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Слика није релевантна"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Недовољно информација за одлуку"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Слика је увредљива"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Слика је слабог квалитета"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Није ми позната ова тема"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Друго"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Проследи"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Разлог"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Додај слику"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Прегледајте овај чланак да би сте разумели његову тему."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Прегледај"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Одлучите"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Види чланак"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "Наишао сам на проблем са функцијом Предложене измене: додавање слика:"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Не"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Нисам сигуран"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Да"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Моја листа за читање"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Попуни анкету"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Дељење листи за читање\" је тестна могућност и потребне су нам ваше повратне информације да би смо је унапредили или уклонили."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Да ли можете да нам помогнете у унапређивању \"дељења листи за читање\"?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Увези подељену листу за читање"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Са Википедије на \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Са Википедије"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "У вестима"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Уметни"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Уметни везу"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Додај детаље о слици"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Опис текста за читаоце који не могу видети слику"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Опишите ову слику"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Алтернативни текст"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Како се ова слика односи на чланак?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Ознака која се приказује поред ставке за све читаоце"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Натпис"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Средина"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Лево"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ништа"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Десно"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Позиција слике"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Више информација"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Одабери слику"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Прилагођено"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Подразумевано"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Висина"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Ширина"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "п"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Величина слике"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "Истакни текст око слике"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Основна"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Оквир"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Без оквира"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Сличица"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Тип слике"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Подешавање медија"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Убаци медиј"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "Настави без пријаве"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "Пријави ме / отвори налог"
+    },
+    {
+      "name": "ip_account_edit_sheet_subtitle",
+      "value": "Оног тренутка кад начините измену \\$1привремени налог\\$2 ће бити направљен ради заштите Ваше приватности. \\$3Сазнајте више.\\$4\\$5Пријавите се или отворите налог да Ваше измене буду Вама приписане."
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "Објављивањем, привремени налог ће бити направљен."
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Нисте пријављени"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Језици"
+    },
+    {
+      "name": "languages_title",
+      "value": "Промена језика"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Језици Википедије"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Сазнајте више"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Настави без пријаве"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Поново ме пријави на налог"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Дошло је до грешке при потврди идентитета. Како бисте синхронизовали листе за читање и уређивали под корисничким именом, поново се пријавите."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Одјављени сте"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Заборавили сте лозинку?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Придружите се Википедији."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Немате налог? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Пријавите се на свој налог"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "О апликацији"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Пријави ме"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Одјави ме"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Желите ли заиста да се одјавите?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Одјављивање ће обрисати ваше локално сачуване податке са налога (обавештења и поруке), али ће подаци вашег налога бити и даље доступни на интернету и бити поново преузети уколико се пријавите поново."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Пријављени сте као \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Приватност и услови"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "У близини"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Политика приватности"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Оцени апликацију"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Услови коришћења"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Више"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Честа питања о Wikipedia Zero"
+    },
+    {
+      "name": "main_page",
+      "value": "Почетна"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "\\$1 {{PLURAL:\\$1|бајтова}} додато"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "Уредници су ове године начинили скоро \\$1 {{PLURAL:\\$1|измена}}"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "\\$1 сати смо {{PLURAL:\\$1|читали}}"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "Сачували само \\$1 {{PLURAL:\\$1|чланака}}"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Претражујте Википедију на преко 300 језика"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Додај језике"
+    },
+    {
+      "name": "more_menu",
+      "value": "Више"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Премести {{PLURAL:\\$1|\\$1 чланак|\\$1 чланка|\\$1 чланака}} на листу за читање"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Преглед"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 стопа}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 миља"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Пријавили сте се са привременом лозинком. Да бисте завршили пријаву, овде поставите нову."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Поставите лозинку"
+    },
+    {
+      "name": "new_tab",
+      "value": "Нова картица"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Следеће"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Подесите налог за имејл на вашем уређају па покушајте поново."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Нема интернет везе"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Не сада"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Од \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Обавештења"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Филтер обавештења - има примењене филтере"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Филтер пројеката - има примењене филтере"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Обавештења са непрочитаним беџом"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "Обавештење: \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Промени лозинку"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Порверавам обавештења..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "У апликацији"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "На вебу"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Детаљи обавештења"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Проверавам обавештења..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Немате нових порука"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Нисте тренутно претплаћени на Википедијина обавештења"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Измените \\$1 да би сте видели више порука"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Додајте пројекте да би сте видели више порука"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 филтер|\\$1 филтера}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Укључи обавештења"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Обавештења о уређивању за све Викимедијине пројекте су сада доступна. Омогућите push обавештења да би сте остали у току са вашим порукама на Википедији, у покрету."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Филтер обавештења"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Све"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Читај"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Непрочитано"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Статус читања"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Филтери"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Измените типове обавештења да би сте их филтрирали у/из вашег пријемног сандучета за обавештења. Типови који су искључени неће бити видљиви, али ће њихов садржај и сва нова обавештења бити доступна када се прекидач поново укључи."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Све врсте"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Врсте обавештења"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Чланак"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Страница за разговор \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Разл"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 - корисничка страница"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Ставка на Википодацима"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Ваша страница за разговор"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Обавештење са \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Готово"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Пројекти"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Само пројекти где сте направили налог ће се појавити овде"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Викимедијини пројекти"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Википедије"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 (\\$1)"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Обавештења о пријављивању"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Означи"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Означи све прочитаним"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Да ли сте сигурни да желите да означите {{PLURAL:\\$1|\\$1 поруку|све \\$1 поруке}} у вашим обавештењима као прочитаним? Ваша обавештења ће бити означена као прочитана на свим уређајима."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Да ли сте сигурни да желите да означите сва ваша обавештења као прочитаним? Ваша обавештења ће бити означена као прочитана на свим уређајима."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Означи као прочитано"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Означи као непрочитано"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Више"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Поставке обавештања"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 порука|\\$1 поруке}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Настави"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Филтрирајте ваша обавештења по статусу читања и типу да би сте лакше пролазили кроз ваше пријемно сандуче."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Филтери"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Сазнајте више о обавештењима"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Обавештења помажу да останете у току са активностима које се односе на ваше измене и налог."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Обавештења и мања обавештења"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Погледајте све ваше непрочитане поруке са различитих језичких верзија Википедија и Викимедијиних пројеката на једном месту."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Пријемни сандучићи пројекта"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Омогућите push обавештења да би сте остали у току са вашим обавештењима и уређивањима, у покрету."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push обавештења"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Обавештења о уређивању"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Укључивање push обавештења?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Укључи push обавештења?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Не, хвала"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Википедија је заједнички пројекат и укључивање push обавештења може олакшати да будете у току са порукама, упозорењима и „захваљивањима“ од колега уредника/ца."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Филтер пројеката"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Све"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Сва обавештења"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 на \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Филтрирано"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=На 1 пројекту|На \\$1 пројекта}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 пројекат|\\$1 пројеката}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1 тип|\\$1 типова}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Прочитано"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 и \\$2 у \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Непрочитано"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Прекретница уређивања"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Ваша измена је поништена"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Нови имејл"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Вишеструки неуспели покушаји пријаве"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Неуспели покушаји пријаве"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Пријава са непознатог уређаја"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Помињање на страници за разговор чланка"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Спомињање у опису измене"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Неуспешно спомињање"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Успешно спомињање"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Помињање на страници за разговор"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Порука на Вашој страници за разговор"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Веза ка страници"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Страница је прегледана"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Хвала"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Прекретница превођења"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Промена корисничких права"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Добро дошли!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Направљена је веза ка Википодацима"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Означи као прочитано"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Означи као непрочитано"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Више"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Обавештења"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Означи изабрана обавештења"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Спомињања"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Ситна обавештења"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Порука добродошлице"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Повезивање са Википодацима"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Прекретница уређивања"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Измена враћена"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Спомињање у опису измене"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Имејл од другог корисника/це"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Покушаји пријављивања"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Неуспели покушаји пријављивања на ваш налог"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Успешно пријављивање"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Друго"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Веза ка страници"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Преглед странице"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Грешка у слању помињања"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Успешно слање помињања"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Помињање на страници за разговор"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Захвалница"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Прекретница превођења"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Промена корисничких права"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Порука на страници за разговор"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Добро дошли"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Нова активност на Википедији"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 нова порука|\\$1 нових порука}} на \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Нова порука|Нове поруке}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 млрд."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 мил."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 хиљ."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1–\\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 историјски догађај|\\$1 историјска догађаја|\\$1 историјских догађаја}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Више историјских догађаја на данашњи дан"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 историјски догађај више|\\$1 историјских догађаја више}} на овај дан"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Ваша примарна језичка верзија Википедије не подржава На данашњи дан. Можете изменити вашу примарну језичку верзију Википедије у менију Подешавања апликације."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Нема података"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 са \\$2 Википедије"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "На данашњи дан"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Додирните „W” да бисте се вратили на почетну картицу"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "бот"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Додирните како бисте изабрали две измене за упоређивање"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Поређење"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Графикон измена током времена"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "пријављени"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "мање измене"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Аутор: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Коментар \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Историја измена"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Мања измена"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|Додат \\$1 бајт|Додата \\$1 бајта|Додато \\$1 бајтова}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|Уклоњен \\$1 бајт|Уклоњена \\$1 бајта|Уклоњено \\$1 бајтова}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Измена је направљена у \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Могу се изабрати само две измене"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 измена|\\$1 измене}} од \\$2"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "нерегистровани"
+    },
+    {
+      "name": "page_issues",
+      "value": "Проблеми са страницом"
+    },
+    {
+      "name": "page_location",
+      "value": "Прикажи на мапи"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Немате права да уређујете ову страницу"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ова страница је заштићена"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Сличне странице"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Упоређивање измена помаже да се покаже како се чланак временом мењао. Упоређивање две измене чланка показаће разлику између тих ревизија истицањем било ког садржаја који је промењен."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Упоређивање измена"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Уреди без пријаве"
+    },
+    {
+      "name": "panel_not_logged_in_subtitle_plain",
+      "value": "Ваша IP адреса биће јавно видљива ако начините било какву измену. Пријавите се или отворите налог, тиме ће Ваши доприноси бити приписивани Вашем корисничком имену."
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Нисте пријављени"
+    },
+    {
+      "name": "pictured",
+      "value": "на слици"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Обриши недавне претраге"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 чланака"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Поново центрирај моју локацију"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Прикажи као листу"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Прикажи као мапу"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Прикажи више чланака"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Истражите градове, државе, континенте, природне знаменитости, историјске догађаје, грађевине и друго."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Претражујте чланке на Википедији са географским локацијама"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Омогући локацију"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Приступ вашој локацији је доступан само када је апликација или једна од њених функција видљива на екрану."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Истражите чланке о објектима у близини омогућавањем приступа локацији"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Филтрирање чланака"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Филтрирај"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Немате сачуваних места"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Сачувани чланци"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Најчитанији"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "\\$1 {{PLURAL:\\$1|чланак|чланка|чланака}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Најчитанији чланци"
+    },
+    {
+      "name": "places_list_title",
+      "value": "Списак"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Локација је омогућена"
+    },
+    {
+      "name": "places_map_title",
+      "value": "Мапа"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ниједан од ваших сачуваних чланака нема информације о локацији"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 одговара за „\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Претражи места"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Да ли сте мислили „\\$1”?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Недавне претраге"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Сви сачувани чланци"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Предложене претраге"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Резултати на овом подручју"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Сви најчитанији чланци"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "У близини"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Ваша тренутна локација"
+    },
+    {
+      "name": "places_title",
+      "value": "Места"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "непозната удаљеност"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Слика дана за \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Добављање слике дана за \\$1 није успело"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Уживајте у дивној дневној слици коју је одабрала наша заједница."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Слика дана"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Дозволите Задужбини Викимедија да прикупља информације о томе како користите апликацију у циљу њеног побољшања."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Политика приватности"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Проблем са функцијом"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Профил"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Пријава / Придружите се Википедији"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "Медијавики"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Викикњиге"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Википодаци"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Викимедијина остава"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Викивести"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Викицитати"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Викизворник"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Викиврсте"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Викиверзитет"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Википутовање"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Викиречник"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "Случајно"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Додати овај чланак на листу за читање?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Додати „\\$1” на листу за читање?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Да, додај их на листу за читање"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Постоје чланци сачувани у апликацији Википедија. Желите ли да их задржите и спојите са листама за читање које су синхронизоване са вашим налогом?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Пронађени сачувани чланци"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Ова ставка није синхронизована јер сте достигли ограничење за дозвољени број чланака на овој листи."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Дошло је до неочекиване грешке при синхронизовању листе за читање."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Ова листа није синхронизована јер сте достигли ограничење за дозвољени број синхронизованих листа."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Направи листу за читање"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Опис"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Име листе за читање"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Направи нову листу"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Листа за читање је избрисана"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Не, избриши чланке са уређаја"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Смањите број чланака на овој листи на \\$1 да бисте наставили са њиховом синхронизацијом."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Прекорачили сте ограничење од {{PLURAL:\\$1|\\$1 чланка|\\$1 чланака}} по налогу."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Чланак се не може|Чланци се не могу}} додати на листу. Достигли сте ограничење од \\$2 чланака по листи за читање за \\$3."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Већ постоји листа за читање под тим именом"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Дошло је до неочекиване грешке при ажурирању ваших листа за читање."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Да, задржи чланке на уређају"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Постоје чланци који су синхронизовани са вашим налогом на Википедији. Желите ли да их задржите на овом уређају након што се одјавите?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Задржати сачуване чланке на уређају?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Сортирај чланке"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Можете да имате највише 5000 несортираних чланака. Организујте постојеће чланке по листама да бисте поново синхронизовали несортиране чланке."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Достигнуто је ограничење за несортиране чланке"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Ова листа за читање и чланци сачувани на њој неће бити синхронизовани. Смањите број листа на \\$1 да бисте поново синхронизовали ову листу."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Прекорачили сте ограничење од {{PLURAL:\\$1|\\$1 листе за читање|\\$1 листа за читање}} по налогу."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Достигли сте ограничење од \\$1 листа за читање по налогу"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Пријавите се да бисте синхронизовали сачуване чланке"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Пријава/регистрација"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Пријавите се да бисте синхронизовали сачуване чланке"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Пријавите се или отворите налог да бисте синхронизовали чланке и листе за читање међу уређајима и сачували своја подешавања."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Синхронизовати сачуване чланке?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[направио корисник]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "опционалан кратак опис"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "наслов листе за читање"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Синхронизација листе за читање је онемогућена за ваш налог на другом уређају. Можете је поново укључити у подешавањима."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Синхронизација је онемогућена"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Омогући синхронизацију"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Ваши сачувани чланци и листе за читање сада се могу сачувати на Википедији и синхронизовати међу апликацијама Википедије."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Укључити синхронизацију листе за читање?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Синхронизација листе за читање је омогућена за овај налог. Можете је искључити у подешавањима."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Синхронизација за овај налог је омогућена"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Дошло је до неочекиване грешке при додавању ставке на вашу листу за читање. Покушајте касније."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Дошло је до неочекиване грешке при прављењу лсте за читање. Покушајте касније."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Дошло је до неочекиване грешке при брисању листе за читање. Покушајте касније."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Дошло је до неочекиване грешке при уклањању ставке са листе за читање. Покушајте касније."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Дошло је до неочекиване грешке при ажурирању листе за читање. Покушајте касније."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Листа за читање под именом „\\$1” није пронађена. Уверите се да је име исправно."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Чланак је додат на листу „\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Није могуће синхронизовати чланак"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Није синхронизовано"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Прекорачен је дозвољени број чланака. Није могуће синхронизовати чланак."
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Прекорачено је ограничење листа. Није могуће синхронизовати чланак."
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Чланак је стављен у ред за преузимање"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Уређај је препун. Није могуће синхронизовати чланак."
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Ослободите простор на уређају па покушајте поново"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Неки чланци нису синхронизовани. Прекорачено је ограничење."
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Ваша листа „\\$1” је преименована у „\\$2”"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 листа за читање|\\$1 листе за читање|\\$1 листа за читање}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Подразумевана листа за ваше сачуване чланке"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Сачувано"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Ова радња је неповратна. Сви чланци сачувани само на {{PLURAL:\\$1|овој листи|овим листама}} ће бити уклоњени из сачуваних."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Избрисати {{PLURAL:\\$1|списак|спискове}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "Са вашег налога {{PLURAL:\\$1|је синхронизован \\$1 чланак|су синхронизована \\$1 чланка|је синхронизовано \\$1 чланака}} и {{PLURAL:\\$2|\\$2 листа за читање|\\$2 листе за читање|листи за читање}}"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Листа није синхронизована. Прекорачено је ограничење."
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Сортирај сачуване чланке"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Свака листа за читање прима највише \\$1 чланака. Постојеће листе са више чланака су раздвојене на неколико њих."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Синхронизација ће се наставити по успостављању везе са интернетом"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Црна тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Клизач за осветљење"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Тамна тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Светла тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Сепија"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Истицање синтаксе"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Клизач за величину текста"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Истицање синтаксе"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Иди на одељак за референце"
+    },
+    {
+      "name": "reference_title",
+      "value": "Референца \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=данас|1=јуче|пре \\$1 дана}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=недавно|пре \\$1 сат|пре \\$1 сата|пре \\$1 сати}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "пре \\$1 ч."
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=недавно|пре \\$1 сат|пре \\$1 сата|пре \\$1 сати}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Сада|пре \\$1 минут|пре \\$1 минута}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 мин."
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=управо сад|пре један минут|пре \\$1 минута}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "пре \\$1 мин."
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Овог месеца|1=Прошлог месеца|пре \\$1 месец|пре \\$1 месеца|пре \\$1 месеци}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 сек."
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "пре \\$1 сек."
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ове године|1=прошле године|пре \\$1 године|пре \\$1 година}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Назад"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Назад на чланак"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Враћена измена"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Сви чланци"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Ова листа не може да се избрише"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Преузимање слика за ову сачувану страницу није успело."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Преузимам чланак…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Листе за читање"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Претражите сачуване чланке"
+    },
+    {
+      "name": "saved_title",
+      "value": "Сачувано"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "{{PLURAL:\\$1|Овај чланак ће бити избрисан|Ови чланци ће бити избрисани}} са свих повезаних листа за читање"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Уклонити {{PLURAL:\\$1|чланак|чланке}} из сачуваних?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Претрага"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Обриши"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Претрага Википедије"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Избрисати све недавне претраге?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ова радња је неповратна."
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Избриши све"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Још увек нема недавних претрага"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Недавне претраге"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Преусмерено са: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Претрага"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Википедија"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Апликација Википедија одсад подржава следеће варијанте српског језика као главне или споредне језике олакшавајући читање, претраживање и уређивање у жељеним варијантама:\n\nсрпски ћирилица (sr-ec)\nsrpski latinica (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Ажурирања подршке за варијанте српског језика"
+    },
+    {
+      "name": "settings_account",
+      "value": "Налог"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Тема апликације"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Брисање кешираних података"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Чишћењем кешираних података ослободићете око \\$1 простора. Ваше сачуване странице се неће избрисати."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Обрисати кеширане податке?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Откажи"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Обриши кеш"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Донација"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Помоћ и повратне информације"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Приказуј језике при претрази"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Можете да управљате језицима за приказ у фиду „Истражи“ променом подешавања."
+    },
+    {
+      "name": "settings_legal_sefaty_title",
+      "value": "Правни и сигурносни контакти"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Моји језици"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Обавештења"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Дошло је до грешке приликом проверавања обавештења која су везана за ваш налог."
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Покушајте поново"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Будите обавештени за активности повезане са вашим налогом, као што су поруке од колега сарадника, упозорења и обавештења. Све је обезбеђено уз поштовање приватности и до најсвежијих података."
+    },
+    {
+      "name": "settings_off",
+      "value": "Искљ."
+    },
+    {
+      "name": "settings_on",
+      "value": "Укљ."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Главни"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Први језик на овој листи ће се користити као главни језик апликације."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Подесите апликацију да отвара картицу „Претражи” уместо картице „Истражи”"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Отвори апликацију у картици „Претражи”"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_no",
+      "value": "Не"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_yes",
+      "value": "Да"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Дозволите Викимедији да чува чланке и листе за читање у вашим подешавањима при пријављивању и синхронизовању."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Синхронизуј сачуване чланке и листе"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Ваше листе за читање ће се синхронизовати у позадини"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Захтевајте ажурирање синхронизованих чланака и листа за читање."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Ажурирај синхронизоване листе за читање"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Приказује сачувану листу посебно у листама за читање. Ова листа се јавља на Android уређајима."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Прикажи сачувану листу за читање"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Складиштење и синхронизација чланака"
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "Одјави ме"
+    },
+    {
+      "name": "settings_temp_account_end_session_title",
+      "value": "Излаз из сесије"
+    },
+    {
+      "name": "settings_temp_accounts_talk_page_footer",
+      "value": "Привремени налог ће истећи за 90 дана"
+    },
+    {
+      "name": "settings_title",
+      "value": "Подешавања"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Направљено помоћу апликације Википедија"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1” на Википедији:"
+    },
+    {
+      "name": "share_building",
+      "value": "Прављење картице за дељење чињенице…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "„\\$1” са „\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "„\\$1”\n\nса „\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Преузми путању"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Дели…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "„\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "преко Википедије"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Отвори у мапама"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„\\$1” преко Википедије: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "„\\$1” преко Википедије: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Недавно додато"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Наслов"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Предложене измене"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "Изаберите једну или више опција"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "Друго"
+    },
+    {
+      "name": "survey_submit",
+      "value": "Проследи"
+    },
+    {
+      "name": "survey_title",
+      "value": "Разлог"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Садржај"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Затвори"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Затвори садржај"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Садржај"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Сакриј садржај"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Поднаслов \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "Затвори картицу"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Отвори картицу"
+    },
+    {
+      "name": "tabs_thumbnail_description",
+      "value": "Истражите Википедију, слободну енциклопедију коју свако може да уређује"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 активни корисник|\\$1 активних корисника}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Додај тему"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Архиве"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "О страницама за разговор"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Промени језик"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Скупи тему"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Прочитано"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Непрочитано"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Апликација је добила неочекиван одговор од стране сервера. Молимо покушајте касније."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Неочекивана грешка"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Дошло је до грешке."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Страница за разговор није учитана"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Рашири тему"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Пронађи у страници"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Отвори све теме"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Не заборавите: Комуницирате са живим људима"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Будите љубазни"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Ваш одговор је успешно објављен"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Ваша дискусија је успешно објављена"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Тапните двапут да би сте се вратили на одговор"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Више опција странице за разговор"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Информације о страници"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Трајна веза"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Проверите Вашу интернет везу."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Није могуће објавити ваш коментар."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Није могуће објавити нову тему."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Прочитајте на вебу"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Шта води овамо"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 одговор|\\$1 одговора}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Одговори"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Одговор \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Дубина одговора: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Одговор \\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "Ваш одговор ће аутоматски бити потписан са Вашим корисничким именом. Чувањем измена, прихватате \\$1услове коришћења\\$2 и слажете се са објављивањем Вашег доприноса под лиценцама \\$3CC BY-SA 4.0\\$4 и \\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Историја измена"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Затворите преглед одговора"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Дели страницу за разговор"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Прати"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Добијаћете обавештења о новим коментарима на ову тему."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Успешно пратите тему!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Праћење теме није успело, покушајте поново."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Страница за разговор чланка"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Корисничка страница за разговор"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "Објављивањем измена прихватате \\$1услове коришћења\\$2 и неопозиво се слажете да свој допринос објавите под лиценцама \\$3CC BY-SA 4.0\\$4 и \\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Прекини праћење"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Више нећете добијати обавештења о новим коментарима."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Више не пратите."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Прекидање праћења теме није успело, покушајте поново."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "О корисничким страницама за разговор"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Доприноси"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Нема архивираних страница."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Архиве"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Прочитај још"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Ваш коментар је додат"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Настави уређивање"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Уреди извор"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Странице за разговор су места где уредници дискутују о садржају на Википедији. **Покрените нову дискусију** да се повежете и сарађујете са другим Википедијанцима."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Странице за разговор су места где уредници дискутују о садржају на Википедији. Покрените нову дискусију да се повежете и сарађујете са \\$1. Све што кажете биће јавно видљиво."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Додај нову тему"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Започни разговор"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Разговор почиње овде"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Започните разговор са \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Желите ли заиста да одбаците одговор?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Ваша тема је додата"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Опис"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Опис теме"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Одбаци одговор"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "Одбаци тему"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Желите ли заиста да одбаците тему?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Тема"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Наслов теме"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Странице за разговор су места где уредници дискутују о садржају на Википедији. Покрените нову дискусију да се повежете и сарађујете са другим Википедијанцима.\n\nБудите љубазни, овде смо сви људи."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Странице за разговор су места где уредници дискутују о садржају на Википедији.\\$1 Покрените нову дискусију да се повежете и сарађујете са другим Википедијанцима."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Будите љубазни, сви смо ми људи."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Странице за разговор"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Корисничке групе"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Дневници"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Разговор"
+    },
+    {
+      "name": "temp_account_alert_read_more_information",
+      "value": "\\$1Тренутно користите привремени налог.\\$2 Налог ће истећи за 90 дана. Након истека нови ће Вам бити направљен ако будете уређивали непријављени. \\$3Пријавите се или отворите налог. Тиме ће доприноси бити приписивани Вашем корисничком налогу."
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "Пријави ме / отвори налог"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2Тренутно користите привремени налог.\\$3 Измене начињене привременим налогом \\$1 неће бити пренете Вашем сталном налогу када се пријавите. Пријавите се или отворите налог. Тиме ће доприноси бити приписивани Вашем корисничком налогу."
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Детаљније"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1Тренутно користите привремени налог.\\$2 Измене начињене привременим..."
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "Користите привремени налог"
+    },
+    {
+      "name": "temp_warning_subtitle_format",
+      "value": "Ваше измене ће бити приписане \\$1"
+    },
+    {
+      "name": "temporary_account",
+      "value": "Привремени налог"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Услови коришћења"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Црна"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Тамна"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Подразумевана"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Поклапа се са темом система"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Светло"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Сепија"
+    },
+    {
+      "name": "today_title",
+      "value": "Данас"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Сазнајте шта свет чита данас на Википедији"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "Читалаца: \\$1"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Најчитаније"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Пробајте сад"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Упутство"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "Настави пријаву"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "Молимо унесите имејл верификациони код"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Настави пријаву"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Двофакторски токен или код за опоравак"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Пријавите се на свој налог"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Користите један од резервних кодова"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Користите кôд за верификацију"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Није могуће учитати страницу за разговор"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Непознато"
+    },
+    {
+      "name": "unwatch",
+      "value": "Прекини надгледање"
+    },
+    {
+      "name": "user_title",
+      "value": "Корисник"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Настави"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Корисничко име и корисничка страница"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Нестајање је **последња опција** и треба је користити **само када желите да заувек престанете са уређивањем**, као и да сакријете што више својих прошлих асоцијација.\n\nБрисање налога на Википедији се врши променом назива налога тако да други не могу да препознају Ваше доприносе у процесу који се зове учтиви нестанак. **Нестајање не гарантује потпуну анонимност и не уклања доприносе на пројектима**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Упозорење"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Не, хвала"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Прегледајте своја подешавања"
+    },
+    {
+      "name": "view_changes",
+      "value": "Прикажи измене"
+    },
+    {
+      "name": "watch",
+      "value": "Надгледај"
+    },
+    {
+      "name": "watchlist",
+      "value": "Списак надгледања"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "На списку надгледања 1 месец."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "На списку надгледања 1 недељу."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "На списку надгледања 1 годину."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "На списку надгледања за стално."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "На списку надгледања 6 месеци."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "На списку надгледања 3 месеца."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Списак надгледања"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|1 бајт|\\$1 бајтова}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 месец"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 недеља"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 година"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "За стално"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 месеци"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 месеца"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Трајање надгледања"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Трајање надгледања"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Идите на разлику измена"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Опис измене"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Претрага чланака"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Списак надгледања је празан"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "Чланци које сте додали на списак надгледања ће се приказати овде"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "Странице остају по подразумеваном, али опције за привремено надгледање постоје и оне су у распону од једне недеље до једне године."
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Одреди трајање"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Филтер"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Активност списка надгледања"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Виђене измене"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Непогледане измене"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Аутоматизовани доприноси"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Бот"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Човек (не бот)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Последње измене"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Најновија измена"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Није последња измена"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Значај"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Мање измене"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Нису мање измене"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Врста измене"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Измене категорија"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Забележене радње"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Прављење страница"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Измене странице"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Измене на Википодацима"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Уредници"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Регистровани"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Анонимни"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Додај језик..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "Измените [{{PLURAL:\\$1|\\$1 филтер|\\$1 филтера}}](wikipedia://watchlist\n/filter) да би сте видели више ставки на списку надгледања"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Сазнајте више о списку надгледања"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Представљање вашег списка надгледања"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Уклоњено са списка надгледања"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Ваше хвала је послато \\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "Списак надгледања је алат који омогућава праћење измена које су начињене на страницама или чланцима за које сте заинтересовани."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Прати измене"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Списак надгледања страница које сте додали, као што су измене или дискусије, можете видети преко Подешавања → Налог."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Види ажурирања"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Хвала"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Кориснички доприноси"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Корисничка страница"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Корисничка страница за разговор"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Надгледај чланке"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Подаци и приватност"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Препоручени и дневни чланци од наше заједнице"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Фид „Истражи“"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Вратите се назад кроз време да бисте сазнали шта се одиграло на данашњи дан"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "На данашњи дан"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Откријте знаменитости у близини или тражите места широм света"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Картица „Места“"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Почни"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Нови начини за истраживање"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Разумем"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Википедију заједничким снагама пишу добровољци и садржи преко 40 милиона чланака на преко 300 језика."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Сазнајте више о Википедији"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "О Википедији"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Википедија је глобални пројекат слободних енциклопедија на свим језицима света. Свако са приступом интернету може да учествује под условом да располаже неутралним и провереним информацијама."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Слободна енциклопедија"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Додај други језик"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Додај или уреди жељене језике"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Пронашли смо следеће језике на вашем уређају:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Претражујте на преко 300 језика"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "Ми верујемо да не морате одавати личне податке да би учествовали у покрету за слободно знање. Подаци о употреби ове апликације се прикупљају анонимно."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Сазнајте више о нашој политици приватности и условима коришћења"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "Архива"
+    },
+    {
+      "name": "which_came_first_correct_answer_a11y",
+      "value": "Тачан одговор"
+    },
+    {
+      "name": "which_came_first_correct_feedback",
+      "value": "Тачно!"
+    },
+    {
+      "name": "which_came_first_error_title",
+      "value": "Дошло је до грешке"
+    },
+    {
+      "name": "which_came_first_footer_a11y",
+      "value": "Питање \\$1 од \\$2"
+    },
+    {
+      "name": "which_came_first_incorrect_answer_a11y",
+      "value": "Нетачан одговор"
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "Нетачно!"
+    },
+    {
+      "name": "which_came_first_log_in_button",
+      "value": "Пријави ме"
+    },
+    {
+      "name": "which_came_first_next_button",
+      "value": "Следеће"
+    },
+    {
+      "name": "which_came_first_retry_button",
+      "value": "Покушај поново"
+    },
+    {
+      "name": "which_came_first_submit_button",
+      "value": "Проследи"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Шта се десило на данашњи дан."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Слободна онлајн енциклопедија коју свако може уређивати"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Википедија, слободна енциклопедија, иде онлајн."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Преузимање прегледа ваших промена…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ова веза води до спољашњег веб-сајта: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Спољашња веза"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Википедија нема чланак са тачно овим именом"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Није пронађена унутрашња веза"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Ова веза води ка „\\$1”"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Преглед линка"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Чување промена"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Грешка при CAPTCHA верификацији."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Потребна је CAPTCHA верификација."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Није могуће утврдити резултат отпремања вики текста."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Објављујем…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Измене ће бити приписане IP адреси вашег уређаја. Ако се \\$1пријавите\\$2, имаћете више приватности."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Измене ће бити приписане IP адреси вашег уређаја. Ако се пријавите, имаћете више приватности."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "Објављивањем измена прихватате \\$1услове коришћења\\$2 и неопозиво објављивање свог доприноса под лиценцама \\$3CC BY-SA 4.0\\$4 и \\$5GFDL\\$6. Слажете се да су линк или URL довољни за признавање ауторства под лиценцом Creative Commons."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "услове коришћења"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "Преко званичних апликације за Википедију је начињено \\$1 {{PLURAL:\\$1|измена}}"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "Википедија се уређује \\$1 пута у {{PLURAL:\\$1|минуту}}"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Википедија је доступна на више од \\$1 {{PLURAL:\\$1|језика}}"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "За људе широм света Википедија је почетна тачка за одговор на неко питање, тражење информација за школу или посао или једноставно учење нове чињенице."
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "петак"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "понедељак"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "субота"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "недеља"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "четвртак"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "уторак"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "среда"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Донирај"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Донирајте сада"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "Готово"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "Логотип Википедије"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "Омиљени дан за читање"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Хвала вам на Вашем прилогу!"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "Читате о \\$3\\$1\\$4 и \\$3\\$2\\$4."
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "Сачували сте \\$1 {{PLURAL:\\$1|чланка|чланака}}"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Неутралан"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Задовољан"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "Незадовољан"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "Веома задовољан"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "Веома незадовољан"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "Послеподне"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "Предвече"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "Увече"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "Јутро"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "Ноћ"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Википедијин W логотип"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Логотип Задужбине Викимедије"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Јуче"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "0 измена чланака скорије"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "На основу прочитаног"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Сви најчитанији чланци"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Други случајни чланак"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Језик Википедије: %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Језик Википедије: %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Са Викимедијине оставе"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Нема историје"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Данас"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Јуче"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Сакриј ову картицу"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Прилагоди фид „Истражи“"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Картица је скривена"
+    },
+    {
+      "name": "editor_published",
+      "value": "Измена је објављена."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Опис чланка за страницу %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Да ли сте мислили „%s”?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "НА ВИКИПЕДИЈИ ЗА HarmonyOS"
+    }
+  ]
+}

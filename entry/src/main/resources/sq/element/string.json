@@ -1,0 +1,288 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Kontribuesit"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Lista e plotë"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licensa"
+    },
+    {
+      "name": "about_title",
+      "value": "Rreth"
+    },
+    {
+      "name": "about_translators",
+      "value": "Përkthyesit"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Përkthyer nga vullnetarët në \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fondacioni Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Duke marrë një CAPTCHA tjetër."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Duke hyrë..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Ju duhet të fusni një emër përdoruesi, fjalëkalimin dhe konfirmimin e fjalëkalimit për të krijuar një llogari."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Fushat e fjalëkalimeve nuk përputhen."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Duke ruajtur..."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Gjeni gjuhën"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Zgjidhni gjuhën"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Gjuhët e tjera"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Gjuhët tuaja"
+    },
+    {
+      "name": "button_next",
+      "value": "Më pas"
+    },
+    {
+      "name": "button_ok",
+      "value": "Në rregull"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publiko"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Ruani për më vonë"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Ruajtur për më vonë"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Rregollova gabimet gramatikore"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Rregullova gabimet drejtshkrimore"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Shtova lidhje"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Vazhdo leximin"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Artikujt e veçuar"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Sot në Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Vendet në afërsi"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Vendndodhja juaj"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Fotografia e ditës"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Artikull i rastit"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Fshini të gjithë artikujt e fundit?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Fshi të gjitha"
+    },
+    {
+      "name": "languages_title",
+      "value": "Ndrysho gjuhën"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Rreth aplikacionit Wikipedia"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Hyni"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Dil"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Keni hyrë si: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privatësia dhe Kushtet"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Pranë"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Politika e privatësisë"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Vlerësoni aplikacionin"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Kushtet e përdorimit"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Më tepër..."
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Pyetje dhe përgjigje për Wikipedia Zero"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Parapamje"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 feet (1 feet = 0.3048 m)"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milje (1 milje = 1.60934 km)"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Aktivizo njoftimet"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Ju nuk keni të drejtë të redaktoni këtë faqe"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Kjo faqe është e mbrojtur"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Ditë|Dje|\\$1 ditë më parë}}"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Kërko në Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Fshi të gjitha kërkimet e fundit?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ky veprim nuk mund të zhbëhet!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Fshi të gjitha"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Kërkimet e fundit"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primar"
+    },
+    {
+      "name": "settings_title",
+      "value": "Cilësimet"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" në @Wikipedia:"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Mbyll"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Përmbajtja"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Duke marrë një parapamje të ndryshimeve tuaja..."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Duke publikuar..."
+    }
+  ]
+}

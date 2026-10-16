@@ -1,0 +1,1016 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Vikipediya"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Litsenziya"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT litsenziyasi"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Ilova haqida fikr bildirish"
+    },
+    {
+      "name": "about_title",
+      "value": "Haqida"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tarjimonlar"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Vikipediya"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Rasmni ko‘rmayapsizmi? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Yangi CAPTCHA olinmoqda ..."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA xavsizlik tekshiruvi"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Hisobingizni yarating"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Allaqachon hisobinfiz bormi? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Kirish."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Saytga kiryapsiz..."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Maxfiy soʻzlar mos kelmadi."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Saqlanyapti..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Yangi hisob yaratish"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Sizning hisobingiz"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Munozara sahifangiz"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Munozara sahifasi moslamalari"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Sahifadan izlash"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Tilni oʻzgartirish"
+    },
+    {
+      "name": "action_read",
+      "value": "Mutolaa"
+    },
+    {
+      "name": "action_remove",
+      "value": "Olib tashlash"
+    },
+    {
+      "name": "action_retry",
+      "value": "Qayta urinish"
+    },
+    {
+      "name": "action_save",
+      "value": "Saqlash"
+    },
+    {
+      "name": "action_saved",
+      "value": "Saqlandi"
+    },
+    {
+      "name": "action_share",
+      "value": "Ulashish"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Ulashish"
+    },
+    {
+      "name": "action_sort",
+      "value": "Saralash"
+    },
+    {
+      "name": "action_undo",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Saqlanmadi"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Maqola saqlanmadi"
+    },
+    {
+      "name": "action_update",
+      "value": "Yangilash"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Ochiq ensiklopediya"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Jadvallarni yoyish"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Mutolaa mavzulari"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Jadval sozlamalari"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Mavzu opsiyalari"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Bu maqola haqida"
+    },
+    {
+      "name": "article_delete",
+      "value": "Oʻchirish"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|ta maqola}} oʻchirildi"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Tilni izlamoq"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Tilni tanlang"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Boshqa tillarda"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Tanlagan tillaringiz"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Koʻproq bilib olish"
+    },
+    {
+      "name": "article_share",
+      "value": "Ulashish"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Orqaga"
+    },
+    {
+      "name": "button_next",
+      "value": "Keyingi"
+    },
+    {
+      "name": "button_ok",
+      "value": "Mayli"
+    },
+    {
+      "name": "button_publish",
+      "value": "Chop etish"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Xato haqida xabar berish"
+    },
+    {
+      "name": "button_skip",
+      "value": "Oʻtkazib yuborish"
+    },
+    {
+      "name": "cancel",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Tozalash"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Yopish"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Yangilanmoqda..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Tavsif qoʻshish"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 uchun maqola tavsifi"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Kirishni tahrirlash"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Maqola tavsifini tahrirlash"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Tavsifni chop etish"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Tahrir tavsifi"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Haqida"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Vikimaʼlumotlar haqida"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Batafsil maʼlumot"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo Da Vinci chizgan surat"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Misol uchun:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Bajarildi"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Tahrirlashni boshlash"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Kimdan:"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Kimga:"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Koʻrsatish"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Yashirish"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "pastga"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "tepaga"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 ta qator}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 ta boʻlim}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 bayt qoʻshildi|\\$1 bayt qoʻshildi}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 bayt olib tashlandi}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Tahrir izohi"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Kirish"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Qator \\$1"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'Tashakkur' bildirish uchun tizimga kiring"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'Tashakkur' bildirish"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Tahrirlash"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Bu kichik tahrir"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Grammatikani tuzatdim"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Xatoni tuzatdim"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Qoʻshilgan havolalar"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Bu sahifani kuzatish"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Ovozingiz muhimdir"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Natija topilmadi"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Vikipediyadan"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Vikipediyadan"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Moslash"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Vikipediyada bugun"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Koʻp oʻqilayotgan"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Vikipediyada"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Vikipediya"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Joylar"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Vikipediyadan"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Vikipediyadan"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Joylashuvingiz"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Kun tasviri"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Vikiombordan"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Tasodifiy maqola"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Vikipediyadan"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Vikipediyadan"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Tasodifiy tartibda"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 Vikipediyadan"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Vikipediyadan"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Yaroqsiz CAPTCHA"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Yaroqsiz kod"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA matni"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "misol@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-pochta"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "yangi parolni kiriting"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Yangi parol"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Parolni tasdiqlash"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "parolni kiriting"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Parol"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Tasdiqlash kodi"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "foydalanuvchi nomini kiriting"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Foydalanuvchi nomi"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Topish va almashtirish"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Topish"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Tozalash"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Yoki"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Barcha soʻnggi elementlarni oʻchirib tashlaysizmi?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ha, barini"
+    },
+    {
+      "name": "history_title",
+      "value": "Tarix"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Tasodifiy maqola"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Muallif noʼmalum."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 Vikipediyadan"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Vikipediyadan"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Yangiliklar"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Izoh"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Markaz"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Chap"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Hech qaysi"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Oʻng"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Batafsil maʼlumot"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Sukut boʻyicha"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": " piksel"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Tasvir oʻlchami"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tasvir turi"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Tillar"
+    },
+    {
+      "name": "languages_title",
+      "value": "Tilni oʻzgartirish"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Kirmasdan turib davom ettirish"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Vikipediyaga qoʻshilish"
+    },
+    {
+      "name": "login_title",
+      "value": "Hisobingizga kirish"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Ilova haqida"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Kirmoq"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Chiqish"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Chiqmoqchi ekanligingizga ishonchingiz komilmi?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 sifatida kirdingiz"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Maxfiylik va shartlar"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Yaqin atrofda"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Maxfiylik siyosati"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Dasturni baholamoq"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Foydalanish shartlari"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Yana"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero TTS"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Vikipediyani 300 dan ortiq tillarda qidiring"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Til qoʻshish"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Ko‘rib chiqish"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 fut"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milya"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 dan"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Barchasi"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Mutolaa"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtrlar"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1ning foydalanuvchi sahifasiga oʻtish"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Vikimaʼlumotlar bandiga oʻtish"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Munozara sahifangizga oʻtish"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1dan kelgan xabarnoma"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Bajarildi"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Loyihalar"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Vikimedia loyihalari"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Vikipediyalar"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Oʻqilgan deb belgilash"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Oʻqilmagan deb belgilash"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Bildirishnoma sozlamalari"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 ta xabar}}"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Barchasi"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Barcha bildirishnomalar"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Mutolaa"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Tahriringiz qaytarilgan."
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Yangi e-pochta"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Xush kelibsiz!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Oʻqilgan deb belgilash"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Oʻqilmagan deb belgilash"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Batafsil"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Bildirishnomalar"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mlrd"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mln"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ming"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Bugun"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Solishtirish"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "kichik tahrirlar"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Muallif: \\$1"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Kichik tahrir"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Ushbu sahifani tahrirlash uchun yetarli huquqingiz yoʻq"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Bu sahifa himoyalangan"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtr"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Saqlangan maqolalar"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Koʻp oʻqilgan maqolalar"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Joylashuv yoqildi"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Yonida"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Joriy joylashuvingiz"
+    },
+    {
+      "name": "places_title",
+      "value": "Joylar"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Dasturni yaxshilash maqsadida sizning dasturni ishlatishingiz haqida maʼlumotlarni yig‘ishga Vikimediyaga ruxsat bering"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Tavsif"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Maqolalarni saralash"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Bugun|1=Kecha|\\$1 kun avval}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Soʻnggi marta|\\$1 soat avval}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h soat avval"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Soʻnggi marta|\\$1 soat avval}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Hozir|\\$1 daqiqa avval}}"
+    },
+    {
+      "name": "saved_title",
+      "value": "Saqlandi"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Vikipediyadan izlash"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Tozalash"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Vikipediyadan izlash"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Barcha oxirgi paytdagi qidiruvlar o‘chirib tashlansinmi?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Bu amalni bekor qilib boʻlmaydi!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Barchasini oʻchirish"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Soʻnggi qidirishlar"
+    },
+    {
+      "name": "search_title",
+      "value": "Qidirish"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Bekor qilish"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Keshni tozalash"
+    },
+    {
+      "name": "settings_title",
+      "value": "Sozlamalar"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Mundarija"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Qora"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Toʻq qora"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Sukut boʻyicha"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Och rang"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Vikipediya ko'ngillilar tomonidan hamkorlikda yozilgan va 300 dan ortiq tillarda 40 milliondan ortiq maqolalardan iborat."
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300 dan ortiq tillarda qidirish"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Saqlanmoqda..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Foydalanish shartlari"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s Vikipediyadan"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Vikipediyada"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Vikiombordan"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s uchun maqola tavsifi"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

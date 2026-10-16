@@ -1,0 +1,668 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ವಿಕಿಪೀಡಿಯ"
+    },
+    {
+      "name": "about_content_license",
+      "value": "ಪರವಾನಿಗೆತಾ ವಿಸಯ"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ಕಾನಿಕೆ ಕೊರ್ನಾರ್"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "ಮಾಂತಾ ಪಟ್ಟಿ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ಪರವಾನಿಗೆ"
+    },
+    {
+      "name": "about_title",
+      "value": "ಎಂಕ್ಲೆನ ಬಗ್ಗೆ"
+    },
+    {
+      "name": "about_translators",
+      "value": "ಅನುವಾದಕೆರ್"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಷನ್"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯ"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ಲಾಗಿನ್ ಆಲೆ"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "ಇರ್ ಲಾಗ್‌ಇನ್ ಅವೊಂತುಲ್ಲಾರ್..."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ಪ್ರವೇಸೊ ಪದ ಜೋಡಿ ಅಪೂಜಿ."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "ಓರಿಪವೊಂತುಂಡು..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ಪೊಸ ಖಾತೆ ಸುರು ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "ಪಾತೆರ ಪುಟೊ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ವಜಾ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "action_read",
+      "value": "ಓದ್‍ಲೆ"
+    },
+    {
+      "name": "action_redo",
+      "value": "ಕುಡಮಲ್ಪಿ"
+    },
+    {
+      "name": "action_remove",
+      "value": "ದೆಪ್ಪುಲೆ"
+    },
+    {
+      "name": "action_save",
+      "value": "ಒರಿಪಾಲೆ"
+    },
+    {
+      "name": "action_saved",
+      "value": "ಒರಿಪಾಂಡ್"
+    },
+    {
+      "name": "action_share",
+      "value": "ಪಟ್ಟ್‍ಲೆ"
+    },
+    {
+      "name": "action_undo",
+      "value": "ದುಂಬುದಲೆಕೊ"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ಒರಿಪಾತುಜ್ಜಿ"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "ದೆತ್ತ್ ಪಾಡ್ಲೆ"
+    },
+    {
+      "name": "article_delete",
+      "value": "ಮಾಜಾಲೆ"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ಬಾಸೆನ್ ನಾಡ್ಲೇ"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ಬಾಸೆನ್ ಆಯ್ಕೆ ಮಲ್ತೊನ್ಲೆ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ಬೇತೆ ಬಾಸೆಲೆಡ್"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ಇರೆನಾ ಬಾಸೆಲು"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ನನಾತ್ ಓದುಲೆ"
+    },
+    {
+      "name": "article_share",
+      "value": "ಪಟ್ಟ್‍ಲೆ"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ಪಿರ"
+    },
+    {
+      "name": "button_next",
+      "value": "ನನತಾ"
+    },
+    {
+      "name": "button_ok",
+      "value": "ಸರಿ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ಪ್ರಕಟ ಮಾನ್ಪುಲೆ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ತೊಂದರೆನ್ ತೆರಿಪಾಲೆ"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "ಬುಕ್ಕ ಒರಿಪಾಲೆ"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "ಬುಕ್ಕ ಒರಿಪಾಪುಂಡು"
+    },
+    {
+      "name": "cancel",
+      "value": "ವಜಾ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ಮುಚ್ಚಿಲೆ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 ಗಂಟೆಗ್"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "ಮಾಜಾಪುನೆನ್ ಖಚಿತಪಡಿಸಲೆ"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "ಸ್ಥಳೀಯ ಇತಿಹಾಸೊನು ದೆತ್ತ್ ಪಾಡ್ದೆರ್"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ಆಂಡ್"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "ಸ್ಥಳೀಯ ದಾನ ಇತಿಹಾಸೊನು ಮಾಜಾವೊಡು"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "ಕೊಂಡಿ"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "ಸಂಪೊಲಿಪುಲೆ"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "ಎಲ್ಯ ಸಂಪಾದಲೆನ ಬಗ್ಗೆ ಎಚ್ಚ ಕಲ್ಪುಲೆ."
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ಉಂದು ಎಲ್ಯ ಬದಲಾವಣೆ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ವ್ಯಾಕರಣ ಸರಿ ಅಂಡ್"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ಕೊಂಡಿ ಸೇರ್ಸಾನ್ಡ್"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "ವಾ ನಮೂಡೆಡ್ ಲೇಖನೊನ್ ಎಡ್ಡೆ ಮಲ್ತರ್?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "ವೀಕ್ಷಣ ಪಟ್ಟಿಲೆನ ಬಗ್ಗೆ ಎಚ್ಚ ಕಲ್ಪುಲೆ."
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ಈ ಪುಟೊನು ತೂಲೆ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "ಮಾಪು ಮಾನ್ಪುಲೇ, ಲೇಕನೋ ದಿಂಜೊಂತ್ತಿಜ್ಜಿ"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "ಇರ್ ಒರಿಪಾಯಿನ ಪುಟೋನ್ ಓದೋಲಿ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ಒವ್ವೆ ವಿಚಾರೊಲ್ ತಿಕೀಜಿ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ಅಪ್"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ಅನ್"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ಅನ್"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "ನೆತ್ತ \\$1"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ವಿಕಿಪೀಡಿಯಾಡ್ ಇನಿ"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ಮಸ್ತ್ ಓದುನವೂ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ಜಾಗೆಲು"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ವಿಕಿಪೀಡಿಯ."
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ಇರ್ ಉಪ್ಪುನಾ ಜಾಗೋ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "ದಿನೊತ್ತಾ ಪೆಟೊ"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA ಸರಿ ಒಂದುಜೀ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ಪ್ರವೇಸೊ ಪದ ಜೋಡಿ ಅಪೂಜಿ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ಬಳಕೆದಾರೋ ಪುದರ್ ತಿಕೊಂತಿಜ್ಜಿ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA ಪದೋ"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ಇ-ಅಂಚೆ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ಇಮೈಲ್ (ಇಚ್ಛೆ ಇತುಂಡ ಮಾತ್ರೋ)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ನಾನೊರ ಪ್ರವೇಸೋ ಪದ ಬರೆಲೆ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "ಪೊಸ ಪ್ರವೇಸೊ ಪದೊನು ದೃಡೊ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "ಪೊಸ ಪ್ರವೇಸೊ ಪದೊನ್ ಬರೆಲೆ"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ಪೊಸ ಪ್ರವೇಸೊಪದ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ನಾನೊರ ಪ್ರವೇಸೋ ಪದ ಬರೆಲೆ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ಪ್ರವೇಸೊ ಪದೊನು ದೃಡೊ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ಪ್ರವೇಸೊ ಪದೊನ್ ಬರೆಲೆ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ಪ್ರವೇಶ ಪದೊ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ಸದಸ್ಯ ಪುದರ್ ಬರೆಲೆ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ಬಳಕೆದಾರೆರೆಪುದರ್"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "ಪಿರ ಸರಿಮಾನ್ಪಿ"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ಪ್ರವೇಸೊ ಪದೊನ್ ಪಿರ ಸ್ತಾಪನೆ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ಅತ್ತಂಡಾ"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ಅಂದ್, ಮಾನ್ತೆನ್ಲ ವಜಾ ಮಾನ್ಪಿ"
+    },
+    {
+      "name": "history_title",
+      "value": "ಇತಿಹಾಸೊ"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 ನೆನ್ನ ಲೆಕೋ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ಒಟ್ಟಾರೆ ಲೇಖನೊಲು"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ವಿಕಿಪೀಡಿಯಟ್ ನಾಡ್ಲೇ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ಬಾಸೆಲು"
+    },
+    {
+      "name": "languages_title",
+      "value": "ಬಾಸೆ ಬದಲ್ ಮಾನ್ಪಿ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯ ಬಾಸೆ"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "ಪ್ರವೇಶ ಮಲ್ಪಂದೆ ದುಂಬರಿಲೆ"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "ಇರೆನ ಖಾತೆಗ್ ಕುಡಾ ಪ್ರವೇಶ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "ಇರೆನ ಖಾತೆನ್ ಸತ್ಯಾಪನೆ ಮಲ್ಪುನಗ ಒಂಜಿ ಸಮಸ್ಯೆ ಎದುರಾಂಡ್.ಇರೆನ ಓದುಲೆನ ಪಟ್ಟಿ ಬುಕ್ಕೊ ಸಂಪಾದಕ ಕಾರ್ಯೊಲೆನ್ ಇರೆನ ಬಳಕೆದಾರ ಪುದರುದ ಅಡಿಟ್ ಸರಿ ಗೋಡಿಯಾವರೆಗಾದ್ ದಯಮಲ್ತ್'ದ್ ಈರ್ ಕುಡಾ ಪ್ರವೇಶ ಮಲ್ಪುಲೆ."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "ಇರೆನ ಪ್ರವೇಶ ನಿರ್ಗಮನ ಆತ್ಂಡ್"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "ಈರೆನೆ ಪ್ರವೇಸೊ ಪದೊ ಮರತ್ತ್‌ಂಡಾ?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ವಿಕಿಪಿಡಿಯಾಗ್ ಸೇರ್ಲೆ."
+    },
+    {
+      "name": "login_no_account",
+      "value": "ಈರೆನ ಖಾತೆ ಇಜ್ಜೇ? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "ಇರೇನಾ ಖಾತೆಗ್ ಲಾಗಿನ್ ಅಲೇ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ಆಪ್ ತಾ ಬಗ್ಗೆ"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ಲಾಗಿನ್ ಆಲೆ"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ಲಾಗ್ ಔಟ್"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ಒಂಜೆ ನಮೂನೆತಾ"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "ಕಾಸಗಿ ಕಾರ್ಯೊನೀತಿ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Rate the app"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ಗಳಸುನಾ ನಿಬಂದೊಲು"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ನನಾತ್"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ವಿಕಿಪೀಡಿಯ ಜಿರೋತಾ FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ಬೇತೆ ಬಾಸೆತ ೩೦೦ ವಿಕಿಪೀಡಿಯೊನ್ ನಾಡುಲೆ."
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ಬಾಸೆನ್ ಸೇರ್ಪಾಲೆ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "ಮುನ್ನೋಟೊ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ಪೀಟ್"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ಮೈಲ್"
+    },
+    {
+      "name": "new_password_title",
+      "value": "ಪ್ರವೇಸೊ ಪದೊನ್ ಬರೆಲೆ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ಆಂಡ್"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "ನೆತ್ತ್ \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ಇ ದಿನೋ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ಈ ಪುಟನ್ ಜಾಗ್ರತೆಡ್ ಡಿತುಂಡು"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 ಲೆಕನೋಲು"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "ನನತ್ ಲೇಕನೋಲೆನ್ ತೊಜಾಲೆ"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "ಇ ದಿನೊತ್ತಾ ಪೆಟೊ"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "ಪ್ರೊಫೈಲ್ ವೀಕ್ಷಣೆಗ್ ನ್ಯಾವಿಗೇಟ್ ಮಲ್ಪುಂಡು."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "ವಿವರೊ"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "ಓದಂದಿನ ಬ್ಯಾಡ್ಜ್ ಇಪ್ಪುನ ಪ್ರೊಫೈಲ್"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "ಅತ್ತ್ಂಡ ವಿಕಿಪೀಡಿಯನ್ ಉಚಿತವಾದ್ ಬೊಕ್ಕ ಜಗತ್ತ್ ದ ಪ್ರತಿಯೊಬ್ಬೆರೆಗ್ಲಾ ಲಭ್ಯವಾದ್ ದೀಯೆರೆ ಒಂಜಿ ದಾನೊಡು ಸಪೋರ್ಟ್ ಮಲ್ಪುಲೆ."
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "ನಿಕ್ಲೆನ ಕೊಡುಗೆಲೆನ್ ಟ್ರ್ಯಾಕ್ ಮಲ್ಪರೆ, ಲೇಖನೊಲೆನ್ ಆಫ್ಲೈನ್ ಡ್ ಉಳಾಯೆರೆ ಬೊಕ್ಕ ಸಾಧನೊಲೆಡ್ ಸಿಂಕ್ ಮಲ್ಪರೆ ಒಂಜಿ ವಿಕಿಪೀಡಿಯ ಖಾತೆಗ್ ಸೈನ್ ಅಪ್ ಮಲ್ಪುಲೆ."
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "ವಿಕಿಪೀಡಿಯೊಗು ಸೇರ್ಲೆ / ಲಾಗ್ ಇನ್ ಮಲ್ಪುಲೆ"
+    },
+    {
+      "name": "saved_title",
+      "value": "ಒರಿಪಾಂಡ್"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ವಿಕಿಪೀಡಿಯಟ್ ನಾಡ್ಲೇ"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ಇಂಚಿಪಾ ನಾಡ್ನ್ ನೆನ್ ಮಾಜಾವೊಡಾ?"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ಮಾಂತಾ ಮಾಜಾಲೆ"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ಇನ್ಚಿಪ ನಡ್ನವು"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 ರ್ದ್ ಪಿರ ನಿರ್ದೇಸನೊ"
+    },
+    {
+      "name": "search_title",
+      "value": "ನಾಡ್ಲೆ"
+    },
+    {
+      "name": "settings_donate",
+      "value": "ದಾನೊ"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "ನಾಡುನಾ ಬಾಸೆಲೆನ್ ತೋಜಾಲೆ"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ಯೆನ್ನ ಬಾಸೆಳು"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "ಸೂಚನೆಲು"
+    },
+    {
+      "name": "settings_title",
+      "value": "ಸಂಯೋಜನೆಲು"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" on @ವಿಕಿಪೀಡಿಯಾ:"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "ವಿಕಿಪೀಡಿಯ ಒಟ್ಟುಗೂ @"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "ನಕಾಶೆಡ್ ತೊಜಾಲೆ"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "ಪರಿವಿಡಿ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ಮುಚ್ಚಿಲೆ"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "ವಿಸಯೊಳು"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 ಓದುನಗ್‌ಲ್"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "ಲಾಗಿನ್ ಅದ್ ಮುಂದುವರಿಲೆ"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "ಇರೇನಾ ಖಾತೆಗ್ ಲಾಗಿನ್ ಅಲೇ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "ಸುರು ಮಾನ್ಪುಲೆ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "ಗೊತ್ತಂಡಾ"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "ನನೊಂಜಿ ಬಾಸೆನ್ ಸೇರ್ಸಲೇ"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "ಬದಲಾವಣೆಲೆನ್ ಒರಿಪಾಲೆ"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "ಓರಿಪವೊಂತುಂಡು..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "ಬಳಕೆದ ನಿಬಂದೊಲು"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "ದಾನೊ"
+    }
+  ]
+}

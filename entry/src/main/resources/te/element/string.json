@@ -1,0 +1,3120 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "వికీపీడియా"
+    },
+    {
+      "name": "about_content_license",
+      "value": "విషయపు లైసెన్సు"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "ప్రత్యేకంగా చెప్పకపోతే, కంటెంటు \\$1 కింద లభ్యం."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike లైసెన్సు"
+    },
+    {
+      "name": "about_contributors",
+      "value": "రచయితలు"
+    },
+    {
+      "name": "about_libraries",
+      "value": "వాడిన లైబ్రరీలు"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "పూర్తి జాబితా"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "లైసెన్సు"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "మాకు ఓపెన్ సోర్సు సాఫ్టువేరు అంటే ప్రేమ \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "స్థలాల మ్యాపుల లైసెన్సు"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "లైసెన్సు వివరాల కోసం ఇక్కడ చూడండి"
+    },
+    {
+      "name": "about_product_of",
+      "value": "మీవంటి స్వచ్ఛంద కార్యకర్తల తోడ్పాటుతో \\$1 నిర్మించారు"
+    },
+    {
+      "name": "about_repositories",
+      "value": "రిపాజిటరీలు"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "\\$1 కింద సోర్సు కోడు లభ్యం."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT లైసెన్సు"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "యాప్‌పై ఫీడ్‌బ్యాకును పంపించండి"
+    },
+    {
+      "name": "about_title",
+      "value": "గురించి"
+    },
+    {
+      "name": "about_translators",
+      "value": "అనువాదకులు"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 లో స్వచ్ఛంద కార్యకర్తలు అనువదించారు"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "వికీమీడియా ఫౌండేషన్"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "వికీపీడియా"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "బొమ్మ కనబడ్డం లేదా? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "కొత్త CAPTCHA తెస్తున్నాం..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ఖాతాను అభ్యర్ధించండి."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA భద్రతా తనిఖీ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "మీ ఖాతాను సృష్టించుకోండి"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ఇప్పటికే ఖాతా ఉందా? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "లాగినవండి."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "ప్రవేశిస్తున్నారు..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "ఖాతా సృష్టించుకోడానికి ఓ వాడుకరిపేరు, సంకేతపదం, సంకేతపదం నిర్థారణ ఇవ్వాలి."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "సంకేతపదం క్షేత్రాలు సరిపోలలేదు."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "భద్రపరుస్తున్నాము..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "కొత్త ఖాతా సృష్టించుకోండి"
+    },
+    {
+      "name": "account_group_title",
+      "value": "మీ ఖాతా"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "మీ చర్చా పేజీ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "ఆటోమాటిగ్గా సంతకం చేసే చర్చలు"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "ఆటోమాటిగ్గా సంతకం చేసే చర్చల్లో సంతకం అమరికల్లో నిర్వచించిన సంతకాన్ని వాడతాం"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "చర్చ పేజీ అభిరుచులు"
+    },
+    {
+      "name": "action_add_to",
+      "value": "దీనికి చేర్చు..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "చదివే జాబితా లోకి చేర్చు"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "జాబితాకి చేర్చు"
+    },
+    {
+      "name": "action_cancel",
+      "value": "రద్దుచేయి"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "సవరణలను తోసిపుచ్చండి"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "పేజీలో వెతుకు"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "భాషను మార్చు"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ఇక్కడికి తరలించు..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "చదివే జాబితా లోకి తరలించు"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "తరువాతి కూర్పు"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "మునుపటి కూర్పు"
+    },
+    {
+      "name": "action_read",
+      "value": "చదవండి"
+    },
+    {
+      "name": "action_redo",
+      "value": "మళ్ళీ చెయ్యి"
+    },
+    {
+      "name": "action_remove",
+      "value": "తీసివెయ్యి"
+    },
+    {
+      "name": "action_retry",
+      "value": "మళ్ళీ ప్రయత్నించు"
+    },
+    {
+      "name": "action_save",
+      "value": "భద్రపరచు"
+    },
+    {
+      "name": "action_saved",
+      "value": "భద్రపరచబడింది"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "భద్రపరచాం. రద్దు చేసేందుకు చేతన్ం చెయ్యండి."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "తరువాత చదివేందుకు వ్యాసాన్ని భద్రపరచాం"
+    },
+    {
+      "name": "action_share",
+      "value": "పంచుకోండి"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "పంచుకో"
+    },
+    {
+      "name": "action_sort",
+      "value": "పేర్చు"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "వాడుకరికి ధన్యవాదాలు పంపండి"
+    },
+    {
+      "name": "action_undo",
+      "value": "రద్దు చెయ్యి"
+    },
+    {
+      "name": "action_unsave",
+      "value": "భద్రపరచడాన్ని రద్దు చెయ్యి"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "వ్యాసం భద్రపరచడాన్ని రద్దు చేసాం"
+    },
+    {
+      "name": "action_update",
+      "value": "తాజాకరించు"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 వ్యాసాన్ని|\\$1 వ్యాసాలను}} చదివే జాబితాకు చేర్చు"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "తీసివేయి"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "వికీపీడియా, మూలం, వికీ, విజ్ఞానసర్వస్వం, విజ్ఞానం, పరిశోధన, సమాచారం, శోధన, నేర్చుకోవడం"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "స్వేచ్ఛా విజ్ఞానసర్వస్వం"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "వ్యాసపు పాఠ్యం సైజును మార్చు"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "పట్టికలను విస్తరించు"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "అన్ని వ్యాసాల్లోనూ సత్వర వాస్తవాలు, మూలాలు, గమనికలు, బయటి లింకులతో సహా పట్టికలన్నిటినీ డిఫాల్టుగా విస్తరించు"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "చీకటి, నల్లటి థీముల్లో బొమ్మల అపారదర్శకతను తగ్గించు"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "చదివే థీములు"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "పట్టిక అమరికలు"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "వ్యాసంలో పాఠ్యపు సైజును మార్చేందుకు స్లైడరును లాగండి. యాప్‌లో ఇతర ప్రదేశాల్లోని పాఠ్యపు సైజును మార్చేందుకు మీ సిస్టము పాఠ్యం సైజును మార్చుకోండి"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "అలంకారపు ఎంపికలు"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ఈ వ్యాసం గురించి"
+    },
+    {
+      "name": "article_delete",
+      "value": "తొలగింపు"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|వ్యాసాన్ని|వ్యాసాలను}} తొలగించారు"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "భాషను వెతకండి"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "భాషని ఎంచుకోండి"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ఇతర భాషలు"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "మీ భాషలు"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ఇంకా చదవండి"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "మూలం \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ఈ వ్యాసాన్ని భద్రపరచుకునేందుకు మీ డివైసులో తగినంత స్థలం లేదు"
+    },
+    {
+      "name": "article_share",
+      "value": "పంచుకోండి"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "చదివే థీముల కంట్రోళ్ళు"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "వెనుకకు"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "వెనక్కెళ్ళేందుకు తట్టండి"
+    },
+    {
+      "name": "button_go_back",
+      "value": "వెనక్కి వెళ్ళు"
+    },
+    {
+      "name": "button_next",
+      "value": "తదుపరి"
+    },
+    {
+      "name": "button_ok",
+      "value": "సరే"
+    },
+    {
+      "name": "button_publish",
+      "value": "ప్రచురించు"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ఏదేమైనప్పటికీ ప్రచురించు"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ఒక దోషాన్ని నివేదించండి"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "తరువాత చదివేందుకు భద్రపరచండి"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "తరువాత చదివేందుకు భద్రపరచాం"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "భద్రపరచిన వాటి లోంచి తీసివెయ్యి"
+    },
+    {
+      "name": "button_skip",
+      "value": "దాటవేయి"
+    },
+    {
+      "name": "cancel",
+      "value": "రద్దుచేయి"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "తుడిచివేయి"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "మూసివేయి"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 గంటల స్థానంలో"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "మరిన్ని వ్యాసాలకు చదివేందుకు వికీపీడియాలో శోధించండి"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ఇటీవల చదివిన వ్యాసాలు ఏమీ లేవు"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "తాజాకరిస్తున్నాం..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "వివరణ చేర్చు"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 కి వ్యాసానికి వివరణ చేర్చండి"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "వ్యాస వివరణ మార్చుతూ, నేను \\$1 కూ, \\$2 లైసెన్సు కింద నా రచనలను తిరిగి వెనక్కి తీసుకోలేని విధంగా విడుదల చేసేందుకూ అంగీకరిస్తున్నాను."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "ప్రవేశికను మార్చు"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "వ్యాస వివరణను సవరించు"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "క్లుప్త వివరణలు అత్యుత్తమం"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "వివరణను ప్రచురించు"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "వివరణను సవరించు"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "వ్యాస విషయాన్ని వాడుకరులు చటుక్కున అర్థం చేసుకునేందుకు వీలుగా వివరణలను క్లుప్తంగా ఉంచండి"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "వ్యాస వివరణలు, వ్యాస విషయం పాఠకులకు చటుక్కున అర్థమయ్యేలా సారాంశం ఇస్తాయి."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "గురించి"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "వికీపీడియా గురించి"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "మరింత సమాచారం"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "లియోనార్డో డా విన్సీ వేసిన చిత్రం"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "భూమ్మీద అత్యంత ఎత్తైన పర్వతం"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ఉదాహరణకు:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "వివరణలను సృష్టించేందుకు చిట్కాలు"
+    },
+    {
+      "name": "description_help_title",
+      "value": "వ్యాస వివరణ సహాయం"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "వివరణలు రాసేందుకు వికీడేటా మార్గదర్శిని"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "పూర్తయ్యింది"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "ఇప్పుడే మీరు వికీపీడియాను మెరుగుపరచారు"
+    },
+    {
+      "name": "description_published_title",
+      "value": "వివరణను ప్రచురించాం!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "పదీ పన్నెండు పదాలతో, ఒకే వరుసలో ఉంటే బాగుంటుంది."
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "చిన్నదిగా రాయండి"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "వ్యాస విషయం పాఠకులకు ఠక్కున అర్థమయ్యేలా వ్యాస సారాంశం ఇవ్వండి."
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "వ్యాస వివరణలు"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "ఈ అంశాన్ని దురుపయోగం చెయ్యనని మాటిస్తూ మొదలెడుతున్నాను."
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "దిద్దుబాటు మొదలు పెట్టండి"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "నుండి:"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "కూర్పులను పోల్చు"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "వరకు:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "కూర్పులను పోల్చు"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "చూపించు"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "దాచు"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "పంక్తులు \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "పేరాగ్రాఫును తరలించారు"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "క్రిందికి"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "పైకి"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 వరుస|\\$1 వరుసలు}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 విభాగం|\\$1 విభాగాలు}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "పేరాగ్రాఫు \\$2 \\$1 తరలించారు"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "కూర్పును లోడు చెయ్యలేక పోతున్నాం"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 దిద్దుబాటు|\\$1 దిద్దుబాట్లు}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "ఎడిటరు సమాచారం"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 బైటు చేర్చారు|\\$1 బైట్లు చేర్చారు}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 బైటు తీసేసారు|\\$1 బైట్లు తీసేసారు}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "దిద్దుబాటు సారాంశం"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "పరిచయం"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "పంక్తి \\$1:"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "అజ్ఞాత వాడుకరులకు ధన్యవాదాలు చెప్పజాలరు"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "వికీపీడియాలో ఓ ఎడిటరు కృషిని మెచ్చుకునే సులువైన మార్గం 'ధన్యవాదాలు'. 'ధన్యవాదాలు' పంపాలంటే మీరు లాగినై ఉండాలి."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'ధన్యవాదాలు' పంపేందుకు లాగినవండి"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'ధన్యవాదాలు' పంపించు"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "వికీపీడియాలో ఒక వాడుకరి చేసిన దిద్దుబాటును మెచ్చుకోవడానికి 'ధన్యవాదాలు' చెప్పడం ఒక మార్గం. 'ధన్యవాదాలు' బహిరంగంగా కనిపిస్తాయి, ఒకసారి చెప్పాక వెనక్కి తీసుకోలేరు"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "బహిరంగంగా 'ధన్యవాదాలు' పంపండి"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "మీ 'ధన్యవాదాలను' \\$1 కు పంపించాం"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "ఈ దిద్దుబాటుకు ఈసరికే 'ధన్యవాదాలు' పంపించారు"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "పంపిన ధన్యవాదాలను వెనక్కి తీసుకోలేరు"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 పంక్తిని సవరించలేదు|\\$1 పంక్తులను సవరించలేదు}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "బొమ్మలను డిమ్ము చెయ్యి"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "చూపించే పాఠ్యం"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "లంకె లక్ష్యం"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "లంకెను తొలగించు"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "లింకును సవరించండి"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "మార్చు"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "బహుశా మీరు ఎంచుకున్న పాఠ్యం సవరించలేనిది కావచ్చు (వ్యాస శీర్షిక, సమాచారపెట్టె శీర్షిక వంటివి), లేదా ఎంచుకున్న పాఠ్యం నిడివి బాగా పెద్దది కావచ్చు"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "మీరు ఎంచుకున్న పాఠ్యం ఎక్కడుందో కనుక్కోలేక పోయాం"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "చిన్న మార్పుల గురించి మరింత తెలుసుకోండి"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ఇదొక చిన్న దిద్దుబాటు"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "దిద్దుబాటు సారాంశం రాయండి"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "వ్యాకరణం సరిచేసాను"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "అచ్చుతప్పులు సరిచేసాను"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "లింకులు చేర్చాను"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "వ్యాసాన్ని మీరు ఎలా మెరుగుపరచారు?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "వీక్షణ జాబితాల గురించి మరింత తెలుసుకోండి"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ఈ పేజీ మీద కన్నేసి ఉంచు"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "వ్యాసాలను తాజాకరించడంలో చొరవ తీసుకోండి, కానీ నిర్లక్ష్యంగా ఉండొద్దు. తప్పు చేస్తానేమో అని మరీ ఆందోళనేమీ పడకండి: పాత కూర్పులు ప్రతీ ఒక్కదాన్నీ భద్రపరుస్తూంటాం. అంచేత తప్పులేమైనా జరిగినా సముదాయ సభ్యులు చాలా తేలిగ్గా సవరించేస్తారు."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "మీ గొంతు ముఖ్యం"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "కంటెంటు అంతా నిర్థారించుకోగలిగేలా ఉండాలి. వ్యాసంలో కొత్త సమాచారం చేర్చేటపుడు, ఆ సమాచారానికి మద్దతుగా నిలిచే విశ్వసనీయమైన ఆధారాన్ని ఆ సమాచారం పక్కనే ఉల్లేఖించాలి."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "విశ్వసనీయమైన వనరులను ఉల్లేఖించండి"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "వ్యాసాలు నిష్పాక్షిక ధోరణలో ఉండేందుకు మేం శ్రమిస్తాం. దిద్దుబాటు చేసేటపుడు, విశ్వసనీయ మూలాలు ఎలా వివరిస్తాయో అలా వివరించండి."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "నిష్పాక్షిక ధోరణిలో రాయండి"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "విజ్ఞానానికి స్వేచ్ఛ నివ్వండి"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "ప్రచురించకుండానే దిద్దుబాటు స్థితి నుండి వెళ్ళిపోవాలని నిశ్చయించుకున్నారా?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "దిద్దుబాటు స్థితి నుండి వెళ్ళిపోతారా?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "కూర్పుల మధ్య తేడాలేమీ లేవు"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "కనబడే మార్పులేమీ చెయ్యలేదు"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "వికీమీడియా కామన్సు నుండి ఓ దస్త్రాన్ని ఎంచుకోండి"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "సారీ, ఆ వ్యాసాన్ని లోడు చెయ్యలేక పోయాం"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "అయినప్పటికీ మీరు భద్రపరచిన పేజీలను చదవవచ్చు"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "మీకు ఇంటర్నెట్ అందుబాటు లోకి వచ్చినపుడు మీకు సూచించిన వ్యాసాలను చూడవచ్చు"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ఇక్కడ మీరు చదివుతున్నవాటిని గమనిస్తూ ఉండండి"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "చూపేందుకు చరిత్రేమీ లేదు"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "ఈ వ్యాసం మరే ఇతర భాష లోనూ ఇంకా రాయలేదు"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ఇంకా భాషలేమీ లేవు"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "చూడాల్సిన ప్రదేశాలుగా, అభిమాన టాపిక్కులుగా, ఇంకా అనేక ఇతర రకాలుగా జాబితాలను సృష్టించుకోండి"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "భద్రపరచుకున్న వ్యాసాలను చదివే జాబితాలుగా అమర్చుకోండి"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "పేజీలను ఈ జాబితాలో భద్రపరచుకుంటే ఇక్కడ కనిపిస్తాయి"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ఈ జాబితాలో పేజీలేమీ భద్రపరచలేదు"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "పేజీలను తరువాత చూసేలా, ఆఫ్‌లైనులో కూడా చూసేలా, భద్రపరచుకోండి"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ఇంకా భద్రపరచిన పేజీలు ఏమీ లేవు"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ఫలితాలేమీ కనబడలేదు"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ఈ వాడుకరికి ఇంకా సందేశాలేమీ పంపలేదు"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "తరువాత మళ్ళీ ప్రయత్నించండి"
+    },
+    {
+      "name": "error_unknown",
+      "value": "ఏదో తెలియని లోపం దొర్లింది"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "మరో యాదృచ్ఛిక వ్యాసం"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "మీరివి చదివారు కాబట్టి"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "సంబంధిత అదనపు వ్యాసాలు"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "చదవడం కొనసాగించండి"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "తిరిగి శోధన ఫీడుకు"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "మీ స్థానానికి దగ్గర్లోని వ్యాసాలను శోధించండి"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "విశేష వ్యాసం"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "కస్టమైజు చెయ్యండి"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "శోధన ఫీడు భాషా అమరికలు"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "'నా భాషలు' సెట్టింగుల పేజీలో అదనంగా భాషలను చేర్చవచ్చు"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "కార్డును దాచాం"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "తెరిచి ఉన్న వ్యాసాన్ని చదివేందుకు తీసుకెళ్ళే సత్వర లింకు"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "ఫీడ్‌ శోధనను కస్టమైజు చేసుకోండి"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "ఫీడ్‌ శోధనను కస్టమైజు చేసుకోండి"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "వికీపీడియాలో రోజూ వచ్చే విశేష వ్యాసం"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ఆఫ్"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "అన్నిటి లోను"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ఆన్"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 లలో"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "మొత్తం \\$1 కార్డులనూ దాచాం"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "ఈ కార్డు, భాషకు పరిమితమైనది కాదు. దాన్ని ఆఫ్ చేస్తే అది శోధన ఫీడు నుండి తొలగి పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "భాషతో సంబంధం లేని కార్డులు"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "భాషతో సంబంధం లేనిది"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "సార్వత్రిక కార్డులు"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ఈ కార్డును దాచు"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "మొత్తం “\\$1” కార్డులన్నిటినీ దాచు"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "వర్తమాన ఘటనలకు సంబంధించిన వ్యాసాలు"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "అన్ని భాషలకూ చెందిన శోధన ఫీడ్ కార్డులన్నిటినీ దాచేస్తే శోధన ట్యాబు ఆఫ్ అయిపోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "చరిత్రలో ఈ రోజు జరిగిన ఘటనలు"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "మీ స్థానానికి దగ్గరలో వికీపీడియా వ్యాసాలు"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "వికీమీడియా కామన్సు నుండి రోజువారీ విశేష చిత్రం"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "చదివేందుకు, యాదృచ్ఛిక వ్యాసాలను తయారు చెయ్యి"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "చదివిన చరిత్రను బట్టి సూచనలు"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "చదవడం కొనసాగించండి కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "విశేష వ్యాసం కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "విశేష వ్యాసాల కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "వార్తల్లో కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "వార్తల్లో కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "చరిత్రలో ఈ రోజు కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "చరిత్రలో ఈ రోజు కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "విశేష చిత్రం కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "స్థలాలు కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "స్థలాలు కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "ర్యాండమైజరు కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "ర్యాండమైజరు కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "మీరు చదివారు కాబట్టి కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "మీరు చదివారు కాబట్టి కార్డును ఆఫ్ చేస్తే అది ఉన్న అన్ని భాషల్లోనూ ఆ కార్డు ఆఫై పోతుంది."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "ఎక్కువ చదివిన కార్డును చూపించు"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "రోజువారీ అత్యధికంగా చూసిన వ్యాసాలు"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "శోధన ఫీడును ఆఫ్ చెయ్యి"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "శోధన ఫీడు కార్డులన్నిటినీ ఆఫ్ చేస్తే శోధన ట్యాబు ఆఫయి పోయి, దాని స్థానంలో సెట్టింగులు ట్యాబు వస్తుంది"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "శోధన ఫీడును ఆఫ్ చెయ్యాలా?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "శోధనను ఆఫ్ చెయ్యి"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "శోధన ట్యాబును తిరిగి శొధన ఫీడు సెట్టింగులకు వెళ్ళి ఆన్ చేసుకోవచ్చు"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "శోధన ట్యాబును ఆఫ్ చెయ్యాలా?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "శోధనను ఆన్ చెయ్యి"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "శోధన ట్యాబును ఆన్ చెయ్యాలా?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "ఈ కార్డును దాచు"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "వికీమీడియా ప్రాజెక్టుల మొదటి పేజీ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "వికీపీడియాలో నేడు"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "చదివిన మేటి వ్యాసాలన్నీ"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ఎక్కువగా చదివినవి"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 నాటి మేటి"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 వికీపీడియాలో"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "వికీపీడియాలో"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "చుట్టపక్కల ప్రాంతాలు"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ప్రదేశాలు"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "మీ స్థానం"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి మీ స్థానం"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "నేటి చిత్రం"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "వికీమీడియా కామన్సు నుండి"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "యాదృచ్ఛిక వ్యాసం"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ర్యాండమైజరు"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "ఈ తేదీకి విశేష వ్యాసమేమీ లేదు."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "వికీపీడియాలో రోజూ మా సముదాయం ఎంచిపెట్టే అత్యుత్తమ వ్యాసాలను చూడండి."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "వికీపీడియా నుండి"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "మీ ప్రాథమిక వికీపీడియా భాషలో విశేష వ్యాసం అంశం లేదు. మీ యాప్ సెట్టింగుల మెనూలో ప్రాథమిక వికీపీడియాను మార్చుకోవచ్చు."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "విశేష వ్యాసం"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "ఏదో తప్పు జరిగింది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "సర్వరు నుండి అనుకోని ప్రతిస్పందన వచ్చింది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "చెల్లని CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "సంకేతపదాలు సరిపోలడం లేదు"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "చెల్లని కోడ్"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "వాడుకరి పేరు అందుబాటులో లేదు"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "బ్యాకప్ కోడ్"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA పాఠ్యం"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "పైన కనిపిస్తున్న పాఠ్యాన్ని ఇవ్వండి"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ఈమెయిలు"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ఈమెయిలు (ఐచ్చికం)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "సంకేతపదం మళ్ళీ ఇవ్వండి"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "కొత్త సంకేతపదాన్ని నిర్ధారించండి"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "కొత్త సంకేతపదం ఇవ్వండి"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "కొత్త సంకేతపదం"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "సంకేతపదం మళ్ళీ ఇవ్వండి"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "సంకేతపదాన్ని నిర్ధారించండి"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "సంకేతపదం ఇవ్వండి"
+    },
+    {
+      "name": "field_password_title",
+      "value": "సంకేతపదం"
+    },
+    {
+      "name": "field_token_title",
+      "value": "నిర్థారణ కోడ్"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "వాడుకరిపేరు ఇవ్వండి"
+    },
+    {
+      "name": "field_username_title",
+      "value": "వాడుకరి పేరు"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "తరువాతి వెతుకులాట ఫలితం"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "మునుపటి వెతుకులాట ఫలితం"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "వెతికి, మార్చు"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "వెతుకు"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "రీసెట్ చెయ్యి"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "సంకేతపదాన్ని మార్చుకునే సూచనలతో ఈమెయిలు పంపించాం"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "సంకేతపదాన్ని మార్చు"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "లేదా"
+    },
+    {
+      "name": "games_wcf_explore_title",
+      "value": "ఏది మొదట వచ్చింది?"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "నిజంగానే మీ ఇటీవలి అంశాలన్నింటినీ తొలగించాలా?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "అవును, అన్నిటినీ తొలగించు"
+    },
+    {
+      "name": "history_title",
+      "value": "చరిత్ర"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "వికీపీడియా, తిరిగి శోధనకు"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "వికీపీడియా, తిరిగి భద్రపరచిన వాటికి"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 లాంటివి మరిన్ని"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "మీకు దగ్గర్లోని మరిన్ని స్థలాలు"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 కు దగ్గర్లోవి మరిన్ని"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "మరిన్ని వర్తమాన ఘటనలు"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "మీరు భద్రపరచిన వ్యాసాలను చదివే జాబితాలుగా అమర్చుకోవచు, వాటిని అన్ని డివైసుల్లోనూ సింకు చేసుకోవచ్చు. లాగినై, మీ అభిరుచుల్లో చదివే జాబితాలను భద్రపరచే అమరికను పెట్టుకోండి."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "అభిరుచులను నిర్వహించు"
+    },
+    {
+      "name": "home_title",
+      "value": "శోధించండి"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "చుట్టుపక్కల వ్యాసాలు"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "యాదృచ్ఛిక వ్యాసం"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "వికీపీడియాలో వెతకండి"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "గుర్తుతెలియని రచయిత."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 వికీపీడియా నుండి"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "వికీపీడియా నుండి"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "వార్తల్లో"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "చొప్పించు"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "లంకె చేర్చు"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ఈ బొమ్మను వివరించండి"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "ప్రత్యామ్నాయ పాఠ్యం"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ఈ బొమ్మకూ వ్యాసానికీ సంబంధం ఏమిటి?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "వ్యాఖ్య"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "మధ్య"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ఎడమ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ఏమీలేదు"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "కుడి"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "బొమ్మ స్థానం"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "మరింత సమాచారం"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "బొమ్మను ఎంచుకోండి"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "కస్టమ్"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "అప్రమేయం"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "బొమ్మ పరిమాణం"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ప్రాథమిక"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ఫ్రేము"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "బొమ్మ రకం"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "మీడియా అమరికలు"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "భాషలు"
+    },
+    {
+      "name": "languages_title",
+      "value": "భాష మార్పు"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "వికీపీడియా భాషలు"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "లాగినవకుండానే కొనసాగండి"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "మీ ఖాతాలోకి తిరిగి లాగినవండి"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "మీరు లాగౌటయ్యారు"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "సంకేతపదం మర్చిపోయారా?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "వికీపీడియాలో చేరండి."
+    },
+    {
+      "name": "login_no_account",
+      "value": "ఖాతా లేదా? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "మీ ఖాతాలోకి ప్రవేశించండి"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "యాప్ గురించి"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ప్రవేశించండి"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "నిష్క్రమించండి"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "లాగౌటవ్వాలనే నిశ్చయించుకున్నారా?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 గా లాగినయ్యారు"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "గోప్యత, నియమాలు"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "దగ్గరలో"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "గోప్యతా విధానం"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "యాప్‌కు రేటింగివ్వండి"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "వాడుక నియమాలు"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "మరింత"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "వికీపీడియా సున్నా ఎఫ్ఎక్యూ"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_short_updated",
+      "value": "2025 లో ఇంగ్లీషు వికీపీడియా చదవడానికి ప్రజలు దాదాపు 2.4 బిలియన్ల గంటలు - 275,000 సంవత్సరాలకు పైగా! - వెచ్చించారని అంచనా."
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "2025 లో ఇంగ్లీషు వికీపీడియా చదవడానికి ప్రజలు దాదాపు 2.4 బిలియన్ల గంటలు - 275,000 సంవత్సరాలకు పైగా - వెచ్చించారని అంచనా. మారుతున్న మన ప్రపంచం గురించి తెలుసుకోవాలనుకున్నప్పుడు, స్నేహితుల మధ్య పందెం గెలవాలనుకున్నప్పుడు లేదా ఆసక్తికరమైన పిల్లల ప్రశ్నకు సమాధానం చెప్పాలనుకున్నప్పుడూ వికీపీడియా తోడుగా ఉంటుంది."
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "వికీపీడియాను 300 భాషల్లో వెతకండి"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "భాషలను చేర్చు"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 వ్యాసాన్ని|\\$1 వ్యాసాలను}} చదివే జాబితాకు చేర్చు"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "మునుజూపు"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 అడుగు|\\$1 అడుగులు}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 కిమీ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 మీ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 మైళ్ళు"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "మీరు తాత్కాలిక సంకేతపదంతో లాగినయ్యారు. ఈ లాగిన్ను పూర్తి చేసేందుకు, కొత్త సంకేతపదాన్ని పెట్టుకోండి."
+    },
+    {
+      "name": "new_password_title",
+      "value": "సంకేతపదం పెట్టుకోండి"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "ఇంటర్నెట్ కనెక్షను లేదు"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 నుండి"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "గమనింపుల వడపోత - వడపోతలను వర్తింపజేసాం"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "ప్రాజెక్టుల వడపోత - వడపోతలను వర్తింపజేసాం"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 గమనింపు"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "సంకేతపదాన్ని మార్చుకోండి"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "గమనింపుల కోసం చూస్తున్నాం..."
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "జాలంలో"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "గమనింపుల కోసం చూస్తున్నాం..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "మీకు సందేశాలేమీ లేవు"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "మీరు ప్రస్తుతం వికీపీడియా గమనింపులు దేనికీ చందా కట్టలేదు"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "మరిన్ని సందేశాలు చూసేందుకు \\$1 ను మార్చండి"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "మరిన్ని సందేశాలు చూసేందుకు ప్రాజెక్టులను చేర్చండి"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 వడపోత|\\$1 వడపోతలు}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "పుష్ గమనింపులను ఆన్ చెయ్యి"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "గమనింపుల వడపోత"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "అన్నీ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "చదవండి"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "చదవనివి"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "చదివిన స్థితి"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "వడపోతలు"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "అన్ని రకాలు"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "గమనింపుల రకాలు"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "వ్యాసం"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 చర్చ పేజీ"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "తేడా"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 వాడుకరి పేజీ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "వికీడేటా అంశం"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "మీ చర్చ పేజీ"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1 నుండి అలర్టు"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "పూర్తయ్యింది"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "ప్రాజెక్టులు"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "మీరు ఖాతా సృష్టించుకున్న ప్రాజెక్టులే ఇక్కడ కనిపిస్తాయి"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "వికీమీడియా ప్రాజెక్టులు"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "వికీపీడియాలు"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "లాగిన్ గమనింపులు"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "అన్నిటినీ చదివేసినట్లుగా గుర్తుపెట్టు"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "మీ గమనింపుల్లో వచ్చిన మొత్తం {{PLURAL:\\$1|\\$1 సందేశాన్ని|\\$1 సందేశాలను}} చదివేసినట్లుగా గుర్తు పెట్టాలని నిశ్చయించుకున్నారా? మీ గమనింపులను చదివేసినట్లుగా అన్ని డివైసుల్లోనూ గుర్తు పెట్టేస్తాం."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "మీ గమనింపులన్నిటినీ చదివేసినట్లుగా గుర్తు పెట్టాలని నిశ్చయించుకున్నారా? మీ గమనింపులను చదివేసినట్లుగా అన్ని డివైసుల్లోనూ గుర్తు పెట్టేస్తాం."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "చదివేసినట్లుగా గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "చదవనట్లుగా గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "మరిన్ని"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "గమనింపు సెట్టింగులు"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 సందేశం|\\$1 సందేశాలు}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "కొనసాగించు"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "వడపోతలు"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "గమనింపుల గురించి మరింత తెలుసుకోండి"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "గమనింపుల ద్వారా మీ దిద్దుబాట్లు, మీ ఖాతాకు సంబంధించి జరిగే కార్యకలాపాల గురించి తెలుస్తుంది."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "ప్రాజెక్టు ఇన్‌బాక్సులు"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "పంపించే గమనింపులు"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "దిద్దుబాటు గమనింపులు"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "పంపించే గమనింపులను ఆన్ చెయ్యాలా?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "పంపించే గమనింపులను ఆన్ చెయ్యి"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "వద్దులే"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "ప్రాజెక్టుల వడపోత"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "అన్నీ"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "గమనింపులన్నీ"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$2 లో \\$1"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=ఒక ప్రాజెక్టులో|\\$1 ప్రాజెక్టుల్లో}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|ప్రాజెక్టు|ప్రాజెక్టులు}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 రకం|\\$1 రకాలు}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "చదివేసినవి"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$3 లో \\$1, \\$1"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "చదవనివి"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "దిద్దుబాటు మైలురాయి"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "ఈ దిద్దుబాటును తిరగ్గొట్టారు"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "కొత్త ఈమెయిలు"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "లాగినయ్యేందుకు బహుళ విఫల యత్నాలు"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "విఫలమైన లాగిన్ ప్రయత్నం"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "గుర్తుతెలియని పరికరం నుండి లాగినయ్యారు"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "వ్యాసపు చర్చ పేజీలో ప్రస్తావన"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "దిద్దుబాటు సారాంశంలో ప్రస్తావన"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "విఫల ప్రస్తావన"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "విజయవంతమైన ప్రస్తావన"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "చర్చ పేజీలో ప్రస్తావన"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "మీ చర్చ పేజీలో సందేశం"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "పేజీ లింకు"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "పేజీని సమీక్షించారు"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ధన్యవాదాలు"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "అనువాదాల మైలురాయి"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "వాడుకరి హక్కుల మార్పు"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "స్వాగతం!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "వికీడేటాతో కనెక్షను ఇచ్చారు"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "చదివేసినట్లుగా గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "చదవనట్లుగా గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "మరిన్ని"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "గమనింపులు"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "ఎంచుకున్న గమనింపులకు గుర్తు పెట్టు"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ప్రస్తావనలు"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "స్వాగత సందేశం"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ఇతర"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "వికీపీడియాలో కొత్త కార్యకలాపం"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$3 లో \\$1 కొత్త \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "కొత్త \\$1"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 నుండి \\$2 వరకు"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 చారిత్రిక ఘటన|\\$1 చారిత్రిక ఘటనలు}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ఇదే రోజున జరిగిన మరిన్ని చారిత్రక ఘటనలు"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "ఇదే రోజున జరిగిన {{PLURAL:\\$1|మరో \\$1 చారిత్రిక ఘటన|మరో \\$1 చారిత్రిక ఘటనలు}}"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "మీ ప్రాథమిక వికీపీడియా భాషలో చరిత్రలో ఈ రోజుకు మద్దతు లేదు. మీ యాప్ సెట్టింగుల మెనూలో ప్రాథమిక వికీపీడియాను మార్చుకోవచ్చు."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "సమాచారమేమీ లేదు"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2 వికీపీడియా నుండి \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ఈ రోజున"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "మీరు మొదలుపెట్టిన ట్యాబుకు తిరిగి వెళ్ళేందుకు 'W' ను తట్టండి"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "బాటు దిద్దుబాట్లు"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "పోల్చేందుకు రెండు కూర్పులను ఎంచుకోడానికి తట్టండి"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "పోల్చిచూడు"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "కాలావధిలో చేసిన దిద్దుబాట్ల గ్రాఫు"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "చిన్న మార్పులు"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "కర్త: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "వ్యాఖ్య \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "కూర్పుల చరిత్ర"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "చిన్న మార్పు"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|ఒక బైటు|\\$1 బైట్లు}} చేర్చారు"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|ఒక బైటును|\\$1 బైట్లను}} తీసేసారు"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "కూర్పును చేసినది \\$1 న"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "రెండే కూర్పులను ఎంచుకోవచ్చు"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2 తరువాత {{PLURAL:\\$1|\\$1 దిద్దుబాటు|\\$1 దిద్దుబాట్లు}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "పేజీ సమస్యలు"
+    },
+    {
+      "name": "page_location",
+      "value": "మ్యాపులో చూడండి"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ఈ పేజీలో దిద్దుబాటు చేసే అనుమతులు మీకు లేవు"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ఈ పేజీ సంరక్షించబడింది"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ఇలాంటి పేజీలు"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "కూర్పులను పోల్చడం"
+    },
+    {
+      "name": "pictured",
+      "value": "చిత్రం తీసినది"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "భద్రపరచిన వెతుకులాటలను తీసివెయ్యి"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 వ్యాసాలు"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "జాబితాగా చూపించు"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "పటంగా చూపించు"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "మరిన్ని వ్యాసాలను చూపించు"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "నగరాలు, దేశాలు, ఖండాలు, సహజసిద్ధమైన మైలురాళ్ళు, చారిత్రిక ఘటనలు, నిర్మాణాలు, ఇంకా మరెన్నిటినో చూడండి."
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "వ్యాసాలను వడపోయండి"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "వడపోయి"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "భద్రపరచిన వ్యాసాలు"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "ఎక్కువగా చదివినవి"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 వ్యాసం|\\$1 వ్యాసాలు}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "అత్యధికంగా చదివిన వ్యాసాలు"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "మీరు అంటున్నది ఇదా - \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ఇటీవల వెతికినవి"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "భద్రపరచిన వ్యాసాలన్నీ"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "సూచించిన వెతుకులాటలు"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ఈ ప్రాంతంలో ఫలితాలు"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "మేటి వ్యాసాలన్నీ"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "దగ్గరలో"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "మీ ప్రస్తుత స్థలం"
+    },
+    {
+      "name": "places_title",
+      "value": "ప్రదేశాలు"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "తెలియని దూరం"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 నాటి విశేష చిత్రం"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 నాటి విశేష చిత్రాన్ని తేవడం విఫలమైంది"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "రెండు ఎద్దులు పరుగెడుతున్న దృశ్యం. 2015 లో ఇండోనేషియా, పశ్చిమ సుమత్రా లోని టానా దాతర్ లో జరిగే ఎద్దుల పందేల్లో (వారి భాషలో పాకు జావీ అంటారు) తీసిన ఫొటో."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "మా సముదాయం ఎంచిపెట్టిన అందమైన ఫొటోలను చూసి ఆనందించండి"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "నేటి విశేష చిత్రం"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ఈ యాప్‌ను మెరుగు పరచడం కోసం, మీరు దీన్ని ఎలా వాడుతున్నారనే సమాచారం సేకరించటానికి వికీపీడియాకి అనుమతి ఇవ్వండి"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ఈ వ్యాసాన్ని ఏదైనా చదివే జాబితా లోకి చేర్చమంటారా?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "“\\$1” ను ఏదైనా చదివే జాబితా లోకి చేర్చమంటారా?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "సరే, నా చదివే జాబితాల్లోకి చేర్చు"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "చదివే జాబితాను సృష్టించు"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "వివరణ"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "చదివే జాబితా పేరు"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "కొత్త జాబితాను సృష్టించు"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "చదివే జాబితాను తొలగించాం"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "వద్దు, డివైసు నుండి వ్యాసాలను తొలగించు"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "ఈ జాబితా లోని వ్యాసాలను సింకు చేసేందుకు గాను, ఇందులోని వ్యాసాల సంఖ్యను \\$1 వరకు తగ్గించండి."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "ఒక్కో ఖాతాకు ఉండే {{PLURAL:\\$1|\\$1 వ్యాసపు|\\$1 వ్యాసాల}} పరిమితిని మీరు దాటేసారు."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|వ్యాసాన్ని|వ్యాసాలను}} ఈ జాబితా లోకి చేర్చలేం. ఒక్కో చదివే జాబితాలో ఉండగల వ్యాసాల పరిమితి \\$2 ను \\$3 చేరుకుంది."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "చదివే జాబితా పేరు ఈసరికే వాడుకలో ఉంది"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "మీ చదివే జాబితాలను తాజాకరిస్తోంటే అనుకోని లోపమేదో దొర్లింది."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ఔను, వ్యాసాలను డివైసులో ఉంచు"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "ఈ డివైసులో, మీ వికీపీడియా ఖాతా లోకి సింకైన వ్యాసాలు కొన్ని ఉన్నాయి. మీరు లాగౌటయ్యాక కూడా ఆ వ్యాసాలను డివైసులో ఉంచమంటారా?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "డివైసులో భద్రపరచిన వ్యాసాలను ఉంచమంటారా?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "వ్యాసాలను పేర్చు"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "వరసలో పేర్చని వ్యాసాల పరిమితి 5000. ప్రస్తుతం ఉన్న వ్యాసాలను జాబితాలుగా పేర్చుకోండి. తద్వారా ఇక ముందు వ్యాసాలను పేర్చుకోవడం కొనసాగించవచ్చు."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "పేర్చని వ్యాసాల పరిమితిని చేరుకున్నారు"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "ఈ చదివే జాబితాను, అందులోని వ్యాసాలనూ సింకు చెయ్యం. ఈ జాబితాను సింకు చెయ్యాలంటే, మీ జాబితాల సంఖ్యను \\$1 కంటే తగ్గించండి."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "ఒక్కో ఖాతాకు ఉండే {{PLURAL:\\$1|\\$1 చదివే జాబితా|\\$1 చదివే జాబితాల}} పరిమితిని మీరు దాటేసారు."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "ఒక్కో ఖాతాకు ఉండే చదివే జాబితాల పరిమితి \\$1 ని చేరుకున్నారు"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "మీరు భద్రపరచిన వ్యాసాలను సింకు చేసేందుకు లాగినవండి"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "లాగినవండి / ఖాతాని సృష్టించుకోండి"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "భద్రపరచిన వ్యాసాలను సింకు చేసేందుకు లాగినవండి"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "చదివే జాబితా లోని వ్యాసం"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "మీ చదివే జాబితా లోకి ఒక అంశాన్ని చేరుస్తూండగా అనుకోని లోపం ఎదురైంది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "మీ చదివే జాబితాను సృష్టిస్తూండగా అనుకోని లోపం ఎదురైంది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "మీ చదివే జాబితాను తొలగిస్తూండగా అనుకోని లోపం ఎదురైంది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "మీ చదివే జాబితాలో ఉన్న ఒక అంశాన్ని తీసివేస్తూండగా అనుకోని లోపం ఎదురైంది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "మీ చదివే జాబితాను తాజాకరిస్తూండగా అనుకోని లోపం ఎదురైంది. కాస్సేపాగి మళ్ళీ ప్రయత్నించండి."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "“\\$1” అనే పేరున్న చదివే జాబితా కనబడలేదు. మీ దగ్గరున్నది సరిన పేరేనని నిర్థారించుకోండి."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "వ్యాసాన్ని “\\$1” లోకి చేర్చాం"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "వ్యాసాన్ని సింకు చెయ్యలేక పోయాం"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "సింకు చెయ్యలేదు"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "వ్యాసాల పరిమితి దాటిపోయింది, వ్యాసాన్ని సింకు చేయ్యలేక పోయాం"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "జాబితా పరిమితి దాటిపోయింది, వ్యాసాన్ని సింకు చేయ్యలేక పోయాం"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "వ్యాసం క్యూలో ఉంది, దించుకోవాలి"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "డివైసు పరిమితి దాటిపోయింది, వ్యాసాన్ని సింకు చేయ్యలేక పోయాం"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "మీ డివైసులో కొంత స్థలాన్ని ఖాళీ చేసి, మళ్ళీ ప్రయత్నించండి"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "కొన్ని వ్యాసాలను సింకు చెయ్యలేదు, పరిమితి దాటిపోయింది."
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "మీ జాబితా '\\$1' పేరును '\\$2' గా మార్చాం"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 చదివే జాబితా|\\$1 చదివే జాబితాలు}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "మీరు భద్రపరచిన వ్యాసాల డిఫాల్టు జాబితా"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "భద్రపరచినవి"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "ఈ చర్యను వెనక్కి తిప్పలేరు. ఈ {{PLURAL:\\$1|జాబితాలో|జాబితాలలో}} మాత్రమే భద్రపరచిన వ్యాసాలను తీసేస్తాం."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|జాబితాను|జాబితాలను}} తొలగించాలా?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "మీ ఖాతా లోని {{PLURAL:\\$1|\\$1 వ్యాసాన్ని|\\$1 వ్యాసాలను}}, {{PLURAL:\\$2|\\$2 చదివే జాబితానూ|\\$2 చదివే జాబితాలనూ}} సింకు చేసాం"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "జాబితాను సింకు చెయ్యలేదు, పరిమితి దాటిపోయింది"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "భద్రపరచిన వ్యాసాలను పేర్చు"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "ఒక్కో చదివే జాబితాలోను \\$1 వ్యాసాల పరిమితి ఉంది. ఈ పరిమితిని మించిన వ్యాసాలున్న జాబితాలను బహుళ జాబితాలుగా విడదీసాం."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "తిరిగి ఇంటర్నెట్ కనెక్షను వచ్చినపుడు సింకు చెయ్యడం కొనసాగుతుంది"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "నలుపు థీము"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "వెలుతురు స్లైడరు"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "చీకటి థీము"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "వెలుతురు థీము"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "సేపియా థీము"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "సింటాక్స్ హైలైటింగు"
+    },
+    {
+      "name": "reference_title",
+      "value": "మూలం \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ఈరోజు|1=నిన్న|\\$1 రోజుల క్రితం}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1గం"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=ఇప్పుడే|\\$1 గంట క్రితం|\\$1 గంటల క్రితం}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1గం క్రితం"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=ఈ మధ్యనే|\\$1 గంట క్రితం|\\$1 గంటల క్రితం}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=ఇప్పుడే|\\$1 నిమిషం క్రితం|\\$1 నిమిషాల క్రితం}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1ని"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=ఇప్పుడే|\\$1 నిమిషం క్రితం|\\$1 నిమిషాల క్రితం}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1ని క్రితం"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=ఈ నెల|1=గత నెల|\\$1 నెలల క్రితం}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1సె"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1సె క్రితం"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ఈ సంవత్సరం|1=నిరుడు|\\$1 సంవత్సరాల క్రితం}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "తిప్పికొట్టిన దిద్దుబాటు"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "వ్యాసాలన్నీ"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "ఈ జాబితాను తొలగించలేరు"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "ఈ భద్రపరచొఇన పేజీ లోని బొమ్మలను దించుడం విఫలమైంది."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "వ్యాసాన్ని దించుతున్నాం..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "చదివే జాబితాలు"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "భద్రపరచిన వ్యాసాల్లో వెతుకు"
+    },
+    {
+      "name": "saved_title",
+      "value": "భద్రపరచబడింది"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "భద్రపరచవద్దంటే {{PLURAL:\\$1|ఈ వ్యాసం|ఈ వ్యాసాలు}} ఉన్న అన్ని చదివే జాబితాల్లోంచి తీసేస్తుంది"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "భద్రపరచిన {{PLURAL:\\$1|వ్యాసాన్ని|వ్యాసాలను}} తీసెయ్యాలా?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "వికీపీడియాలో వెతుకు"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "తీసివేయి"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "వికీపీడియాలో వెతకండి"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ఇటీవలి వెతుకులాట లన్నిటినీ తొలగించాలా?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ఈ చర్యను వెనక్కి తీసుకోలేరు!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "అన్నిటినీ తొలగించు"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ఇంకా ఇటీవలి వెతుకులాటలేమీ లేవు"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ఇటీవల వెతికినవి"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "ఇక్కడి నుండి మళ్ళించబడింది: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "వెతుకు"
+    },
+    {
+      "name": "settings_account",
+      "value": "ఖాతా"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "చదువుటకు అభిరుచులు"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "రద్దుచేయి"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "సహాయమూ, ప్రతిస్పందనా"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "నా భాషలు"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "పంపించే గమనింపులు"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "మళ్ళీ ప్రయత్నించండి"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ప్రాథమిక"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ఈ జాబితా లోని మొదటి భాషను ఈ యాప్‌కు ప్రాథమిక భాషగా వాడతాం."
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "మీ చదివే జాబితాలను నేపథ్యంలో సింకు చేస్తాం"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "భద్రపరచిన చదివే జాబితాను చూపించు"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "వ్యాసాల నిల్వ, సింకు చెయ్యడం"
+    },
+    {
+      "name": "settings_title",
+      "value": "అమరికలు"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "వికీపీడియా యాప్‌తో చేసినది"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia లో \"\\$1\":"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$2” నుండి “\\$1”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$2”\n\nనుండి “\\$1”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "మార్గసూచనలను పొందండి"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "పంచుకోండి…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "@Wikipedia ద్వారా"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "మ్యాప్స్‌లో తెరువు"
+    },
+    {
+      "name": "share_social_format",
+      "value": "వికీపీడియా ద్వారా “\\$1”: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "వికీపీడియా ద్వారా “\\$1”: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "ఇటీవల చేర్చినవి"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "శీర్షిక"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "విషయ సూచిక"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "మూసివేయి"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "విషయ సూచికను మూసివేయి"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "విషయాలు"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "విషయ సూచికను దాచు"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "ఉప శీర్షిక \\$1"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "చదివేసినవి"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "చదవనివి"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "గుర్తుంచుకోండి, ఇక్కడ ఉన్నవాళ్ళందరం మనుషులమే"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "సహానుభూతితో ఉండండి"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "మీ సమాధానాన్ని విజయవంతంగా ప్రచురించాం"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "మీ చర్చను విజయవంతంగా ప్రచురించాం"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "మీరు చందా కట్టారు!"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "వ్యాసం చర్చ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "వాడుకరి చర్చ"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "మీరు చందా విరమించుకున్నారు."
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "ఒక చర్చను మొదలుపెట్టండి"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "నలుపు"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "చీకటి"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "అప్రమేయం"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "సిస్టము థీముతో సరిపోలుతుంది"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "వెలుతురు"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "సేపియా"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "లోకమంతా ఇవ్వాళ వికీపీడియాలో ఏం చదువుతోందో తెలుసుకోండి."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 పాఠకులు"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "ఎక్కువగా చదివినవి"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "లాగిన్ అవడాన్ని కొనసాగించండి"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "మీ ఖాతాలోకి లాగినవండి"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "నిర్థారణ కోడ్"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "చర్చ పేజీని లోడు చెయ్యలేక పోయాం"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "తెలియని"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "వద్దులే"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "మీ అభిరుచులను సమీక్షించండి"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "పేజీల సృష్టి"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "వాడుకరి రచనలు"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "వాడుకరి పేజీ"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "వాడుకరి చర్చ పేజీ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "ఫీడ్‌లో శోధించండి"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "చరిత్రలో వెనక్కి ప్రయాణించి, ఈ తేదీన ఏం జరిగిందో తెలుసుకోండి"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ఈ రోజున"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "స్థలాలు ట్యాబు"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "మొదలుపెట్టండి"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "శోధించేందుకు కొత్త పద్ధతులు"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "అర్థమైంది"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "వికీపీడియాలో రాస్తున్నది స్వచ్ఛందంగా పాల్గొంటున్నవారే. ఇక్కడ 300 పైచిలుకు భాషల్లో 4 కోట్ల వ్యాసాలున్నాయి."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "వికీపీడియా గురించి మరింత తెలుసుకోండి"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "వికీపీడియా గురించి"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "ప్రపంచ భాషలన్నిటి లోనూ స్వేచ్ఛా విజ్ఞాన సర్వస్వాన్ని నిర్మించడం కోసం పనిచేస్తున్న ప్రాజెక్టు, వికీపీడియా. ఇంటర్నెట్టున్న ప్రతీ ఒక్కరూ ఇక్కడ తటస్థమైన సమాచారాన్ని, మూలాలున్న సమాచారాన్ని చేర్చవచ్చు."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "స్వేచ్ఛా విజ్ఞానసర్వస్వం"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "మరొక భాషను చేర్చు"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "అభీష్టమైన భాషలను చేర్చండి, సవరించండి"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "మీ డివైసులో మాకు కింది భాషలు కనబడ్డాయి:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300 పైచిలుకు భాషల్లో వెతకండి"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "చరిత్రలో ఈ రోజున ఏం జరిగిందో శోధించండి."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "ఎవరైనా దిద్దుబాటు చెయ్యగలిగే స్వేచ్ఛా ఆన్‌లైను విజ్ఞానసర్వస్వం"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "వికీపీడియా అనే స్వేచ్ఛా విజ్ఞానసర్వస్వం ఆన్‌లైను లోకి వచ్చింది."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "మీ మార్పుల మునుజూపును తెస్తున్నాం..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ఈ లింకు బయటి వెబ్‌సైటుకు పోతోంది: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "బయటి లింకు"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "సరిగ్గా ఇదే పేరు కలిగిన వ్యాసం వికీపీడియాలో లేదు"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "అంతర్గత లింకు లేమీ కనబడలేదు"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "లింకు '\\$1' కు పోతోంది"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "లింకు మునుజూపు"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "మార్పులను భద్రపరచు"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA ధ్రువీకరణ లోపం."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA ధ్రువీకరణ ఆవశ్యకం."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "వికీటెక్స్టు ఎక్కింపు ఫలితాన్ని ఇదమిత్థంగా తెలుసుకోలేక పోయాం."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "ప్రచురిస్తున్నాం..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "దిద్దుబాట్ల శ్రేయస్సు మీ డివైసు ఐపీ చిరునామాకు చెందుతుంది. \\$1లాగినైతే\\$2, మీకు మరింత గోప్యత ఉంటుంది."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "దిద్దుబాట్ల శ్రేయస్సు మీ డివైసు ఐపీ చిరునామాకు చెందుతుంది. \\$1, మీకు మరింత గోప్యత ఉంటుంది."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "వాడుక నియమాలు"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "చదవడానికి ఇష్టపడే రోజు"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "మీరు ఎక్కువగా చదివిన నెల"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "మీకు స్పష్టమైన పఠన ధోరణులు ఉన్నాయి"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "మీరు \\$2\\$1\\$3 గురించి చదివారు."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "మీరు \\$4\\$1\\$5, \\$4\\$2\\$5, \\$4\\$3\\$5 ల గురించి చదివారు."
+    },
+    {
+      "name": "year_in_review_personalized_reading_subtitle_format_v3_updated",
+      "value": "ప్రపంచవ్యాప్తంగా వికీపీడియా పాఠకుల్లో మీరు తొలి **PERCENT** లో ఉన్నారు. సగటున ఒక్కో పాఠకుడు సంవత్సరానికి {{PLURAL:\\$1|\\$1 వ్యాసం|\\$1 వ్యాసాలు}} చదువుతారు."
+    },
+    {
+      "name": "year_in_review_personalized_reading_title_v3_format_updated",
+      "value": "2025 లో మీరు, {{PLURAL:\\$2|\\$2 వ్యాసాన్ని|\\$2 వ్యాసాలను}} చదవడానికి {{PLURAL:\\$1|\\$1 నిమిషం|\\$1 నిమిషాలు}} వెచ్చించారు"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "అపరాహ్ణం"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "సాయంత్రం"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "అర్థరాత్రి"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "మధ్యాహ్నం"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "ఉదయం"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "రాత్రి"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "మీరివి చదివారు కాబట్టి"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "చదివిన మేటి వ్యాసాలన్నీ"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "మరో యాదృచ్ఛిక వ్యాసం"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s వికీపీడియా నుండి"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s వికీపీడియాలో"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "వికీమీడియా కామన్సు నుండి"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "చూపేందుకు చరిత్రేమీ లేదు"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ఈ కార్డును దాచు"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "ఫీడ్‌ శోధనను కస్టమైజు చేసుకోండి"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "కార్డును దాచాం"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s కి వ్యాసానికి వివరణ చేర్చండి"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "మీరు అంటున్నది ఇదా - %s?"
+    }
+  ]
+}

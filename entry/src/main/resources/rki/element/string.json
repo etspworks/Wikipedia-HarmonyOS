@@ -1,0 +1,5628 @@
+{
+  "string": [
+    {
+      "name": "about_content_license",
+      "value": "အကြောင်းအရာ လိုင်စင်"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "အခြား ဖော်ပြချက်မဟိပါက၊ အကြောင်းအရာစော် \\$1 နန့် ရဟိနိုင်ရေ။"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike လိုင်စင်"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ပံ့ပိုးကူညီသူတိ"
+    },
+    {
+      "name": "about_libraries",
+      "value": "အသုံးပြုထားရေ စာကြေ့တိုက်တိ"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "စာရင်း အပြည့်အစုံ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "လိုင်စင်"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "လွတ်လပ်ရင်းမြစ် ဆော့ဝဲလ်ကို အကျွန်ရို့ ချစ်မြတ်နိုးပါရေ \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "နီရာပြမြေပုံတိ လိုင်စင်"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Apple Maps မှ ထောက်ပံ့ထားရေ မြီပုံတိကို အသုံးပြုပါ။ \\$1။"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "လိုင်စင်အသေးစိတ်အတွက် ဒေနီရာတွင်ကြေ့ပါ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "သင်နန့်တူရေ စေတနာ့ဝန်ထမ်းတိဧ့ အကူအညီနန့် \\$1 က ပြုလုပ်ထားရေ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "သိမ်းဆည်းမှုတိ"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "ရင်းမြစ်ကုဒ်ကို \\$1 အောက်တွင် ရဟိနိုင်ပါရေ။"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT လိုင်စင်"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "app အကြံပြုချက် ပို့ဖို့"
+    },
+    {
+      "name": "about_title",
+      "value": "အကြောင်း"
+    },
+    {
+      "name": "about_translators",
+      "value": "ဘာသာပြန်သူတိ"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 မာ စေတနာ့ဝန်ထမ်းတိက ဘာသာပြန်ခရေ"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ဝီကီးမီဒီယား ဖောင်ဒေးရှင်း"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ဝီကီပီးဒီးယား"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "ပုံကို မမြင်ရပါလား \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "CAPTCHA အသစ် ရယူနီရေ..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "အကောင့်တစ်ခု တောင်းဆိုဖို့"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA လုံခြုံရီး စစ်ဆေးချက်"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "သင်ဧ့ အကောက်တစ်ခုကို ဖန်တီးပါ"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "အကောင့်တစ်ခု ဟိ့နီပြီးယာလား?\\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "အကောင့်၀င်ပါ။"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "လော့ခ်အင် ၀င်နီပါရေ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "အကောင့်တစ်ခု ဖန်တီးဖို့ အသုံးပြုသူနာမည်၊ ပစဝါးနန့် အတည်ပြုပစဝါးတိကို ထည့်သွင်းပီးရဖို့။"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ပစဝါးတိ ကိုက်ညီမှုမဟိ့ပါ။"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "သိမ်းဆည်းနီရေ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "အကောင့် အသစ်တစ်ခု ဖန်တီးပါ"
+    },
+    {
+      "name": "account_group_title",
+      "value": "သင်ဧ့ အကောင့်"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "အကောင့်ပျောက်"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "စကားပြော စာမျက်နှာတိ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "အော်တို လက်မှတ်ထိုး ဆွေးနွီးမှုတိ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "ဆွေးနွီးမှုတိကို အော်တို ‌လက်မှတ်ရွီးထိုးခြင်းစွာ Signature ဆက်တင်တိတွင် သတ်မှတ်ထားရေ လက်မှတ်ကို အသုံးပြုပါဖို့။"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ဆွေးနွီးချက်စာမျက်နှာ အပြင်အဆင်တိ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "ပေါင်းထည့်ဖို့..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "ဖတ်စာရင်းပသို့ ပေါင်းထည့်ပါ"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "စာရင်းသို့ ပေါင်းထည့်"
+    },
+    {
+      "name": "action_cancel",
+      "value": "မလုပ်ယာ"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "တီးဖြတ်ခြင်းကို ဖျက်သိမ်းပါ။"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "တီးဖြတ်ခြင်းတိကို ဖျက်သိမ်းပါ။"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "စာမျက်နှာမှာ ယှာဖွီပါ"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "ဆက်တီးဖြတ်ပါ။"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ဘာသာစကား ပြောင်းပါ"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ရွှိ့ပြောင်းဖို့..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ဖတ်စာရင်းပသို့ ပေါင်းထည့်ပါ"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "နောက်တစ်ခု Revision"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "အယင် Revision"
+    },
+    {
+      "name": "action_read",
+      "value": "ဖတ်ကြေ့ပါ"
+    },
+    {
+      "name": "action_redo",
+      "value": "ယှိသို့ ပြန်ပြင်ဖို့"
+    },
+    {
+      "name": "action_remove",
+      "value": "ဖယ်ပလိုက်ပါ"
+    },
+    {
+      "name": "action_retry",
+      "value": "ပြန်ပြီးကေကြိုးစားပါ"
+    },
+    {
+      "name": "action_save",
+      "value": "သိမ်းပါ"
+    },
+    {
+      "name": "action_saved",
+      "value": "သိမ်းပခပါ"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "သိမ်းပြီးယာ။ မသိမ်းဖို့စော် အတည်ပြုပါ။"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "နောင်အတွက် ဆောင်းပါးသိမ်းဆည်း"
+    },
+    {
+      "name": "action_share",
+      "value": "မျှဝီ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "မျှဝီ"
+    },
+    {
+      "name": "action_sort",
+      "value": "စီစိုင်ဖို့"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "အသုံးပြုသူကို ကျေးဇူးတင်"
+    },
+    {
+      "name": "action_undo",
+      "value": "နောက်တဆင့်ဆုတ်"
+    },
+    {
+      "name": "action_unsave",
+      "value": "မသိမ်းရသိပါ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "ဆောင်းပါး မသိမ်းရသိပါ"
+    },
+    {
+      "name": "action_update",
+      "value": "ပြန်ပြုပြင်ပါ"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "နားလည်မှုအားကောင်းစီဖို့ Wikipedia ဆောင်းပါးတိတွင် အကြံပြုထား‌ရေပုံတိကို ထည့်ပါ။"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "ပုံတိ ပေါင်းထည့်ပါ"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "နောက်ထပ် တွီးစရာတိ ဟိမ့်လား?"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "သင်စွာ ‌‌ဒေအပတ်မှာ မတီးဖြတ်ရသိပါ။  သင်ဧ့ပံ့ပိုးမှုတိကို ခြီရာခံဖို့ အဂုစတင်ပါ။"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "သင်ဖတ်ပြီးရေအရာကို ခြီရာခံပြီးကေ သင့်ပံ့ပိုးမှုတိကို အချိန်ကြာလာစော်နန့်အမျှ နည်းလမ်းအသစ်နန့် ‌ကြေ့ရှုပါ"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "နောက်ထပ်တီးဖြတ်ခြင်းနန့် စာဖတ်ခြင်းလုပ်ဆောင်ချက်ကို ကြေ့ရှုဖို့ အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် ဖန်တီးပါ။"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "ကြားနီ"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "သင်စွာ ‌ဒေအပတ်တွင် မတီးဖြတ်ရသိပါ။  ဆောင်းပါးနားလည်မှုကို မြှင့်တင်ဖို့ ပုံတိထည့်ပါ။"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "ဖတ်ရှုမှုရာဇ၀င်ကို ကြေ့ပါ။"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "ကျေနပ်ရေ"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "စတင်တီးဖြတ်ပါ"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "ကျေနပ်မှုစစ်တမ်း"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "လှုပ်ရှားမှု"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "မကျေနပ်"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "တ၀ ကျေနပ်တေ"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "တ၀ မကျေနပ်"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "တီးဖြတ်မှု ရာဇဝင်ကို ‌ကြေ့ပါ"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "ဖတ်ရှုမှုရာဇ၀င်ကို ကြေ့ပါ။"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "သိမ်းဆည်းထားရေ ဆောင်းပါးတိကို ကြေ့ရှုပါ"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "သင်စွာ ဒေအပတ်မှာ {{PLURAL:\\$1|\\$1 ကြိမ်|\\$1 ကြိမ်တိ}} ကို တီးဖြတ်ခရေ။"
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "သင်စွာ ဒေအပတ်မှာ {{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}} ကို ဖတ်ခ‌ရေ။"
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "သင်စွာ ဒေအပတ်မှာ {{PLURAL:\\$1|\\$1 ‌ေဆောင်းပါး|\\$1 ဆောင်းပါးတိ}} ကို သိမ်းခရေ။"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "စာဖတ်စာရင်းပသို့ {{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}} ပေါင်းထည့်ရန်"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "အဆင့်မြင့် ဆက်တင်တိ"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "သင်စွာ ယာယီအကောင့်ကို အသုံးပြုနီပါရေ။  အကောင့်စွာ ရက် 90 အတွင်း သက်တမ်းကုန်ဆုံးပါဖို့။"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "ပို လိ့လာဖို့"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "အကြံပြုချက် တင်သွင်းခရေ"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "ဖြုတ်ဖို့"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ဝီကီးပီးဒီးယား၊ ကိုးကား၊ ဝီကီး၊ စွယ်စုံကျမ်း၊ အချက်အလက်၊ ဗဟုသုတ၊ သုတေသန၊ သတင်းအချက်အလက်၊ စူးစမ်း၊ သင်ယူ"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "အပြည့်အဝ စိတ်ကြိုက်ပြင်ဆင်နိုင်ပြီးကေ Explore feed ကို ဖတ်ရန် ပိုလွယ်ကူရေ။  Localization၊ စွမ်းဆောင်ရည်မြှင့်တင်မှုတိနန့် bug ပြင်ဆင်မှုတိ။"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "သင့်အနီးအနားက နီရာတိကိုစုံစမ်းရန် ဝီကီးပီးဒီးယား app ကို ဒေါင်းလုတ်ယူပါ၊ အင်တာနက်မဟိ့ချိန်ဖတ်ဖို့ ဆောင်းပါးတိကို syn လုပ်ပါ၊ သင်ဧ့စာဖတ်အတွိ့ကြုံကို စိတ်ကြိုက်ပြင်ဆင်ပါ။"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "ဖရီး လွတ်လပ်စွယ်စုံကျမ်း"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ဆောင်းပါးစာသားအရွယ်အစား ချိန်ညှိဖို့"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ဇယားတိကို ချဲ့ကားဖို့"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "အမြန်အချက်အလက်တိ၊ အကိုးအကားတိ၊ မှတ်စုတိနန့် ပြင်ပလင့်ခ်တိအပါအဝင် ဆောင်းပါးအားလုံးက ဇယားအားလုံးကို ပုံသီဖွင့်ထားဖို့ သတ်မှတ်ပါ။"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "အမှောင်နန့် အနက်ရောင် အပြင်အဆင်တိက ပုံတိဧ့ အလင်းပိတ်မှုကို လျှော့ချပါ။"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "စာဖတ်ခြင်းအကြောင်းအရာတိ"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ဇယား အပြင်အဆင်တိ"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "ဆောင်းပါးဧ့ စာသားအရွယ်အစားကို ပြောင်းလဲဖို့ ဆလိုက်ဒါကို ဖိဆွဲပါ။  အက်ပ်က တခြားစာသားဧရိယာတိကို အရွယ်အစားပြောင်းဖို့ သင့်စနစ်စာသားအရွယ်အစားကို အသုံးပြုပါ။"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "အပြင်အဆင် ရွီးချယ်မှုတိ"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ဒေဆောင်းပါးအကြောင်း"
+    },
+    {
+      "name": "article_delete",
+      "value": "ဖျက်​ပါ​"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": " {{PLURAL:\\$1|ဆောင်းပါး|ဆောင်းပါးတိ}} ဖျက်ပခရေ"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "အက်ပ်စွာ အပ်ဒိတ်လုပ်ထားရေ အကြောင်းအရာကို အချိန်မီ မရယူနိုင်ခပါ။  သင်ဧ့ပြောင်းလဲမှုတိကို ရောင်ပြန်ဟပ်မြင်နိုင်ဖို့ ဒေစာမျက်နှာကို နောက်မှ ပြန်လည်စတင်ပါ။"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ဘာသာစကား ယှာဖွီဖို့"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ဘာသာစကား ပြောင်းပါ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "တခြားဘာသာစကားတိ"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "သင်ဧ့ ဘာသာစကားတိ"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ပိုဖတ်ရှုပါ"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "ရည်ညွှန်း \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "ဆောင်းပါးပြန်လည်ပြင်ဆင်မှု မှတ်တမ်း"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ဒေဆောင်းပါးကို သိမ်းဆည်းဖို့ သင်ဧ့စက်ပစ္စည်းတွင် သိုလှောင်လက်ကျန် မလုံလောက်ပါ"
+    },
+    {
+      "name": "article_share",
+      "value": "မျှဝီ"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "တဘ်ကန့်သတ်ချက် (\\$1) ပြည့်လားပါယာ။  တဘ် သို့မဟုတ် တစ်ခုထက်ပိုရေ တဲဘ်တိကို ပိတ်ပါ။"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "တဘ်တိလမ်းညွှန်"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "တက်ဘ်တိအတွက် စတင်အသုံးပြုခြင်း ကိရိယာအကြံပြုချက်တိ"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "ဖွင့်ပါ"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "နောက်ခံတဘ်မှာ ဖွင့်ပါ"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "tab အသစ် ဖွင့်ပါ"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "ဆောင်းပါး စကားပြောစာမျက်နှာ"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Themes ထိန်းချုပ်မှုတိကို ဖတ်ရှုခြင်း"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "သင်ဧ့တည်းဖြတ်မှုကို ထုတ်ဝီပြီးကေ ယာယီအကောင့် \\$1 ကို ဖန်တီးခရေ။  ရက် 90 တွင်သက်တမ်းကုန်ဆုံးလိ့မေ။"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "ယာယီအကောင့်ဖန်တီးပြီးပါယာ"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "နောက်သို့"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "နောက်သို့ပြန်လားဖို့"
+    },
+    {
+      "name": "button_go_back",
+      "value": "နောက်ကို ပြန်လားပါ"
+    },
+    {
+      "name": "button_next",
+      "value": "နောက်တဆင့်"
+    },
+    {
+      "name": "button_ok",
+      "value": "အိုခေ"
+    },
+    {
+      "name": "button_publish",
+      "value": "လူသိရှင်ကြားမျှဝီ"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "အဇာပင်ဖြစ်စီ လွှင့်တင်ဖို့"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "အခက်အခဲတိ သတင်းပို့ဖို့"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "နောင်မှ သိမ်းဆည်းဖို့"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "နောင်အတွက် သိမ်းဆည်းပြီး"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "သိမ်းဆည်းမှုက ဖယ်ယှားပြီး"
+    },
+    {
+      "name": "button_skip",
+      "value": "ကျော်ပလိုက်ပါ"
+    },
+    {
+      "name": "cancel",
+      "value": "မလုပ်ယာ"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ ဒေဂု အက်ပ်အတွင်းတွင် အဓိက သို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြစ် အောက်ပါ တရုတ်မျိုးကွဲတိကို ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်ရေ မျိုးကွဲတိတွင် ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုမိုလွယ်ကူစီရေ-\n\nရိုးရှင်းရေ တရုတ် (zh-hans)\nဟောင်ကောင်ရိုးရာ (zh-hk)\nမကာအိုရိုးရာ (zh-mo)\nမလေးရှား ရိုးရှင်းရေ (zh-my)\nစင်ကာပူ ရိုးရှင်းရေ (zh-sg)\nထိုင်ဝမ်ရိုးရာ (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "တရုတ်ဗားရှင်း ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ရှင်းလင်းပါ"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "ကက်ရှ် ရှင်းလင်းခြင်း ပြီးပါယာ။"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "ကက်ရှ် ရှင်းလင်းခြင်းကို လုပ်ဆောင်နီပါရေ။"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "tab အားနုန်းကို ပိတ်ပါ"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "\\$1 တက်ဘ်တိအားနုန်းကို ပိတ်ချင်ပါလား။  ‌ေဒေလုပ်ဆောင်ချက်ကို ပြန်ပြင်လို့မရပါ။"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "\\$1 tab အားနုန်းကို ပိတ်ပါ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ပိတ်ပါ"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "အခြားတဘ်တိကို ပိတ်ပါ"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "tab ကို ပိတ်ဖို့လား။"
+    },
+    {
+      "name": "close_tabs",
+      "value": "tab တိကို ပိတ်ပါ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 နာရီမှာ"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "ယင်းစော် ဒေစက်ကပြုလုပ်ရေ အလှူဖေသာနန့်ရာ သက်ဆိုင်ပါဖို့။"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "ဖျက်ကြောင်းအတည်ပြုပါ"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "ဒေသတွင်း မှတ်တမ်းကို ဖျက်ပလိုက်ပါယာ"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "ယှိဆက်ပါ"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "ဆောင်းပါးတိပိုဖတ်ရှုရန် ဝီကီးပီးဒီးယားကို စုံစမ်းပါ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "မကြာသိမ့်ခင်က စာမျက်နှာတိ ဒေနီရာမှာမဟိပါ"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ ‌‌ဒေဂု အက်ပ်အတွင်းတွင် အဓိက သို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြစ် အောက်ပါ Crimean Tatar အမျိုးကွဲတိကို ပံ့ပို့ပီးထားပြီး သင်နှစ်သက်သောမျိုးကွဲတိတွင် ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုလွယ်ကူစီရေ-\n\n Qırımtatarca၊ လက်တင် Crimean Tatar လက်တင် (chr-latn)\n къырымтатарджа, Кирил Crimean Tatar Cyrillic (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "တရုတ်ဗားရှင်း ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "အပ်ဒိတ်လုပ်နီရေ..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "ဖော်ပြချက် ထည့်သွင်းပါ"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "အစိတ်အပိုင်းတိဧ့ စီစဥ်မှုစွာ ဆောင်းပါးမြင်ကွင်းထက် တီးဖြတ်မှုမြင်ကွင်းတွင် ကွဲပြားဖို့ဖြစ်တေ။"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1အတွက် ဆောင်းပါးဖော်ပြချက်"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "ဆောင်းပါးဖော်ပြချက်အား ပြောင်းလဲခြင်းဖြင့်၊ အကျွန်စွာ \\$1 ကို သဘောတူပြီး \\$2 လိုင်စင်အောက်တွင် အကျွန်ဧ့ ပံ့ပိုးမှုတိကို ပြန်ပနာရုပ်သိမ်းဖို့ တောင်းဆိုပါရေ။"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "မိတ်ဆက် တီးဖြတ်ဖို့"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "နိန်ရာဒေသဆိုင်ရာဖော်ပြစွာကိုထည့်ပါ"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "ဖော်ပြချက်တိုတိစွာ အကောင်းဆုံးဖြစ်တေ"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "ဖော်ပြချက်ကို ထုတ်ပြန်ပါ"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "ဖော်ပြချက်ကို တီးဖြတ်ပါ။"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "ဖော်ပြချက်ကို တတိုရွီးပါ၊ ယင်းမှရာ အသုံးပြုသူတိအနီနန့် ဆောင်းပါးဧ့ အကြောင်းအရာကို တချက်ကြည့်ရုံနန့် နားလည်နိုင်ဖို့ဖြစ်ပါရေ"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "ဝါကျအစတွင်ပင် သင့်လျော်ရေနာမ်တိကိုရာ စာလုံးကြီးဖြင့် ရွီးသင့်ရေ။"
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "သင်ဧ့တီးဖြတ်မှုကို ထုတ်ဝီပြီးကေ ယာယီအကောင့် \\$1 ကို ဖန်တီးခရေ။  ရက် 90 တွင်သက်တမ်းကုန်ဆုံးလိ့မေ။"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "ဆောင်းပါးဖော်ပြချက်တိစွာ စာဖတ်သူတိ အကြောင်းအရာကို တစ်ချက်ချင်း နားလည်နိုင်ဖို့ ဆောင်းပါးတစ်ပုဒ်ကို အကျိုင်းချုပ်ဖော်ပြပါရေ။"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "အကြောင်း"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ဝီကီးဒေတာ အကြောင်း"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "ဖော်ပြချက်တိကို ဝီကီးဒေတာမှာ သိမ်းဆည်းထိန်းသိမ်းထားရေ။ ယင်းစွာ ဝီကီးမီဒီယာ ဖောင်ဒေးရှင်းဧ့ ပရောဂျက်တစ်ခုဖြစ်ပြီး ဝီကီးပီးဒီးယားနန့် အခြားပရောဂျက်တိကို ထောက်ပံ့ပီးရေ လွတ်လပ်၊ ပူးပေါင်းပီးရေ ဒေတာဘေ့စ်စနစ်တစ်ခုဖြစ်ပါရေ။"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "တခြား အချက်အလက်တိ"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "ဖော်ပြချက်သည် စံနှုန်းအရ တစ်ကြောင်းတည်းနန့် ပြီးမြောက်သင့်ပြီး စကားလုံး ၂ ခုမှ ၁၂ ခုကြား ရှည်လျားသင့်ပါရေ။"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Mona Lisa အကြောင်း ဆောင်းပါးတစ်ပုဒ်အတွက် ဖော်ပြချက်"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "ဧဝရတ်တောင်အကြောင်း ဆောင်းပါးတစ်ပုဒ်အတွက် ဖော်ပြချက်"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "လီယိုနာဒို ဗင်စီဧ့ ပဂျီလက်ရာ"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ကမ္ဘာ့အမြင့်ဆုံးတောင်"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "နမူနာအနီနန့်-"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "ဖော်ပြချက်တိ ဖန်တီးဖို့ နည်းလမ်းတိ"
+    },
+    {
+      "name": "description_help_title",
+      "value": "ဆောင်းပါးဖော်ပြချက် အကူညီ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "ခေါင်းစိုင်ဖော်ပြချက်ရီးသားခြင်းအတွက် ဝီကီးဒေတာအကူအညီ"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ပြီးယာ"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "သင်စွာ လူတိုင်းအတွက် ဝီကီးပီးဒီးယားကို ပိုကောင်းမွန်အောင် လုပ်ဆောင်ခရေ"
+    },
+    {
+      "name": "description_published_title",
+      "value": "ဖော်ပြချက် လွှင့်တင်ပြီး!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "စာလုံးရေ နှစ်လုံးကနီ ဆယ့်နှစ်လုံးကြား တစ်ကြောင်းတည်းရွီးနိုင်ကေ အကောင်းဆုံးဖြစ်တေ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "လိုရင်းတိုရှင်း ဖော်ပြပါ"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "ဆောင်းပါးတစ်ခုကို အကျိုင်းချုပ်ဖော်ပြပီးခြင်းစွာ တချက်ကြေ့ရုံနန့် အကြောင်းအရာကို စာဖတ်သူတိ နားလည်စီဖို့ ကူညီပီးရေ"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ဆောင်းပါးဖော်ပြချက်တိ"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "စတင်ခြင်းဖြင့် ဒေသွင်ပြင်လက္ခဏာကို အလွဲသုံးစားမလုပ်ပါကြောင်း ကတိပြုပါရေ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "စတင်တီးဖြတ်ပါ"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "အီးမေးလ်စစ်ဖို့ အတင်းအကြပ်"
+    },
+    {
+      "name": "developer_settings",
+      "value": "ဆော့ဖ်ဝဲရီးသားသူ ဆက်တင်တိ"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "ရှောင်လွှဲလှူဒါန်းခြင်း"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "သုံးသပ်ချက်တွင် နှစ်ကိုဖွင့်ပါ"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "ခွဲခြမ်းစိတ်ဖြာချက်တိကို wmflabs ပသို့ ပို့ပါ။"
+    },
+    {
+      "name": "developer_settings_suppress_image_rec_post",
+      "value": "ပုံအကြံပြုချက်တိကို တီးဖြတ်မတင်ပါကေ့။"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "ဆောင်းပါးပြန်ပနာပြင်ဆင်မှု မှတ်တမ်း"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "ထပ်တိုး၊ \\$1မ၊ ထပ်တိုးအဆုံးသတ်။"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "စာပိုဒ်ကို အောက်သို့ရွှိ့ပြီး {{PLURAL:\\$1|0=0 လိုင်း|\\$1 လိုင်း|\\$1 လိုင်းတိ}}။  တည်နေရာအသစ်ပသို့ လားပါ။"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "စာပိုဒ်ကို {{PLURAL:\\$1|0=0 လိုင်း|\\$1 လိုင်း|\\$1 လိုင်းတိ}} အထက်သို့ ရွှိ့ထားရေ။  တည်နေရာအသစ်ပသို့ လားပါ။"
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "စာပိုဒ်ကို ရွှိ့ထားရေ။  အယင်တည်နေရာပသို့ လားပါ။"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "စာပိုဒ်ကို အောက်သို့ရွှိ့ပြီး {{PLURAL:\\$1|0=0 လိုင်း|\\$1 အပိုင်း|\\$1 အပိုင်းတိ}}။  တည်နေရာအသစ်ပသို့ လားပါ။"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "စာပိုဒ်ကို {{PLURAL:\\$1|0=0 အပိုင်း|\\$1 အပိုင်း|\\$1 အပိုင်းတိ}} အထက်သို့ ရွှိ့ထားရေ။  တည်နီရာအသစ်ပသို့ လားပါ။"
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "ဖယ်ရှားခြင်း၊ \\$1၊ ဖယ်ရှားခြင်းအဆုံး။"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "အယင်က တီးဖြတ်ခြင်း"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "ပြန်ပနာပြင်ဆင်မှုတိကို နှိုင်းယှဉ်ပါ"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "တီးဖြတ်မှု ပြထားရေ"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "ပြန်ပနာပြင်ဆင်မှုတိကို နှိုင်းယှဉ်ပါ"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "အကြောင်းအရာကို ထည့်သွင်းထားရေ၊ \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "အကြောင်းအရာကို ဖယ်ယှားလိုက်တေ၊ \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 ကို ခေါက်သိမ်းပါ"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 ကို ချဲ့ပါ"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ပြသပါ"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ဝှက်တေ"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Revision လုပ်ထားရေ"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "လိုင်းတိ \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "စာပိုဒ်ကို ရွှိ့ထားရေ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "အောက်သို့"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "အထက်သို့"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 လိုင်း|\\$1 လိုင်းတိ}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 အပိုင်း|\\$1 အပိုင်းတိ}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "စာပိုဒ်ကို ရွှိ့ထားရေ \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "တီးဖြတ်မှုကို တင်လို့မရပါ"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "နောက်ဖက် ပြန်လားဖို့"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "တီးဖြတ်မှုတိကို ပြန်ပြောင်းချင်စော်က သေချာပါလား?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "နောက်ကြောင်းပြန် တီးဖြတ်မှုတိ"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "တည်းဖြတ်မှုတိကို ပြန်ပြောင်းထားရေ။"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 တီးဖြတ်မှု|\\$1 တီးဖြတ်မှုတိ}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "တီးဖြတ်သူ အချက်အလက်"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 byte ထည့်ထားရေ|\\$1 byteတိ ထည့်ထားရေ}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 byte ဖျက်ထားရေ|\\$1 byteတိ ဖျက်ထားရေ}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "တီးဖြတ်ချက် အကျိုင်းချုပ်"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "မိတ်ဆက်"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "စာကြောင်း \\$1-"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "နာမည်မသိအသုံးပြုသူတိ ကျေးဇူးတင်စကား လက်မခံနိုင်ပါ"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'ကျေးဇူးတင်မှု' စွာ ဝီကီးပီးဒီးယားက တီးဖြတ်သူဧ့ အလုပ်ကို ကျေးဇူးတင်ကြောင်း ပြသဖို့ လွယ်ကူရေ နည်းလမ်းတစ်ခု ဖြစ်တေ။  'ကျေးဇူးတင်မှု' ပီးပို့ဖို့ သင်စွာ လော့ဂ်အင်ဝင်ရပါဖို့။"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'ကျေးဇူးတင်မှု' ပို့ဖို့ လော့ဂ်အင်ဝင်ပါ"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'ကျေးဇူးတင်မှု' ပို့ဖို့"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'ကျေးဇူးတင်မှု' စွာ ဝီကီးပီးဒီးယားကတီးဖြတ်သူဧ့ အလုပ်ကို ကျေးဇူးတင်ကြောင်း ပြသဖို့ လွယ်ကူရေ နည်းလမ်းတစ်ခု ဖြစ်တေ။  'ကျေးဇူးတင်မှု' ကို ပြန်ပြင်လို့ မရရေအပြင် အများသူငှာ ကြေ့ရှုနိုင်ပါရေ။"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "လူသိရှင်ကြား 'ကျေးဇူးတင်မှု' ပို့ဖို့"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "သင်ဧ့ 'ကျေးဇူးတင်မှု' \\$1 ပသို့ ပို့လိုက်ပါယာ"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "ဒေတီးဖြတ်မှုအတွက် 'ကျေးဇူးတင်မှု' ပို့ပြီးသားဖြစ်တေ"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "ကျေးဇူးတင်မှု မပို့နိုင်ပါ"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "မပြောင်းလဲရေ၊ ဆက်စပ်လိုင်း- \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "ယင်းစွာ ဒေနီရာမှာ ပြသထားရေ ဆောင်းပါးဧ့ တည်းဖြတ်မှု(တိ) မှ ပြုလုပ်ထားရေ အပြောင်းအလဲတိကို ပြန်ပြင်ပါဖို့။  ရှိ့ဆက်ဖို့၊ ဒေတီးဖြတ်မှုကို ပြန်ဖျက်ဖို့ အကြောင်းပြချက်တစ်ခု ကျေးဇူးပြုပနာ ပီးပါ။"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "တီးဖြတ်မှုကို ပြန်ပြင်ခရေ။"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 လိုင်း မတီးဖြတ်ရသိ|\\$1 လိုင်းမတီးဖြတ်ရသိ}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "မီနူးဖွင့်ဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "dim_images",
+      "value": "ရုပ်ပုံတိကို မှိန်ထားဖို့"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "လှူဒါန်းမှုပမာဏကို ရွီးချယ်ဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Wikimedia Foundation ပသို့ \\$1 လှူဒါန်းဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "သင့်ထံ အီးမေးလ်ပို့ဖို့ Wikimedia Foundation ခွင့်ပြုချက်ပီးဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "ပမာဏထည့်သွင်းဖို့ ကီးဘုတ်မြင်ကွင်းကို ဖြတ်ဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "ဒေပမာဏဧ့ အလိုအလျောက် လစိုင်လှူဒါန်းမှုတိကို ဖွင့်ဖို့ နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "လှူဒါန်းဖို့ စိတ်ကြိုက်ပမာဏကို ထည့်သွင်းပါ။"
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "အလှူ‌ဖေသာပမာဏသို့ ‌ဖေသာလွှဲကြေးထည့်ဖို့နှစ်ချက်တို့ပါ။"
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "ကျေးဇူးတင်ပါရေ ချစ်အလှူရှင်။  သင်ဧ့ ရက်ရောမှုစွာ ဝီကီးပီးဒီးယားနန့် ယင်းဧ့ညီအေးမဆိုဒ်တိကို ရှင်သန်အောင် ကူညီပီးရေ။"
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple စွာ ဒေရည်ရွယ်ချက်အတွက် ဖေသာရှာဖို့တာဝန်မဟိမ့်ပါ။"
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "ဟုတ်ပါရေ၊ ဝီကီးမီဒီယာဖောင်ဒေးရှင်းက အကျွန့်ကို တစ်ခါတလီ အီးမေးလ်တစ်စောင် ပို့နိုင်ပါရေ။"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "မီးလိ့ဟိရေမီးခွန်းတိ"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "တခြားနည်းတိ ပီးရေ"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "အလှူခံ ပြဿနာတိ?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "အခွန်နုတ်ယူမှု အချက်အလက်"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "ဒေသတွင်း လှူဒါန်းမှုမှတ်တမ်းကို ဖျက်ပါ"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "နက်ဖြန်ခါမှ သင့်ကို ပြန်သတိပီးပါမေ."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "အကျွန်ရို့ဧ့ ဝဘ်ဆိုဒ်မှတဆင့် \\$1 \\$2 ထက်ကြီးရေအလှူငွေတိကို အကျွန်ရို့လက်မခံနိုင်ပါ။  ကျေးဇူးပြုပနာ benefactors@wikimedia.org မှာ အကျွန်ရို့ဧ့ အဓိကလက်ဆောင်ဝန်ထမ်းတိပါး ဆက်သွယ်ပါ။"
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "ကျေးဇူးပြုပြီးကေ ပမာဏတစ်ခု (အနည်းဆုံး \\$1 \\$2) ကို ရွီးပါ။"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "ယင်းကို လစိုင် ထပ်ပနာမပြက် လှူဒါန်းပါ။"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Apple Pay နန့် လှူဒါန်းပါ"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Apple Pay နန့် လှူဒါန်းပါ ယင်းသို့မဟုတ် အခြားဖေသာပီးချေမှုနည်းလမ်းကို ရွီးချယ်ပါ။"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "တခြားဖေသာပေးချေမှုနည်းလမ်း"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Apple Pay နန့် လှူဒါန်း?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "မင်းဧ့စေတနာက ငရို့အတွက် ကကောင်းအဓိပ္ပာယ်ဟိ့ရေ။"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "ကျေးဇူးတင်ပါရေ"
+    },
+    {
+      "name": "donate_title",
+      "value": "ပမာဏတစ်ခုကို ရွီးပါ"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "အကျွန့်လှူဒါန်းမှုဧ့ 100%% ကို သိမ်းဆည်းထားနိုင်စီဖို့ ‌ဖေသာအပီးအယူ အခကြေးဖေသာကို ကာမိစီဖို့ ရက်ရက်ရောရော \\$1 ကို ထည့်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "အကျွန်ရို့စွာ သင့်အချက်အလက်တိကို ဇာသူတစ်ဦးတစ်ယောက်ကိုမျှ ရောင်းချခြင်း ယင်းသို့မဟုတ် ရောင်းဝယ်ခြင်းမပြုပါ။  လှူဒါန်းခြင်းဖြင့်၊ သင်စွာ သင်ဧ့ကိုယ်ရေးကိုယ်တာအချက်အလက်တိကို Wikimedia Foundation၊ Wikipedia နန့် တခြား Wikimedia ပရောဂျက်တိကို လက်ခံဆောင်ရွက်ပီးရေ အကျိုးအမြတ်မယူရေအဖွဲ့အစည်းနန့် အကျွန်ရို့ဧ့ [အလှူရှင်မူဝါဒ](\\$1) အရ ယင်းဧ့ဝန်ဆောင်မှုပီးသူရို့ကို မျှဝီဖို့ သဘောတူပါရေ။  ဝီကီးမီဒီယာဖောင်ဒေးရှင်းနန့် ယင်းဧ့ ဝန်ဆောင်မှုပီးသူရို့စွာ အမေရိကန်ပြည်ထောင်စုမှာ တည်ရှိပြီး ကိုယ်ရေးကိုယ်တာဥပဒေတိစွာ သင့်ကိုယ်ပိုင်နန့် မညီမျှနိုင်ပါ။  ပိုသိချင်ပါကေ အကျွန်ရို့ဧ့ [အလှူရှင်မူဝါဒ](\\$1) ကို ဖတ်ရှုပါ။"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "ထပ်ကာမပြက် အလှူရှင်တိအတွက်၊ ပထမလှူဒါန်းမှုဧ့ လစဉ်နှစ်ပတ်လည်နိန့်မှာ သတ်မှတ်ထားရေ လစဉ်ဖေသာပီးချေမှုတိကို ဝီကီးမီဒီယာဖောင်ဒေးရှင်းက ဖြတ်တောက်ပီဖို့ဖြစ်ပြီး ယင်းချင့်တိကို ရပ်ဆိုင်းဖို့ အကျွန်ရို့ကို အကြောင်းကြားရေအချိန်အထိ၊  လဧ့ 29၊ 30 ယင်းသို့မဟုတ် 31 မှာ စတင်လှူဒါန်းရေ အလှူဖေသာတိစွာ မူလရက်စွဲနှင့် တတ်နိုင်သမျှ တိုတောင်းရေလတိအတွက် လဧ့နောက်ဆုံးနိန့်မှာ ပြန်ပနာရဟိပါဖို့။  မီးခွန်းတိအတွက် ကျေးဇူးပြုပနာ donate@wikimedia.org ပသို့ ဆက်သွယ်ပါ။"
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "တဘ်ကို ပွားပါ"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "ပြသ စာသား"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "လင့်ခ်ပစ်မှတ်"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "လင့်ခ် ဖယ်ယှားဖို့"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Linksကို တီးဖြတ်ပါ"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "တီးဖြတ်"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "သင်ရွီးချယ်ထားရေ စာသားကို မတီးဖြတ်နိုင်ကြောင်း ဖြစ်နိုင်ရေ (ဥပမာ။ ဆောင်းပါးခေါင်းစိုင် ယင်းသို့မဟုတ် အင်ဖိုဘောက်စ်ခေါင်းစိုင်တိ) ယင်းသို့မဟုတ် မီးမောင်းထိုးပြထားရေ စာသားအရှည်ကြောင့် ဖြစ်နိုင်ရေ။"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "သင်ရွီးချယ်ထားရေ စာသားကို ရှာမတွိ့ပါ"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "အသေးစား တီးဖြတ်မှုတိအကြောင်း ပိုလေ့လာဖို့"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ဒေစာက အငယ်စားတီးဖြတ်မှု ဖြစ်တေ"
+    },
+    {
+      "name": "edit_notices",
+      "value": "အသိပီးချက်တိကို တီးဖြတ်ဖို့"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "တီးဖြတ်ခြင်းသတိပီးချက်တိကို အမြဲပြသပါ"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "မတီးဖြတ်ခင် ကျေးဇူးပြုပနာ ဖတ်ပီးပါ"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "အကြောင်းအရာအားနုန်းကို ရိုးရှင်ရေပုံစံနန့် ပြထားရေ။"
+    },
+    {
+      "name": "edit_sheet_ip_account_notice",
+      "value": "IP အကောင့်သတိပီးချက်"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "ယာယီအကောင့်သတိပီးချက်"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "ဝဘ်အစမ်းကြေ့ရှုမှုကို ပြပါ။"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "တီးဖြတ်မှု အကျိုင်းချုပ်တစ်ခု ထည့်ပေါင်းဖို့"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "ပုံထည့်ထားရေ"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "ပုံနန့်စာတန်းထည့်ထားရေ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "သဒ္ဒါပြင်ခရေ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "စာလုံးပေါင်း ပြင်ခရေ"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "လင့်ခ်တိကိုပေါင်းထည့်ခရေ"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "သင် စာမျက်နှာကို တိုးတက်ကောင်းမွန်အောင် သင်ဇာပိုင် လုပ်ခလဲ?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "အတိုချုံးဖော်ပြချက် ထည့်ထားခ‌ရေ"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "အတိုချုံးဖော်ပြချက်ကို အပ်ဒိတ်လုပ်ထားရေ"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းအကြောင်း ပိုလိ့လာပါ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ဒေစာမျက်နှာကို ကြေ့ဖို့"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "ဆောင်းပါးတိကို အပ်ဒိတ်လုပ်ရာမှာ ရဲရင့်ကေလေ့ မဆင်မခြင် မလုပ်ဆောင်ပါကေ့။  အမှားတိလုပ်မိလို့ စိတ်မပူပါ‌ကေ့- စာမျက်နှာတစ်ခုဧ့ အယင်ဗားရှင်းတိုင်းကို သိမ်းဆည်းထားပြီးဖြစ်လို့ အမှားတိကို အကျွန်ရို့ဧ့အသိုင်းအဝိုင်းက အလွယ်တကူ ပြင်နိုင်ပါရေ။"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "သင်ဧ့ အသံက အရေးကြီးပါရေ"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "အကြောင်းအရာအားလုံးကို အတည်ပြုနိုင်ရပါဖို့။  ဆောင်းပါးတစ်ပုဒ်မှာ အချက်အလက်အသစ်တိထည့်ရေအခါ၊ တီးဖြတ်သူရို့စွာ ပံ့ပိုးကူညီမှုကို တိုက်ရိုက်ပံ့ပိုးပီးရေ ယုံကြည်စိတ်ချရရေ အရင်းအမြစ်တစ်ခုပသို့ inline ကိုးကားချက်တစ်ခု ပီးသင့်ရေ။"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "ယုံကြည်စိတ်ချရရေ ရင်းမြစ်တိကို ကိုးကားဖို့"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "ဘက်မလိုက်တေ လီသံနန့် ဆောင်းပါးတိ ရွီးသားနိုင်ဖို့ အကျွန်ရို့ ကြိုးစားနီပါရေ။  တီးဖြတ်ရေအခါ၊ ယုံကြည်စိတ်ချရရေ သတင်းရင်းမြစ်တိက ယင်းကိုဖော်ပြရေအတိုင်း ကမ္ဘာကို တရားမျှတစွာ ကိုယ်စားပြုမှုဖြစ်စီဖို့ ရည်ရွယ်ပါ။"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "ဘက်မလိုက်တေ လီသံနန့် ရွီးပါ။"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "ကမ္ဘာဧ့အသိပညာကို လူတိုင်းဝင်ရောက်ခွင့်ရဟိစီဖို့အတွက်၊ သင့်အတွက် အရေးအကြီးဆုံးအကြောင်းအရာတိကို စာဖတ်ခြင်း၊ တီးဖြတ်ခြင်းနန့် ပံ့ပိုးပေးခြင်းတိဖြင့် ယင်း၏ဖန်တီးမှုတွင် သင့်အား ပါဝင်ဖို့လိုအပ်ပါရေ။"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "ဗဟုသုတကို အခမဲ့ ဖြစ်စီ‌ဖို့"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "သင်ဧ့တီးဖြတ်မှုကို ထုတ်ဝီခရေ။"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "အရင်းအမြစ်တိကိုတီးဖြတ်တေ"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "ဦးစွာ မထုတ်ဝီဘဲ တီးဖြတ်မုဒ်က ထွက်ချင်စော် သေချာပါလား?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "ဒေစာပြန်ခြင်းအသစ်ကို ပယ်ဖျက်ချင်စွာ သေချာပါလာ?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "တီးဖြတ်မုဒ်ကို ဖြုတ်ဖို့လား?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "ရှင်းရှင်းလင်းလင်းယှာပါ"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "အနီးကပ်ယှာဖွီပါ"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "စုစုပေါင်း ကိုက်ညီမှု \\$1 တွိရှိပါရေ။  မီးမောင်းထိုးပြထားရေ ပွဲစဉ်နံပါတ် \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "ကိုက်ညီမှုမတွိပါ"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "နောက်ရလဒ်ကိုယှာပါ။"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "အယင်က ယှာဖွီမှုရလဒ်"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "ယှာဖွီ"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "အထူ"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "စာသားဖော်မတ်တေမီနူးကို ပိတ်ပါ"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "မှတ်ချက်"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "ခေါင်းစီး"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "အင်တင်းကို လျှော့ပါ"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "အင်တင်းကိုတိုးပါ"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "စာလုံးစောင်း"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "လင့်ခ်"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "အမိန့်စာရင်း"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "အစီအစိုင်မဟိရေစာရင်း"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "စာပိုဒ်"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "အညွှန်း"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Strikethrough"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "ခေါင်းစိုင်ခွဲ ၁"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "ခေါင်းစိုင်ခွဲ ၂"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "ခေါင်းစိုင်ခွဲ ၃"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "ခေါင်းစိုင်ခွဲ ၄"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "စာရင်းပီးပါ"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "လုံးတင်"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "တမ်းပလက်"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "စာသားဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "မျိုင်းသား"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "အစားထိုး လုပ်ဆောင်ချက်ကို လုပ်ဆောင်ပါ။  အစားထိုးအမျိုးအစားကို \\$1 ဟု သတ်မှတ်ထားရေ။"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "အစားထိုးရှင်းလင်းပါ"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "အစားထိုးပါ"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "... နန့် အစားထိုးပါ"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "အားနုန်း အစားထိုးပါ"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "သာဓကအားနုန်းကို အစားထိုးပါ"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "အစားထိုး အမျိုးအစားပြောင်းပါ။  လက်ဟိမှာ \\$1 လို့ သတ်မှတ်ထားရေ။  ပြောင်းလဲရန် ရွီးချယ်ပါ။"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "အစားထိုးပါ"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "သာဓကတခုတည်းကို အစားထိုးပါ"
+    },
+    {
+      "name": "editor_title",
+      "value": "တီးဖြတ်သူ"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "အထူစာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "ကာဆာကို နောက်လိုင်းသို့ ရွှိ့ပါ။"
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "ကာဆာကို နောက်စာလုံးသို့ ရွှိ့ပါ။"
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "ကာဆာကို အယင်ကစာလုံးသို့ ရွှိ့ပါ။"
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "ကာဆာကို အယင်ကစာကြောင်းအထိ ရွှိ့ပါ။"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "စာမျက်နှာမှာ ယှာဖွီပါ"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "ရုပ်ပုံစာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "စာသားဖော်မတ်ချခြင်းကို လျှော့ပါ"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "အင်တင်းစာသားဖော်မတ်ကို တိုးမြှင့်ပါ"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "စာလုံးစောင်းပုံစံ ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "လင့်ခ်စာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "အမိန့်စာရင်းစာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "အစီစိုင်မဟိရေစာရင်း စာသားဖော်မတ်ချခြင်း"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "စာသားဖော်မတ်တေမီနူးကို ဖွင့်ပါ"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "ကိုးကားစာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "နောက်ထပ် ဖော်မတ်ချခြင်း ရွီးစရာတိကိုပြပါ"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "နမူနာပုံစံစာသား ဖော်မတ်ခြင်း"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "တီးဖြတ်သူ စာသားကို တင်နီရေ"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "ဝီကီး စာသားတီးဖြတ်သူ"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "ပြန်ပနာပြင်ဆင်မှုတိကြား ကွဲပြားမှုမဟိမ့်ပါ"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "မြင်နိုင်ရေ အပြောင်းအလဲတိ ပြုလုပ်ထားခြင်းမဟိမ့်ပါ"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "အကျိုင်းချုပ် တီးဖြတ်မှုမဟိ"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "ဝီကီးမီဒီယာကွန်မွန်းစ်မှ ဖိုင်တခုကိုရွီးချယ်ပါ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "၀မ်းနည်းပါရေ၊ ဆောင်းပါးကို မတင်နိုင်ပါ"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "သိမ်းထားရေ စာမျက်နှာတိကို ဖတ်နိုင်ပါသိရေ"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "အင်တာနက်ရဟိချိန်မှာ သင့်ကိုအကြံပြုထောက်ခံထားရေ ဆောင်းပါးတိကို မြင်တွိ့နိုင်ရေ"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ဒေနီရာမှာ သင်ဖတ်ရှုရေအရာကို ခြီရာခံဖို့"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ပြသဖို့ ရာဇဝင် မဟိမ့်ပါ"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "ဒေဆောင်းပါးကို တခြားဘာသာစကားနန့် ရွီးသားထားခြင်းမဟိမ့်သိပါ"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "တခြားဘာသာစကားတိ မရနိုင်ပါ"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "ခရီးလားဖို့နီရာတိ၊ အကြိုက်ဆုံးအကြောင်းအရာတိနန့် တခြားအရာတိအတွက် စာရင်းတိဖန်တီးပါ"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "ဖတ်ရှုစရင်းတိနန့် သိမ်းဆည်းထားရေ ဆောင်းပါးတိကို စုစည်းပါ"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "ယင်းတိကို ဒေနီရာမှာ ပေါ်လာစီဖို့အတွက် စာမျက်နှာတိကို ဒေစရင်းမှာ သိမ်းဆည်းပါ"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ဒေစာရင်းသို့ စာမျက်နှတိ မသိမ်းရသိပါ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "အင်တာနက်မဟိကေတောင်မှ နောက်ပိုင်းကြေ့ရှုဖို့ စာမျက်နှာတိကို သိမ်းဆည်းပါ"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "စာမျက်နှာတိကို မသိမ်းရသိပါ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ရလဒ်ယှာမတွိပါ"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ဒေအသုံးပြုသူအတွက် စာတိုတိ မတင်ရသိပါ"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "နောက်တခါ ထပ်ကြိုးစားကြေ့ပါ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "အကြောင်းရင်းမသိဟိရရေ အမှားတစ်ခု ဖြစ်ပေါ်ခရေ"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "တာခြား ကျပန်းဆောင်းပါး"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "သင်ဖတ်ရှုခရေအတွက်ကြောင့်"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "နောက်ထပ် ဆက်နွယ်ဆောင်းပါးတိ"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "ဆက်လက် ဖတ်ရှုဖို့"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Explore feed ပသို့ ပြန်လားဖို့"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "သင့်နီရာအနီးက ဆောင်းပါးတိကို စူးစမ်းရဖို့"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "အထူးဆောင်းပါး"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "စိတ်ကြိုက်ပြင်ဆင်ပါ"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "feed ဘာသာစကား ဆက်တင်တိကို စူးစမ်းပါ"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "ထပ်ဆောင်း ဘာသာစကားတိကို 'မိမိဧ့ ဘာသာစကားတိ' အပြင်အဆင်စာမျက်နှာတွင် ထည့်ပေါင်းနိုင်ရေ။"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "ကဒ် ဝှက်ပြီး"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "ဖွင့်ထားရေဆောင်းပါးအား ပြန်ဖတ်ဖို့ အယင်ဆုံးလင့်ခ်"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Explore feed ကို စိတ်ကြိုက်လုပ်ပါ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Explore feed ကို စိတ်ကြိုက်ပြင်ဆင်ပါ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "ကတ်အမျိုးအစားကို ဝှက်ထားခြင်းနန့် ဒေကတ်အမျိုးအစားကို Explore feed တွင် မပေါ်စီဘဲ ရပ်တန့်လားဖို့ဖြစ်တေ။"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "တက်ဘ်ကို စူးစမ်းပါ"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ဝီကီးပီးဒီးယားရှိ နိန့်စိုင်အထူးဆောင်းပါး"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ပိတ်"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "အားနုန်းဖွင့်ဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ဖွင့်"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "ဖွင့် \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "\\$1 ကဒ်အားနုန်း ဝှက်ပြီး"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "ဒေကတ်သည် ဘာသာစကား သီးခြားမဟုတ်ပါ၊ ဒေကတ်ကို ပိတ်လိုက်ခြင်းနန့် ယင်းကို သင်ဧ့ စူးစမ်းလေ့လာရေးဖိဒ်မှ ဖယ်ရှားပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "ဘာသာစကားမဟုတ်တေ သီးခြားကတ်တိ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "ဘာသာစကား မသတ်မှတ်ထားပါ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "ကလိုဘယ်လ် ကဒ်တိ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ဒေကဒ်ကို ဝှက်"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "“\\$1” ကတ်တိအားနုန်းကို ဝှက်ထားပါ"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "လက်ဟိအဖြစ်ပျက်တိအကြောင်း ဆောင်းပါးတိ"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "သင့်ဘာသာစကားအားနုန်းမှာ Explore feed cards အားနုန်းကို ဝှက်ထားခြင်းဖြင့် Explore တက်ဘ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "သမိုင်း၌ ဒေနိန့်မှာ ဖြစ်ပွားခရေ ဖြစ်ရပ်တိ"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "သင့်အနီးအနားက ဝီကီးပီးဒီးယား ဆောင်းပါးတိ"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "ကွန်မွန်းစ်မှ နိန့်စိုင်အထူးဓါတ်ပုံ"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "ဖတ်ရှုဖို့ ကျပန်းဆောင်းပါးတိကို ထုတ်ဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "စာဖတ်ခြင်းရာဇဝင်မာ အခြီခံရေ အကြံပြုချက်တိ"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "ဆက်လက်ဖတ်ရှုကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "အထူးပြုထားရေ ဆောင်းပါးကတ်ကို ပိတ်ခြင်းဖြင့် ရရှိနိုင်ရေ ဘာသာစကားအားလုံနုန်းမှာ ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "အထူးဆောင်းပါးကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "သတင်းကတ်ကို ပိတ်လိုက်ခြင်းဖြင့် ရရှိနိုင်ရေဘာသာစကားအားနုန်းနန့် ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "သတင်းထဲတွင် ကဒ်ကိုပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "ဒေနိန့်မှာ ကတ်ကို ပိတ်လိုက်ခြင်းဖြင့် ရရှိနိုင်ရေ ဘာသာစကားအားနုန်းမှာ ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "ဒေနိန့်ရက်တွင်ကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "ဂနိန့်အထူးဓါတ်ပုံကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Places ကတ်ကို ပိတ်ခြင်းဖြင့် ရဟိနိုင်ရေ ဘာသာစကားအားနုန်းမှာ ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "နီရာတိကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Randomizer ကတ်ကို ပိတ်လိုက်ခြင်းဖြင့် ရဟိနိုင်ရေ ဘာသာစကားအားလုံးတွင် ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "ကျပန်းကဒ်ကို ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "သင် ကဒ်ကိုဖတ်ရှုကြောင့် ပြသဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "ထိပ်တန်းဖတ်ကတ်ကို ပိတ်ခြင်းဖြင့် ရဟိနိုင်ရေ ဘာသာစကားအားနုန်းမှာ ကတ်ကို ပိတ်လိုက်ပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "ထိပ်တန်းဖတ်ကတ်ကို ပြပါ"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "ဝီကီးပီးဒီးယားမှာ အကြောင်းအရာထည့်ဖို့ အကြံပြုချက်တိ"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "အကြံပြုထားရေ တီးဖြတ်ကဒ်ကို ပြပါ"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "နိန့်စိုင်ဖတ်ရှုမှုအများဆုံး ဆောင်းပါးတိ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Explore feed ကို ပိတ်ပါ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Explore feed ကတ်အားနုန်းကို ဝှက်ထားခြင်းဖြင့် Explore တက်ဘ်ကို ပိတ်ပြီး ယင်းကို ဆက်တင်တဘ်နန့် အစားထိုးပါဖို့"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Explore feed ကို ပိတ်ဖို့လား?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Explore feed ကို ပိတ်ပါ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "စူးစမ်းလိ့လာရီးတဘ်ကို စူးစမ်းလိ့လာရီးဖိဒ်ဆက်တင်တိမှာ ပြန်ဖွင့်နိုင်ရေ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "စူးစမ်းလိ့လာရီးတဘ်ကို ပိတ်ဖို့လား?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "စူးစမ်းလိ့လာရီးတဘ်ကို ပိတ်ခြင်းဖြင့် စူးစမ်းလိ့လာရီးတဘ်ကို ဆက်တင်တဘ်ဖြင့် အစားထိုးပါဖို့။"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Explore feed ကတ်တိကို ပြသရန် ရွီးချယ်ခြင်းဖြင့် သင်စွာ Explore တက်ဘ်ကို ဖွင့်ထားရေ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Explore feed ကို ဖွင့်ပါ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "ယင်းစွာ ဆက်တင်တိတက်ဘ်ကို စူးစမ်းလိ့လာရီးတဘ်ဖြင့် အစားထိုးဖို့ဖြစ်ပြီး၊ သင်စွာ ဂီယာသင်္ကေတကို နှိပ်ခြင်းဖြင့် စူးစမ်းလိ့လာဖို့တက်ဘ်ဧ့ထိပ်က ဆက်တင်တိကို သင်ဝင်ရောက်နိုင်ရေ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "စူးစမ်းလိ့လာရီးတဘ်ကို ဖွင့်ဖို့လား?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "ဒေကဒ်ကို ဝှက်"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ဝီကီးမီဒီယာပရောဂျက်တိဧ့ ပင်မစာမျက်နှာ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ဒေနိန့်အတွက် ဝီကီးပီးဒီးယား"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ဖတ်ရှုမှု အများဆုံး ဆောင်းပါးတိအားနုန်း"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ဖတ်ရှုမှု အများဆုံး"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 ရှိ ထိပ်ဆုံး"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ၀ီကီးပီးဒီးယား ဖွင့်"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားကို ဝင်ရောက်ပါ"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "အနီးအနား နီရာတိ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "နီရာတိ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "သင်ဧ့တည်နီရာ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက သင်ဧ့တည်နီရာ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "ဒေနိန့်အတွက် ဓာတ်ပုံ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ဘုံဖြိုက်တေ ဝီကီမီဒီယာ"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ကျပန်း ဆောင်းပါး"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ကျပန်းစိုင်"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "ပေါင်းထည့်"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "နားလည်မှုအားကောင်းစီရန် Wikipedia ဆောင်းပါးတိတွင် အကြံပြုထား‌ရေပုံတိကို ထည့်ပါ။"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "ပုံထည့်ထားရေ"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "သင့်အက်ပ်ဒစ်ဂျစ်တိုက်ကို မျှဝီခြင်းမှာ သင်ဧ့ဖတ်ရှုခြင်းစာရင်းတိနန့် မှတ်တမ်း၊ စိတ်ကြိုက်ရွီးချယ်မှုတိနန့် စူးစမ်းလိ့လာခြင်း အကြောင်းအရာတိ ပါဝင်ရေ။  နည်းပညာပိုင်းခြားနားမှုဆိုင်ရာ ရည်ရွယ်ချက်တိအတွက် အသုံးပြုရန် ဒေ ဒေတာဖိုင်ကို ယုံကြည်စိတ်ချရရေ လက်ခံသူနန့်ရာ မျှဝီသင့်ပါရေ။"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "အက်ပ်ဒစ်ဂျစ်တိုက်ကို မျှဝီဖို့လား?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "သင်ဧ့ဒေတာကို ထုတ်ယူရာမှာ အမှားအယွင်းတစခုဟိခရေ။  နောက်မှ ကြိုးစာကြေ့ပါ။"
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "သင့်အသုံးပြုသူဒေတာကို ထုတ်ယူဖို့ သင့်မှာ လုံလောက်ရေ စက်နီရာမဟိပါ။  နောက်မှ ပြန်ကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "အသုံးပြုသူဒေတာကို ထုတ်ယူပါ"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "ဒေရက်စွဲအတွက် အထူးဦးစားပီး ဆောင်းပါးကို မရဟိနိုင်ပါ။"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "အကျွန်ရို့ဧ့အသိုင်းအဝိုင်းမှ နိန့်စိုင်ရွီးချယ်ထားရေ Wikipedia က အကောင်းဆုံးဆောင်းပါးတိကို ရှာဖွီပါ။"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "သင်ဧ့ အဓိက Wikipedia ဘာသာစကားစွာ အထူးဦးစားပီး ဆောင်းပါးကို မပံ့ပိုးပါ။  အက်ပ်ဧ့ ဆက်တင်တိ မီနူးမှာ သင်ဧ့ အဓိက Wikipedia ကို အပ်ဒိတ်လုပ်နိုင်ပါရေ။"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "အထူးဆောင်းပါး"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "တစ်ခုခုမှားယွင်းခပါရေ။ နောက်မှ ပြန်ကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "အပလီကေးရှင်းစွာ ဆာဗာထံမှ မမျှော်လင့်ထားရေ တုံ့ပြန်မှုကို ရဟိခရေ။  နောက်မှ ပြန်ကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "မမှန်ရေ CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ပစဝါးတိ ကိုက်ညီမှုမဟိ့ပါ"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "မှားယွင်းရေ ကုဒ်"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "အသုံးပြုသူနာမည် မရဟိနိုင်ပါ"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "အရန်ကုဒ်"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "အီးမေးလ်ကုဒ်"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA စာသား"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "အထက်ကမြင်ရရေ စာသားကို ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@wikipedia.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "အီးမေးလ်"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "အီးမေးလ် (‌‌ဟိပါက)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ပစဝါးအသစ်ကို ပြန်ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "ပစဝါးကို အတည်ပြုပါ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "ပစဝါးအသစ်ကို ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ပစဝါး အသစ် -"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ပစဝါးအသစ်ကို ပြန်ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ပစဝါးကို အတည်ပြုပါ"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ပစဝါး ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ပစဝါး"
+    },
+    {
+      "name": "field_token_title",
+      "value": "အတည်ပြုကုဒ်"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "အသုံးပြုသူနာမည်တခုကို ထည့်ပါ -"
+    },
+    {
+      "name": "field_username_title",
+      "value": "အသုံးပြုလူနာမည်"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "အားနုန်း"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "ရှင်းရှင်းလင်းလင်းယှာပါ"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "နောက်ရလဒ်ကိုယှာပါ"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "အယင်က ယှာဖွီမှုရလဒ်"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ယှာဖွီပြီး အစားထိုးဖို့"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ယှာဖွီပိတ်ပြီး အစားထိုးပါ"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ယှာဖွီ"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "အစကပြန်စပါ"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "ပစဝါးပြန်ချိန်ခြင်း လမ်းညွှန်ချက်တိနန့် အီးမေးလ်တစောင်ကို ပို့လိုက်တေ"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "အီးမေးလ်ကတဆင့် ပစဝါးပြန်ပနာသတ်မှတ်ခြင်းလမ်းညွှန်ချက်တိကို လက်ခံရဟိဖို့ အောက်ပါအကွက်တိထဲက တခုကိုဖြည့်ပါ"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ပစဝါးအသစ် ပြန်လုပ်ပါ"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ယင်းသို့မဟုတ်"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Wikipedia အက်ပ်‌စွာ ‌ဒေဂုအခါ အောက်ပါ Gan မျိုးကွဲတိကို အက်ပ်အတွင်းမှာ အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအနီနန့် ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်တေမျိုးကွဲတိမှာ ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုမိုလွယ်ကူစီရေ-\n\nဂန် (ဂန်)\nGan၊ ရိုးရှင်းရေ (gan-hans)\nဂန်း၊ ရိုးရာ (ဂန်ဟန့်)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "တရုတ်ဗားရှင်း ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "မကြာခင်ကစာရင်းတိကို ဖျက်ပစ်ရန် သေချာပါလား?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "မှန်ရေ၊ အားလုံးဖျက်ပါ"
+    },
+    {
+      "name": "history_title",
+      "value": "ရာဇဝင်"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ဝီကီးပီးဒီးယား၊ စူးစမ်းရီးသို့ ပြန်လားဖို့"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ဝီကီးပီးဒီးယား၊ သိမ်းဆည်းရာသို့ ပြန်လားဖို့"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 ပိုင် နောက်ထပ််"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "သင်ဧ့တည်နီရာအနီးက နေရာတိပိုလို့"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "အနီးအနား \\$1 ပိုလို့"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "လက်ဟိဖြစ်ရပ်တိ ပိုလို့"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "အဂု သင်သိမ်းဆည်းထားရေ ဆောင်းပါးတိကို ဖတ်ရှုခြင်းစာရင်းမှာ စုစည်းနိုင်ပြီး စက်တိတစ်လျှောက် စင့်ခ်လုပ်နိုင်ပါရေ။ သင်ဧ့စာဖတ်ခြင်းစာရင်းတိကို သင်ဧ့အသုံးပြုသူစိတ်ကြိုက်ရွေးချယ်မှုတိမှာ သိမ်းဆည်းနိုင်စီဖို့ ဝင်ရောက်ပါ။"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ရွီးချယ်စရာတိကို စီမံဖို့"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "ဆောင်းပါးတူးလ်ဘားက စာသားအရွယ်အစားနန့် အပြင်အဆင်အပါအဝင် သင်ဧ့ဖတ်ရှုမှုဦးစားပီးမှုတိကို ချိန်ညှိပါ ယင်းသို့မဟုတ် ပိုသက်တောင့်သက်သာဟိရေ စာဖတ်ခြင်းအတွိအကြုံအတွက် သင့်အသုံးပြုသူဆက်တင်တိမှာ ချိန်ညှိပါ။"
+    },
+    {
+      "name": "home_title",
+      "value": "ယှာဖွီစူးစမ်းပါ"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia၊ Explore ဧ့ အထက်ဘက်သို့ ရွှိ့ပါ"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "အနီးနား ဆောင်းပါးတိ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ကျပန်း ဆောင်းပါး"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ဝီကီပီးဒီးယားထဲမှာ ယှာဖွီပါ"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "စာရီးသူ မသိရ"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "ဒေပုံကိုထည့်ဖို့လား?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "နောက်မှပြန်လာကြေ့ပါ"
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "သင့်မှာ ‌ဒေဂုအချိန်မှာ အကြံပြုထားရေ ပုံတိ ထပ်မရနိုင်ပါ။"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "တခုခုမှားလခရေ။"
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "စာမျက်နှာကို ဖွင့်လို့မရပါ"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "ဝီကီးပီးဒီးယား ဆောင်းပါးမှာ အကြံပြုထားရေ ပုံတစ်ပုံကို ထည့်သင့်ယင့်လား ဆုံးဖြတ်ပါ။"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "အကြံပြုချက်ကို ကြေ့ပါ"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "အကြံပြုချက်တိကို စက်နန့်ထုတ်လုပ်ထားပနာ ယင်းရို့ကို လက်ခံဖို့လား ယင်းသို့မဟုတ် ငြင်းဖို့လား ဆုံးဖြတ်ရန် သင့်ဆုံးဖြတ်ချက်ကို အသုံးပြုဖို့ဖြစ်တေ။"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "ပုံတစ်ပုံကို လက်ခံပါ ယင်းသို့မဟုတ် ငြင်းပယ်ပါ"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "ပုံတိစွာ Wikipedia မှအသုံးပြုရေ လွတ်လပ်စွာလိုင်စင်ရပုံတိစုစည်းမှု ဝီကီးပီးဒီးယား ဘုံဆိုင်မှဖြစ်တေ။"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "လိုင်စင်ရပုံတိ"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "အကြံပြုထားရေ တီးဖြတ်မှုတိအကြောင်း ပိုလိ့လာပါ"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "ဆောင်းပါးတစ်ခုသို့ ပုံတစ်ခုထည့်ပါ"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "သင့်အဖြေတိစွာ အနာဂတ်အကြံပြုချက်တိကို ပိုကောင်းမွန်စီရေ။"
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "တစ်ခု သို့မဟုတ် တစ်ခုထက်ရေ ရွီးစရာတိကို ရွီးပါ"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "ပုံစွာ မသက်ဆိုင်ပါ"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "ဆုံးဖြတ်ဖို့ အချက်လက် မလုံလောက်ပါ"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "ပုံက ရိုင်းရေ"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "ပုံက အရည်အသွီးနိမ့်ရေ"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "ဒေအကြောင်းအရာကို အကျွန်မသိပါ"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "တခြား"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "တင်သွင်းပါ"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "အ​ကြောင်း​ပြ​ချက်"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "ပုံ ပေါင်းထည့်ပါ"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "ယင်း၏ဧ့အကြောင်းအရာကို နားလည်ရန် ဒေဆောင်းပါးကို ပြန်ပနာသုံးသပ်ပါ။"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "သုံးသပ်ချက်"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "ပုံနန့် ယင်းဧ့ဆက်စပ်အချက်အလက်တိကို စစ်ဆေးပါ။"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "စစ်ဆေးပါ"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "ပုံသည် စာဖတ်သူရို့ကို ဒေအကြောင်းအရာကို ပိုနားလည်သဘောပေါက်စီဖို့ ကူညီပီးဖို့လား ဆုံးဖြတ်ပါ။"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "ဆုံးဖြတ်ပါ"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "ဆောင်းပါးကိုကြေ့ပါ"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "ပုံထည့်ဖို့ အကြံပြုထားရေ တီးဖြတ်မှုအင်္ဂါရပ်မှာ ပြဿနာတခု ကြုံတွိခရရေ-"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "ပြဿနာအစီရင်ခံစာ - ရုပ်ပုံအင်္ဂါရပ်တခုထည့်ပါ"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "မဟုတ်"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "မသေချာ"
+    },
+    {
+      "name": "image_recs_time_warning_message",
+      "value": "ယင်းဧ့အကြောင်းအရာကို နားလည်ဖို့ ဆောင်းပါးကို ပြန်ပနာသုံးသပ်ပြီး ပုံကို စစ်ဆေးပါ"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "ဟုတ်ပါရေ"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "အကျွန့်ဧ့စာဖတ်ခြင်းစာရင်း"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "စစ်တမ်းယူပါ"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"စာဖတ်ခြင်းစရင်းတိကို မျှဝီပါ\" စွာ စမ်းသပ်မှုအင်္ဂါရပ်တခုဖြစ်ပြီး ယင်းကို မြှင့်တင်ဖို့ ယင်းသို့မဟုတ် ဖယ်ရှားဖို့ သင့်အကြံပြုချက် လိုအပ်ပါရေ။"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "\"စာဖတ်ခြင်းစာရင်းတိကို မျှဝီ\" ကို တိုးတက်အောင် ကူညီပီးနိုင်ဖို့လား?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "မျှဝီထားရေ စာဖတ်စာရင်းကို တင်သွင်းပါ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "သတင်းထဲမှာ"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "ထည့်သွင်းဖို့"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "လင့်ခ်ထည့်သွင်းဖို့"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "ပုံအသေးစိတ် အချက်လက်တိကို ထည့်ပါ။"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "ရုပ်ပုံကိုမမြင်ရရေ စာဖတ်သူရို့အတွက် စာသားဖော်ပြချက်"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ဒေရုပ်ပုံကို ဖော်ပြဖို့"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "တခြားနည်းလမ်းနန့် စာသား"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ဒေရုပ်ပုံစွာ ဆောင်းပါးနန့် အဇာပိုင်ဆက်စပ်ရေလဲ?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "စာဖတ်သူအားနုန်းအတွက် အကြောင်းအရာဘေးမှာ ပြထားရေ အညွှန်း"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "စာတန်း"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "အလယ်"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ဘယ်"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "တစ်ခုလေ့မဟိမ့်ပါ"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ညာ"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ရုပ်ပုံ တည်နီရာ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "အချက်အလက်တိ ပိုလို့"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "ရုပ်ပုံ ရွီးချယ်ဖို့"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "စိတ်ကြိုက်"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "နဂိုအတိုင်း"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "အမြင့်ကြီး"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "အကျယ်"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ရုပ်ပုံ အရွယ်အစား"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "ပုံတစ်ဝိုက်တွင် စာသားကို ခြုံပါ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "အခြီခံ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ဘောင်"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ဘောင်မပါ"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "နမူနာပုံချေ"
+    },
+    {
+      "name": "insert_media_image_type_settings_footer_title",
+      "value": "စာမျက်နှာထက်မှာ မီဒီယာအကြောင်းအရာ ဇာပိုင်ပေါ်လာစော်ကို သင်သတ်မှတ်နိုင်ရေ။  ဒေစော်က နီရာတိုင်းနီးပါးမှာ အခြားစာမျက်နှာတိနန့် ကိုက်ညီစီဖို့ ပုံသေဖော်မတ်ဖြစ်သင့်ရေ။"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ပုံအမျိုးစား"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "မီဒီယာ အပြင်ဆင်တိ"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "မီဒီယာ ထည့်သွင်းဖို့"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "ဝီကီးပီးဒီးယား အက်ပ်စွ ‌ဒေဂုအခါမှာအောက်က Inuktitut အမျိုးကွဲတိကို အက်ပ်အတွင်းက အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြစ် ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်ရေမျိုးကွဲတိမှာ ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုလွယ်ကူရေ-\n\n ᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, သင်ရိုးညွှန်းတိ (ike-cans)\n Inuktitut ilisautik၊ Inuktitut၊ လက်တင် (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "တရုတ်ဗားရှင်း ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "အကောင့်ဝင်ခြင်းမပြုဘဲ ဆက်ပြီးကေလုပ်ဆောင်ပါ"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "အကောင့်ထဲဝင်ရန် ယင်းသို့မဟုတ် အကောင့်ဖန်တီးဖို့"
+    },
+    {
+      "name": "ip_account_edit_sheet_subtitle",
+      "value": "သင်တီးဖြတ်ပြီးစော်နန့် သင့်ကိုယ်ရေးကိုယ်တာကာကွယ်ဖို့အတွက် \\$1 ယာယီအကောင့် \\$2 ကို ဖန်တီးပီးဖို့ဖြစ်တေ။  \\$3 ပိုလိ့လာပါ။\\$4\\$5 အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် နောက်တည်းဖြတ်မှုတိအတွက် ခရက်ဒစ်ရယူဖို့နန့် တခြားဝန်ဆောင်မှုတိကို ဝင်ရောက်အသုံးပြုဖို့ အကောင့်တစ်ခုဖန်တီးပါ။"
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "ထုတ်ဝီမှုမှာ သင့်အတွက် ယာယီအကောင့်တစ်ခု ဖန်တီးပါဖို့။"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "သင်စွာ လော့ဂ်အင်မဝင်ပါ"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "ဝီကီးပီးဒီးယား အက်ပ်စွာ ‌‌ဒေဂု အက်ပ်အတွင်းမှာ အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြစ် အောက်က ကာဇါမျိုးကွဲတိကို ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်ရေ မျိုးကွဲတိမှာ ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုလွယ်ကူစီရေ-\n\n Қазақша ကာဇက် (kk)\n Қазақша Кирил ကာဇတ်၊ Cyrillic (kk-cyrl)\n qazaqşa လက်တင် ကာဇတ်၊ လက်တင် (kk-latn)\n توتە قازاقشا ကာဇတ်၊ အာရဗီ (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "ကာဇတ်ဗားရှင်း ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ ဒေဂု အက်ပ်အတွင်းမှာ ပင်မ ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြစ် အောက်က ကာ့ဒ်အမျိုးကွဲတိကို ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်ရေ မျိုးကွဲတိမှာ ဖတ်ဖို့၊ ရှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုလွယ်ကူစီရေ-\n\n Kurdî Latînî ကာ့ဒ်၊ လက်တင် (ku-latn)\n كوردی ကာ့ဒ်၊ အာရဗီ (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "ကာ့ဒ်မျိုးကွဲ ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ဘာသာစကားတိ"
+    },
+    {
+      "name": "languages_title",
+      "value": "ဘာသာစကား ပြောင်းပါ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ဝီကီးပီးဒီးယား ဘာသာစကားတိ"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "ပို လိ့လာပါ"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "အကောင့်ဝင်ခြင်းမပြုဘဲ ဆက်ပြီးကေလုပ်ဆောင်ပါ"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "သင်ဧ့အကောင့်သို့ ပြန်လားဖို့"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "သင့်အကောင့်ကို စစ်မှန်ကြောင်းအထောက်အထားပြရာမှာ ပြဿနာဟိနီရေ။  သင်ဧ့စာဖတ်ခြင်းစရင်းတိကို တစ်ပြိုင်တည်းချိန်ကိုက်ရန်နန့် သင့်အသုံးပြုသူနာမည်အောက်မှာ တီးဖြတ်ဖို့အတွက် ကျေးဇူးပြုပနာ ပြန်ပနာဝင်ရောက်ပါ။"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "သင် အကောင့်က ထွက်လားပြီးဖြစ်တေ"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "သင်ဧ့ ပစဝါးကို မိန့်နီရေလား?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ဝီကီးပီးဒီးယားပသို့ ပူးပေါင်းပါ"
+    },
+    {
+      "name": "login_no_account",
+      "value": "အကောင့် မဟိ့လား?\\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "သင်ဧ့အကောင့်သို့ ၀င်ဖို့"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "app အကြောင်း"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "အကောင့်ဝင်ဖို့"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ထွက်လိုက်ပါ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "သင် ထွက်ဖို့ဆိုစော် သေချာပါလား?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "အကောင့်ထွက်ခြင်းစွာ သင့်စက်တွင်းသိမ်းဆည်းထားရေ အကောင့်ဒေတာ (အကြောင်းကြားချက်တိနန့် မက်ဆေ့ချ်တိ) ကို ဖျက်ပစ်ဖို့ဖြစ်ကေလေ့ သင့်အကောင့်ဒေတာကို ဝဘ်ထက်မှာ ဆက်လက်ရရှိနိုင်ဖို့ဖြစ်ပြီး သင်ပြန်လည်ဝင်ရောက်ပါက ပြန်လည်ဒေါင်းလုဒ်လုပ်ဖို့ဖြစ်တေ။"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 အဖြစ် လော့ဂ်အင်ဝင်ခရေ"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "တရားဝင် အချက်အလက်တိ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "အနီးအနား"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "ကိုယ်ရေးကိုယ်တာ မူဝါဒ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "အက်ပ်ကို အဆင့်သတ်မှတ်ပါ"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "အသုံးပြုမူဆိုင်ရာ သတ်မှတ်ချက်တိ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ထပ်လို့"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ဝီကီးပီးဒီးယား ဇီးရိုး အမီးအဖြေကဏ္ဍ"
+    },
+    {
+      "name": "main_page",
+      "value": "အဓိကစာမျက်နှာ"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_subtitle_updated",
+      "value": "2024 ခုနှစ်မှာ စေတနာ့ဝန်ထမ်းရို့စော် အင်္ဂလိပ်ဝီကီးပီးဒီးယားသို့ 4,104,852,969 bytes ပေါင်းထည့်ခရေ။  ယင်းတိဧ့ အလုပ်အားနုန်းဧ့ ပေါင်းစည်းမှုစွာ ကမ္ဘာကို ယင်းတိပီးဆောင်ရေ တည်ငြိမ်ရေ၊ အချက်အလက်အခြီခံနန့် ယုံကြည်စိတ်ချရရေ အသိပညာအရင်းအမြစ်တစ်ခုပသို့ ဦးတည်စီရေ။  အကျွန်ရို့အားနုန်းမှာ အသိပညာမျှဝီဖို့၊ [ပါဝင်ပုံလေ့လာရန်](\\$1)။"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "၄ ဘီလီယံဘိုက်ကို ပေါင်းထည့်ရေ"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_subtitle_updated",
+      "value": "စေတနာ့ဝန်ထမ်းရို့စွာ ဝီကီးပီးဒီးယားဧ့ မတူညီရေဘာသာစကားတီးဖြတ်မှုပေါင်း 300 ကျော်မှာ ပြောင်းလဲမှု 98,222,407 ခု ပြုလုပ်ခရေ။  အင်္ဂလိပ် ဝီကီးပီးဒီးယား မှာ ပြောင်းလဲမှု ၃၇ သန်းကျော် ပြုလုပ်ခရေ။  နိန့်စိုင် နာရီတိုင်း၊ ဝီကီးပီးဒီးယားကို တိုးတက်စီဖို့ စေတနာ့ဝန်ထမ်းတိက လုပ်ဆောင်နီကက်တေ။"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "အယ်ဒီတာရို့စွာ ‌ဒေနှစ်မှ ာအပြောင်းအလဲ ၉၈ သန်း ပြုလုပ်ခရေ"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "လူတိစွာ ခန့်မှန်းခြေ နာရီပေါင်း 2.9 ဘီလီယံ—နှစ်ပေါင်း 331,000 ကျော်!—2024 မှာ အင်္ဂလိပ် ဝီကီးပီးဒီးယားကို ဖတ်ရှုနီခပါရေ။ အကျွန်ရို့ဧ့ ပြောင်းလဲနီရေ ကမ္ဘာကြီးအကြောင်း လိ့လာချင်ရေအခါ၊ သူငယ်ချင်းတိကြားမှာ လောင်းကြေးထပ်ရဖို့လား ယင်းသို့မဟုတ် စူးစမ်းချင်စိတ်ဟိရေ အသျှေဧ့မီးခွန်းကို ဖြေဖို့ ဝီကီးပီးဒီးယား ဟိမ့်ရေ။"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "အကျွန်ရို့စွာ နာရီပေါင်း 2.9 ဘီလီယံ စာဖတ်ခရရေ"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "Active iOS App အသုံးပြုသူပေါင်း 62.2 သန်းကျော် ဖတ်ရှုနိုင်ပါယာ။  ဖတ်ရှုခြင်းစာရင်းပသို့ ဆောင်းပါးတိထည့်ခြင်းစွာ အော့ဖ်လိုင်းဖြစ်နီရေတိုင်အောင် ဆောင်းပါးတိကို ဝင်ရောက်ကြည့်ရှုနိုင်စီပါရေ။  စက်တိမှာ ဖတ်ရှုခြင်းစာရင်းတိကို စင့်ခ်လုပ်ရန် လော့ဂ်အင်ဝင်နိုင်ရေ။"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "အကျွန်ရို့မှာ စာဖတ်သူစာရင်းပေါင်း 62.2 သန်းဟိရေ။"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "အင်္ဂလိပ်ဝီကီးပီးဒီးယားက ထိပ်တန်းဝင်ရောက်ကြေ့ရှုခရေ ဆောင်းပါး ၅ ပုဒ်မှာ-\n\n 1. \\$1\n 2. \\$2\n ၃။ \\$3\n 4. \\$4\n 5. \\$5\n အကျွန်ရို့ဧ့ သီးခြားဘလော့ဂ်ပို့စ် \\$7 \\$6 မှာ ပိုဖတ်ရှုပါ။"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "အင်္ဂလိပ်ဝီကီးပီးဒီးယား၏ လူကြိုက်အများဆုံး ဆောင်းပါးတိ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ဝီကီးပီးဒီးယားကို ဘာသာစကားပေါင်း ၃၀၀ ကျော်ခန့်မှာ ရှာဖွီဖို့"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ဘာသာစကားတိ ထည့်သွင်းပါ"
+    },
+    {
+      "name": "more_menu",
+      "value": "ထပ်လို့"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "စာဖတ်စရင်းပသို့ {{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}} ရွှိ့ဖို့"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "စမ်းလို့လုပ်ကြေ့ပါ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ပေ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 မိုင်"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "ယာယီပစဝါးနန့် ဝင်ထားပါရေ၊ အပြီးသတ်ဖို့ ပစဝါးအသစ်တစ်ခု ဆောင်ရွက်ပါ"
+    },
+    {
+      "name": "new_password_title",
+      "value": "သင်ဧ့ ပစဝါးကို သတ်မှတ်ပါ"
+    },
+    {
+      "name": "new_tab",
+      "value": "tab အသစ်"
+    },
+    {
+      "name": "next_action_title",
+      "value": "နောက်တဆင့်"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "သင်ဧ့ စက်ပစ္စည်းမှာ အီးမေးလ်လိပ်စာတစ်ခု ထည့်သွင်းပနာ ပြန်ကြိုးစားပါ။"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "အင်တာနက် ကွန်နက်ရှင် မဟိမ့်ပါ"
+    },
+    {
+      "name": "not_now_title",
+      "value": "အဂု မဟုတ်ပါ"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 က"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "သတိပီးချက်"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "အကြောင်းကြားချက်တိ စစ်ထုတ်ခြင်း - စစ်ထုတ်မှုတိ ထည့်သွင်းထားရေ"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "ပရောဂျက်တိ စစ်ထုတ်ခြင်း - စစ်ထုတ်မှုတိ ထည့်သွင်းထားရေ"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "မဖတ်ရသိရေ တံဆိပ်ပါရေ အကြောင်းကြားချက်တိ"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 အသိပီးချက်"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ပစဝါးကိုပြောင်းပါ။"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "အသိပီးချက်တိကို စစ်ဆေးနီရေ..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "အက်ပ်မှာ"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ဝဘ်ထက်မှာ"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "အသိပီးချက်အသေးစိတ်"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "အသိပီးချက်တိကို စစ်ဆေးနီရေ..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "မက်ဆေ့တိ မရောက်ဟိပါ"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "သင်စွာ အဇာ Wikipedia Notifications မှာ လောလောဆယ် စာရင်းသွင်းထားခြင်း မဟိပါ။"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "နောက်ထပ် မက်ဆေ့ဂျ်တိ ‌‌‌‌‌‌‌ကြေ့ဖို့ \\$1 ကို ပြုပြင်ပါ"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "နောက်ထပ် မက်ဆေ့ဂျ်တိကို ကြည့်ဖို့ ပရောဂျက်တိကို ထည့်ပါ"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 စစ်ထုတ်|\\$1 စစ်ထုတ်မှုတိ}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "တွန်းအားပီး အသိပေးချက်တိကို ဖွင့်ပါ"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Wikimedia ပရောဂျက်အားနုန်းအတွက် အကြောင်းကြားချက်တိကို တီးဖြတ်ခြင်းကို အက်ပ်ကတဆင့် အဂုရဟနိုင်ပါယာ။  လားနီစိုင်မှာ Wikipedia က သင့်မက်ဆေ့ချ်တိနန့် နောက်ဆုံးရသတင်းတိကို ဆက်ပြီးသိဟိနိုင်ဖို့ တွန်းအားပီးအကြောင်းကြားချက်တိကို ဝင်ရောက်ပါ။"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "အကြောင်းကြားချက်တိ စစ်ထုတ်ခြင်း"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "အားနုန်း"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "ဖတ်ကြေ့ပါ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "မဖတ်ရသိ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "အဆင့်အတန်းကိုဖတ်ပါ"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "စိစစ်မှုတိ"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "သင့်အကြောင်းကြားချက် ဝင်စာပုံးအတွင်း ယင်းရို့ကို စစ်ထုတ်ဖို့ အကြောင်းကြားချက်အမျိုးအစားတိကို ပြင်ဆင်ပါ။  ပိတ်ထားရေ အမျိုးအစားတိကို မမြင်နိုင်ကေလေ့ ခလုတ်ကို ပြန်ဖွင့်ရေအခါမှာ ယင်ရို့ဧ့ အကြောင်းအရာနန့် အကြောင်းကြားချက်အသစ်တိကို ရနိုင်ပါဖို့။"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "အမျိုးအစားအားနုန်း"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "အသိပီးချက်အမျိုးအစားတိ"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "ဆောင်းပါး"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 စကားပြောစာမျက်နှာ"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "ကွဲပြားရေ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 ဧ့ အသုံးပြုသူ စာမျက်နှာ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "ဝီကီးပီးဒီးယား အကြောင်းအရာ"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "သင်ဧ့ ဆွေးနွီးချက်စာမျက်နှာ"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1 မှ သတိပီးချက်"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ပြီးယာ"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "စီမန်ကိန်း"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "သင်အကောင့်တခုဖန်တီးထားရေ ပရောဂျက်တိရာ ဒေနီရာမှာ ပေါ်လာပါဖို့"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "ဝီကီးမီဒီယာ ပရောဂျက်တိ"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ဝီကီးပီးဒီးယားတိ"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "လော့ဂ်အင် အသိပီးချက်တိ"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "အားနုန်း ဖတ်ရှုပြီးဖြစ်ကြောင်း မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "သင့်အကြောင်းကြားချက်တိဧ့ {{PLURAL:\\$1|\\$1 message|\\$1 messages}} အားနုန်းကို ဖတ်ပြီးကြောင်း အမှတ်အသားပြုချင်စော်မှာ သေချာပါလား။  သင့်အကြောင်းကြားချက်တိကို သင်ဧ့စက်ပစ္စည်းအားနုန်းမှာ ဖတ်ပြီးကြောင်း အမှတ်အသားပြုပါဖို့။"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "သင့်အကြောင်းကြားချက်အားနုန်းကို ဖတ်ပြီးကြောင်း အမှတ်အသားပြုချင်စော်မှာ သေချာပါလား။  သင့်အကြောင်းကြားချက်တိကို သင်ဧ့စက်ပစ္စည်းအားနုန်းမှာ ဖတ်ပြီးကြောင်း အမှတ်အသားပြုပါဖို့။"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "ဖတ်ပြီးကြောင်း မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "မဖတ်ရသိကြောင်း မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "ထပ်လို့"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "အသိပီးချက် အပြင်အဆင်တိ"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 မက်ဆေ့ဂျ်|\\$1 မက်ဆေ့ဂျ်တိ}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "ယှိဆက်ပါ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "သင့်ဝင်စာပုံးကို အလွယ်တကူ ကျိုင်းမြောင်းစီဖို့ ဖတ်ရှုမှုအခြေအနီနန့် ရိုက်ထည့်ခြင်းဖြင့် သင့်အကြောင်းကြားချက်တိကို စစ်ထုတ်ပါ။"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "စိစစ်မှုတိ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "အသိပီးချက်တိအကြောင်း ပိုလိ့လာဖို့"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "အကြောင်းကြားချက်တိစွာ သင်ဧ့ တီးဖြတ်မှုတိနန့် အကောင့်နန့် သက်ဆိုင်ရေ လုပ်ဆောင်ချက်ကို အသိပီးဖို့ ကူညီပီးရေ။"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "အသိပေးချက်တိနန့် သတိပေးချက်တိ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "မတူညီရေ ဘာသာစကား Wikipedias နန့် Wikimedia ပရောဂျက်တိမှ မဖတ်ရသိရေ စာအားနုန်းကို တစ်နေရာတည်းမှာ ကြေ့ရှုပါ။"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "ပရောဂျက် ဝင်စာတိ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "ခရီးလားနီစိုင်မှာ သင်ဧ့တီးဖြတ်ခြင်းမက်ဆေ့ချ်တိနန့် သတိပီးချက်တိကို နောက်ဆုံးရသတင်းတိရယူဖို့ တွန်းအားပေးအကြောင်းကြားချက်တိကို ဝင်ရောက်ပါ။"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "အကြောင်းကြားချက်တိကို တွန်းပါ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "လော့ဂ်အင် အသိပီးချက်တိ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "တွန်းအားပီး အသိပီးချက်တိကို ဖွင့်ဖို့လား?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "တွန်းအားပီး အသိပီးချက်တိကို ဖွင့်ပါ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "ရပါရေကျေးဇူးပါ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia စွာ ပူးပေါင်းလုပ်ဆောင်ရေ ပရောဂျက်တခုဖြစ်ပြီး တည်းဖြတ်သူအချင်းချင်းပါးက မက်ဆေ့ချ်တိ၊ သတိပေးချက်တိ၊ နန့် \"ကျေးဇူးတင်စကား\" တိကို အပ်ဒိတ်လုပ်ဖို့ တွန်းအားပီးအကြောင်းကြားချက်တိကို ဖွင့်ခြင်းစွာ ပိုလွယ်ကူစီရေ။"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "ပရောဂျက်တိ စစ်ထုတ်ခြင်း"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "အားနုန်း"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "အကြောင်းကြားချက်တိ အားနုန်း"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$2 မှ \\$1"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "နန့် စစ်ထုတ်ထားရေ"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=1 ပရောဂျက်|\\$1 ပရောဂျက်တိမှာ}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 ပရောဂျက်|\\$1 ပရောဂျက်တိ}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 အမျိုးအစား|\\$1 အမျိုးအစားတိ}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "ဖတ်ကြေ့ပါ"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$3 က \\$1 နန့် \\$2"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "မဖတ်ရသိ"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "မိုင်တိုင် တီးဖြတ်မှု"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "သင်ဧ့တီးဖြတ်မှုကို ပြန်ပြောင်းထားရေ။"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "အီးမေးလ်အသစ်"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "အကြိမ်ပေါင်းများစွာ မအောင်မြင်ရေ အကောင့်ဝင်ဖို့ ကြိုးပမ်းမှု"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "မအောင်မြင်ရေ လော့ဂ်အင်ဝင်ဖို့ ကြိုးပမ်းမှု"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "မရင်းနီးရေစက်ပစ္စည်းတခုမှ လော့ဂ်အင်ဝင်ဝင်ခြင်း"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "ဆောင်းပါးဆွေးနွီးချက်စာမျက်နှာမှာ ဖော်ပြပါ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "တီးဖြတ်မှု အကျိုင်းချုပ်မှာ ဖော်ပြပါ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "ဖော်ပြခြင်း မအောင်မြင်ပါ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "ဖော်ပြခြင်း အောင်မြင်ရေ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "ဆွေးနွီးချက်စာမျက်နှာမှာ ဖော်ပြပါ"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "သင့်ဟောပြောချက်စာမျက်နှာက မက်ဆေ့ချ်"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "စာမျက်နှာလင့်ခ်"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "စာမျက်နှာကို သုံးသပ်ထားရေ"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ကျေးဇူးတင်မှုတိ"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "ဘာသာပြန်မှု မိုင်တိုင်"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "အသုံးပြုသူအခွင့်ရီး ပြောင်းလဲမှု"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ကြိုဆိုပါရေ!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "ဝီကီးပီးဒီးယား ချိတ်ဆက်မှု ပြုလုပ်ထားရေ"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "ဖတ်ပြီးကြောင်း မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "မဖတ်ရသိကြောင်း မှတ်သားဖို့"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "ထပ်လို့"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "အသိပီးချက်တိ"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "ရွီးချယ်ထားရေ အသိပီးချက်တိကို အမှတ်အသားပြုဖို့"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ရည်ညွန်းပြောဆိုချက်တိ"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "သတိပီးချက်"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ကြိုဆိုမက်ဆေ့"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "ဝီကီးပီးဒီးယားနန့် ချိတ်ဆက်မှု"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "မိုင်တိုင် တီးဖြတ်မှု"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "တည်းဖြတ်မှုတိကို ပြန်ပြောင်းထားရေ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "အနှစ်ချုပ်ဖော်ပြထားစော်ကို တီးဖြတ်ပါ"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "တခြားအသုံးပြုသူပါးက အီးမေးလ်"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "အကောင့်ဝင်ဖို့ ကြိုးစားမှုတိ"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "သင့်အကောင့်သို့ ဝင်ရောက်ဖို့ ကြိုးပမ်းမှု မအောင်မြင်ပါ"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "လော့အင် အောင်မြင်ရေ"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "တခြား"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "စာမျက်နှာလင့်ခ်"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "စာမျက်နှာ အကြိုမြင်ကွင်း"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "ပီးပို့မှု ပျက်ကွက်ခကြောင်း ဖော်ပြခရေ"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "အောင်မြင်ကြောင်းဖော်ပြထားပါရေ"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "ဟောပြောချက်ကို page mention ခေါ်ပါ။"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ကျေးဇူးတင်မှုတိ"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "ဘာသာပြန်မှု မိုင်တိုင်"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "အသုံးပြုသူအခွင့်ရီး ပြောင်းလဲမှု"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "ဆွေးနွီးစာမျက်နှာ မက်ဆေ့"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ကြိုဆိုပါရေ!"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "ဝီကီးပီးဒီးယားက လုပ်ဆောင်ချက်အသစ်"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2 ထက်က{{PLURAL:\\$1|\\$1 မက်ဆေ့ဂျ်အသစ် တစ်စောင်|\\$1 မက်ဆေ့ဂျ်အသစ်တိ}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 မက်ဆေ့ဂျ်အသစ်|\\$1 မက်ဆေ့ဂျ်အသစ်တိ}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 က - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 သမိုင်းဝင်ဖြစ်ရပ်|\\$1 သမိုင်းဝင်ဖြစ်ရပ်တိ}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ဂနိန့်ခေတ် သမိုင်းဝင်ဖြစ်ရပ်တိ"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "ဒေနီရာမှာ {{PLURAL:\\$1|\\$1 နောက်ထပ် သမိုင်းဝင်ဖြစ်ရပ်|\\$1 နောက်ထပ် သမိုင်းဖြစ်ရပ်တိ}}"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "သင်ဧ့ အဓိက Wikipedia ဘာသာစကားစွာ အထူးဦးစားပီး ဆောင်းပါးကို မပံ့ပိုးပါ။  အက်ပ်ဧ့ ဆက်တင်တိ မီနူးမှာ သင်ဧ့ အဓိက Wikipedia ကို အပ်ဒိတ်လုပ်နိုင်ပါရေ။"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "ဒေတာမရဟိနိုင်ပါ"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2 ဝီကီးပီးဒီးယားက \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ဒေနိန့်မှာ"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "သင်စတင်ခရေ တက်ဘ်သို့ ပြန်လားဖို့ 'W' ကိုနှိပ်ပါ"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "ဘော့"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "နှိုင်းယှဉ်ရန် တီးဖြတ်မှုနှစ်ခုကို ရွီးဖို့ တို့ပါ။"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "နှိုင်းယှဉ်ဖို့"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "အချိန်နန့်အမျှ တီးဖြတ်မှု ဂရပ်ဖစ်"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "အကောက်သို့ဝင်ပြီးယာ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "အရေးမကြီးရေ ပြင်ဆင်မှုတိ"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "စာရွီးသူ- \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "မှတ်ချက် \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "မူရာဇဝင်မှတ်တမ်း"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "အရေးမကြီးရေ တီးဖြတ်မှု"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|1 ဘိုက်|\\$1 ဘိုက်တိ}} ကိုပေါင်းထည့်ခရေ"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}ဖယ်ရှားထားရေ"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Revision လုပ်ထားရေ \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "ပြန်ပနာပြင်ဆင်မှု နှစ်ခုရာ ရွီးချယ်နိုင်ရေ"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2 ကတည်းက {{PLURAL:\\$1|\\$1 တီးဖြတ်|\\$1 တည်းဖြတ်မှုတိ}}"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "မှတ်ပုံတင်မထားပါ"
+    },
+    {
+      "name": "page_issues",
+      "value": "စာမျက်နှာ ကိစ္စရပ်တိ"
+    },
+    {
+      "name": "page_location",
+      "value": "မြေပုံမှာ ကြေ့ပါ"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ဒေစာမျက်နှာကို တီးဖြတ်ခွင့်မဟိမ့်ပါ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ဒေစာမျက်နှာကို ကာကွယ်ထားရေ"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ဆင်တူစာမျက်နှာတိ"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "ပြန်လည်ပြင်ဆင်မှုတိကို နှိုင်းယှဉ်ခြင်းနန့် ဆောင်းပါးတစ်ပုဒ်စွာ အချိန်နန့်အမျှ ပြောင်းလဲလာပုံကို ပြသဖို့ ကူညီပီးပါရေ။  ဆောင်းပါးတစ်ပုဒ်ဧ့ တည်းဖြတ်မှုနှစ်ခုကို နှိုင်းယှဉ်ခြင်းနန့် ပြောင်းလဲခရေ အကြောင်းအရာကို မီးမောင်းထိုးပြခြင်းဖြင့် ယင်း တီးဖြတ်မှုတိကြား ကွာခြားချက်ကို ပြသပါဖို့။"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "ပြန်ပနာပြင်ဆင်မှုတိကို နှိုင်းယှဉ်ပါ"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "လော့ဂ်အင်မပါဘဲ တီးဖြတ်ပါ"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "သင်စွာ လော့ဂ်အင်မဝင်ပါ"
+    },
+    {
+      "name": "pictured",
+      "value": "ပုံပြထားရေ"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "သိမ်းဆည်းခရေ ယှာဖွီမှုတိကို ရှင်းဖို့"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "ဆောင်းပါး \\$1 တိ"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "သင့်တည်နီရာကို ဗဟိုပြုပါ"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "စာရင်းအဖြစ် ပြဖို့"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "မြီပုံအဖြစ် ပြဖို့"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "ပိုလို့ဆောင်းပါးတိ ပြဖို့"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "မြို့တိ၊ နိုင်ငံတိ၊ တိုက်ကြီးတိ၊ သဘာဝမှတ်တိုင်တိ၊ သမိုင်းဝင်ဖြစ်ရပ်တိ၊ အဆောက်အဦတိနန့် တခြားအရာတိကို စူးစမ်းပါ။"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "ဝီကီးပီးဒီးယားဆောင်းပါးတိကို ပထဝီဝင်တည်နီရာတိနန့် ယှာဖွီဖို့"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "တည်နီရာကို ဖွင့်ဖို့"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "သင့်စခရင်ပေါ်တွင် အက်ပ် ယင်းသို့မဟုတ် ယင်းဧ့အင်္ဂါရပ်တိထဲက တစ်ခုကို မြင်နိုင်မှရာ သင့်တည်နီရာသို့ ဝင်ရောက်နိုင်ဖို့ဖြစ်တေ။"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Location Access ကိုဖွင့်ခြင်းနန့် သင့်တည်နီရာအနီးက ဆောင်းပါးတိကို ယှာဖွီပါ"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "စီစစ်ထားရေ ဆောင်းပါးတိ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "စိစစ်မှု"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "သင့်မှာ သိမ်းထားရေ နီရာတိ မဟိပါ"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "သိမ်းထားရေ ဆောင်းပါးတိ"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "ဖတ်ရှုမှု အများဆုံး"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "ဖတ်ရှုမှု အများဆုံး ဆောင်းပါးတိ"
+    },
+    {
+      "name": "places_list_title",
+      "value": "မှတ်တမ်း"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "တည်နီရာ ဖွင့်ပြီးယာ"
+    },
+    {
+      "name": "places_map_title",
+      "value": "မြီပုံ"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "သင် သိမ်းထားရေဆောင်းပါးတိထဲက ဇာတခုမှာမျှ တည်နီရာအချက်အလက် မဟိမ့်ပါ"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 သည် “\\$2” နန့်ကိုက်ညီနီရေ"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "နီရာတိ ယှာဖွီဖို့"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "\\$1 လို့ဆိုချင်စော်လား?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "လတ်တလော ယှာဖွီခရေ"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "သိမ်းဆည်းခရေ ဆောင်းပါးတိအားနုန်း"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "အဆိုပြုထားရေ ယှာဖွီမှုတိ"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ဒေဧရိယာက ရလဒ်တိ"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "ဖတ်ရှုမှု အများဆုံး ဆောင်းပါးတိ အားနုန်း"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "အနီးအနား"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "သင်ဧ့ လက်ဟိတည်နီရာ"
+    },
+    {
+      "name": "places_title",
+      "value": "နီရာတိ"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "မသိရရေ အကွာအဝီး"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 အတွက် တစ်နိန့်တာဓါတ်ပုံ"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 အတွက် ယင်းနိန့်ဧ့ပုံကို ပြန်ပနာရယူလို့မရပါ"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "အင်ဒိုနီးရှားနိုင်ငံ၊ အနောက်ဆူမတြား၊ Tanah Datar က ရိုးရာနွားအပြီးပြိုင်ပွဲ (Minangkabau က \"နွားပြိုင်ပွဲ\") မှာ ဂျော်ကီက ယင်းတိကို ကိုင်ဆောင်ထားစိုင် နွားနှစ်ကောင် ပြီးနီရေ။  2015၊ နောက်ဆုံး-45။"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "အကျွန်ရို့ဧ့ အသိုင်းအဝိုင်းမှ ရွီးချယ်ထားရေ လှပရေနိန့်စိုင် ဓာတ်ပုံကို ခံစားလိုက်ပါ။"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "ဒေနိန့်အတွက် ဓာတ်ပုံ"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "အက်ပ်အား ပိုမိုကောင်းမွန်လာစီ‌ဖို့ သင်အသုံးပြုပုံ အချက်အလက်တိ ရယူစုဆောင်းနိုင်ဖို့ ဝီကီးမီဒီယာကို ခွင့်ပြုပါ"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "ကိုယ်ရီးကိုယ်တာ မူဝါဒ"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "အင်္ဂါရပ်ပြဿနာ"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "ပရိုဖိုင်မြင်ကွင်းပသို့ လမ်းညွှန်ရေ"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "ကိုယ်ရီးအကျိုင်း"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "မဖတ်ရသိရေ တံဆိပ်ပါရေ ပရိုဖိုင်"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "သို့မဟုတ် ကမ္ဘာတစ်ဝှမ်းက လူတိုင်းအတွက် အခမဲ့အသုံးပြုနိုင်စီဖို့ လှူဒါန်းမှုနန့် Wikipedia ကို ပံ့ပိုးကူညီပါ။"
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "သင်ဧ့ ပံ့ပိုးမှုတိကို ခြီရာခံဖို့၊ ဆောင်းပါးတိကို အော့ဖ်လိုင်း သိမ်းဆည်းဖို့နန့် စက်တိမာ စင့်ခ်လုပ်ဖို့ Wikipedia အကောင့်ကို အကောင့်ဖွင့်ပါ။"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "အကောင့်ဝင်/ ဝီကီးပီးဒီးယားသို့ ဝင်ရောက်ပါ"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "လာဖို့နှစ်မာ ပြန်ပနာသုံးသပ်မှု ပိုပြီးကေကောင်းမွန်လာစီဖို့အတွက် အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် အကောင့်တစ်ခုဖန်တီးပါ"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "တစ်နှစ်တာအတွင်းမာ ပြန်ပနာသုံးသပ်မှီငြမ်းပနာ ထပ်မံကြည့်ရှုဖို့ အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် အကောင့်တစ်ခုဖန်တီးပြီး နောက်ထပ် ပုဂ္ဂိုလ်ရီးဆန်ရေ ထိုးထွင်းသိမြင်မှုတိအတွက် သတ်မှတ်ချက်ပြည့်မီပါစီ။"
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "Year in Review သို့ဝင်ရောက်ဖို့ ဝင်ရောက်ပါ"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "မီဒီယာဝီကီး"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "ဝီကီးစာအုပ်တိ"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "ဝီကီးဒေတာ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "ဘုံဖြိုက်တေ ဝီကီးမီဒီယာ"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "ဝီကီးသတင်း"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "ဝီကီးအဆိုအမိန့်"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "ဝီကီးအရင်းမြစ်"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "ဝီကီးမျိုးစိတ်"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "ဝီကီးဗာစတီ"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "ဝီကီးခရီးလား"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "ဝစ်ရှင်နရီ"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ဒေဆောင်းပါးအား စာဖတ်စာကေးတစ်ခုသို့ ပေါင်းထည့်ဖို့လော"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "“\\$1” ကို စာဖတ်စာရင်းပသို့ ထည့်သွင်းဖို့လား"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "ဟုတ်ပါ‌ရေ၊ စာဖတ်စရင်းထဲ ထည့်သွင်းပီးပါ"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "သင့် Wikipedia အက်ပ်မာ သိမ်းဆည်းထားရေ ဆောင်းပါးတိဟိပါရေ။  ယင်းရို့ကို သိမ်းဆည်းထားပြီးပနာ သင့်အကောင့်ပသို့ စင့်ခ်လုပ်ထားရေ စာဖတ်စရင်းတိနန့် ပေါင်းစည်းလိုပါလား?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "သိမ်းထားရေ ဆောင်းပါးတိ တွိ့ဟိပါရေ"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "ဒေစရင်းမာ ထည့်သွင်းမှုအရီအတွက်ကန့်သတ်ချက်သို့ သင်ရောက်ဟိလားရေကြောင့် ဒေထည့်သွင်းမှုကို ထပ်တူပြုလို့မရပါ။"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "သင်ဧ့စာဖတ်စာရင်းကို sync လုပ်နီစိုင် မမျော်လင့်ထားရေအမှားတစ်ခု ဖြစ်ပွားခရေ"
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "စင့်ခ်လုပ်ထားရေစရင်းတိဧ့ ကန့်သတ်ချက်သို့ သင်ရောက်ရှိလားခြင်းကြောင့် ဒေစရင်းကို စင့်ခ်လုပ်မထားပါ။"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "စာဖတ်စရင်း ဖန်တီးဖို့"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "ဖော်ပြချက်"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "စရင်းနာမည်ကို ဖတ်နီရေ"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "စရင်းသစ်တစ်ခု ဖန်တီးဖို့"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "စာဖတ်စရင်း ဖျက်ပြီးယာ"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "စာဖတ်ခြင်းစရင်းကို ယှာပါ"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "ဟင်းအင်း၊ ဆောင်ပါးတိကို စက်ပစ္စည်းထဲက ဖျက်လိုက်ပါ"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "ဒေစာရင်းက ဆောင်းပါးအားနုန်းကို စင့်ခ်လုပ်ခြင်းကို ပြန်ပနာစတင်ဖို့အတွက် ဒေစာရင်းက သင့်ဆောင်းပါးအရီအတွက်ကို \\$1 ပသို့ လျှော့ချပါ။"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "အကောင့်တစ်ခုမှာ {{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}}နှုန်း ကျော်လွန်လားပါရေ။"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|‌ေ‌‌ဆာင်းပါး|ဆောင်ပါးတိ}} ကို ဒေစာရင်းသို့ ထည့်၍မရပါ။  သင်ဖတ်ဖို့စာရင်းတစ်ခုမှာ \\$3 နန့် ဆောင်းပါးတိ \\$2 ကန့်သတ်ချက်သို့ ရောက်ဟိလားပါယာ"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "စာဖတ်စရင်းနာမည်မှာ အသုံးပြုပြီးသားဖြစ်တေ"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "သင်ဧ့စာဖတ်ခြင်းစရင်းတိကို အပ်ဒိတ်လုပ်နီစိုင် မမျှော်လင့်ထားရေ အမှားတစ်ခု ဖြစ်ပွားခရေ။"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ဟုတ်ပါရေ၊ ဆောင်ပါးတိကို စက်ပစ္စည်းထဲ မှတ်ထားပါ"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "သင်၏ဝီကီးပီးဒီးယားအကောင့်သို့ sync လုပ်ထားရေ ဆောင်းပါးတိ ဟိရေ။ အကောင့်ကထွက်ပါက သင့်စက်ပစ္စည်းထဲမှာ ယင်းရို့ကို ဆက်လက်ထားချင်ပါလား?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "သိမ်းထားတဲ့ဆောင်းပါးတိကို စက်ပစ္စည်းထဲ ဆက်ထားဖို့လာ?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "ဆောင်းပါးတိကို စီလိုက်ပါ"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "ခွဲခြားမထားရေ ဆောင်းပါး 5000 ကန့်သတ်ချက် ဟိပါရေ။  ကျေးဇူးပြုပြီးကေ မခွဲထားရေ ဆောင်းပါးတိကို ထပ်တူပြုခြင်းကို ဆက်ပနာလုပ်ဆောင်ရန် သင့်ဟိပြီးသား ဆောင်းပါးတိကို စာရင်းတိအဖြိုက် စီပါ။"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "မစီထားရေ ဆောင်းပါးတိအတွက် ကန့်သတ်ချက်ရောက်ပါယာ"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "ဒေစာဖတ်ခြင်းစရင်းနန့် ၎င်းမာသိမ်းဆည်းထားရေ ဆောင်းပါးတိကို ထပ်တူကျစီဖို့မဟုတ်ရေအတွက်၊ ဒေစရင်းကို ထပ်တူပြုခြင်းကို ပြန်ပနာစတင်ဖို့အတွက် သင့်စာရင်းအရီအတွက်ကို \\$1 သို့ လျှော့ချပါ။"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "သင်ရေ အကောင့်တစ်ခုကေ {{PLURAL:\\$1|\\$1 စာဖတ်စာရင်း|\\$1 စာဖတ်စာရင်းတိ}} ကို ကျော်လွန်လားပါယာ။"
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "သင်ရေ အကောင့်တစ်ခုကေ \\$1 စာဖတ်ခြင်းစာရင်းဧ့ ကန့်သတ်ချက်သို့ ရောက်ဟိလားပါယာ"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "သိမ်းထားရေ သင်၏ဆောင်းပါးတိကို sync လုပ်ဖို့ အကောင့်ထဲဝင်ပါ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "အကောင့်ထဲဝင်ဖို့ ယင်းသို့မဟုတ် အကောင့်ဖန်တီးဖို့"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "သိမ်းထားရေဆောင်းပါးတိကို sync လုပ်ဖို့ အကောင့်ထဲဝင်ပါ"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "သင်သိမ်းဆည်းထားရေ ဆောင်းပါးတိနန့် ဖတ်ရှုခြင်းစရင်းတိကို စက်တိထက်မာ တစ်ပြိုင်တည်း ချိတ်ဆက်ပြီးကေ သင့်အသုံးပြုသူစိတ်ကြိုက်တိသို့ သိမ်းဆည်းနိုင်စီဖို့ အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် ဖန်တီးပါ။"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "သိမ်းထားရေ သင်ဧဆောင်းပါးတိကို sync လုပ်ဖို့လား?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[အသုံးပြုသူ ဖန်တီးခရေ]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "အရေးမကြီးရေ ဖော်ပြချက်တို"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "စာရင်းခေါင်းစိုင် ဖတ်နီရေ"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "အခြားစက်ဝန်က သင့် Wikipedia အကောင့်အတွက် ဖတ်ခြင်းစာကေးစင့်ခ်လုပ်ခြင်းကို ပိတ်ထားရေ။  သင်ဧ့ဆက်တင်တိကို အပ်ဒိတ်လုပ်ခြင်းနန့် စင့်ခ်ကို ပြန်ဖွင့်နှိုင်ရေ။"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sync လုပ်ဆောင်ချက် ပိတ်ထားပြီး"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Sync လုပ်ခြင်းကို ဖွင့်ဖို့"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "သင်ဧ့ သိမ်းဆည်းထားရေ ဆောင်းပါးတိနန့် ဖတ်ရှုစာကေးတိကို အဂု သင်ဧ့ Wikipedia အကောင့်မာ သိမ်းဆည်းနှိုင်ပြီး Wikipedia အက်ပ်တိတလျှောက် စင့်ခ်လုပ်နှိုင်ပါရေ။"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "စာဖတ်စာရင်း စင့်ခ်လုပ်ခြင်းကို ဖွင့်ဖို့လား?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "ဒေအကောင့်အတွက် ဖတ်ခြင်းစာကေးစင့်ခ်လုပ်ခြင်းကို ဖွင့်ထားရေ။  စင့်ခ်လုပ်ခြင်းကို ရပ်ဖို့ သင်ဧ့ဆက်တင်တိကို အပ်ဒိတ်လုပ်ခြင်းနန့် ဒေအကောင့်အတွက် စင့်ခ်လုပ်ခြင်းကို ပိတ်နှိုင်ရေ။"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "ဒေအကောင့်တွင် snyc လုပ်ခြင်းကို ဖွင့်ထားပါယာ"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "သင်ဧ့စာဖတ်ခြင်းစာရင်းသို့ ထည့်သွင်းစဉ် မမျှော်လင့်ထားရေ အမှားတစ်ခု ဖြစ်ပွားခရေ။  ကျေးဇူးပြုပနာ နောက်မှ ပြန်ပနာစမ်းကြည့်ပါ။"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "သင်ဧ့စာဖတ်စာကေးကို ဖန်တီးနီစဉ် မမျော်လင့်ထားရေ အမှားတစ်ခု ဖြိုက်ပွားခပါရေ။ ကျေးဇူးပြုပြီးကေ နောက်တခါလည်း ပြန်ပနာကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "သင်ဧ့စာဖတ်စာရင်းကို ဖျက်နီစိုင် မမျော်လင့်ထားရေ အမှားတစ်ခု ဖြိုက်ပွားခပါရေ။ ကျေးဇူးပြုပြီးကေ နောက်တခါလည်း ထပ်မံကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "သင်ဧ့စာဖတ်ခြင်းစာရင်းမှ ထည့်သွင်းမှီငြမ်းပနာ ဖယ်ယှားနီစိုင် မမျှော်လင့်ထားရေ အမှားတစ်ခု ဖြိုက်ပွားခရေ။  နောက်ခါမှ ပြန်ပနာစမ်းကြေ့ပါ။"
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "သင်ဧ့စာဖတ်စာရင်းကို မွမ်းမံနီစိုင် မမျော်လင့်ထားရေ အမှားတစ်ခု ဖြိုက်ပွားခပါရေ။ ကျေးဇူးပြုပြီးကေ နောက်တခါလည်း ပြန်ပနာကြိုးစားကြေ့ပါ။"
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "“\\$1” နာမည်နန့် စာဖတ်စာရင်းတခုကို မတွိ့ဟိပါ။ သင့်မာ မှန်ကန်ရေနာမည်ဟိစွာကတော့ခါ သေချာပါစီ။"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "“\\$1” သို့ ဆောင်းပါး ပေါင်းထည့်ခရေ"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "ဆောင်းပါးကို sync မလုပ်နိုင်ပါ"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "ထပ်တူပြုထားခြင်းမဟိပါ"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "ဆောင်းပါးကန့်သတ်ချက် ကျော်လွန်လခပါယာ၊ ဆောင်းပါးကို sync မလုပ်နိုင်ပါ။"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "စာရင်းကန့်သတ်ချက် ကျော်လွန်လခပါယာ၊ ဆောင်းပါးကို sync မလုပ်နိုင်ပါ။"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "ဆောင်းပါးဒေါင်းလုတ်ဆွဲဖို့ တန်းစီစောင့်နီရေ"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "စက်ပစ္စည်းကန့်သတ်ချက် ကျော်လွန်လခပါယာ၊ ဆောင်းပါးကို sync မလုပ်နိုင်ပါ"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "သင်ဧ့စက်ပစ္စည်းတွင် နီရာတချို့ရှင်းလင်းပြီး ပြန်ပနာကြိုးစားပါ"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "ဆောင်းပါးအတချို့ sync မဖြစ်ပါ၊ ကန့်သတ်ချက် ကျော်လွန်လခရေ"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "သင်ဧ့ '\\$1' စာရင်းကို '\\$2'အနီနန့် နာမည်ပြောင်းလဲလိုက်ပါယာ"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 စာဖတ်စာရင်း|\\$1 စာဖတ်စာရင်းတိ}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "သင် သိမ်းထားရေ ဆောင်းပါးတိအတွက် နဂိုစာရင်း"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "သိမ်းပါ"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "ဒေလုပ်ဆောင်ချက်ကို ပြန်ပျင်လို့မရပါ။  {{PLURAL:\\$1|ဒေစာရင်း|ဒေစာရင်းတိ}} မာရာ သိမ်းဆည်းထားရေ ဆောင်းပါးတိကို သိမ်းဆည်းခြင်း မပြုတော့ပါ။"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|စာရင်း|စာရင်းတိ}} ကို ဖျက်ပစ်ဖို့လား"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 article|\\$1 articles}} နန့် {{PLURAL:\\$2|\\$2 reading list|\\$2 reading lists}} ကို သင့်အကောင့်က စင့်ခ်လုပ်ထားရေ"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "စာရင်း sync မဖြစ်ပါ၊ ကန့်သတ်ချက် ကျော်လွန်လားရေ"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "သိမ်းဆည်းခရေ ဆောင်းပါးတိကို စီဖို့"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "စာဖတ်စာရင်းတစ်ခုလျင် \\$1 ဆောင်းပါးနှုန်းနန့် ကန့်သတ်ချက်တစ်ခု ဟိနီပါရေ။ ဒေကန့်သတ်ချက်ထက် ကျော်လွန်ရေ ဟိနီပြီးသားစာရင်းတိစွာ ၂ ခုထက်ပိုသောစာရင်းတိအဖြိုက် ကွဲထွက်လားပါရေ။"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "အိန်တာနက်ချိတ်ဆက်မှုရဟိနှိုင်ရေအခါ စင့်ခ်လုပ်ခြင်းကို ပြန်ပနာစတင်ပါဖို့"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "အနက်ရောင် အပြင်အဆင်"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "တောက်ပမှု ဆလိုက်ဒါ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "အမှောင် အပြင်အဆင်"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "အလင်း အပြင်အဆင်"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "နီညိုရောင် အပြင်အဆင်"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "syntax မီးမောင်းထိုးပြခြင်း"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "စာသားအရွယ်အစား ချိန်ညှိခလုတ်"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Syntax မီးမောင်းထိုးပြခြင်း"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "ရည်ညွှန်းချက်ကဏ္ဍသို့ လားဖို့"
+    },
+    {
+      "name": "reference_title",
+      "value": "ရည်ညွှန်း \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ဂနိန့်|1=ညက|\\$1 ရက်အကြာက}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1နာရီ"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=မကြာသိမ့်ခင်|\\$1နာရီအကြာက|\\$1 နာရီအကြာက}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1နာရီ အကြာက"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=မကြာသိမ့်ခင်|\\$1နာရီအကြာက|\\$1 နာရီအကြာက}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=အဂု|လွန်ခရေ \\$1 မိနစ်က|ပြီးခရေ \\$1 မိနစ်က}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1မိနစ်"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=အဂုလေးတင်|\\$1မိနစ်အကြာက|\\$1 မိနစ်အကြာက}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1မိနစ် အကြာက"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=ဒေလ|1=အယင်လ|\\$1 လအကြာက}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1စက္ကန့်"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1မိနစ် အကြာက"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=‌ေဒေနှစ်|1=အယင်နှစ်|\\$1 နှစ်အကြာက}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "ပြန်လာပါ"
+    },
+    {
+      "name": "return_to_article",
+      "value": "ဆောင်းပါးသို့ ပြန်လားဖို့"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "နောက်ပြန်ပြင်ရေ တီးဖြတ်မှု"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "Tab အားနုန်းကို သိမ်းပါ"
+    },
+    {
+      "name": "save_view_temp_account_notice",
+      "value": "သင်ရေ ယာယီအကောင့်ကို အသုံးပြုနီပါရေ။  တီးဖြတ်မှုတိကို \\$1 နန့် သတ်မှတ်ခံရရေ..."
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "သင်စွာ လော့ဂ်အင်မဝင်ထားပါ။ တီးဖြတ်မှုပြုလုပ်ပြီးစွာနန့် သင့်ကိုယ်ရီးကိုယ်တာအချက်အလက်ကို ကာကွယ်ဖို့အတွက် ယာယီအကောင့်တစ်ခု ဖန်တီးပေးဖို့ဖြိုက်တေ။"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "ဆောင်းပါးတိ အားနုန်း"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "Tab အားနုန်းကိုသိမ်းခ‌ယာ"
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "တဘ်တိအားနုန်းကို သိမ်းဆည်းထားရေ။  စာဖတ်စရင်းကိုကြေ့ပါ။"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "ဒေစာရင်းကို မဖျက်ပစ်နိုင်ပါ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "ဒေသိမ်းထားရေစာမျက်နှာအတွက် ရုပ်ပုံတိ ဒေါင်းလုတ်ဆွဲရာတွင် မအောင်မြင်ပါ။"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "ဆောင်းပါး ဒေါင်းလုတ်ဆွဲခြင်း လုပ်ဆောင်နီရေ..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "စာဖတ်ခြင်းစာရင်းကို ယှာပါ"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "ဖတ်ထားရေစာရင်း"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "သိမ်းဆည်းထားရေဆောင်းပါးတိကို ယှာဖွီဖို့"
+    },
+    {
+      "name": "saved_title",
+      "value": "သိမ်းဆည်းပြီး"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "သိမ်းဆည်းခြင်းက ရပ်ဆိုင်းခြင်း {{PLURAL:\\$1|ဒေဆောင်းပါးစွာ ယင်းကို ဖယ်ယှားပါဖို့| ဒေဆောင်းပါးတိစွာ ယင်းရို့ကို ဖယ်ယှားပါဖို့}} ဆက်စပ်ဖတ်ရှုခြင်းစာရင်းအားနုန်းက"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "ဆောင်းပါး {{PLURAL:\\$1|ဆောင်းပါး|ဆောင်းပါးတိ}} မသိမ်းဖို့?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ဝီကီးပီးဒီးယားထဲတွင် ယှာဖွီပါ"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ရှင်းလင်းပါ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ဝီကီးပီးဒီးယားထဲတွင် ယှာဖွီပါ"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "မကြာသိမ့်ခင်က ယှာဖွီမှုတိအားနုန်း ဖျက်ဖို့လား?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ဒေဆောင်ရွက်ချက်စွာ နောက်ပြန်လို့ မရပါ!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "အားနုန်းဖျက်"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "မကြာသိမ့်ခင်က ယှာဖွီမှုတိ မဟိပါ"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "မကြာသိမ့်ခင်က ယှာဖွီခရေ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 က ပြန်ညွှန်းထားရေ"
+    },
+    {
+      "name": "search_title",
+      "value": "ယှာဖွီပါ"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ အဂု အက်ပ်အတွင်းက အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြိုက်နန့် အောက်ပါ ဆားဘီးယားမျိုးကွဲတိကို ပံ့ပိုးပီးထားပြီး သင်ခြီရေ မျိုးကွဲတိမာ ဖတ်ဖို့၊ ယှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုပြီးကေလွယ်ကူစီရေ-\n\n српски ћирилица ဆားဘီးယား၊ Cyrillic (sr-ec)\n srpski Latinica ဆားဘီးယား၊ လက်တင် (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "ဆားဘီးယားမျိုးကွဲ ပံ့ပိုးမှုအတွက် အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "settings_account",
+      "value": "အကောင့်"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "စာဖတ် အပြင်အဆင်တိ"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "သိမ်းဆည်းထားရေ ဒေတာတိကို ရှင်းလင်းပါ"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "ကက်ရှ်ဒေတာကို ရှင်းပစ်ခြင်းနန့် နီရာလွတ် \\$1 ခန့် လွတ်လားပါဖို့။  သင်ဧ့သိမ်းဆည်းထားရေ စာမျက်နှာတိကို ဖျက်ဖို့မဟုတ်ပါ။"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "သိမ်းဆည်းထားရေ ဒေတာတိကို ရှင်းလင်းပါ"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "မလုပ်ယာ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "ကက်ရှ်ကို ရှင်းလင်းပါ။"
+    },
+    {
+      "name": "settings_donate",
+      "value": "ပီးလှူပါ"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "အကူအညီနန့် အကြံပြုချက်"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "ယှာဖွီမှုတွင် ဘာသာစကားတိ ပြဖို့"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "သင်ဧ့ Explore feed ဆက်တင်တိကို စိတ်ကြိုက်ပြင်ဆင်ခြင်းနန့် သင်ဧ့ Explore feed မာ ပြသထားရေ ဘာသာစကားတိကို စီမံခန့်ခွဲနှိုင်ရေ။"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "အကျွန်ဧ့ ဘာသာစကားတိ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "အကြောင်းကြားချက်တိကို တွန်းပါ"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "သင့်အကောင့်နန့်သက်ဆိုင်ရေ အသိပီးချက်စာရင်းသွင်းမှုတိကို စစ်ဆီးနေစဉ် အမှားအယွင်းတစ်ခု ဖြိုက်ပွားခရေ။"
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Echo Notification စာရင်းသွင်းမှုတိကို စစ်ဆေးလို့မရပါ"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ပြန်ပနာ ကြိုးစားပါ"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "ပံ့ပိုးကူညီသူတိပါးက မက်ဆေ့ချ်တိ၊ သတိပီးချက်တိ နန့် သတိပီးချက်တိ ယင်းပိုင်ယှောင် သင့်အကောင့်နန့် သက်ဆိုင်ရေ လုပ်ဆောင်ချက်ကို သတိပီးပါ။  ကိုယ်ရီးကိုယ်တာနန့် မိနစ်ဒေတာတထိ အားနုန်းကို ပံ့ပိုးပီးထားရေ။"
+    },
+    {
+      "name": "settings_off",
+      "value": "ပိတ်"
+    },
+    {
+      "name": "settings_on",
+      "value": "ဖွင့်"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ပင်မ"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ဒေစာရင်းက ပထမဆုံးဘာသာစကားစွာ app အတွက် ပင်မဘာသာစကားအဖြိုက်နန့် အသုံးပြုထားပါရေ။"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Explore တက်ဘ်အစား Search တက်ဘ်သို့ ဖွင့်ဖို့ အက်ပ်ကို သတ်မှတ်ပါ"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Search တက်ဘ်တွင် အက်ပ်ကိုဖွင့်ပါ"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "အကောင့်ဝင်ပြီး စင့်ခ်လုပ်ရအခါမှာ သင်ဧ့သိမ်းဆည်းထားရေ ဆောင်းပါးတိနန့် ဖတ်ရှုခြင်းစာရင်းတိကို ဝီကီးမီဒီယာအား ခွင့်ပြုပါ။"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "သိမ်းထားရေ ဆောင်းပါးတိနန့်စာရင်းတိကို sync လုပ်ဖို့"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "သင်ဧ့စာဖတ်ခြင်းစာရင်းတိကို နောက်ခံတွင် စင့်ခ်လုပ်ပါဖို့"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "သင်ဧ့ စင့်ခ်လုပ်ထားရေ ဆောင်းပါးတိနန့် ဖတ်ရှုစာရင်းတိအတွက် အပ်ဒိတ်တစ်ခု တောင်းဆိုပါ။"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "sync လုပ်ထားရေ စာဖတ်စာရင်းကို မွမ်းမံဖို့"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "သိမ်းဆည်းထားရေ (ဥပမာ။ တရားသီ) စာဖတ်ခြင်းစာရင်းကို သင်ဧ့စာဖတ်ခြင်းစာရင်းမြင်ကွင်းမာ သီးခြားစာရင်းအဖြိုက်နန့် ပြပါ။  ဒေစာရင်းစွာ Android စက်တိမာ ပေါ်လာရေ။"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "သိမ်းထားရေ စာဖတ်စာရင်းကို ပြဖို့"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "ဆောင်းပါး သိုလှောင်ခန်းနန့် sync ပြုလုပ်ခြင်း"
+    },
+    {
+      "name": "settings_title",
+      "value": "အပြင်အဆင်တိ"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "ပြန်ပနာသုံးသပ်ခြင်းမာ တစ်နှစ်ကို ပိတ်လိုက်ခြင်းနန့် သိမ်းဆည်းထားသော ပုဂ္ဂိုလ်ရီးသီးသန့် ထိုးထွင်းသိမြင်မှုအားနုန်းကို ယှင်းလင်းပြီး ပြန်ပနာဆန်းစစ်ခြင်းမာ တစ်နှစ်ကို ဝှက်ထားပါဖို့။"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "ဝီကီးပီးဒီးယား app နန့် ပြုလုပ်တေ"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "Wikipedia တွင် \"\\$1\""
+    },
+    {
+      "name": "share_building",
+      "value": "Share-a-fact card တည်ဆောက်ခြင်း..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$2” က “\\$1”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$2”\n\nက “\\$1”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "လမ်းညွှန်ချက် ရယူပါ"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "မျှဝီ..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$2” \\$1"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "ဝီကီးပီးဒီးယားက တဆင့်"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "မြီပုံတွင် ဖွင့်‌ဖို့"
+    },
+    {
+      "name": "share_social_format",
+      "value": "ဝီကီးပီးဒီးယားကတဆင့် “\\$1”: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "ဝီကီးပီးဒီးယား ကတဆင့် “\\$1”: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "မကြာသိမ့်ခင်က ထည့်ပေါင်းခရေ"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "ခေါင်းစီး"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "အကြံပြုထားရေ တီးဖြတ်မှုတိ"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "တစ်ခု ယင်းသို့မဟုတ် တစ်ခုထက်ပိုရေ ရွီးစရာတိကို ရွီးပါ"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "တခြား"
+    },
+    {
+      "name": "survey_submit",
+      "value": "တင်သွင်းပါ"
+    },
+    {
+      "name": "survey_title",
+      "value": "အ​ကြောင်း​ပြ​ချက်"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "မာတိကာ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ပိတ်ပါ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "မာတိကာ ပိတ်ဖို့"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "အကြောင်းအရာတိ"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "မာတိကာ ဝှက်ဖို့"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "ခေါင်းစိုင်ခွဲ \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "tab ပိတ်ပါ"
+    },
+    {
+      "name": "tabs_main_page_description",
+      "value": "ဝီကီးပီးဒီးယား ပင်မစာမျက်နှာက အထူးအသားပီး ဆောင်းပါးတ၊ နောက်ဆုံးသတင်းတိ၊ စိတ်ဝင်စားစရာ အချက်အလက်တိနန့် အဓိက အချက်အလက်တိကို ယှာဖွီပါ။"
+    },
+    {
+      "name": "tabs_main_page_subtitle",
+      "value": "Wikipedia ဧ့နိန့်စိုင်အလီးပီးချက်တိ"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 တက်ဘ်|\\$1 တက်ဘ်တိ}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Tab ဖွင့်ပါ"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "တက်ဘ်တိ လုပ်ဆောင်ချက်ကို ပိုမိုကောင်းမွန်အောင် ကူညီပီးပါ။  ‌ဒေဝန်ဆောင်မှုကို သင်ကျေနပ်ပါလား?"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ ဂုချိန်ခါမာ အောက်ပါ Tachelhit မျိုးကွဲတိကို အက်ပ်အတွင်းက အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြိုက်နန့် ပံ့ပိုးပီးထားပြီး သင်ခြီရေမျိုးကွဲတိမာ ဖတ်ဖို့၊ ယှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုပြီးကေလွယ်ကူစီရေ-\n\n ⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\n Taclḥit Tachelhit၊ လက်တင် (ရှီ-လတ်)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Tachelhit ဗားရှင်းပံ့ပိုးမှုဆိုင်ရာ အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ အဂု အက်ပ်အတွင်းက အဓိက ယင်းသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအဖြိုက်နန့် အောက်ပါ Tajik မျိုးကွဲတိကို ပံ့ပိုးပီးထားပြီး သင်ခြီရေ အမျိုးအစားတိမာ ဖတ်ဖို့၊ ယှာဖွီဖို့နန့် တီးဖြတ်ဖို့ ပိုပြီးကေလွယ်ကူစီရေ-\n\n тоҷикӣ кирилликӣ တာဂျစ်၊ Cyrillic (tg-cyrl)\n tojikī lotinī တာဂျစ်၊ လက်တင် (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "တာဂျစ်ပုံစံ ပံ့ပိုးမှုဆိုင်ရာ အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 တက်ကြွရေအသုံးပြုသူ|\\$1 တက်ကြွရေအသုံးပြုသူတိ}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "ခေါင်းစီးထည့်ပါ"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "မော်ကွန်းတိ"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "ဆွေးနွီးချက် စာမျက်နှာတိအကြောင်း"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "ဘာသာစကား ပြောင်းပါ"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "အပ်ခြေကို ခေါက်သိမ်းပါ"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "ဖတ်ဖို့"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "မဖတ်ရသိ"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "အပလီကေးယှင်းစွာ ဆာဗာပါးက မမျှော်လင့်ထားရေ တုံ့ပြန်မှုကို လက်ခံရဟိခရေ။  နောက်ခါမှ ထပ်စမ်းကြေ့ပါ။"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "မမျှော်လင့်ထားရေ အမှား"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "တခုခုမှားလခရေ။"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "စကားပြောစာမျက်နှာကို ဖွင့်လို့မရပါ"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "ကြိုးကိုချဲ့ပါ"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "စာမျက်နှာတွင် ယှာဖွီပါ"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "စာတွဲအားနုန်းကို ဖွင့်ပါ"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "မိမိရို့အားနုန်းစွာ လူသားတိဖြိုက်ကတ်စော်ကို အောက်မိပါ"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "ကျေးဇူးပြုပနာ ကြင်နာပါ"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "သင်ဧ့အကြောင်းပြန်စာကို အောင်မြင်စွာလွှင့်တင်ခရေ"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "သင်ဧ့ဆွေးနွီိးချက်ကို အောင်မြင်စွာလွှင့်တင်ခရေ"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "စာပြန်ဖို့ ပြန်လားဖို့ နှစ်ချက်တို့ပါ"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "နောက်ထပ် စကားပြော စာမျက်နှာ ရွီးချယ်စရာတိ"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "စာမျက်နှာ အချက်အလက်"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "အချိန်မရွီးလင့်"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "သင့်အင်တာနက်ချိတ်ဆက်မှုကို ကျေးဇူးပြုပနာ စစ်ဆေးပါ။"
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "သင့်မှတ်ချက်ကို ထုတ်ဝီလို့မရပါ။"
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "ခေါင်းစီးအသစ်ကို ထုတ်ပြန်လို့မရပါ။"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "ဝဘ်တွင်ဖတ်ပါ"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "အေမှာဇာလင့်တိလေး"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 အကြောင်းပြန်|\\$1 အကြောင်းပြန်စာတိ}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "ပြန်ပြောပါ"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1 သို့ စာပြန်ပါ"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "အဖြေအနက်- \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1 သို့ စာပြန်ပါ"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "သင့်ပြန်ကြားစာကို သင့်အသုံးပြုသူနာမည်နန့် အလိုလျောက် လက်မှတ်ရီးထိုးဖို့ဖြိုက်ကြောင်း သတိပြုပါ။  အပြောင်းအလဲတိကို သိမ်းဆည်းခြင်းနန့် သင်စွာ \\$1 အသုံးပြုမှုစည်းမျိုင်းတိ\\$2 ကို သဘောတူပြီး \\$3CC BY-SA 4.0\\$4 နန့် \\$5GFDL\\$6 လိုင်စင်တိအောက်မာ သင့်ပံ့ပိုးကူညီမှုကို ထုတ်ပြန်ဖို့ သဘောတူပါရေ။"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "ပြန်လို့ပြင်ဆင်မှုမှတ်တမ်း"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "ပြန်ကြားချက်မြင်ကွင်းကို ပိတ်ပါ"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "ဆွေးနွီးချက်စာမျက်နှာကိုမျှဝီပါ"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "စာရင်းသွင်းပါ"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "ဒေအကြောင်းအရာက မှတ်ချက်အသစ်တိအကြောင်း အကြောင်းကြားချက်တိ လက်ခံရဟိပါဖို့။"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "စာရင်းသွင်းပြီးပါယာ!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "ခေါင်းစီးကို စာရင်းသွင်းခြင်း မအောင်မြင်ပါ၊ ကျေးဇူးပြုပနာ ထပ်စမ်းကြေ့ပါ။"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "ဆောင်းပါး ဆွေးနွီးချက်"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "အသုံးပြုသူ ဆွေးနွီးချက်"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "အပြောင်းအလဲတိကို ထုတ်ဝီခြင်းနန့် သင်စွာ \\$1 အသုံးပြုမှုစည်းမျိုင်းတိ\\$2 ကို သဘောတူရာရောက်ပြီး \\$3CC BY-SA 4.0 လိုင်စင်\\$4 နန့် \\$5GFDL\\$6 အောက်မာ သင့်အလှူဖေသာကို ပြန်ပနာရုပ်သိမ်းဖို့ သဘောတူပါရေ။"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "စာရင်းပီးစာကိုဖယ်ပါ"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "ဒေအကြောင်းအရာက မှတ်ချက်အသစ်တိကြောင်း အကြောင်းကြားချက်တိကို သင်လက်ခံရဟိဖို့ရာ မဟုတ်ပါ။"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "သင်စွာ စာရင်းသွင်းမှုကို ရပ်ဆိုင်းလိုက်ပါယာ။"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "ခေါင်းစီးကို စာရင်းသွင်းခြင်းက ပယ်ဖျက်ခြင်း မအောင်မြင်ပါ၊ ကျေးဇူးပြုပနာ ထပ်စမ်းကြေ့ပါ။"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "အသုံးပြုသူ ဆွေးနွီးချက် စာမျက်နှာတိအကြောင်း"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "ပံ့ပို့မှုတိ"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "သိမ်းဆည်းထားရေ စာမျက်နှာတိ မတွိပါ။"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "မော်ကွန်းတိ"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "ဆက်ဖတ်ရှုပါ"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "သင့်မှတ်ချက်ကို ထည့်ထားရေ"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "ဆက်တီးဖြတ်ပါ"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "အရင်းအမြစ်ကိုတီးဖြတ်ပါ"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "ဆွေးနွီးခြင်းစာမျက်နှာစွာ ဝီကီးပီဒီယာထဲမှာဇာပိုင်အကောင်းဆုံး အချက်လက်တိဖြေ့ပီးနိုင်ဖို့လဲဆိုစွာကို ဆွေးနွေးရေနီရာဖြိုက်တေ။ **ဆွေးနွေးဖို့အကြောင်းရာထည့်ပနာစတင်** ဝီကီးပီဒီယာအဖွဲ့နန့် ပူးပေါင်းလုပ်ဆောင်ပနာချိတ်ဆက်ဖို့။"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Talk စာမျက်နှာတိစွာ Wikipedia မာ အကြောင်းအရာတိကို ကောင်းဘီယက်ဖြိုက်ယောင် ဇာပိုင်ပြုလုပ်ရဖို့ကို လူအများ ဆွီးနွီးရေနီရာဖြိုက်ရေ။  \\$1 နန့် ချိတ်ဆက်ပြီးကေ ပူးပေါင်းလုပ်ဆောင်ဖို့ ဆွီးနွီးမှုအသစ်တစ်ခု စတင်ပါ။  ဒေနီရာမာ သင်ပြောရေအရာကို တခြားသူတိ မြင်နှိုင်စီဖို့ အတိမြင်သာယောင် ပြုလုပ်ပါဖို့။"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "အကြောင်းအရာအသစ်တစ်ခုကိုထည့်ပါ"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "တိုင်ပင်မှုတစ်ခုကိုစပါ"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "စကားပြောဆိုခြင်းကိုဒေနီရာကစပါ"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1နန့်ဆွေးနွီးမှုစတင်ပါ"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "ဒေစာပြန်ခြင်းအသစ်ကို ပယ်ဖျက်ချင်စွာ သေချာပါလာ?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "သင့်အကြောင်းအရာကို ထည့်သွင်းထားရေ"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "ဖော်ပြချက်"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "ခေါင်းစီးဖော်ပြချက်"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "စာပြန်ခြင်းကို ပယ်ဖျက်ပါ။"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "အကြောင်းအရာကို ဖျက်သိမ်းပါ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "ဒေအကြောင်းအရာအသစ်ကို စွန့်ပစ်လိုစော်က သေချာပါလား?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "အကြောင်းအရာ"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "ခေါင်းစီး"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "ဆွေးနွေးခြင်းစာမျက်နှာစွာ ဝီကိပီဒီယာမှာဟိရေအချက်လက်တိကို အကောင်းဆုံးဖြိုက်အောင် လူတိကဆွေးနွေးကတ်ဖို့အတွက်ဖြိုက်တေ။ ပိုမိုချိတ်ဆက်ပြီးကေ ဝီကီပီဒီယာအသိုင်းအဝိုင်းနန့် လက်တွဲလုပ်ဆောင်နိင်ဖို့ဆွေးနွေးစရာ ခေါင်းစိုင်သစ်တိထည့်ပီးပါ။"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "ဟောပြောချက် စာမျက်နှာတိစွာ Wikipedia မာ အကြောင်းအရာတိကို ကောင်းဘီယက်ဖြိုက်ယောင် ပြုလုပ်နည်းကို \\$1လူတိက ဆွီးနွီးရေနီရာဖြိုက်ရေ။\\$1 ဝီကီပီးဒီးယားအသိုင်းအဝိုင်းနန့် ချိတ်ဆက်ပြီးကေ ပူးပေါင်းလုပ်ဆောင်ဖို့ ဆွီးနွီးချက်အသစ်တခုကို ထည့်ပါ။"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "ကျေးဇူးပြုပနာ ကြင်နာပါ၊ အကျွန်ရို့အားနုန်း ဒေနီရာတွင် လူသားတိဖြစ်တေ။"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "စကားပြော စာမျက်နှာတိ"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "အသုံးပြုသူအုပ်စုတိ"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "မှတ်​တမ်း​တိ"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "စကားပြောပါ"
+    },
+    {
+      "name": "temp_account_alert_read_more_information",
+      "value": "\\$1 သင်စွာ ယာယီအကောင့်ကို အသုံးပြုနီပါရေ။ \\$2 အကောင့်စွာ ရက် 90 အတွင်းမာ သက်တမ်းကုန်ဆုံးပါဖို့။  သက်တမ်းကုန်ဆုံးယပြီးနောက်၊ သင်အကောင့်ဝင်ခြင်းမပြုဘဲ နောက်တစ်ချိန်းတည်းပိုင်းမှုပြုလုပ်ရေအခါ အသစ်တခုကို ဖန်တီးပါဖို့။ \\$3 အကောင့်ဝင်ပါ ယင်းသို့မဟုတ် အနာဂတ်တီးဖြတ်မှုတိအတွက် ခရက်ဒစ်ရယူဖို့ အကောင့်တစ်ခုဖန်တီးကာ တခြားဝန်ဆောင်မှုတိကို ဝင်ရောက်ကြေ့ရှုပါ။"
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "အကောင့်ထဲဝင်ရန် ယင်းသို့မဟုတ် အကောင့်ဖန်တီးဖို့"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2 သင်စွာ လက်ဟိမာ ယာယီအကောင့်ကို အသုံးပြုနီပါရေ။ \\$3 ယာယီအကောင့် \\$1 နန့် ပြုလုပ်ထားရေ တီးဖြတ်မှုတိကို သင်ဝင်ရောက်ရေအခါ သင့်သုံးနီကျအကောင့်သို့ သယ်ဆောင်လားဖို့မဟုတ်ပါ။ အခြာတခြားအကျိုးကျေးဇူးတိထဲက သင့်အသုံးပြုသူနာမည်ကို ခရက်ဒစ်ရယူဖို့အတွက် အကောင့်တစ်ခုဖွင့်ပါ ယင်းသို့မဟုတ် ဝင်ရောက်ပါ။"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "ဆက်ဖတ်ရှုပါ"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1 သင်စွာ လက်ဟိတွင် ယာယီအကောင့်ကို အသုံးပြုနီပါရေ။ ယာယီအကောင့်နန့် ပြုလုပ်ထားရေ တီးဖြတ်မှုတိ \\$2..."
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "သင်စွာ ယာယီအကောင့်ကို အသုံးပြုနီပါရေ"
+    },
+    {
+      "name": "temp_warning_subtitle_format",
+      "value": "သင်ဧ့ တီးဖြတ်မှုကို \\$1 နန့် သတ်မှတ်ပါဖို့"
+    },
+    {
+      "name": "temporary_account",
+      "value": "ယာယီအကောင့်"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "သတ်မှတ်ချက်တိ"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "အမဲရောင်"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "အမှောင်"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "နဂိုအတိုင်း"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "ကိုက်ညီရေ စနစ်အပြင်အဆင်"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "အလင်း"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "နီညိုရောင်"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Wikipedia တွင် ဂနိန့်ကမ္ဘာကြီးဖတ်ရှုနီရေအရာကို လိ့လာပါ။"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 စာဖတ်သူတိ"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "ဖတ်ရှုမှု အများဆုံး"
+    },
+    {
+      "name": "try_now_title",
+      "value": "အဂု ကြိုးစားကြေ့ပါ"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "ကျူတိုရီရယ်"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "ဆက်လို့ဝင်ရောက်ပါ"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "ကျေးဇူးပြုပနာ အီးမေးလ် အတည်ပြုကုဒ်ကို ထည့်ပါ"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "ဆက်လို့ဝင်ရောက်ပါ"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "အတည်ပြုကုဒ်ကို ရိုက်ထည့်ပါ"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "သင်ဧ့အကောင့်သို့ ၀င်ဖို့"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "သင်ဧ့ အရန်ကုဒ်တိထဲက တစ်ခုကို အသုံးပြုပါ"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "အတည်ပြုကုဒ်ကို အသုံးပြုပါ"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "ဆွီးနွီးချက်စာမျက်နှာကို ဝန်မဆွဲတင်နိုင်ပါ"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "မသိ"
+    },
+    {
+      "name": "unwatch",
+      "value": "အမှတ်မထားမိ"
+    },
+    {
+      "name": "user_title",
+      "value": "အသုံးပြုသူ"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Wikipedia အက်ပ်စွာ ‌ဒေဂုခါတွင် အောက်ပါ Uzbek အမျိုးကွဲတိကို အက်ပ်အတွင်းတွင် အဓိက ယင်ူသို့မဟုတ် အလယ်တန်းဘာသာစကားတိအနီနန့် ပံ့ပိုးပီးထားပြီး သင်နှစ်သက်တေမျိုးကွဲတိတွင် ဖတ်ဖို့၊ ရှာဖွေဖို့နန့် တီးဖြတ်ဖို့ ပိုလွယ်ကူစီရေ-\n\n oʻzbekcha lotin ဥဇဘက်၊ လက်တင် (uz-latin)\n ўзбекча кирилл ဥဇဘက်၊ Cyrillic (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Uzbek မူကွဲပံ့ပိုးမှုသို့ အပ်ဒိတ်တိ"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "ယှိဆက်ပါ"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "အသုံးပြုသူနာမည်နန့် အသုံးပြုသူစာမျက်နှာ"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "စုပ်ကရုတ်လားခြင်းစွာ **နောက်ဆုံးအားကိုးရာ** ဖြိုက်ပြီးကေ သင် တီးဖြတ်ခြင်းကို ထာဝရရပ်တန့်လိုရေအခါမရာ **အသုံးပြုသင့်စွာ** နန့် သင်ဧ့အတိတ်ဆက်စပ်မှုတိကို တတ်နိုင်သမျှ ဖုံးကွယ်ထားဖို့ဖြိုက်ရေ။\n\n Wikipedia ထက်က အကောင့်ဖျက်ခြင်းကို အခြားသူတိက အကောင့်စုပ်ကရုတ်ခြင်းလို့ခေါ်ရေ လုပ်ငန်းချိန်ခါ သင်ဧ့ပံ့ပိုးမှုတိကို မမှတ်မိနိုင်စီဖို့ သင့်အကောင့်နာမည်ကို ပြောင်းလဲခြင်းနန့် လုပ်ဆောင်ပါရေ။  ** ကွယ်ပျောက်လားခြင်းစွာ လုံးဝနာမည်ဝှက်ခြင်း ယင်းသို့မဟုတ် ပရောဂျက်တိအတွက် ပံ့ပိုးမှုတိကို ဖယ်ယှားခြင်းကို အာမခံဖို့မဟုတ်ပါ။"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "သတိပီးချက်"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "ရပါရေကျေးဇူးပါ"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "သင့်စိတ်ကြိုက်တိကို ပြန်ပနာသုံးသပ်ပါ"
+    },
+    {
+      "name": "watch",
+      "value": "စောင့်ကြေ့ပါ"
+    },
+    {
+      "name": "watchlist",
+      "value": "စောင့်ကြေ့စာရင်း"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ 1 လ ပေါင်းထည့်ထားရေ။"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ 1 ပတ် ပေါင်းထည့်ထားရေ။"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ 1 နှစ် ပေါင်းထည့်ထားရေ"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ အပြီးအပိုင် ထည့်ထားရေ။"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ ၆ လ ပေါင်းထည့်ထားရေ။"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းသို့ ၃ လ ပေါင်းထည့်ထားရေ။"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "စောင့်ကြည့်စာရင်းကို ‌‌‌ကြေ့ပါ"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|\\$1 ဘိုက်|\\$1 ဘိုက်တိ}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "၁ လ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "၁ ပါက်"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "၁ နှစ်"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "အမြဲတမ်း"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "၆ လ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "၃ လ"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "စောင့်ကြေ့စာရင်း အချိန်ကာလကို ရွီးပါ"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "စောင့်ကြေ့စာရင်း သက်တမ်းကုန်ဆုံး"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "diff ကိုလားပါ"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "တီးဖြတ်ချက် အကျိုင်းချုပ်"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "ဆောင်းပါးတိ ယှာဖွီပါ"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "သင့်တွင် စောင့်ကြေ့စာရင်းပါ အရာတိ မဟိပါ"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "သင်မျက်စိကျရေ ဆောင်းပါးတိမာ ဖြိုက်ပျက်နိန်ရေတိကို ခြီရာခံပါ။ ဆောင်းပါးက မီနူးကို နှိပ်ပြီး ဆောင်းပါးတခုဧ့ ပြောင်းလဲမှုတိကို ကြေ့ဖို့ \"ကြေ့ဖို့\" ကို ရွီးချယ်ပါ။"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "စောင့်ကြေ့စာရင်းတွင် သင်ထည့်သွင်းထားရေ ဆောင်းပါးတိစွာ ဒေနီရာတွင် ပေါ်လာပါရေ။"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "စာမျက်နှာတိစွာ မူရင်းအတိုင်းဟိနိန်ကေလေ့ တစ်ပတ်က တစ်နှစ်တထိ ယာယီကြည့်ရှုမှုအတွက် ရွီးချယ်ဖို့တိဟိပါရေ။"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "သက်တမ်းကုန်ဆုံးချိန် သတ်မှတ်ပါ"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "စိစစ်မှု"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "စောင့်ကြေ့စာရင်း လုပ်ဆောင်ချက်"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "အပြောင်းအလဲတိ တွိရေ"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "အပြောင်းအလဲတိ မတွိရ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "အလိုအလျောက် ပံ့ပိုးမှုတိ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "ဘော့တ်"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "လူသား (‌‌‌‌ဘော့တ် မဟုတ်ပါ)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "နောက်ဆုံးပြင်ဆင်ချက်တိ"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "နောက်ဆုံးပြင်ဆင်ချက်"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "နောက်ဆုံးပြင်ဆင်ချက် မဟုတ်"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "အဓိပ္ပာယ်"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "အရေးမကြီးရေ တီးဖြတ်မှုတိ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "အသေးအဖွိ့မဟုတ်တေ တည်းဖြတ်မှုတိ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "ပြောင်းလဲမှုအမျိုးအစား"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "အမျိုးအစား အပြောင်းအလဲတိ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "မှတ်တမ်းတင်ထားရေ လုပ်ဆောင်ချက်တိ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "စာမျက်နှာ ဖန်တီးမှုတိ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "စာမျက်နှာ တည်းဖြတ်မှုတိ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "ဝီကီးဒေတာ တီးဖြတ်မှုတိ"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "အသုံးပြုသူမှတ်ပုံတင်ခြင်းနန့်အတွိအကြုံ"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "မှတ်ပုံတင်ထားရေ"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "မှတ်ပုံတင်မထားပါ"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "ဘာသာစကားထည့်ပါ..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "နောက်ထပ်ကြေ့ရှုစာရင်းပါအရာတိကိုကြေ့ရှုဖို့ [{{PLURAL:\\$1|\\$1 filter|\\$1 filters}}](wikipedia://watchlist/filter) ကို ပြင်ဆင်ပါ"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "စောင့်ကြေ့စာရင်းအကြောင်း ပိုလိ့လာပါ"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းကို မိတ်ဆက်ခြင်း"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "သင်ဧ့ စောင့်ကြေ့စာရင်းက ဖယ်ယှားခရေ"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "သင်ဧ့ 'ကျေးဇူး' ကို \\$1 သို့ ပို့လိုက်ပါယာ"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "စောင့်ကြည့်စာရင်းစွာ သင်မျက်စိကျရေ စာမျက်နှာတိ ယင်းသို့မဟုတ် ဆောင်းပါးတိမာ ပြုလုပ်ထားရေ အပြောင်းအလဲတိကို ခြီရာခံနိုင်စီရေ ကိရိယာတစ်ခုဖြိုက်ရေ။"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "အပြောင်းအလဲတိကို ခြီရာခံပါ"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "တီးဖြတ်မှုတိ ယင်းသို့မဟုတ် ဆွီးနွီးမှုတိပိုင် သင်ထည့်သွင်းထားရေ စာမျက်နှာတိဧ့ စောင့်ကြေ့စာရင်းကို ဆက်တင်တိ → အကောင့်ကနိန်တဆင့် ဝင်ရောက်ကြေ့ရှုနှိုင်ပါရေ။"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "အပ်ဒိတ်တိကို ‌‌‌‌ကြေ့ပါ"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "ကျေးဇူးပါ"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "အသုံးပြုသူ ပံ့ပိုးမှုတိ"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "အသုံးပြုလူ စာမျက်နှာ"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "အသုံးပြုသူ ဆွီးနွီးချက် စာမျက်နှာ"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "ဆောင်းပါးတခုဧ့ အောက်ခြီတူးလ်ဘားက ကြယ်ပွင့် ယင်းသို့မဟုတ် \"‌‌‌‌‌ကြေ့ဖို့\" လုပ်ဆောင်ချက်ကို နှိပ်ခြင်းနန့်၊ ယင်းစာမျက်နှာကို သင်ဧ့ စောင့်ကြည့်စာရင်းမာ ထည့်သွင်းနှိုင်ရေ။"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "ဆောင်းပါးတိကို ကြေ့ရှုပါ"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "ဒေတာနန့် ကိုယ်ရီးကိုယ်တာ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "အကျွန်ရို့ဧ့အသိုင်းအဝိုင်းက နိန့်စိုင် ဆောင်းပါးတိကို ဖတ်ရှုဖို့ အကြံပြုထားရေ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "ဖိဒ်ကို စူးစမ်းပါ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "ဂနိန့်သမိုင်းတွင် ဖြစ်ပျက်ခစွာတိကို လိ့လာဖို့ အချိန်ကို ပြန်လားပါ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ဒေနိန့်မှာ"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "သင့်အနီးက အထင်ကရနီရာတိကို ယှာဖွီပါ ယင်းသို့မဟုတ် ကမ္ဘာတစ်ဝှမ်းရှိ နီရာတိကို ယှာဖွီပါ။"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "နေရာတိ တက်ဘ်"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "စတင်လိုက်ပါ"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "စူးစမ်းဖို့ နည်းလမ်းသစ်တိ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "နားလည်ရာ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "ဝီကီးပီးဒီးယားစွာ စေတနာ့ဝန်ထမ်းတိနန့် ပူးပေါင်းရီးသားထားပြီး ဘာသာစကား ၃၀၀ ကျော်နန့် ဆောင်းပါးပေါင်း သန်း ၄၀ ကျော် ပါဝင်ပါရေ။"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "ဝီကီပီးဒီးယားအကြောင်း ပိုလိ့လာဖို့"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "ဝီကီးပီးဒီးယားအကြောင်း"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "ဝီကီပီးဒီးယားစွာ တစ်ကမ္ဘာလုံးက ဘာသာစကားအားနုန်းတွင် စွယ်စုံကျမ်းတိကို အခမဲ့ဖန်တီးဖို့ ကမ္ဘာလုံးဆိုင်ရာ ပရောဂျက်တစ်ခုဖြစ်တေ။ အင်တာနက်ဟိရေ ဇာသူမဆို ဆောင်းပါးတိကို ဘက်လိုက်မှုမဟိ ပြင်ဆင်ခြင်း၊ သတင်းအချက်အလက်တိကို စိစစ်ခြင်းတိကို လုပ်ဆောင်နိုင်ပါရေ။"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "ဖရီး လွတ်လပ်စွယ်စုံကျမ်း"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "တခြား ဘာသာစကား ထပ်ပေါင်းထည့်ပါ"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "ပိုမိုနှစ်သက်တေ ဘာသာစကားတိကို ထည့်ပေါင်း (သို့) ပြင်ဆင်ပါ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "သင်ဧ့စက်ပစ္စည်းထက်တွင် အောက်ပါဘာသာစကားတိကို တွိ့ဟိပါရေ-"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "ဘာသာစကား ၃၀၀ ကျော်တိနန့် ယှာဖွီပါ"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "အခမဲ့အသိပညာလှုပ်ယှားမှုမာ ပါဝင်ဖို့ သင်စွာ ကိုယ်ရီးကိုယ်တာအချက်အလက်တိကို ပီးဆောင်ဖို့ မလိုအပ်လို့ ကျနော်ရို့ယုံကြေပါရေ။  ဒေအက်ပ်အတွက် စုဆောင်းအသုံးပြုမှုဒေတာကို နာမည်မသိပါ။"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "အကျွန်ရို့ဧ့ ကိုယ်ရီးကိုယ်တာမူဝါဒနန့် အသုံးပြုမှုစည်းမျိုင်းတိအကြောင်း ပိုလိ့လာပါ။"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "ဒေနိန့်တွင် ဖြစ်ပျက်ခရေ သမိုင်းကြောင်းကို လိ့လာကြေ့ပါ။"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "ဇာသူမဆိုတီးဖြတ်နိုင်ရေ ဖရီးအွန်လိုင်းစွယ်စုံကျမ်း"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia၊ ဖရီး wiki အကြောင်းအရာစွယ်စုံကျမ်းစွာ အွန်လိုင်းတွင် ဟိရေ။"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "သင့်ပြောင်းလဲမှုတိဧ့ နမူနာကို ရယူနီရေ..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ဒေလင့်ခ်စွာ ပြင်ပဝဘ်ဆိုက်သို့ ဦးတည်ရေ- \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "ပြင်ပ လင့်ခ်"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "ဒေပိုင်နာမည်အတိအကျနန့် ဝီကီးပီးဒီးယားတွင် ဆောင်းပါးတစ်ခုမဟိပါ"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "ပြင်ကလင့်ခ် မတွိ့ဟိပါ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "ဒေလင့်ခ်စွာ '\\$1' သို့ ဦးတည်ရေ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "လင့်ခ် အကြိုမြင်ကွင်း"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "အပြောင်းအလဲတိကို သိမ်းဆည်းပါ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA အတည်ပြုခြင်း အမှား။"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA အတည်ပြုချက် လိုအပ်ရေ။"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ဝီကီးစာသားတင်မှုရလဒ်ကို ဆုံးဖြတ်နိုင်ခြင်း မဟိပါ။"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "လွှင့်တင်နီရေ..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "တီးဖြတ်မှုတိကို သင့်စက်ဧ့ IP လိပ်စာကြောင့် သတ်မှတ်ပီးပါဖို့။ တကေလို့ သင်စွာ \\$1 လော့ဂ်အင် \\$2 ဖြစ်ပါက သင်စွာ ပိုလို့ privacy ဟိပါလိ့မေ။"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "တီးဖြတ်မှုကို သင့်စက်ဧ့ အိုင်ပီလိပ်စာအနီနန့် မှတ်သားဖို့။ တကေလို့ သင် \\$1 ဆိုကေ သင့်အတွက် လုံခြုံမှု ပိုရနိုင်ရေ။"
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "အပြောင်းအလဲတိကို ထုတ်ဝီခြင်းနန့် သင်စွာ \\$1 အသုံးပြုမှုစည်းမျိုင်းတိ\\$2 ကို သဘောတူရာရောက်ပြီး \\$3CC BY-SA 4.0\\$4 လိုင်စင်နန့် \\$5GFDL\\$6 အောက်မာ သင့်အလှူငွေကို ပြန်ပနာရုပ်သိမ်းဖို့ သဘောတူပါရေ။  ဟိုက်ပါလင့်ခ် ယင်းသို့မဟုတ် URL စွာ Creative Commons လိုင်စင်အောက်မာ လုံလောက်ရေ ရည်ညွှန်းချက်ဖြိုက်ကြောင်း သင်သဘောတူပါရေ။"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "အသုံးပြုမူဆိုင်ရာ သတ်မှတ်ချက်တိ"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "Wikipedia ဧ့ စေတနာ့ဝန်ထမ်း တီးဖြတ်သူတိ အသိုင်းအဝိုင်းစွာ iOS အက်ပ်မာ တီးဖြတ်မှုပေါင်း 555,647 ကျော် ပြုလုပ်ခရေ။  Wikipedia ဧ့ နှလုံးသားနန့် စိတ်ဝိညာဉ်စွာ စေတနာ့ဝန်ထမ်း ပံ့ပိုးကူညီသူတိ၊ အလှူရှင်တိနန့် သင်ကိုယ်တိုင်ပိုင် သန်းပေါင်းအများကြီးဖြိုက်တေ စာဖတ်သူတိဧ့ ကမ္ဇာလုံးဆိုင်ရာ အသိုက်အဝန်းဖြိုက်ပြီးကေ ယုံကြေစိတ်ချရရေ အချက်အလက်တိကို အကန့်အသတ်မဟိ ဝင်ရောက်မျှဝီဖို့ စည်းလုံးညီညွတ်ပါရေ။"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "iOS အက်ပ်က တီးဖြတ်သူတိစွာ \\$1 ထက်ပိုရေ တီးဖြတ်မှုတိ ပြုလုပ်ခရေ"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "Wikipedia ကို တမိနိကေ ပျမ်းမျှ \\$1 ကြိမ်နှုန်းနန့် တီးဖြတ်ခရေ။  ဆောင်းပါးတိကို ယုံကြေစိတ်ချရရေ အရင်းအမြစ်တိကို အသုံးပြုပနာ ပူးပေါင်းဖန်တီးပြီး မြှင့်တင်ထားပါရေ။  ကျနော်ရို့အားနုန်းမာ အသိပညာမျှဝီဖို့၊ [ပါဝင်နည်းကိုလိ့လာဖို့](\\$2)။"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "Wikipedia စွာ တစ်မိနစ်ကေ \\$1 ကြိမ် တီးဖြတ်ခရေ"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "Wikipedia မာ \\$2 ထက်မကရေ တက်ကြွရေဘာသာစကားတိနန့် ဆောင်းပါးတိ \\$1 သန်းကျော်ဟိရေ။  အသိပညာ တိုးချဲ့ခြင်းနန့် မတူကွဲပြားရေ အကြောင်းအရာတိကို ယှာဖွီရာမာ သန်းနန့်ချီပနာ သင်ပူးပေါင်းခရေ။"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Wikipedia ကို ဘာသာစကား 300 ကျော်နန့် ရဟိနိုင်ပါရေ"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "Active iOS App အသုံးပြုသူပေါင်း 62.2 သန်းကျော် ဖတ်ရှုနိုင်ပါယာ။  ဖတ်ရှုခြင်းစာရင်းပသို့ ဆောင်းပါးတိထည့်ခြင်းစွာ အော့ဖ်လိုင်းဖြစ်နီရေတိုင်အောင် ဆောင်းပါးတိကို ဝင်ရောက်ကြေ့ရှုနိုင်စီပါရေ။  စက်တိမှာ ဖတ်ရှုခြင်းစာရင်းတိကို စင့်ခ်လုပ်ဖို့ လော့ဂ်အင်ဝင်နိုင်ရေ။"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "အကျွန်ရို့တွင် \\$1 သန်းကျော်စာဖတ်ခြင်းစာရင်းတိဟိရေ"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "iOS အက်ပ်အသုံးပြုသူတိစွာ Wikipedia ဆောင်းပါးတိကို \\$1 Billion ကြိမ် ကြေ့ရှုခကတ်ရေ။  ကမ္ဘာတစ်ဝှမ်းကလူတိအတွက် Wikipedia စွာ မီးခွန်းတခုဖြေဆိုခြင်း၊ ကျောင်း ယင်းသို့မဟုတ် အလုပ်အတွက် အချက်အလက်ယှာဖွီခြင်း ယင်းသို့မဟုတ် အချက်အလက်အသစ်တခုကို သင်ယူရေအခါမှ ပထမဆုံးတေ ရပ်တန့်ခြင်းဖြိုက်ပါရေ။"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "Wikipedia ဆောင်းပါးတိကို \\$1 Billion ကြိမ် ကြေ့ရှုပြီးပါယာ"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "ပြန်ပနာသုံးသပ်ရေနှစ်"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "ဝီကီးပီးဒီးယား ဆောင်းပါးကတဆင့် တက်ကြွစွာ လားလာနီရေ ဝဘ်ဘရောက်ဆာကို ဖွင့်ထားရေ ကွန်ပြူတာမျက်နှာပြင်ဧ့ ကာတွန်းပုံပိုင်။"
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "အချက်အလက်အပိုင်းအစတစ်ခုစီပါဟိရေ Wikipedia ပဟေဋ္ဌိနှစ်ခုဧ့ ပုံဥပမာ။"
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "ဘာသာစကားအမျိုးမျိုးကို ကိုယ်စားပြုရေ ကမ္ပည်းစာတိနန့် ရီးထိုးထားရေ ကာတွန်းရုပ်ပုံကားချပ်တစ်ခုစွာ Wikipedia က မတူညီရေ ယဉ်ကျေးမှုတိနန့် ဒေသတိက အသိပညာတိ ပူးပေါင်းဖန်တီးပုံကို သင်္ကေတပြုပါရေ။"
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "ကမ္ဘာလုံးဆိုင်ရာ ပူးပေါင်းဆောင်ရွက်မှုကို ကိုယ်စားပြုရေ Wikipedia ဧ့ လိုဂိုပါဟိရေ ပဟေဠိကမ္ဘာ။"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "သောကြာနိတိ"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "တနင်းလာနိတိ"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "စနိန်နိတိ"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "တနင်းဂနီနိတိ"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "ကြာသပတီးနိတိ"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "အင်္ဂါနိတိ"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "ဗဒူးနိတိ"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "ပီးလှူပါ"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "အဂု ပီးလှူပါ"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "အကျွန်ရို့ဖတ်ရှုပြီး တည်းဖြတ်တေ ဆောင်းပါးတိအကြောင်း ထိုးထွင်းအမြင်တိကို ကြေ့ရှုပြီး Wikipedia တွင် အကျွန်ရို့ဧ့နှစ်အတွက် ပေါ်လွင်ချက်တိကို မျှဝီပါ။"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "Wikipedia အက်ပ်တွင် သင်ဖတ်ရေ ဆောင်းပါးတိအကြောင်း ထိုးထွင်းသိမြင်နိုင်ရေ ဆောင်းပါးတိကို ကြေ့ပါ၊ သင့်ခရီးကို မျှဝီပြီး သင့်နှစ်ဧ့ အထူးအသားပီးတိကို ယှာဖွီပါ။"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "ဝီကီးပီးဒီးယားကို ဆန်းစစ်ချက်တွင် စူးစမ်းပါ"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "သင်ဧ့ Wikipedia Year ကို ပြန်ပနာဆန်းစစ်ခြင်းတွင် စူးစမ်းလိ့လာပါ"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "Wikipedia စွာ ကမ္ဘာ့သမိုင်းတွင် စုစည်းထားသမျှ အကြီးမားဆုံး ဗဟုသုတအရင်းအမြစ်ဖြစ်ပြီး နီရာတိုင်းတွင် လူတိုင်း လွတ်လပ်စွာ ရနိုင်ပါရေ။  ‌‌‌‌‌ဒေချင့်က Wikipedia ဧ့မှန်ဘီလူးကတဆင့် 2024 ဧ့သုံးသပ်ချက်ဖြစ်တေ။ "
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "Wikipedia အက်ပ်တွင် သင်ဖတ်ခရေ ဆောင်းပါးတိနန့် 2024 ခုနှစ်တွင် သင်ပြုလုပ်ခရေ တီးဖြတ်မှုတိအကြောင်း ထိုးထွင်းသိမြင်နားလည်မှုတိကို ကြေ့ပါ။ သင်ဧ့ဖတ်ရှုမှုမှတ်တမ်းကို အကာအကွယ်ပီးထားရေ။  ဖတ်ရှုခြင်းဆိုင်ရာ ထိုးထွင်းသိမြင်မှုတိကို သင့်စက်ထက်က စက်တွင်း၌ သိမ်းဆည်းထားရေ ဒေတာကို အသုံးပြုပနာ တွက်ချက်ပါရေ။"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "အပြီးသတ်"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "အခမဲ့အသိပညာဧ့အနာဂတ်အတွက်ရင်းနှီးမြှုပ်နှံမှုအတွက်ကျေးဇုတင်ပါရေ။  အဂုနှစ်မာ Wikimedia Foundation စွာ စာဖတ်သူတိုင်းကို ပိုပြီးကေကောင်းမွန်ရေ စေတနာ့ဝန်ထမ်းဝန်ဆောင်မှုပီးနှိုင်ဖို့ နည်းပညာကို မြှင့်တင်ပီးခပြီးကေ ပူးပေါင်းဆောင်ရွက်မှီငြမ်းပနာ အားကောင်းစီရေ ကိရိယာတိကို တီထွင်ကာ Wikipedia ကို ဘာသာကြက်ချလုပ်စွာနန့် ပံ့ပိုးပီးပါရေ။  [ကျနော်ရို့ဧ့အလုပ်အမိကြောင်းပိုပြီးကေလိ့လာပါ](\\$1)။"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "သင်ဧ့ ရက်ရောမှုက ဝီကီးပီးဒီးယားကို တိုးတက်အောင် ကူညီပီးခရေ"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "ကမ္ဘာတစ်ဝှမ်းက စာဖတ်ပရိသတ်ရို့စွာ သင်ဧ့ပံ့ပိုးမှုတိကို တန်ဖိုးထားကက်တေ။  ပြီးခရေ 2 လအတွင်း၊ သင်တီးဖြတ်ထားရေ ဆောင်းပါးတိစွာ စုစုပေါင်းကြေ့ရှုမှု \\$1 ရဟိခရေ။  သင်ပိုင် တီးဖြတ်သူတိးဧ့ ကျေးဇူးကြောင့် Wikipedia စွာ ကမ္ဘာအတွက် စိုင်ဆက်မပြတ် တိုးတက်နီရေ၊ အချက်အလက်အခြီခံနန့် ယုံကြည်စိတ်ချရရေ အသိပညာအရင်းအမြစ်တစ်ခုဖြစ်တေ။"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "သင့်တီးဖြတ်မှုတိကို မကြာသိမ့်ခင်က \\$1 ကြိမ်ထက်မက ကြေ့ရှုခရေ"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "သင်စွာ Wikipedia ကို တီးဖြတ်ခရေ {{PLURAL:\\$1|\\$1 ကြိမ်|\\$1 ကြိမ်တိ}}"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "ဝီကီးပီးဒီးယား ကမ္ဘာလုံးကို ကိုင်ဆောင်ထားရေ လက်တစ်ချောင်းဧ့ ကာတွန်းပဂျီကားချပ်၊ ပလက်ဖောင်းအသေးစားတစ်ခုအဖြိုက်သို့ တဖြည်းဖြည်းပြောင်းလဲလားကာ ပလက်ဖောင်းထက်တွင် တစ်ဦးချင်းစီ ပံ့ပိုးကူညီမှုတိကို သင်္ကေတပြုရေ။"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "သင်စွာ {{PLURAL:\\$1|\\$1 ဆောင်းပါး|\\$1 ဆောင်းပါးတိ}} ကို သိမ်းဆည်းခရေ"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "ဖရီး အသိပညာဧ့ စိုင်ဆက်မပြတ် ဖန်တီးမှုကို သင်္ကေတပြုရေ တစ်ခုနန့်တစ်ခု အပေါ်၌ ဘိုက်တိ စီနီရေ ကာတွန်းရုပ်ပုံတစ်ပုံ။"
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "ဝီကီးပီးဒီးယားကို ဖတ်ရှုနီသူတိ ကုန်ဆုံးချိန်ကို အမှတ်အသားပြုရေ နာရီ။"
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "ဘယ်ဘက်က Wikimedia လိုဂိုပါရေ ပဟေဠိအပိုင်းတစ်ခု။"
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "ကလောင်နန့်အတူ Wikipedia ပဟေဠိအပိုင်းပါဟိရေ ပုံဥပမာ။"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "ဒေချင့်စွာ အကျွန်ဧ့ Wikipedia နှစ်ကို ပြန်ပနာသုံးသပ်ခြင်း ဖြစ်ပါရေ။  Wikipedia iOS အက်ပ်နန့် ဖန်တီးထားရေ။"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "နောက်ထပ် တွီးစရာတိ ဟိမ့်လား?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "ကြားနီ"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "ကျေနပ်ရေ"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "သုံးသပ်ချက်တွင် Wikipedia တစ်နှစ်ကို တိုးတက်အောင် ကူညီပီးပါ။  ဒေဝန်ဆောင်မှုကို သင်ကျေနပ်ပါလား။  နောက်နှစ်မာ ဇာမြင်ချင်လဲ။"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "ကျေနပ်မှုစစ်တမ်း"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "မကျေနပ်"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "တ၀ ကျေနပ်တေ"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "တ၀ မကျေနပ်"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Wikimedia w လိုဂို"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Wikimedia Foundation လိုဂို"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "သင်ဖတ်ရှုခရေအတွက်ကြောင့်"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ဖတ်ရှုမှု အများဆုံး ဆောင်းပါးတိအားနုန်း"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "တာခြား ကျပန်းဆောင်းပါး"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s ဝီကီးပီးဒီးယားက"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s ၀ီကီးပီးဒီးယား ဖွင့်"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ဘုံဖြိုက်တေ ဝီကီမီဒီယာ"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ပြသဖို့ ရာဇဝင် မဟိမ့်ပါ"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ဒေကဒ်ကို ဝှက်"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Explore feed ကို စိတ်ကြိုက်ပြင်ဆင်ပါ"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "ကဒ် ဝှက်ပြီး"
+    },
+    {
+      "name": "editor_published",
+      "value": "သင်ဧ့တီးဖြတ်မှုကို ထုတ်ဝီခရေ။"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%sအတွက် ဆောင်းပါးဖော်ပြချက်"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "%s လို့ဆိုချင်စော်လား?"
+    }
+  ]
+}

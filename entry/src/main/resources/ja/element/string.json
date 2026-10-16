@@ -1,0 +1,4688 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ウィキペディア"
+    },
+    {
+      "name": "about_content_license",
+      "value": "コンテンツのライセンス"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "特記がない場合、コンテンツは\\$1で利用可能です。"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "クリエイティブ・コモンズ 表示-継承 (CC BY-SA)"
+    },
+    {
+      "name": "about_contributors",
+      "value": "貢献者"
+    },
+    {
+      "name": "about_libraries",
+      "value": "使用ライブラリについて"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "完全なリスト"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ライセンス"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "オープンソースソフトウェアを愛しています\\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "付近のスポットで使用される地図のライセンス"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "付近のスポットの地図はApple Mapsにより提供されています。\\$1。"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "ライセンスの詳細はこちらをご覧ください"
+    },
+    {
+      "name": "about_product_of",
+      "value": "あなたのようなボランティアの手助けのもと、\\$1 によって作られました"
+    },
+    {
+      "name": "about_repositories",
+      "value": "リポジトリについて"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "ソースコードは\\$1で利用可能です。"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT License"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "フィードバックを送信"
+    },
+    {
+      "name": "about_title",
+      "value": "このアプリについて"
+    },
+    {
+      "name": "about_translators",
+      "value": "翻訳者"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "このアプリは\\$1においてボランティアにより翻訳されました"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ウィキメディア財団"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ウィキペディア"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "画像が表示できませんか? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "新しい CAPTCHA を取得しています"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "アカウントをリクエストする。"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHAセキュリティチェック"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "アカウントを作成"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "既にアカウントをお持ちですか? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ログインしてください。"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "ログイン中..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "アカウントの作成には利用者名とパスワード、さらに確認のためもう一度パスワードを入力する必要があります。"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "入力したパスワードが一致しません。"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "保存中..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "新しいアカウントを作成する"
+    },
+    {
+      "name": "account_group_title",
+      "value": "あなたのアカウント"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "アカウントを抹消"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "あなたの議論ページ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "議論に自動署名する"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "議論に自動署名する際は、署名設定で定義した署名が使われます"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ノートページの設定"
+    },
+    {
+      "name": "action_add_to",
+      "value": "次の場所に追加…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "あとで読むリストに追加"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "リストに追加"
+    },
+    {
+      "name": "action_cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "編集内容を破棄"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "編集内容を破棄"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ページ内を検索"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "編集を続行"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "言語を変更"
+    },
+    {
+      "name": "action_move_to",
+      "value": "次へ移動…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "あとで読むリストに保存"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "次の版"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "前の版"
+    },
+    {
+      "name": "action_read",
+      "value": "読む"
+    },
+    {
+      "name": "action_redo",
+      "value": "やり直す"
+    },
+    {
+      "name": "action_remove",
+      "value": "除去"
+    },
+    {
+      "name": "action_retry",
+      "value": "再試行"
+    },
+    {
+      "name": "action_save",
+      "value": "保存"
+    },
+    {
+      "name": "action_saved",
+      "value": "保存済み"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "保存しました。リストから削除するには選択してください。"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "後で保存された記事"
+    },
+    {
+      "name": "action_share",
+      "value": "シェアする"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "共有"
+    },
+    {
+      "name": "action_sort",
+      "value": "並べ替え"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "感謝する"
+    },
+    {
+      "name": "action_undo",
+      "value": "取り消す"
+    },
+    {
+      "name": "action_unsave",
+      "value": "リストから削除"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "記事をリストから削除しました"
+    },
+    {
+      "name": "action_update",
+      "value": "更新"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "他に何かご意見はありますか?"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "どちらともいえない"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "満足"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "満足度調査"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "不満"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "\\$1を読んでいます"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "非常に満足"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "非常に不満"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 件の記事}}をあとで読むリストに追加"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "高度な設定"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "詳細はこちら"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "フィードバックを送信しました"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "断る"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ウィキペディア、参考資料、ウィキ、百科事典、情報、知識、リサーチ、情報、発見、学習"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "探索フィードが読みやすくなり、細かなカスタマイズもできるようになりました。日本語化、パフォーマンスの向上とバグ修正を実施しました。"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "ウィキペディアアプリをダウンロードして、お近くのスポットを探したり、オフラインで読む記事を同期したり、記事の読み方をカスタマイズしたりしてみましょう。"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "フリー百科事典"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "記事のテキストサイズを調整"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "表を展開"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "基本データ、参照、メモ、外部リンクを含め、すべての記事のすべての表を既定で開くように設定します。"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "ダークモードとブラックモードのときに画像の透過度を下げる"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "閲覧時のテーマ"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "表の書式設定"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "スライダーをドラッグして記事のテキストサイズを変更します。アプリ内の他のテキスト領域のサイズを変更するには、システムのテキストサイズをご利用ください。"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "テーマオプション"
+    },
+    {
+      "name": "article_about_title",
+      "value": "この記事について"
+    },
+    {
+      "name": "article_delete",
+      "value": "削除"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|記事}}を削除しました"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "更新後のコンテンツをすぐには読み出せませんでした。編集が反映されたことを確認するにはしばらく経ってからこのページを再読み込みしてみてください。"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "言語の絞り込み"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "言語を選択"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ほかの言語で読む"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "お使いの言語"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "さらに読む"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "情報源 \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "記事の版履歴"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "デバイスの空き容量が不足しているため、この記事を保存できません"
+    },
+    {
+      "name": "article_share",
+      "value": "共有"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "タブの上限数（\\$1）に達しました。タブを1つ以上閉じてください。"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "タブのナビゲーション"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "タブのオンボーディングツールチップ"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "新しいバックグラウンドタブで開く"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "新しいタブで開く"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "記事のトークページ"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "テーマのコントロールを読み込む"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "戻る"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "タップして戻る"
+    },
+    {
+      "name": "button_go_back",
+      "value": "戻る"
+    },
+    {
+      "name": "button_next",
+      "value": "次へ"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "投稿"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "強制的に公開する"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "バグを報告"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "後で保存"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "保存しました"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "保存したページから除去"
+    },
+    {
+      "name": "button_skip",
+      "value": "スキップ"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "cc_zero",
+      "value": "クリエイティブ・コモンズ CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "ウィキペディア アプリは、次の中国語をアプリ内の規定の言語またはそれに準ずる言語としてサポートします。お好みの言語での読み取り、検索、および編集が可能です:\n\n简体 簡体字中国語 (zh-hans)\n香港繁體 香港繁体字 (zh-hk)\n澳門繁體 マカオ繁体字 (zh-mo)\n大马简体 マレーシア簡体字 (zh-my)\n新加坡简体 シンガポール簡体字 (zh-sg)\n臺灣正體 台湾語 (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "中国語サポートの更新"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "消去"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "キャッシュのクリアが完了しました。"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "キャッシュをクリア中です。"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "すべてのタブを閉じる"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "\\$1個のタブをすべて閉じますか？この操作は元に戻せません。"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "\\$1個のタブをすべて閉じますか?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "閉じる"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "他のタブを閉じる"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "タブを閉じますか?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "タブを閉じる"
+    },
+    {
+      "name": "collect_prize_title",
+      "value": "賞品をゲットしよう！"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1時の位置"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "続ける"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "ウィキペディアでさらに多くの記事を読む"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "最近読んだ記事はありません"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "ウィキペディア アプリは、次のクリミア タタール語をアプリ内の規定の言語またはそれに準ずる言語としてサポートします。これにより、お好みの言語での読み取り、検索、編集が可能です:\n\nQırımtatarca、ラテン語 クリミア タタール語ラテン語 (chr-latn) \nкъырымтатарджа, Кирил クリミア タタール語キリル文字 (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "クリミア・タタール語版をサポートする更新"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "更新中..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "説明を追加"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1の説明"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "記事の説明を変更すると、\\$1 に同意し、\\$2ライセンスのもとで貢献を公開することになります。これは取り消せません。"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "導入部を編集"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "記事の説明を編集"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "簡潔な説明がベストです"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "説明を公開"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "説明を編集"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "記事の主題がひと目で分かるように説明は短くするようにしてください"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "文頭であっても、固有名詞のみを大文字にする必要があります。"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "記事の説明は、読者が一目でその主題を理解するのに役立つように要約してあります。"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "このアプリについて"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ウィキデータについて"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "説明はウィキメディア財団のプロジェクトであるウィキデータに保存され、メンテナンスされています。ウィキデータはウィキメディア財団のプロジェクトの一つです。自由、協同的、多言語、二次的なデータベースで、ウィキペディアやその他のプロジェクトを支えています。"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "詳細情報"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "説明は理想的には1行に収まり、30文字程度の長さです。最初の単語が固有名詞でない限り、大文字ではありません。"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "モナリザに関する記事の題名の説明"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "エベレストについての記事の説明"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "レオナルド・ダ・ヴィンチの絵画"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "地球上で最も高い山"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "例:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "説明を作成するコツ"
+    },
+    {
+      "name": "description_help_title",
+      "value": "記事の説明に関するヘルプ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "説明を記述するためのウィキデータガイド"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "完了"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "みんなのためにウィキペディアを改善しました。"
+    },
+    {
+      "name": "description_published_title",
+      "value": "説明が公開されました!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "説明は1行のみで、30文字程度で書いてください"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "できるだけ短くしましょう"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "記事を要約して、読者がひと目でテーマが分かるようにします。"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "記事の説明"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "この機能を誤用しないように約束します"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "編集を開始"
+    },
+    {
+      "name": "developer_settings",
+      "value": "開発者設定"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "記事の版履歴"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "前の編集"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "版を比較"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "表示されている編集"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "版を比較"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "表示"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "隠す"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "\\$1 - \\$2行目"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "段落移動"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "下へ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "上へ"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1行}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1節}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "段落が\\$1に\\$2移動"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "版を読み込めませんでした。"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "巻き戻し"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "本当に編集を巻き戻しますか？"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "編集を巻き戻し"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "編集が差し戻されました。"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 件の編集}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "編集者の情報"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1バイト追加}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1バイト除去}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "編集の要約"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "イントロ"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1行目:"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "匿名利用者には感謝できません"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'感謝' はウィキペディアを編集する編集者へ感謝を示す簡単な方法です。'感謝' を送信するにはログインする必要があります。"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "ログインして感謝を送信"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "感謝を示す"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'感謝' はウィキペディアを編集する編集者へ感謝を示す簡単な方法です。'感謝' は元に戻すことはできず、誰でも見ることができます。"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "感謝を公に示す"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "あなたの感謝は \\$1 に送られました。"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "既にこの編集に対して「感謝」を送信しています"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "感謝は取り消すことはできません"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "これにより、ここに示されている記事のリビジョンによって加えられた変更が元に戻されます。続行するには、この編集を元に戻す理由を入力してください。"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "版が取り消されました。"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1行が未編集}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "ダブルタップしてメニューを開く"
+    },
+    {
+      "name": "dim_images",
+      "value": "暗い画像"
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "ご寄付をしてくださり、ありがとうございます！あなたの寛大なご寄付が、ウィキペディアとその他のフリーナレッジプロジェクトの繁栄を支えています。"
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "この募金活動はアップル社が行っているものではありません。"
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "はい、ウィキメディア財団から不定期のお知らせメールを受け取ります。"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "よくある質問"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "寄付の際に何か問題がありましたか?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "税金の控除について"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "明日、再度お知らせいたします。"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "毎月、この金額を定期的に寄付します。"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Apple Payで寄付する"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Apple Payで寄付するか、他の決済方法をお選びください。"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "その他の決済方法"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Apple Payで寄付しますか？"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "ありがとうございます!"
+    },
+    {
+      "name": "donate_title",
+      "value": "金額を選択する"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "金額の100%%が寄付されるよう、手数料として\\$1を追加して支払います。"
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "タブを複製"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "表示テキスト"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "リンク先"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "リンクを除去"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "リンクを編集"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "編集"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "これはたとえば、選択したテキストが編集可能ではないか(例: 記事の題名やinfoboxの見出しなど)、ハイライトされたテキストの長さによるものかもしれません。"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "選択したテキストが見つかりませんでした。"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "細部の編集とは"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "これは細部の編集です"
+    },
+    {
+      "name": "edit_notices",
+      "value": "お知らせを編集する"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "編集通知を常に表示する"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "編集する前にお読みください"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "プレビューを表示"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "編集の要約を追加"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "新しく画像を追加"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "文法を修正"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "誤字訂正"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "リンクを追加"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "どのようにこの記事を改善しましたか?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "ウォッチリストの詳細"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "このページをウォッチする"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "勇気を持って、しかしいい加減な気持ちにはならずに、記事を更新しましょう。間違ったことをしでかさないか悩む必要はありません。各ページの履歴はすべて保存されていますので、誤りがあれば私たちコミュニティが修正できます。"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "あなたの声は重要です"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "内容はすべて検証可能である必要があります。記事に新しい情報を追加するとき、編集者は、その編集の直接の根拠となる情報源を行中に示す必要があります。"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "信頼できる情報源を参照する"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "私たちは記事が偏りのない筆致で書かれるように尽力しています。編集する際には、信頼できる情報源がそう書いているように、公平な表現の世界になるように目指してください。"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "公平な論調で書く"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "私たちはすべての人が、世界のあらゆる知識にアクセスできるようにしたいと考えています。あなたに一番関係している話題について読んで、編集して、そして貢献することで、その知識の作成にあなたも参加することが、何より必要です。"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "知識を自由に"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "あなたの編集が公開されました。"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "ソースを編集"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "保存せずに編集から離れてもよろしいですか？"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "編集モードを終了しますか?"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "検索"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "太字"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "コメント"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "見出し"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "インデントを減らす"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "インデントを増やす"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "斜体"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "リンク"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "番号付きリスト"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "番号なしリスト"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "段落"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "取り消し線"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "小見出し 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "小見出し 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "小見出し 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "小見出し 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "下付き"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "上付き"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "テンプレート"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "下線"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "置換"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "全て置換"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "すべて置換"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "置換"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "1件だけ置換"
+    },
+    {
+      "name": "editor_title",
+      "value": "編集者"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "ページ内検索"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "版間の相違点はありません"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "目に見える変更はされませんでした"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "ウィキメディアコモンズからファイルを選択"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "申し訳ありませんが、記事を読み込むことができませんでした"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "保存したページの閲覧はできます"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "おすすめの記事は、インターネットに接続されているときに見ることができます"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ここには、あなたが閲読した記事の履歴が表示されます"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "表示する履歴がありません"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "この記事は現在、ほかの言語に翻訳されていません"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ほかの言語は利用できません"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "あとで読むリストを作成し、旅行に行きたいところ、好きな話題、何でも保存しましょう"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "あとで読むリストに保存した記事を整理しましょう"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "ページをこのリストに保存するとここに表示されます"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "このリストに保存されたページはありません"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "ページを保存することで、オフラインでも閲覧できます"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "保存したページはまだありません"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "申し訳ありませんが、該当するものはありません。"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "この利用者にはまだメッセージが投稿されていません"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "しばらくしてから再度、操作をしてください"
+    },
+    {
+      "name": "error_unknown",
+      "value": "不明なエラーが発生しました"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "おまかせで別の記事"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "閲覧履歴からのおすすめ"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "関連記事をもっと見る"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "続けて読む"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "探索フィードに戻る"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "現在地周辺の記事を閲覧する"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "秀逸な記事"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ウィキペディアより"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "カスタマイズ"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "探索フィードの言語設定"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "言語は「使用する言語」設定から追加できます。"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "非表示にしたカード"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "読んでいた記事にすぐ戻れるリンク"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "探索フィードをカスタマイズ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "探索フィードをカスタマイズ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "特定の種類のカードを非表示にすると、探索フィードにも表示されなくなります。"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "探索タブ"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ウィキペディアの今日の秀逸な記事"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "オフ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "すべてオン"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "オン"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1の言語で利用可能"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "隠されている\\$1のカードすべて"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "このカードは言語に依存しないため、非表示にすると探索フィードから除去されます。"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "言語非依存のカードです"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "言語に関係ないもの"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "グローバルカード"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "カードを隠す"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "「\\$1」のカードをすべて非表示"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "最近の出来事の記事"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "すべての言語で探索カードをすべて非表示にすると、探索タブも表示されなくなります。"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "今日は何の日"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "付近のスポット"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "ウィキメディア・コモンズより、今日の秀逸な画像"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "記事をおまかせ表示する"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "閲覧履歴からのおすすめ"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "続きを読むカードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "秀逸な記事カードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "秀逸な記事のカードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "最近の出来事カードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "最近の出来事カードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "今日は何の日カードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "今日は何の日カードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "今日の一枚カードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "近くのスポットカードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "近くのスポットカードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "おまかせ記事カードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "おまかせ記事カードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "こんな記事も読まれていますカードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "よく読まれている記事カードをオフにすると、全言語版でこのカードがオフになります。"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "よく読まれている記事カードを表示"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "今日の最も読まれた記事"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "探索フィードを解除"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "探索フィードのカードをすべて非表示にすると、探索タブが解除され、代わりに設定タブを表示します"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "探索フィードをオフにしますか?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "オフにする"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "探索タブを再表示するには、探索フィードの設定画面に移動します"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "探索タブをオフにしますか?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "探索タブをオフにすると、設定タブに入れ替わります。"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "探索フィードのカードをオンにすると、探索タブも表示されます"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "探索をオンにする"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "これは設定タブを非表示にして探索タブを表示します。設定タブは探索画面の上部の歯車アイコンをタップすると開きます"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "探索タブをオンにしますか?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "このカードを隠す"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ウィキメディア・プロジェクトのメインページ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "今日についての記事"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "よく読まれている記事すべて"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "よく読まれている記事"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1の上位記事"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ウィキペディアで"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "近くのスポット"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "場所"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ウィキペディアより"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "あなたの位置"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1版ウィキペディアより付近の記事"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "今日の一枚"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ウィキメディア・コモンズより"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "おまかせ記事"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ウィキペディアより"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "おまかせ表示"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "追加"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "ウィキペディアを探検する"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "アプリ ライブラリの共有には、閲覧リストと履歴、設定、Explore フィード コンテンツに関するデータが含まれます。このデータ ファイルは、技術的な診断目的で使用するために、信頼できる受信者とのみ共有する必要があります。"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "アプリ ライブラリを共有しますか？"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "データのエクスポート中にエラーが発生しました。後でもう一度やり直してください。"
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "利用者データをエクスポートするための十分なデバイス容量がありません。後でもう一度やり直してください。"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "利用者データをエクスポート"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "この日の秀逸な記事は利用できません。"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "コミュニティから選ばれた、ウィキペディアの秀逸な記事を探索しましょう。"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "ウィキペディアより"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "あなたのメイン言語は秀逸な記事をサポートしていません。アプリの設定メニューからウィキペディアのメイン言語を切り替えることができます。"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "秀逸な記事"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "問題が発生しました。しばらくしてから再度、操作をしてください。"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "サーバから異常な応答がありました。しばらくしてから再度、操作してください。"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHAが無効です"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "パスワードが一致していません"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "無効なコード"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "この利用者名は利用できません"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "バックアップコード"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA テキスト"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "上記のテキストを入力してください"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "メールアドレス"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "メールアドレス (省略可能)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "新しいパスワードを再入力"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "新しいパスワードを再入力"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "新しいパスワードを入力"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "新しいパスワード"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "パスワードを再入力"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "パスワード再入力"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "パスワードを入力"
+    },
+    {
+      "name": "field_password_title",
+      "value": "パスワード"
+    },
+    {
+      "name": "field_token_title",
+      "value": "検証コード"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "利用者名を入力"
+    },
+    {
+      "name": "field_username_title",
+      "value": "利用者名"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "すべて"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "検索をクリア"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "次の検索結果"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "前の検索結果"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "検索と置換"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "検索と置換を閉じる"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "検索"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "リセット"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "パスワードリセットの指示が記載されたメールが送信されました"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "下記のいずれかのフィールドを入力して、メールでパスワードリセットの指示を受け取ります"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "パスワードをリセット"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "または"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "贛語言語変種サポートの更新"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "本当にすべての最近の項目を削除しますか?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "すべて削除"
+    },
+    {
+      "name": "history_title",
+      "value": "履歴"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ウィキペディア、探索に戻る"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ウィキペディア、保存済み記事に戻る"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 なども読まれています"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "付近の記事をもっと見る"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 付近についてもっと詳しく"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "ニュースについてもっと読む"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "保存した記事は、あとで読むリストとしてまとめて、デバイス間で同期できるようになりました。ログインして、個人設定にあとで読むリストを同期してみましょう。"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "設定の管理"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "記事のツールバーや設定で、テキストのサイズやテーマなどの読書設定を調整して、より快適な読書体験を実現します。"
+    },
+    {
+      "name": "home_title",
+      "value": "探索"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "ウィキペディア、探索の文頭に移動"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "付近についての記事"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "おまかせ記事"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ウィキペディア内を検索"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "作者不明。"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "この画像を追加しますか?"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "理由"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "いいえ"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "わからない"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "はい"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "リーディング リスト"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "調査の実施"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "''リーディングリストを共有''はテスト中です。改善または削除のため、フィードバックをください。"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "共有されたあとで読むリストをインポート"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1版ウィキペディアより"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ウィキペディアより"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "ニュースに関する記事"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "挿入"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "リンクを挿入"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "画像が見えない人のための説明テキスト"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "この画像を説明する"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "代替テキスト"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "この画像は記事にどのように関連していますか?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "すべての読者に向けた、アイテムの隣のラベル"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "キャプション"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "中央揃え"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "左寄せ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "なし"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "右寄せ"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "画像の位置"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "詳細情報"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "画像を選択"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "カスタム"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "既定"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "高さ"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "幅"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "ピクセル"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "画像サイズ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "基本"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "枠あり"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "枠なし"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "サムネイル"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "画像の種類"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "メディア設定"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "メディアを挿入"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "クルド語言語変種サポートの更新"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "言語"
+    },
+    {
+      "name": "languages_title",
+      "value": "言語を変更"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ウィキペディアの言語"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "さらに詳しく知る"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "ログインしないで続ける"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "もう一度アカウントにログインする"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "アカウント認証に失敗しました。あとで読むリストと編集履歴をあなたの利用者名で同期するには、もう一度ログインしてください。"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "ログアウトしました"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "パスワードをお忘れですか?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ウィキペディアに参加する。"
+    },
+    {
+      "name": "login_no_account",
+      "value": "アカウントをお持ちではないですか? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "自分のアカウントにログイン"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "アプリについて"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ログイン"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ログアウト"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "本当にログアウトしますか?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "ログアウトすると、ローカルに保存されているアカウントデータ (通知とメッセージ) が削除されますが、アカウントデータは引き続きウェブ上で利用でき、再ログイン時に再ダウンロードされます。"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 としてログインしています。"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "プライバシーと利用規約"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "付近"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "プライバシー・ポリシー"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "このアプリを評価"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "利用規約"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "その他"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ウィキペディアゼロについてのFAQ"
+    },
+    {
+      "name": "main_page",
+      "value": "メインページ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "300言語超えのウィキペディアを検索"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "言語を追加"
+    },
+    {
+      "name": "more_menu",
+      "value": "もっと見る"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 件の記事}}をあとで読むリストに移動"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "プレビュー"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 フィート}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "{{PLURAL:\\$1|\\$1 m}}"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 マイル"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "一時的なパスワードでログインしています。ログインを完了するには、新しいパスワードをここで設定してください:"
+    },
+    {
+      "name": "new_password_title",
+      "value": "パスワードを設定する"
+    },
+    {
+      "name": "new_tab",
+      "value": "新しいタブ"
+    },
+    {
+      "name": "next_action_title",
+      "value": "次へ"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "アカウントのメールアドレスを設定してから、もう一度お試しください。"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "インターネットに接続されていません"
+    },
+    {
+      "name": "not_now_title",
+      "value": "今はしない"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 より"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "アラート"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "通知フィルター - フィルターが適用されています"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "プロジェクト フィルター - フィルターが適用されています"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "未読バッジ付きの通知"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 通知"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "パスワードを変更"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "通知を確認中..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "アプリ内"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ウェブ上"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "通知の詳細"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "通知を確認中..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "メッセージはありません"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "現在、ウィキペディアの通知を登録していません"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "メッセージをさらに見るには、プロジェクトを追加してください"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1件のフィルター}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "プッシュ通知をオンにする"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "通知フィルター"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "すべて"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "既読"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "未読"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "既読状況"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "フィルター"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "すべての種類"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "通知の種類"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "記事"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1の会話ページ"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "差分"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1の利用者ページ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "ウィキデータ項目"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "あなたの会話ページ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "完了"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "プロジェクト"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "ウィキメディア・プロジェクト"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ウィキペディア"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "ログイン通知"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "すべて既読にする"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "既読にする"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "未読にする"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "もっと見る"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "通知設定"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1件のメッセージ}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "続行"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "フィルター"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "通知についてさらに詳しく知る"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "通知とアラート"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "プッシュ通知"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "編集の通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "プッシュ通知をオンにしますか？"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "プッシュ通知をオンにする"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "いいえ、結構です。"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "プロジェクト フィルター"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "すべて"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "すべての通知"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "フィルター"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=1つのプロジェクトから|\\$1件のプロジェクトから}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|\\$1 件のプロジェクト}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "\\$1タイプ"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "既読"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "未読"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "編集マイルストーン"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "あなたの編集が差し戻されました"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "新しいメール"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "ログイン試行が複数回失敗しました"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "ログインの失敗"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "身に覚えのない端末からのログイン"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "記事のトークページでのメンション"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "編集概要でのメンション"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "言及に失敗しました"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "言及に成功しました"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "トークページでのメンション"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ページリンク"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "ページが査読されました"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ありがとうございます"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "翻訳マイルストーン"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "利用者権限の変更"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ようこそ!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "既読にする"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "未読にする"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "選択した通知をマーク"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "言及"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "お知らせ"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ようこそメッセージ"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "ウィキデータと接続"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "編集マイルストーン"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "編集の差し戻し"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "要約の言及を要約"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "他の利用者からのメール"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ログイン試行"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "あなたのアカウントで失敗したログイン試行"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "ログインに成功しました"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "その他"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "ページリンク"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "ページレビュー"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "メンションの送信失敗"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "メンション送信成功"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "トークページへの言及"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "感謝"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "翻訳マイルストーン"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "利用者権限の変更"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "会話ページのメッセージ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ようこそ"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "ウィキペディア内の新しいアクティビティ"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2に{{PLURAL:\\$1|\\$1件の新しいメッセージ}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|新しいメッセージ}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1千"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 - \\$2から"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 件の歴史上の出来事}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "この日の多くの歴史的出来事"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "今日の{{PLURAL:\\$1|その他の \\$1 件の歴史上の出来事}}"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "あなたのウィキペディアのメイン言語は秀逸な記事をサポートしていません。アプリの設定メニューからウィキペディアのメイン言語を切り替えることができます。"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "利用できるデータがありません"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2版ウィキペディアより\\$1の記事"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "今日は何の日"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "「W」をタップすると、Exploreフィードに戻ります。"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "ボット"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "比較する2つの版をタップして選択してください"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "比較"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "時系列の編集状況グラフ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "細部の編集"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "作者: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "コメント \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "変更履歴"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "細部の編集"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|\\$1バイト}}の追加"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 バイト}}の除去"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "\\$1に変更"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "2つの版しか選べません"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2以降に{{PLURAL:\\$1|\\$1回の編集}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "ページの問題点"
+    },
+    {
+      "name": "page_location",
+      "value": "地図で見る"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "このページを編集する権限がありません"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "このページは保護されています"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "類似したページ"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "版を比較すると、記事が時間の経過とともにどのように変更されたかを示すのに役立ちます。記事の2つの版を比較すると、変更されたコンテンツが強調表示されることで、これらの版の違いが示されます。"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "版を比較"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "ログインせずに編集"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "ログインしていません"
+    },
+    {
+      "name": "pictured",
+      "value": "描かれた"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "保存した検索結果を消去する"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1記事"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "あなたの現在地に中心を戻す"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "リストとして表示"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "マップとして表示"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "さらに記事を見る"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "街、国、大陸、自然のランドマーク、歴史上の出来事、建物、その他いろんなものを探しましょう"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "ウィキペディアの記事を場所で検索"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "位置情報を有効にする"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "位置情報にアクセスできるのは、アプリまたはアプリの機能の一部が画面上に表示されている間に限られます。"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "位置情報アクセスを有効にして近くの記事を探しましょう"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "記事を絞り込み"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "絞り込み"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "保存した場所がありません"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "保存済みの記事"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "よく読まれている記事"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 件の記事}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "よく読まれている記事"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "位置情報を有効にしました"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "保存した記事のいずれも位置情報を持っていません"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "“\\$2”に一致する\\$1"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "場所を検索"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "もしかして“\\$1”ですか?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "最近検索した"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "すべての保存された記事"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "おすすめの検索"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "このエリアの結果"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "すべてのトップ記事"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "近く"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "あなたの現在地"
+    },
+    {
+      "name": "places_title",
+      "value": "場所"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "不明な距離"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1日の写真"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1日の写真の取得に失敗しました"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "コミュニティで選定された美しい今日の写真を楽しみましょう。"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "今日の一枚"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "このアプリの改善に役立てるため、ウィキメディア財団がアプリの使用情報を収集することを許可する"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "ウィキペディアにログインまたは登録"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "ログインまたはアカウントを作成すると、「一年の振り返り」を見て、よりパーソナライズされた洞察を得ることができます。"
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "ログインして「一年の振り返り」にアクセス"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "ウィキブックス"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "ウィキデータ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "ウィキメディア・コモンズ"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "ウィキニュース"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "ウィキクォート"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "ウィキソース"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "ウィキスピーシーズ"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "ウィキバーシティ"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "ウィキボヤージュ"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "ウィクショナリー"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "ランダムに選択"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "この記事をあとで読むリストに追加しますか?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "「\\$1」をあとで読むリストに保存しますか?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "はい、記事をあとで読むリストに追加します"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "ウィキペディアアプリに保存された記事があります。その記事をそのままにして、あなたのアカウントに同期したあとで読むリストに統合しますか?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "保存した記事が見つかりました"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "このリストに保存できる記事の数が上限に達したため、この記事は同期できません"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "あとで読むリストの同期中に予期せぬエラーが発生しました"
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "同期できるリストの数が上限に達したため、このリストは同期できません"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "あとで読むリストを作成"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "説明"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "あとで読むリストの名前"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "リストを新規作成"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "あとで読むリストを削除しました"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "いいえ、デバイスから記事を削除します"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "このリスト内の記事数を\\$1まで減らしてから、リストの記事の同期を再開してください。"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "アカウントに保存できる記事の上限{{PLURAL:\\$1|\\$1 件}}を超えました。"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|記事|記事}}はリストに追加できませんでした。リスト\\$3に対する\\$2記事の上限に達しました。"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "そのあとで読むリストの名前は使用中です"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "あとで読むリストの更新中に予期せぬエラーが発生しました"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "はい、記事をこのデバイスに残します"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "ウィキペディアアカウントと同期した記事があります。ログアウトした後でもその記事をこのデバイスに残しますか?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "アプリ内の保存した記事を残しますか?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "記事を並べ替え"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "並べ替えしてない記事については5000件の上限があります。既存の記事をリストに並べ替えしてから、並べ替えてない記事の同期を続けてください。"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "並べ替えない記事数の上限に達しました"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "このあとで読むリストと、そこに保存された記事は同期されません。リストの数を\\$1まで減らしてから、このリストの同期を再開してください。"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "アカウントに保存できるあとで読むリストの上限 {{PLURAL:\\$1|\\$1 件}}を超えました。"
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "1アカウントあたりに保存できるあとで読むリスト数の上限の\\$1件に達しました。"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "ログインして保存した記事を同期する"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "ログインまたはアカウント作成"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "ログインして保存した記事を同期する"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "ログインまたはアカウントを作成して、保存した記事とあとで読むリストをデバイス間で同期し、個人設定に保存しましょう。"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "保存した記事を同期しますか?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[利用者が作成]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "短い説明(オプション)"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "あとで読むリスト名"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "あなたのウィキペディアアカウントに対するあとで読むリストの同期は別デバイス上で向こうにされました。設定を更新することで、同期を有効に戻すことができます。"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "同期は無効になっています"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "同期を有効にする"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "保存した記事とあとで読むリストはあなたのウィキペディアアカウントに保存して、ウィキペディアアプリ間で同期できるようになりました。"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "あとで読むリストの同期を有効にしますか?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "このアカウントではあとで読むリストの同期が有効になっています。このアカウントでの同期を停止したい場合は、設定画面で行ってください。"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "このアカウントでは同期が有効になっています"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "あとで読むリストにエントリを追加しようとした際に予期せぬエラーが発生しました。後でもう一度試してください。"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "あとで読むリストを作成しようとした際に予期せぬエラーが発生しました。後でもう一度試してください。"
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "あとで読むリストを削除しようとした際に予期せぬエラーが発生しました。後でもう一度試してください。"
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "あとで読むリストからエントリを削除しようとした際に予期せぬエラーが発生しました。後でもう一度試してください。"
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "あとで読むリストを更新しようとした際に予期せぬエラーが発生しました。後でもう一度試してください。"
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "「\\$1」という名前のあとで読むリストは見つかりませんでした。名前が正しいか確認してください。"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "「\\$1」に記事が追加されました"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "記事を同期できません"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "同期されていません"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "記事数が上限に達し、記事を同期できません"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "リスト数が上限に達し、記事を同期できません"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "ダウンロード待ちにこの記事を追加しました"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "デバイスの容量が足りないため、記事を同期できません"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "デバイスの空き容量を確保してから再開してください"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "上限に達したため同期できなかった記事があります"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "リスト「\\$1」の名前を「\\$2」に変更しました"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 件のあとで読むリスト}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "保存した記事の、既定のリスト"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "とりあえず"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "この操作は取り消せません。{{PLURAL:\\$1|このリスト|これらのリスト}}に保存された記事だけが削除されます。"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|リスト|リスト}}を削除しますか?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 件の記事}}と {{PLURAL:\\$2|\\$2 件のあとで読むリスト}}があなたのアカウントから同期されました"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "上限に達したためリストが同期できませんでした"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "保存した記事を並べ替え"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "あとで読むリストに登録できる項目数は\\$1件以下です。既存のリストでこの上限をオーバーしたものは分割されました。"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "インターネット接続が利用可能になると同期は再開されます"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "黒のテーマ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "輝度調節スライダ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ダークモード"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ライトテーマ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "セピアテーマ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "構文の強調"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "文字サイズ調節スライダ"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "構文の強調"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "脚注の節へジャンプ"
+    },
+    {
+      "name": "reference_title",
+      "value": "情報源 \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=今日|1=昨日|\\$1日前}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1時間"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1時間前}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1時間前"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1時間前}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=たった今|\\$1分前}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1分"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=たった今|\\$1分前}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1分前"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=今月|1=先月|\\$1ヶ月前}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1秒"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1秒前"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=今年|1=昨年|\\$1年前}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "戻る"
+    },
+    {
+      "name": "return_to_article",
+      "value": "記事に戻る"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "差し戻された編集"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "すべてのタブを保存"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "すべての記事"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "すべてのタブを保存しました。"
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "すべてのタブを保存しました。リーディングリストを表示。"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "このリストは削除できません"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "保存したページの画像のダウンロードに失敗しました。"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "記事をダウンロードしています…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "あとで読むリスト"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "保存した記事の検索"
+    },
+    {
+      "name": "saved_title",
+      "value": "保存済み"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "{{PLURAL:\\$1|この記事を削除|これらの記事を削除}}すると、すべての関連するあとで読むリストから消去されます"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "\\$1記事を削除しますか?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ウィキペディア内を検索"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "消去"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ウィキペディア内を検索"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "最近の検索をすべて削除しますか?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "この操作は取り消せません!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "すべて削除"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "最近の検索はまだありません"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "最近の検索"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 から転送されました"
+    },
+    {
+      "name": "search_title",
+      "value": "検索"
+    },
+    {
+      "name": "settings_account",
+      "value": "アカウント"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "アプリのテーマ"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "キャッシュを消去"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "キャッシュを消去すると約\\$1の容量が解放されます。この操作によってあなたが保存したページが削除されることはありません。"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "キャッシュを消去しますか?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "消去"
+    },
+    {
+      "name": "settings_donate",
+      "value": "寄付"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "ヘルプとフィードバック"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "検索画面で言語を表示"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "探索フィードの設定を変更すると、どの言語で探索フィードを表示するか管理できます。"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "使用する言語"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "プッシュ通知"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "アカウントに関連する通知を確認中にエラーが発生しました。"
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "通知を確認できません"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "もう一度お試しください"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "仲間の寄稿者からのメッセージ、アラート、通知など、アカウントに関連するアクティビティについて警告を受けます。プライバシーと最新のデータに関するすべてが提供されます。"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "メインの言語"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "このリストの先頭の言語が、このアプリのメインの言語として使用されます。"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "アプリ起動の際に、探索タブの代わりに検索タブを開きます"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "アプリ起動時に検索タブを表示"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "ログインして同期した際に、ウィキメディア財団が、あなたの個人設定に保存した記事とあとで読むリストを保存することを許可する。"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "保存した記事とリストの同期"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "あとで読むリストはバックグラウンドで同期されます"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "同期した記事とあとで読むリストの同期を要求"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "同期したあとで読むリストを更新"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "とりあえずあとで読むリストを他とは分けて表示します。このリストはAndroidデバイスにも表示されます。"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "とりあえずあとで読むリストを表示"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "記事の保存と同期"
+    },
+    {
+      "name": "settings_title",
+      "value": "設定"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "「一年の振り返り」をオフにすると、保存されたパーソナライズされた洞察がすべて消去され、「一年の振り返り」が非表示になります。"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "ウィキペディアアプリで作成"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\"の記事をWikipediaで:"
+    },
+    {
+      "name": "share_building",
+      "value": "シェア・ア・ファクトカードの構築"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” から “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nから “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "道順を取得する"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "共有…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "Wikipediaから"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "マップで開く"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” ウィキペディア経由: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” ウィキペディア経由: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "最近の追加"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "記事名"
+    },
+    {
+      "name": "survey_submit",
+      "value": "送信"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "目次"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "閉じる"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "目次を閉じる"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "目次"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "目次を非表示にする"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "小見出し \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "タブを閉じる"
+    },
+    {
+      "name": "tabs_main_page_description",
+      "value": "Wikipediaのメインページで、注目記事、最新ニュース、興味深い事実、主要な統計情報などをご覧ください。"
+    },
+    {
+      "name": "tabs_main_page_subtitle",
+      "value": "Wikipediaのデイリーハイライト"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 タブ}}"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "タブの改善にご協力ください。この機能に満足していますか？"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "トピックを追加"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "アーカイブ"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "トークページについて"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "言語を変更"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "スレッドを折りたたむ"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "既読"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "未読"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "サーバから異常な応答がありました。しばらくしてから再度、操作してください。"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "予期しないエラー"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "エラーが発生しました"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "トークページを読み込めません"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "スレッドを展開"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "ページ内検索"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "すべてのスレッドを開く"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "ここではみな同じ人類であることを忘れないでください"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "親切であってください"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "返事は無事公開されました"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "議論は無事公開されました"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "返信に戻るにはダブルタップします"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "その他のトークページオプション"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "ページ情報"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "固定リンク"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "インターネット接続を確認してください。"
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "コメントを公開できません。"
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "新しいトピックを公開できません。"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "ウェブで読む"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "リンク元"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1件の返信}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "返信"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1に返信"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "返信のインデントの深さ：\\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "「\\$1」への返信"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "変更履歴"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "返信の表示を閉じる"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "トークページを共有"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "購読"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "記事の議論"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "利用者の議論"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "購読解除"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "利用者のトークページについて"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "投稿記録"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "アーカイブされたページが見つかりません。"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "アーカイブ"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "さらに読む"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "あなたのコメントが追加されました"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "編集を続行"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "ソースを編集"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "トークページは、ウィキペディアのコンテンツを最高のものにする方法について議論する場所です。 「\\$1」さんとつながり、共同作業を行うための新しい会話を行いましょう。ここでの発言は公開され、他の利用者も閲覧することができます。"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "新しいトピックを追加"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "新しい議論を始める"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "議論を始める"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1と議論を開始"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "この新しい返信を破棄してもよろしいですか?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "トピックが追加されました"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "説明"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "返信を破棄"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "この新しいトピックを破棄してもよろしいですか?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "トピック"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "トピック名"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "トークページ"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "利用者グループ"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "ログ"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "トーク"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "利用規約"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ブラック"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "ダーク"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "既定"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "システムのテーマと合わせる"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "ライト"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "セピア"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "世界で今日、何がウィキペディアで読まれているか学びましょう。"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1人の読者"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "よく読まれている記事"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "ログインを続行"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "二要素認証コードを入力してください"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "あなたのアカウントにログイン"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "バックアップコードの1つを使用する"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "確認コードを使用する"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "ノートページを読み込めませんでした"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "不明"
+    },
+    {
+      "name": "unwatch",
+      "value": "ウォッチ解除"
+    },
+    {
+      "name": "user_title",
+      "value": "利用者"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "ウィキペディアのアプリでは以下のウズベク諸語の変種を第1もしくは第2言語として表示できるようになり、個人設定で指定した言語変種の閲覧、検索、編集がしやすくなりました。\n\nウズベク語ラテン表記（oʻzbekcha lotin Uzbek）、Latin（uz-cyrl）\nウズベク語キリル表記（ўзбекча кирилл）、Uzbek, Cyrillic（uz-cyrl）"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "ウズベク諸語の変種対応の情報更新"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "続行"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "利用者名と利用者ページ"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "アカウントの抹消は**最後の手段**であり、**編集を永久に停止したい**場合、および過去の関連付けをできるだけ隠したい場合にのみ使用してください。\n\nウィキペディアでアカウントの削除は、アカウント抹消と呼ばれるプロセスで、アカウント名を変更して他の人があなたの貢献を認識できないようにすることによって行われます。**抹消は完全な匿名性を保証したり、プロジェクトへの貢献を削除したりするものではありません**。"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "警告"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "いいえ、結構です"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "設定を確認する"
+    },
+    {
+      "name": "watch",
+      "value": "ウォッチ"
+    },
+    {
+      "name": "watchlist",
+      "value": "ウォッチリスト"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "ウォッチリストに1か月間追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "ウォッチリストに1週間追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "ウォッチリストに1年間追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "ウォッチリストに恒久的に追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "ウォッチリストに6か月間追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "ウォッチリストに3か月間追加されました。"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "ウォッチリストを表示"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1バイト}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1ヵ月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1週間"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1年間"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "恒久的"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6ヵ月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3ヵ月"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "ウォッチリストの期間を選択"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "ウォッチリストの有効期限"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "差分へ移動"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "編集の要約"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "記事を検索"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "ウォッチリスト項目がありません"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "興味のある記事で何が起こっているのか追跡します。記事への変更がわかるように、記事にあるメニューをタップして「ウォッチ」を選択してください。"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "ウォッチリストに追加した記事がここに表示されます"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "既定ではページは残り続けますが、1週間から1年間の範囲で一時的にウォッチするオプションがあります。"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "有効期限を設定"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "フィルター"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "ウォッチリストの活動"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "閲覧済みの変更"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "未読の変更"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "自動編集"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "ボット"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "人間（ボットではない）"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "最新版"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "最新版"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "最新版以外"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "重要度"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "細部の編集"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "細部でない編集"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "変更の種類"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "カテゴリの変更"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "操作記録"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "ページの作成"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "ページの編集"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "ウィキデータの編集"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "利用者の登録と経験"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "登録済み"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "未登録"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "言語を追加..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "項目をさらに表示するには [{{PLURAL:\\$1|\\$1件のフィルター}}](wikipedia://watchlist/filter) を修正してください"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "ウォッチリストに関してもっと知る"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "ウォッチリストの紹介"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "ウォッチリストから除去しました"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "あなたの「感謝」が \\$1 に送られました"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "ウォッチリストは興味のあるページへの変更を把握できるようにするツールです。"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "変更を追跡する"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "自分のウォッチリストに追加したページ類、例えば改稿や協議などを閲覧するには、設定 → アカウントと進みます。"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "更新を表示する"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "感謝"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "投稿記録"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "利用者ページ"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "利用者トークページ"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "記事の最下部にあるツールバーで星アイコンもしくは「ウォッチする」リンクを押すと、その記事を自分のウォッチリストに追加します。"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "記事をウォッチ"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "データとプライバシー"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "私たちコミュニティからの読書のおすすめと毎日の記事"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "探索フィード"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "歴史の中で今日起こったことを学ぶために時間を遡ります。"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "今日は何の日"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "近くのランドマークを発見したり、世界中の場所を検索したりできます"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "[場所]タブ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "始める"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "新しいツールで探検しよう"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "わかりました"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "ウィキペディアは、ボランティアの方々により執筆され、300言語を超えて4,000万以上の記事から成ります。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "ウィキペディアについての詳細"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "ウィキペディアについて"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "ウィキペディアは世界中のすべての言語でフリー百科事典を構築する世界的なプロジェクトです。インターネットにアクセスできる方ならほとんど誰でも、中立で、出典付きの情報を自由に寄稿して参加することができます。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "フリー百科事典"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "言語を追加"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "優先言語の追加または編集"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "お使いの端末で次の言語が見つかりました:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300を超える言語の中を検索"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "今日、歴史上では何が起こったのかを探索します。"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "誰もが編集できる無料のオンライン百科事典"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "ウィキペディアは、オンライン上の無料で利用できる百科事典です。"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "編集のプレビューを取得中..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "このリンクは外部のウェブサイトへのものです: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "外部リンク"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "ウィキペディアにはその名前の記事はありません"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "内部リンクは見つかりませんでした"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "このリンク先は\\$1"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "リンクをプレビュー"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "変更を保存"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA認証エラーです。"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA認証が必要です。"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ウィキテキストのアップロード結果が不明です。"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "公開中..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "編集はあなたのデバイスのIPアドレスと関連付けて記録されます。\\$1ログイン\\$2すれば、よりプライバシーが高まります。"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "編集はあなたのデバイスのIPアドレスと関連付けて記録されます。\\$1すれば、よりプライバシーが高まります。"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "利用規約"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "ウィキペディアの心臓部とも魂ともいうべきはボランティアの寄稿者、寄付者、そしてあなたのような何十億もの読者であり – 信頼できる情報への無制限のアクセスを共有しようと集まったのです。"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "公式ウィキペディアアプリの編集者は{{PLURAL:\\$1|\\$1回}}の編集を行いました"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "記事は信頼できる情報源を使用して共同で作成、改訂されています。私達は皆、共有すべき知識を持っていますから、[参加方法をご覧ください](\\$1)。"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "ウィキペディアは1分あたり{{PLURAL:\\$1|\\$1回}}編集されました"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "ウィキペディアには、{{PLURAL:\\$2|\\$2以上のアクティブな言語}}で{{PLURAL:\\$1|\\$1件以上の記事}}が掲載されていました。あなたは何百万人もの人々に加わり、知識を広げ、多様なトピックを探求しました。"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "ウィキペディアは{{PLURAL:\\$1|\\$1以上の言語}}で利用可能でした。"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "あとで読むリストに記事を追加しておくと、オフラインの状態でも記事にアクセスできます。また、ログインすると複数の端末間であとで読むリストの同期もできます。"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "アプリ利用者は{{PLURAL:\\$1|\\$1 記事を保存}}しました"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "世界中の人々にとって、ウィキペディアは、 疑問に答えたり、学校や仕事で情報を調べたり、新しい事実を学んだりする際に、最初に訪れる場所です。"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "アプリ利用者はウィキペディアの記事を{{PLURAL:\\$1|\\$1回}}閲覧しました"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "一年の振り返り"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "金曜日"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "月曜日"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "土曜日"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "日曜日"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "木曜日"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "火曜日"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "水曜日"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "寄付する"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "今すぐ寄付する"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "私達が読んだ記事や編集した記事に関する洞察を見て、ウィキペディアでの一年間のハイライトを共に確認しましょう。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "あなたがウィキペディアのアプリで読んだ記事についての洞察を確認し、あなたの軌跡を共有し、今年のハイライトを見てみましょう。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "ウィキペディアを振り返って見てみましょう"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "ウィキペディアでの一年を振り返って見てみましょう"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "ウィキペディアは、世界の歴史の中でこれまでに組み立てられた最大の知識源で、誰もがどこからでも自由に利用できます。ウィキペディアのレンズを通して、2024年を振り返ってみましょう。"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "あなたが2024年にウィキペディア・アプリで読んだ記事や行った編集に関する洞察をご覧ください。あなたの閲覧履歴は保護されています。閲覧に関する洞察を算出するには、あなたの端末にローカルに保存されたデータを使います。"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "自由な知識の未来への投資に感謝いたします。今年、ウィキメディア財団は、すべての読者とボランティアにより良いサービスを提供するための技術改善、共同作業を強化するツールの開発、そしてより多くの言語でのウィキペディアのサポートを行いました。[私達の活動についてさらに詳しく知る](\\$1)。"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "皆様の寛大なご支援により、ウィキペディアは発展を続けています"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "世界中の読者があなたの貢献に感謝しています。この2か月間、あなたが編集した記事は{{PLURAL:\\$1|\\$1 回閲覧|合計で \\$1 回閲覧}}されました。あなたのような編集者のおかげで、ウィキペディアは着実に改良され、事実に基づく信頼性の高い世界の知識源となっているのです。"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "あなたの編集は最近 {{PLURAL:\\$1|\\$1 回}}以上閲覧されました"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "あなたが編集した回数は{{PLURAL:\\$1|\\$1 回}}です。"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "あなたは{{PLURAL:\\$1|\\$1件の記事}}を保存しました。"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "私のウィキペディアにおける「一年の振り返り」はこちらです。ウィキペディアのiOSアプリ（https://apps.apple.com/app/wikipedia/id324715238）で作成されました。#WikipediaYearInReview"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "その他に何かご意見はありますか？"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "どちらでもない"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "満足している"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "「一年の振り返り」の向上にご協力ください。 この機能に満足していますか？"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "満足度調査"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "満足していない"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "とても満足している"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "非常に不満だ"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "ウィキメディア財団のロゴ"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "最近の記事への編集は0件です"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "閲覧履歴からのおすすめ"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "よく読まれている記事すべて"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "おまかせで別の記事"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s版ウィキペディアより"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s版ウィキペディアより"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ウィキメディア・コモンズより"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "表示する履歴がありません"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "カードを隠す"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "探索フィードをカスタマイズ"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "非表示にしたカード"
+    },
+    {
+      "name": "editor_published",
+      "value": "あなたの編集が公開されました。"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%sの説明"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "もしかして“%s”ですか?"
+    }
+  ]
+}

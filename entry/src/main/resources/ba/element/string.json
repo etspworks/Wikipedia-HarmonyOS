@@ -1,0 +1,2204 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Википедия"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Эстәлек лицензияһы"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Башҡаһы күрһәтелмәһә, эстәлек \\$1 ярашлы асыҡ."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike лицензияһы менән"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Авторҙар"
+    },
+    {
+      "name": "about_libraries",
+      "value": "файҙаланған китапханалар"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Тулы исемлек"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лицензия"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "\\$1 асыҡ сығанаҡ кодлы Программа тәьминәтен яратабыҙ"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Урындағы карталар лицензияһы"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Урындарҙы күрһәтеү өсөн Apple Maps  карталары ҡулланыла. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Лицензия тураһында ентекләберәк бында ҡарағыҙ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Был программаны \\$1 һеҙҙең кеүек ирекмәндәр ярҙамында эшләне"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Һаҡлағыс"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Сығанаҡ текст \\$1 аҫтына асыҡ"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT лицензияһы"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ҡушымта тураһында фекер ебәрергә"
+    },
+    {
+      "name": "about_title",
+      "value": "Ҡушымта тураһында"
+    },
+    {
+      "name": "about_translators",
+      "value": "Тәржемәселәр"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Был ҡушымта  \\$1-гә ирекмәндәр тарафынан тәржемәләнде"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Викимедиа Фонды"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Википедия"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Рәсемде күрмәйһегеҙме? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Яңы CAPTCHA алыу..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Иҫәп яҙмаһын һорау"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA ярҙамында хәүефһеҙлекте тикшереү"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Иҫәп яҙмаһын булдырырға"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Иҫәп яҙмағыҙ бармы? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Инергә"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Системаға инеү..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Иҫәп яҙмаһы булдырыу өсөн һеҙ ҡатнашыусының исемен, серһүҙҙе индеререргә һәм серһүҙҙе  раҫларға тейешһегеҙ"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Серһүҙҙәр тура килмәй"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Яҙҙырыла"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Яңы иҫәп яҙмаһы булдырығыҙ"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Һеҙҙең иҫәп яҙмаһы"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Иҫәп яҙмаһын юйырға"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Һеҙҙең фекер алышыу бите"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Автоматик имзаланған фекер алышыу биттәре"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Фекер алышыуҙар битендә автоматик имза ҡуйғанда Көйләүҙәрҙә һайланған имза ҡулланыла"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Фекер алышыу битен көйләү"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Өҫтәргә..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Уҡыу исемлегенә өҫтәргә"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Исемлеккә өҫтәргә"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Кире алырға"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Төҙәтеүҙәрҙе кире алырға"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Биттә табырға"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Телде үҙгәртергә"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Күсерергә..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Уҡыу исемлегенә күсерергә"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Киләһе версия"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Алдағы версия"
+    },
+    {
+      "name": "action_read",
+      "value": "Уҡырға"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ҡабаттан эшләргә"
+    },
+    {
+      "name": "action_remove",
+      "value": "Юйырға"
+    },
+    {
+      "name": "action_retry",
+      "value": "Ҡабатларға"
+    },
+    {
+      "name": "action_save",
+      "value": "Яҙҙырып ҡуйырға"
+    },
+    {
+      "name": "action_saved",
+      "value": "Һаҡланған"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Һаҡланған. Юйыу өсөн әүҙемләштерегеҙ."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Мәҡәлә аҙаҡҡа һаҡланған"
+    },
+    {
+      "name": "action_share",
+      "value": "Уртаҡлашырға"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Уртаҡлашырға"
+    },
+    {
+      "name": "action_sort",
+      "value": "Айырырға"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Ҡатнашыусыға рәхмәт әйтергә"
+    },
+    {
+      "name": "action_undo",
+      "value": "Кире алырға"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Һаҡланманы"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Мәҡәлә һаҡланмаған"
+    },
+    {
+      "name": "action_update",
+      "value": "Яңыртырға"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 мәҡәләне|\\$1 мәҡәләләрҙе}} уҡыу исемлегенә өҫтәргә"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Кире ҡағыу"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Википедия, белешмә, вики, энциклопедия, мәғлүмәт, белем, тикшеренеүҙәр, белем, тикшереү, өйрәнеү"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Explore ҡушымтаһы тулыһынса көйләнелә һәм уҡыу өсөн уңайлы. Локалләштерелде, етештереүсәнлеге һәм  хаталарҙы төҙәтеү яҡшырҙы."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Wikipedia ҡушымтаһын йөкләгеҙ, яҡын-тирәләге урындарҙы тикшерегеҙ, мәҡәләләрҙе офлайн уҡығыҙ."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Ирекле энциклопедия"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Текст үлсәмен көйләй"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Тааблицаларҙы асырға"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Бөтә мәҡәләләрҙә лә таблицалар, шул иҫәптән ҡыҫҡа факттар, һылтанмалар, иҫкәрмәләр һәм тышҡы һылтанмалар программа көйләүе буйынса асылырлыҡ итеп көйләгеҙ."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Ҡараңғылатылған һәм ҡара темаларҙа һүрәттәрҙең асыҡлығын кәметә"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Уҡыу өсөн темалар"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Таблицаларҙы көйләү"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Мәҡәләнең тексын үҙгәртер өсөн шыуҙырманы күсереп йөрөтөгөҙ. Ул ҡушымтала текст блоктарының үлсәмен үҙгәртә."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Тема параметрҙары"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Был мәҡәлә тураһында"
+    },
+    {
+      "name": "article_delete",
+      "value": "Юйырға"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|мәҡәлә}} юйылған"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Ҡушымта яңыртылған контентты ваҡытында ала алманы. Үҙгәртеүҙәрегеҙҙе күрер өсөн битте һуңыраҡ яңыртығыҙ."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Телде табырға"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Телде һайларға"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Башҡа телдәр"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Һеҙҙең телдәр"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Ентеклерәк"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Иҫкәрмәләр \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Мәҡәләнең өлгөләре тарихы"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Был мәҡәләне һаҡлар өсөн ҡоролмағыҙҙа урын етмәй"
+    },
+    {
+      "name": "article_share",
+      "value": "Уртаҡлашырға"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Мәҡәләнең фекер алышыу бите"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Уҡыу темаһын көйләү"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Кирегә"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Ҡире ҡайтыу өсөн баҫығыҙ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Кире ҡайтырға"
+    },
+    {
+      "name": "button_next",
+      "value": "Артабан"
+    },
+    {
+      "name": "button_ok",
+      "value": "Яҡшы"
+    },
+    {
+      "name": "button_publish",
+      "value": "Баҫтырырға"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Ниндәй осраҡта ла баҫтырырға"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Хата тураһында хәбәр итергә"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Аҙаҡҡыға һаҡларға"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Киләсәккә һаҡланды"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Һаҡланғандарҙан юйырға"
+    },
+    {
+      "name": "button_skip",
+      "value": "Үткәреп ебәрергә"
+    },
+    {
+      "name": "cancel",
+      "value": "Кире алырға"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Wikipedia ҡушымтаһы хәҙер түбәндәге ҡытай теле вариаттарын, ҡушымтала төп һәм икенсел тел булараҡ уҡый ала, был һеҙ һайлаған форматта уҡыу, эҙләү йәки үҙгәрештәр индереүҙе еңеләйтә:\n\nҠытай, ябайлаштырылған\nГонконг традицион\nМакао ғәҙәти \nМалайзия ябайлаштырылған\nСингапур ябайлаштырылған\nТайвань традицион"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Ҡытай теле вариаттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Таҙартырға"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Кэшты таҙартыу тамамланды"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Кэш таҙартыу бара"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Ябырға"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 сәғәткә"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Дауам итергә"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Күберәк мәҡәләләр уҡыу өсөн Википедияны өйрәнегеҙ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Һуңғы ваҡытта уҡылған мәҡәләләр юҡ"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Wikipedia ҡушымтаһы хәҙер түбәндәге ҡырым-татар теле вариаттарын, ҡушымтала төп һәм икенсел тел булараҡ уҡый ала, был һеҙ һайлаған форматта уҡыу, эҙләү йәки үҙгәрештәр индереүҙе еңеләйтә:\n\nQırımtatarca, ҡырым-татар латиница (chr-latn)\nКъырымтатарджа, ҡырым-татар кириллица (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Ҡырым-татар теле вариаттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Яңыртыу..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Тасуирлама өҫтәргә"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 өсөн тасуирлама өҫтәргә"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Тасуарламаны үҙгәртеп, мин \\$1 менән килешәм һәм үҙ өлөшөмдө кире алыу мөмкинлекһеҙ \\$2 лицензияһына ярашлы  баҫтырам."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Инеште мөхәррирләргә"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Мәҡәлә тасуирламаһын мөхәррирләргә"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Иң яҡшыһы - ҡыҫҡаса тасуирлау"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Тасуирламаны баҫтырып сығарыу"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Тасуирламаны мөхәррирләргә"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Ҡулланыусылар мәҡәләлә һүҙ нимә тураһында барғанын шунда уҡ аңлай алһын өсөн, тасуирлама ҡыҫҡа булырға тейеш."
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Тик яңғыҙлыҡ исемдәр генә, хатта һөйләмдең башында ла, ҙур хәрефтән яҙылырға тейеш."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Тасуирламаларҙа мәҡәлә йөкмәткеһе ҡыҫҡаса бирелә, был уҡыусыларға теманы шунда уҡ аңларға ярҙам итә."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Тасуирлау"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Викимәғлүмәт тураһында"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Тасуирлама Викимәғлүмәттә (Wikidata) — Википедияға һәм башҡа проекттарға ярҙам итеү өсөн ирекле, тышҡы сығанаҡтарға нигеҙләнеп, берлектә тултырылған күп телле икенсел мәғлүмәт базаһы булып торған Викимедиа фонды проектында һаҡлана."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Өҫтәмә мәғлүмәт"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Тасуирлама мөмкин тиклем бер юлда яҙылырға һәм ике-ун ике һүҙҙән торорға тейеш. Тәүге һүҙ яңғыҙлыҡ исеме булған осраҡтарҙан тыш, һөйләмде бәләкәй хәрефтән башларға кәрәк."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Мона Лиза тураһында мәҡәләнең тасуирламаһы"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Эверест тураһында мәҡәләнең тасуирламаһы"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Леонардо да Винчи картинаһы"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Ерҙәге иң бейек тау"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Миҫал:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Тасуирлама буйынса кәңәштәр"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Мәҡәләләрҙең тасуирламаһы буйынса ярҙам"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Тасуирлама яҙыу өсөн Викимәғлүмәт ҡулланмаһы"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Эшләнде"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Һеҙ Википедияны барыһы өсөн дә яҡшыраҡ итеп эшләнегеҙ"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Тасуирлама һаҡланды!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Мөмкин булһа,  икенән ун икегә тиклем һүҙҙән торған бер юл"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Ҡыҫҡа тот"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Ҡыҫҡаса тасуирламалар уҡыусыларға мәҡәләнең темаһын тиҙ аңларға ярҙам итә"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Мәҡәләләрҙең тасуирламаһы"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Файҙалана башлап, мин был мөмкинлекте яуыз ниәттә файҙаланмайым тип вәғәҙә бирәм"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Мөхәррирләй башларға"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Алдағы төҙәтеү"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Версияларҙы сағыштырырға"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Күрһәтелгән төҙәтеү"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Версияларҙы сағыштырырға"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Күрһәтергә"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Йәшерергә"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "\\$1 - \\$2 юл"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Абзац күсерелгән"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "аҫҡа"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "өҫкә"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 юл}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 бүлек}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Абзац күсерелгән \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Өлгөнө йөкләп булманы"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Кире ҡайтарырға"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Үҙгәрештәрҙе кире ҡағырға теләйһегеҙме?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Үҙгәртеүҙәрҙе кире ҡайтарырға"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Төҙәтеүҙәр кире алынған"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|төҙәтеү}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Мөхәррир тураһында мәғлүмәт"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 байт өҫтәлгән}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 байт юйылған}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Үҙгәртеүҙәрҙең ҡыҫҡаса тасуирламаһы"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Инеш"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1 юл:"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Аноним ҡатнашыусыға рәхмәт ебәреп булмай"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Был - Википедия мөхәрриренә уның эше өсөн рәхмәт белдереүҙең ябай ысулы. Рәхмәт ебәреү өсөн һеҙ системаға инергә тейешһегеҙ."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'Рәхмәт' әйтеү өсөн танылығыҙ"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Рәхмәт әйтергә"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Рәхмәт әйтергә' - Википедия мөхәрриренә уның эше өсөн рәхмәт белдереүҙең иң ябай ысулы. «Рәхмәт»те юйып булмай, һәм уны барыһы ла күрә."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Башҡалар ҙа күрерлек итеп рәхмәт ебәрергә"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Һеҙҙең 'Рәхмәт' \\$1 исеменә ебәрелде"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Был үҙгәртеү өсөн 'Рәхмәт' ебәрҙегеҙ"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Рәхмәт ебәреүҙе кире алып булмай"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Был ғәмәл мәҡәләгә индергән үҙгәреште юҡҡа сығара. Артабан дауам итер өсөн, зинһар, төҙәтеүҙең сәбәбен күрһәтегеҙ."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Был өлгө кире алынған"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 юл үҙгәрмәне|\\$1 юлдар үҙгәрмәне}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Менюны асыу өсөн ике мәртәбә баҫығыҙ"
+    },
+    {
+      "name": "dim_images",
+      "value": "Һүрәттәрҙе тоноҡландырырға"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Тексты күрһәтергә"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Бәйләнеш маҡсаты"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Һылтанманы юйырға"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Һылтанмаларҙы мөхәррирләргә"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Төҙәтеү"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Был һеҙ һайлаған текстың мөхәррирләү өсөн рөхсәт ителмәүенә (мәҫәлән, мәҡәләнең йәки инфобокстың исеме) йәки айырып алған текстың оҙонлоғона бәйле булыуы ихтимал."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Һайланған текст табылманы"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Әһәмиәте әҙ булған төҙәтеүҙәр тураһында ентекләберәк"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Әһәмиәте әҙ булған үҙгәртеү"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Белдереүҙәрҙе мөхәррирләү"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Һәр ваҡыт үҙгәрештәр тураһында белдереүҙәр күрһәтергә"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Зинһар, төҙәтер алдынан уҡығыҙ"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Төҙәтеү тасуирламаһын өҫтәргә"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Дөрөҫ яҙыу төҙәтелгән"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Баҫма хатаһы төҙәтелгән"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Өҫтәлгән һылтанмалар"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Битте нисек яҡшырттығыҙ?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Күҙәтеү исемлектәре тураһында күберәк белергә"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Был битте күҙәтергә"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Ҡыйыу төҙәтегеҙ, әммә уйлап эш итегеҙ. Хаталар өсөн борсолмағыҙ - мәҡәләләрҙең һәр версияһы һаҡлана, шуға күрә википедияла ҡатнашыусылар хатаны еңел генә төҙәтә ала."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Һеҙҙең тауыш мөһим"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Бөтә мәғлүмәт тикшерелерлек булырға тейеш. Мәҡәләгә яңы мәғлүмәт өҫтәгәс, ҡатнашыусылар был мәғлүмәттең ышаныслы сығанағына һылтанманы күрһәтергә тейеш."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Ышаныслы сығанаҡтарға һылтанығыҙ"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Мәҡәләләр ғәҙел яҙылһын тип тырышабыҙ.Мөхәррирләгәндә, донъяны ышаныслы сығыныҡтарҙа яҙылған кеүек итеп күҙ алдына килтерергә тырышығыҙ."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Мәҡәләне нейтраль күҙлектән яҙығыҙ"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Һәр кемгә донъялағы барлыҡ белемгә юл асыу өсөн өсөн, уларҙы булдырыуҙа ҡатнашырға, мөһим темаларҙы ентекле тикшереүҙә, мөхәррирләүҙә өлөш индерергә кәрәк."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Белемде ирекле итегеҙ"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Һеҙ, ысынлап та, үҙгәртеүҙәрҙе һаҡламайынса, ҡарау режимына ҡайтырға теләйһегеҙме?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Мөхәррирләү режимынан сығырғамы?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Версиялар араһында айырма юҡ"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Күҙгә күренгән үҙгәрештәр юҡ"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Викимилектә файл һайлағыҙ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Үкенескә ҡаршы, мәҡәләне күсереп булманы"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Әлегә һеҙ элек һаҡланған мәҡәләләрҙе уҡый алаһығыҙ"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Интернет булғанда, тәҡдим ителгән мәҡәләләрҙе күрә алаһығыҙ"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Бында уҡығанығыҙҙы күҙәтеп барығыҙ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Күрһәтеү өсөн тарих юҡ"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Был мәҡәлә башҡа телдәрҙә яҙылмаған"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Башҡа телдәр юҡ"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Сәйәхәт итеү урындары, яратҡан темалар һәм башҡа күп нәмәләр буйынса исемлектәр төҙөгөҙ"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Һаҡланған мәҡәләләрҙе уҡыу исемлектәре ярҙамында тәртипкә килтерегеҙ"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Исемлектә һаҡланған биттәр бында күренәсәк"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Был исемлектә һаҡланған биттәр юҡ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": " Биттәрҙе һуңғараҡ ҡарау өсөн, хатта автоном режимда, уларҙы һаҡлағыҙ"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Әлегә һаҡланмаған биттәр юҡ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Бер нәмә лә табылманы"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Был ҡатнашыусыға әлегә бер генә хәбәр ҙә ебәрелмәгән"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Һуңыраҡ ҡабатлағыҙ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Билдәһеҙ хата сыҡты"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Тағы бер осраҡлы мәҡәлә"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Сөнки һеҙ уҡыйһығыҙ"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Тема буйынса башҡа мәҡәләләр"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Уҡыуҙы дауам итергә"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Күҙәтеү ҡушымтаһына кире ҡайтырға"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Википедияла әле булған урынығыҙға яҡын урынлашҡан объекттар тураһында мәҡәләләр уҡығыҙ"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Һайланған мәҡәлә"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Википедиянан"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Көйләргә"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Теҙмәнең тел көйләүҙәрен өйрәнегеҙ"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Өҫтәмә телдәрҙе \"Минең телдәр\" көйләүенә өҫтәргә мөмкин."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Карточка йәшерелгән"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Асыҡ мәҡәләне уҡыуға күсеү өсөн тиҙ һылтанма"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Теҙмәне көйләгеҙ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Теҙмәне көйләгеҙ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Йәшерелгән карточкалар теҙмәлә күренмәйәсәк"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "\"Теҙмә\" ҡушымтаһы"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Википедияла бөгөнгө һайланған мәҡәлә"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Һүндерелгән"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Барыһын да ҡабыҙырға"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Ҡабыҙылған"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 тел ҡабыҙылған"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Бөтә \\$1 карточкалар йәшерелгән"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Был карточка бер телгә лә бәйләнмәгән, шуға күрә  һүндергән осраҡта карточка бөтә телдәге теҙмәлә лә юғаласаҡ."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Бер телгә лә бәйләнмәгән карточкалар"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Телгә бәйләнмәгән"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Глобаль карточкалар"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Был карточканы йәшерергә"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Бөтә “\\$1\"карталарын йәшерергә"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Ағымдағы ваҡиғалар тураһында мәҡәләләр"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Әгәр һеҙ карточкаларҙы бөтә телдәрҙә лә япһағыҙ, теҙмә ябыла."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Был көндәге тарихи ваҡиғалар"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Википедияла мәҡәлә булған яҡындағы объект"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Викимилектән һайланған көн рәсеме"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Уҡыу өсөн осраҡлы мәҡәләләр исемлеге булдырырға"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Уҡыу тарихы нигеҙендә тәҡдим ителә"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "\"Уҡыуҙы дауам итеү\" карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "«Һайланған мәҡәлә» карточкаһын һүндереү бөтә телдәрҙә лә башҡарыласаҡ"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "«Һайланған мәҡәлә» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "«Яңылыҡтарҙа» карточкаһын һүндереү бөтә телдәрҙә лә башҡарыласаҡ."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "«Яңылыҡтар» карточкаһында күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "«Был көндө» карточкаһын һүндереү бөтә телдәрҙә лә башҡарыла"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "«Был көндө» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "«Аҙна рәсеме» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "«Урындар» карточкаһын ябыу бөтә телдәрҙә лә башҡарыласаҡ"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "«Урындар» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "«Рандомайзер»  карточкаһын һүндереү бөтә телдәрҙә лә башҡарыласаҡ."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "«Рандомайзер» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "«Һеҙҙең уҡығандар» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "«Иң күп уҡылғандар» карточкаһын ябыу бөтә телдәрҙә лә башҡарыласаҡ"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "«Иң күп уҡылған» карточкаһын күрһәтергә"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Бер көндә иң күп ҡаралған мәҡәләләр"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Теҙмәне һүндерергә"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Бөтә карточкаларҙы йәшергән осраҡта \"Теҙмә\" ҡушымтаһы ла йәшерелә һәм \"Көйләүҙәр\" ҡушымтаһына алышына"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Теҙмә ҡушымтаһын һүндерергәме?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Теҙмәне һүндерергә"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "«Күҙәтеү» ҡушымтаһын ҡарау таҫмаһы көйләүҙәрендә ҡабаттан ҡабыҙырға мөмкин"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Күҙәтеү ҡушымтаһын һүндерегәме?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "«Теҙмә» ҡушымтаһын һүндерһәгеҙ, уның урынына «Көйләүҙәр» ҡушымтаһы асыла."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "\"Теҙмә\" ҡушымтаһының берәй карточкаһын ҡабыҙһағыҙ, ҡушымта ла ҡабыҙыла"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Теҙмәне ҡабыҙырға"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "\"Көйләү\" ҡушымтаһы \"Теҙмә\" ҡушымтаһына алмаштырыла, өҫкө өлөштәге тешле тәгәрмәс билдәһенә баҫып көйләүҙәргә инә алаһығыҙ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Күҙәтеү ҡушымтаһын ҡабыҙырғамы?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Был карточканы йәшерергә"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Викимедиа проекттарының Баш бите"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Бөгөн Википедияла"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Барлыҡ иң күп уҡылған мәҡәләләр"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Иң күп уҡылған"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1-ҙә иң күп уҡылғаны"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Википедияла"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Яҡындағы урындар"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Урындар"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Википедиянан"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Урынығыҙ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 Википедияла урынығыҙ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Көн Һүрәтләнеше"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Викимилектән"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Осраҡлы мәҡәлә"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Википедиянан"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Рандомайзер"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Ҡушымталар китапханаһын дөйөм ҡулланыуға уҡыу исемлеге һәм тарихы, \"Теҙмә\" бүлегендәге өҫтөнләктәр һәм мәғлүмәттәр инә. Был мәғлүмәт файлы техник диагностика маҡсатында ҡулланыу өсөн ышаныслы алыусыға ғына тапшырылырға тейеш."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Ҡушымталар тупланмаһы менән бүлешергәме?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Һеҙҙең мәғлүмәттәрҙе экспортлауҙа хата килеп сыҡты. Зинһар, һуңыраҡ ҡабатлағыҙ."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Һеҙҙең ҡоролмала ҡатнашыусы мәғлүмәттәрен экспортлау өсөн урын етмәй. Зинһар, һуңыраҡ ҡабатлағыҙ."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Ҡатнашыусы мәғлүмәттәрен экспортлау"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Был көн өсөн һайланған мәҡәлә асылмай"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Үҙегеҙгә көн һайын берләшмәбеҙ һайлап алған Википедияның иң яҡшы мәҡәләләрен асығыҙ."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Википедиянан"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Википедияның һеҙҙең тел бүлеге «Һайланған мәҡәләләр»ҙе уҡымай. Ҡушымтаның көйләүҙәр менюһында тел бүлеген алмаштыра алаһығыҙ."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Һайланған мәҡәлә"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Хата килеп сыҡты. Һуңыраҡ ҡабатлағыҙ."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Серверҙан көтөлмәгән яуап килде. Һуңыраҡ ҡабатлағыҙ."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA дөрөҫ түгел"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Серһүҙҙәр тура килмәй"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Код дөрөҫ түгел"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Ҡатнашыусы исеме юҡ"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Резерв код"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA тексы"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Юғарыла күргән тексты индерегеҙ"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Электрон почта"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Электрон почта адресы (мотлаҡ түгел)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Яңы серһүҙҙе ҡабаттан индерегеҙ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Яңы серһүҙҙе раҫлағыҙ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Яңы серһүҙҙе яҙығыҙ"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Яңы серһүҙ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Серһүҙҙе ҡабаттан индерегеҙ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Серһүҙҙе раҫлағыҙ"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Серһүҙҙе яҙығыҙ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Серһүҙ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Раҫлау коды"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Ҡатнашыусы исемен яҙығыҙ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Ҡатнашыусы исеме"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Эҙләү тарихын таҙартырға"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Киләһе һөҙөмтә"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Эҙләүҙең алдағы һөҙөмтәһе"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Эҙләү һәм алмаштырыу"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Эҙләү һәм алмаштырыу диалогын ябырға"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Табырға"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Таҙартырға"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Серһүҙҙе алып ташлап яңыға алмаштырыу инструкцияһы  электрон почтағыҙға ебәрелде"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Электрон почта аша серһүҙҙе алып ташлау  инструкцияһын алыу өсөн түбәндәге ҡырҙарҙың береһен тултырығыҙ"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Серһүҙҙе алып ташлау"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Йәки"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Wikipedia ҡушымтаһы хәҙер  Gan телен төп йәки өҫтәмә тел булараҡ хуплай, был һеҙ һайлаған форматта уҡыуҙы, эҙләүҙе һәм үҙгәрештәр индеререүҙе ябайлаштыра:\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Ябайлаштырылған (gan-hans)\n贛語 繁體 Gan, Tрадицион (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Ган теле варианттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Һеҙ ысынлап та яңыраҡ булған элементтарҙы юйырға теләйһегеҙме?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Эйе, бөтәһен дә юйырға"
+    },
+    {
+      "name": "history_title",
+      "value": "Тарих"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Википедия, теҙмәгә кире ҡайтыу"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Википедия, Һаҡланғандарға әйләнеп ҡайтыу"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Тағы ла оҡшаш \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Һеҙҙең урынға яҡыныраҡ урындар тураһында  күберәк"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Тағы \\$1 - ҙән яҡыныраҡ"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Ағымдағы ваҡиғалар тураһында күберәк"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Һаҡланған мәҡәләләрегеҙ хәҙер уҡыуҙар исемлегенә индерелергә һәм ҡоролмалар араһында синхронлаштырылырға мөмкин. Уҡыуҙар исемлегегеҙ ҡулланыусы көйләүҙәрендә һаҡланһын өсөн системаға инегеҙ."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Көйләүҙәр менән идара итеү"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Уҡыу уңайлыраҡ булһын өсөн, уҡыу көйләүҙәрен (шул иҫәптән текстың күләмен һәм темаһын) мәҡәләнең идара итеү панеленә йәки ҡулланыусы көйләүҙәренә ҡуйығыҙ."
+    },
+    {
+      "name": "home_title",
+      "value": "Тикшерегеҙ"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Википедия, теҙмәнең өҫкө өлөшөнә күсергә"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Яҡында булған нәмәләр тураһында мәҡәлә"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Осраҡлы мәҡәлә"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Википедияла эҙләү"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Авторы билдәһеҙ"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Уҡыу исемлегем"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Һорауламала ҡатнашыу"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "«Уҡыу исемлектәре менән бүлешергә» -  тест функцияһы, һәм беҙгә уны яҡшыртыу йәки алып ташлау өсөн һеҙҙең фекер кәрәк."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "\"Уҡыу исемлектәре менән уртаҡлашыу\" функцияһын яҡшыртыуҙа ярҙам итә алмаҫһығыҙмы?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Дөйөм уҡыу исемлеген импортлау"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 Википедиянан"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Википедиянан"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Яңылыҡтарҙа"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Өҫтәргә"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Һылтанма ҡуйыу"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Күреү мөмкинлеге сикле уҡыусылар өсөн тасуирлама"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Рәсемде тасуирларға"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Альтернатив текст"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Был рәсем мәҡәлә менән нисек бәйле?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Файл аңлатмаһы"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Тасуирлама"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Уртаға"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Һулға"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Рәсем торошо аныҡ түгел"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Уңға"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Рәсем торошо"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Өҫтәмә мәғлүмәт"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Рәсем һайларға"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Рәсемдең үлсәмен ҡулдан көйләгеҙ"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Программа көйләнгәнсә"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "пкс"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Рәсем ҙурлығы"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Нигеҙ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Рамка"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Рамкаһыҙ"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Миниатюра"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Рәсем төрө"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Медиа көйләүҙәре"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Медиа-файл ҡуйырға"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Инуктитут теле варианттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Ҡаҙаҡ теле варианттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Ҡурд теле варианттарына ярҙамды яңыртыу"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Телдәр"
+    },
+    {
+      "name": "languages_title",
+      "value": "Телде үҙгәртергә"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Википедия телдәре"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Системаға инмәйенсә дауам итергә"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Шәхси теркәү яҙмаһына яңынан ин"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Иҫәп яҙмағыҙҙың танылыуы менән проблема килеп тыуҙы. Зинһар, уҡыу исемлектәрен синхронлаштырыу һәм үҙегеҙҙең исем менән үҙгәрештәр индереү өсөн тағы бер тапҡыр танылығыҙ."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Һеҙ системанан сыҡтығыҙ"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Серһүҙҙе оноттоғоҙмо?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Википедияға ҡушылығыҙ"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Иҫәп яҙмағыҙ юҡмы?\\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Иҫәп яҙмағыҙға инегеҙ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Ҡушымта тураһында"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Танылыу"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Сығырға"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Һеҙ ысынлап та сығырға уйлайһығыҙмы?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Системанан сыҡһағыҙ, иҫәп яҙмағыҙҙа һаҡланған мәғлүмәттәр (хәбәр итеүҙәр һәм хәбәрҙәр) юйыласаҡ, әммә иҫәп яҙмағыҙҙың мәғлүмәттәре элеккесә интернетта буласаҡ һәм ҡабаттан ингәндә күренәсәк."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 булып танылған"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Йәшеренлек һәм шарттар"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Эргәлә"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Сер һаҡлау сәйәсәте"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Ҡушымтаны баһаларға"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Ҡулланыу шарттары"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Тағы ла"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Zero Википедияһы буйынса йыш бирелгән һорауҙар"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Википедияла 300-ҙән ашыу телдә эҙләргә"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Телдәр өҫтәргә"
+    },
+    {
+      "name": "more_menu",
+      "value": "Күберәк"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 мәҡәләне}} уҡыу исемлегенә күсерергә"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Ҡарап сығырға"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фут"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 мил."
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Һеҙ системаға ваҡытлыса серһүҙ менән индегеҙ. Системаға инеүҙе тамамлау өсөн яңы серһүҙ яҙығыҙ."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Серһүҙ яҙығыҙ"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Үҙегеҙҙең ҡоролмала электрон почтаның иҫәп яҙмаһын көйләгеҙ һәм тағы бер тапҡыр эшләп ҡарағыҙ."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Интернет бәйләнеше юҡ"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Хәҙер түгел"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 битенән"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Хәбәр итеүҙәр"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Хәбәрҙәр фильтры - фильтрҙар ҡулланыла"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Проекттар фильтры - фильтрҙар ҡулланыла"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Уҡылмау тураһында билдә торған хәбәрҙәр"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "«\\$1» хәбәр"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Серһүҙҙе үҙгәртергә"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Хәбәрҙәрҙең булыу-булмауын тикшереү..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Ҡушымтала"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Web'та"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Хәбәрҙәрҙең булыу-булмауын тикшереү..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Һеҙгә хәбәр юҡ"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Һеҙ Википедияның бер хәбәренә лә яҙылмағанһығыҙ"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Күберәк хәбәрҙәрҙе күреү өсөн \\$1 үҙгәртегеҙ"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Күберәк хәбәрҙәрҙе күреү өсөн проекттар өҫтәгеҙ"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 фильтр}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Push-хәбәр итеүҙе ҡабыҙырға"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Викимедианың бөтә проекттары өсөн мөхәррирләү тураһында белдереүҙәр хәҙер ҡушымта аша килә. Википедияла белдереү алыу өсөн push-белдереүҙе ҡабыҙығыҙ."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Белдереүҙәр фильтры"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Барыһы ла"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Уҡырға"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Уҡылмағандар"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Уҡыу статусы"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Фильтрҙар"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Барлыҡ төрҙәр"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Эшләнде"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Һеҙҙең был битте мөхәррирләү хоҡуғығыҙ юҡ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Был бит һаҡланған"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": " \\$1 өсөн көн һүрәте"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 өсөн көн һүрәтен алып булманы"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Викимедиаға һеҙҙең ҡушымтаны нисек файҙаланыуығыҙ тураһында мәғлүмәт бирергә рөхсәт итеү. Был уны тағы ла яҡшыраҡ итергә мөмкинселек бирәсәк."
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Был һаҡланған биттең һүрәтен күсереп булманы"
+    },
+    {
+      "name": "saved_title",
+      "value": "Һаҡланған"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Википедияла эҙләү"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Бөтә һуңғы эҙләү һоратыуҙарын юйҙырырға"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Был ғәмәлде кире алып булмай"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Барыһын да юйырға"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Яңыраҡ эҙләгәнһегеҙ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Йүнәлтелгән: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Эҙләү"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Эҙләү ваҡытында телдәрҙе күрһәтеү"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Минең телдәр"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Төп"
+    },
+    {
+      "name": "settings_title",
+      "value": "Көйләүҙәр"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": " @Wikipedia-ла «\\$1»"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "@Wikipedia аша"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Йөкмәткеһе"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Ябырға"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Йөкмәткене ябырға"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Йөкмәткеһе"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Тарихта был көндә нимә булғанын белеү өсөн ваҡыт арбаһында сәйәхәт итегеҙ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Был көндә"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Башларға"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Аңлашыла"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Википедия ирекмәндәр тарафынан берлектә яҙыла, һәм унда 300-гә яҡын телдә 40 миллиондан күберәк мәҡәлә бар."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Википедия тураһында күберәк белегеҙ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Википедия тураһында"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Ирекле энциклопедия"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Тағы өҫтәргә"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Өҫтөнлөклө телдәрҙе өҫтәргә йәки үҙгәртергә"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300-гә яҡын телдән эҙләү"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Индерелгән үҙгәртеүҙәрҙе ҡарап сығыуға эйә булыу..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Капча тикшереүе талап ителә"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Нужна проверка капчи."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Вики-тексты йөклөү һөҙөмтәһен билдәләп булмай."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Һаҡлана"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Төҙәтеүҙәр һеҙҙең ҡоролмағыҙҙың IP-адресы менән билдәләнәсәк. Әгәр һеҙ \\$1 икән, юғарыраҡ кимәлдәге йәшеренлек алығыҙ"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Ҡулланыу шарттары"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Сөнки һеҙ уҡыйһығыҙ"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Барлыҡ иң күп уҡылған мәҡәләләр"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Тағы бер осраҡлы мәҡәлә"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s Википедиянан"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Википедиянан"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Викимилектән"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Күрһәтеү өсөн тарих юҡ"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Был карточканы йәшерергә"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Теҙмәне көйләгеҙ"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Карточка йәшерелгән"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s өсөн тасуирлама өҫтәргә"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

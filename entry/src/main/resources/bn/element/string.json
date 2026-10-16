@@ -1,0 +1,1756 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "উইকিপিডিয়া"
+    },
+    {
+      "name": "about_content_license",
+      "value": "বিষয়বস্তুর লাইসেন্স"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "অন্যথায় নির্দিষ্ট করা না থাকলে, বিষয়বস্তু \\$1-এর অধীনে উপলব্ধ।"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন শেয়ার অ্যালাইক"
+    },
+    {
+      "name": "about_contributors",
+      "value": "অবদানকারীগণ"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ব্যবহৃত গ্রন্থাগারগুলি"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "সম্পূর্ণ তালিকা"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "লাইসেন্স"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "আমরা মুক্ত উৎসের সফটওয়্যার ভালোবাসি \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "আপনার মত স্বেচ্ছাসেবকের সাহায্য নিয়ে \\$1 সহকারে তৈরি করা হয়েছে"
+    },
+    {
+      "name": "about_repositories",
+      "value": "সংগ্রহস্থল"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "উৎস কোড \\$1-এর অধীনে উপলব্ধ।"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "এমআইটি লাইসেন্স"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "অ্যাপ সম্পর্কে প্রতিক্রিয়া জানান"
+    },
+    {
+      "name": "about_title",
+      "value": "পরিচিতি"
+    },
+    {
+      "name": "about_translators",
+      "value": "অনুবাদকগণ"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 -এ স্বেচ্ছাসেবকদের দ্বারা অনূদিত"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "উইকিমিডিয়া ফাউন্ডেশন"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "উইকিপিডিয়া"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "চিত্রটি দেখতে পাচ্ছেন না? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "একটি নতুন ক্যাপচা সংগ্রহ করা হচ্ছে..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "অ্যাকাউন্টের অনুরোধ করুন।"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "ক্যাপচা নিরাপত্তা পরীক্ষা"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "আপনার অ্যাকাউন্ট তৈরি করুন"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "প্রবেশ করুন।"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "প্রবেশ হচ্ছে..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "একাউন্ট তৈরি করার জন্য আপনাকে অবশ্যই একটি ব্যবহারকারী নাম, পাসওয়ার্ড, এবং পাসওয়ার্ড নিশ্চিতকরণ দিতে হবে।"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "পাসওয়ার্ড মিলেনি"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "সংরক্ষণ হচ্ছে ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "নতুন অ্যাকাউন্ট তৈরি করুন"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "আলাপ পাতা"
+    },
+    {
+      "name": "action_cancel",
+      "value": "বাতিল"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "সম্পাদনা বাতিল করুন"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "পাতায় খুঁজুন"
+    },
+    {
+      "name": "action_move_to",
+      "value": "স্থানান্তর করুন..."
+    },
+    {
+      "name": "action_read",
+      "value": "পড়ুন"
+    },
+    {
+      "name": "action_remove",
+      "value": "সরান"
+    },
+    {
+      "name": "action_save",
+      "value": "সংরক্ষণ"
+    },
+    {
+      "name": "action_saved",
+      "value": "সংরক্ষিত"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "সংরক্ষিত। অসংরক্ষিত করতে সক্রিয় করুন।"
+    },
+    {
+      "name": "action_share",
+      "value": "বণ্টন"
+    },
+    {
+      "name": "action_unsave",
+      "value": "অসংরক্ষিত"
+    },
+    {
+      "name": "action_update",
+      "value": "হালনাগাদ করুন"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "এই মাসে সংরক্ষিত নিবন্ধসমূহ"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "পড়ার তালিকায় {{PLURAL:\\$1|\\$1টি নিবন্ধ}} যোগ করুন"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "খারিজ"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "একটি মুক্ত বিশ্বকোষ"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "নিবন্ধের পাঠ্যের আকার সমন্বয় করুন"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "টেবিল সম্প্রসারণ করুন"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "অন্ধকার ও কালো থিমে চিত্রগুলোর অস্বচ্ছতা হ্রাস করুন"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "থিমের বিকল্প"
+    },
+    {
+      "name": "article_delete",
+      "value": "অপসারণ"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|নিবন্ধ}} অপসারিত হয়েছে"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ভাষা খুঁজুন"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ভাষা নির্বাচন করুন"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "অন্যান্য ভাষাসমূহ"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "আপনার ভাষাসমূহ"
+    },
+    {
+      "name": "article_share",
+      "value": "শেয়ার করুন"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "খুলুন"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "পিছনে"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "পেছনে যেতে আলতো চাপুন"
+    },
+    {
+      "name": "button_next",
+      "value": "পরবর্তী"
+    },
+    {
+      "name": "button_ok",
+      "value": "ঠিক আছে"
+    },
+    {
+      "name": "button_publish",
+      "value": "প্রকাশ করুন"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "বাগ রিপোর্ট করুন"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "পরবর্তীর জন্য সংরক্ষণ করুন"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "পরবর্তীর জন্য সংরক্ষণ করুন"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "সংরক্ষণ থেকে সরান"
+    },
+    {
+      "name": "button_skip",
+      "value": "এড়ান"
+    },
+    {
+      "name": "cancel",
+      "value": "বাতিল"
+    },
+    {
+      "name": "cc_zero",
+      "value": "ক্রিয়েটিভ কমন্স সিসি জিরো"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "বন্ধ"
+    },
+    {
+      "name": "close_tabs",
+      "value": "ট্যাব বন্ধ করুন"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 টার সময়"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "এটি শুধুমাত্র এই ডিভাইস থেকে করা অনুদানের ক্ষেত্রে প্রযোজ্য হবে।"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "মুছে ফেলা নিশ্চিত করুন"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "স্থানীয় ইতিহাস মুছে ফেলা হয়েছে"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "আরও নিবন্ধ পাঠ করতে উইকিপিডিয়া অন্বেষণ করুন"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "সম্প্রতি পড়া কোনও নিবন্ধ নেই"
+    },
+    {
+      "name": "description_add_title",
+      "value": "বিবরণ যোগ করুন"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "নিবন্ধের বিবরণ সম্পাদনা করুন"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "বিবরণ সম্পাদনা করুন"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "উইকিউপাত্ত সম্পর্কে"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "আরও তথ্য"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "উদাহরণস্বরূপ:"
+    },
+    {
+      "name": "description_help_title",
+      "value": "নিবন্ধের বিবরণ সংক্রান্ত সাহায্য"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "সম্পন্ন"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "নিবন্ধের বিবরণ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "সম্পাদনা শুরু করুন"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "বছরের পর্যালোচনা সক্ষম করুন"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "পুনর্বহাল"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "সম্পাদনা পুনর্বহাল"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "সম্পাদনা পুনর্বহাল করা হয়েছে।"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "সংশোধনটি পূর্বাবস্থায় ফেরানো হয়েছে।"
+    },
+    {
+      "name": "dim_images",
+      "value": "অনুজ্জ্বল ছবি"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "স্থানীয় অনুদানের ইতিহাস মুছুন"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "আমরা আপনাকে আবার আগামীকাল মনে করিয়ে দেব।"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "সংযোগ সম্পাদনা"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "চিত্র যোগ করা হয়েছে"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "চিত্র ও ক্যাপশন যোগ করা হয়েছে"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ব্যাকরণ ঠিক করা হয়েছে"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "বানান ঠিক করা হয়েছে"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "লিঙ্ক সংযোজন"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "সংক্ষিপ্ত বিবরণ যোগ করা হয়েছে"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "সংক্ষিপ্ত বিবরণ হালনাগাদ করা হয়েছে"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "সম্পাদনা মোড বাতিল করবেন?"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "দুঃখিত, নিবন্ধ লোড করা যায়নি"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "আপনি এখনো সংরক্ষিত পাতা পাঠ করতে পারেন।"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "আপনার সুপারিশকৃত নিবন্ধগুলি দেখতে পারবেন যখন, আপনার ইন্টারনেট সংযোগ থাকবে"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "আপনি এখানে যা যা পড়েছেন সে সম্পর্কে অবগত থাকুন"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "দেখানোর মতো ইতিহাস নেই"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "অফলাইনে পড়ার জন্য, পাতা সংরক্ষণ করুন"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "এখনও সংরক্ষিত পাতা নেই"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "কোন ফলাফল পাওয়া যায়নি"
+    },
+    {
+      "name": "error_unknown",
+      "value": "একটি অজানা ত্রুটি দেখা দিয়েছে"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "অন্যান্য অজানা যে কোন নিবন্ধ"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "কারণ আপনি পড়েছেন"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "পড়া অব্যাহত রাখুন"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "আপনার বর্তমান অবস্থানের কাছাকাছি নিবন্ধসমূহ অন্বেষণ করুন"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "নির্বাচিত নিবন্ধ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "বন্ধ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "চালু"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "উইকিমিডিয়া প্রকল্পের প্রধান পাতা"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "আজ উইকিপিডিয়ায়"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "সর্বাধিক পঠিত নিবন্ধগুলি"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "শীর্ষ পঠিত"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 শীর্ষ পঠিত"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়ায়"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "উইকিপিডিয়ায়"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "নিকটবর্তী স্থানগুলি"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "স্থান"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "আপনার অবস্থান"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "আজকের নির্বাচিত ছবি"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "উইকিমিডিয়া কমন্স থেকে"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "অজানা যে-কোনো নিবন্ধ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "অজানা পাতা"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "যোগ করুন"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "কিছু একটায় ভুল হয়েছে। দয়া করে পরে আবার চেষ্টা করুন।"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "ক্যাপচা সঠিক নয়"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "পাসওয়ার্ড মিলেনি"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "কোড সঠিক নয়"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ব্যবহারকারীর নাম উপলব্ধ নয়"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "ব্যাকআপ কোড"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "ক্যাপচা পাঠ"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "উপরে যে লেখা দেখতে পাচ্ছেন তা লিখুন"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ইমেইল"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ইমেইল (ঐচ্ছিক)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "নতুন পাসওয়ার্ড পুনরায় লিখুন"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "নতুন পাসওয়ার্ড নিশ্চিত করুন"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "নতুন পাসওয়ার্ড লিখুন"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "নতুন পাসওয়ার্ড"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "পাসওয়ার্ড পুনরায় লিখুন"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "পাসওয়ার্ড নিশ্চিত করুন"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "পাসওয়ার্ড লিখুন"
+    },
+    {
+      "name": "field_password_title",
+      "value": "পাসওয়ার্ড"
+    },
+    {
+      "name": "field_token_title",
+      "value": "যাচাইকরণ কোড"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ব্যবহারকারী নাম লিখুন"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ব্যবহারকারী নাম"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "পুন:স্থাপন"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "পাসওয়ার্ড পুনঃনির্ধারণ করার নির্দেশাবলী সহ একটি ইমেল প্রেরণ করা হয়েছে"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "ইমেলের মাধ্যমে পাসওয়ার্ড পুনঃস্থাপন করার নির্দেশাবলী পেতে নিচের ক্ষেত্রগুলির একটি পূরণ করুন"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "পাসওয়ার্ড পুনঃস্থাপন"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "অথবা"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "সাম্প্রতিক সব আইটেম মুছে ফেলবেন?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "হ্যাঁ, সব মুছে ফেলুন"
+    },
+    {
+      "name": "history_title",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "উইকিপিডিয়া, অন্বেষণে ফেরত যান"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "উইকিপিডিয়া, সংরক্ষণে ফেরত যান"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "আপনার শেষ না করা নিবন্ধগুলোতে ফিরে যান"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 এর মতো আরও"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "আপনার কাছাকাটি আরও স্থান"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1-এর আরো কাছাকাছি"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "আরও বর্তমান ঘটনা"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "পছন্দসমূহ নিয়ন্ত্রণ করুন"
+    },
+    {
+      "name": "home_title",
+      "value": "অন্বেষণ"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "উইকিপিডিয়া, অন্বেষণের শীর্ষে স্ক্রোল করুন"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "কাছাকাছি নিবন্ধ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "অজানা নিবন্ধ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "উইকিপিডিয়া অনুসন্ধান"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "লেখক অজানা।"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "নিবন্ধ দেখুন"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "জরিপে অংশ নিন"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"পড়ার তালিকা শেয়ার\" একটি পরীক্ষামূলক ফিচার এবং এটি উন্নত বা অপসারণ করতে আমাদের আপনার প্রতিক্রিয়া প্রয়োজন।"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "আপনি কি আমাদের \"পড়ার তালিকা শেয়ার\" উন্নত করতে সহায়তা করতে পারবেন?"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "সংবাদে"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ভাষাসমূহ"
+    },
+    {
+      "name": "languages_title",
+      "value": "ভাষা পরিবর্তন করুন"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "উইকিপিডিয়ার ভাষা"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "পাসওয়ার্ড ভুলে গেছেন?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "উইকিপিডিয়ায় যোগ দিন।"
+    },
+    {
+      "name": "login_no_account",
+      "value": "কোন অ্যাকাউন্ট নেই? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "আপনার অ্যাকাউন্টে প্রবেশ করুন"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "অ্যাপ সম্পর্কে"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "প্রবেশ করুন"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "প্রস্থান"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "আপনি কি নিশ্চিত যে আপনি প্রস্থান করতে চান?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 হিসাবে প্রবেশ"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "আইনী তথ্য"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "কাছাকাছি"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "গোপনীয়তার নীতি"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "অ্যাপটি মূল্যায়ন করুন"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ব্যবহারের শর্তাবলী"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "আরও"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "উইকিপিডিয়া জিরো প্রাজিপ্র"
+    },
+    {
+      "name": "main_page",
+      "value": "প্রধান পাতা"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "৩০০টি অধিক ভাষায় উইকিপিডিয়া অন্বেষণ করুন"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ভাষা যোগ করুন"
+    },
+    {
+      "name": "more_menu",
+      "value": "আরও"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "প্রাকদর্শন"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 ফুট}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 কিমি"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 মিটার"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 মাইল"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "আপনি সাময়িক পাসওয়ার্ড দিয়ে প্রবেশ করেছেন। প্রবেশ সম্পূর্ণ করতে এখানে একটি নতুন পাসওয়ার্ড নির্ধারণ করুন।"
+    },
+    {
+      "name": "new_password_title",
+      "value": "আপনার পাসওয়ার্ড স্থাপন করুন"
+    },
+    {
+      "name": "new_tab",
+      "value": "নতুন ট্যাব"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "দয়া করে আপনার ডিভাসে একটি ইমেইল অ্যাকাউন্ট নির্ধারণ করুন এবং আবার চেষ্টা করুন।"
+    },
+    {
+      "name": "not_now_title",
+      "value": "এখন না"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "পাসওয়ার্ড পরিবর্তন"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "বিজ্ঞপ্তির জন্য অনুসন্ধান করা হচ্ছে..."
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "আপনি বর্তমানে কোনো উইকিপিডিয়া বিজ্ঞপ্তির সদস্যতা গ্রহণ করেননি"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "বিজ্ঞপ্তি পাঠানো চালু করুন"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "পার্থক্য দেখুন"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1-এর আলাপ পাতায় যান"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "উইকিউপাত্ত আইটেমে যান"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "আপনার আলাপ পাতায় যান"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "সম্পন্ন"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "প্রবেশের বিজ্ঞপ্তি"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "সব পঠিত হিসেবে চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "পঠিত হিসেবে চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "অপঠিত হিসেবে চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "আরও"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "বিজ্ঞপ্তির সেটিংস"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "সম্পাদনার মাইলফলক"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "আপনার সম্পাদনা সরিয়ে আগের অবস্থায় নিয়ে যাওয়া হয়েছে"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "নতুন ইমেইল"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "একাধিক ব্যর্থ প্রবেশের প্রচেষ্টা"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "ব্যর্থ প্রবেশের প্রচেষ্টা"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "একটি অপরিচিত ডিভাইস থেকে প্রবেশ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "নিবন্ধের আলাপ পাতায় উল্লেখ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "সম্পাদনা সারাংশে উল্লেখ করুন"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "ব্যর্থ উল্লেখ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "সফলভাবে উল্লেখ করা হয়েছে"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "আলাপ পাতায় উল্লেখ"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "আপনার আলাপ পাতার বার্তা"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "পাতার লিঙ্ক"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "পাতা পর্যালোচিত"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ধন্যবাদ"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "অনুবাদের মাইলফলক"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "ব্যবহারকারী অধিকারের পরিবর্তন"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "স্বাগতম!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "উইকিউপাত্তের সংযোগ তৈরি হয়েছে"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "পঠিত হিসেবে চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "অপঠিত হিসেবে চিহ্নিত করুন"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "আরও"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "বিজ্ঞপ্তি"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "বিজ্ঞপ্তি"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "প্রবেশ সফল"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ধন্যবাদ"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2-এ {{PLURAL:\\$1|\\$1টি নতুন বার্তা|\\$1টি নতুন বার্তা}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|নতুন বার্তা|নতুন বার্তা}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 বিলিয়ন"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 মিলিয়ন"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 হাজার"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 - \\$2 থেকে"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2 উইকিপিডিয়া থেকে \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "আজকের এই দিনে"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "অনুল্লেখ্য সম্পাদনা"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "এই পাতা সম্পাদনা করার অধিকার আপনার নেই।"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "এই পাতাটি সুরক্ষিত"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "সংরক্ষিত অনুসন্ধানগুলি সাফ করুন"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1টি নিবন্ধ"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "আপনার অবস্থান পুন:চিহ্নিত করুন"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "তালিকা হিসাবে দেখাও"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "মানচিত্র হিসাবে দেখাও"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "আরও নিবন্ধ দেখান"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "শহর, দেশ, মহাদেশ, বিশেষ প্রাকৃতিক স্থান, ঐতিহাসিক ঘটনা, ভবন ও আরও অনেক কিছু অন্বেষণ করুন।"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "উইকিপিডিয়ার ভৌগোলিক অবস্থান যুক্ত পৃষ্ঠাসমূহের জন্য অনুসন্ধান করুন"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "অবস্থান সক্রিয় করুন"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "ছাঁকনি"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "সংরক্ষিত নিবন্ধ"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "শীর্ষ পঠিত"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1টি নিবন্ধ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "শীর্ষ পঠিত নিবন্ধ"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "আপনার সংরক্ষিত নিবন্ধগুলির কোনটিতে অবস্থানের তথ্য নেই"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "পাতা অনুসন্ধান"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "আপনি কি বোঝাতে চাচ্ছেন \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "সম্প্রতি অনুসন্ধানকৃত"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "সব সংরক্ষিত নিবন্ধ"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "প্রস্তাবিত অনুসন্ধান"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "এই এলাকায় ফলাফল"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "সব শীর্ষ নিবন্ধ"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "কাছাকাছি"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "আপনার বর্তমান অবস্থান"
+    },
+    {
+      "name": "places_title",
+      "value": "স্থান"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "অজানা দূরত্ব"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 তারিখে আজকের নির্বাচিত ছবি"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 দিনের ছবি পুনরুদ্ধার করতে ব্যর্থ হয়েছে"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "অ্যাপ আরও ভালো করতে উইকিমিডিয়া ফাউন্ডেশনকে আপনি কিভাবে অ্যাপ্লিকেশন ব্যবহার করছেন সেই সম্পর্কে তথ্য সংগ্রহ করার অনুমতি দিন"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "প্রোফাইল দৃশ্যে পরিভ্রমণ করে।"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "প্রোফাইল"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "অপঠিত ব্যাজসহ প্রোফাইল"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "অথবা উইকিপিডিয়াকে মুক্ত এবং বিশ্বজুড়ে প্রত্যেকের জন্য অবাধে প্রবেশযোগ্য রাখতে অনুদান দিয়ে সাহায্য করুন।"
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "আপনার অবদান ট্র্যাক করতে, অফলাইনে নিবন্ধ সংরক্ষণ করতে এবং ডিভাইসগুলিতে সিঙ্ক করতে একটি উইকিপিডিয়া অ্যাকাউন্ট তৈরি করুন।"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "উইকিপিডিয়ায় যোগ দিন / প্রবেশ করুন"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "উইকিমিডিয়া কমন্স"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "উইকিউক্তি"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "বিবরণ"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "নতুন তালিকা তৈরি করুন"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "সংরক্ষিত"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|তালিকাটি|তালিকাগুলি}} মুছবেন?"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "আঁধার থিম"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "অল্পোজ্জ্বল থিম"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "কালচে-বাদামি থিম"
+    },
+    {
+      "name": "reference_title",
+      "value": "তথ্যসূত্র \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=আজ|1=গতকাল|\\$1 দিন আগে}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=সম্প্রতি|\\$1 ঘণ্টা আগে}}"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=সম্প্রতি|\\$1 ঘণ্টা আগে}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=এইমাত্র|\\$1 মিনিট আগে}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=এইমাত্র|\\$1 মিনিট আগে}}"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=এই মাস|1=গত মাস|\\$1 মাস আগে}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "সব নিবন্ধ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "এই সংরক্ষিত পাতার জন্য চিত্র ডাউনলোড করা ব্যর্থ হয়েছে।"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "সংরক্ষিত নিবন্ধগুলি অনুসন্ধান করুন"
+    },
+    {
+      "name": "saved_title",
+      "value": "সংরক্ষিত"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "উইকিপিডিয়া অনুসন্ধান"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "পরিষ্কার করুন"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "উইকিপিডিয়া অনুসন্ধান"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "সাম্প্রতিক সব অনুসন্ধান মুছে ফেলবেন?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "এই ক্রিয়াটি পূর্বাবস্থায় ফেরানো যাবে না!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "সব মুছে ফেলুন"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "সম্প্রতি অনুসন্ধানকৃত"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 থেকে পুনর্নির্দেশিত"
+    },
+    {
+      "name": "search_title",
+      "value": "অনুসন্ধান"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "উইকিপিডিয়া"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "পড়ার পছন্দ"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "বাতিল"
+    },
+    {
+      "name": "settings_donate",
+      "value": "দান করুন"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "সাহায্য ও প্রতিক্রিয়া"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "অনুসন্ধানের সময় ভাষাগুলিকে দেখাও"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "আমার ভাষাসমূহ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "পাঠানো বিজ্ঞপ্তি"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "আবার চেষ্টা করুন"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "প্রাথমিক"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "এই তালিকার প্রথম ভাষাটি অ্যাপের প্রাথমিক ভাষা হিসেবে ব্যবহৃত হয়।"
+    },
+    {
+      "name": "settings_title",
+      "value": "সেটিংস"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia -এ \"\\$1\":"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$2” থেকে “\\$1”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$2” থেকে\n\n“\\$1”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "দিক নির্দেশনা পান"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "উইকিপিডিয়া হয়ে"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "মানচিত্রে খুলুন"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "শিরোনাম"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "সূচিপত্র"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "বন্ধ করুন"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "বিষয়বস্তুর সূচিপত্র বন্ধ করুন"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "পরিচ্ছেদসমূহ"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "উৎস সম্পাদনা"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "একটি নতুন প্রসঙ্গ যোগ করুন"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "একটি আলোচনা শুরু করুন"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "আলাপ"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "আঁধার"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "পূর্বনির্ধারিত"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "কালচে-বাদামি"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 জন পাঠক"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "প্রবেশ অব্যাহত রাখুন"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "দুই ধাপের যাচাইকরণ কোড প্রবেশ করান"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "আপনার অ্যাকাউন্টে প্রবেশ করুন"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "আপনার ব্যাকআপ কোডগুলির একটি ব্যবহার করুন"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "যাচাইকরণ কোড ব্যবহার করুন"
+    },
+    {
+      "name": "unwatch",
+      "value": "নজর সরান"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "না, ধন্যবাদ"
+    },
+    {
+      "name": "watch",
+      "value": "নজর রাখুন"
+    },
+    {
+      "name": "watchlist",
+      "value": "নজরতালিকা"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "নজরতালিকা দেখুন"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "১ মাস"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "১ বছর"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "বট"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "ধন্যবাদ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "আমাদের সম্প্রদায়ের প্রস্তাবিত পাঠ এবং দৈনিক নিবন্ধ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "ফিড অন্বেষণ করুন"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "আজকের এই দিনে"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "শুরু করুন"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "প্রকাশের নতুন পথ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "বুঝেছি"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "উইকিপিডিয়া সম্পর্কে"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "একটি মুক্ত বিশ্বকোষ"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "আরেকটি ভাষা যোগ করুন"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "৩০০টি অধিক ভাষায় অন্বেষণ করুন"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "সংগ্রহশালা"
+    },
+    {
+      "name": "which_came_first_archive_title",
+      "value": "কোনটি আগে এসেছে?"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "আপনার পরিবর্তনগুলির প্রাকদর্শন উদ্ধার হচ্ছে..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "লিঙ্ক প্রাকদর্শন"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "পরিবর্তন সংরক্ষণ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "ক্যাপচা যাচাইকরণ ত্রুটি।"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "ক্যাপচা যাচাইকরণ প্রয়োজন।"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "উইকিটেক্সট আপলোডের ফলাফল নির্ণয় করা যায়নি।"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "প্রকাশ করা হচ্ছে..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "সম্পাদনা আপনার ডিভাইসের আইপি ঠিকানায় আরোপিত করা হবে। আপনি যদি \\$1 করেন আপনি আরো গোপনীয়তা পাবেন।"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "ব্যবহারের শর্তাবলী"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "পড়া আমাদের একত্রিত করেছে"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "শুক্রবার"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "সোমবার"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "শনিবার"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "রবিবার"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "বৃহস্পতিবার"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "মঙ্গলবার"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "বুধবার"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "অনুদান"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "আপনার উইকিপিডিয়া বছরের পর্যালোচনা দেখুন"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "উইকিপিডিয়া অ্যাপে আপনি কোন নিবন্ধগুলি পড়েন এবং যে সম্পাদনাগুলি করেছেন সে সম্পর্কে অন্তর্দৃষ্টি দেখুন। আপনার যাত্রা ভাগ করে নিন এবং আবিষ্কার করুন যে এই বছর আপনার জন্য কী আলাদা ছিল। আপনার পড়ার ইতিহাস গোপন রাখা হয়েছে। আপনার ডিভাইসে স্থানীয়ভাবে সংরক্ষিত ডেটা ব্যবহার করে পঠন অন্তর্দৃষ্টি গণনা করা হয়।"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "সন্ধ্যা"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "সকাল"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "কারণ আপনি পড়েছেন"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "সর্বাধিক পঠিত নিবন্ধগুলি"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "অন্যান্য অজানা যে কোন নিবন্ধ"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s উইকিপিডিয়া থেকে"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s উইকিপিডিয়ায়"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "উইকিমিডিয়া কমন্স থেকে"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "দেখানোর মতো ইতিহাস নেই"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s/%s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "আপনি কি বোঝাতে চাচ্ছেন %s?"
+    }
+  ]
+}

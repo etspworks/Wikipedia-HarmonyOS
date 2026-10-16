@@ -1,0 +1,444 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Wachangiaji"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Maktaba yanayotumiwa"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Orodha pevu"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Leseni"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Bidhaa ya \\$1"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Toa maoni ya programu timizi"
+    },
+    {
+      "name": "about_title",
+      "value": "Kuhusu"
+    },
+    {
+      "name": "about_translators",
+      "value": "Wafasiri"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wakfu wa Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Ingia."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Unaingia..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Lazima uingize jina la mtumiaji, neno la siri na dhibitisho ya neno la siri ili kuunda akaunti."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Inahifadhi..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Unda akaunti"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Ghairi"
+    },
+    {
+      "name": "action_redo",
+      "value": "Fanyaupya"
+    },
+    {
+      "name": "action_remove",
+      "value": "Ondoa"
+    },
+    {
+      "name": "action_save",
+      "value": "Hifadhi"
+    },
+    {
+      "name": "action_share",
+      "value": "Gawa"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Gawa"
+    },
+    {
+      "name": "action_undo",
+      "value": "Tengua"
+    },
+    {
+      "name": "action_update",
+      "value": "Sasisha"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Chagua lugha"
+    },
+    {
+      "name": "article_share",
+      "value": "Gawa"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Gusa kurudi nyuma"
+    },
+    {
+      "name": "button_next",
+      "value": "Inayofuata"
+    },
+    {
+      "name": "button_ok",
+      "value": "Sawa"
+    },
+    {
+      "name": "button_skip",
+      "value": "Ruka"
+    },
+    {
+      "name": "cancel",
+      "value": "Ghairi"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Funga"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Nimerekebisha sarufi"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Nimerekebisha chapa mbaya"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Nimeongeza viungo"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Rekebisha"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "kadi iliyofichwa"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Kutoka Wikipedia"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Futa vifaa vyote vya hivi karibuni?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Futa Zote"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_subtitle",
+      "value": "Makala zilizoundwa kulingana na mada ulizochagua."
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_title",
+      "value": "Kulingana na mambo yanayokuvutia"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_subtitle",
+      "value": "Mapendekezo kulingana na makala ya hivi karibuni kutoka historia yako"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_title",
+      "value": "Sababu umesoma"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "Rudi kwenye makala ambazo hukumaliza"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_title",
+      "value": "Endelea kusoma"
+    },
+    {
+      "name": "home_feed_for_you_settings_header",
+      "value": "Kuzima moduli ficha kutoka kwenye mlisho wako wa \"Kwa ajili yako\". Unaweza kuiwezesha tena hapa wakati wowote."
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "Moduli"
+    },
+    {
+      "name": "home_feed_interests_settings_empty_message",
+      "value": "Mapendeleo yako yataoneshwa hapa"
+    },
+    {
+      "name": "home_feed_interests_settings_title",
+      "value": "Unavyopendelea"
+    },
+    {
+      "name": "home_feed_modules_featured_article_subtitle",
+      "value": "Makala zilizoteuliwa ni baadhi ya makala zenye ubora wa hali ya juu kwenye Wikipedia, zinazochaguliwa kila siku na wahariri"
+    },
+    {
+      "name": "home_feed_modules_featured_article_title",
+      "value": "Makala Maalum"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_subtitle",
+      "value": "Makala ambazo zimesasishwa kwa kiasi kikubwa ili kuakisi matukio ya hivi karibuni au ya sasa yenye maslahi mapana"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "Kwenye habari"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "Gundua matukio ya kihistoria kuanzia siku ya leo"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "Kwenye siku hii"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_subtitle",
+      "value": "Picha za kila siku kwenye Wikimedia Commons, zilizochaguliwa na wachangiaji wa kujitolea"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_title",
+      "value": "Picha ya siku"
+    },
+    {
+      "name": "home_feed_modules_settings_header",
+      "value": "Kuzima moduli huificha kutoka kwa mlisho wako wa Jumuiya. Unaweza kuiwasha tena  wakati wowote. Huenda baadhi ya moduli zisipatikane katika lugha yako."
+    },
+    {
+      "name": "home_feed_modules_settings_title",
+      "value": "Moduli"
+    },
+    {
+      "name": "home_feed_modules_top_read_subtitle",
+      "value": "Nini kimevuma leo kwenye Wikipedia"
+    },
+    {
+      "name": "home_feed_modules_top_read_title",
+      "value": "Yaliyo somwa zaidi"
+    },
+    {
+      "name": "home_feed_settings_community_modules_subtitle",
+      "value": "Kuwasha au kuzima moduli za \"Jamii\""
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "Jumuiya"
+    },
+    {
+      "name": "home_feed_settings_for_you_modules_subtitle",
+      "value": "Washa au zima moduli za 'Kwa Ajili Yako'"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "Kwa ajili yako"
+    },
+    {
+      "name": "home_feed_settings_modules_title",
+      "value": "Moduli"
+    },
+    {
+      "name": "home_feed_settings_title",
+      "value": "Badilisha mipasho ya nyumbani"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_subtitle",
+      "value": "Mada na makala zinazounda maudhui yako"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_title",
+      "value": "Nini kinaendesha marejeo Yako"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_subtitle",
+      "value": "Hariri lugha unazopendelea"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_title",
+      "value": "Lugha"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_subtitle",
+      "value": "Fungua makala za ulizosoma hivi karibuni"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "Historia ya kusoma"
+    },
+    {
+      "name": "home_feed_whats_driving_settings_header",
+      "value": "Mada na makala haya huunda kile kinachoonekana kwenye mlisho wako wa \"Kwa Ajili Yako\". Ondoa chochote ambacho hutaki tena au ongeza mambo mapya yanayokuvutia."
+    },
+    {
+      "name": "home_feed_whats_driving_settings_title",
+      "value": "Ni nini kinachoendesha mlisho wako"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_subtitle",
+      "value": "Hariri mada unazopendelea"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_title",
+      "value": "Unavyopendelea"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Ingia tena katika akaunti yako"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Kuhusu programu tumizi ya Wikimedia"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Ingia"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Toka"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Umeingia kama: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Faragha na Masharti"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Karibu"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Sera ya faragha"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Masharti ya matumizi"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Zaidi"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero Maswali Yaulizwayo Mara kwa Mara"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Onyesha hakikisho"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 fiti"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 kilomita"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 mita"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "Dola 1 kutoka dola 2 Wikipedia"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "uonyeshi umewezeshwa"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Tafuta Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Futa Zote"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Kutafuta kwa hivi karibuni"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" katika @Wikipedia:"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Yaliyomo"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Endelea"
+    },
+    {
+      "name": "which_came_first_archive_day_score_a11y",
+      "value": "Pata:\\$1 kati ya 5"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "Kumbukumbu iliyohifadhiwa"
+    },
+    {
+      "name": "which_came_first_archive_subtitle",
+      "value": "Cheza michezo tangu Juni 2024."
+    },
+    {
+      "name": "which_came_first_archive_title",
+      "value": "Ni ipi iliyotangulia?"
+    },
+    {
+      "name": "which_came_first_archive_toast_score",
+      "value": "Ulipata \\$1 /5 siku hii."
+    },
+    {
+      "name": "which_came_first_play_archive_button",
+      "value": "Cheza kumbukumbu iliyohifadhiwa"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Inahifadhi..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Masharti ya matumizi"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "kadi iliyofichwa"
+    }
+  ]
+}

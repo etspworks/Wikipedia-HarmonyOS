@@ -1,0 +1,2440 @@
+{
+  "string": [
+    {
+      "name": "about_content_license",
+      "value": "ߞߣߐߘߐ ߕߌ߰ߦߊ"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "ߝߴߊ߬ ߛߌ߬ߣߦߊ߬ ߢߊߝߐߟߌ߫ ߘߋ߬߸ ߞߣߐߘߐ ߦߋ߫ \\$1 ߟߊߓߌ߬ߟߊ ߟߋ߬ ߘߐ߫."
+    },
+    {
+      "name": "about_contributors",
+      "value": "ߓߟߏߓߌߟߊߢߐ߲߯ߞߊ߲ߠߊ ߟߎ߬"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ߛߓߍߘߊ߯ ߟߊߓߊ߯ߙߊߣߍ߲"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "ߛߙߍߘߍ ߘߝߊ߫"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ߕߌ߰ߦߊ"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "ߊ߲ ߠߎ߬ ߦߙߊ߬ߓߌ߬ߣߍ߲߬ ߏߔߌ߲ ߛߎߙߛ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊ߫ \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "ߡߊߔ ߘߌ߲߬ߞߌߙߊ ߟߎ߬ ߕߌ߰ߦߊ"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "ߘߌ߲߬ߞߌߙߊ ߡߍ߲ ߠߎ߬ ߦߋ߫ ߊߔߏߟ ߡߊߔ ߕߌ߰ߦߊ ߟߊߓߊ߯ߙߊ߫ ߟߊ߫: \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "ߕߌ߰ߦߊ ߟߎ߬ ߝߊߙߊ߲ߝߊ߯ߛߌ ߟߎ߬ ߘߐߜߍ߫ ߦߊ߲߬ ߖߊ߰ߣߌ߲߫"
+    },
+    {
+      "name": "about_product_of",
+      "value": "ߊ߬ ߛߌ߲ߘߌߣߍ߲߫ ߦߋ߫ \\$1 ߟߋ߬ ߓߟߏ߫ ߓߐ߲ߖߘߍߘߐߡߐ߮ ߟߎ߬ ߟߊ߫ ߘߍ߬ߡߍ߲߬ߠߌ߲ ߠߊ߫ ߦߏ߫ ߌߟߋ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "ߟߊ߬ߡߙߊ߬ߦߙߐ"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "ߛߎ߲ ߘߏߝߙߍߕߍ ߦߋ߫ \\$1 ߟߊߓߌ߬ߟߊ ߟߋ߬ ߘߐ߫."
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ߟߥߊ߬ߟߌ߬ߟߊ߲ ߟߢߊ߬ߟߌ߬ ߗߋߛߓߍ ߗߋ߫"
+    },
+    {
+      "name": "about_title",
+      "value": "ߞߊ߬ ߓߍ߲߬"
+    },
+    {
+      "name": "about_translators",
+      "value": "ߘߟߊߡߌߘߊߟߊ ߟߎ߬"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "ߓߐߒߖߘߍߘߐߟߊ ߟߎ߬ ߟߊ߫ ߘߟߊߡߌߘߊߟߌ \\$1 ߞߊ߲߬"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ߥߞߌߡߋߘߌߦߊ ߖߎ߬ߓߌߟߊ"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ߥߞߌߔߋߘߌߦߊ"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "ߌ ߕߍ߫ ߖߌ߬ߦߊ߬ߓߍ ߦߋ߫ ߟߊ߫ ߓߊ߬؟ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "ߛߏ߰ߙߏ߬ߛߊ߯ߙߊ߬ ߞߎߘߊ߫ ߟߊߛߐ߬ߘߐ߲ ߦߴߌ ߘߐ߫..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ߖߊ߬ߕߋ߬ߘߊ ߡߊߢߌ߬ߣߌ߲߬ߞߊ߬ߣߍ߲߫."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "ߛߏ߰ߙߏ߬ߛߊ߯ߙߊ ߟߊ߬ߞߊ߲߬ߘߊ߬ߟߌ ߝߛߍ߬ߝߛߍ߬ߟߌ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "ߌ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߛߌ߲ߘߌ߫"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ߖߊ߬ߕߋ߬ߘߊ ߘߏ߫ ߦߴߌ ߓߟߏ߫ ߓߊ߬؟ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߬"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߦߴߌ ߘߐ߫..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "ߌ ߦߋ߫ ߕߐ߯ߟߓߊ߯ߕߊ ߟߊߘߏ߲߬߸ ߊ߬ ߣߌ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߣߌ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߟߊߛߙߋߦߊߟߌ߸ ߞߊ߬ ߖߊ߬ߕߋ߬ߘߊ ߛߌ߲ߘߌ߫."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߗߌߙߏ߲ߣߍ߲ ߡߊ߫ ߛߐ߬ߘߐ߲߫."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "ߟߊ߬ߞߎ߲߬ߘߎ߬ߟߌ ߦߴߌ ߘߐ߫..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ߖߊ߬ߕߋ߬ߘߊ߬ ߞߎߘߊ߫ ߛߌ߲ߘߌ߫"
+    },
+    {
+      "name": "account_group_title",
+      "value": "ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "ߖߊ߬ߕߋ߬ߘߊ ߟߊߕߎߣߎ߲߫"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "ߌ ߟߊ߫ ߞߎߡߊ߫ ߞߐߜߍ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "ߞߊ߬ ߘߊߘߐߖߊߥߏ ߞߟߊ߬ߣߐ߬ߦߴߊ߬ ߖߘߍ߬ߡߊ߬"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "ߘߊߘߐߖߊߥߏ ߞߟߊ߬ߣߐ߬ߦߊ߬ߟߌ߫ ߖߘߍ߬ߦߋ ߓߐߒߠߊߟߌ ߘߌ߫ ߣߊ߬ ߞߟߊ߬ߣߐ ߟߊߓߊ߯ߙߊ ߕߏ߫ ߞߟߊ߬ߣߐ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߘߐ߫"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ߞߎߡߊ߫ ߞߐߜߍ ߝߌ߬ߛߊ߬ߡߊ߲߬ߕߋ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "ߊ߬ ߝߙߊ߬..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "ߊ߬ ߟߊߘߏ߲߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "ߊ߬ ߝߙߊ߬ ߛߙߍߘߍ ߟߊ߫"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ߊ߬ ߘߐߛߊ߬"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߠߎ߬ ߡߊߓߌ߬ߟߊ߫"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ߊ߬ ߢߌߣߌ߲߫ ߞߐߜߍ ߘߐ߫"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ߞߊ߲ ߡߊߝߊ߬ߟߋ߲߬"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ߊ߬ ߛߋ߲߬ߓߐ߫..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ߊ߬ ߛߋ߲߬ߓߐ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "ߛߊߞߍߟߌ߫ ߢߍߕߊ"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "ߛߊߞߍߟߌ߫ ߕߊ߬ߡߌ߲߬ߣߍ߲"
+    },
+    {
+      "name": "action_read",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲"
+    },
+    {
+      "name": "action_redo",
+      "value": "ߊ߬ ߞߍ߫ ߕߎ߲߯"
+    },
+    {
+      "name": "action_remove",
+      "value": "ߊ߬ ߛߋ߲߬ߓߐ߫"
+    },
+    {
+      "name": "action_retry",
+      "value": "ߊ߬ ߡߊߝߍߣߍ߲߫"
+    },
+    {
+      "name": "action_save",
+      "value": "ߊ߬ ߟߊߞߎ߲߬ߘߎ߬"
+    },
+    {
+      "name": "action_saved",
+      "value": "ߊ߬ ߓߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "ߟߊ߬ߞߎ߲߬ߘߎ߬ߣߍ߲. ߟߊߞߎߣߎ߲߫ ߟߊ߬ߞߎ߲߬ߘߎ߬ߓߊߟߌ ߘߌ߫."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߞߐߝߍߟߊ ߦߋ߫"
+    },
+    {
+      "name": "action_share",
+      "value": "ߊ߬ ߟߊߖߍ߲ߛߍ߲߫"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ߊ߬ ߟߊߖߍ߲ߛߍ߲߫"
+    },
+    {
+      "name": "action_sort",
+      "value": "ߞߵߊ߬ ߢߊߓߐ߫"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߞߏߢߌߡߊߟߐ߲߫"
+    },
+    {
+      "name": "action_undo",
+      "value": "ߊ߬ ߘߐߛߊ߬"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ߟߊ߬ߞߎ߲߬ߘߎ߬ߓߊߟߌ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߓߘߊ߫ ߓߐ߫"
+    },
+    {
+      "name": "action_update",
+      "value": "ߟߏ߲ߘߐߦߊߟߌ"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|ߞߎߡߘߊ \\$1|ߞߎߡߘߊ \\$1 ߟߎ߬}} ߝߙߊ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߡߊ߬"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "ߓߙߐߕߐ߫"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ߥߞߌߔߋߘߌߦߊ߸ ߦߟߌߡߊߛߙߋ߸ ߥߞߌ߸ ߔߘߋߞߎ߸ ߞߌ߬ߓߊ߬ߙߏ߬ߦߊ߸ ߝߊ߰ߡߎ߲߬ߦߊ߸ ߢߌߣߌ߲ߠߌ߲߸ ߞߟߊ߬ߟߐ߲߬ߠߌ߲߸ ߛߏ߲߯ߓߊߟߌ߸ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "ߔߘߋߞߎ ߛߙߊ߬ߓߊߟߌ"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ߞߎߡߘߊ ߞߟߏߘߋ߲ ߠߎ߬ ߢߊ߲ߞߊ߲ߦߊ ߝߙߊ߬ߟߌ"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ߥߟߊ߬ߟߋ߲ ߘߐߦߙߌߥߊ߫"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ߥߟߊ߬ߟߋ߲ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ߞߊ߬ ߓߍ߲߬ ߞߎߡߘߊ ߣߌ߲߬ ߡߊ߬"
+    },
+    {
+      "name": "article_delete",
+      "value": "ߊ߬ ߖߏ߬ߛߌ߬"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|ߞߎߡߘߊ \\$1|ߞߎߡߘߊ \\$1 ߟߎ߬}} ߖߏ߰ߛߌ߬"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ߞߊ߲ ߢߌߣߌ߲߫"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ߞߊ߲ ߛߎߥߊ߲ߘߌ߫"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ߞߊ߲߫ ߜߘߍ ߟߎ߬"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ߌ ߟߊ߫ ߞߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ߘߏ߫ ߜߘߍ߫ ߟߎ߫ ߘߐߞߊ߬ߙߊ߲߬"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "ߦߟߌߡߊߛߙߋ \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ߞߣߍ߫ ߖߐ߲ߖߐ߲߫ ߕߴߌ ߟߊ߫ ߞߍߟߊ߲ ߞߣߐ߫ ߞߊ߬ ߞߎߡߘߊ ߣߌ߲߬ ߠߊߞߎ߲߬ߘߎ߫"
+    },
+    {
+      "name": "article_share",
+      "value": "ߊ߬ ߟߊߖߍ߲ߛߍ߲߫"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ߌ ߞߐߛߊ߬ߦߌ߬"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "ߊ߬ ߕߐߘߐ߲߫ ߞߵߌ ߞߐߛߊ߬ߦߌ߬"
+    },
+    {
+      "name": "button_go_back",
+      "value": "ߌ ߞߐߛߊ߬ߦߌ߬"
+    },
+    {
+      "name": "button_next",
+      "value": "ߢߍߕߊ"
+    },
+    {
+      "name": "button_ok",
+      "value": "ߏ߬ߞߍ߫"
+    },
+    {
+      "name": "button_publish",
+      "value": "ߟߊ߬ߥߊ߲߬ߞߊ߬ߟߌ"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ߊ߬ ߟߊߥߊ߲߬ߞߊ߫ ߝߛߊߦߌ߫"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ߝߍ߭ ߘߏ߫ ߟߊߞߏߝߐ߫"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "ߊ߬ ߟߊߞߎ߲߬ߘߎ߫ ߞߐߝߍߟߊ ߦߋ߫"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "ߊ߬ ߓߘߊ߫ ߟߊߞߎ߲߬ߘߎ߫ ߞߐߝߍߟߊ ߦߋ߫"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "ߊ߬ ߛߋ߲߬ߓߐ߫ ߟߊ߬ߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߘߐ߫"
+    },
+    {
+      "name": "button_skip",
+      "value": "ߊ߬ ߟߊߜߊ߲߫"
+    },
+    {
+      "name": "cancel",
+      "value": "ߊ߬ ߘߐߛߊ߬"
+    },
+    {
+      "name": "cc_zero",
+      "value": "ߘߍ߬ߒ߬ߡߊ߬ ߛߌ߲ߘߟߌ ߘߐ߬ߞߏߟߏ߲"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߓߘߊ߫ ߛ߭ߌߣߌ߲ߞߊ߲ ߓߐߣߍ߲ߢߐ߲߯ߡߊ ߢߌ߲߬ ߠߎ߬ ߟߊߘߤߊ߬ ߞߊ߲߫ ߝߟߐ ߘߌ߫ ߥߟߊ߫ ߝߌߟߊߣߊ߲ ߘߌ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊ߫߸ ߞߵߊ߬ ߘߐߞߊ߬ߙߊ߲ ߠߊߣߐ߰ߦߊ߫߸ ߞߵߊ߬ ߢߌߣߌ߲ߠߌ߲ ߣߴߊ߬ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߠߎ߬ ߟߊߣߐ߰ߦߊ߫ ߌ ߞߊ߬ߣߌ߲߬ߕߊ ߛߎ߯ߦߊ ߘߐ߫: \n\n简体 ߛ߭ߌߣߌ߲ߞߊ߲߸ ߠߊߣߐ߰ߦߊ߬ߣߍ߲ (zh-hans) \n香港繁體 ߤߐ߲ߞߐ߲߬ ߦߋߢߐ߲߯ߠߕߊ (zh-hk) \n澳門繁體 ߡߞߊߏ߫ ߦߋߢߐ߲߯ߠߕߊ (zh-mo)\n大马简体 ߡߊߟߍߛߌ߫ ߟߊߣߐ߰ߦߊ߬ߣߍ߲ (zh-my)\n新加坡简体 ߛߌ߲ߜ߭ߊߔߏߙߦ ߟߊߣߐ߰ߦߊ߬ߣߍ߲ (zh-sg)\n臺灣正體 ߕߊߌߥߊ߲ߞߊ ߦߋߢߐ߲߯ߠߕߊ (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "ߊ߬ ߟߊߞߎߘߦߊ߫ ߞߵߊ߬ ߓߌ߬ߟߊ߬ ߛ߭ߌߣߌ߲ߞߊ߲ ߦߌߟߡߊ ߟߊߘߌߢߍ߬ߕߊ ߟߊ߫"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ߊ߬ ߟߊߛߊ߬"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ߊ߬ ߘߊߕߎ߲߯"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 ߙߋ߲ ߠߊ߫"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߛߏ߲߯ߓߊ߫ ߞߊ߬ ߞߎߡߘߊ߫ ߛߌߦߊߡߊ߲߫ ߠߎ߫ ߘߐߞߊ߬ߙߊ߲߬"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ߞߎߡߘߊ߫ ߘߐߞߊ߬ߙߊ߲߬ߣߍ߲߬ ߞߎߘߊ߫ ߕߍ߫"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߓߘߊ߫ ߞߙߌߡߋ߫ ߕߊߕߊߙߌ߫ ߞߊ߲ ߢߌ߲߬ ߠߎ߬ ߟߊߘߌ߬ߢߍ߬ ߞߊ߲߫ ߝߟߐ ߥߟߊ߫ ߝߌߟߊߣߊ߲ߦߊ ߟߊ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊ߫߸ ߞߵߊ߬ ߘߐߞߊ߬ߙߊ߲ ߠߊߣߐ߰ߦߊ߫߸ ߢߌߣߌ߲ߠߌ߲ ߥߟߊ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߌ ߘߌߦߊߣߍ߲ߕߊ ߟߎ߬ ߘߐ߫: \n\nߞߙߌߡߑߕߊߕߊߙߑߞߊ߸ ߟߊ߬ߕߍ߲ ߞߙߌߡߋ߫ ߕߊߕߊߙߌ (crh-latin) \nкъырымтатарджа, Кирил ߞߙߌߡߋ߫ ߕߊߕߊߙߌ߫ ߛߌ߯ߙߟߌߞ (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "ߊ߬ ߟߊߞߎߘߦߊ߫ ߞߙߌߡߋ߫ ߕߊߕߊߙߌ ߦߌߟߡߊ ߟߊߘߌߢߍ߬ߕߊ ߟߊ߫"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "ߟߊ߬ߞߎ߬ߘߊ߬ߟߌ ߦߴߌ ߘߐ߫..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "ߞߊ߲߬ߛߓߍߟߌ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "ߖߐ߲߬ߛߊ߫ ߞߊ߬ ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߡߊߝߊ߬ߟߋ߲߬߸ ߒ ߘߌ߬ߢߍ߬ߣߍ߲߬ ߦߋ߫ \\$1 ߡߵߊ߬ ߣߌ߫ ߒ ߣߡߌߛߊߓߊߟߌߦߊ߫ ߘߌߢߍߣߍ߲߫ ߦߋ߫ ߒ ߠߊ߫ ߓߟߏߡߊߜߍ߲ ߠߎ߬ ߟߊߓߌ߬ߟߊ ߡߊ߬ \\$2 ߟߊ߫ ߕߌ߰ߦߊ ߞߐ߬ߣߐߡߊ߬."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "ߟߊߘߏ߲߬ߠߌ߲ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "ߞߊ߲߬ߛߓߍ߬ߟߌ߬ ߛߎߘߎ߲ ߠߋ߬ ߦߋ߫ ߓߍ߬ߘߍ ߘߌ߫"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "ߞߊ߲߬ߛߓߍߟߌ ߟߊߥߊ߲߬ߞߊ߫"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "ߞߊ߲߬ߛߓߍߟߌ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "ߌ ߞߊߘߊ߲߫ ߞߊ߬ ߞߊ߲߬ߛߓߍߟߌ ߟߎ߬ ߟߊߛߎ߬ߘߎ߲߬ߧߊ߫ ߛߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ߠߊ ߟߎ߬ ߘߌ߫ ߞߎߡߘߊ ߞߣߐߘߐ ߟߎ߬ ߢߊߦߋ߫ ߢߊߥߛߎ߫ ߞߏ߫ ߞߋߟߋ߲߫"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "ߞߊ߬ ߓߍ߲߬"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ߞߊ߬ ߓߍ߲߬ ߥߞߌߘߕߊ߫ ߡߊ߬"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ߞߌ߬ߓߊ߬ߙߏ߬ߦߊ߬ ߜߘߍ߫ ߟߎ߫"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߞߊ߬ ߓߍ߲߬ ߡߐߣߊ ߟߌߛߊ߫ ߟߊ߫ ߞߎߡߘߊ ߡߊ߬"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߞߊ߬ ߓߍ߲߬ ߌߝ߭ߊߙߍߛߕ ߞߎ߬ߙߎ ߞߎߡߘߊ ߡߊ߬"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ߘߎ߱ ߕߌ߲ߘߌ߫ ߖߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ߟߊߒߡߊ߫ ߘߐ߫"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "ߊ߬ ߛߐ߲߬ߞߌ߲߫ ߞߊ߲߬ߛߓߍߟߌ ߛߌ߲ߘߌ߫ ߞߊ߲ߡߊ߬"
+    },
+    {
+      "name": "description_help_title",
+      "value": "ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߘߍ߬ߡߍ߲߬ߠߌ߲"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "ߥߞߌߘߕߊ ߞߊ߲߬ߛߓߍ߬ߟߌ ߟߎ߬ ߛߓߍߟߌ ߟߊߛߌ߲ߟߊ߲"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ߊ߬ ߓߘߊ߫ ߞߍ߫"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "ߌ ߓߘߊ߫ ߥߞߌߔߋߘߌߦߊ߫ ߛߌ߲ߘߌ ߟߊߢߊ߬ ߡߐ߱ ߓߍ߯ ߢߍ߫."
+    },
+    {
+      "name": "description_published_title",
+      "value": "ߞߊ߲߬ߛߓߍߟߌ ߓߘߊ߫ ߟߊߥߊ߲߬ߞߊ߫߹"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "ߊ߬ ߕߏ߫ ߛߎ߬ߘߎ߲߬ߧߊ ߘߐ߫"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ ߟߎ߬"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߘߊߡߌ߬ߣߊ߬"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "ߞߊ߬ ߝߘߊ߫:"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "ߟߢߊ߬ߟߌ ߟߎ߬ ߟߊ߫ ߢߐ߲߯ߡߊ߬"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ߞߊ߬ ߕߊ߯:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "ߟߢߊ߬ߟߌ ߟߎ߬ ߟߊߢߐ߲߯ߡߊ߬"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ߊ߬ ߦߌ߬ߘߊ߬"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ߊ߬ ߢߡߊߘߏ߲߰"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "ߛߌ߬ߕߊߙߌ \\$1 - \\$2 ߟߎ߫"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "ߛߌ߬ߘߊ߬ߙߋ߲ ߓߘߊ߫ ߛߋ߲߬ߓߐ߫"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ߘߎ߰ߟߊ߫"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ߛߊ߲ߝߍ߬"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|ߛߌ߬ߕߊ߬ߙߌ߬ \\$1|ߛߌ߬ߕߊ߬ߙߌ \\$1 ߟߎ߬}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|ߕߍߕߍ߯ \\$1|ߕߍߕߍ߮ \\$1 ߟߎ߬}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "ߛߌ߰ߘߊ߬ߙߋ߲ ߓߘߊ߫ ߓߐ߫ \\$1 ߟߊ߫ ߞߵߊ߬ ߓߌ߬ߟߊ߬ \\$2 ߟߊ߫"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "ߛߊߞߍߟߌ ߕߍ߫ ߛߐ߲߬ ߠߊߢߎ߲߫ ߠߊ߫"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ \\$1|ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ \\$1ߠߎ߬}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߊ ߞߌ߬ߓߊ߬ߙߏ߬ߦߊ"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|byte \\$1 ߓߘߊ߫ ߝߙߊ߬|bytes \\$1 ߟߎ߫ ߓߘߊ߫ ߝߙߊ߬}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|byte \\$1 ߓߘߊ߫ ߛߋ߲߬ߓߐ߫|bytes \\$1 ߟߎ߫ ߓߘߊ߫ ߛߋ߲߬ߓߐ߫}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "ߟߊ߬ߘߛߏ߬ߟߌ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "ߛߌ߬ߕߊߙߌ \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ߫ ߕߐ߯ߒߕߊ߲ ߕߴߛߋ߫ ߓߏߙߌߞߊߓߌߟߊ߫ ߟߊ߫"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'ߌ ߣߌ߫ ߗߋ ߓߌߟߊ' ߦߋ߫ ߛߌߟߊ߫ ߣߐ߲߯ ߠߋ߬ ߘߌ߫ ߞߊ߬ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߊ ߞߎߟߎ߲ߖߋ߫ ߊ߬ ߟߊ߫ ߓߊ߯ߙߊ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬. ߌ ߦߴߌ ߜߊ߲߬ߞߎ߲߫ ߞߊ߬ ߛߋ߫ 'ߌ ߣߌ߫ ߗߋ' ߗߋ߫ ߟߊ߫."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߞߊ߬ 'ߌ ߣߌ߫ ߗߋ' ߗߋ߫"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'ߌ ߣߌ߫ ߗߋ' ߗߋ߫"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'ߌ ߣߌ߫ ߗߋ߫ ߓߌߟߊ' ߦߋ߫ ߛߌߟߊ߫ ߣߐ߲߯ ߠߋ߬ ߘߌ߫ ߞߊ߬ ߛߋ߫ ߞߎߟߎ߲ߖߋߟߌ ߦߌ߬ߘߊ߬ ߟߊ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߊ ߟߎ߬ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬. 'ߌ ߣߌ߫ ߗߋ' ߕߍ߫ ߛߐ߲߬ ߘߐߛߊ߬ ߟߊ߫ ߊ߬ ߘߏ߲߬ ߦߋ߫ ߦߋ߫ ߟߊ߫ ߖߊ߬ߡߊ ߟߋ߬ ߓߟߏ߫."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "'ߌ ߣߌ߫ ߗߋ' ߗߋߟߌ ߖߊ߬ߡߊ ߡߊ߬"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "ߌ ߟߊ߫ ߓߏߙߌߞߊߓߌߟߊ ߓߘߊ߫ ߗߋ߫ \\$1 ߡߊ߬"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "ߌ ߓߘߊ߫ ߓߊ߲߫ 'ߓߏߙߌߞߊߓߌߟߊ' ߗߋ߫ ߟߊ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߣߌ߲߬ ߠߊ߫ ߞߏ߫ ߟߊ߫"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "ߓߏߙߌߞߊߓߌߟߊ ߕߴߛߋ߫ ߘߐߛߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|ߛߌ߬ߕߊ߬ߙߌ߬ ߡߊߦߟߍ߬ߡߊ߲߬ߓߊߟߌ \\$1|ߛߌ߬ߕߊ߬ߙߌ߬ ߡߊߦߟߍ߬ߡߊ߲߬ߓߊߟߌ \\$1 ߟߎ߫}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ ߟߎ߬ ߟߊߘߓߌ߬ߣߍ߲߫"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "ߞߟߏߘߋ߲ ߠߊߓߊ߯ߙߊ߫"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "ߛߘߌ߬ߜߋ߲ ߕߊ߯ߦߙߐ"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ߛߘߌ߬ߜߋ߲ ߛߋ߲߬ߓߐ߫"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "ߛߘߌ߬ߜߋ߲ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "ߡߊߦߟߍ߬ߡߊ߲߬"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "ߌ ߣߊ߬ ߛߓߍߟߌ ߡߍ߲ ߠߎ߬ ߓߊߕߐ߬ߡߐ߲߬ ߠߊ߫߸ ߏ߬ ߟߎ߫ ߘߌ߲߬ߞߌߙߊ ߕߴߛߋ߫ ߟߐ߲߫ ߠߊ߫"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "ߘߏ߫ ߜߘߍ߫ ߟߎ߫ ߘߐߞߊ߬ߙߊ߲߬ ߞߊ߬ ߓߍ߲߬ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߘߋ߬ߣߍ߲ ߠߎ߬ ߡߊ߬"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ߣߌ߲߬ ߦߋ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߘߋ߬ߣߍ߲ ߠߋ߬ ߘߌ߫"
+    },
+    {
+      "name": "edit_notices",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߫"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬ ߝߣߊ߫ ߟߊߓߊ߯ߙߊ߫"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "ߊ߬ ߘߐߞߊ߬ߙߊ߲߫ ߖߊ߰ߣߌ߲߫߸ ߦߊ߬ߣߴߊ߬ ߡߊߦߟߍ߬ߡߊ߲߬ ߕߐ߫"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "ߟߊ߬ߘߛߏ߬ߟߌ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߘߏ߫ ߝߙߊ߬"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ߞߊ߲ߜߍ ߘߐߓߍ߲߬"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "ߛߓߍߟߌ ߞߍߢߊ ߛߊߞߍߟߌ"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ߦߌߟߡߊ ߟߎ߬ ߝߙߊ߬"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "ߌ ߦߋ߫ ߞߎߡߘߊ ߟߊߢߊ߬ ߟߊ߫ ߘߌ߬؟"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "ߘߏ߫ ߜߘߍ߫ ߟߎ߫ ߘߐߞߊ߬ߙߊ߲߬ ߞߊ߬ ߓߍ߲߬ ߜߋ߬ߟߎ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߡߊ߬"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ߞߐߜߍ ߣߌ߲߬ ߘߐߜߍ߫"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "ߌ ߡߊ߲߬ߞߊ߲ ߢߊ߬ߕߣߐ ߦߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "ߓߐߖߎ߫ ߜߋ߲߬ߞߘߎ߬ߕߊ ߟߊߞߏߝߐ߫"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "ߟߐ߲ߕߊ ߛߙߊ߬ߓߊߟߌ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "ߞߊ߬ ߓߙߐߕߐ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߞߍߗߏ߯ ߘߐ߫؟"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "ߘߊ߲߬ߝߘߊ߬ߓߐ߬ ߕߍ߫ ߟߢߊ߬ߟߌ߬ ߟߎ߬ ߕߍ߫"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߦߋߕߊ ߝߋ߲߫ ߡߊ߫ ߛߌ߲ߘߌ߫"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "ߞߐߕߐ߮ ߘߏ߫ ߓߊߕߐ߬ߡߐ߲߬ ߞߊ߬ ߝߘߊ߫ ߥߞߌߡߋߘߌߦߊ߫ ߞߐߡߐ߲ߛ ߟߊ߫"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "ߤߊߞߍ߬ߕߏ߫߸ ߊ߬ ߕߴߛߋ߫ ߞߎߡߘߊ ߟߊߢߎ߲߫ ߠߊ߫"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "ߌ ߘߌ߫ ߛߋ߫ ߕߏ߫ ߟߊ߫ ߞߐߜߍ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߘߐߞߊ߬ߙߊ߲߬ ߠߊ߫"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "ߌ ߘߌ߫ ߛߴߌ ߟߊ߫ ߞߎߡߘߊ߫ ߡߊߢߌ߬ߣߌ߲߬ߞߊ߬ߣߍ߲ ߠߎ߬ ߦߋ߫ ߟߊ߫ ߣߴߌ ߞߊ߬ ߓߟߐߟߐ ߛߐ߬ߘߐ߲߫"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ߝߏ߲߬ߝߏ߲ ߘߏ߫ ߟߊߡߊ߬ߙߊ߫ ߌ ߟߊ߫ ߦߊ߲߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߠߎ߬ ߟߊ߫."
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ߘߐ߬ߝߐ߫ ߦߋߕߊ߫ ߕߴߦߋ߲߬"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "ߞߎߡߘߊ ߣߌ߲߬ ߡߊ߫ ߛߓߍ߫ ߞߊ߲߫ ߜߘߍ߫ ߛߌ߫ ߘߐ߫ ߡߎߣߎ߲߬"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ߞߊ߲߫ ߜߘߍ߫ ߕߴߦߋ߲߬"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "ߛߙߍߘߍ ߘߏ߫ ߛߌ߲ߘߌ߫ ߌ ߟߊ߫ ߦߙߐ߫ ߓߐߒߡߕߊ ߟߎ߬ ߦߋ߫߸ ߘߌߦߊߣߊ߲߫ ߞߎߡߘߊ ߟߎ߬ ߣߌ߫ ߛߌߦߊߡߊ߲߫ ߜߘߍ߫ ߟߎ߫"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߛߌ߲߬ߝߏ߲߬ߧߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "ߞߐߜߍ ߟߎ߬ ߟߊߞߎ߲߬ߘߎ߫ ߛߙߍߘߍ ߣߌ߲߬ ߘߐ߫ ߞߵߊ߬ߟߎ߬ ߞߎ߲߬ߓߐ߬ߣߍ߲ ߦߋ߫ ߦߊ߲߬"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ߞߐߜߍ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߕߍ߫ ߛߙߍߘߍ ߣߌ߲߬ ߘߐ߫"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "ߞߐߜߍ ߟߎ߬ ߟߊߞߎ߲߬ߘߎ߫ ߞߵߊ߬ߟߎ߬ ߦߋ߫ ߞߐߝߍ߬߸ ߤߊߟߌ߬ ߓߟߐߟߐ ߞߐߞߊ߲߬"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ߞߐߜߍ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲߬ ߕߍ߫ ߡߎߣߎ߲߬"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ߞߐߝߟߌ߫ ߡߊ߫ ߛߐ߬ߘߐ߲߬"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ߗߋߛߓߍ߫ ߡߊ߫ ߗߋ߫ ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߣߌ߲߬ ߡߊ߬ ߡߎߣߎ߲߬"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "ߊ߬ ߡߊߝߟߍ߫ ߞߐߝߍ߬ ߖߊ߰ߣߌ߲߬"
+    },
+    {
+      "name": "error_unknown",
+      "value": "ߝߎ߬ߕߎ߲߬ߕߌ߬ ߡߊߟߐ߲ߓߊߟߌ ߘߏ߫ ߓߘߊ߫ ߓߌ߬ߟߵߊ߬ ߘߐ߫"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ߞߎ߲߬ߝߍ߬ ߞߎߡߘߊ߫ ߜߘߍ߫"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "ߞߊ߬ߡߊߛߐ߬ߘߐ߲߫ ߌ ߓߘߴߊ߬ ߘߐߞߊ߬ߙߊ߲߬"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲ ߘߊߓߊ߲߫"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "ߞߎߡߘߊ߫ ߡߊߦߋߙߋ߲ߣߍ߲ ߠߎ߬"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "ߘߎ߲߬ߘߎ߬ߡߊ߬ߦߊ߫"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ߕߋ߬ߟߋ߲ ߞߎߡߘߊ߫ ߡߊߦߋߙߋ߲ߣߍ߲ ߠߎ߬ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ߊ߬ ߓߐ߫ ߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ߊ߬ ߓߍ߯ ߘߐ߫"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 ߦߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "ߞߊ߲߫ ߞߙߍߞߙߍߣߍ߲ ߞߏ߫ ߕߍ߫"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "ߞߎߡߘߊ ߡߍ߲ ߠߎ߬ ߦߋ߫ ߛߋ߲߬ߠߊ߬ ߞߐߜߍ ߣߌ߲߬ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "ߖߊ߲߬ߖߏ߲ ߡߍ߲ ߦߋ߫ ߘߐ߬ߝߐ ߘߐ߫ ߟߏ߲ ߣߌ߲߬ ߡߊ߬"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "ߥߞߌߔߋߘߌߦߊ߫ ߞߎߡߘߊ ߡߍ߲ ߦߴߌ ߘߌ߲߬ߞߌߙߊ ߕߙߐߝߍ߬"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "ߕߋ߬ߟߋ ߖߌ߬ߦߊ߬ߓߍ߬ ߡߊߦߋߙߋ߲ߣߍ߲ ߠߎ߬ ߥߞߌߡߋߘߌߦߊ߫ ߞߐߡߐ߲ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "ߓߍ߲߬ߛߋ߲߬ߡߊ߬ ߞߎߡߘߊ ߟߎ߬ ߟߊߞߊ߬ߝߏ߬ ߊ߬ ߘߐߞߊ߬ߙߊ߲߬ ߞߊ߲ߡߊ߬"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "ߔߊ߬ߔߘߊ ߘߐߞߊ߬ߙߊ߲߬ߠߌ߲ ߘߊߓߊ߲ߠߌ߲ ߦߌ߬ߘߊ߬"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ߥߞߌߡߋߘߌߦߊ߫ ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߓߏ߬ߟߏ߲߬ߘߊ ߞߐߜߍ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ߓߌ߬ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ߞߎߡߘߊ߫ ߘߐߞߊ߬ߙߊ߲߬ߣߍ߲ ߛߊ߲ߘߐߕߊ ߟߎ߬"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲ ߛߊ߲ߘߐߕߊ"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "ߛߊ߲ߘߐߕߊ ߟߎ߬ \\$1 ߟߊ߫"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ߕߙߐߝߍ߫ ߘߌ߲ߞߌߙߊ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ߘߌ߲߬ߞߌߙߊ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ߌ ߘߌ߲߬ߞߌߙߊ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "ߌ ߘߌ߲߬ߞߌߙߊ \\$1 ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "ߟߏ߲ ߖߌ߬ߦߊ߬ߓߍ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߡߋߘߌߦߊ߫ ߞߐߡߐ߲ߛ ߟߊ߫"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ߓߍ߲߬ߛߋ߲߬ߡߊ߫ ߞߎߡߘߊ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ߞߎ߲߬ߝߍ߬ߦߊ߬ߣߍ߲"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "ߞߊ߬ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߛߓߍߘߊ ߟߊߖߍ߲ߛߍ߲߫؟"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "ߝߎ߬ߕߎ߲߬ߕߌ ߘߏ߫ ߕߘߍ߬ ߦߴߊ߬ ߘߴߌ ߟߊ߫ ߟߐ߲ߕߊ ߓߍ߬ߙߍ߲߬ߓߍߙߍ߲߫ ߕߎߡߊ ߟߊ߫. ߊ߬ ߡߊߝߍߣߍ߲߫ ߞߐ߯ߟߊ߫ ߖߊ߰ߣߌ߲߫."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "ߌ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߫ ߝߟߐ ߟߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߕߍ߫ ߞߎߡߘߊ߫ ߡߊ߬ߦߋߙߋ߲ߣߍ߲ ߠߎ߬ ߓߟߏ߫. ߌ ߘߌ߫ ߛߴߌ ߟߊ߫ ߞߊ߲߫ ߝߟߐ ߟߊߞߎߘߦߊ߫ ߟߊ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߢߣߊߕߊߟߌ ߘߐ߫."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "ߞߎߡߘߊ߫ ߡߊߦߋߙߋ߲ߣߍ߲ ߠߎ߬"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "ߞߏ ߘߏ߫ ߓߍ߲߬ߣߍ߲߫ ߕߎ߲߬ ߕߍ߫. ߊ߬ ߡߊߝߍߣߍ߲߫ ߌߞߐ߫ ߖߊ߰ߣߌ߲߫."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "ߛߏ߰ߙߏ߬ߛߊ߯ߙߊ ߓߍ߲߬ߓߊߟߌ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߡߊ߫ ߕߊ߬ߡߌ߲߬"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "ߘߏߝߙߍߕߍ ߓߍ߲߬ߓߊߟߌ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ߕߐ߯ߟߊߓߊ߯ߙߕߊ ߓߍ߲߬ߣߍ߲߫ ߕߍ߫"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "ߛߏ߰ߙߏ߬ߛߊ߯ߙߊ ߢߝߍߕߊ"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "ߛߓߍߟߌ ߡߍ߲ ߦߋߣߴߌ ߓߟߏ߫ ߛߊ߲ߝߍ߬߸ ߏ߬ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "ߟߊߒߡߊߘߐ߫@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ߢ:ߞߏ߲ߘߏ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ߢߎߡߍߙߋ߲ߞߏ߲ߘߏ (ߢߣߊߕߊߟߌ)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ߫ ߟߊߘߏ߲߬ ߌߞߐ߫"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߟߊߛߙߋߦߊ߫"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ߫ ߟߊߘߏ߲߬ ߌߞߐ߫"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߠߊߛߙߋߦߊ߫"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߠߊߘߏ߲߬"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲"
+    },
+    {
+      "name": "field_token_title",
+      "value": "ߘߏߝߙߍߕߍ ߝߛߍ߬ߝߛߍ߬ߟߌ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߕߐ߮ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߕߐ߮"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "ߢߌߣߌ߲ߠߌ߲߫ ߛߊߣߌ߲ߡߊ߲"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1\\$2 ߟߊ߫"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "ߞߐߝߟߌ߫ ߣߊ߬ߕߐ߫ ߛߐ߬ߘߐ߲߬ߣߍ߲"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "ߛߐ߬ߘߐ߲߬ߣߍ߲߫ ߞߘߐ ߟߎ߬ ߞߐߝߟߌ"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ߊ߬ ߢߌߣߌ߲߫ ߞߵߊ߬ ߣߐ߬ߘߐߓߌ߬ߟߊ߬"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ߊ߬ ߢߌߣߌ߲߫ ߞߵߊ߬ ߣߐ߬ߘߐߓߌ߬ߟߊ ߘߊߕߎ߲߯"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ߢߌߣߌ߲ߠߌ߲"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "ߢߎߡߍߙߋ߲ ߘߏ߫ ߓߘߊ߫ ߗߋ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߡߊߝߊ߬ߟߋ߲߬ߠߌ߲ ߟߊ߬ߘߏ߲߬ߠߌ߲ ߘߌ߫"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߡߊߦߟߍ߬ߡߊ߲߬"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ߥߟߊ߫"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "ߌ ߟߊߣߴߊ߬ ߟߊ߫ ߓߊ߬ ߞߴߌ ߦߴߊ߬ ߝߍ߬ ߞߵߌ ߟߊ߫ ߞߐ߯ߟߊ߫ ߝߛߌ ߟߎ߬ ߓߍ߯ ߖߏ߬ߛߌ߫؟"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ߐ߲߬ߐ߲߬ߐ߲߫߸ ߊ߬ ߓߍ߯ ߖߏ߬ߛߌ߬ ߝߛߊߦߌ߫߹"
+    },
+    {
+      "name": "history_title",
+      "value": "ߘߐ߬ߝߐ"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ߥߞߌߡߋߘߌߦߊ߫߸ ߌ ߞߐߛߊ߬ߦߌ߫ ߞߵߊ߬ ߓߍ߬ߙߍ߲߬ߓߍ߬ߙߍ߲߫"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ߥߞߌߔߋߘߌߦߊ߫߸ ߌ ߞߐߛߊ߬ߦߌ߫ ߟߊ߬ߞߎ߲߬ߘߎ߬ߣߍ߲ ߡߊ߬"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "ߘߏ߫ ߜߘߍ߫ ߟߎ߫ ߦߏ߫ \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "ߦߙߐ߫ ߛߌߦߊߡߊ߲߫ ߜߘߍ߫ ߟߎ߫ ߌ ߘߌ߲߬ߞߌߙߊ ߕߙߐߝߍ߬"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "ߛߌ߰ߢߐ߲߰ ߜߘߍ ߟߎ߬ \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "ߛߋ߲߬ߠߊ߬ ߖߊ߲߬ߖߏ߲߬ ߜߘߍ ߟߎ߬"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "ߌ ߟߊ߫ ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߘߌ߫ ߛߋ߫ ߛߌ߲߬ߝߏ߲߬ߧߊ߬ ߟߊ߫ ߞߵߊ߬ߟߎ߫ ߞߍ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߣߌ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߣߍ߲ ߠߎ߬ ߘߌ߫ ߞߍߟߊ߲ ߠߎ߬ ߣߌ߫ ߢߐ߲߯ ߕߍ߫. ߌ ߜߊ߲߬ߞߎ߲߫ ߞߵߌ ߟߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߟߊߘߌ߬ߢߍ߬ ߞߊ߬ ߛߋ߫ ߟߊߞߎ߲߬ߘߎ߬ ߟߴߌ ߟߊ߫ ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ ߟߊ߫ ߝߌ߬ߛߊ߬ߡߊ߲߬ߒߕߋ ߟߎ߬ ߘߐ߫."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ߝߌ߬ߛߊ߬ߡߊ߲߬ߒߕߋ ߘߊߘߐߓߍ߲߬"
+    },
+    {
+      "name": "home_title",
+      "value": "ߊ߬ ߓߍ߬ߙߍ߲߬ߓߍߙߍ߲߫"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "ߥߞߌߔߋߘߌߦߊ߸ ߛߊ߬ߦߌ߫ ߊ߬ ߛߊ߲ߝߍߟߊ ߞߊ߲߬ ߞߵߊ߬ ߓߍ߬ߙߍ߲߬ߓߍߙߍ߲߫"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ߛߌ߰ߢߐ߰ ߞߎߡߘߊ ߟߎ߬"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ߓߍ߲߬ߛߋ߲߬ߡߊ߫ ߞߎߡߘߊ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ߊ߬ ߢߌߣߌ߲߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ߛߓߍߦߟߊ߫ ߡߊߟߐ߲ߓߊߟߌ"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "ߒ ߠߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "ߘߐ߬ߛߏ߰ߙߋߟߌ ߞߐߖߋ߬ߓߌ߬"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "ߞߎߘߊ ߟߎ߬ ߘߐ߫"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "ߊ߬ ߝߙߊ߬"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "ߛߘߌ߬ߜߋ߲ ߝߊ߬ߙߊ߫"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "ߛߓߍߘߋ߲߫ ߠߊ߫ ߞߊ߲߬ߛߓߍߟߌ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ߠߊ߫ ߟߎ߫ ߦߋ߫ ߡߍ߲ ߠߎ߬ ߕߍߣߊ߬ ߖߌ߬ߦߊ߬ߓߍ ߦߋ߫ ߟߊ߫"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ߞߊ߲߬ߛߓߍ߬ߟߌ ߞߍ߫ ߖߌ߬ߦߊ߬ߓߍ ߣߌ߲߬ ߞߊ߲߬"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "ߛߓߍߟߌ߫ ߛߎߞߌߟߊ"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ߜߋ߲߬ߞߘߎ߬ߢߐ߲߰ߦߊ ߢߎ߬ߡߊ߲߬ ߦߋ߫ ߖߌ߬ߦߊ߬ߓߍ ߣߌ߲߬ ߣߌ߫ ߞߎߡߘߊ ߣߌ߲߬ ߕߍ߫؟"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "ߝߍ߬ߛߓߍߟߌ"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "ߕߊ߲ߓߊ߲"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ߣߎߡߊ߲"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ߒ߬ߒ߫"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ߞߌߣߌ߲"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ ߘߌ߲߬ߞߌߙߊ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "ߞߎ߲߬ߠߊ߬ߝߎ߬ߟߋ߲߬ ߜߘߍ ߟߎ߬"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ ߓߊߕߐ߬ߡߐ߲߬"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "ߓߐߛߎ߲"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ ߢߊ߲ߞߊ߲"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ߓߊߖߎߡߊ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ߡߊ߬ߞߟߐ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ߡߊ߬ߞߟߐ߬ߒߕߊ߲"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "ߞߝߊ߬ߟߋ߲ߛߋ߲"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ ߛߎ߯ߦߊ"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "ߡߋߘߌߦߊ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߟߎ߬"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "ߡߋߘߌߦߊ ߟߊߘߏ߲߬"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ߞߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "languages_title",
+      "value": "ߞߊ߲ ߡߊߝߊ߬ߟߋ߲߬"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߞߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "ߊ߬ ߘߊߓߊ߲߫ ߜߊ߲߬ߞߎ߲߬ߠߌ߲߬ߓߊߟߌߦߊ ߘߐ߫"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߌ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߟߊ߫."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߘߊ߫ ߓߐ߫"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "ߌ ߓߘߊ߫ ߢߌ߬ߣߊ߬ ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߞߐ߫؟"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߟߊߛߐ߬ߘߐ߲߫."
+    },
+    {
+      "name": "login_no_account",
+      "value": "ߖߊ߬ߕߋ߬ߘߊ߬ ߕߴߌ ߓߟߏ߫ ߓߊ߬؟ \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߌ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߟߊ߫"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ߞߊ߬ ߓߍ߲߬ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߡߊ߬"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߬"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߐ߫"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "ߌ ߟߊߣߴߊ߬ ߟߊ߫ ߞߴߌ ߦߴߊ߬ ߝߍ߬ ߞߵߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߐ߫؟"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ \\$1 ߘߌ߫"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ߛߌ߰ߢߐ߲߮"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "ߘߎ߲߬ߘߎ߬ߡߊ߬ ߤߊߞߍ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ߡߐ߬ߟߐ߲ ߘߌ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߡߊ߬"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߌ ߛߙߊߕߌ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ߡߞߊ߬ߝߏ߬ ߜߘߍ߫ ߟߎ߫"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߘߐ߬ߞߏߟߏ߲ FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ߢߌߣߌ߲ߠߌ߲ ߞߍ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬ ߞߊ߲߫ ߃߀߀ ߣߌ߫ ߞߐ߫ ߘߐ߫"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ߞߊ߲ ߘߏ߫ ߝߊ߬ߙߊ߫"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|ߞߎߡߘߊ \\$1|ߞߎߡߘߊ \\$1 ߟߎ߬}} ߛߋ߲߬ߓߐ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "ߟߊ߬ߕߎ߲߰ߠߊ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "ߛߋ߲߬ߝߘߍ߫ (ߝߌߕ) \\$1"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "ߞߎߘߍ߫ \\$1"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "ߜߟ \\$1"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "ߡߟߌ \\$1"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "ߌ ߓߘߴߌ ߜߊ߲߬ߞߎ߲߬ ߥߊ߯ߕߌ߫ ߟߊߕߊߡߌ߲߫ ߕߊߡߌ߲ߞߊ߲ ߠߊ߫.ߖߐ߲߬ߛߊ߫ ߌ ߘߴߌ ߟߊ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߠߊߞߎߙߊ߲߫߸ ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲߬ ߞߎߘߊ ߟߊߘߏ߲߬ ߦߊ߲߬ ߖߊ߰ߣߌ߲߬."
+    },
+    {
+      "name": "new_password_title",
+      "value": "ߌ ߟߊ߫ ߕߊ߬ߡߌ߲߬ߞߊ߲ ߠߊߘߏ߲߬"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "ߓߟߐߟߐ ߜߊ߲߬ߞߎ߲߬ߠߌ߲߬ ߕߴߦߋ߲߬"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ߌߞߘߐߣߌ߲߬ ߕߴߏ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "ߞߊ߬ ߝߘߊ߫ \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "ߟߊ߬ߛߏ߬ߓߌ߬ߟߌ"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ߕߊ߬ߡߌ߲߬ߞߊ߲ ߡߊߝߊ߬ߟߋ߲߬"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "ߝߛߍ߬ߝߛߍ߬ߟߌ ߦߴߌ ߘߐ߫ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ߫ ߞߏ ߘߐ߫..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊ߫"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ߓߟߐߟߐ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "ߊ߬ ߡߊߝߍߣߍ߲߫ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ߫ ߞߏ ߘߐ߫..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "ߗߋߛߓߍ߫ ߞߎߘߊ߫ ߛߌ߫ ߕߴߌ ߓߟߏ߫."
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "ߌ ߕߐ߮ ߛߓߍߣߍ߲߫ ߕߍ߫ ߥߞߌߔߋߘߌߦߊ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ߫ ߛߌ߫ ߟߊ߫ ߕߊ߲߬."
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "\\$1 ߡߊߦߟߍ߬ߡߊ߲߫ ߞߊ߬ ߗߋߛߓߍ߫ ߜߘߍ߫ ߟߎ߫ ߦߋ߫"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߘߏ߫ ߝߙߊ߬ ߞߊ߬ ߗߋߛߓߍ߫ ߜߘߍ߫ ߟߎ߫ ߦߋ߫"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|ߛߍ߲ߛߍ߲ߟߊ߲ \\$1|ߛߍ߲ߛߍ߲ߟߊ߲ \\$1 ߠߎ߬}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߕߎ߲߬ߕߎ߲߬ߠߌ߲ ߓߌ߬ߟߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߛߍ߲ߛߍ߲ߟߊ߲"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ߊ߬ ߓߍ߯"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߓߊߟߌ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲ ߟߌ߬ߤߟߊ߬ߦߊ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "ߛߍ߲ߛߍ߲ߟߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "\"ߛߎ߯ߦߊ\" ߓߍ߯"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߛߎ߯ߦߊ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "ߞߎߡߘߊ"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "ߞߎߡߊ߫ ߞߐߜߍ \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "ߘߊ߲߬ߝߘߊ߬ߓߐ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 ߟߊ߫ ߞߎߡߊ߫ ߞߐߜߍ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "ߥߞߌߘߕߊ ߝߌ߬ߛߌ"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "ߌ ߟߊ߫ ߞߎߡߊ߫ ߞߐߜߍ"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߞߊ߬ ߝߘߊ߫ \\$1 ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ߊ߬ ߓߘߊ߫ ߞߍ߫"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "ߌ ߣߐ߬ ߦߋ߫ ߖߊ߬ߕߋ߬ߘߊ ߛߌ߲ߘߌ߫ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߡߍ߲ ߘߐߙߐ߲߫ ߞߊ߲ߡߊ߬߸ ߏ߬ ߟߋ ߞߎ߲߬ߓߐ߬ ߕߐ߫ ߦߋ߫ ߦߊ߲߬"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "ߥߞߌߡߋߘߌߦߊ ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ߥߞߌߔߋߘߌߦߊ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "ߢߊߣߐ"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ߊ߬ ߓߍ߯ ߣߐ߬ߣߐ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "ߊ߬ ߝߐ߫ ߌ ߘߍ߲߬ߞߣߍ߬ߦߊ߬ߣߍ߲߫ ߦߋ߫ ߞߴߌ ߦߴߊ߬ ߝߍ߬ ߞߊ߬ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ {{PLURAL:\\$1|ߗߋߛߓߍ \\$1|ߗߋߛߓߍ \\$1 ߟߎ߫}} ߓߍ߯ ߣߐ߬ߣߐ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߠߎ߬ ߘߌ߫؟ ߌ ߟߊ߫ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬ ߘߌ߫ ߞߍ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߘߴߌ ߟߊ߫ ߞߍߟߊ߲ ߠߎ߬ ߓߍ߯ ߞߣߐ߫."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "ߊ߬ ߞߍ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "ߊ߬ ߞߍ߫ ߞߊ߬ߙߊ߲߬ߓߊߟߌ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "ߡߊ߬ߞߊ߬ߝߏ߬ ߜߘߍ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|ߗߋߛߓߍ \\$1|ߗߋߛߓߍ \\$1 ߟߎ߫}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "ߊ߬ ߘߊߓߊ߲߫"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "ߛߍ߲ߛߍ߲ߟߊ߲ ߠߎ߬"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "ߘߏߜߘߍ߫ ߟߎ߫ ߘߐߞߊ߬ߙߊ߲߫ ߞߊ߬ ߓߍ߲߬ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߡߊ߬"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߣߌ߫ ߟߊ߬ߛߏ߬ߓߌ߬ߟߌ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "ߌ ߟߊ߫ ߗߋߛߓߍ߫ ߘߐߞߊ߬ߙߊ߲߬ߓߊߟߌ ߟߎ߬ ߦߋ߫ ߞߊ߲߫ ߜߘߍ ߟߎ߬ ߥߞߌߔߋߘߌߦߊ ߟߎ߬ ߣߌ߫ ߥߞߌߡߋߘߌߦߊ ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߟߎ߫ ߘߐ߫ ߦߙߐ߫ ߞߋߟߋ߲߫ ߘߐ߫."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߟߎ߬ ߟߊߛߐ߬ߘߐ߲߬ ߞߏ߲ߘߏ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬ ߕߎ߲߬ߕߎ߲߬"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߕߎ߲߬ߕߎ߲߬ߠߌ߲ ߓߌ߬ߟߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߕߎ߲߬ߕߎ߲߬ߠߌ߲ ߓߌ߬ߟߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "ߒ߬ߒ߫߸ ߌ ߣߌ߫ ߗߋ߫."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "ߖߊ߬ߕߋ߬ߘߐ߬ߛߌ߮ ߛߍ߲ߛߍ߲ߟߊ߲"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ߊ߬ ߓߍ߯"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬ ߓߍ߯"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "ߛߍ߲ߛߍ߲ߣߍ߲߫ ߦߋ߫"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 ߣߌ߫ \\$2 \\$3 ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߓߊߟߌ"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "ߓߐ߬ߟߐ ߡߊ߬ߦߟߍ߬ߡߊ߲"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "ߌ ߟߊ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߓߘߊ߫ ߟߊߕߊ߲߬ߞߌ߬"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "ߢߎߡߍߙߋ߲߫ ߗߋߛߓߍ߫ ߞߎߘߊ߫"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "ߞߊߘߊ߲߫ ߞߏ߫ ߦߙߌߞߊ ߜߊ߲߬ߞߎ߲߬ߠߌ߲߫ ߞߏ ߘߐ߫"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "ߗߌߙߏ߲߫ ߓߘߊ߫ ߞߍ߫ ߛߊ߯ߛߊ߯ߟߌ߫ ߘߐ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߘߐ߫"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "ߜߊ߲߬ߞߎ߲߬ ߓߘߊ߫ ߞߍ߫ ߞߍߟߊ߲߫ ߠߊ߫ ߘߊ߬ߙߌ߬ ߡߊ߫ ߞߍ߫ ߜߊ߲߬ߞߎ߲߬ ߞߍ߫ ߟߊ߫ ߡߍ߲ ߠߊ߫ ߞߘߐ߬ߡߊ߲߫"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "ߞߏߝߐߟߌ ߟߎ߬ ߞߎߡߘߊ ߞߎߡߊ߫ ߞߐߜߍ ߞߊ߲߬"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "ߞߏߝߐߟߌ ߟߎ߬ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߛߟߊ ߟߎ߫ ߞߊ߲߬"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "ߞߏߝߐߟߌ߫ ߗߌߙߏ߲ߣߍ߲"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "ߞߏߝߐߟߌ߫ ߛߎߘߊ߲ߣߍ߲"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "ߞߏߝߐߟߌ ߥߟߊ߫ ߞߎߡߊ߫ ߞߐߜߍ"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "ߗߋߛߓߍ ߡߍ߲ ߦߴߌ ߟߊ߫ ߞߎߡߊ߫ ߞߐߜߍ ߞߣߐ߫"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ߞߐߜߍ ߛߘߌ߬ߜߋ߲"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "ߞߐߜߍ ߘߐߛߊ߬ߦߌ߫"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ߌ ߣߌ߫ ߗߋ߫߹"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "ߘߟߊߡߌߘߊߟߌ ߓߐ߬ߟߐ"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߌ߬ ߤߊߞߍ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ߌ ߣߌ߫ ߛߣߍ߫߹"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "ߥߞߌߘߕߊ ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߓߘߊ߫ ߞߍ߫"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "ߊ߬ ߣߐ߬ߣߐ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߣߍ߲ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "ߊ߬ ߞߍ߫ ߞߊ߬ߙߊ߲߬ߓߊߟߌ ߘߌ߫"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "ߡߊ߬ߞߊ߬ߝߏ߬ ߜߘߍ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ߫ ߛߎߥߊ߲ߘߌߣߍ߲ ߣߐ߬ߣߐ߬"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ߞߏߝߐߟߌ ߟߎ߫"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "ߖߊ߲߬ߓߌ߬ߟߊ߬ߟߌ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ߟߊ߬ߛߣߍ߬ߟߌ߫ ߗߋߛߓߍ"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "ߊ߬ ߓߌ߬ߟߊ߬ ߥߞߌߘߕߊ ߡߊ߬"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߓߐ߬ߟߎ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߫ ߠߊߕߊ߲߬ߞߌ߬ߣߍ߲"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߞߎ߲߬ߕߐ߮ ߞߏߝߐߟߌ"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "ߢߎߡߍߙߋ߲߫ ߗߋߛߓߍ ߡߍ߲ ߝߘߊߣߍ߲߫ ߦߋ߫ ߜߘߍ ߟߎ߬ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ߛߊ߯ߛߊ߯ߟߌ ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߘߐ߫"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "ߗߌߙߏ߲߫ ߓߘߊ߫ ߞߍ߫ ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߘߐ߫ ߌ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߟߊ߫"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "ߜߊ߲߬ߞߎ߲߬ߠߌ߲ ߓߘߊ߫ ߛߎߘߊ߲߫߹"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ߘߏ ߟߎ߬"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "ߞߐߜߍ ߛߘߌ߬ߜߋ߲"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "ߞߐߜߍ ߘߐߜߍ߫ ߡߎߣߎ߲߬"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "ߞߏߝߐߟߌ ߗߋߟߌ ߗߌߙߏ߲ߠߌ߲"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "ߞߏߝߐߟߌ ߛߎߘߊ߲ߠߌ߲ ߗߋߟߌ"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "ߞߎߡߊ߫ ߞߐߜߍ ߕߐ߯ߘߐߕߍ"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ߌ ߣߌ߫ ߗߋ߫߹"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "ߘߟߊߡߌߘߊߟߌ ߓߐ߬ߟߐ"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "ߟߊ߬ߓߊ߰ߙߊ߬ߟߌ߬ ߤߊߞߍ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "ߞߎߡߊ߫ ߞߐߜߍ ߗߋߛߓߍ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ߌ ߣߌ߫ ߛߣߍ߫߹"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "ߘߊߞߎ߲߫ (ߓߊ߯ߙߊ߫) ߞߎߘߊ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "ߗߋߛߓߍ߫ ߞߎߘߊ߫{{PLURAL:\\$1|ߟߎ߫}} \\$2 ߞߊ߲߬"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "ߗߋߛߓߍ߫ ߞߎߘߊ߫{{PLURAL:\\$1|ߟߎ߫}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "ߥ \\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "ߞ \\$1"
+    },
+    {
+      "name": "number_thousands",
+      "value": "ߓ \\$1"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "ߞߵߊ߬ ߕߊ߬ \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|ߖߊ߲߬ߖߏ߲ ߘߝߐ߬ߟߊ߬ߞߊ \\$1|ߖߊ߲߬ߖߏ߲߫ ߘߝߐ߬ߟߊ߬ߞߊ \\$1 ߟߎ߬}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ߘߝߐ߬ߟߊ߬ߞߊ ߖߊ߲߬ߖߏ߲ ߛߌߦߊߡߊ߲߫ ߠߎ߫ ߟߏ߲ ߣߌ߲߬ ߡߊ߬"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|ߘߝߐ߬ߟߊ߬ߞߊ ߖߊ߲߬ߖߏ߲߬ ߜߘߍ߫ \\$1|ߘߝߐ߬ߟߊ߬ߞߊ ߖߊ߲߬ߖߏ߲߬ ߜߘߍ߫ \\$1 ߟߎ߫}} ߟߏ߲ ߣߌ߲߬ ߡߊ߬"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "ߌ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߞߊ߲߫ ߝߟߐ ߟߊߘߌ߬ߢߍ߬ߣߍ߲߫ ߕߍ߫ ߟߏ߲ ߣߌ߲߬ ߡߊ߬. ߌ ߘߌ߫ ߛߴߌ ߟߊ߫ ߞߊ߲߫ ߝߟߐ ߟߊߞߎߘߦߊ߫ ߟߊ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߢߣߊߕߊߟߌ ߘߐ߫."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "ߓߟߏߡߟߊ߫ ߛߌ߫ ߡߊߛߐ߬ߘߐ߲߬ߕߊ߫ ߕߍ߫"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 ߞߊ߬ ߝߘߊ߫ \\$2 ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ߟߏ߲ ߣߌ߲߬ ߡߊ߬"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "'ߥ' ߕߐߘߐ߲߫ ߞߵߌ ߞߐߛߊ߬ߦߌ߫ ߞߣߍ߫ ߘߐ߫߸ ߌ ߞߵߊ߬ ߘߊߡߌ߬ߣߊ߬ ߡߍ߲ ߡߊ߬"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "ߡߐ߰ߡߐ߮ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߣߐ"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "ߟߢߊ߬ߟߌ߫ ߝߌ߬ߟߊ߬ ߛߎߥߊ߲ߘߟߌ ߕߐߘߐ߲߫ ߞߵߊ߬ߟߎ߫ ߟߊߢߐ߲߯ߡߊ߬"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "ߟߊߢߐ߲߯ߡߊߟߌ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߘߋ߬ߣߍ߲ ߠߎ߬"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "ߞߍߓߊ߮: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "ߡߙߌߣߊ߲ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "ߟߢߊ߬ߟߌ ߘߐ߬ߝߐ"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲߬ ߘߋ߬ߣߍ߲"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|byte \\$1|bytes \\$1}} ߝߙߊ߬ߣߍ߲"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|ߓߌߕ \\$1|ߓߌߕ \\$1 ߟߎ߫}} ߓߘߊ߫ ߢߌ߬ߣߊ߬ߓߐ߫"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "ߟߢߊ߬ߟߌ ߛߌ߲ߘߌ߫ \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "ߟߢߊ߬ߟߌ߫ ߝߌ߬ߟߊ߬ ߘߐߙߐ߲߫ ߠߎ߫ ߟߋ߬ ߘߌ߫ ߛߋ߫ ߓߊߕߐ߬ߡߐ߲߬ ߠߊ߫"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ \\$1|ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ \\$1 ߟߎ߫}} ߞߊ߬ߦߌ߯ \\$2 ߟߊ߫"
+    },
+    {
+      "name": "page_issues",
+      "value": "ߞߐߜߍ ߓߐ߲ߘߊ ߟߎ߬"
+    },
+    {
+      "name": "page_location",
+      "value": "ߊ߬ ߦߋ߫ ߔߊ߬ߔߘߊ ߞߊ߲߬"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ߤߊߞߍ߫ ߕߴߌ ߓߟߏ߫ ߞߊ߬ ߞߐߜߍ ߣߌ߲߬ ߡߊߦߟߍ߬ߡߊ߲߫"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ߞߐߜߍ ߣߌ߲߬ ߠߊߞߊ߲ߘߊߣߍ߲ ߠߋ߬"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ߞߐߜߍ߫ ߡߎߣߎ߲ߣߍ߲ ߠߎ߬"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "ߟߢߊ߬ߟߌ ߟߎ߬ ߟߊ߫ ߢߐ߲߯ߡߊ߬"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߲ ߞߍ߫ ߞߵߌ ߜߊ߲߬ߞߎ߲߬ߓߊߟߌ ߕߏ߫"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲߫ ߕߍ߫"
+    },
+    {
+      "name": "pictured",
+      "value": "ߖߌ߬ߦߊ߬ߓߍ߬ߡߊ"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "ߢߌߣߌ߲ߠߌ߲߫ ߠߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߖߏ߰ߛߌ߬"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "ߞߎߡߘߊ \\$1 ߟߎ߬"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "ߞߍߣߍ߲߫ ߞߎߘߊ ߟߎ߬ ߌ ߘߌ߲߬ߞߌߙߊ ߘߐ߫"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "ߊ߬ ߦߌ߬ߘߊ߬ ߛߙߍߘߍ ߘߌ߫"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "ߊ߬ ߦߌ߬ߘߊ߬ ߡߊߔ ߘߌ߫"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "ߞߎߡߘߊ߫ ߜߘߍ߫ ߟߎ߫ ߦߌ߬ߘߊ߬"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "ߞߎߡߘߊ ߟߎ߬ ߛߍ߲ߛߍ߲߫"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "ߥߣߊ߬ߙߌ"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "ߦߙߐ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲߬ ߛߌ߫ ߕߴߌ ߓߟߏ߫"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲ ߛߊ߲ߘߐߕߊ"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|ߞߎߡߘߊ \\$1|ߞߎߡߘߊ \\$1 ߟߎ߬}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "ߞߎߡߘߊ߫ ߘߐߞߊ߬ߙߊ߲߬ߣߍ߲ ߛߊ߲ߘߐߕߊ ߟߎ߬"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "ߦߌߟߊߟߐ߲ߠߌ߲ ߓߘߊ߫ ߓߌ߬ߟߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "ߦߙߐ ߟߎ߬ ߢߌߣߌ߲߫"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "ߌ ߞߊ߲߫ ߦߋ߫ \\$1 ߟߋ߬\\ߠߋ߬ ߡߊ߬"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ߢߌߣߌ߲ߣߌ߲߫ ߠߊߓߊ߲"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߓߍ߯"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "ߢߌߣߌ߲ߠߌ߲ ߘߐ߬ߛߎ߬ߟߌ"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ߞߐߝߟߌ ߦߙߐ ߏ߬ ߘߐ߫"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "ߞߎߡߘߊ߫ ߢߣߊߡߊ ߟߎ߬ ߓߍ߯"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ߛߌ߬ߢߐ߲߮"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "ߌ ߘߌ߲߬ߞߌߙߊ ߥߊ߯ߕߌߣߍ߲ ߣߌ߲߬ ߠߊ߫"
+    },
+    {
+      "name": "places_title",
+      "value": "ߦߙߐ"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ߝߏ߬ߣߊ߲߬ ߡߊߟߐ߲ߓߊߟߌ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "ߟߏ߲ ߖߌ߬ߦߊ߬ߓߍ \\$1 ߢߍ߫"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "ߗߌߙߏ߲߫ ߓߘߊ߫ ߞߍ߫ ߟߏ߲ ߖߌ߬ߦߊ߬ߓߍ ߟߊߛߐ߬ߘߐ߲ ߠߊ߫ \\$1 ߢߍ߫"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "ߟߏ߲ ߖߌ߬ߦߊ߬ߓߍ"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ߊ߬ ߟߊߘߤߊ߬ ߥߞߌߡߋߘߌߦߊ ߖߎ߬ߓߌߟߊ ߢߍ߫ ߞߵߌ ߟߊ߫ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊߓߊ߯ߙߊ߫ ߢߊ ߞߎ߲߬ߠߊ߬ߝߏߣߌ߲ ߠߎ߬ ߘߟߊߘߍ߰ ߛߊ߫ ߞߊ߬ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊߓߘߍ߬ߦߊ߫"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "ߡߋߘߌߦߊߥߞߌ"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "ߥߞߌߞߊ߬ߝߊ ߟߎ߬"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "ߥߞߌߘߕߊ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "ߥߞߌߡߋߘߌߦߊ߫ ߞߐߡߐ߲ߛ"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "ߥߞߌߝߐ߰ߓߍ"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "ߥߞߌߛߙߊ߬ߣߎ߲"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "ߥߞߌߛߎߙߛ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "ߥߞߌߛߌߔߍߛߌߋߛ"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "ߥߞߌߖߊ߯ߓߘߊ"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "ߥߞߌߕߊ߯ߡߊߘߐߕߊ߮"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "ߥߞߌߞߘߐߝߐߟߊ߲"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ߞߎߡߘߊ ߣߌ߲߬ ߓߌ߬ߟߊ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߘߏ߫ ߘߐ߫؟"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "ߞߊ߬ “\\$1” ߝߙߊ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߘߏ߫ ߘߐ߫؟"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "ߐ߲߬ߐ߲߬ߐ߲߫߸ ߊ߬ߟߎ߫ ߝߙߊ߬ ߒ ߠߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "ߞߎߡߘߊ ߘߏ߫ ߟߎ߫ ߟߊߡߙߊ߬ߣߍ߲߫ ߦߴߌ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߘߐ߫. ߊ߬ ߝߐ߫ ߊ߫ ߞߊߘߴߌ ߢߍ߫ ߞߵߊ߬ߟߎ߫ ߟߊߡߙߊ߬ ߊ߬ ߣߌ߫ ߞߵߊ߬ߟߎ߫ ߓߌ߬ߟߊ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߣߍ߲ ߠߎ߬ ߡߊ߬ ߌ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߘߐ߫؟"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "ߞߎߡߘߊ߫ ߟߊ߬ߡߙߊ߬ߣߍ߲ ߠߎ߬ ߠߎ߬ ߓߘߊ߫ ߛߐ߬ߘߐ߲߬"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "ߟߊ߬ߘߏ߲߬ߣߍ߲ ߣߌ߲߬ ߡߊ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫ ߞߵߊ߬ ߡߊߛߐ߬ߘߐ߲߬ ߌ ߓߘߊ߫ ߛߋ߫ ߞߊߓߋ߫ ߦߙߌߞߊ߫ ߟߊߘߏ߲߬ߣߍ߲ ߠߎ߬ ߞߐߘߊ߲ ߘߐ߫ ߛߙߍߘߍ ߣߌ߲߬ ߘߐ߫."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߛߌ߲ߘߌ߫"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "ߞߊ߲߬ߛߓߍߟߌ"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߕߐ߮"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "ߛߙߍߘߍ߫ ߞߎߘߊ ߘߏ߫ ߛߌ߲ߘߌ߫"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߓߘߊ߫ ߖߏ߰ߛߌ߬"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "ߒ߬ߒ߫߸ ߞߎߡߘߊ ߟߎ߫ ߖߏ߰ߛߌ߬ ߞߍߟߊ߲ ߞߣߐ߫"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "ߌ ߟߊ߫ ߞߎߡߘߊ ߟߎ߬ ߦߙߌߞߊ ߡߊߖߌ߰ ߛߙߍߘߍ ߣߌ߲߬ ߘߐ߫ \\$1 ߘߐ߫ ߖߊ߰ߣߌ߲߫߸ ߞߊ߬ ߛߙߍߘߍ ߣߌ߲߬ ߞߎߡߘߊ ߟߎ߬ ߓߍ߯ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ ߘߊߡߌ߬ߣߊ߬."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "ߌ ߓߘߊ߫ ߕߊ߬ߡߌ߲߬  {{PLURAL:\\$1|ߞߎߡߘߊ \\$1|ߞߎߡߘߊ߫ \\$1 ߟߎ߫}} ߞߐߘߊ߲ ߠߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߡߊ߬."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߓߘߊ߫ ߓߊ߲߫ ߟߊߓߊ߯ߙߊ߫ ߟߊ߫ ߞߘߐ߬ߡߊ߲߫"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "ߝߟߌ߬ ߡߊߟߐ߲ߓߊߟߌ ߘߏ߫ ߓߘߊ߫ ߓߌ߬ߟߴߊ߬ ߘߐ߫ ߞߵߊ߬ ߕߘߍ߬ ߌ ߟߊ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߟߊߞߎߘߦߊ ߦߴߌ ߘߐ߫"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ߞߏߛߓߍ߫߸ ߞߎߡߘߊ ߟߎ߬ ߟߊߡߙߊ߬ ߞߍߟߊ߲ ߞߣߐ߫"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "ߞߎߡߘߊ ߘߏ߫ ߟߎ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߣߍ߲߫ ߦߴߌ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߖߊ߬ߕߋ߬ߘߊ ߟߊ߫.ߊ߬ ߞߊߘߴߌ ߢߍ߫ ߞߵߊ߬ߟߎ߫ ߡߙߊ߬ߣߍ߲ ߕߏ߫ ߞߍߟߊ߲ ߣߌ߲߬ ߞߣߐ߫ ߌ ߜߊ߲߬ߞߎ߲߬ߣߍ߲ ߓߐ ߞߐ ߘߐ߫؟"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "ߞߊ߬ ߞߎߡߘߊ߫ ߟߊߡߙߊ߬ߣߍ߲ ߡߙߊ߬ߣߍ߲ ߕߏ߫ ߞߍߟߊ߲ ߞߣߐ߫؟"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "ߞߎߡߘߊ ߟߎ߬ ߢߣߊߕߐ߬ߡߐ߲߫"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߞߵߌ ߟߊ߫ ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߥߟߊ߫ ߞߊ߬ ߖߊ߬ߕߋ߬ߘߊ ߟߊߞߊ߬"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߞߊ߬ ߞߎߡߘߊ߫ ߟߊߡߙߊ߬ߣߍ߲ ߠߎ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "ߌ ߜߊ߲߬ߞߎ߲߫ ߥߟߊ߫ ߞߊ߬ ߖߊ߬ߕߋ߬ߘߊ ߘߏ߫ ߛߌ߲ߘߌ߫ ߞߵߌ ߟߊ߫ ߞߎߡߘߊ߫ ߟߊߡߙߊ߬ߣߍ߲ ߠߎ߬ ߣߌ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߟߎ߬ ߟߊߘߊ߬ߤߊ߫ ߟߊ߫ ߞߊ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߟߌ ߞߴߌ ߟߊ߫ ߞߍߟߊ߲ ߞߣߐ߫ ߞߊ߬ ߛߴߊ߬ ߟߊߡߊ߲߬ߘߌ߬ ߟߴߌ ߘߌߦߊߣߍ߲߫ ߢߊ ߡߊ߬"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "ߞߵߌ ߟߊ߫ ߞߎߡߘߊ߫ ߟߊߡߊ߲߬ߘߌ߬ߣߍ߲ ߠߎ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫؟"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[ߟߊ߬ߓߊ߰ߙߊ߬ߟߊ߬ ߛߌ߲ߘߌߣߍ߲]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "ߞߊ߬ߘߌߦߊߒߢߍ ߛߓߍߟߌ߫ ߛߎߘߎ߲"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߞߎ߲߬ߕߐ߮"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "ߕߎ߬ߡߊ߬ߡߐ߲߰ߦߊ ߓߘߊ߫ ߓߴߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ ߓߌ߬ߟߵߊ߬ ߟߊ߫"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "ߌ ߟߊ߫ ߞߎߡߘߊ߫ ߟߊߡߙߊ߬ߣߍ߲ ߠߎ߬ ߣߌ߫ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߟߎ߫ ߘߌߣߊ߬ ߟߊߡߙߊ߬ ߌ ߟߊ߫ ߥߞߌߔߋߘߌߦߊ ߖߊ߬ߕߋ߬ߘߊ ߟߊ߫߸ ߊ߬ ߣߌ߫ ߞߵߊ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫ ߥߞߌߔߋߘߌߦߊ ߟߥߊ߬ߟߌ߬ߟߊ߲ ߠߊ߫."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "ߞߊ߬ ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ ߟߊߞߎߣߎ߲߫؟"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߫ ߛߙߍߘߍ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߟߌ ߟߊߞߎߣߎ߲ߣߍ߲߫ ߞߘߐ ߟߋ߬ ߦߋ߫ ߖߊ߬ߕߋ߬ߘߊ ߣߌ߲߬ ߠߊ߫߸ ߖߐ߲߬ߛߊ߫ ߞߊ߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߟߌ ߟߊߟߐ߬߸ ߌ ߘߌ߫ ߛߋ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߟߌ ߓߐ߫ ߊ߬ ߟߊ߫ ߖߊ߬ߕߋ߬ߘߊ ߣߌ߲߬ ߦߋ߫ ߌ ߟߊ߫ ߟߊ߬ߓߍ߲߬ߢߐ߲߰ߡߦߊ߬ߘߊ ߟߊߞߎߘߦߊߟߌ ߟߊ߫."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߬ߟߌ ߟߊߞߎߣߎ߲ߣߍ߲߫ ߞߘߐ ߟߋ߬ ߦߋ߫ ߖߊ߬ߕߋ߬ߘߊ ߣߌ߲߬ ߠߊ߫"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "ߞߎߡߘߊ ߓߘߊ߫ ߝߙߊ߬ “\\$1” ߟߊ߫"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "ߞߎߡߘߊ ߕߍ߫ ߛߐ߲߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫ ߟߊ߫"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "ߊ߬ ߡߊ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "ߞߎߡߘߊ ߓߘߊ߫ ߕߊ߬ߡߌ߲߬ ߊ߬ ߘߊ߲߭ ߠߊ߫ ߸ ߊ߬ ߕߴߛߋ߫ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫ ߟߊ߫"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "ߛߙߍߘߍ ߓߘߊ߫ ߕߊ߬ߡߌ߲߬ ߊ߬ ߘߊ߲߭ ߠߊ߫ ߸ ߊ߬ ߕߴߛߋ߫ ߞߴߊ߬ ߓߌ߬ߟߊ߬ ߢߐ߲߯ ߡߊ߬"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "ߞߎߡߘߊ ߓߘߊ߫ ߓߌ߬ߟߊ߬ ߟߊ߬ߖߌ߰ߒ߬ߞߎ߲߬ߕߊ ߟߎ߬ ߛߙߍߘߍ ߘߐ߫"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "ߕߊ߬ߡߌ߲߬ ߓߘߊ߫ ߞߍ߫ ߞߍߟߊ߲ ߘߊ߲߭ ߠߊ߫ ߸ ߞߎߡߘߊ ߕߍ߫ ߛߐ߲߬ ߕߎ߬ߡߊ߬ߢߐ߲߰ߦߊ߫ ߟߊ߫"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "ߞߎߡߘߊ ߘߏ߫ ߟߎ߫ ߡߊ߫ ߓߌ߬ߟߊ߬ ߢߐ߲߯ ߡߊ߬ ߸ ߊ߬ ߓߘߊ߫ ߕߊ߬ߡߴߊ߬ ߘߊ߲߭ ߠߊ߫"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "ߛߙߍߘߍ ߡߊ߫ ߓߌ߬ߟߊ߬ ߢߐ߲߯ ߡߊ߬ ߸ߊ߬ ߓߘߊ߫ ߕߊ߬ߡߌ߲߬ ߊ߬ ߘߊ߲߭ ߠߊ߫"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "ߘߐ߬ߞߊ߬ߙߊ߲߬ߠߌ߲߬ ߛߙߍߘߍ"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "ߞߎߡߘߊ߫ ߟߊߞߎ߲߬ߘߎ߬ߣߍ߲ ߠߎ߬ ߢߌߣߌ߲߫"
+    },
+    {
+      "name": "saved_title",
+      "value": "ߟߊ߬ߞߎ߲߬ߘߎ߬ߣߍ߲"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "ߞߎߡߘߊ{{PLURAL:\\$1|ߟߎ߫}} ߞߊ߫ ߟߊߞߎ߲߬ߘߎ߫؟"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ߢߌߣߌ߲ߠߌ߲ ߞߍ߫ ߥߞߌߔߋߘߌߦߊ ߞߣߐ߫"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ߊ߬ ߟߊߛߊ߬"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ߢߌߣߌ߲ߠߌ߲ ߞߍ߫ ߥߞߌߔߋߘߌߦߊ ߞߣߐ߫"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ߞߊ߬ ߞߐ߯ߟߊ߫ ߡߊߦߟߍߡߊ߲ߠߌ߲ ߠߎ߬ ߓߍ߯ ߖߏ߰ߛߌ߫؟"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ߋ߫ ߗߍ߬߸ ߏ߬ ߕߍ߫ ߛߐ߲߬ ߘߐߛߊ߬ ߟߊ߫ ߘߋ߬߳߹"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ߊ߬ ߓߍ߯ ߖߏ߰ߛߌ߬"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ߒ߬ߒ߫߸ ߞߐ߯ߟߊ߫ ߢߌߣߌ߲ߠߌ߲ ߘߐߙߐ߲߫ ߡߎߣߎ߲߬"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ߢߌߣߌ߲ߣߌ߲߫ ߠߊߓߊ߲"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "ߞߎߡߊߢߐ߲߯ߦߊ"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "ߞߊ߬ߡߊߛߐ߬ߘߐ߲߫ ߌ ߓߘߴߊ߬ ߘߐߞߊ߬ߙߊ߲߬"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ߞߎߡߘߊ߫ ߘߐߞߊ߬ߙߊ߲߬ߣߍ߲ ߛߊ߲ߘߐߕߊ ߟߎ߬"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ߞߎ߲߬ߝߍ߬ ߞߎߡߘߊ߫ ߜߘߍ߫"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "ߞߊ߬ ߝߘߊ߫ %s ߥߞߌߔߋߘߌߦߊ ߟߊ߫"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s ߥߞߌߔߋߘߌߦߊ ߞߊ߲߬"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ߞߊ߬ ߝߘߊ߫ ߥߞߌߡߋߘߌߦߊ߫ ߞߐߡߐ߲ߛ ߟߊ߫"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ߘߐ߬ߝߐ߫ ߦߋߕߊ߫ ߕߴߦߋ߲߬"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s ߞߎߡߘߊ ߞߊ߲߬ߛߓߍߟߌ"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "ߌ ߞߊ߲߫ ߦߋ߫ %s ߟߋ߬\\ߠߋ߬ ߡߊ߬"
+    }
+  ]
+}

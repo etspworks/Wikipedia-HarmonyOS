@@ -1,0 +1,444 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipaedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Content license"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Unless itherwise specifee'd, content is available unner a \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike License"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Contreebutors"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Leebrars uised"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Complete leet"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "License"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "We luve open soorce saftware \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Made bi the \\$1 wi the help o volunteers lik ye"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repositories"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Soorce code available unner the \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT License"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Send app feedback"
+    },
+    {
+      "name": "about_title",
+      "value": "Aboot"
+    },
+    {
+      "name": "about_translators",
+      "value": "Translators"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Translatit bi volunteers at \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipaedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Canna see the eemage? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Obteenin a new CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Request accoont."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA siccarity check"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Mak yer accoont"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Awreidy hae an accoont? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Log in."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Loggin in..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Ye maun enter ae uisername, trystwird, an trystwird confirmation tae create an accoont."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Passwaird fields dinna match."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Hainin..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Create a new accoont"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Find in page"
+    },
+    {
+      "name": "action_read",
+      "value": "Read"
+    },
+    {
+      "name": "action_save",
+      "value": "Sauf"
+    },
+    {
+      "name": "action_saved",
+      "value": "Sauft"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Sauft. Activate tae unsauf."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Airticle sauft for later"
+    },
+    {
+      "name": "action_share",
+      "value": "Share"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Unsauf"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Airticle unsauft"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Dismiss"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Adjuist airticle text sizin"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Decrease the opacity o eemages on daurk theme"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Readin themes"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Drag the slider tae chynge the airticle text sizin. Utilise yer system text size tae resize ither text areas in the app."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Theme options"
+    },
+    {
+      "name": "article_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Airticle deletit"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Find leid"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pick yer leid"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Ither leids"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Yer leids"
+    },
+    {
+      "name": "article_share",
+      "value": "Share"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Readin Themes Controls"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Back"
+    },
+    {
+      "name": "button_next",
+      "value": "Nex"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publish"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Report a bug"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Sauf for later"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Sauft for later"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Remuive frae sauft"
+    },
+    {
+      "name": "button_skip",
+      "value": "Skip"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Close"
+    },
+    {
+      "name": "compass_direction",
+      "value": "at \\$1 o'clock"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Explore Wikipaedia for mair airticles tae read"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Na recently read airticles"
+    },
+    {
+      "name": "dim_images",
+      "value": "Dim eemages"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Fixi graimmer"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Fixt typo"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Addit airtins"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Sairy, coud nae laid the airticle"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Ye can still read sauft pages"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Ye can see yer recommendit airticles whan ye have internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Keep track o whit ye'v been readin here"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Na history tae shaw"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Sauf pages tae view them later, even offline"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Na sauft pages yet"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "No results foond"
+    },
+    {
+      "name": "error_unknown",
+      "value": "An unkent error occurred"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Anither random airticle"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Acause ye read"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Conteena readin"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Explore airticles near yer current location"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Featurt airticle"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Main page o Wikimedia projects"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "The day on Wikipaedia"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Tap read"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Tap on \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Pictur o the day"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Allevolie airticle"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Are ye shuir ye want tae delete aw yer recent eetems?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Aye, delete aw"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Log in"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Log oot"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Loggit in aes: \\$1"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Luikower"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Shaw mair airticles"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Failt tae dounlaid eemages for this sauft page."
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Rake Wikipaedia"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Retreevin luikower o yer chynges..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Captcha vereefeecation mistak."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Need captcha vereefication."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Onable tae determine wikitex uplaid ootcome."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Hainin..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "This haes less preevacie. Yer IP address is veesible wi eedits."
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Acause ye read"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Anither random airticle"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Na history tae shaw"
+    }
+  ]
+}

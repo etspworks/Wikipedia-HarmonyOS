@@ -1,0 +1,2240 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Llicencia del conteníu"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Sacante que s'especifique lo contrario, el conteníu ta disponible baxo una \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Llicencia Creative Commons Reconocimientu CompartirIgual"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Collaboradores"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Biblioteques utilizaes"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Llista completa"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Llicencia"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Préstanos el software de códigu abiertu \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Llicencia de los mapes de Sitios"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Sitios utiliza mapes proporcionaos por Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Consulta equí los detalles de la llicencia"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Fecha pola \\$1 cola ayuda de voluntarios como tu"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repositorios"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Códigu fonte disponible baxo la \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Llicencia MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Unviar comentariu sobro la app"
+    },
+    {
+      "name": "about_title",
+      "value": "Tocante a"
+    },
+    {
+      "name": "about_translators",
+      "value": "Traductores"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Traducida por voluntarios en \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fundación Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "¿Nun puedes ver la imaxe? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Baxando un CAPTCHA nuevu..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Solicitar una cuenta."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Comprobación de seguridá CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Crear la cuenta"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "¿Yá tienes una cuenta? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Aniciar sesión."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Aniciando sesión..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Tienes d'escribir un nome d'usuariu, una contraseña, y la confirmación de la contraseña pa crear una cuenta."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Los campos de contraseña nun casen."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Guardando..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Crear una cuenta nueva"
+    },
+    {
+      "name": "account_group_title",
+      "value": "La to cuenta"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "La to páxina d'alderique"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Roblar automáticamente nos alderiques"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "La robla automática de los alderiques va usar la firma definida na configuración de Robla"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferencies de la páxina d'alderique"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Añadir a…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Añadir a llista de llectura"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Amestar a la llista"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Zarrar"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Alcontrar na páxina"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Camudar llingua"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Treslladar a…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Treslladar a llista de llectura"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Revisión siguiente"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Revisión anterior"
+    },
+    {
+      "name": "action_read",
+      "value": "Lleer"
+    },
+    {
+      "name": "action_redo",
+      "value": "Refacer"
+    },
+    {
+      "name": "action_remove",
+      "value": "Desaniciar"
+    },
+    {
+      "name": "action_save",
+      "value": "Guardar"
+    },
+    {
+      "name": "action_saved",
+      "value": "Guardáu"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Guardao. Activa pa recuperar."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artículu guardáu pa dempués"
+    },
+    {
+      "name": "action_share",
+      "value": "Compartir"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Compartir"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ordenar"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Agradecer al usuariu"
+    },
+    {
+      "name": "action_undo",
+      "value": "Desfacer"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Nun guardar"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artículu ensin guardar"
+    },
+    {
+      "name": "action_update",
+      "value": "Anovar"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Añadir {{PLURAL:\\$1|\\$1 artículu|\\$1 artículos}} a la llista de llectura"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Descartar"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, referencia, wiki, enciclopedia, información, conocimientu, investigación, esploración, deprendimientu"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Canal d'esploración completamente configurable y fácil de lleer. Allugamientu, ameyoramientos de rindimientu y correición d'errores."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Descarga l'app de Wikipedia pa esplorar sitios cercanos, sincronizar artículos pa lleelos ensin conexón y personalizar la to esperiencia de llectura."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "La enciclopedia llibre"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Axustar el tamañu del testu del artículu"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Ampliar tables"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Definir que toles tables de tolos artículos tean abiertes de manera predeterminada, incluyendo les Fiches, Referencies, Notes y Enllaces esternos."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Amenorgar la opacidá de les imaxes nes temes escura y prieta."
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Lleyendo temes"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Configuración de tables"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Arrastra el control pa camudar el tamañu del testu del artículu. Utiliza'l tamañu de testu del sistema pa cambiar otres árees de testu de l`aplicación."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opciones de temes"
+    },
+    {
+      "name": "article_delete",
+      "value": "Desaniciar"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artículu desaniciáu|artículos desaniciaos}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Alcontrar llingua"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Escoyer llingua"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Otres llingües"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Les tos llingües"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Nun hai espaciu bastante nel preséu pa guardar esti artículu"
+    },
+    {
+      "name": "article_share",
+      "value": "Compartir"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Controles de llectura de les temes"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Anterior"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Toca equí pa volver"
+    },
+    {
+      "name": "button_next",
+      "value": "Siguiente"
+    },
+    {
+      "name": "button_ok",
+      "value": "Aceutar"
+    },
+    {
+      "name": "button_publish",
+      "value": "Espublizar"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Informar d'un fallu"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Guardar pa después"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Guardao pa después"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Quitar de los guardaos"
+    },
+    {
+      "name": "button_skip",
+      "value": "Saltar"
+    },
+    {
+      "name": "cancel",
+      "value": "Zarrar"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Llimpiar"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zarrar"
+    },
+    {
+      "name": "compass_direction",
+      "value": "a les \\$1 en puntu"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Esplora Wikipedia p'atopar más artículos pa lleer"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nun hai artículos lleíos apocayá"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Amestar descripción"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Descripción d'artículu pa \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Editar introducción"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Editar la descripción del artículu"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Les descripciones curties son meyores"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publicar descripción"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Editar la descripción"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Tenta caltener les descripciones curties pa que los usuarios puedan enterase de la tema del artículu d'una güeyada"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Les descripciones d'artículos resumen un artículu p'ayudar a que los llectores puedan enterase de la tema del artículu d'una güeyada."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Tocante a"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Tocante a Wikidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Más información"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Idealmente, les descripciones tendríen de caber n'una llinia, y tener ente dos y dolce palabres. Nun tán en mayúscules, nun siendo que la primera palabra sía un nome propiu."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "descripción del títulu pa un artículu sobro la Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "descripción del títulu pa un artículu sobro'l Monte Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "pintura de Leonardo da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "El monte más altu de la tierra"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Por casu:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Conseyos pa crear descripciones"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Ayuda de descripción del títulu"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Guía de Wikidata pa escribir descripciones"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Fecho"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Vienes de facer la Wikipedia meyor pa toos"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Publicóse la descripción"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealmente una llinia, ente dos y dolce palabres"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Faila curtia"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Resume un artículu p'ayudar a que los llectores entiendan la tema d'una güeyada."
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Descripciones del títulu"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "De mano, prometo nun abusar d'esta carauterística"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Principiar a editar"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "De:"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Comparar revisiones"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "A:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Comparar revisiones"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Amosar"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Anubrir"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Ringleres \\$1-\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Párrafu movíu"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "abaxo"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "arriba"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 llinia|\\$1 llinies}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 seición|\\$1 seiciones}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Párrafu movíu \\$2 \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Nun puede cargase la revisión."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 edición|\\$1 ediciones}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Información del editor"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 byte añadíu|\\$1 bytes añadíos}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 byte desaniciáu|\\$1 bytes desaniciaos}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Editar resume"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Introducción"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Ringlera \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Nun pue agradecise a usuarios anónimos"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "«Gracies» ye xuna manera fácil d'amosar l'agradecimientu pol trabayu d'un editor en Wikipedia. Tienes d'aniciar sesión pa unviar «Gracies»."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Anicia sesión pa unviar «Gracies»"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Unviar «Gracies»"
+    },
+    {
+      "name": "dim_images",
+      "value": "Amenorgar el rellume d'imáxenes"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Editar"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Igua gramatical"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Igua ortográfica"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Enllaces amestaos"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "¿Cómo ameyorasti l'artículu?"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Nun pudo cargase l'artículu"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Inda puedes lleer páxines guardaes"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Puedes ver los artículos recomendaos cuando tengas internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Caltener un rexistru de lo que tuvisti lleyendo equí"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nun hai nengún historial qu'amosar"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Crea llistes de llugares pa viaxar, temes favorites y muncho más"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organiza los artículos guardaos con llistes de llectura"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Guarda páxines nesta llista pa qu'apaezan equí"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Nun se guardó nenguna páxina nesta llista"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Guardar páxines pa veles más tarde, inclusive ensin conexón"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Inda nun hai páxines guardaes"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nun s'alcontraron resultancies"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Hebo un error desconocíu."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Otru artículu al debalu"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Porque lleísti"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Más artículos rellacionaos"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Siguir lleyendo"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Volver a la canal d'esploración"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Esplorar artículos cercanos al to allugamientu actual"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Artículu destacáu"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "De Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "De Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Personalizar"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Preferencies de llingua de la canal Esplorar"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Pueden añadise más llingües dende la páxina de configuración 'Les mios llingües'."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Tarxeta tapecida"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Enllaz rápidu pa regresar a la llectura d'un artículu abiertu"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Personalizar la canal d'esploración"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Personalizar canal d'esploración"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Tapecer un tipu de carta torgará qu'esti tipu de carta apaeza na canal d'esploración"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Llingüeta Esplorar"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Artículu destacáu del día na Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Desactiváu"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Toes activaes"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Activáu"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 activaes"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Toles tarxetes \\$1 tán tapecíes"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Esta tarxeta nun depende de la llingua, desactivándola eliminarásla de la canal d'esploración."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Tarxetes independientes de la llingua"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Independiente de la llingua"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Tarxetes globales"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Anubrir esta tarxeta"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Anubrir toles tarxetes «\\$1»"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artículos sobro actividaes de recién"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Tapecer toles tarxetes de la canal d'esploración en tolos idiomes desactivará la llingüeta Esplorar."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Acontecimientos históricos de güei"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Artículos de Wikipedia cerca del to allugamientu"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Imaxe diaria destacada de Wikimedia Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Xenerar artículos al debalu pa lleer"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Suxerencies basaes nel historial de llectura"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Ver la tarxeta de siguir lleyendo"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Desactivar la tarxeta d'Artículu destacáu desactivará la tarxeta en tolos idiomes disponibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Ver la tarxeta d'Artículu destacáu"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Desactivar la tarxeta d'Actualidá desactivará la tarxeta en tolos idiomes disponibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Amosar la tarxeta d'Actualidá"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Desactivar la tarxeta d'Un día como güei desactivará la tarxeta en tolos idiomes disponibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Amosar la tarxeta Un día como güei"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Amosar la tarxeta d'Imaxe del día"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Anubrir esta tarxeta"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Páxina principal de los proyeutos de Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Güei en Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Tolos artículos más lleíos"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Más lleíos"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Los más lleíos el \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "De Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "En Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Llugares cercanos a"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Llugares"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "De Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "De Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "El to allugamientu"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "La to llocalización de la Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Imaxen del día"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "De Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Artículu al debalu"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "De Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "De Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Al debalu"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA inválidu"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Les contraseñes nun casen"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Códigu inválidu"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "El nome d'usuariu nun ta disponible"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Códigu de respaldu"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Testu CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Escribe'l testu que ves arriba"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "exemplu@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Corréu electrónicu"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Corréu electrónicu (opcional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "escribe otra vuelta la contraseña nueva"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Confirma la contraseña nueva"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "escribe la contraseña nueva"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Contraseña nueva"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "escribe  otra vuelta la contraseña"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Confirmar la contraseña"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "escribe la contraseña"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Contraseña"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Códigu de comprobación"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "escribe'l nome d'usuariu"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nome d'usuariu"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Reaniciar"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Unvióse un corréu electrónicu con instrucciones pa reaniciar la contraseña"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Rellena unu de los campos d'abaxo pa recibir per corréu instrucciones pa reaniciar la contraseña"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Reaniciar la contraseña"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "O"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "¿Seguro que quies desaniciar tolos elementos recientes?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Si, desaniciar too"
+    },
+    {
+      "name": "history_title",
+      "value": "Historial"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, volver a Esplorar"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, volver a Guardaos"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Más como \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Más llugares cerca del to allugamientu"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Más cercanos a \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Más actividaes actuales"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Los artículos guardaos agora pueden organizase'n llistes de llectura y sincronizase ente preseos. Anicia sesión pa permitir que les llistes de llectura se guarden nes preferencies d'usuariu."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Alministrar les preferencies"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Axusta les preferencies de Llectura, incluyendo'l tamañu del testu y tema, dende la barra de ferramientes del artículu o na configuración d'usuariu pa una esperiencia de llectura más cómoda."
+    },
+    {
+      "name": "home_title",
+      "value": "Esplorar"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, subir al entamu d'Esplorar"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artículos cercanos"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Artículu al debalu"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Guetar na Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autor desconocíu."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "De Wikipedia en \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "De Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Actualidá"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Izquierda"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Llingües"
+    },
+    {
+      "name": "languages_title",
+      "value": "Camudar llingua"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Llingües de Wikipedia"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "¿Escaecisti la contraseña?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Xunise a Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "¿Nun tienes una cuenta? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Anicia sesión na to cuenta"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Tocante a la app"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Aniciar sesión"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Salir"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "¿Seguro que quies zarrar sesión?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Aniciasti sesión como \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privacidá y Condiciones"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Cercanu"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Política d'intimidá"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Calificar l'app"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Condiciones d'usu"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Más"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "EMF de Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Buscar nes casi 300 llingües de Wikipedia"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Amestar llingües"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Treslladar {{PLURAL:\\$1|\\$1 artículu|\\$1 artículos}} a la llista de llectura"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Vista previa"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pies"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milles"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Aniciasti sesión con una contraseña temporal. Pa terminar d'aniciar sesión, tienes de configurar una contraseña nueva equí."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Configura la contraseña"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Configura una cuenta de corréu electrónicu nel preséu y téntalo otra vuelta."
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Activar los avisos"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Fecho"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "de \\$1 a \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 acontecimientu históricu|\\$1 acontecimientos históricos}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Más socesos históricos d'esti día"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 na Wikipedia en \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Tal día como güei"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Toca na «W» pa volver a la llingüeta na que principiasti"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nun tienes los permisos pa editar esta páxina"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Esta páxina ta protexida"
+    },
+    {
+      "name": "pictured",
+      "value": "con semeya"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Llimpiar les guetes guardaes"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artículos"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Volver a centrar nel to allugamientu"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Ver como llista"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Ver como mapa"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Ver más artículos"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Esplorar ciudaes, países, continentes, monumentos naturales, socesos históricos, edificios y más."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Buscar artículos de Wikipedia con allugamientos xeográficos"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Activar l'allugamientu"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "L'accesu al to allugamientu sólo ta disponible cuando la aplicación o una de les sos carauterístiques se ve na pantalla."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Esplora artículos cerca del to allugamientu activando Accesu al allugamientu"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtriar los artículos"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtru"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nun tienes llugares guardaos"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Artículos guardaos"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Más lleíos"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "\\$1 {{PLURAL:\\$1|artículu|artículos}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Artículos más lleíos"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Llocalización activada"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Dengún artículu de los guardaos tien información d'allugamientu"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 que casen con «\\$2»"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Buscar llugares"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "¿Quixisti dicir \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Guetao recién"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Tolos artículos guardaos"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Guetes suxeríes"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultaos nesta fastera"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Tolos artículos principales"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Cercanu"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "El to allugamientu actual"
+    },
+    {
+      "name": "places_title",
+      "value": "Llugares"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "distancia desconocida"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Imaxe del día pal \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Nun pudo algamase la imaxe del día pal \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Permite a la Fundación Wikimedia collechar información tocante a cómo uses la app p'ameyorala"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "¿Amestar esti artículu a una llista de llectura?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "¿Añadir «\\$1» a una llista de llectura?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Si, amestalos a les mios llistes de llectura"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Hai artículos guardaos na app de Wikipedia. ¿Quies caltenelos y amestalos a llistes de llectura sincronizaes cola to cuenta?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Alcontráronse artículos guardaos"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Esta entrada nun ta sincronizada porque aportasti a la llende del númberu d'entraes d'esta llista."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Asocedió un error inesperáu al sincronizar les llistes de llectura."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Esta llista nun ta sincronizada porque aportasti a la llende del númberu de llistes sincronizaes."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Crear llista de llectura"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Descripción"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nome de la llista de llectura"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Crear una llista nueva"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Desaniciada la llista de llectura"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Non, desaniciar los artículos del preséu"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Por favor, reduz el númberu d'artículos d'esta llista a \\$1 pa siguir sincronizando tolos artículos de la mesma."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Pasasti la llende de {{PLURAL:\\$1|\\$1 artículu|\\$1 artículos}} per cuenta."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|L'artículu nun puede|Los artículos nun pueden}} añadise a esta llista. Llegasti a la llende de \\$2 artículos por llista de llectura pa \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "El nome de la llista de llectura yá ta usándose"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Asocedió un error inesperáu al anovar les llistes de llectura."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Si, caltener los artículos nel preséu"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Hai artículos sincronizaos cola to cuenta de Wikipedia. ¿Quies caltenelos nesti preséu cuando zarres la sesión?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "¿Caltener los artículos guardaos nel preséu?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Ordenar artículos"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Hai una llende de 5000 artículos ensin ordenar. Ordena los artículos qu'esisten en llistes pa siguir cola sincronización de los artículos ensin lleer."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Llegóse a la llende d'artículos ensin ordenar"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Esta llista de llectura y los artículos guardaos nella nun se sincronizarán, reduz el númberu de llistes a \\$1 pa siguir sincronizando esta llista."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Pasasti la llende de {{PLURAL:\\$1|\\$1 llista|\\$1 llistes}} de llectura per cuenta."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Aportasti a la llende de \\$1 llistes de llectura per cuenta"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Anicia sesión pa sincronizar los artículos guardaos"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Aniciar sesión o crear una cuenta"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Anicia sesión pa sincronizar los artículos guardaos"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Anicia sesión o crea una cuenta pa permitir que los artículos guardaos y llistes de llectura se sincronicen ente preseos y se guarden nes preferencies d'usuariu."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "¿Sincronizar los artículos guardaos?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[creada pol usuariu]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "descripción curtia opcional"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "títulu de la llista de llectura"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "La sincronización de llistes de llectura desactivóse pa la to cuenta de Wikipedia notru preséu. Puedes reactivar la sincronización anovando les preferencies."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sincronización desactivada"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Activar sincronización"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Los artículos guardaos y llistes de llectura agora pueden guardase na cuenta de Wikipedia y sincronizase ente apps de Wikipedia."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "¿Activar la sincronización de llistes de llectura?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "La sincronización de les llistes de llectura ta activada pa esta cuenta. Pa dexar de sincronizar, desactiva la sincronización pra esta cuenta cambiando la to configuración."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "La sincronización ta activada nesta cuenta"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Asocedió un error inesperáu al añadir una entrada a la llista de llectura. Tenta otra vuelta sero."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Asocedió un error inesperáu al crear la llista de llectura. Tenta otra vuelta sero."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Asocedió un error inesperáu al desaniciar la llista de llectura. Tenta otra vuelta sero."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Asocedió un error inesperáu al desaniciar una entrada de la llista de llectura. Tenta otra vuelta sero."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Asocedió un error inesperáu al anovar la llista de llectura. Tenta otra vuelta sero."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Nun s'atopó la llista de llectura llamada «\\$1». Asegúrate de que tienes el nome correutu."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artículu amestáu a «\\$1»"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Nun pudo sincronizase l'artículu"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ensin sincronizar"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Pasóse la llende d'artículos, nun ye posible sincronizar l'artículu"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Pasóse la llende de llistes, nun ye posible sincronizar l'artículu"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artículu na cola de descargues"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Pasóse la llende del preséu, nun ye posible sincronizar l'artículu"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Llibera espaciu nel preséu y tenta nuevamente"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Dellos artículos nun se sincronizaron, pasóse la llende"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Camudóse'l nome de la llista «\\$1» a «\\$2»"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 llista|\\$1 llistes}} de llectura"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Llista predeterminada d'artículos guardaos"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Guardada"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Esta aición nun puede desfacese. Cuanquier artículu guardáu sólo {{PLURAL:\\$1|nesta llista|nestes llistes}} va dexar de guardase."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "¿Desaniciar {{PLURAL:\\$1|la llista|les llistes}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 artículu|\\$1 artículos}} y {{PLURAL:\\$2|\\$2 llista de llectura|\\$2 llistes de llectura}} sincronizaos dende la to cuenta"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "La llista nun se sincronizó, pasóse la llende"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Ordenar los artículos guardaos"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Hai una llende de \\$1 artículos per llista de llectura. Les llistes que superaben esta llende xebráronse'n delles llistes."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "La sincronización siguirá cuando tea disponible la conexón a Internet"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Tema prietu"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Control de rellumu"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tema escura"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Tema clara"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Tema sepia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Control de tamañu del testu"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referencia \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Güei|1=Ayeri|Hai \\$1 díes}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Recién|Hai \\$1 hora|Hai \\$1 hores}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Agora mesmo|Hai \\$1 minutu|Hai \\$1 minutos}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Esti añu|1=L'añu pasáu|Hai \\$1 años}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Tolos artículos"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Esta llista nun puede desaniciase"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Nun pudieron descargase les imáxenes d'esta páxina guardada."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Descarga d'artículos en cursu…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Llistes de llectura"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Buscar n'artículos guardaos"
+    },
+    {
+      "name": "saved_title",
+      "value": "Guardada"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Dexar de guardar {{PLURAL:\\$1|esti artículu desaniciarálu|estos artículos desaniciarálos}} de toles llistes de llectura asociaes"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "¿Dexar de guardar {{PLURAL:\\$1|l'artículu|los artículos}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Guetar na Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Llimpiar"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Guetar na Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "¿Desaniciar toles guetes de recién?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "¡Esta aición nun puede desfacese!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Desaniciar too"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Inda nun hai guetes de recién"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Guetao de recién"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Redirixío dende: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Guetar"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Preferencies de llectura"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Borrar los datos de la caché"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Si se borren los datos de la caché lliberaránse cerca de \\$1 d'espaciu. Nun se borrarán les páxines guardaes."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "¿Borrar los datos de la caché?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Zarrar"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Borrar caché"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Ayuda y comentarios"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Amosar les llingües na gueta"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Les mios llingües"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Avisos"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Principal"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "La primera llingua d'esta llista emplégase como idioma principal de l'aplicación."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Permitir que Wikimedia almacene los tos artículos y llistes de llectura nes preferencies d'usuariu cuando anicies sesión y sincronices."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sincronizar los artículos guardaos y les llistes"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Les llistes de llectura sincronizaránse'n segundu planu"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Pidir un anovamientu de los artículos y llistes de llectura sincronizaos."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Actualizar les llistes de llectura sincronizaes"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Amosar la llista de llectura Guardaos (la predeterminada) coma una llista separada na vista de llistes de llectura. Esta llista apaez nos preseos Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Amosar la llista de llectura Guardaos"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Almacenamientu y sincronización d'artículos"
+    },
+    {
+      "name": "settings_title",
+      "value": "Configuración"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Fecho cola app de Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» en @Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Construyendo una tarxeta Comparte-un fechu…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "«\\$1» de «\\$2»: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "«\\$1»\n\nde «\\$2»\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Recibir indicaciones"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Compartir…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Abrir en Mapes"
+    },
+    {
+      "name": "share_social_format",
+      "value": "«\\$1» vía Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "«\\$1» vía @Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Añadíos recién"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Títulu"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Tabla de conteníu"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zarrar"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Zarrar la tabla de conteníu"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Conteníu"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Prietu"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Escuru"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Predetermináu"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Siguir l'aniciu de sesión"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Escribe'l códigu de comprobación de 2 factores"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Anicia sesión na to cuenta"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Usar unu de los códigos de respaldu"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Usar códigu de comprobación"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Llectures recomendaes y artículos diarios de la nuesa comunidá"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Canal Esplorar"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Viaxa al pasáu pa saber qué asocedió na hestoria tal día como güei"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Tal día como güei"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Descubrir llugares destacaos cercanos o buscar llugares del mundu"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Llingüeta de llugares"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Primeros pasos"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nueves formes d'esplorar"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Entendílo"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia ta escrita n'andecha por voluntarios, y contién más de 40 millones d'artículos en más de 300 llingües."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Saber más sobre Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Tocante a Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia ye un proyectu global pa crear enciclopedies llibres en toles llingües del mundu. Virtualmente cualquiera con accesu a Internet tien llibertá pa participar apurriendo información neutral y con referencies."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "La enciclopedia llibre"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Amestar otra llingua"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Amestar o editar llingües preferíes"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Alcontramos les llingües siguientes nel to preséu:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Guetar en más de 300 llingües"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Recuperando la vista previa de los cambios..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Esti enllaz lleva a '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Vista previa del enllaz"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Error na comprobación CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Necesita la comprobación del CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Nun pudo determinase'l resultáu del unviu del testu wiki."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Espublizando..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Les ediciones atribuiránse a la direición IP del preséu. Si \\$1 tendrás más intimidá."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Condiciones d'usu"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Porque lleísti"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Tolos artículos más lleíos"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Otru artículu al debalu"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "De Wikipedia en %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "De Wikipedia en %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "De Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nun hai nengún historial qu'amosar"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Anubrir esta tarxeta"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Personalizar canal d'esploración"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Tarxeta tapecida"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Descripción d'artículu pa %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "¿Quixisti dicir %s?"
+    }
+  ]
+}

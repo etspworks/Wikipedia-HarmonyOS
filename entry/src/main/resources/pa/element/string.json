@@ -1,0 +1,4060 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ਵਿਕੀਪੀਡੀਆ"
+    },
+    {
+      "name": "about_content_license",
+      "value": "ਸਮੱਗਰੀ ਲਸੰਸ"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "ਜੇ ਕੁਝ ਹੋਰ ਨਹੀਂ ਕਿਹਾ ਗਿਆ ਤਾਂ ਸਮੱਗਰੀ \\$1 ਹੇਠ ਉਪਲੱਬਧ ਹੈ।"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਐਟ੍ਰੀਰਬ੍ਯੂਸ਼ਨ-ਸ਼ੇਅਰ ਅਲਾਈਕ ਲਸੰਸ"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ਯੋਗਦਾਨੀ"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ਵਰਤੀਆਂ ਲਾਇਬ੍ਰੇਰੀਆਂ"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "ਪੂਰੀ ਸੂਚੀ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ਲਸੰਸ"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "ਸਾਨੂੰ ਖੁੱਲ੍ਹੇ ਸਰੋਤ ਸਾਫਟਵੇਅਰ ਨਾਲ ਪ੍ਰੇਮ ਹੈ \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "ਸਥਾਨਾਂ ਦੇ ਨਕਸ਼ੇ ਦਾ ਲਾਇਸੰਸ"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "ਥਾਂਵਾਂ ਐਪਲ ਨਕਸ਼ੇ ਵੱਲੋਂ ਦਿੱਤੇ ਗਏ ਨਕਸ਼ਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ। \\$1।"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਲਸੰਸ ਦੇ ਵੇਰਵਿਆਂ ਲਈ ਇੱਥੇ ਵੇਖੋ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1 ਵੱਲੋਂ ਬਣਾਇਆ ਗਿਆ ਤੁਹਾਡੇ ਵਰਗੇ ਵਲੰਟੀਅਰਾਂ ਦੀ ਮਦਦ ਨਾਲ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "ਖਜ਼ਾਨਾਂ"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "\\$1 ਹੇਠ ਸਰੋਤ ਕੋਡ ਉੱਪਲਬਧ ਹੈ।"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "ਐੱਮ.ਆਈ.ਟੀ. ਲਸੰਸ"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ਐਪ ਸੰਬੰਧੀ ਸਲਾਹ ਭੇਜੋ"
+    },
+    {
+      "name": "about_title",
+      "value": "ਬਾਰੇ"
+    },
+    {
+      "name": "about_translators",
+      "value": "ਉਲਥਾਕਾਰ"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 ਦੇ ਸਵੈ-ਸੇਵਕਾ ਵੱਲੋਂ ਤਰਜਮਾ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਫ਼ਾਊਂਡੇਸ਼ਨ"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "ਚਿੱਤਰ ਨਹੀਂ ਦੇਖ ਸਕਦੇ? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "ਨਵਾਂ ਕੈਪਚਾ ਲਿਆਉਂਦਾ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ਖਾਤੇ ਲਈ ਬੇਨਤੀ"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "ਕੈਪਚਾ ਸੁਰੱਖਿਆ ਜਾਂਚ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "ਆਪਣਾ ਖਾਤਾ ਬਣਾਓ"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ਪਹਿਲੋਂ ਹੀ ਖਾਤਾ ਹੈ? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "...ਦਾਖ਼ਲਾ ਹੋ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "ਖਾਤਾ ਬਣਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਇੱਕ ਵਰਤੋਂਕਾਰ ਨਾਂ, ਪਾਰਸ਼ਬਦ ਅਤੇ ਪਾਰਸ਼ਬਦ ਦੀ ਤਸਦੀਕ ਕਰਨੀ ਪਵੇਗੀ।"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ਪਛਾਣ-ਸ਼ਬਦ ਦੇ ਡੱਬੇ ਮੇਲ ਨਹੀਂ ਖਾ ਰਹੇ।"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "ਸਾਂਭਿਆ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ"
+    },
+    {
+      "name": "account_group_title",
+      "value": "ਤੁਹਾਡਾ ਖਾਤਾ"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "ਖਾਤਾ ਗਾਇਬ ਕਰੋ"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "ਗੱਲ-ਬਾਤ ਸਫ਼ਾ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "ਸਵੈ-ਦਸਤਖਤ ਚਰਚਾਵਾਂ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "ਚਰਚਾਵਾਂ ਦੇ ਸਵੈ-ਦਸਤਖ਼ਤ ਦਸਤਖ਼ਤ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਰਿਭਾਸ਼ਿਤ ਦਸਤਖ਼ਤ ਦੀ ਵਰਤੋਂ ਕਰਨਗੇ"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ੇ ਦੀਆਂ ਤਰਜੀਹਾਂ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "ਨਾਲ ਜੋੜ ਦਿਓ…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "ਪੜ੍ਹਨ ਵਾਲੀ ਸੂਚੀ 'ਚ ਜੋੜੋ"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "ਸੂਚੀ ਵਿਚ ਜੋੜੋ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "ਸੋਧਾਂ ਨੂੰ ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "ਸੋਧਾਂ ਨੂੰ ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "ਸੋਧਣਾ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ਭਾਸ਼ਾ ਬਦਲੋ"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ਵਿੱਚ ਭੇਜੋ..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ਪੜ੍ਹਨ ਵਾਲੀ ਸੂਚੀ 'ਚ ਜੋੜੋ"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "ਅਗਲਾ ਦੁਹਰਾਅ"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "ਪਿਛਲਾ ਦੁਹਰਾਅ"
+    },
+    {
+      "name": "action_read",
+      "value": "ਪੜ੍ਹੋ"
+    },
+    {
+      "name": "action_redo",
+      "value": "ਮੁੜ ਕਰੋ"
+    },
+    {
+      "name": "action_remove",
+      "value": "ਹਟਾਓ"
+    },
+    {
+      "name": "action_retry",
+      "value": "ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "action_save",
+      "value": "ਸਾਂਭੋ"
+    },
+    {
+      "name": "action_saved",
+      "value": "ਸੰਭਾਲਿਆ"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "ਸੰਭਾਲਿਆ। ਅਣ-ਸੰਭਾਲਿਆ ਕਰਨ ਲਈ ਸਰਗਰਮ ਕਰੋ।"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "ਲੇਖ ਨੂੰ ਬਾਅਦ ਲਈ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "action_share",
+      "value": "ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "action_sort",
+      "value": "ਛਾਂਟੋ"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "ਵਰਤੋਂਕਾਰ ਨੂੰ ਧੰਨਵਾਦ ਕਹੋ"
+    },
+    {
+      "name": "action_undo",
+      "value": "ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ਅਣ-ਸੰਭਾਲੋ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "ਲੇਖ ਸੰਭਾਲਿਆ ਨਹੀਂ ਗਿਆ"
+    },
+    {
+      "name": "action_update",
+      "value": "ਨਵਿਆਓ"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਲੇਖਾਂ ਵਿੱਚ ਸਮਝ ਵਧਾਉਣ ਲਈ ਸੁਝਾਏ ਗਏ ਚਿੱਤਰ ਜੋੜੋ।"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "ਤਸਵੀਰ ਜੋੜੋ"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "ਕੋਈ ਹੋਰ ਵਿਚਾਰ?"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "ਇਸ ਮਹੀਨੇ ਪੜ੍ਹੇ ਗਏ ਲੇਖ"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "ਲੇਖ"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "ਹੁਣ ਤੱਕ ਦੇ ਸਮੇਂ ਦਾ ਅਸਰ"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "ਸੋਧ-ਕਾਰਜ ਦੀਆਂ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "ਸਰਗਰਮੀ ਇਕਾਈਆਂ ਬੰਦ ਕੀਤੀਆਂ ਗਈਆਂ ਨੇ। ਇਸ ਨਵੇਂ-ਵਰਕੇ (ਟੈਬ) ਵਿੱਚ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ ਵੇਖਣ ਲਈ ਉਹਨਾਂ ਨੂੰ \\$1 ਚਾਲੂ ਕਰੋ \\$2"
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "ਪੜ੍ਹਨ-ਸਬੰਧੀ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ ਤੁਹਾਡੀ ਐਪ ਵਿੱਚ ਚੁਣੀਆਂ ਗਈਆਂ ਬੋਲੀਆਂ 'ਤੇ ਅਧਾਰਿਤ ਨੇ, ਜਦਕਿ ਸੋਧ-ਕਾਰਜ ਦੀਆਂ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਮੁੱਢਲੀ ਬੋਲੀ ਤੱਕ ਹੀ ਹੱਦਬੰਦ ਨੇ। ਇਹ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ ਤੁਹਾਡੇ ਆਪਣੇ ਮੋਬਾਈਲ ਦੇ ਅੰਕੜਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਨੇ, ਪਰ ਤੁਹਾਡੀਆਂ ਕੀਤੀਆਂ ਸੋਧਾਂ ਸਭ ਲਈ ਜਨਤਕ ਹੁੰਦੀਆਂ ਨੇ।"
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "ਐਪ ਵਿੱਚ ਆਖਰੀ ਦਾਨ"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "ਇਸ ਸਰਗਰਮੀ ਦੀ ਅੰਦਰੂਨੀ-ਝਾਤ ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਦਾਖ਼ਲ ਹੋਣਾ ਲਾਜ਼ਮੀ ਏ।"
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "ਪੜ੍ਹਨ ਦੀਆਂ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "ਪੜ੍ਹਨ ਵਿੱਚ ਬਿਤਾਇਆ ਸਮਾਂ"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "ਵਿਵਹਾਰ ਦੀ ਸਮਾਂਰੇਖਾ"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[ਲੋੜੀਂਦੇ ਵਿਹਾਰ ਦਾ ਵੇਰਵਾ ਦਿਓ]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [ਖਾਸ ਸਮੱਸਿਆ ਦਾ ਵੇਰਵਾ ਦਿਓ]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "ਮੈਂ ਜੋ ਵਿਹਾਰ ਵੇਖਣਾ ਚਾਹੁੰਦਾ/ਚਾਹੁੰਦੀ ਹਾਂ ਉਹ ਏ:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "ਅੜਿੱਕਾ ਇਤਲਾਹ - ਸਰਗਰਮੀ ਦਾ ਨਵਾਂ-ਵਰਕਾ"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "ਆਪਣਾ ਇਤਿਹਾਸ ਬਣਾਉਣ ਲਈ ਪੜ੍ਹਨਾ ਅਤੇ ਸੋਧਨਾ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "ਦਿਖਾਉਣ ਲਈ ਕੁਝ ਵੀ ਨਹੀਂ"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "ਤੁਸੀਂ ਇਸ ਹਫ਼ਤੇ ਕੁਝ ਵੀ ਨਹੀਂ ਸੋਧਿਆ। ਆਪਣੇ ਯੋਗਦਾਨ ਦੀ ਪੈੜ ਨੂੰ ਵੇਖਣ ਲਈ ਹੁਣੇ ਸ਼ੁਰੂ ਕਰੋ।"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 ਘੰਟਾ \\$2 ਮਿੰਟ"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "ਵਿਕੀਪੀਡੀਆ iOS ਤੇ"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "ਕੁੱਲ ਸੋਧਾਂ"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "ਦਿਨ"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "ਹੋਰ ਸੋਧ ਅਤੇ ਪੜ੍ਹਨ-ਸਬੰਧੀ ਸਰਗਰਮੀ ਵੇਖਣ ਲਈ ਦਾਖਲ ਹੋਵੋ ਜਾਂ ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ।"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਐਪ 'ਤੇ ਆਪਣੀ ਸਰਗਰਮੀ ਵੇਖਣ ਲਈ ਦਾਖਲ ਹੋਵੋ ਜਾਂ ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ।"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "ਪੜ੍ਹਨ ਅਤੇ ਸੋਧ-ਕਾਰਜ ਦੀਆਂ ਹੋਰ ਅੰਦਰੂਨੀ-ਝਾਤਾਂ ਵੇਖੋ"
+    },
+    {
+      "name": "activity_tab_logged_out_track_what_youve_read",
+      "value": "ਤੁਸੀਂ ਕੀ ਕੁਝ ਪੜ੍ਹਿਆ ਏ, ਉਸ ਦੀ ਪੈੜ ਰੱਖੋ ਅਤੇ ਸਮੇਂ ਦੇ ਨਾਲ ਆਪਣੇ ਯੋਗਦਾਨ ਨੂੰ ਇੱਕ ਨਵੇਂ ਨਜ਼ਰੀਏ ਤੋਂ ਵੇਖੋ।"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "ਪੜ੍ਹਨ ਦਾ ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "ਨਿਰਪੱਖ"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "ਤੁਸੀਂ ਹਾਲੇ ਤੱਕ ਕੋਈ ਸੋਧ ਨਹੀਂ ਕੀਤੀ ਹੈ। ਲੇਖ ਦੀ ਸਮਝ ਨੂੰ ਵਧਾਉਣ ਲਈ ਚਿੱਤਰ ਸ਼ਾਮਲ ਕਰੋ।"
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "ਤੁਹਾਡਾ ਪੜ੍ਹਨਾ"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "ਵੇਖੋ ਕਿ ਤੁਸੀਂ ਪੜ੍ਹਨ ਵਿੱਚ ਕਿੰਨਾ ਸਮਾਂ ਬਿਤਾਇਆ ਏ ਅਤੇ ਸਮੇਂ ਦੇ ਨਾਲ ਤੁਸੀਂ ਕਿਹੜੇ ਲੇਖਾਂ ਜਾਂ ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਚੋਲ ਕੀਤੀ ਏ।"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "ਪੜ੍ਹਨ ਦੇ ਨਮੂਨੇ"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਇਕਾਈਆਂ ਵਿਖਾਉਣੀਆਂ ਹਨ। ਤੁਹਾਡਾ ਸਾਰਾ ਨਿੱਜੀ ਵੇਰਵਾ ਤੁਹਾਡੇ ਜੰਤਰ 'ਤੇ ਹੀ ਗੁਪਤ ਰਹੇਗਾ ਅਤੇ ਪੜ੍ਹਨ-ਲਿਖਣ ਦਾ ਇਤਿਹਾਸ ਕਿਸੇ ਵੀ ਸਮੇਂ ਮਿਟਾਇਆ ਜਾ ਸਕਦਾ ਏ।"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "ਸਭ ਤੁਹਾਡੇ ਕਾਬੂ ਵਿੱਚ ਏ"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "ਸਰਗਰਮੀ ਦੀ ਜਾਣ-ਪਛਾਣ"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "ਸਰਗਰਮੀ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "ਆਪਣੇ ਯੋਗਦਾਨ ਦੀ ਪੜਚੋਲ ਕਰੋ ਅਤੇ ਜਾਣੋ ਕਿ ਤੁਹਾਡੇ ਵੱਲੋਂ ਵੰਡਿਆ ਗਿਆ ਗਿਆਨ ਕਿੱਥੋਂ-ਕਿੱਥੋਂ ਤੱਕ ਪਹੁੰਚਿਆ ਏ।"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "ਅਸਰ ਦੀਆਂ ਝਾਤਾਂ"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "ਪੜ੍ਹਨ ਦਾ ਇਤਿਹਾਸ ਵੇਖੋ"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "ਇਸ ਮਹੀਨੇ ਸੰਭਾਲੇ ਗਏ ਲੇਖ"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "ਸੋਧ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "ਸਰਗਰਮੀ"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "ਸੋਧ ਇਤਿਹਾਸ ਦਿਖਾਓ"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "ਪੜ੍ਹਨ ਦਾ ਇਤਿਹਾਸ ਵੇਖੋ"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "ਸੰਭਾਲੇ ਲੇਖ ਵੇਖੋ"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "ਹਫ਼ਤਾ"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "ਤੁਸੀਂ ਇਸ ਹਫ਼ਤੇ {{PLURAL:\\$1|\\$1 ਵਾਰ}} ਸੰਪਾਦਨ ਕੀਤਾ ਹੈ।"
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "ਤੁਹਾਡਾ ਅਸਰ"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1| \\$1 ਲੇਖ}} ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "ਵਧੇਰੇ ਤਰਜੀਹਾਂ"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "ਤੁਸੀਂ ਇੱਕ ਆਰਜ਼ੀ ਖਾਤਾ ਵਰਤ ਰਹੇ ਹੋ। ਖਾਤੇ ਦੀ ਮਿਆਦ 90 ਦਿਨਾਂ ਵਿੱਚ ਖ਼ਤਮ ਹੋ ਜਾਵੇਗੀ।"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "ਹੋਰ ਸਿੱਖੋ।"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "ਸੁਝਾਅ ਦਿੱਤੇ ਗਏ"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "ਖ਼ਾਰਜ ਕਰੋ"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ਵਿਕੀਪੀਡੀਆ, ਹਵਾਲਾ, ਵਿਕੀ, ਵਿਸ਼ਵਕੋਸ਼, ਜਾਣਕਾਰੀ, ਗਿਆਨ, ਖੋਜ, ਜਾਣਕਾਰੀ, ਖੋਜ, ਸਿੱਖੋ"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "ਇਕ ਅਜ਼ਾਦ ਗਿਆਨਕੋਸ਼"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ਲੇਖ ਅੱਖਰਾਂ ਦਾ ਆਕਾਰ ਵਿਵਸਥਿਤ ਕਰੋ"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ਸਾਰਣੀ ਫੈਲਾਓ"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "ਤਤਕਾਲ ਤੱਥਾਂ, ਹਵਾਲੇ, ਨੋਟਾਂ ਅਤੇ ਬਾਹਰੀ ਕੜੀਆਂ ਸਮੇਤ, ਸਾਰੇ ਲੇਖਾਂ ਵਿੱਚ ਸਾਰੀਆਂ ਸਾਰਣੀਆਂ ਨੂੰ ਮੂਲ ਤੌਰ 'ਤੇ ਖੁੱਲ੍ਹਣ ਲਈ ਕਾਇਮ ਕਰੋ।"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "ਵਿਸ਼ਾ-ਵਸਤੂ ਪੜ੍ਹਨਾ"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ਸਾਰਣੀ ਤਰਜੀਹਾਂ"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "ਥੀਮ ਵਿਕਲਪ"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ਇਸ ਲੇਖ ਬਾਰੇ"
+    },
+    {
+      "name": "article_delete",
+      "value": "ਮਿਟਾਓ"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1| ਲੇਖ|ਲੇਖ}} ਮਿਟਾਏ ਗਏ"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ਭਾਸ਼ਾ ਲੱਭੋ"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ਬੋਲੀ ਚੁਣੋ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ਹੋਰ ਭਾਸ਼ਾਵਾਂ"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ਤੁਹਾਡੀਆੰ ਭਾਸ਼ਾਵਾੰ:"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ਹੋਰ ਪੜ੍ਹੋ"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "ਹਵਾਲਾ \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "ਲੇਖ ਸੋਧ ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ਇਸ ਲੇਖ ਨੂੰ ਸਾਭਣ ਲਈ ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡੇ ਜੰਤਰ 'ਤੇ ਲੋੜੀਂਦੀ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "article_share",
+      "value": "ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "ਲੇਖ ਗੱਲਬਾਤ ਸਫ਼ਾ"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "ਆਰਜ਼ੀ ਖਾਤਾ ਬਣਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ਪਿਛਾਂਹ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "ਵਾਪਸ ਜਾਣ ਲਈ ਨੱਪੋ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "ਪਿੱਛੇ ਜਾਓ"
+    },
+    {
+      "name": "button_next",
+      "value": "ਅੱਗੇ"
+    },
+    {
+      "name": "button_ok",
+      "value": "ਠੀਕ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ਛਾਪੋ"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ਕਿਸੇ ਵੀ ਤਰ੍ਹਾਂ ਛਾਪੋ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ਮਾਂਙਣੂ ਦੀ ਇਤਲਾਹ ਦਿਓ"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "ਬਾਅਦ ਲਈ ਸੰਭਾਲੋ"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "ਬਾਅਦ ਲਈ ਸੰਭਾਲਿਆ"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "ਸੰਭਾਲਿਆਂ ਵਿੱਚੋਂ ਹਟਾਓ"
+    },
+    {
+      "name": "button_skip",
+      "value": "ਛੱਡੋ"
+    },
+    {
+      "name": "cancel",
+      "value": "ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਸੀਸੀ0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "ਹੁਣ ਵਿਕੀਪੀਡੀਆ ਐਪ ਦੇ ਅੰਦਰ ਮੁੱਢਲੀ ਜਾਂ ਦੂਜੀ ਭਾਸ਼ਾਵਾਂ ਦੇ ਰੂਪ ਵਿੱਚ ਹੇਠ ਲਿਖੇ ਚੀਨੀ ਰੂਪਾਂ ਦਾ ਸਹਿਯੋਗ ਕਰਦੀ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਡੇ ਮਨਪਸੰਦ ਰੂਪਾਂ ਵਿੱਚ ਪਡ਼੍ਹਨਾ, ਖੋਜਣਾ ਅਤੇ ਸੋਧਨਾ ਸੌਖਾ ਹੋ ਜਾਂਦਾ ਹੈ:\n\n简体  ਚੀਨੀ, ਸੌਖੀ (zh-hans)\n香港繁體  ਹਾਂਗਕਾਂਗ ਰਵਾਇਤੀ (zh-hk)\n澳門繁體  ਮਕਾਉ ਰਵਾਇਤੀ (zh-mo)\n大马简体  ਮਲੇਸ਼ੀਆ ਸੌਖੀ (zh-my)\n新加坡简体  ਸਿੰਗਾਪੁਰ ਸੌਖੀ (zh-sg)\n臺灣正體  ਤਾਇਵਾਨੀ ਰਵਾਇਤੀ (zh-tw)"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "ਕੈਸ਼ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਪੂਰਾ ਹੋਇਆ।"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "ਕੈਸ਼ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਦਾ ਕੰਮ ਚੱਲ ਰਿਹਾ ਹੈ।"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ਬੰਦ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 ਵਜੇ"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "ਇਹ ਸਿਰਫ਼ ਇਸ ਜੰਤਰ ਤੋਂ ਕੀਤੇ ਦਾਨ ਉੱਤੇ ਲਾਗੂ ਹੋਵੇਗਾ।"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "ਮਿਟਾਉਣ ਦੀ ਤਸਦੀਕ ਕਰੋ"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "ਸਥਾਨਕ ਇਤਿਹਾਸ ਮਿਟਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "ਪਡ਼੍ਹਨ ਲਈ ਹੋਰ ਲੇਖਾਂ ਲਈ ਵਿਕੀਪੀਡੀਆ ਦੀ ਪਡ਼ਚੋਲ ਕਰੋ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ਕੋਈ ਹਾਲ ਹੀ ਵਿੱਚ ਪਡ਼੍ਹੇ ਗਏ ਲੇਖ ਨਹੀਂ ਹਨ"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "ਲੋੜ ਮੁਤਾਬਕ ਬਣਾਓ"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "ਨਵਿਆਈਆ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "ਵੇਰਵਾ ਜੋੜੋ"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "ਸੋਧ ਦਿੱਖ ਵਿੱਚ ਤੱਤਾਂ ਦੀ ਤਰਤੀਬ ਲੇਖ ਦੀ ਦਿੱਖ ਨਾਲੋਂ ਵੱਖਰੀ ਹੋਵੇਗੀ।"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 ਲਈ ਲੇਖ ਦਾ ਵੇਰਵਾ"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "ਜਾਣ-ਪਛਾਣ ਨੂੰ ਸੋਧੋ"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "ਲੇਖ ਦਾ ਵੇਰਵਾ ਸੋਧੋ"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "ਛੋਟੇ ਵਰਣਨ ਵਧੀਆ ਹਨ"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "ਵੇਰਵਾ ਛਾਪੋ"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "ਵੇਰਵਾ ਸੋਧੋ"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "ਬਾਬਤ"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ਵਿਕੀਡਾਟਾ ਬਾਰੇ"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ਹੋਰ ਜਾਣਕਾਰੀ"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ਲਿਓਨਾਰਡੋ ਦਾ ਵਿੰਚੀ ਵੱਲੋਂ ਬਣਾਇਆ ਚਿੱਤਰ"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ਧਰਤੀ ਦਾ ਸਭ ਤੋਂ ਉੱਚਾ ਪਹਾਡ਼"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ਉਦਾਹਰਣ ਲਈ:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "ਵਰਣਨ ਬਣਾਉਣ ਲਈ ਸੁਝਾਅ"
+    },
+    {
+      "name": "description_help_title",
+      "value": "ਲੇਖ ਦੇ ਵੇਰਵੇ ਦੀ ਮਦਦ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "ਵਰਣਨ ਲਿਖਣ ਲਈ ਵਿਕੀਡਾਟਾ ਦਸਤੀ"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ਪੂਰਾ ਹੋਇਆ"
+    },
+    {
+      "name": "description_published_title",
+      "value": "ਵੇਰਵਾ ਛਾਪਿਆ!"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "ਇਸ ਨੂੰ ਛੋਟਾ ਰੱਖੋ"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "ਪਾਠਕਾਂ ਨੂੰ ਇੱਕ ਨਜ਼ਰ ਵਿੱਚ ਵਿਸ਼ੇ ਨੂੰ ਸਮਝਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਇੱਕ ਲੇਖ ਦਾ ਸਾਰ ਦਿੰਦਾ ਹੈ"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ਲੇਖ ਦੇ ਵੇਰਵੇ"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "ਸ਼ੁਰੂ ਕਰਕੇ, ਮੈਂ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਦੁਰਵਰਤੋਂ ਨਾ ਕਰਨ ਦਾ ਵਾਅਦਾ ਕਰਦਾ ਹਾਂ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "ਸੋਧ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "developer_settings",
+      "value": "ਵਿਕਾਸਕਾਰ ਤਰਜੀਹਾਂ"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "ਦਾਨ ਛੱਡ ਕੇ ਲੰਘੋ"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "wmflabs ਨੂੰ ਵਿਸ਼ਲੇਸ਼ਣ ਭੇਜੋ।"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "ਲੇਖ ਸੋਧ ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "ਜੋਡ਼, \\$1, ਜੋਡ਼ ਅੰਤ।"
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "ਹਟਾਉਣਾ, \\$1 , ਹਟਾਉਣ ਦਾ ਅੰਤ।"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "ਪਿਛਲਾ ਸੋਧ"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "ਸੋਧਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ਵਿਖਾਈ ਗਈ ਸੋਧ"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "ਸੋਧਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "ਸਮੱਗਰੀ ਜੋੜੀ, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "ਸਮੱਗਰੀ ਹਟਾਈ ਗਈ, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 ਨੂੰ ਢਾਓ"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 ਨੂੰ ਫੈਲਾਓ"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ਵਿਖਾਓ"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ਲੁਕਾਓ"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "'ਤੇ ਸੋਧ ਕੀਤੀ ਗਈ"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "ਲਾਈਨਾਂ \\$1-\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ਹੇਠਾਂ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ਉੱਤੇ"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1| \\$1 ਲਕੀਰ| \\$1 ਲਕੀਰਾਂ}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1| \\$1 ਭਾਗ}}"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "ਵਾਪਸ-ਮੋੜੋ"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸੋਧਾਂ ਵਾਪਸ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "ਸੋਧਾਂ ਵਾਪਸ ਮੋੜੋ"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "ਸੋਧਾਂ ਵਾਪਸ ਕੀਤੀਆਂ ਗਇਆਂ।"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 ਸੋਧ|\\$1 ਸੋਧਾਂ}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "ਸੋਧਕ ਜਾਣਕਾਰੀ"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1| \\$1 ਬਾਈਟ ਜੋੜੀ | \\$1 ਬਾਈਟਾਂ ਜੋੜਿਆਂ}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 ਬਾਈਟ ਹਟਾਈ ਗਈ|\\$1 ਬਾਈਟਾਂ ਹਟਾਈਆਂ ਗਈਆਂ}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "ਸਾਰ ਦਾ ਸੋਧ ਕਰੋ"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "ਜਾਣ-ਪਛਾਣ"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "ਲਕੀਰ \\$1:"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "ਬੇਨਾਮ ਵਰਤੋਂਕਾਰਾਂ ਦਾ ਧੰਨਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਕਿਸੇ ਸੋਧਕ ਦੇ ਕੀਤੇ ਕੰਮ ਦੀ ਸ਼ਲਾਘਾ ਕਰਨ ਲਈ 'ਧੰਨਵਾਦ' ਭੇਜਣਾ ਇੱਕ ਸੌਖਾ ਤਰੀਕਾ ਏ। 'ਧੰਨਵਾਦ' ਭੇਜਣ ਲਈ ਤੁਹਾਨੂੰ ਦਾਖਲ ਹੋਣਾ ਲਾਜ਼ਮੀ ਏ।"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'ਧੰਨਵਾਦ' ਭੇਜਣ ਲਈ ਦਾਖਲ ਹੋਵੋ"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'ਧੰਨਵਾਦ' ਭੇਜੋ"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਕਿਸੇ ਸੋਧਕ ਦੇ ਕੀਤੇ ਕੰਮ ਦੀ ਸ਼ਲਾਘਾ ਕਰਨ ਲਈ 'ਧੰਨਵਾਦ' ਭੇਜਣਾ ਇੱਕ ਸੌਖਾ ਤਰੀਕਾ ਏ। ਭੇਜਿਆ ਹੋਇਆ 'ਧੰਨਵਾਦ' ਵਾਪਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਅਤੇ ਇਹ ਸਭ ਨੂੰ ਜਨਤਕ ਤੌਰ 'ਤੇ ਵਿਖਾਈ ਦਿੰਦਾ ਏ।"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "ਜਨਤਕ ਤੌਰ 'ਤੇ' ਧੰਨਵਾਦ 'ਭੇਜੋ"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "ਤੁਹਾਡਾ 'ਧੰਨਵਾਦ' \\$1 ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਸੀ"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "ਤੁਸੀਂ ਇਸ ਸੋਧ ਲਈ ਪਹਿਲਾਂ ਹੀ 'ਧੰਨਵਾਦ' ਭੇਜ ਚੁੱਕੇ ਹੋ"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "'ਧੰਨਵਾਦ' ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "ਪ੍ਰਸੰਗਿਕ ਲਕੀਰ, ਬਦਲਦੀ ਨਹੀਂ ਹੈ: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "ਇਹ ਇੱਥੇ ਦਿਖਾਏ ਗਏ ਲੇਖ ਦੇ ਸੋਧਾਂ ਵੱਲੋਂ ਕੀਤੀਆਂ ਗਈਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਖਤਮ ਕਰ ਦੇਵੇਗਾ । ਜਾਰੀ ਰੱਖਣ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਸੋਧ ਨੂੰ ਵਾਪਸ ਲੈਣ ਦਾ ਕਾਰਨ ਦੱਸੋ।"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "ਸੋਧ ਨੂੰ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਸੀ।"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1| \\$1 ਲਕੀਰ ਨਹੀਂ ਸੋਧੀ| \\$1 ਲਕੀਰਾਂ ਨਹੀਂ ਸੋਧੀਆਂ}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "ਮੀਨੂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਦੋ-ਵਾਰ ਥਪੇੜੋ"
+    },
+    {
+      "name": "dim_images",
+      "value": "ਚਿੱਤਰ ਚਾਨਣ ਘਟਾਓ"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "ਦਾਨ ਦੀ ਰਕਮ ਚੁਣਨ ਲਈ ਦੋ-ਵਾਰ ਨੱਪੋ।"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ ਨੂੰ \\$1 ਦਾਨ ਕਰਨ ਲਈ ਦੋ-ਵਾਰ ਨੱਪੋ।"
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ ਨੂੰ ਤੁਹਾਨੂੰ ਈਮੇਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣ ਲਈ ਦੋ-ਵਾਰ ਥਪੇੜੋ।"
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "ਦਾਨ ਕਰਨ ਲਈ ਖ਼ੁਦ ਰਕਮ ਦਾਖ਼ਲ ਕਰੋ।"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸੁਆਲ"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "ਦੇਣ ਦੇ ਹੋਰ ਤਰੀਕੇ"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "ਦਾਨ ਕਰਨ ਵਿੱਚ ਸਮੱਸਿਆਵਾਂ?"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "ਸਥਾਨਕ ਦਾਨ ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਓ"
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਰਕਮ ਚੁਣੋ (ਘੱਟੋ-ਘੱਟ \\$1 \\$2) ।"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "ਐਪਲ ਪੇ ਨਾਲ ਦਾਨ ਕਰੋ"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "ਐਪਲ ਪੇ ਨਾਲ ਦਾਨ ਕਰੋ ਜਾਂ ਭੁਗਤਾਨ ਦਾ ਕੋਈ ਹੋਰ ਤਰੀਕਾ ਚੁਣੋ।"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "ਭੁਗਤਾਨ ਕਰਨ ਦੇ ਹੋਰ ਤਰੀਕੇ"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "ਐਪਲ ਪੇ ਨਾਲ ਦਾਨ ਕਰਨਾ ਹੈ?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "ਤੁਹਾਡੀ ਉਦਾਰਤਾ ਸਾਡੇ ਲਈ ਬਹੁਤ ਮਾਇਨੇ ਰੱਖਦੀ ਹੈ।"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "ਤੁਹਾਡਾ ਧੰਨਵਾਦ!"
+    },
+    {
+      "name": "donate_title",
+      "value": "ਇੱਕ ਰਕਮ ਚੁਣੋ"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "ਲਿਖਤ ਦਿਖਾਉ"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "ਟੀਚੇ ਨਾਲ ਜੋੜੋ"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ਕੜੀ ਹਟਾਓ"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "ਕੜੀ ਸੋਧੋ"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "ਸੋਧੋ"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "ਲਿਖਤ ਜੋ ਤੁਸੀਂ ਚੁਣੀ ਹੈ ਲੱਭੀ ਨਹੀਂ ਜਾ ਸਕੀ"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "ਛੋਟੀਆਂ ਸੋਧਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ਇਹ ਇੱਕ ਛੋਟੀ ਸੋਧ ਹੈ"
+    },
+    {
+      "name": "edit_notices",
+      "value": "ਸੁਨੇਹੇ ਸੋਧੋ"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਸੋਧ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਪਡ਼੍ਹੋ"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "ਸਾਰੀ ਸਮੱਗਰੀ ਨੂੰ ਸੌਖੀ ਤਰਤੀਬ ਵਿੱਚ ਵਿਖਾਇਆ ਗਿਆ ਹੈ।"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "ਆਰਜ਼ੀ ਖਾਤਾ ਸੁਨੇਹਾ"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "ਵੈੱਬ ਝਲਕ ਦਿਖਾਓ"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "ਸੋਧ ਸੰਖੇਪ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "ਤਸਵੀਰ ਜੋੜੀ ਗਈ"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "ਤਸਵੀਰ ਅਤੇ ਸੁਰਖੀ ਜੋੜੀ ਗਈ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ਵਿਆਕਰਨ ਸਹੀ ਕੀਤੀ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "ਹਿੱਜੇ ਸਹੀ ਕੀਤੇ"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ਕੜੀਆਂ ਜੋੜੀਆਂ"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "ਤੁਸੀਂ ਲੇਖ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰਿਆ?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "ਛੋਟਾ ਵੇਰਵਾ ਜੋੜਿਆ ਗਿਆ"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "ਛੋਟਾ ਵੇਰਵਾ ਨਵਿਆਈਆ ਗਿਆ"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "ਆਪਣੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ਇਸ ਸਫ਼ੇ 'ਤੇ ਨਿਗਰਾਨੀ ਰੱਖੋ"
+    },
+    {
+      "name": "edited_article",
+      "value": "ਸੋਧਿਆ ਗਿਆ"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "ਤੁਹਾਡੀ ਆਵਾਜ਼ ਮਹੱਤਵਪੂਰਨ ਹੈ"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "ਭਰੋਸੇਯੋਗ ਸਰੋਤਾਂ ਦਾ ਹਵਾਲਾ ਦਿਓ"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "ਨਿਰਪੱਖ ਆਵਾਜ਼ ਵਿੱਚ ਲਿਖੋ"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "ਗਿਆਨ ਨੂੰ ਮੁਫ਼ਤ ਵੰਡੋ"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "ਤੁਹਾਡਾ ਸੋਧ ਛਾਪਿਆ ਗਿਆ ਸੀ।"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "ਸਰੋਤ ਸੋਧੋ"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ ਉੱਤੇ ਇਸ ਸੋਧ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "ਕੀ ਸੰਪਾਦਨ ਮੋਡ ਨੂੰ ਖਾਰਜ ਕਰਨਾ ਹੈ?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "ਖੋਜ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "ਖੋਜ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "ਕੋਈ ਮੇਲ ਨਹੀਂ ਮਿਲਿਆ"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "ਅਗਲਾ ਨਤੀਜਾ ਲੱਭੋ"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "ਪਿਛਲਾ ਲੱਭਿਆ ਨਤੀਜਾ"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "ਲੱਭੋ"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "ਮੋਟੇ ਅੱਖਰ"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "ਟੈਕਸਟ ਫਾਰਮੈਟਿੰਗ ਮੀਨੂ ਨੂੰ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "ਟਿੱਪਣੀ ਕਰੋ"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "ਸਿਰਨਾਵਾਂ"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "ਵਿੱਥ ਘਟਾਓ"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "ਵਿੱਥ ਵਧਾਓ"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "ਟੇਢੇ ਅੱਖਰ"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "ਕੜੀ"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "ਤਰਤੀਬ ਕੀਤੀ ਸੂਚੀ"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "ਬਗੈਰ ਤਰਤੀਬੀ ਸੂਚੀ"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "ਪੈਰਾ"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "ਹਵਾਲਾ"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "ਵਿਚਾਲੇ ਲਕੀਰ ਪਾਓ"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "ਉੱਪ-ਸਿਰਨਾਵਾਂ 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "ਉੱਪ-ਸਿਰਨਾਵਾਂ 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "ਉੱਪ-ਸਿਰਨਾਵਾਂ 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "ਉੱਪ-ਸਿਰਨਾਵਾਂ 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "ਪੈਰੀ-ਲਿਖਤ"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "ਉਤਲੀ ਲਿਖਤ"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "ਫਰਮੇ"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "ਟੈਕਸਟ ਫਾਰਮੈਟਿੰਗ"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "ਹੇਠਾਂ ਲਕੀਰ ਲਾਉ"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "ਤਬਦੀਲੀ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "ਬਦਲੋ"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "ਇਸ ਨਾਲ ਬਦਲੋ..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "ਸਾਰੇ ਬਦਲੋ"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "ਬਦਲੋ"
+    },
+    {
+      "name": "editor_title",
+      "value": "ਸੋਧਕ"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "ਵਿਕੀ ਅੱਖਰ/ਲਿਖਤ ਸੋਧਕ"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "ਸੋਧਾਂ ਵਿੱਚ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "ਕੋਈ ਦੇਖਣਯੋਗ ਤਬਦੀਲੀਆਂ ਨਹੀਂ ਕੀਤੀਆਂ ਗਈਆਂ"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "ਸੰਖੇਪ ਸੋਧ ਖਾਲੀ ਕਰੋ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "ਮੁਆਫ਼ ਕਰਨਾ, ਲੇਖ ਨਹੀਂ ਆ ਰਿਹਾ"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "ਤੁਸੀੰ ਹਾਲੇ ਵੀ ਸੰਭਾਲੇ ਸਫ਼ੇ ਪੜ੍ਹ ਸਕਦੇ ਹੋ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਇਤਿਹਾਸ ਨਹੀੰ"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ਕੋਈ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਮੌਜ਼ੂਦ ਨਹੀਂ ਹਨ।"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ਇਸ ਸੂਚੀ ਵਿੱਚ ਕੋਈ ਸਫ਼ਾ ਸੰਭਾਲਿਆ ਨਹੀਂ ਗਿਆ ਹੈ"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "ਸਫ਼ਿਆਂ ਨੂੰ ਬਾਅਦ ਵਿਚ ਵੇਖਣ ਲਾਇ ਸੰਭਾਲੋ, ਔਫਲਾਈਨ ਵੀ"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ਹਾਲੇ ਤੱਕ ਕੋੲੀ ਸਫ਼ਾ ਨਹੀ ਸੰਭਾਲੇ ਗਏ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਲੱਭੇ"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "ਇੱਕ ਅਣਪਛਾਤੀ ਗ਼ਲਤੀ ਵਾਪਰੀ।"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ਇੱਕ ਹੋਰ ਬੇਤਰਤੀਬ ਲੇਖ"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "ਕਿਓੰਕਿ ਤੁਸੀੰ ਇਹ ਪੜ੍ਹਿਆ ਸੀ"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "ਵਾਧੂ ਮੇਲ-ਖਾਂਦੇ ਲੇਖ"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "ਰੀਡਿੰਗ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "ਫੀਚਰ ਲੇਖ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ਵਿਕੀਪੀਡੀਆ 'ਤੇ ਰੋਜ਼ਾਨਾ ਵਿਸ਼ੇਸ਼ ਲੇਖ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ਬੰਦ ਕਰੋ।"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ਸਭ ਤੇ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ਚਾਲੂ ਏ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "ਭਾਸ਼ਾ ਵਿਸ਼ੇਸ਼ ਨਹੀਂ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "ਸਾਰੇ \"\\$1\" ਪੱਤੇ ਲੁਕਾਓ"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "ਪੜ੍ਹਨ ਲਈ ਬੇਤਰਤੀਬ ਲੇਖ ਤਿਆਰ ਕਰੋ"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟਾਂ ਦਾ ਮੁੱਢਲਾ ਸਫ਼ਾ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ਵਿਕੀਪੀਡੀਆ 'ਤੇ ਅੱਜ"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ਸਭ ਤੋਂ ਵੱਧ ਪੜ੍ਹੇ ਗਏ ਲੇਖ"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ਚੋਟੀ ਦੇ ਪੜ੍ਹੇ ਜਾਣ ਵਾਲੇ"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 ਉੱਤੇ ਚੋਟੀ ਦੇ"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ਥਾਵਾਂ ਨੇੜੇ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ਥਾਂਵਾਂ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਤੇ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ਤੁਹਾਡੀ ਸਥਿਤੀ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ ਤੁਹਾਡਾ ਟਿਕਾਣਾ"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "ਦਿਨ ਦੀ ਤਸਵੀਰ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ ਤੋਂ"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ਬੇਤਰਤੀਬ ਲੇਖ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ਬੇਤਰਤੀਬੀ"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "ਜੋੜੋ"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "ਇੱਕ ਤਸਵੀਰ ਜੋੜੋ"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "ਕੀ ਐਪ-ਘਰ (app library) ਸਾਂਝਾ ਕਰਨਾ ਏ?"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "ਵਰਤੋਂਕਾਰ ਡਾਟਾ ਬਰਾਮਦ ਕਰੋ"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "ਵਿਸ਼ੇਸ਼ ਲੇਖ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ਪਛਾਣ-ਸ਼ਬਦ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "ਗ਼ਲਤ ਕੋਡ"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "ਈਮੇਲ ਕੋਡ"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ਈਮੇਲ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ਈਮੇਲ (ਚੋਣਵੀਂ)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ਨਵਾਂ ਪਾਰਸ਼ਬਦ ਮੁੜਕੇ ਪਾਓ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "ਪਛਾਣ-ਸ਼ਬਦ ਦੀ ਤਸਦੀਕ ਕਰੋ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "ਨਵਾਂ ਲੰਘ-ਸ਼ਬਦ ਪਾਓ"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ਨਵਾਂ ਲੰਘ-ਸ਼ਬਦ:"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ਪਾਰਸ਼ਬਦ ਮੁੜਕੇ ਪਾਓ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ਪਾਰਸ਼ਬਦ ਦੀ ਤਸਦੀਕ ਕਰੋ"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ਪਾਰਸ਼ਬਦ ਪਾਓ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ਲੰਘ-ਸ਼ਬਦ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "ਤਸਦੀਕ ਕੋਡ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ਵਰਤੋਂਕਾਰ ਨਾਂ ਦਾਖਲ ਕਰੋ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ਵਰਤੋਂਕਾਰ ਨਾਂ"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "ਸਾਰੇ"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "ਖੋਜ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "ਅਗਲਾ ਨਤੀਜਾ ਲੱਭੋ"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "ਪਿਛਲਾ ਨਤੀਜਾ ਲੱਭੋ"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ਲੱਭੋ ਅਤੇ ਬਦਲੋ"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ਲੱਭੋ ਅਤੇ ਬਦਲੋ ਨੂੰ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ਲੱਭੋ"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "ਮੁੜ-ਬਣਾਓ"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ਪਛਾਣ ਸ਼ਬਦ ਮੁੜ-ਕਾਇਮ ਕਰੋ"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ਜਾਂ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "ਕੀ ਤੁਸੀੰ ਪੱਕਾ ਆਪਣੀਆੰ ਸਾਰੀਆਂ ਹਾਲੀਆ ਚੀਜ਼ਾਂ ਮਿਟਾਉਣੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ਹਾੰਜੀ, ਸਾਰਾ ਕੁਝ ਮਿਟਾਉ"
+    },
+    {
+      "name": "history_title",
+      "value": "ਅਤੀਤ"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ਵਿਕੀਪੀਡੀਆ, ਪੜਚੋਲ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 ਵਾੰਗੂ ਹੋਰ"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਦੇ ਨੇੜੇ ਹੋਰ ਥਾਂਵਾਂ"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 ਦੇ ਨੇੜੇ ਹੋਰ"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "ਹੋਰ ਮੌਜੂਦਾ ਘਟਨਾਵਾਂ"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ਤਰਜੀਹਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ"
+    },
+    {
+      "name": "home_title",
+      "value": "ਵਿਚਰੋ"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ਨੇੜਲੇ ਲੇਖ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ਬੇਤਰਤੀਬ ਲੇਖ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਖੋਜੋ"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ਲਿਖਾਰੀ ਅਣਜਾਣ ਹੈ।"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "ਕੀ ਇਹ ਚਿੱਤਰ ਜੋੜਨਾ ਏ?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਆਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ।"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "ਇੱਕ ਸੁਝਾਅ ਵੇਖੋ"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "ਲਸੰਸਸ਼ੁਦਾ ਤਸਵੀਰਾਂ"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "ਸੁਝਾਏ ਗਏ ਸੋਧਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "ਲੇਖ ਵਿੱਚ ਇੱਕ ਚਿੱਤਰ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "ਤੁਹਾਡੇ ਜਵਾਬ ਭਵਿੱਖ ਦੇ ਸੁਝਾਵਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਦੇ ਹਨ।"
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "ਇੱਕ ਜਾਂ ਇੱਕ ਤੋਂ ਵੱਧ ਚੋਣਾਂ ਚੁਣੋ"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "ਚਿੱਤਰ ਢੁਕਵਾਂ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "ਫੈਸਲਾ ਕਰਨ ਲਈ ਲੋੜੀਂਦੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਏ"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "ਚਿੱਤਰ ਘੱਟ ਗੁਣਵੱਤਾ ਵਾਲਾ ਹੈ"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "ਮੈਂ ਇਸ ਵਿਸ਼ੇ ਨੂੰ ਨਹੀਂ ਜਾਣਦਾ/ਜਾਣਦੀ"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "ਹਵਾਲੇ ਕਰੋ"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "ਕਾਰਨ"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "ਤਸਵੀਰ ਜੋੜੋ"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "ਇਸ ਲੇਖ ਦੇ ਵਿਸ਼ੇ ਨੂੰ ਸਮਝਣ ਲਈ ਇਸ ਲੇਖ ਦੀ ਸਮੀਖਿਆ ਕਰੋ।"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "ਪਰਖੋ"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "ਤਸਵੀਰ ਅਤੇ ਇਸ ਨਾਲ ਜੁਡ਼ੀ ਜਾਣਕਾਰੀ ਦੀ ਜਾਂਚ ਕਰੋ"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "ਨਿਰੀਖਣ ਕਰੋ"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "ਫੈਸਲਾ ਕਰੋ ਕੀ ਤਸਵੀਰ ਪਾਠਕਾਂ ਨੂੰ ਇਸ ਵਿਸ਼ੇ ਨੂੰ ਬਿਹਤਰ ਢੰਗ ਨਾਲ ਸਮਝਣ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "ਫ਼ੈਸਲਾ ਕਰੋ"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "ਲੇਖ ਵੇਖੋ"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "ਨਹੀਂ"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "ਪਤਾ ਨਹੀਂ"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "ਹਾਂ"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "ਮੇਰੀ ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "ਸਰਵੇਖਣ ਲਵੋ"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "ਕੀ ਤੁਸੀਂ \"ਪਡ਼੍ਹਨ ਦੀਆਂ ਸੂਚੀਆਂ ਸਾਂਝੀਆਂ ਕਰੋ\" ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "ਸਾਂਝੀ ਪੜੀ ਸੂਚੀ ਨੂੰ ਦਰਾਮਦ ਕਰੋ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "ਖ਼ਬਰਾਂ 'ਚ"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "ਜੋੜੋ"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "ਕੜੀ ਜੋੜੋ"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "ਚਿੱਤਰ ਵੇਰਵੇ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "ਉਹਨਾਂ ਪਾਠਕਾਂ ਲਈ ਲਿਖਤ ਵੇਰਵਾ ਜੋ ਚਿੱਤਰ ਨਹੀਂ ਦੇਖ ਸਕਦੇ"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "ਇਸ ਚਿੱਤਰ ਦਾ ਵੇਰਵਾ ਦਿਓ"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "ਬਦਲਵੀਂ ਲਿਖਤ"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ਇਹ ਚਿੱਤਰ ਦਾ ਲੇਖ ਨਾਲ ਕਿਵੇਂ ਸਬੰਧ ਹੈ?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "ਸੁਰਖੀ"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "ਗੱਭੇ"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ਖੱਬੇ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ਕੋਈ ਨਹੀਂ"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ਸੱਜੇ"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ਤਸਵੀਰ ਦੀ ਥਾਂ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "ਹੋਰ ਜਾਣਕਾਰੀ"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "ਤਸਵੀਰ ਚੁਣੋ"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "ਆਪਣੇ ਮੁਤਾਬਕ"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "ਮੂਲ ਰੂਪ"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "ਉਚਾਈ"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "ਚੌੜਾਈ"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ਤਸਵੀਰ ਦਾ ਅਕਾਰ"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "ਚਿੱਤਰ ਦੇ ਦੁਆਲੇ ਅੱਖਰ ਲਪੇਟੋ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ਮੁਢਲੀ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ਚੌਕਾਠ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ਚੌਕਾਠ ਦੇ ਬਗੈਰ"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "ਨਮੂਨਾ-ਤਸਵੀਰ"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ਤਸਵੀਰ ਕਿਸਮ"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "ਮੀਡੀਆ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ਭਾਸ਼ਾਵਾਂ"
+    },
+    {
+      "name": "languages_title",
+      "value": "ਭਾਸ਼ਾ ਬਦਲੋ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਭਾਸ਼ਾਵਾਂ"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "ਦਾਖ਼ਲ ਹੋਏ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਵਾਪਸ ਵਾਖਲ ਹੋਵੋ"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "ਆਪਣਾ ਪਾਰਸ਼ਬਦ ਭੁੱਲ ਗਏ ਹੋ?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ"
+    },
+    {
+      "name": "login_no_account",
+      "value": "ਖਾਤਾ ਨਹੀਂ ਹੈ? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ਐਪ ਬਾਰੇ"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ਬਾਹਰ ਆਉ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "ਕੀ ਤੁਸੀੰ ਯਕੀਨੀ ਵਿਦਾਅ ਹੋਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 ਵਜੋਂ ਦਾਖ਼ਲ"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "ਪਰਦੇਦਾਰੀ ਅਤੇ ਸ਼ਰਤਾਂ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ਨੇੜੇ-ਤੇੜੇ"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "ਪਰਦਾ ਨੀਤੀ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਉ"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਜ਼ੀਰੋ ਬਾਬਤ ਆਮ ਸੁਆਲ"
+    },
+    {
+      "name": "main_page",
+      "value": "ਮੁੱਢਲਾ ਵਰਕਾ"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "{{PLURAL:\\$1|\\$1 ਬਾਈਟ|\\$1 ਬਾਈਟਸ}} ਜੋੜੇ ਗਏ"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "ਅੰਗਰੇਜ਼ੀ ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਸਭ ਤੋਂ ਵੱਧ ਪਡ਼੍ਹੇ ਜਾਣ ਵਾਲੇ ਲੇਖ"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ਭਾਸ਼ਾ ਜੋੜੋ"
+    },
+    {
+      "name": "more_menu",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "ਝਾਤ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1| \\$1 ਫੁੱਟ}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 ਕਿ.ਮੀ."
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 ਮੀਟਰ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ਮੀਲ"
+    },
+    {
+      "name": "new_password_title",
+      "value": "ਆਪਣਾ ਪਛਾਣ-ਸ਼ਬਦ ਬਣਾਓ"
+    },
+    {
+      "name": "next_action_title",
+      "value": "ਅੱਗੇ"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਜੰਤਰ ਤੇ ਇੱਕ ਈਮੇਲ ਖਾਤਾ ਸਥਾਪਤ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ਹਾਲੇ ਨਹੀਂ"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "ਚੇਤਾਵਨੀ"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ਪਾਸਵਰਡ ਬਦਲੋ"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ਐਪ ਵਿੱਚ"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ਵੈੱਬ 'ਤੇ"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਸੁਨੇਹੇ ਨਹੀਂ ਹਨ"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "ਸੂਚਨਾਵਾਂ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ਸਾਰੇ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "ਪੜ੍ਹੇ ਹੋਏ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "ਨਹੀਂ-ਪੜ੍ਹੇ"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "ਸਾਰੀਆਂ ਕਿਸਮਾਂ"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "ਲੇਖ"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 ਗੱਲਬਾਤ ਸਫ਼ਾ"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "ਫ਼ਰਕ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 ਦਾ ਵਰਤੋਂਕਾਰ ਵਰਕਾ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "ਵਿਕੀਡਾਟਾ ਚੀਜ਼"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "ਤੁਹਾਡਾ ਗੱਲਬਾਤ ਸਫ਼ਾ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ਪੂਰਾ ਹੋਇਆ"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "ਪ੍ਰੋਜੈਕਟ"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ਵਿਕੀਪੀਡੀਆ"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ਸਾਰੇ ਪੜ੍ਹੇ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "ਪੜ੍ਹਿਆ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "ਨਹੀਂ-ਪੜ੍ਹਿਆ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 ਸੁਨੇਹਾ|\\$1 ਸੁਨੇਹੇ}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "ਸੂਚਨਾਵਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "ਸੂਚਨਾਵਾਂ ਅਤੇ ਚੇਤਾਵਨੀਆਂ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "ਨਹੀਂ ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ਸਾਰੇ"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1| 1=1 ਪ੍ਰੋਜੈਕਟ ਵਿੱਚ| \\$1 ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|ਪ੍ਰੋਜੈਕਟ}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1| 1=1 ਕਿਸਮ | \\$1 ਕਿਸਮਾਂ}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "ਪੜ੍ਹਿਆ"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$3 ਵਿੱਚ \\$1 ਅਤੇ \\$2"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "ਨਹੀਂ-ਪੜ੍ਹਿਆ"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "ਮੀਲ ਪੱਥਰ ਦਾ ਸੋਧ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "ਨਵੀਂ ਈਮੇਲ"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "ਕਈ ਦਾਖ਼ਲ ਹੋਣ ਦਿਆਂ ਅਸਫਲ ਕੋਸ਼ਿਸ਼ਾਂ"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ਸਫ਼ਾ ਕੜੀ"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "ਸਫ਼ੇ ਦੀ ਸਮੀਖਿਆ ਕੀਤੀ ਗਈ"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "ਤਰਜਮੇ ਦਾ ਮੀਲ ਪੱਥਰ"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "ਵਰਤੋਕਾਰ ਅਧਿਕਾਰਾਂ ਵਿੱਚ ਤਬਦੀਲੀਆਂ"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ਜੀ ਆਇਆਂ ਨੂੰ!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "ਪੜ੍ਹਿਆ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "ਨਹੀਂ-ਪੜ੍ਹਿਆ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "ਸੂਚਨਾਵਾਂ"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ਜ਼ਿਕਰ"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "ਸੁਨੇਹਾ"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ਜੀ ਆਇਆ ਨੂੰ ਸੁਨੇਹਾ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "ਮੀਲ ਪੱਥਰ ਨੂੰ ਸੋਧੋ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "ਸੋਧਾਂ ਵਾਪਸ ਕੀਤੀਆਂ ਗਇਆਂ"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ਦਾਖਲ ਹੋਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ਾਂ"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "ਦਾਖ਼ਲ ਹੋਣਾ ਸਫ਼ਲ!"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "ਸਫ਼ਾ ਕੜੀ"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "ਸਫ਼ੇ ਦੀ ਸਮੀਖਿਆ"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ੇ ਦਾ ਜ਼ਿਕਰ"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "ਤਰਜਮੇ ਦਾ ਮੀਲ ਪੱਥਰ"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "ਵਰਤੋਕਾਰ ਅਧਿਕਾਰਾਂ ਵਿੱਚ ਤਬਦੀਲੀਆਂ"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ੇ ਦਾ ਸੁਨੇਹਾ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ਜੀ ਆਇਆਂ ਨੂੰ"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਨਵੀਂ ਗਤੀਵਿਧੀ"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2 'ਤੇ {{PLURAL:\\$1| \\$1 ਨਵਾਂ ਸੁਨੇਹਾ| \\$2 ਤੇ \\$1 ਨਵੇਂ ਸੁਨੇਹੇ}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1| ਨਵਾਂ ਸੁਨੇਹਾ|ਨਵੇਂ ਸੁਨੇਹੇ}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1| \\$1 ਇਤਿਹਾਸਕ ਘਟਨਾ| \\$1 ਇਤਿਹਾਸਕ ਘਟਨਾਵਾਂ}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ਇਸ ਦਿਨ ਦੀਆਂ ਹੋਰ ਇਤਿਹਾਸਕ ਘਟਨਾਵਾਂ"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "ਇਸ ਦਿਨ ਦੀਆਂ {{PLURAL:\\$1| \\$1 ਹੋਰ ਇਤਿਹਾਸਕ ਘਟਨਾ| \\$1 ਹੋਰ ਇਤਿਹਾਸਕ ਘਟਨਾਵਾਂ}}"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "ਕੋਈ ਡਾਟਾ ਮੌਜ਼ੂਦ ਨਹੀਂ ਏ"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$2 ਵਿਕੀਪੀਡੀਆ ਤੋਂ \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ਅੱਜ ਦੇ ਦਿਨ"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "ਬੋਟ"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "ਤੁਲਨਾ ਕਰਨ ਲਈ ਦੋ ਸੋਧਾਂ ਦੀ ਚੋਣ ਕਰਨ ਲਈ ਦੱਬੋ"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "ਤੁਲਨਾ ਕਰੋ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "ਛੋਟੀਆਂ ਸੋਧਾਂ"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "ਲਿਖਾਰੀ: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "ਟਿੱਪਣੀ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "ਦੁਹਰਾਅ ਦਾ ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "ਛੋਟੀ ਸੋਧ"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "({{PLURAL:\\$1|1 ਬਾਈਟ|\\$1 ਬਾਈਟਾਂ}}) ਜੋੜਿਆ"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "({{PLURAL:\\$1|1 ਬਾਈਟ|\\$1 ਬਾਈਟਾਂ}}) ਹਟਾਇਆ"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "ਸੋਧ \\$1 ਕੀਤੀ ਗਈ"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "ਸਿਰਫ਼ ਦੋ ਸੋਧਾਂ ਹੀ ਚੁਣੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2 ਤੋਂ ਬਾਅਦ {{PLURAL:\\$1|\\$1 ਸੋਧ|\\$1 ਸੋਧਾਂ}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "ਸਫ਼ੇ ਸੰਬੰਧੀ ਮੁੱਦੇ"
+    },
+    {
+      "name": "page_location",
+      "value": "ਨਕਸ਼ੇ ਤੇ ਵੇਖੋ"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ਤੁਹਾਡੇ ਕੋਲ਼ ਇਸ ਸਫ਼ੇ ਦੀ ਸੁਧਾਈ ਕਰਨ ਦੇ ਹੱਕ ਨਹੀਂ ਹਨ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ਇਹ ਸਫ਼ਾ ਸੁਰੱਖਿਅਤ ਹੈ"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ਮਿਲਦੇ-ਜੁਲਦੇ ਸਫ਼ੇ"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "ਸੋਧਾਂ ਦੀ ਤੁਲਨਾ ਕਰੋ"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "ਦਾਖਲ ਹੋਏ ਬਿਨਾਂ ਸੋਧ ਕਰੋ"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "ਤੁਸੀਂ ਦਾਖ਼ਲ ਨਹੀਂ ਹੋ"
+    },
+    {
+      "name": "pictured",
+      "value": "ਤਸਵੀਰ ਵਿੱਚ"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "ਸੰਭਾਲੀਆਂ ਖੋਜਾਂ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 ਲੇਖ"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "ਸੂਚੀ ਵਜੋਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "ਨਕਸ਼ੇ ਵਜੋਂ ਵਿਖਾਓ"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "ਹੋਰ ਲੇਖ ਵਿਖਾਓ"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "ਟਿਕਾਣਾ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਸੰਭਾਲਿਆਂ ਥਾਂਵਾਂ ਨਹੀਂ ਹਨ"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "ਸੰਭਾਲੇ ਲੇਖ"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "ਸਭ ਤੋਂ ਵੱਧ ਪੜ੍ਹੇ ਜਾਣ ਵਾਲੇ"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1| \\$1 ਲੇਖ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "ਸਭ ਤੋਂ ਵੱਧ ਪੜ੍ਹੇ ਗਏ ਲੇਖ"
+    },
+    {
+      "name": "places_list_title",
+      "value": "ਸੂਚੀ"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "ਟਿਕਾਣਾ ਚਾਲੂ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "places_map_title",
+      "value": "ਨਕਸ਼ਾ"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਲੇਖਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਵਿੱਚ ਵੀ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "ਥਾਵਾਂ ਲੱਭੋ"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ \\$1 ਸੀ?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ਹਾਲੀਆ ਖੋਜਾਂ"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "ਸਾਰੇ ਸੰਭਾਲੇ ਲੇਖ"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "ਸੁਝਾਇ ਗਇਆਂ ਖੋਜਾਂ"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ਇਸ ਖੇਤਰ ਵਿੱਚ ਨਤੀਜੇ"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ਨੇੜੇ-ਤੇੜੇ"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਟਿਕਾਣਾ"
+    },
+    {
+      "name": "places_title",
+      "value": "ਥਾਂਵਾਂ"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ਅਣਜਾਣ ਦੂਰੀ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 ਲਈ ਦਿਨ ਦੀ ਤਸਵੀਰ"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 ਲਈ ਦਿਨ ਦੀ ਤਸਵੀਰ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "ਦਿਨ ਦੀ ਤਸਵੀਰ"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ਇਸ ਐਪ ਨੂੰ ਚੰਗੇਰੀ ਬਣਾਉਣ ਵਾਸਤੇ ਵਿਕੀਮੀਡੀਆ ਨੂੰ ਤੁਹਾਡੇ ਇਸ ਐਪ ਨੂੰ ਵਰਤਣ ਦੇ ਤਰੀਕੇ ਬਾਬਤ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਉ।"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "ਨਿੱਜਤਾ ਨੀਤੀ"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "ਵਿਸ਼ੇਸ਼ਤਾ ਨਾਲ ਸਮੱਸਿਆ"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "ਪ੍ਰੋਫਾਈਲ"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਨਾਲ ਜੁੜੋ / ਦਾਖਲ ਹੋਵੋ"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "ਮੀਡੀਆਵਿਕੀ"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "ਵਿਕੀਕਿਤਾਬਾਂ"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "ਵਿਕੀਡਾਟਾ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਭਾਈਚਾਰਾ"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "ਵਿਕੀਖ਼ਬਰਾਂ"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "ਵਿਕੀਕਥਨ"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "ਵਿਕੀਸਰੋਤ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "ਵਿਕੀਜਾਤੀਆਂ"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "ਵਿਕੀਵਰਸਿਟੀ"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "ਵਿਕੀਸਫ਼ਰ"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "ਵਿਕਸ਼ਨਰੀ"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ਕੀ ਇਸ ਲੇਖ ਨੂੰ ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ \"\\$1\" ਸ਼ਾਮਲ ਕਰੋ?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "ਹਾਂ, ਉਹਨਾਂ ਨੂੰ ਮੇਰੀ ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "ਸੰਭਾਲੇ ਲੇਖ ਲੱਭੇ ਗਏ"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਬਣਾਓ"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "ਵੇਰਵਾ"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਦਾ ਨਾਂ"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "ਇੱਕ ਨਵੀਂ ਸੂਚੀ ਬਣਾਓ"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ ਮਿਟਾਈ ਗਈ"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਵਿੱਚ ਲੱਭੋ"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "ਨਹੀਂ, ਜੰਤਰ ਤੋਂ ਲੇਖਾਂ ਨੂੰ ਮਿਟਾਓ"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਦਾ ਨਾਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਵਰਤੋਂ ਵਿੱਚ ਹੈ"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "ਤੁਹਾਡੀ ਪਡ਼੍ਹਨ ਦੀਆਂ ਸੂਚੀਆਂ ਨੂੰ ਨਵਿਆਓਣ ਸਮੇਂ ਅਚਾਨਕ ਇੱਕ ਗਲਤੀ ਆਈ ਹੈ।"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ਹਾਂ, ਲੇਖਾਂ ਨੂੰ ਜੰਤਰ ਉੱਤੇ ਰੱਖੋ"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "ਕੀ ਸੰਭਾਲੇ ਲੇਖਾਂ ਨੂੰ ਜੰਤਰ ਉੱਤੇ ਰੱਖਣਾ ਹੈ?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "ਲੇਖਾਂ ਨੂੰ ਛਾਂਟੋ"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "ਆਪਣੇ ਸੰਭਾਲੇ ਲੇਖਾਂ ਨੂੰ ਸਮਕਾਲੀ ਕਰਨ ਲਈ ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "ਦਾਖ਼ਲ ਹੋਵੋ ਜਾਂ ਖ਼ਾਤਾ ਬਣਾਓ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "ਸੰਭਾਲੇ ਲੇਖਾਂ ਨੂੰ ਸਮਕਾਲੀ ਕਰਨ ਲਈ ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "ਆਪਣੇ ਸੰਭਾਲੇ ਲੇਖਾਂ ਨੂੰ ਸਮਕਾਲੀ ਕਰੋ?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_ [ਵਰਤੋਂਕਾਰ ਬਣਾਇਆ ਗਿਆ]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "ਚੋਣਵਾਂ ਛੋਟਾ ਵੇਰਵਾ"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ ਦਾ ਸਿਰਲੇਖ"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "ਸਮਕਾਲੀਕਰਨ ਅਯੋਗ ਹੈ"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰੋ"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "ਕੀ ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਦਾ ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰਨਾ ਹੈ?"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "ਲੇਖ \"\\$1\" ਵਿੱਚ ਜੋਡ਼ਿਆ ਗਿਆ"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "ਲੇਖ ਸਮਕਾਲੀ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "ਸਮਕਾਲੀ ਨਹੀਂ ਕੀਤਾ ਗਿਆ"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "ਲੇਖ ਦੀ ਹੱਦ ਪਾਰ ਹੋ ਗਈ, ਲੇਖ ਸਮਕਾਲੀ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "ਸੂਚੀ ਹੱਦ ਤੋਂ ਵੱਧ ਗਈ, ਲੇਖ ਸਮਕਾਲੀ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "ਆਪਣੀ ਜੰਤਰ ਉੱਤੇ ਕੁਝ ਥਾਂ ਖਾਲੀ ਕਰੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "ਕੁਝ ਲੇਖ ਸਮਕਾਲੀ ਨਹੀਂ ਕੀਤੇ ਗਏ, ਹੱਦ ਪਾਰ ਹੋ ਗਈ ਹੈ"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "ਤੁਹਾਡੀ ਸੂਚੀ '\\$1' ਦਾ ਨਾਂ ਬਦਲ ਕੇ '\\$2' ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1| \\$1 ਪੜ੍ਹਨ ਦੀ ਸੂਚੀ| \\$1 ਪੜ੍ਹਨ ਦੀ ਸੂਚੀਆਂ}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਲੇਖਾਂ ਲਈ ਮੂਲ ਸੂਚੀ"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "ਸੰਭਾਲਿਆ ਗਿਆ"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "ਮਿਟਾਓ {{PLURAL:\\$1| ਸੂਚੀ|ਸੂਚੀਆਂ}}?"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "ਸੂਚੀ ਸਮਕਾਲੀ ਨਹੀਂ ਕੀਤੀ ਗਈ, ਹੱਦ ਪਾਰ ਹੋ ਗਈ ਹੈ"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "ਸੰਭਾਲੇ ਲੇਖਾਂ ਨੂੰ ਛਾਂਟੋ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "ਕਾਲਾ ਥੀਮ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ਗੂੜ੍ਹਾ ਥੀਮ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ਹਲਕਾ ਥੀਮ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "ਵਾਕ-ਵਿਉਂਤ ਉਜਾਗਰ ਕਰੋ"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "ਵਾਕ-ਵਿਉਂਤ ਉਜਾਗਰ ਕਰੋ"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "ਹਵਾਲਾ ਭਾਗ ਵਿੱਚ ਜਾਓ"
+    },
+    {
+      "name": "reference_title",
+      "value": "ਹਵਾਲਾ \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1| 0=ਅੱਜ|1=ਕੱਲ੍ਹ| \\$1 ਦਿਨ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 ਘੰਟਾ"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=ਹਾਲ ਹੀ|\\$1 ਘੰਟਾ ਪਹਿਲਾਂ|\\$1 ਘੰਟੇ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 ਘੰਟੇ ਪਹਿਲਾਂ"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=ਹਾਲ ਹੀ|\\$1 ਘੰਟਾ ਪਹਿਲਾਂ|\\$1 ਘੰਟੇ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=ਹੁਣ |\\$1 ਮਿੰਟ ਪਹਿਲਾਂ| \\$1 ਮਿੰਟ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 ਮਿੰਟ"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=ਹੁਣੇ |\\$1 ਮਿੰਟ ਪਹਿਲਾਂ| \\$1 ਮਿੰਟ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 ਮਿੰਟ ਪਹਿਲਾਂ"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=ਇਸ ਮਹੀਨੇ|1=ਪਿਛਲੇ ਮਹੀਨਾ| \\$1 ਮਹੀਨੇ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 ਸਕਿੰਟ"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 ਸਕਿੰਟ ਪਹਿਲਾਂ"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1| 0=ਇਸ ਸਾਲ|1=ਪਿਛਲੇ ਸਾਲ| \\$1 ਸਾਲ ਪਹਿਲਾਂ}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "ਵਾਪਸੀ"
+    },
+    {
+      "name": "return_to_article",
+      "value": "ਲੇਖ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "ਸੋਧਾਂ ਵਾਪਸ ਕੀਤਿਆਂ"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "ਸਾਰੇ ਲੇਖ"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "ਇਸ ਸੂਚੀ ਨੂੰ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "ਇਸ ਸਾਂਭੇ ਹੋਏ ਸਾਫ਼ ਲਈ ਤਸਵੀਰਾਂ ਉਤਾਰੀਆਂ ਨਹੀਂ ਜਾ ਸਕੀਆਂ।"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "ਲੇਖ ਉਤਾਰੇ ਦਾ ਕੰਮ ਚੱਲ ਰਿਹਾ ਹੈ..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "ਪੜ੍ਹਨਵਾਲੀ ਸੂਚੀਆਂ ਲੱਭੋ"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "ਪੜ੍ਹਣ ਦੀ ਸੂਚੀਆਂ"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "ਸੰਭਾਲੇ ਲੇਖਾਂ ਦੀ ਖੋਜ ਕਰੋ"
+    },
+    {
+      "name": "saved_title",
+      "value": "ਸੰਭਾਲਿਆ"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ਵਿਕੀਪੀਡੀਆ ’ਤੇ ਖੋਜੋ"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ਵਿਕੀਪੀਡੀਆ ’ਤੇ ਭਾਲ਼ੋ"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ਸਾਰੀਆਂ ਹਾਲੀਆ ਖੋਜਾਂ ਮਿਟਾਓ?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ਇਸ ਕਾਰਜ ਨੂੰ ਰੱਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ਸਾਰੇ ਮਿਟਾਓ"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ਹਾਲੇ ਤੱਕ ਕੋਈ ਤਾਜ਼ਾ ਖੋਜ ਨਹੀਂ"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ਹਾਲੀਆ ਖੋਜ਼ਾਂ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "ਤੋਂ ਮੋੜਿਆ ਗਿਆ: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "ਖੋਜ"
+    },
+    {
+      "name": "settings_account",
+      "value": "ਖਾਤਾ"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ਐਪ ਥੀਮ"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "ਕੈਸ਼ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "ਕੀ ਕੈਸ਼ ਡਾਟਾ ਸਾਫ਼ ਕਰਨਾ ਹੈ?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "ਕੈਸ਼ ਸਾਫ਼ ਕਰੋ"
+    },
+    {
+      "name": "settings_donate",
+      "value": "ਦਾਨ ਕਰੋ"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "ਮਦਦ ਅਤੇ ਸੁਝਾਅ"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "ਖੋਜ ਵਿੱਚ ਭਾਸ਼ਾਵਾੰ ਵਿਖਾਓ"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ਮੇਰੀਆੰ ਭਾਸ਼ਾਵਾੰ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "ਪੁਸ਼ ਸੂਚਨਾਵਾਂ"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "settings_off",
+      "value": "ਬੰਦ ਹੈ"
+    },
+    {
+      "name": "settings_on",
+      "value": "ਚਾਲੂ ਏ"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ਮੁੱਢਲੀ"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ਇਸ ਸੂਚੀ ਵਿੱਚ ਪਹਿਲੀ ਭਾਸ਼ਾ ਐਪ ਲਈ ਮੁੱਢਲੀ ਭਾਸ਼ਾ ਵਜੋਂ ਵਰਤੀ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "ਸੰਭਾਲੇ ਲੇਖ ਅਤੇ ਸੂਚੀਆਂ ਨੂੰ ਸਮਕਾਲੀ ਕਰੋ"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "ਸੰਭਾਲੀ ਗਈ ਪਡ਼੍ਹਨ ਦੀ ਸੂਚੀ ਵਿਖਾਓ"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "ਲੇਖ ਦਾ ਭੰਡਾਰ ਅਤੇ ਸਮਕਾਲੀਕਰਨ"
+    },
+    {
+      "name": "settings_title",
+      "value": "ਮੁਰੰਮਤਾਂ"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਐਪ ਨਾਲ ਬਣਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ \"\\$1\":"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$2” ਤੋਂ “\\$1”: \\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "ਦਿਸ਼ਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਵੱਲੋਂ"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "ਨਕਸ਼ੇ 'ਚ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "ਹਾਲ ਹੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "ਸਿਰਲੇਖ"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "ਸੁਝਾਏ ਗਏ ਸੋਧ"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "ਇੱਕ ਜਾਂ ਇੱਕ ਤੋਂ ਵੱਧ ਚੋਣਾਂ ਚੁਣੋ"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "ਹੋਰ"
+    },
+    {
+      "name": "survey_submit",
+      "value": "ਹਵਾਲੇ ਕਰੋ"
+    },
+    {
+      "name": "survey_title",
+      "value": "ਕਾਰਨ"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "ਸਮੱਗਰੀ ਸਾਰਣੀ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ਬੰਦ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "ਸਮੱਗਰੀ ਸਾਰਣੀ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "ਸਮੱਗਰੀ"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "ਸਮੱਗਰੀ ਦੀ ਸਾਰਣੀ ਨੂੰ ਲੁਕਾਓ"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "ਟੈਬ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "ਟੈਬ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1| \\$1 ਸਰਗਰਮ ਵਰਤੋਂਕਾਰ}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "ਵਿਸ਼ਾ ਜੋੜੋ"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "ਪੁਰਾਲੇਖ"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ਿਆਂ ਬਾਰੇ"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "ਭਾਸ਼ਾ ਬਦਲੋ"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "ਤੰਦੋਤਾਣੇਆਂ ਨੂੰ ਢਾਓ"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "ਪੜ੍ਹਿਆ"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "ਨਹੀਂ-ਪੜ੍ਹਿਆ"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "ਅਣਜਾਣ ਗ਼ਲਤੀ ਆਈ ਹੈ"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ਾ ਲੱਦਣ ਵਿੱਚ ਨਾਕਾਮ"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "ਤੰਦੋਤਾਣੇਆਂ ਨੂੰ ਫੈਲਾਓ"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "ਸਾਰੇ ਤੰਦੋਤਾਣੇਆਂ ਨੂੰ ਖੋਲ੍ਹੋ"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "ਯਾਦ ਰੱਖੋ, ਅਸੀਂ ਸਾਰੇ ਇੱਥੇ ਮਨੁੱਖ ਹਾਂ।"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "ਕ੍ਰਿਪਾ ਕਰ ਕੇ ਦਿਆਲੂ ਬਣੋ।"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "ਹੋਰ ਗੱਲਬਾਤ ਸਫ਼ਾ ਚੋਣਾਂ"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "ਸਫ਼ਾ ਜਾਣਕਾਰੀ"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "ਪੱਕੀ ਕੜੀਆਂ"
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "ਤੁਹਾਡੀ ਟਿੱਪਣੀ ਛਾਪਣ ਵਿੱਚ ਅਸਮਰੱਥ।"
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "ਨਵਾਂ ਵਿਸ਼ਾ ਛਾਪਣ ਵਿੱਚ ਅਸਮਰੱਥ।"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "ਵੈੱਬ 'ਤੇ ਪਡ਼੍ਹੋ"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "ਇੱਥੇ ਕੀ ਆ ਕੇ ਜੁੜਦਾ ਹੈ"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1| \\$1 ਜਵਾਬ}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "ਜੁਆਬ ਦਿਉ"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1 ਨੂੰ ਜਵਾਬ ਦਿਓ"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "ਜਵਾਬ ਦੀ ਡੂੰਘਾਈ: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1 ਨੂੰ ਜਵਾਬ ਦਿਓ"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "ਦੁਹਰਾਅ ਦਾ ਇਤਿਹਾਸ"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "ਜਵਾਬ ਦਿੱਖ ਬੰਦ ਕਰੋ"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ਾ ਸਾਂਝਾ ਕਰੋ"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "ਗਾਹਕ ਬਣੋ"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "ਤੁਹਾਨੂੰ ਇਸ ਵਿਸ਼ੇ ਵਿੱਚ ਨਵੀਆਂ ਟਿੱਪਣੀਆਂ ਬਾਰੇ ਸੂਚਨਾਵਾਂ ਮਿਲਣਗੀਆਂ।"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "ਤੁਸੀਂ ਗਾਹਕੀ ਲਈ ਹੈ!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "ਵਿਸ਼ੇ ਦੀ ਗਾਹਕੀ ਲੈਣ ਵਿੱਚ ਅਸਫਲ, ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "ਲੇਖ ਗੱਲਬਾਤ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "ਵਰਤੋਂਕਾਰ ਗੱਲਬਾਤ"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "ਗਾਹਕੀ ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "ਤੁਸੀਂ ਗਾਹਕੀ ਰੱਦ ਕਰ ਦਿੱਤੀ ਹੈ।"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "ਵਿਸ਼ੇ ਦੀ ਗਾਹਕੀ ਰੱਦ ਕਰਨ ਵਿੱਚ ਅਸਫਲ, ਕਿਰਪਾ ਕਰਕੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "ਵਰਤੋਂਕਾਰ ਗੱਲਬਾਤ ਸਫ਼ਿਆਂ ਬਾਰੇ"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "ਯੋਗਦਾਨ"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "ਕੋਈ ਪੁਰਾਲੇਖ ਕੀਤੇ ਸਫ਼ੇ ਨਹੀਂ ਮਿਲੇ।"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "ਪੁਰਾਲੇਖ"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "ਹੋਰ ਪੜ੍ਹੋ"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "ਤੁਹਾਡੀ ਟਿੱਪਣੀ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ ਸੀ"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "ਸੋਧਣਾ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "ਸਰੋਤ ਸੋਧੋ"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "ਇੱਕ ਨਵਾਂ ਵਿਸ਼ਾ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "ਗੱਲਬਾਤ ਇੱਥੇ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1 ਨਾਲ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਨਵੇਂ ਜਵਾਬ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "ਤੁਹਾਡਾ ਵਿਸ਼ਾ ਜੋਡ਼ਿਆ ਗਿਆ ਸੀ"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "ਵੇਰਵਾ"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "ਵਿਸ਼ੇ ਦਾ ਵੇਰਵਾ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "ਜਵਾਬ ਰੱਦ ਕਰੋ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "ਵਿਸ਼ਾ ਛੱਡੋ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਨਵੇਂ ਜਵਾਬ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "ਵਿਸ਼ਾ"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "ਵਿਸ਼ੇ ਦਾ ਸਿਰਲੇਖ"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਦਿਆਲੂ ਬਣੋ, ਅਸੀਂ ਸਾਰੇ ਇੱਥੇ ਮਨੁੱਖ ਹਾਂ।"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "ਗੱਲ-ਬਾਤ ਸਫ਼ੇ"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "ਵਰਤੋਂਕਾਰ ਸਮੂਹ"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "ਚਿੱਠੇ"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "ਗੱਲ-ਬਾਤ"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ਕਾਲਾ"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "ਗੂੜ੍ਹਾ"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "ਮੂਲ ਰੂਪ"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "ਚਾਨਣ"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "ਲਾਲ-ਭੂਰਾ ਰੰਗ"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "ਜਾਣੋ ਕਿ ਵਿਕੀਪੀਡੀਆ 'ਤੇ ਅੱਜ ਦੁਨੀਆਂ ਕੀ ਪੜ੍ਹ ਰਹੀ ਹੈ।"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 ਪਡ਼੍ਹਨ ਵਾਲੇ"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "ਸਭ ਤੋਂ ਵੱਧ ਪਡ਼੍ਹਿਆ"
+    },
+    {
+      "name": "try_now_title",
+      "value": "ਹੁਣੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "ਸਿਖਲਾਈ"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "ਦਾਖਲ ਹੋਣਾ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "ਦਾਖਲ ਹੋਣਾ ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "ਕਿਰਪਾ ਕਰਕੇ ਦੋ-ਪੱਖੀ ਤਸਦੀਕ ਕੋਡ ਦਰਜ ਕਰੋ"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋਵੋ"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "ਤਸਦੀਕ ਕੋਡ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "ਗੱਲਬਾਤ ਸਫ਼ਾ ਲੱਦਣ ਵਿੱਚ ਨਾਕਾਮ"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "ਅਣਜਾਣ"
+    },
+    {
+      "name": "unwatch",
+      "value": "ਨਿਗਰਾਨੀ ਹਟਾਓ"
+    },
+    {
+      "name": "user_title",
+      "value": "ਵਰਤੋਂਕਾਰ"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "ਜਾਰੀ ਰੱਖੋ"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "ਵਰਤੋਂਕਾਰ ਨਾਂ ਅਤੇ ਵਰਤੋਂਕਾਰ ਸਫ਼ਾ"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "ਖ਼ਬਰਦਾਰ"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "ਨਹੀਂ ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "ਆਪਣੀਆਂ ਤਰਜੀਹਾਂ ਦੀ ਸਮੀਖਿਆ ਕਰੋ"
+    },
+    {
+      "name": "watch",
+      "value": "ਨਿਗਰਾਨੀ ਰੱਖੋ"
+    },
+    {
+      "name": "watchlist",
+      "value": "ਨਿਗਰਾਨ-ਸੂਚੀ"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "1 ਮਹੀਨੇ ਲਈ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "1 ਹਫ਼ਤੇ ਲਈ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "1 ਸਾਲ ਲਈ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "ਤੁਹਾਡੀ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਪੱਕੇ ਤੌਰ 'ਤੇ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "6 ਮਹੀਨਿਆਂ ਲਈ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "3 ਮਹੀਨਿਆਂ ਲਈ ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "ਨਿਗਰਾਨ-ਸੂਚੀ ਵੇਖੋ"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|1 ਬਾਈਟ|\\$1 ਬਾਈਟਾਂ}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 ਮਹੀਨਾ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 ਹਫ਼ਤਾ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 ਸਾਲ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "ਪੱਕਾ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 ਮਹੀਨੇ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 ਮਹੀਨੇ"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "ਨਿਗਰਾਨ-ਸੂਚੀ ਦਾ ਸਮਾਂ ਮਿਆਦ ਚੁਣੋ"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "ਨਿਗਰਾਨ-ਸੂਚੀ ਦੀ ਮਿਆਦ ਪੁੱਗਣੀ"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "ਫ਼ਰਕ 'ਤੇ ਜਾਓ"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "ਸੋਧ ਦਾ ਸਾਰ"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "ਲੇਖ ਖੋਜੋ"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਨਿਗਰਾਨੀ ਸੂਚੀ ਚੀਜ਼ਾਂ ਨਹੀਂ ਹਨ"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "ਤੁਹਾਡੇ ਵੱਲੋਂ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੇ ਲੇਖ ਇੱਥੇ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "ਮਿਆਦ ਪੁੱਗਣੀ ਕਾਇਮ ਕਰੋ"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "ਛਾਨਣੀ"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "ਨਿਗਰਾਨੀ-ਸੂਚੀ ਦੀ ਗਤੀਵਿਧੀ"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "ਤਬਦੀਲੀਆਂ ਵੇਖੀਆਂ"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "ਅਣਦੇਖੀਆਂ ਤਬਦੀਲੀਆਂ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "ਸਵੈਚਲਿਤ ਯੋਗਦਾਨ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "ਬੋਟ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "ਮਨੁੱਖ (ਬੋਟ ਨਹੀਂ)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "ਤਾਜ਼ਾ ਦੁਹਰਾਅ"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "ਤਾਜ਼ਾ ਦੁਹਰਾਅ"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "ਤਾਜ਼ਾ ਦੁਹਰਾਅ ਨਹੀਂ"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "ਮਹੱਤਤਾ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "ਛੋਟੀਆਂ ਸੋਧਾਂ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "ਗੈਰ-ਮਾਮੂਲੀ ਸੋਧਾਂ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "ਤਬਦੀਲੀ ਦੀ ਕਿਸਮ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਤਬਦੀਲੀਆਂ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "ਸਫ਼ੇ ਦੀ ਸਿਰਜਣਾ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "ਸਫ਼ੇ ਦੀ ਸੋਧਾਂ"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "ਵਿਕੀਡਾਟਾ ਸੋਧਾਂ"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "ਭਾਸ਼ਾ ਜੋੜੋ"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "ਨਿਗਰਾਨੀ ਸੂਚੀ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਪੇਸ਼ ਕਰ ਰਿਹਾ ਹੈ"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "ਤੁਹਾਡੀ ਨਿਗਰਾਨੀ ਸੂਚੀ ਵਿੱਚੋਂ ਹਟਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "ਤੁਹਾਡਾ 'ਧੰਨਵਾਦ' \\$1 ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਸੀ"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "ਤਬਦੀਲੀਆਂ ਦੀ ਪੈੜ ਕਢੋ"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "ਨਵਿਆਓਣਾ ਵੇਖੋ"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "ਧੰਨਵਾਦ"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "ਵਰਤੋਂਕਾਰ ਦਾ ਯੋਗਦਾਨ"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "ਵਰਤੋਂਕਾਰ ਵਰਕਾ"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "ਵਰਤੋਂਕਾਰ ਗੱਲਬਾਤ ਸਫ਼ਾ"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "ਲੇਖਾਂ ਉਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "ਡਾਟਾ ਅਤੇ ਨਿੱਜਤਾ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "ਸਾਡੇ ਭਾਈਚਾਰੇ ਤੋਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ ਪਡ਼੍ਹਨ ਵਾਲੇ ਲੇਖ ਅਤੇ ਰੋਜ਼ਾਨਾ ਲੇਖ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "ਇਤਿਹਾਸ ਵਿੱਚ ਅੱਜ ਕੀ ਹੋਇਆ ਇਹ ਜਾਣਨ ਲਈ ਅਤੀਤ ਸਮੇਂ ਵਿੱਚ ਵਾਪਸ ਜਾਓ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ਅੱਜ ਦੇ ਦਿਨ"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "ਆਪਣੇ ਨੇੜੇ ਦੇ ਸਥਾਨਾਂ ਦੀ ਖੋਜ ਕਰੋ ਜਾਂ ਦੁਨੀਆ ਭਰ ਵਿੱਚ ਸਥਾਨਾਂ ਦੀ ਖੋਜ ਕਰੋ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "ਖੋਜ ਕਰਨ ਦੇ ਨਵੇਂ ਤਰੀਕੇ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "ਸਮਝ ਲਿਆ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਬਾਰੇ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "ਇਕ ਅਜ਼ਾਦ ਗਿਆਨਕੋਸ਼"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "ਕੋਈ ਹੋਰ ਭਾਸ਼ਾ ਪਾਓ"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "ਤਰਜੀਹੀ ਭਾਸ਼ਾਵਾਂ ਜੋੜੋ ਜਾਂ ਸੋਧੋ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "ਸਾਨੂੰ ਤੁਹਾਡੀ ਜੰਤਰ 'ਤੇ ਹੇਠ ਲਿਖੀਆਂ ਭਾਸ਼ਾਵਾਂ ਮਿਲੀਆਂ ਹਨ:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300 ਤੋਂ ਵੱਧ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਖੋਜ ਕਰੋ"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "ਸਾਡੀ ਨਿਜੱਤਾ ਨੀਤੀ ਅਤੇ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "ਪੜਚੋਲ ਕਰੋ ਕਿ ਇਤਿਹਾਸ ਵਿੱਚ ਇਸ ਦਿਨ ਕੀ ਹੋਇਆ।"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "ਵਿਕੀਪੀਡੀਆ, ਇੱਕ ਮੁਫਤ ਵਿਕੀ ਸਮੱਗਰੀ ਵਿਸ਼ਵਕੋਸ਼, ਔਨਲਾਈਨ ਹੁੰਦਾ ਹੈ।"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਦੀ ਝਾਤ ਲਿਆਂਦੀ ਜਾ ਰਹੀ ਹੈ..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ਇਹ ਕੜੀ ਇੱਕ ਬਾਹਰੀ ਵੈੱਬਸਾਈਟ ਵੱਲ ਲੈ ਜਾਂਦੀ ਹੈ: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "ਬਾਹਰੀ ਕੜੀ"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਵਿੱਚ ਇਸ ਨਾਂ ਨਾਲ ਕੋਈ ਲੇਖ ਨਹੀਂ ਹੈ।"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "ਕੋਈ ਅੰਦਰੂਨੀ ਕੜੀ ਨਹੀਂ ਮਿਲੀ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "ਇਹ ਕੜੀ '\\$1' ਵੱਲ ਲੈ ਕੇ ਜਾਂਦੀ ਹੈ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "ਕੜੀ ਦੀ ਝਲਕ"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "ਤਬਦੀਲੀਆਂ ਸਾਂਭੋ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "ਕੈਪਚਾ ਤਸਦੀਕੀ ਵਿੱਚ ਦੋਸ਼।"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "ਕੈਪਚਾ ਤਸਦੀਕੀ ਲੁੜੀਂਦੀ।"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ਵਿਕੀਲਿਖਤ ਦੀ ਚੜ੍ਹਾਈ ਦੇ ਨਤੀਜੇ ਦਾ ਪਤਾ ਨਹੀਂ ਲੱਗ ਰਿਹਾ।"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "ਸਾਂਭਿਆ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "ਸੋਧਾਂ ਦਾ ਸਿਹਰਾ ਤੁਹਾਡੇ ਆਈ.ਪੀ. ਪਤੇ ਸਿਰ ਦਿੱਤਾ ਜਾਵੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ \\$1 ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਕੋਲ਼ ਵਧੇਰੇ ਪਰਦੇਦਾਰੀ ਹੋਵੇਗੀ।"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "ਅਧਿਕਾਰਤ ਵਿਕੀਪੀਡੀਆ ਐਪ ਉੱਤੇ ਸੋਧਕਾਂ ਨੇ {{PLURAL:\\$1|\\$1 ਸੋਧ ਕੀਤਾ ਹੈ|\\$1 ਸੋਧਾਂ ਕੀਤੀਆਂ ਹਨ}}"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਨੂੰ {{PLURAL:\\$1|\\$1 ਵਾਰ}} ਪ੍ਰਤੀ ਮਿੰਟ ਸੋਧਿਆ ਗਿਆ ਸੀ"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "ਵਿਕੀਪੀਡੀਆ {{PLURAL:\\$1|\\$1 ਭਾਸ਼ਾ|\\$1 ਭਾਸ਼ਾਵਾਂ}} ਤੋਂ ਵੱਧ ਵਿੱਚ ਉਪਲਬਧ ਸੀ।"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "ਐਪ ਵਰਤੋਂਕਾਰਾਂ ਕੋਲ {{PLURAL:\\$1|\\$1 ਸੰਭਾਲੇ ਲੇਖ ਸੀ|\\$1 ਸੰਭਾਲੇ ਲੇਖ ਸਨ}}"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "ਐਪ ਵਰਤੋਂਕਾਰਾਂ ਨੇ {{PLURAL:\\$1|\\$1 ਵਾਰ}} ਵਿਕੀਪੀਡੀਆ ਲੇਖ ਦੇਖੇ।"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "ਸਮੀਖਿਆ ਵਿੱਚ ਸਾਲ"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "ਸ਼ੁੱਕਰਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "ਸੋਮਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "ਸ਼ਨੀਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "ਐਤਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "ਵੀਰਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "ਮੰਗਲਵਾਰ"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "ਬੁੱਧਵਾਰ"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "ਦਾਨ ਕਰੋ"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "ਹੁਣ ਦਾਨ ਕਰੋ"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "ਅਸੀਂ ਕਿਹਡ਼ੇ ਲੇਖ ਪਡ਼੍ਹੇ ਅਤੇ ਸੋਧੇ, ਇਸ ਬਾਰੇ  ਜਾਣਕਾਰੀ ਵੇਖੋ ਅਤੇ ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਸਾਡੇ ਸਾਲ ਦੀਆਂ ਮੁੱਖ ਗੱਲਾਂ ਸਾਂਝੀਆਂ ਕਰੋ।"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਐਪ ਉੱਤੇ ਤੁਹਾਡੇ ਵੱਲੋਂ ਪਡ਼੍ਹੇ ਗਏ ਲੇਖਾਂ ਬਾਰੇ ਸੂਝ ਵੇਖੋ, ਆਪਣਾ ਸਫ਼ਰ ਸਾਂਝਾਂ ਕਰੋ ਅਤੇ ਆਪਣੇ ਸਾਲ ਦੀਆਂ ਮੁੱਖ ਗੱਲਾਂ ਲੱਭੋ।"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "ਸਮੀਖਿਆ ਵਿੱਚ ਵਿਕੀਪੀਡੀਆ ਦੀ ਪਡ਼ਚੋਲ ਕਰੋ"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "ਸਮੀਖਿਆ ਵਿੱਚ ਆਪਣੇ ਵਿਕੀਪੀਡੀਆ ਸਾਲ ਦੀ ਪਡ਼ਚੋਲ ਕਰੋ"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "ਵਿਕੀਪੀਡੀਆ ਐਪ 'ਤੇ ਤੁਸੀਂ ਕਿਹੜੇ ਲੇਖ ਪੜ੍ਹਦੇ ਹੋ ਅਤੇ 2024 ਵਿੱਚ ਤੁਹਾਡੇ ਵੱਲੋ ਕੀਤੇ ਗਏ ਸੋਧਾ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵੇਖੋ। ਤੁਹਾਡਾ ਪੜ੍ਹਨ ਦਾ ਇਤਿਹਾਸ ਸੁਰੱਖਿਅਤ ਰੱਖਿਆ ਗਿਆ ਹੈ। ਪੜ੍ਹਨ ਦੀ ਜਾਣਕਾਰੀ ਦੀ ਗਣਨਾ ਤੁਹਾਡੇ ਜੰਤਰ 'ਤੇ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਭੰਡਾਰ ਕੀਤੇ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਗਣਨਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "ਖ਼ਤਮ"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "ਤੁਹਾਡੀ ਦਰਿਆਦਿਲੀ ਨੇ ਵਿਕੀਪੀਡੀਆ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਵਿੱਚ ਮਦਦ ਕੀਤੀ ਏ"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "ਦੁਨੀਆ ਭਰ ਦੇ ਪਾਠਕ ਤੁਹਾਡੇ ਯੋਗਦਾਨ ਦੀ ਸ਼ਲਾਘਾ ਕਰਦੇ ਹਨ। ਪਿਛਲੇ 2 ਮਹੀਨਿਆਂ ਵਿੱਚ, ਤੁਹਾਡੇ ਵੱਲੋਂ ਸੋਧੇ ਲੇਖਾਂ ਨੂੰ {{PLURAL:\\$1|\\$1|ਕੁੱਲ \\$1}} ਵਾਰ ਦੇਖਿਆ ਗਿਆ ਸੀ।। ਤੁਹਾਡੇ ਵਰਗੇ ਸੋਧਕਾਂ ਦਾ ਧੰਨਵਾਦ, ਵਿਕੀਪੀਡੀਆ ਦੁਨੀਆ ਲਈ ਇੱਕ ਨਿਰੰਤਰ ਸੁਧਾਰ, ਤੱਥ-ਅਧਾਰਤ ਅਤੇ ਭਰੋਸੇਯੋਗ ਗਿਆਨ ਸਰੋਤ ਹੈ।"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "ਤੁਹਾਡੇ ਸੋਧਾਂ ਨੂੰ ਹਾਲ ਹੀ ਵਿੱਚ {{PLURAL:\\$1|\\$1}} ਤੋਂ ਵੱਧ ਵਾਰ ਵੇਖਿਆ ਗਿਆ ਸੀ"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "ਤੁਸੀਂ {{PLURAL:\\$1|\\$1 ਵਾਰ}} ਸੋਧਿਆ ਹੈ"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "ਤੁਸੀਂ {{PLURAL:\\$1| \\$1 ਲੇਖ ਸਾੰਭਿਆ|\\$1 ਲੇਖ ਸਾਂਭੇ}}"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "ਇਹ ਮੇਰੀ ਵਿਕੀਪੀਡੀਆ ਸਾਲ ਦੀ ਸਮੀਖਿਆ ਹੈ। ਵਿਕੀਪੀਡੀਆ iOS ਐਪ ਨਾਲ ਬਣਾਇਆ ਗਿਆ"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "ਕੋਈ ਹੋਰ ਵਿਚਾਰ?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "ਨਿਰਪੱਖ"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "ਸੰਤੁਸ਼ਟ"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "ਸਮੀਖਿਆ ਵਿੱਚ ਵਿਕੀਪੀਡੀਆ ਸਾਲ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੋ। ਕੀ ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਤੋਂ ਖੁਸ਼ ਹੋ? ਅਗਲੇ ਸਾਲ ਕੀ ਵੇਖਣਾ ਚਾਹੋਗੇ?"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "ਸੰਤੁਸ਼ਟੀ ਸਰਵੇਖਣ"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "ਅਸੰਤੁਸ਼ਟ"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "ਬਹੁਤ ਸੰਤੁਸ਼ਟ"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "ਬਹੁਤ ਅਸੰਤੁਸ਼ਟ"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "ਕਿਓੰਕਿ ਤੁਸੀੰ ਇਹ ਪੜ੍ਹਿਆ ਸੀ"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ਸਭ ਤੋਂ ਵੱਧ ਪੜ੍ਹੇ ਗਏ ਲੇਖ"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ਇੱਕ ਹੋਰ ਬੇਤਰਤੀਬ ਲੇਖ"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s ਵਿਕੀਪੀਡੀਆ ਤੋਂ"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ ਤੋਂ"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ਦਿਖਾਉਣ ਲਈ ਕੋਈ ਇਤਿਹਾਸ ਨਹੀੰ"
+    },
+    {
+      "name": "editor_published",
+      "value": "ਤੁਹਾਡਾ ਸੋਧ ਛਾਪਿਆ ਗਿਆ ਸੀ।"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s ਲਈ ਲੇਖ ਦਾ ਵੇਰਵਾ"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "ਕੀ ਤੁਹਾਡਾ ਮਤਲਬ %s ਸੀ?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "ਵਿਕੀਪੀਡੀਆ HarmonyOS ਤੇ"
+    }
+  ]
+}

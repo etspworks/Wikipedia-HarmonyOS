@@ -1,0 +1,392 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ವಿಕಿಪೀಡಿಯ"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "ಪೂರ್ಣ ಪಟ್ಟಿ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "ಪರವಾನಗಿ"
+    },
+    {
+      "name": "about_title",
+      "value": "ಕುರಿತು"
+    },
+    {
+      "name": "about_translators",
+      "value": "ಅನುವಾದಕರು"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "ಸ್ವಯಂಸೇವಕರಿಂದ \\$1 ಅಲ್ಲಿ ಅನುವಾದಿಸಲಾಯಿತು"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸೃಷ್ಟಿಸಿ"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ಲಾಗ್ ಇನ್."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "ನೀವು ಲಾಗ್-ಇನ್ ಆಗುತ್ತಿದ್ದೀರಿ..."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "ಉಳಿಸಲಾಗುತ್ತಿದೆ...."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ"
+    },
+    {
+      "name": "account_group_title",
+      "value": "ನಿಮ್ಮ ಖಾತೆ"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "ನಿಮ್ಮ ಚರ್ಚೆಪುಟ"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "ಚರ್ಚೆಪುಟ ಪ್ರಾಶಸ್ತ್ಯಗಳು"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ರದ್ದು ಮಾಡು"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ಭಾಷೆ ಬದಲಾಯಿಸಿ"
+    },
+    {
+      "name": "action_read",
+      "value": "ಓದು"
+    },
+    {
+      "name": "action_redo",
+      "value": "ಮತ್ತೆಮಾಡು"
+    },
+    {
+      "name": "action_remove",
+      "value": "ತೆಗೆ"
+    },
+    {
+      "name": "action_retry",
+      "value": "ಪುನಃ ಪ್ರಯತ್ನಿಸಿ"
+    },
+    {
+      "name": "action_save",
+      "value": "ಉಳಿಸಿ"
+    },
+    {
+      "name": "action_saved",
+      "value": "ಉಳಿಸಲಾಗಿದೆ"
+    },
+    {
+      "name": "action_share",
+      "value": "ಹಂಚು"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ಹಂಚು"
+    },
+    {
+      "name": "action_sort",
+      "value": "ವಿಂಗಡಿಸು"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "ಒಂದು ಮುಕ್ತ ವಿಶ್ವಕೋಶ"
+    },
+    {
+      "name": "article_delete",
+      "value": "ಅಳಿಸು"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ಭಾಷೆ ಹುಡುಕು"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ಭಾಷೆ ಆಯ್ದುಕೊಳ್ಳಿ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ಇತರೆ ಭಾಷೆಗಳು"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ನಿಮ್ಮ ಭಾಷೆಗಳು"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ಇನ್ನೂ ಓದಿ"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "ಉಲ್ಲೇಖ \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ಈ ಲೇಖನವನ್ನು ಉಳಿಸಲು ಬೇಕಾಗುವಷ್ಟು ಜಾಗವು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಇಲ್ಲ"
+    },
+    {
+      "name": "article_share",
+      "value": "ಹಂಚು"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ಹಿಂದಕ್ಕೆ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "ಹಿಂದಕ್ಕೆ ಹೋಗಲು ಒತ್ತಿ"
+    },
+    {
+      "name": "button_next",
+      "value": "ಮುಂದೆ"
+    },
+    {
+      "name": "button_ok",
+      "value": "ಸರಿ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ಪ್ರಕಟಿಸಿ"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "ದೋಷವನ್ನು ವರದಿ ಮಾಡಿ"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "ನಂತರಕ್ಕಾಗಿ ಉಳಿಸಿ"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "ನಂತರಕ್ಕಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ಮುಚ್ಚಿ"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "ಕುರಿತು"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ಉದಾಹರಣೆಗೆ:"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "ಇಂದ:"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ಗೆ:"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ತೋರಿಸು"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ಅಡಗಿಸು"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ಕೆಳಗೆ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ಮೇಲೆ"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "ಸಂಪಾದನೆಯ ಸಾರಾಂಶ"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "ಸಂಪಾದಿಸಿ"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ಇದು ಚುಟುಕಾದ ಬದಲಾವಣೆ"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "ಸಂಪಾದನೆಯ ಸಾರಾಂಶವನ್ನು ಸೇರಿಸಿ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ವ್ಯಾಕರಣ ತಿದ್ದಿದೆ"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "ನೀವು ಲೇಖನವನ್ನು ಹೇಗೆ ಉತ್ತಮಪಡಿಸಿದ್ದೀರಿ?"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ಈ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ತೋರಿಸಲು ಯಾವುದೇ ಇತಿಹಾಸವಿಲ್ಲ"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ಇ-ಅಂಚೆ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ಇ-ಅಂಚೆ (ಐಚ್ಛಿಕ)"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ಹೊಸ ಪ್ರವೇಶಪದ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ಪ್ರವೇಶಪದ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ಬಳಕೆದಾರರ ಹೆಸರು"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ಅಥವಾ"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ಹೌದು, ಎಲ್ಲವನ್ನೂ ಅಳಿಸು"
+    },
+    {
+      "name": "history_title",
+      "value": "ಇತಿಹಾಸ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 ವಿಕಿಪೀಡಿಯದಿಂದ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯದಿಂದ"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "ಸುದ್ದಿಯಲ್ಲಿ"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "ಸೇರ್ಪಡಿಸು"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "ಮಧ್ಯೆ"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ಎಡ"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ಬಲ"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ಚಿತ್ರದ ಗಾತ್ರ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ಮೂಲಭೂತ"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ಚಿತ್ರ ಮಾದರಿ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ಭಾಷೆಗಳು"
+    },
+    {
+      "name": "languages_title",
+      "value": "ಭಾಷೆ ಬದಲಾಯಿಸಿ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ವಿಕಿಪೀಡಿಯ ಭಾಷೆಗಳು"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ಲಾಗ್ ಇನ್"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ನಿರ್ಗಮಿಸು"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ಹತ್ತಿರದ"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ಬಳಕೆಯ ನಿಬಂಧನೆಗಳು"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "ಮುನ್ನೋಟ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ಈ ಪುಟವನ್ನು ಸಂರಕ್ಷಿಸಲಾಗಿದೆ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ವಿಕಿಪೀಡಿಯ ಹುಡುಕು"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿ"
+    },
+    {
+      "name": "search_title",
+      "value": "ಹುಡುಕಿ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ಮುಚ್ಚಿ"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "ಪ್ರಕಟಿಸಲಾಗುತ್ತಿದೆ…"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ತೋರಿಸಲು ಯಾವುದೇ ಇತಿಹಾಸವಿಲ್ಲ"
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licencija sadržaja"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Doprinositelji"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Korištene biblioteke"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Potpuni popis"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licencija"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Obožavamo softver otvorenog kôda \\$1"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repozitoriji"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Izvorni kôd dostupan je pod \\$1."
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Pošalji povratnu informaciju o aplikaciji"
+    },
+    {
+      "name": "about_title",
+      "value": "O aplikaciji"
+    },
+    {
+      "name": "about_translators",
+      "value": "Prevoditelji"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Zaklada Wikimedija"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ne vidite sliku? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Dobavljanje novog CAPTCHA kôda..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Zatražite račun."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Sigurnosna provjera pomoću servisa CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Stvorite račun"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Već imate račun? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Prijavite se."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Prijavljivanje..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Potrebno je unijeti suradničko ime, lozinku i potvrdu lozinke kako biste stvorili račun."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Zaporke se ne podudaraju."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Spremanje..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Stvorite novi račun"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Vaš račun"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Vaša stranica za razgovor"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Automatsko potpisivanje rasprava"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Dodaj u..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Dodaj na popis za čitanje"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Dodaj na popis"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Odustani"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Pronađi na stranici"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Nastavite uređivanje"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Promijenite jezik"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Premjesti u..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Premjesti na popis za čitanje"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Sljedeća izmjena"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Prethodna izmjena"
+    },
+    {
+      "name": "action_read",
+      "value": "Čitaj"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ponovi"
+    },
+    {
+      "name": "action_remove",
+      "value": "Ukloni"
+    },
+    {
+      "name": "action_retry",
+      "value": "Pokušaj ponovno"
+    },
+    {
+      "name": "action_save",
+      "value": "Spremi"
+    },
+    {
+      "name": "action_saved",
+      "value": "Spremljeno"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Članak je spremljen za kasnije"
+    },
+    {
+      "name": "action_share",
+      "value": "Podijeli"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Podijeli"
+    },
+    {
+      "name": "action_sort",
+      "value": "Poredaj"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Zahvali suradniku"
+    },
+    {
+      "name": "action_undo",
+      "value": "Vrati"
+    },
+    {
+      "name": "action_update",
+      "value": "Ažuriraj"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Odbaci"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedija, izvor, wiki, enciklopedija, info, znanje, istraživanje, informacije, istraži, učenje"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Slobodna enciklopedija"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Proširi tablice"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Teme za čitanje"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Postavke tablica"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opcije tema"
+    },
+    {
+      "name": "article_delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Članak je izbrisan|Članci su izbrisani}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Pronađi jezik"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Odaberite jezik"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Drugi jezici"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Vaši jezici"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Izvor \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Na uređaju nemate dovoljno prostora da biste mogli sačuvati ovaj članak"
+    },
+    {
+      "name": "article_share",
+      "value": "Podijeli"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Natrag"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Pritisnite za vraćanje"
+    },
+    {
+      "name": "button_next",
+      "value": "Sljedeće"
+    },
+    {
+      "name": "button_ok",
+      "value": "U redu"
+    },
+    {
+      "name": "button_publish",
+      "value": "Objavi"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Prijavi grešku"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Spremi za kasnije"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Spremljeno za kasnije"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Ukloni iz spremljenog"
+    },
+    {
+      "name": "button_skip",
+      "value": "Preskoči"
+    },
+    {
+      "name": "cancel",
+      "value": "Odustani"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Očisti"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zatvori"
+    },
+    {
+      "name": "compass_direction",
+      "value": "u \\$1 sati"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nema nedavno čitanih članaka"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Dodaj opis"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Uredi uvod"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Kratki su opisi najbolji"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Objavi opis"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Uredi opis"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "O Wikipodatcima"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Više informacija"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Opisi bi, ako je to ikako moguće, trebali stati u jedan redak i sastojati se od dviju do dvanaest riječi. Ne počinju velikim slovom osim ako je prva riječ vlastita imenica."
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "opis članka za članak o Mount Everestu"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "djelo Leonarda Da Vincija"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "najviša planina na Zemlji"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Na primjer:"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Vodič o pisanju opisa na Wikipodatcima"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Gotovo"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Upravo ste Wikipediju učinili boljom za sve"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Opis je objavljen!"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Budite kratki"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Opisi članaka"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Započinjanjem radnje izvršenja obećavam da neću zloupotrijebiti ovu mogućnost."
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Počnite uređivati"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Prethodna izmjena"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Usporedi izmjene"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Prikazana izmjena"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Usporedi izmjene"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Prikaži"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Sakrij"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "dolje"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "gore"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Redak \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Nije moguće zahvaliti anonimnim suradnicima"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Zahvalom na jednostavan način pokazujete da cijenite rad uređivača na Wikipediji. Morate biti prijavljeni da biste mogli zahvaliti."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Prijavite se da biste poslali zahvalu"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Pošalji zahvalu"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Zahvalili ste \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Već ste zahvalili na ovoj izmjeni"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Zahvale ne mogu biti otkazane"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Prikaži tekst"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Ukloni poveznicu"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Uredi poveznicu"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Uredi"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Ovo je manja izmjena"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Dodajte sažetak izmjene"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Popravljen pravopis"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Popravljen zatipak"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Dodane poveznice"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Kako ste unaprijedili članak?"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Prati ovu stranicu"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Vaš glas je važan"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Citirajte pouzdane izvore"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Oslobodite znanje"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Odaberite datoteku s Wikimedijinog Zajedničkog poslužitelja"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Oprostite, nije moguće učitati članak"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nema povijesti za prikaz"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Nema stranica spremljenih na ovaj popis"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Spremite stranice da ih pogledate kasnije, čak i kada ste izvan mreže"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Još nema spremljenih stranica"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nema rezultata"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Molimo Vas, pokušajte ponovno kasnije"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Dogodila se nepoznata pogreška"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Jer ste pročitali"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Dodatni povezani članci"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Nastavite čitati"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Izabrani članak"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "S Wikipedije"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Prilagodi"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kartica je sakrivena"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Kartica istraživanja"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Isključeno"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Uključeno"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Članci o trenutačnim događajima"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Povijesni događaji na današnji dan"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedijini članci o temama u Vašoj blizini"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Danas na Wikipediji"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Svi najčitaniji članci"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Najčitaniji članci"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Mjesta u blizini"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Mjesta"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Slika dana"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Sa Zajedničkog poslužitelja"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Slučajni članak"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "S Wikipedije"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Netočan CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Zaporke se ne podudaraju"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Neispravan kôd"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Suradničko ime nije dostupno"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-pošta"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-pošta (neobavezno)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ponovo unesite novu zaporku"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Potvrdite novu zaporku"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "unesite novu zaporku"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nova zaporka"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "ponovo unesite zaporku"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Potvrdite zaporku"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "unesite zaporku"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Zaporka"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Verifikacijski kôd"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "unesite suradničko ime"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Suradničko ime"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "ili"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Želite li zaista izbrisati sve nedavne stavke?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Da, izbriši sve"
+    },
+    {
+      "name": "history_title",
+      "value": "Povijest"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Upravljajte postavkama"
+    },
+    {
+      "name": "home_title",
+      "value": "Istraži"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Slučajni članak"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Nepoznat autor."
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "S Wikipedije"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "U vijestima"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Umetni"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Umetni poveznicu"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativni tekst"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centar"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Lijevo"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ništa"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Desno"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Pozicija slike"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Više informacija"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Odaberite sliku"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Prilagođeno"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Zadano"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Veličina slike"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Osnovno"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Jezici"
+    },
+    {
+      "name": "languages_title",
+      "value": "Odaberite jezik"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "U blizini"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Pravila privatnosti"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Ocijenite aplikaciju"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Uvjeti upotrebe"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Više"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Dodajte jezike"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Uključi ''push''-obavijesti"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Gotovo"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Nova poruka|Nove poruke}}"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Na današnji dan"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtar"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Spremljeni članci"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Zadržati spremljene članke na uređaju?"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Svi članci"
+    },
+    {
+      "name": "saved_title",
+      "value": "Spremljeno"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Očisti"
+    },
+    {
+      "name": "settings_account",
+      "value": "Račun"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedija je rezultat volonterske suradnje i sadrži više od 40 milijuna članaka na preko 300 jezika."
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Pretraživanje u više od 300 jezika"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Uređivanja će biti pripisana IP-adresi Vašega uređaja. Ako pritisnete \\$1, ostvarit ćete više privatnosti."
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Jer ste pročitali"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Svi najčitaniji članci"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Sa Zajedničkog poslužitelja"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nema povijesti za prikaz"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kartica je sakrivena"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

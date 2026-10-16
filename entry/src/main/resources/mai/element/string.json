@@ -1,0 +1,188 @@
+{
+  "string": [
+    {
+      "name": "about_contributors",
+      "value": "योगदानकर्ता"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "अधिकार"
+    },
+    {
+      "name": "about_title",
+      "value": "विवरण"
+    },
+    {
+      "name": "about_translators",
+      "value": "उल्था-केनहार सभ"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "विकिमेडिया फाउंडेशन"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "विकिपिडिया"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "नयाँ क्याप्चा प्राप्त।"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "प्रवेश करेत ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "आहाँ ईं खाता सिर्जना करबाक लेल प्रयोगकर्ता नाम, कुटशब्द, आर कुटशब्द पुष्टि प्रविष्टि करु।"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "कुटशब्द मेल नै भेल"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "आहाँ के सम्पादन सुरक्षित भ्यरहल अछि..."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "भाषा छनोट"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "भाषा चुनु"
+    },
+    {
+      "name": "button_next",
+      "value": "आगाँ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "व्याकरण ठिक करु"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "टाइपो ठिक करु"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "लिंक जोडू"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "हालके सब वस्तुसभ नस्टकरु?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "सभटाकेँ मेटाउ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "विकिपिडिया अनुप्रयोग बारे में"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "सम्प्रवेश"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "निष्क्रमण"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "गोपनीयता आर नियम"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "लगमे"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "गोपनीयताकऽ नियम"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "अनुप्रयोग दर"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "उपयोग कऽ शर्त सभ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "आर"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "शून्य विकिपिडिया पुछल प्रश्नसभ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "पूर्वावलोकन"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$१ किलो मीटर"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$१ मीटर"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ई पन्ना सम्पादन करई लेल आहाँ के अधिकार नै अछि"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ई पृष्ठ संरक्षित अछि।"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "विकिपिडिया खोजी"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "हालक खोजसभ मेटाउ?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ई कार्य पूर्ववत नै भ्यसकई यऽ!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "सभटाकेँ मेटाउ"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "हाल के खोजसभ ..."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "हमर भाषासभ"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "विषय-सूची"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "आहाँकें परिवर्तनसभ पूर्वावलोकन निकालइत ..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "केप्चा प्रमाणिकरणमे त्रुटि।"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "केप्चा प्रमाणिकरण चाही ।"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "आहाँ के सम्पादन सुरक्षित भ्यरहल अछि..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "उपयोग कऽ शर्त सभ"
+    }
+  ]
+}

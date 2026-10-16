@@ -1,0 +1,4164 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Notkunarleyfi efnis"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Ef ekki er annað tekið fram, er efnið gefið út með \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-Deilist-áfram notkunarleyfinu"
+    },
+    {
+      "name": "about_contributors",
+      "value": "framleggjendur"
+    },
+    {
+      "name": "about_libraries",
+      "value": "notuð söfn"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Fullur listi"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Leyfi"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Við styðjum opinn og frjálsan hugbúnað \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Notkunarleyfi staðakorts"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Staðir nota kort sem koma frá Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Skðaðu þetta til að sjá nánar um notkunarleyfi"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Gert af \\$1 með hjálp sjálfboðaliða eins og þér"
+    },
+    {
+      "name": "about_repositories",
+      "value": "söfn"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Upprunakóði er tiltækur með \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT notkunarleyfi"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Senda ábendingar um appið"
+    },
+    {
+      "name": "about_title",
+      "value": "Um"
+    },
+    {
+      "name": "about_translators",
+      "value": "þýðendur"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Þýtt af sjálfboðaaðilum á \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Geturðu ekki séð myndina? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Sæki nýja CAPTCHA-mynd..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Sæktu um aðgang."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA-öryggisathugun"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Stofnaðu þinn eigin aðgang"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Ert þú þegar með notandaaðgang? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Skráðu inn."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Skrái inn..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Það verður að setja inn notandanafn, lykilorð og staðfestingu á lykilorðinu til að stofna notandaaðgang."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Lykilorðin passa ekki saman."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Vistar..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Búa til nýjan aðgang"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Aðgangurinn þinn"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Þurrka út aðgang"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Spjallsíðan þín"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Undirrita sjálkrafa í umræðum"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Sjlfvirk undirskrift í umræðum notar undirskriftina sem skilgreind er undirritunarstillingunum"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Kjörstillingar fyrir spjallsíður"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Bæta við…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Bæta á leslista"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Bæta við lista"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Hætta við"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Henda breytingu"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Henda breytingum"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Finna á síðu"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Halda áfram að gera breytingar"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Skipta um tungumál"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Færa í…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Færa á leslista"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Næsta útgáfa"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Fyrri útgáfa"
+    },
+    {
+      "name": "action_read",
+      "value": "Lesa"
+    },
+    {
+      "name": "action_redo",
+      "value": "Endurtaka"
+    },
+    {
+      "name": "action_remove",
+      "value": "Fjarlægja"
+    },
+    {
+      "name": "action_retry",
+      "value": "Reyna aftur"
+    },
+    {
+      "name": "action_save",
+      "value": "Vista"
+    },
+    {
+      "name": "action_saved",
+      "value": "Vistað"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Vistað. Virkjaðu til að taka úr vistun."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Grein vistuð til síðari tíma"
+    },
+    {
+      "name": "action_share",
+      "value": "Deila"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Deila"
+    },
+    {
+      "name": "action_sort",
+      "value": "Raða"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Þakka notanda"
+    },
+    {
+      "name": "action_undo",
+      "value": "Afturkalla"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Taka úr vistun"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Grein er óvistuð"
+    },
+    {
+      "name": "action_update",
+      "value": "Uppfæra"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Bæta {{PLURAL:\\$1|\\$1 grein|\\$1 greinum}} á leslista"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Vísa frá"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, tilvísun, wiki, alfræði, upplýsingar, þekking, rannsókn, fróðleikur, kanna, uppgötva, læra"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "'Uppgötva'-flipi, sérsníðanlegur og einfaldur til aflestrar. Staðfærsla, bætt afköst og lagfærðir gallar."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Sæktu Wikipedia-forritið til að kanna staði í þínu næsta nágrenni, samstilla greinar til að lesa án nettengingar og til að sérsníða upplifun þína við lestur."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Frjálsa alfræðiritið"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Breyta stærð leturs í grein"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Þenja út töflur"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Láta allar töflur í öllum greinum vera sjálfgefið opnar, þar með taldar 'Staðreyndir strax', 'Tilvísanir', 'Minnispunktar' og 'Ytri tenglar'."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Minnka ógegnsæi mynda í dökkum og svörtum þemum"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Lestrarþemu"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Töflustillingar"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Dragðu til sleðann hér fyrir ofan til að breyta stærð textans í greininni. Notaðu stærðarbreytingar í stillingum kerfisins til að breyta stærð texta í öðrum hlutum forritsins."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Valkostir þema"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Um þessa grein"
+    },
+    {
+      "name": "article_delete",
+      "value": "Eyða"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|grein|greinum}} eytt"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Appinu tókst ekki að ná í uppfærða efnið í tíma. Endurlestu þessa síðu til að sjá breytingarnar þínar birtast."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Finna tungumál"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Velja tungumál"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Önnur tungumál"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Tungumálin þín"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Lesa meira"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Tilvísun \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Þú hefur ekki nægt pláss á tækinu þínu til að vista þessa grein"
+    },
+    {
+      "name": "article_share",
+      "value": "Deila"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Spjallsíða greinar"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Stýringar lestrarþemu"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Til baka"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Banka til að fara til baka"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Fara til baka"
+    },
+    {
+      "name": "button_next",
+      "value": "Áfram"
+    },
+    {
+      "name": "button_ok",
+      "value": "Í lagi"
+    },
+    {
+      "name": "button_publish",
+      "value": "Gefa út"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Gefa samt út"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Tilkynna um villu"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Vista til síðari tíma"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Vistað til síðari tíma brúks"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Fjarlægja úr vistuðu"
+    },
+    {
+      "name": "button_skip",
+      "value": "Sleppa"
+    },
+    {
+      "name": "cancel",
+      "value": "Hætta við"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði kínversku"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Hreinsa"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Loka"
+    },
+    {
+      "name": "compass_direction",
+      "value": "klukkan \\$1 á áttavita"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Halda áfram"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Kanna hvort Wikipedia sé með fleiri greinar til að lesa"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Engar nýlega lesnar greinar"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði tatarísku frá Krím"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Uppfæri..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Bæta við lýsingu"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Lýsing á grein fyrir \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Með því að breyta lýsingu á þessari grein, samþykkir þú  \\$1 og að þú gefir óafturkræft út framlög þín með \\$2 notkunarleyfi."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Breyta inngangi"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Breyta lýsingu á grein"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Stuttar lýsingar eru bestar"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Birta lýsingu"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Breyta lýsingu"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Reyndu að halda lýsingum stuttum til að hjálpa lesendum að skilja umfjöllunarefnið í fljótu bragði"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Aðeins sérnöfn ættu að byrja á hástöfum, einnig í byrjun setningar."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Lýsingar á greinum draga saman efni greinar í örfáum orðum til að hjálpa lesendum að skilja umfjöllunarefnið í fljótu bragði."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Um hugbúnaðinn"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Um Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Lýsingar eru geymdar og þeim viðhaldið á Wikidata, verkefnis á vegum Wikimedia Foundation sjálfseignarstofnunarinnar sem sér um frjálsan, ókeypis, margtyngdann, hópunninn gagnagrunn til stuðnings Wikipedia og öðrum slíkum verkefnum."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Nánari upplýsingar"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Lýsingar ættu helst að komast fyrir á einni línu, og vera frá tveimur til tólf orða langar. Þær eru ekki með hástöfum nema að fyrsta orðið sé sérheiti."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "lýsing á grein um Mónu Lísu"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "lýsing á grein um Everestfjall"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "málverk eftir Leonardo da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Hæsta fjall jarðar"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Til dæmis:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Ábendingar við að gera lýsingar"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Hjálp varðandi lýsingu á grein"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Leiðarvísir Wikidata fyrir hvernig eigi að skrifa lýsingar"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Búið"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Þú varst að gera Wikipedia betri fyrir alla"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Lýsing birt!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Helst ein lína, frá tveimur til tólf orða langt"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Vertu stuttorð(ur)"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Tekur saman efni greinar í örfáum orðum til að hjálpa lesendum að skilja umfjöllunarefnið í fljótu bragði"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Lýsingar greina"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Ef ég byrja, lofa ég að misnota ekki þennan eiginleika"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Byrja að breyta"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Fyrri breyting"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Bera saman útgáfur"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Birt breyting"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Bera saman útgáfur"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Sýna"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Fela"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Endurskoðun gerð"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Línur \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Málsgrein færð"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "niður"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "upp"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 lína|\\$1 línur}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 hluti|\\$1 hlutar}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Málsgrein færð \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Tókst ekki að ná í útgáfu"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Taka til baka"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Ertu viss um að þú viljir afturkalla breytingarnar?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Afturkalla breytingar"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Breytingar afturkallaðar."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|breyting|breytingar}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Upplýsingar um ritil"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 bæti bætt við|\\$1 bætum bætt við}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 bæti fjarlægt|\\$1 bæti fjarlægð}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Breytingarágrip"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Inngangur"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1 lína"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Ekki er hægt að þakka óskráðum notendum"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Þakkir' eru einföld leið til að sýna að vinna tiltekins notanda við Wikipedia er vel metin. Þú þarft að vera skráð/ur inn til að senda 'Þakkir'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Skráðu inn til að senda 'Þakkir'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Senda 'Þakkir'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Þakkir' eru einföld leið til að sýna að vinna tiltekins notanda við Wikipedia er vel metin. 'Þakkir' er ekki hægt að afturkalla og þær eru opinberar."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Senda opinberar 'Þakkir'"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Þakkarskilaboðin þín voru send til \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Þú ert þegar búin/n að senda þakkir fyrir þessa breytingu"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Þakkir er ekki hægt að afturkalla"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Yfirferðin var afturkölluð."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 lína óbreytt|\\$1 línur óbreyttar}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Ýttu tvisvar til að opna valmynd"
+    },
+    {
+      "name": "dim_images",
+      "value": "Dekkja myndir"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Ýttu tvisvar til að velja upphæð framlags."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Ýttu tvisvar til að gefa \\$1 til Wikimedia Foundation."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Þakka þér fyrir!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Veldu upphæð"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Birta texta"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Áfangastaður tengils"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Fjarlægja tengil"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Breyta tengli"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Breyta"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Þetta gæti verið af því að textinn sem þú valdir sé ekki breytanlegur (t.d. titill greinar eða upplýsingareitur) nú eða vegna lengdar textans sem var valinn."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Ekki tókst að staðsetja textann sem þú valdir"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Fræðast meira um minniháttar breytingar"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Þetta er minniháttar breyting"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Tilkynningar vegna breytinga"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Alltaf birta tilkynningar vegna breytinga"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Lestu þetta áður en þú byrjar að breyta"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Sýna forskoðun á vef"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Bættu við breytingayfirliti"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Lagaði málfræði"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Lagaði innsláttarvillu"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Viðbættir tenglar"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Hvernig bættir þú greinina?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Fræðast meira um vöktunarlista"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Vakta þessa síðu"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Verum áræðin en ekki fífldjörf í að uppfæra greinar. Ekki kvelja þig yfir mistökum; allar fyrri útgáfur hverrar síðu eru geymdar, þannig að einfalt er að leiðrétta hlutina."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Rödd þín er mikilvæg"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Allt efni verður að vera hægt að sannreyna. Þegar nýjum upplýsingum er bætt í grein, þurfa ritstjórar að setja inn tilvísanir í áreiðanlegar heimildir sem styðja beint við framlagið."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Vísaðu í áreiðanlegar heimildir"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Við leitumst eftir fremsta megni við að greinar séu skrifaðar í hlutlausum tóni. Við ritun ætti að gefa breiða og upplýsandi mynd af hlutunum eins og þeir eru samkvæmt áreiðanlegum heimildum."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Skrifaðu í hlutlausum tón"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Til þess að gefa öllum aðgang að þeirri þekkingu sem fyrirfinnst í heiminum, þurfum við að fá þig til að taka þátt í þessu með okkur, með því að lesa, skrifa, breyta og laga þau efni sem þú hefur virkilegan áhuga á."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Slepptu þekkingunni lausri"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Breytingin þín var gefin út."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Breyta frumkóða"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Ertu viss um að þú viljir hætta í breytingarham án þess að birta fyrst ?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Ertu viss um að þú viljir henda þessari breytingu?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Fara út úr breytingaham?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Hreinsa leit"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Loka leit"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Engin samsvörun fannst"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Finna"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Feitletrað"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Loka valmynd fyrir snið texta"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Athugasemd"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Fyrirsögn"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Minnka inndrátt"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Auka inndrátt"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Skáletrað"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Tengill"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Raðaður listi"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Óraðaður listi"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Málsgrein"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Tilvísun"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Yfirstrikað"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Undirfyrirsögn 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Undirfyrirsögn 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Undirfyrirsögn 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Undirfyrirsögn 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Niðurskrift"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Yfirskrift"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Sniðmát"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Sníðing texta"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Undirstrikað"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Enginn munur á útgáfunum"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Engar sjáanlegar breytingar voru gerðar"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Veldu skrá frá Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Því miður, gat ekki hlaðið greininni inn"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Þú getur lesið vistaðar síður á meðan"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Þú getur séð þær greinar sem mælt er með fyrir þig þegar þú ert með virka nettengingu"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Haltu utan um það sem þú hefur verið að lesa hérna"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Enginn breytingaferill sem hægt er að birta"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Þessi grein hefur enn ekki verið skrifuð á neinum öðrum tungumálum"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Engin önnur tungumál tiltæk"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Útbúðu lista yfir staði til að heimsækja, eftirlætisumræðuefni og margt fleira"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Skipuleggðu vistaðar greinar með leslistum"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Vistaðu síður á þennan lista til að sjá þær birtast hér"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Engar síður vistaðar á þennan lista"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Vista síður til að skoða þær síðar, jafnvel án nettengingar"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Engar síður vistaðar ennþá"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Því miður, gat ekki hlaðið inn niðurstöðum"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Engin skilaboð hafa ennþá verið send til þessa notanda"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Reyndu aftur síðar"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Óþekkt villa kom upp"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Önnur handahófsvalin grein"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Því þú last"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Aðrar tengdar greinar"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Halda lestri áfram"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Til baka í 'Uppgötva'-streymið"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Skoðaðu greinar í nágrenni við núverandi staðsetningu þína"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Forsíðugrein"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Af \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Af Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Sérsníða"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Tungumálastillingar 'Uppgötva'-streymis"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Hægt er að setja inn viðbótartungumál á \"Tungumálin mín\" stillingasíðunni."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Spjald falið"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Flýtitengill til baka til að lesa opna grein"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Sérsníða 'Uppgötva'-streymið"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Sérsníða 'Uppgötva'-streymi"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Sé ákveðin gerð spjalds falin, mun sú gerð ekki birtast lengur í 'Uppgötva'-streyminu."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Uppgötva-flipi"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Forsíðugrein dagsins á Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Slökkt"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Á öllum"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Á"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Á \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Öll \\$1 spjöld falin"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Þetta spjald tilheyrir ekki ákveðnu tungumáli, sé slökkt á spjaldinu verður það fjarlægt úr 'Uppgötva'-streyminu þínu."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Spjöld sem tilheyra ekki ákveðnu tungumáli"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Tilheyrir ekki ákveðnu tungumáli"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Víðvær spjöld"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Fela þetta spjald"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Fela öll \"\\$1\" spjöld"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Greinar um mál í gangi"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Ef öll 'Uppgötva'-spjöldin eru falin í öllum tungumálunum þínum verður slökkt á 'Uppgötva'-flipanum."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Sögulegir atburðir á þessum degi"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Greinar í nágrenni við staðsetningu þína"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Forsíðumynd dagsins frá Wikimedia Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Útbúðu handahófsvaldar greinar til að lesa"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Uppástungur byggðar á lesnum greinum"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Sýna spjald um að halda lestri áfram"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Sé slökkt á spjaldinu um 'Efst á baugi' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Sýna spjald um grein sem er efst á baugi"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Sé slökkt á spjaldinu um 'Í fréttum' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Sýna spjald um hvað er í fréttum"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Sé slökkt á spjaldinu um 'Á þessum degi' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Sýna spjald um hvað gerðist þennan dag"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Sýna spjald um mynd dagsins"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Sé slökkt á spjaldinu 'Staðir' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Sýna spjald um staði"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Sé slökkt á spjaldinu um 'Slembið' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Sýna spjald um tilviljanakennt"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Sýna spjaldið \"Því þú last\""
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Sé slökkt á spjaldinu 'Mest lesið' er slökkt á spjaldinu í öllum tiltækum tungumálum."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Sýna spjald um mest lesið"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Mest lesnu greinar dagsins"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Slökkva á 'Uppgötva'-streyminu"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Ef öll 'Uppgötva'-spjöldin eru falin verður slökkt á 'Uppgötva'-flipanum og honum skipt út fyrir stillingaflipa"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Slökkva á 'Uppgötva'-streyminu?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Slökkva á 'Uppgötva'"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Hægt er að kveikja á 'Uppgötva'-flipanum í stillingunum fyrir 'Uppgötva'-streymið"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Slökkva á 'Uppgötva'-flipanum?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Ef slökkt er á 'Uppgötva'-flipanum verður honum skipt út fyrir stillingaflipa."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Mep því að velja að birta 'Uppgötva'-streymispjöldin verður kveikt á 'Uppgötva'-flipanum"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Kveikja á 'Uppgötva'"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Þetta mun skipta stillingaflipanum út fyrir 'Uppgötva'-flipann, þú getur alltaf farið í stillingarnar með því að smella á gírhjólstáknið efst á 'Uppgötva'-flipanum"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Kveikja á 'Uppgötva'-flipanum?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Fela þetta spjald"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Aðalsíða Wikimedia-verkefna"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Í dag á Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Allar mest lesnu greinar"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Mest lesið"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Mest lesið á \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Á \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Á Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Staðir í nágrenninu"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Staðir"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Úr \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Af Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Staðsetning þín"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Staðsetning þín frá \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Mynd dagsins"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Af Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Handahófsvalin grein"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Af \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Af Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Slembið"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Deila forritasafni?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Villa kom upp við að flytja út gögnin þín. Reyndu aftur seinna."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Flytja út notandagögn"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Engin forsíðugrein er tiltæk fyrir þessa dagsetningu."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Uppgötvaðu bestu greinarnar á Wikipedia, valdar af þátttakendunum okkar."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Af \\$1 Wikipedia"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Af Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Aðaltungumál þítt á Wikipedia styður ekki Forsíðugreinar. Þú getur skipt um aðaltungumál Wikipedia í stillingavalmynd forritsins."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Forsíðugrein"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Eitthvað fór úrskeiðis. Prófaðu aftur síðar."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Forritið fékk óvænt svar frá þjóninum. Prófaðu aftur síðar."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Ógilt CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Lykilorðin stemma ekki"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ógildur kóði"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Notandanafnið er ekki tiltækt"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Öryggiskóði"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-texti"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Settu inn textann sem þú sérð hér að ofan"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "notandi@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Tölvupóstur"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Tölvupóstfang (valfrjálst)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "settu aftur inn nýja lykilorðið"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Staðfestu nýja lykilorðið"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "settu inn nýja lykilorðið"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nýtt lykilorð"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "settu aftur inn lykilorðið"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Staðfestu lykilorðið"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "settu inn lykilorðið"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Lykilorð"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Staðfestingarkóði"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "settu inn notandanafn"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Notandanafn"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Hreinsa leit"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Næsta leitarniðurstaða"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Fyrri leitarniðurstaða"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Finna og skipta út"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Loka 'Finna og skipta út'"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Finna"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Endurstilla"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Tölvupóstur var sendur með leiðbeiningum varðandi endurstillingu lykilorðs"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Fylltu í einn af reitunum hér fyrir neðan til að fá tölvupóst með leiðbeiningum varðandi endurstillingu lykilorðs"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Endurstilla lykilorð"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "eða"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Á að eyða öllum nýlegum atriðum?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Já, eyða öllu"
+    },
+    {
+      "name": "history_title",
+      "value": "Ferilskrá"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, fara aftur á 'Uppgötva'"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, fara aftur á 'Vistað'"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Fleira í líkingu við \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Fleiri staðir í nágrenninu"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Fleira frá nágrenni \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Fleira í fréttum núna"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Vistuðu greinarnar þínar er núna hægt að skipuleggja í leslista og samstilla þá síðan á milli tækja. Skráðu þig inn svo hægt sé að vista leslistana í notandastillingarnar þínar."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Sýsla með kjörstillingar"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Stilltu lestrarstillingarnar þínar, svo sem eins og þema og stærð leturs, úr verkfærastiku greinar eða í notandastillingunum þínum, þannig að þægindin verði sem mest við lestur."
+    },
+    {
+      "name": "home_title",
+      "value": "Uppgötva"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, skruna efst á 'Uppgötva'"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Greinar í nágrenninu"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Handahófsvalin grein"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Leita á Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Óþekktur höfundur."
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Leslistinn minn"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Taka þátt í könnun"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Deila leslistum\" er prófunareiginleiki og við þurfum álit þitt til að bæta eða fjarlægja hann."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Gætirðu hjálpað okkur að bæta „Deila leslistum“?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Flytja inn sameiginlegan leslista"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Af \\$1 Wikipedia"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Af Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Í fréttum"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Setja inn"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Setja inn tengil"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Lýsing á myndinni fyrir lesendur sem ekki sjá myndina"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Lýstu þessari mynd"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Textalýsing"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Hvernig tengist þessi mynd efni greinarinnar?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Skýring sem birtist öllum notendum næst atriðinu"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Myndatexti"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Miðjað"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Vinstri"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ekkert"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Hægri"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Staðsetning myndar"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Nánari upplýsingar"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Veldu mynd"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Sérsniðið"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Sjálfgefið"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Stærð myndar"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Einfalt"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Rammi"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Rammalaus"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Smámynd"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tegund myndar"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Stillingar margmiðlunargagna"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Settu inn margmiðlunargögn"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði kasakísku"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði kúrdísku"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Tungumál"
+    },
+    {
+      "name": "languages_title",
+      "value": "Skipta um tungumál"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Tungumál á Wikipediu"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Halda áfram án þess að skrá inn"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Skráðu þig aftur inn í notandaaðganginn þinn"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Það kom upp vandamál með að auðkenna notandaaðganginn þinn. Til þess að geta samstillt leslistana þína og gert breytingar í þínu nafni skaltu skrá þig aftur inn."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Þú hefur verið skráð(ur) út"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Gleymdirðu lykilorðinu?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Skráðu þig hjá Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Ertu ekki með aðgang? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Skráðu þig inn í notandaaðganginn þinn"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Um Wikipedia-appið"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Skrá inn á Wikipedia"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Útskrá"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ertu viss að þú viljir skrá þig út?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Innskráð(ur) sem: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Gagnaleynd og skilmálar"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Í nágrenni"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Persónuvernd"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Gefðu appinu einkunn"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Notkunarskilmálar"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Fleira"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Algengar spurningar um Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Leita í Wikipedia á yfir 300 tungumálum"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Bæta við tungumálum"
+    },
+    {
+      "name": "more_menu",
+      "value": "Meira"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Færa {{PLURAL:\\$1|\\$1 grein|\\$1 greinar}} á leslista"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Forskoðun"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 fet"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mílur"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Þú skráðir þig inn með bráðabirgðalykilorði. Til að klára að skrá þig inn, verður þú að velja nýtt lykilorð hér."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Stilltu lykilorðið þitt"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Settu upp tölvupóstreikning á tækinu þínu og reyndu svo aftur."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Engin internettenging"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ekki núna"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Frá \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Aðvörun"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Tilkynningasía - er með virkar síur"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Verkefnasía - er með virkar síur"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Tilkynningar með ólesið-merki"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 tilkynning"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Breyta lykilorði"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Athuga með tilkynningar..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Í forritinu"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Á vefnum"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Athuga með tilkynningar..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Þú átt engin skilaboð"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Í augnablikinu ert þú ekki áskrifandi að neinum Wikipedia-tilkynningum"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Breyttu \\$1 til að sjá fleiri skilaboð"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Bættu við verkefnum til að sjá fleiri skilaboð"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 sía|\\$1 síur}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Kveikja á ýti-tilkynningum"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Tilkynningasía"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Allt"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Lesið"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Ólesið"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Staða lesturs"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Síur"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Allar tegundir"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Tegundir tilkynninga"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Grein"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 spjallsíða"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Mismunur"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Notandasíða fyrir \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-atriði"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Spjallsíðan þín"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Aðvörun frá \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Búið"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Verkefni"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Aðeins verkefni sem þú hefur búið til reikning fyrir munu birtast hér"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedia-verkefni"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedíur"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Tilkynningar um innskráningu"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Merkja"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Merkja allt sem lesið"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Merkja sem lesið"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Merkja sem ólesið"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Meira"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Stillingar á tilkynningum"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 skilaboð|\\$1 skilaboð}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Halda áfram"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Síur"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Lesa meira um tilkynningar"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Tilkynningar og aðvaranir"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Pósthólf verkefna"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Ýti-tilkynningar"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Breyti tilkynningum"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Kveikja á ýti-tilkynningum?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Kveikja á ýti-tilkynningum"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nei, takk"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia er samstarfsverkefni og með því að kveikja á tilkynningum getur það auðveldað þér að fylgjast með skilaboðum, tilkynningum og „þökkum“ frá öðrum ritstjórum."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Verkefnasía"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Allt"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Allar tilkynningar"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 í \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Síað eftir"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=Í 1 verkefni|Í \\$1 verkefnum}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 verkefni|\\$1 verkefni}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 tegund|\\$1 tegundir}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Lesið"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 og \\$2 í \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Ólesið"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Breyti áfanga"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Breytingin þín var afturkölluð"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nýr tölvupóstur"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Margar misheppnaðar tilraunir til innskráninga"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Misheppnuð tilraun til innskráningar"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Innskráning frá óþekktu tæki"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Minnst á í spjallsíðu greinar"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Minnst á í breytingarágripi"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Mistókst á minnast á"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Tókst að minnast á"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Minnst á í spjallsíðu"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Skilaboð á spjallsíðunni þinni"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Síðutengill"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Síða yfirfarin"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Þakkir"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Þýðingaráfangi"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Breyting á réttindum notanda"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Velkomin!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Tenging gerð við Wikidata"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Merkja sem lesið"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Merkja sem ólesið"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Meira"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Tilkynningar"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Merkja valdar tilkynningar"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Minnst á"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Tilkynning"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Velkomin-skilaboð"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Tenging við Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Breyta áfanga"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Breyting afturkölluð"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Minnst á í breytingarágripi"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Tölvupóstur frá öðrum notanda"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Tilraunir til innskráningar"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Misheppnaðar innskráningartilraunir inn á aðganginn þinn"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Innskráning tókst"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Annað"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Síðutengill"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Yfirferð síðu"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Minnst á í spjallsíðu"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Þakkir"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Þýðingaráfangi"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Breyting á réttindum notanda"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Skilaboð á spjallsíðu"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Velkomin"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Ný virkni á Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 ný skilaboð|\\$1 ný skilaboð}} á \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Ný skilaboð|Ný skilaboð}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 Ma"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 Mi"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 þús."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "frá \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 sögulegur atburður|\\$1 sögulegir atburðir}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Fleiri sögulegir atburðir á þessum degi"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 sögulegur atburður til viðbótar|\\$1 fleiri sögulegir atburðir}} á þessum degi"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Aðaltungumál þítt á Wikipedia styður ekki Á þessum degi. Þú getur skipt um aðaltungumál Wikipedia í stillingavalmynd forritsins."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Engin gögn tiltæk"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 af \\$2 Wikipedia"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Á þessum degi"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Ýttu á 'W'-ið til að fara til baka á flipann þar sem þú varst"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "vélmennabreytingar"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Ýttu til að velja tvær útgáfur til samanburðar"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Bera saman"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Graf fyrir fjöldi breytinga yfir tímaskeið"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "minniháttar breytingar"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Höfundur: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Athugasemd \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Breytingaskrá"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Minniháttar breyting"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Bætti við {{PLURAL:\\$1|\\$1 bæti|\\$1 bætum}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Fjarlægði {{PLURAL:\\$1|\\$1 bæti|\\$1 bæti}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Útgáfa gerð \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Aðeins er hægt að velja tvær útgáfur"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 breyting|\\$1 breytingar}} síðan \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Vandamál varðandi síðu"
+    },
+    {
+      "name": "page_location",
+      "value": "Skoða á korti"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Þú hefur ekki réttindi á að breyta þessari síðu"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Þessi síða er varin"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Áþekkar síður"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Að bera saman útgáfur hjálpar til við að sjá hvernig grein hefur breyst í tímans rás. Þegar tvær útgáfur greinar eru bornar saman, er munurinn á þeim sýndur með áherslulitun á því sem hefur verið breytt."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Bera saman útgáfur"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Gera breytingar án þess að skrá inn"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Þú ert ekki skráð/ur inn."
+    },
+    {
+      "name": "pictured",
+      "value": "fjallað um"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Hreinsa vistaðar leitir"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 greinar"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Endurmiðja á staðsetninguna þína"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Birta sem lista"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Birta sem kort"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Birta fleiri greinar"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Kannaðu borgir, lönd, heimsálfur, náttúruvætti, sögulega atburði, byggingar og fleira."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Leita að greinum á Wikipedia sem hafa upplýsingar um staðsetningu"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Virkja staðsetningu"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Aðgangur að staðsetningunni þinni er einungis í boði þegar forritið eða einhver hluti þess er sýnilegur á skjánum."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Skoðaðu greinar í nágrenni við núverandi staðsetningu þína með því að leyfa aðgang að hnattstaðsetningu"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Sía greinar"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Sía"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Þú ert ekki með neina vistaða staði"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Vistaðar greinar"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Mest lesið"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 grein|\\$1 greinar}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Mest lesnu greinar"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Staðsetning virkjuð"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Engar vistuðu greinanna þinna eru með staðsetningarupplýsingar"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 samsvarandi “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Leita að stöðum"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Áttir þú við \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Nýlega leitað"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Allar vistaðar greinar"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Leitir sem stungið er uppá"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Niðurstöður á þessu svæði"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Allar mest lesnu greinar"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Í nágrenninu"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Núverandi staðsetning þín"
+    },
+    {
+      "name": "places_title",
+      "value": "Staðir"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "óþekkt vegalengd"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Mynd dagsins þann \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Mistókst að ná í mynd dagsins fyrir \\$1"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Uppgötvaðu fallegar myndir fyrir hvern dag, valdar af þátttakendunum okkar."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Mynd dagsins"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Leyfa Wikimedia til að safna upplýsingum um hvernig þú notar appið til að geta gert það betra"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Meðferð persónuupplýsinga"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Bæta þessari grein á leslista?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Bæta “\\$1” á leslista?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Já, bæta þeim á leslistana mína"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Það eru greinar sem vistaðar hafa verið í Wikipedia-forritið þitt. Myndirðu vilja halda þeim og sameina við leslista sem samstilltir eru við aðganginn þinn?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Vistaðar greinar fundust"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Þessi færsla er ekki samstillt því þú hefur náð mesta mögulega fjölda færslna á þessum lista."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Óvænt villa kom upp við að samstilla leslistana þína."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Þessi listi er ekki samstilltur því þú hefur náð mesta mögulega fjölda samstilltra lista."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Búa til leslista"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Lýsing"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nafn á leslista"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Búa til nýjan leslista"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Leslista eytt"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nei, eyða greinum af tæki"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Fækkaðu greinunum á þessum lista niður í \\$1 til að halda áfram samstillingu allra greina á listanum."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Þú hefur farið fram úr hámarkinu með {{PLURAL:\\$1|\\$1 grein|\\$1 greinar}} á hvern notandaaðgang."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "Get ekki bætt {{PLURAL:\\$1|grein|greinum}} á þennan lista. Þú hefur náð \\$2 greina takmörkum á hvern lista fyrir \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Leslisti með þessu heiti er þegar til staðar"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Óvænt villa kom upp við að uppfæra leslistana þína."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Já, halda greinum á tæki"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Það eru greinar sem samstilltar hafa verið við Wikipedia-aðganginn þinn. Myndirðu vilja halda þeim á þessu tæki eftir að þú skráir þig út?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Halda vistuðum greinum á tæki?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Raða greinum"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Það eru takmörk upp á 5000 óraðaðar greinar. Raðaðu greinunum sem þú ert með í lista til að geta haldið áfram samstillingu óraðaðra greina."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Náði takmörkum fyrir óraðaðar greinar"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Þessi leslisti og greinarnar vistaðar á hann verða ekki samstilltar, fækkaðu greinunum á þessum lista niður í \\$1 til að halda áfram samstillingu á listanum."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Þú hefur farið fram úr hámarkinu með {{PLURAL:\\$1|\\$1 leslista|\\$1 leslista}} á hvern notandaaðgang."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Þú hefur náð hámarkinu með \\$1 leslista á hvern notandaaðgang"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Skráðu inn til að samstilla vistuðu greinarnar þínar"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Skráðu þig inn til að búa til aðgang"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Skráðu inn til að samstilla vistaðar greinar"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Skráðu þig inn eða útbúðu notandaaðgang svo hægt sé að samstilla vistaðar greinar og leslista á notandaaðganginn þinn og samstilla þannig á milli tækja."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Samstilla vistuðu greinarnar þínar?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[bjó til notanda]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "stutt valkvæð lýsing"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "titill leslista"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Samstilling leslista er óvirk á Wikipedia-notandaaðgangi á öðru tæki. Þú getur kveikt aftur á samstillingu með því að breyta stillingunum þínum."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Samstilling óvirk"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Virkja samstillingu"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Nú er hægt að vista greinar og leslista á Wikipedia-aðganginn þinn og samstilla þannig á milli Wikipedia-forrita."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Kveikja á samstillingu leslista?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Samstilling leslista er virk á þessum notandaaðgangi. Til að stöðva samstillingu, geturðu slökkt á henni fyrir þennan aðgang með því að breyta stillingunum þínum."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Samstilling er virk á þessum notandaaðgangi"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Óvænt villa kom upp við að bæta færslu við leslistann þinn. Endilega reyndu aftur síðar."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Óvænt villa kom upp við að búa til leslistann þinn. Endilega reyndu aftur síðar."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Óvænt villa kom upp við að eyða leslistanum þínum. Endilega reyndu aftur síðar."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Óvænt villa kom upp við að fjarlægja færslu af leslistanum þínum. Endilega reyndu aftur síðar."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Óvænt villa kom upp við að uppfæra leslistann þinn. Endilega reyndu aftur síðar."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Leslisti með heitinu „\\$1“ fannst ekki. Gakktu úr skugga um að þú hafir sett inn rétt heiti."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Grein bætt við “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Gat ekki samstillt grein"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ekki samstillt"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Farið fram úr takmörkum greina, tókst ekki að samstilla grein"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Farið fram úr takmörkum lista, tókst ekki að samstilla grein"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Grein í biðröð eftir að vera sótt"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Farið fram úr takmörkum tækis, tókst ekki að samstilla grein"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Losaðu eitthvað pláss og prófaðu aftur"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Sumar greinar ekki samstilltar, yfir takmörkunum"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "'\\$1' listinn þinn hefur verið endurnefndur sem '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 leslistann|\\$1 leslistana}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Sjálfgefinn listi fyrir vistuðu greinarnar þínar"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Vistað"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Þessa aðgerð er ekki hægt að afturkalla. Allar greinar sem einungis eru vistaðar í {{PLURAL:\\$1|þennan lista verða óvistaðar|þessa lista verða óvistaðar}}."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Eyða {{PLURAL:\\$1|lista|listum}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 grein|\\$1 greinar}} og {{PLURAL:\\$2|\\$2 leslisti|\\$2 leslistar}} {{PLURAL:\\$2|\\$2 samstillt|\\$2 samstilltar}} af notandaaðganginum þínum"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Listi ekki samstilltur, yfir takmörkunum"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Raða vistuðum greinum"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Leslistar eru takmarkaðir við \\$1 greinar. Fyrirliggjandi listum sem hafa fleiri greinar en þau mörk, hefur verið skipt upp í fleiri lista."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Samstilling mun halda áfram næst þegar nettenging er til staðar"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Svart þema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Sleði fyrir birtustig"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Dökkt þema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Ljóst þema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepía þema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Áherslulitun á málskipan"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Sleði fyrir textastærð"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Áherslulitun á málskipan"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Fara í tilvísanahlutann"
+    },
+    {
+      "name": "reference_title",
+      "value": "Tilvísun \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Í dag|1=Í gær|Fyrir \\$1 dögum síðan}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1klst"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Fyrir stuttu|Fyrir \\$1 klukkutíma síðan|Fyrir \\$1 klukkutímum síðan}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1klst síðan"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Fyrir stuttu|Fyrir \\$1 klukkutíma síðan|Fyrir \\$1 klukkutímum síðan}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Rétt í þessu|Fyrir \\$1 mínútu síðan|Fyrir \\$1 mínútum síðan}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1mín"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Rétt í þessu|Fyrir \\$1 mínútu síðan|Fyrir \\$1 mínútum síðan}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1mín síðan"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Í þessum mánuði|1=Í síðasta mánuði|Fyrir \\$1 mánuðum}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1sek"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1sek síðan"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Á þessu ári|1=Á síðasta ári|Fyrir \\$1 ári síðan}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Til baka"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Fara aftur í grein"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Afturkölluð breyting"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Allar greinar"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Ekki er hægt að eyða þessum lista"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Tókst ekki að sækja myndir fyrir þessa vistuðu síðu."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Niðurhal greinar í gangi..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Leslistar"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Leita í vistuðum greinum"
+    },
+    {
+      "name": "saved_title",
+      "value": "Vistað"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Afturköllun á vistun {{PLURAL:\\$1|þessarar greinar mun fjarlægja hana|þessara greina mun fjarlægja þær}} af öllum tengdum leslistum"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Afturkalla vistun á {{PLURAL:$|$ grein|\\$1 greinar}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Leita á Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Hreinsa"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Leita í Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Á að eyða öllum nýlegum leitum?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Þessa aðgerð er ekki hægt að afturkalla!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Eyða öllu"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Engar nýlegar leitir ennþá"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Nýlega leitað"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Endurbeint frá: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Leita"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði serbnesku"
+    },
+    {
+      "name": "settings_account",
+      "value": "Aðgangur"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Kjörstillingar við lestur"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Hreinsa gögn úr skyndiminni"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Hreinsun gagna úr skyndiminni losar um það bil \\$1 af plássi. Það eyðir ekki vistuðu síðunum þínum."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Hreinsa gögn úr skyndiminni?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Hætta við"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Hreinsa skyndiminni"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Aðstoð og umsagnir"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Sýna tungumál við leit"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Þú getur stjórnað hvaða tungumál birtst í 'Uppgötva'-streyminu með því að sérsníða stillingar streymisins."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Tungumálin mín"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Ýti-tilkynningar"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Upp kom villa þegar verið var að athuga með áskriftir að tilkynningum tengdum notandaaðgangnum þínum."
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Reyndu aftur"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Aðal"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Fyrsta tungumálið á þessum lista er notað sem aðaltungumál forritsins."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Stilltu forritið á að opna leitarflipann í staðinn fyrir 'Uppgötva'-flipann"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Opna forritið á leitarflipa"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Leyfa Wikimedia að vista vistaðar greinar og leslista í notandaaðganginn þinn þegar þú skráir þig inn og samstillir."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Samstilla vistaðar greinar og lista"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Leslistarnir verða samstilltir í bakgrunnsferli"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Biðja um uppfærslu á samstilltum greinum og leslistum."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Uppfæra samstillta leslista"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Birta vistaða (t.d. sjálfgefna) leslista sem aðskilda lista í yfirlitinu. Þessi listi birtist á Android-tækjum."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Birta vistaða leslista"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Geymsla og samstilling greina"
+    },
+    {
+      "name": "settings_title",
+      "value": "Stillingar"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Gert með Wikipedia-forritinu"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ á Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Útbý 'Deila-staðreynd' spjald..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” frá “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nfrá “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Fá leiðsögn"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Deila…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "með Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Opna í Kortum"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” með Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” með Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Nýlega bætt við"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titill"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Efnisyfirlit"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Loka"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Loka efnisyfirliti"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Efni"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Fela efnisyfirlit"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Undirfyrirsögn \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði Tachelhit"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði tadsikísku"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1| \\$1 virkur notandi| \\$1 virkir notendur}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Bæta við efni"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Söfn"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Um spjallsíður"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Skipta um tungumál"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Fella saman þráð"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Lesið"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Ólesið"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Forritið fékk óvænt svar frá þjóninum. Prófaðu aftur síðar."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Óvænt villa"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Eitthvað fór úrskeiðis."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Gat ekki hlaðið inn spjallsíðu"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Fella út þráð"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Finna á síðu"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Opna alla þræði"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Mundu að við erum öll mannleg hérna"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Vertu vinsamleg/ur"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Það tókst að vista svarið þitt"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Það tókst að vista umræðuna þína"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Pikkaðu tvisvar til að fara aftur í svarið"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Fleiri valkostir spjallsíðu"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Síðuupplýsingar"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Varanlegur tengill"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Athugaðu internettenginguna þína."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Ekki tókst að birta athugasemdina þína."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Ekki er hægt að birta nýtt efni."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Lesa á vefnum"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Hvað tengist hingað"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 svar|\\$1 svör}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Svara"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Svara \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Dýpt svars: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Svara \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Breytingaskrá"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Loka svarsýn"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Deila spjallsíðu"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Gerast áskrifandi"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Þú munt fá tilkynningar um nýjar athugasemdir í þessu efni."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Þú hefur gerst áskrifandi!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Ekki tókst að gerast áskrifandi að efninu, endilega prófaðu aftur."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Spjall greinar"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Spjall notanda"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Segja upp áskrift"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Þú munt ekki lengur fá tilkynningar um nýjar athugasemdir í þessu efni."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Þú hefur sagt upp áskrift."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Ekki tókst að hætta áskrift að efninu, endilega prófaðu aftur."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Um spjallsíður notenda"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Framlög"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Engar síður fundust í safni."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Skjalasafn"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Lesa meira"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Athugasemdinni þinni var bætt við"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Halda áfram að gera breytingar"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Spjallsíður eru þar sem fólk ræðir hvernig hægt sé að gera Wikipedia-efni eins og best verður á kosið. **Byrjaðu á því að bæta við nýju umræðuefni** til að tengjast og vinna með samfélagi Wikipedia-fólks."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Spjallsíður eru þar sem fólk ræðir hvernig eigi að gera efni á Wikipediu eins og best verður á kosið. Byrjaðu nýja umræðu til að tengjast og vinna með \\$1 . Það sem þú segir hér verður birt opinberlega."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Bæta við nýju umræðuefni"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Byrja nýja umræðu"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Umræðan hefst hér"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Byrjaðu umræðu með \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Ertu viss um að þú viljir henda þessu nýja svari?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Umræðuefninu þínu var bætt við"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Lýsing"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Lýsing á umræðuefni"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Henda svari"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Ertu viss um að þú viljir henda þessu nýja umræðuefni?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Umræðuefni"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Titill umfjöllunarefnis"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Spjallsíður eru þar sem fólk ræðir hvernig eigi að gera efni á Wikipediu eins og best verður á kosið. Byrjaðu nýja umræðu til að tengjast og vinna með samfélagi Wikipedíufólks.\n\nVertu vinaleg/ur, við erum öll mannfólk hér."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Spjallsíður eru þar sem fólk ræðir hvernig hægt sé að gera Wikipedia-efni eins og best verður á kosið.\\$1 Byrjaðu á því að bæta við nýju umræðuefni til að tengjast og vinna með samfélagi Wikipedia-fólks."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Vertu vinaleg/ur, við erum öll mannfólk hér."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Spjallsíður"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Notendahópar"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Aðgerðaskrár"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Spjall"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Svart"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Dökkt"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Sjálfgefið"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Samsvarar þema kerfis"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Ljóst"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepía"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Sjáðu hvað heimurinn er að lesa um í dag á Wikipedia."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 lesendur"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Mest lesið"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Halda innskráningu áfram"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Settu inn tveggja-þrepa sannvottunarkóða"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Skráðu þig inn í notandaaðganginn þinn"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Notaðu einn af öryggiskóðunum þínum"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Nota staðfestingarkóða"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Gat ekki hlaðið inn spjallsíðu"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Óþekkt"
+    },
+    {
+      "name": "unwatch",
+      "value": "Hætta að vakta"
+    },
+    {
+      "name": "user_title",
+      "value": "Notandi"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Uppfærslur á stuðningi við tilbrigði úsbekísku"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Halda áfram"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Notandanafn og notandasíða"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Að hverfa er eða vera þurrkaður út er **lokaúrræði** og ætti **aðeins að nota þegar þú vilt endanlega hætta breytingum** og einnig til að fela fyrri tengsl þín eins og mögulegt er.\n\nEyðing reiknings á Wikipedia gerist með því að breyta nafni reikningsins þíns þannig að aðrir geti ekki þekkt framlög þín, og er það ferli kallað **útþurrkun** á reikningi. **Útþurrkun tryggir ekki algjöra nafnleynd eða fjarlægingu framlaga til verkefna**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Aðvörun"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nei, takk"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Yfirfarðu kjörstillingarnar þínar"
+    },
+    {
+      "name": "watch",
+      "value": "Vakta"
+    },
+    {
+      "name": "watchlist",
+      "value": "Vaktlisti"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Skoða vaktlista"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|1 bæti|\\$1 bæti}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 mánuður"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 vika"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 ár"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Sía"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Virkni vaktlista"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Skoðaðar breytingar"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Óskoðaðar breytingar"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Sjálfvirk framlög"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Vélmenni"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Manneskja (ekki vélmenni)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Nýjustu útgáfur"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Nýjasta útgáfa"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ekki nýjasta útgáfa"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Mikilvægi"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Minniháttar breytingar"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Ekki-minniháttar breytingar"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Tegund breytingar"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Breytingar á flokkum"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Skráðar aðgerðir"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Gerð á síðum"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Breytingar á síðum"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata-breytingar"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Framlög notanda"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Notandasíða"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Spjallsíða notanda"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Gögn og persónuvernd"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Lesefni sem mælt er með og daglegar greinar frá samfélaginu okkar"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "'Uppgötva'-streymið"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Ferðastu aftur í tímann til að læra hvað gerðist á þessum degi í sögulegu samhengi"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Á þessum degi"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Uppgötvaðu kennileiti í næsta nágrenni eða leitaðu að stöðum út um heiminn"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Staðir-flipi"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Komast í gang"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nýjar leiðir til að kanna heiminn"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Náði því"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia er skrifuð í sameiningu af sjálfboðaliðum og samanstendur af meira en 40 milljón greinum á yfir 300 tungumálum."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Læra meira um Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Um Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia er alheimsverkefni sem miðar að því að byggja upp frjáls alfræðisöfn á öllum heimsins tungumálum. Hver sá sem er með aðgang að internetinu má taka þátt í þessu með því að leggja fram hlutlausar upplýsingar með tilvísunum í heimildir."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Frjálsa alfræðiorðasafnið"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Bæta við öðru tungumáli"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Breyta eða bæta við kjörtungumálum"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Við fundum eftirtalin tungumál á tækinu þínu:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Leita á yfir 300 tungumálum"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Sjáðu hvað gerðist á þessum degi í sögulegu samhengi."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Frjálst alfræðirit sem allir geta tekið þátt í að bæta"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, frjálsa alfræðiritið með wiki-efni, fór á netið."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Sækir forskoðun á breytingum þínum..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Þessi tengill leiðir á utanaðkomandi vefsvæði: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ytri tengill"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia er ekki með grein með nákvæmlega þessu heiti"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Enginn innri tengill fannst"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Tengillinn leiðir á '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Forskoðun tengils"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Vista breytingar"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Villa með CAPTCHA-staðfestingu."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA-staðfesting krefst."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Tókst ekki að greina niðurstöðu á innsendingu wikitexta."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Gef út..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Breytingar verða skráðar undir IP-tölu tækisins þíns. Til að tryggja öryggi sitt er best að \\$1skrá sig inn\\$2."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Breytingar verða skráðar undir IP-tölu tækisins þíns. Til að tryggja öryggi þitt er best að \\$1."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Notkunarskilmálar"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Því þú last"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Allar mest lesnu greinar"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Önnur handahófsvalin grein"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Af %s Wikipedia"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Á %s Wikipedia"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Af Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Enginn breytingaferill sem hægt er að birta"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Fela þetta spjald"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Sérsníða 'Uppgötva'-streymi"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Spjald falið"
+    },
+    {
+      "name": "editor_published",
+      "value": "Breytingin þín var gefin út."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Lýsing á grein fyrir %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Áttir þú við %s?"
+    }
+  ]
+}

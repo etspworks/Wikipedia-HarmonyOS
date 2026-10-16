@@ -1,0 +1,1944 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Βικιπαίδεια"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Άδεια περιεχομένου"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Όλα τα κείμενα είναι διαθέσιμα υπό την \\$1· μπορεί να ισχύουν και πρόσθετοι όροι"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike License"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Συνεισφέροντες"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Βιβλιοθήκες που χρησιμοποιούνται"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Ολοκληρωμένη λίστα"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Άδεια"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Αγαπάμε το λογισμικό ανοιχτής πηγής \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Παρακαλούμε δείτε εδώ για λεπτομέρειες της άδειας χρήσης"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Δημιουργήθηκε από την \\$1 με τη βοήθεια εθελοντών όπως εσείς"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Αποθηκευτήρια"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Ο κώδικας πηγής είναι διαθέσιμος υπό την \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Άδεια MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Αποστολή σχολίων για την εφαρμογή"
+    },
+    {
+      "name": "about_title",
+      "value": "Σχετικά"
+    },
+    {
+      "name": "about_translators",
+      "value": "Μεταφραστές"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Μεταφράζεται από εθελοντές στο \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Ίδρυμα Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Βικιπαίδεια"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Δεν μπορείτε να δείτε την εικόνα; \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Λήψη νέου CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Αίτημα λογαριασμού."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Έλεγχος ασφαλείας CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Δημιουργία λογαριασμού χρήστη"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Έχετε ήδη λογαριασμό; \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Σύνδεση."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Γίνεται σύνδεση..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Πρέπει να εισαγάγετε όνομα χρήστη, κωδικό πρόσβασης και επιβεβαίωση κωδικού πρόσβασης για να δημιουργήσετε λογαριασμό."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Τα πεδία κωδικού πρόσβασης δεν ταιριάζουν μεταξύ τους."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Γίνεται αποθήκευση…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Δημιουργήστε νέο λογαριασμό"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Ο λογαριασμός σας"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Η σελίδα συζήτησής σας"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Αυτόματη υπογραφή συζητήσεων"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Η αυτόματη υπογραφή των συζητήσεων θα χρησιμοποιήσει την υπογραφή που ορίζεται στις ρυθμίσεις υπογραφής"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Προτιμήσεις σελίδας συζήτησης"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Πρόσθεση σε..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Πρόσθεση στην λίστα ανάγνωσης"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Προσθήκη στην λίστα"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Απόρριψη επεξεργασιών"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Απόρριψη επεξεργασιών"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Βρείτε στην σελίδα"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Συνέχεια επεξεργασίας"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Αλλαγή γλώσσας"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Μετακίνηση σε..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Μετακίνηση στη λίστα ανάγνωσης"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Επόμενη αναθεώρηση"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Προηγούμενη αναθεώρηση"
+    },
+    {
+      "name": "action_read",
+      "value": "Ανάγνωση"
+    },
+    {
+      "name": "action_redo",
+      "value": "Αναίρεση"
+    },
+    {
+      "name": "action_remove",
+      "value": "Αφαίρεση"
+    },
+    {
+      "name": "action_retry",
+      "value": "Ξαναπροσπαθήστε"
+    },
+    {
+      "name": "action_save",
+      "value": "Αποθήκευση"
+    },
+    {
+      "name": "action_saved",
+      "value": "Αποθηκεύθηκε"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Αποθηκεύτηκε. Ενεργοποίηστε για ξεαποθήκευση."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Το άρθρο αποθηκεύτηκε για αργότερα"
+    },
+    {
+      "name": "action_share",
+      "value": "Κοινοποίηση"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Διαμοιρασμός"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ταξινόμηση"
+    },
+    {
+      "name": "action_undo",
+      "value": "Αναίρεση"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Ξεαποθήκευση"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Μη αποθηκευμένο άρθρο"
+    },
+    {
+      "name": "action_update",
+      "value": "Ενημέρωση"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Προσθήκη εικόνων"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Λήμματα που διαβάσατε αυτόν τον μήνα"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Λήμματα"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "Τελευταία επεξεργασία"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Η πρόσφατη δραστηριότητά σας (τελευταίες 30 ημέρες)"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "Ευχαριστίες"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "Συνολικές επεξεργασίες"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Ημέρα"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Προβολές"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "Συνδεθείτε ή δημιουργήστε έναν λογαριασμό για να δείτε περισσότερη δραστηριότητα επεξεργασίας και ανάγνωσης."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Συνδεθείτε ή δημιουργήστε έναν λογαριασμό για να δείτε τη δραστηριότητά σας στην εφαρμογή Wikipedia"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Δείτε περισσότερες πληροφορίες ανάγνωσης και επεξεργασίας"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Εκκαθάριση ιστορικού ανάγνωσης"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Δεν έχετε επεξεργαστεί κάτι αυτήν την εβδομάδα. Προσθέστε εικόνες για να βελτιώσετε την κατανόηση του άρθρου."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "Δείτε πόσο χρόνο έχετε αφιερώσει στην ανάγνωση και ποια άρθρα ή θέματα έχετε εξερευνήσει με την πάροδο του χρόνου."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "Επιλέξτε ποιες ενότητες θα εμφανίζονται. Όλα τα προσωπικά δεδομένα παραμένουν ιδιωτικά στη συσκευή σας και το ιστορικό περιήγησης μπορεί να διαγραφεί ανά πάσα στιγμή."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Διατηρήστε τον έλεγχο"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "Παρουσίαση Δραστηριότητας"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "Μάθετε περισσότερα σχετικά με την επεξεργασία"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Πρόσθεση {{PLURAL:\\$1|\\$1 λήμμα|\\$1 λημμάτων}} στη λίστα ανάγνωσης"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Απόρριψη"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Βικιπαίδεια, παραπομπή, βίκι, εγκυκλοπαίδεια, πληροφορία, γνώση, έρευνα, πληροφορίες, εξερευνήστε, μάθετε"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Πλήρως προσαρμόσιμο και ευανάγνωστη Ροή εξερεύνησης. Διορθώθηκαν τοπικοποίηση, βελτιώσεις απόδοσης και διορθώσεις σφαλμάτων."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Κατεβάστε την εφαρμογή της Βικιπαίδειας για να εξερευνήστε μέρη γύρω σας, να συγχρονίσετε λήμματα για ανάγνωση εκτός σύνδεσης και να εξατομικεύσετε την εμπειρία ανάγνωσής σας."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Η ελεύθερη εγκυκλοπαίδεια"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Προσαρμογή μεγέθους του κειμένου του λήμματος"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Ανάπτυξη πινάκων"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Ανάγνωση θεμάτων"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Ρυθμίσεις πίνακα"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Ρυθμίσεις θεμάτων"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Σχετικά με το άρθρο"
+    },
+    {
+      "name": "article_delete",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|το λήμμα διαγράφηκε|τα λήμματα διαγράφηκαν}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Εύρεση γλώσσας"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Επιλέξτε γλώσσα"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Άλλες γλώσσες"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Οι γλώσσες σας"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Διαβάστε περισσότερα"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Παραπομπή \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Δεν έχετε αρκετό χώρο στη συσκευή σας για αποθήκευση του άρθρου"
+    },
+    {
+      "name": "article_share",
+      "value": "Κοινοποίηση"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Πίσω"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Πατήστε για επιστροφή"
+    },
+    {
+      "name": "button_next",
+      "value": "Επόμενο"
+    },
+    {
+      "name": "button_ok",
+      "value": "Εντάξει"
+    },
+    {
+      "name": "button_publish",
+      "value": "Δημοσίευση"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Αναφορά σφάλματος"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Αποθήκευση για αργότερα"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Αποθηκεύτηκε για αργότερα"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Αφαίρεση από τα αποθηκευμένα"
+    },
+    {
+      "name": "button_skip",
+      "value": "Παράβλεψη"
+    },
+    {
+      "name": "cancel",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Εκκαθάριση"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Κλείσιμο"
+    },
+    {
+      "name": "compass_direction",
+      "value": "στις \\$1 ακριβώς"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Συνέχεια"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Εξερευνήστε τη Βικιπαίδεια για να διαβάσετε περισσότερα λήμματα"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Δεν υπάρχουν πρόσφατα διαβασμένα λήμματα"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "Συνεισφορές αυτόν τον μήνα"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Προσθήκη περιγραφής"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Περιγραφή λήμματος για \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 από \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Επεξεργασία εισαγωγής"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Επεξεργασία περιγραφής λήμματος"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Οι σύντομες περιγραφές είναι οι καλύτερες"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Δημοσίευση περιγραφής"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Επεξεργασία περιγραφής"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Προσπαθήστε να διατηρείτε τις περιγραφές σύντομες, ώστε οι χρήστες να μπορούν να κατανοήσουν το θέμα του άρθρου με μια ματιά."
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Μόνο τα κύρια ουσιαστικά πρέπει να γράφονται με κεφαλαίο γράμμα, ακόμα και στην αρχή της πρότασης."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Ο προσωρινός λογαριασμός \\$1 δημιουργήθηκε μετά τη δημοσίευση της επεξεργασίας σας. Θα λήξει σε 90 ημέρες."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Συνοψίστε ένα λήμμα για να βοηθήσετε τους αναγνώστες να κατανοήσουν το θέμα με μια ματιά."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Σχετικά"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Σχετικά με τη Wikidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Περισσότερες πληροφορίες"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Για παράδειγμα:"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Περιγραφές λήμματος"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Έναρξη επεξεργασίας"
+    },
+    {
+      "name": "dim_images",
+      "value": "εικόνες Dim"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Διόρθωση γραμματικής"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Διόρθωση ορθογραφίας"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Σύνδεσμοι που προστέθηκαν"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Λυπούμαστε, το άρθρο δεν μπόρεσε να φορτωθεί"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Μπορείτε να διαβάσετε ακόμα αποθηκευμένες σελίδες"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Μπορείτε να δείτε τα προτεινόμενα λήμματά σας όταν έχετε σύνδεση στο διαδίκτυο"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Ιχνηλατήστε τι έχετε διαβάσει εδώ."
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Δεν υπάρχει ιστορικό για εμφάνιση"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Αποθηκεύστε σελίδες για να τις διαβάσετε αργότερα, ακόμα και όταν είστε εκτός σύνδεσης"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Δεν υπάρχουν αποθηκευμένες σελίδες ακόμα"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Δεν βρέθηκε κανένα αποτέλεσμα"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Προέκυψε ένα άγνωστο σφάλμα."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Άλλο τυχαίο άρθρο"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Επειδή διαβάζετε"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Πρόσθετα σχετικά άρθρα"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Συνέχεια ανάγνωσης"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Επιστροφή στη ροή Εξερεύνησης"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Εξερευνήστε άρθρα κοντά στην τρέχουσα τοποθεσία σας"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Προβεβλημένο λήμμα"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Από την \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Από την Βικιπαίδεια"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Προσαρμογή"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Εξερεύνηση ρυθμίσεων γλώσσας ροής"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Εξατομικεύστε την ροή Εξερεύνησης"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Εξατομικεύστε την ροή Εξερεύνησης"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Καθημερινό προβεβλημμένο λήμμα στη Βικιπαίδεια"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Εκτός"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Σε όλα"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Στις"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Στο \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Μη συγκεκριμένες για κάποια γλώσσα κάρτες"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Μη συγκεκριμένο για κάποια γλώσσα"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Καθολικές κάρτες"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Απόκρυψη αυτής της κάρτας"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Λήμματα για τρέχοντα γεγονότα"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Γεγονότα στην ιστορία αυτή την ημέρα"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Λήμματα Βικιπαίδειας κοντά στην τοποθεσία σας"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Καθημερινή προβεβλημμένη εικόνα από τα Wikimedia Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Δημιουργία τυχαίων άρθρων για ανάγνωση"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Προτάσεις με βάση το ιστορικό ανάγνωσης"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Εμφάνιση Συνέχιση ανάγνωσης κάρτας"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Εμφάνιση κάρτας προβεβλημμένου άρθρου"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Εμφάνιση κάρτας Στις Ειδήσεις"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Εμφάνισε αυτή τη κάρτα ημέρας"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Εμφάνιση κάρτας μερών"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Εμφάνιση κάρτας τυχαιοποιητή"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Εμφάνιση κάρτας Επιεδή διαβάζετε"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Καθημερινά πιο αναγνωσμένα λήμματα"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Απενεργοποίηση ροής Εξερεύνησης"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Απενεργοποίηση ροής Εξερεύνησης;"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Απόκρυψη αυτής της κάρτας"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Κύρια σελίδα εγχειρημάτων του Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Σήμερα στη Βικιπαίδεια"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Κορυφαίο διαβασμένο"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Κορυφαίο στο \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Στην \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Στη Βικιπαίδεια"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Μέρη κοντά"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Μέρη"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Από την \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Από την Βικιπαίδεια"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Η τοποθεσία σας"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Η τοποθεσία σας από \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Η εικόνα της ημέρας"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Από τα Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Τυχαίο άρθρο"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Από την \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Από τη Βικιπαίδεια"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Τυχαιοποιητής"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Μη έγκυρο CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Οι κωδικοί πρόσβασης δεν αντιστοιχούν."
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Μη έγκυρος κωδικός"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Όνομα χρήστη μη διαθέσιμο"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Κωδικός αντίγραφου ασφαλείας"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Κείμενο CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Πληκτρολογήστε το κείμενο που βλέπετε παραπάνω."
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Διεύθυνση ηλ. ταχυδρομείου"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Διεύθυνση ηλεκτρονικού ταχυδρομείου (προαιρετικό)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "εισαγωγή νέου κωδικού"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Επιβεβαίωση νέου κωδικού πρόσβασης"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "εισαγωγή νέου κωδικού"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Νέος κωδικός:"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Επανεισαγάγετε συνθηματικό"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Επιβεβαίωση κωδικού"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Εισαγάγετε συνθηματικό"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Κωδικός πρόσβασης"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Κωδικός επαλήθευσης:"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Εισαγωγή ονόματος χρήστη"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Όνομα χρήστη"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Επαναφορά"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Εστάλη ένα email με οδηγίες επαναφοράς κωδικού."
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Συμπληρώστε ένα από τα παρακάτω πεδία για να λαμβάνετε οδηγίες επαναφοράς κωδικού πρόσβασης μέσω ηλεκτρονικού ταχυδρομείου"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Επαναφορά κωδικού"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Ή"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ναι, διαγραφή όλων"
+    },
+    {
+      "name": "history_title",
+      "value": "Ιστορικό"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Βικιπαίδεια, επιστροφή στην εξερεύνηση"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Βικιπαίδεια, επιστροφή στα αποθηκευμένα"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Περισσότερα σαν το \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Περισσότερα μέρη κοντά στην τοποθεσία σας"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Περισσότερα κοντινά \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Περισσότερα τρέχοντα γεγονότα"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Διαχείρηση προτιμήσεων"
+    },
+    {
+      "name": "home_title",
+      "value": "Εξερεύνηση"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Βικιπαίδεια, μετάβαση στη κορυφή της Εξερεύνησης"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Κοντινά λήμματα"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Τυχαίο άρθρο"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Αναζήτηση στη Βικιπαίδεια"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ο συγγραφέας είναι άγνωστος"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Από την \\$1 Βικιπαίδεια"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Από την Βικιπαίδεια"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Στις ειδήσεις"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Γλώσσες"
+    },
+    {
+      "name": "languages_title",
+      "value": "Αλλαγή γλώσσας"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Γλώσσες Βικιπαίδειας"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ξεχάσατε τον κωδικό σας;"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Εγγραφείτε στη Βικιπαίδεια."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Δεν έχετε λογαριασμό; \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Συνδεθείτε στο λογαριασμό σας."
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Σχετικά με την εφαρμογή"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Σύνδεση"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Αποσύνδεση"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε;"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Συνδεδεμένος ως: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Ιδιωτικότητα και Όροι"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Κοντινά"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Πολιτική ιδιωτικότητας"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Αξιολόγηση της εφαρμογής"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Όροι χρήσης"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Περισσότερα"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Συχνές ερωτήσεις για το Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Αναζητήστε στη Βικηπαίδεια σε πάνω από 300 γλώσσες"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Προσθέστε γλώσσες"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Μετακίνηση {{PLURAL:\\$1|\\$1 λήμμα|\\$1 λημμάτων}} στη λίστα ανάγνωσης"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Προεπισκόπηση"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 πόδι"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 χλμ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 μ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 μίλια"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Συνδεθήκατε με έναν προσωρινό κωδικό πρόσβασης. Για να ολοκληρώσετε τη σύνδεση ορίστε ένα νέο κωδικό πρόσβασης εδώ."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Εισαγάγετε τον κωδικό σας"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Παρακαλούμε ρυθμίστε ένα λογαριασμό ηλεκτρονικού ταχυδρομείου στην συσκευή σας και προσπαθήστε ξανά."
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Προειδοποίηση"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Αλλαγή κωδικού πρόσβασης"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Στην εφαρμογή"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Ενεργοποίηση ειδοποιήσεων push"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Λήμμα"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Σελίδα συνομιλίας \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Ειδοποιήσεις σύνδεσης"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Συνέχεια"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Φίλτρα"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Μάθετε περισσότερα για τις ειδοποιήσεις"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Ειδοποιήσεις και προειδοποιήσεις"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Ειδοποιήσεις επεξεργασίας"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Όχι ευχαριστώ"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Αναφορές"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Μήνυμα καλωσορίσματος"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1Δ"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1Ε"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1Χ"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "από \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 ιστορικό γεγονός|\\$1 ιστορικά γεγονότα}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Περισσότερα ιστορικά γεγονότα αυτής της μέρας"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 από \\$2 Βικιπαίδεια"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Αυτήν την μέρα"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Δεν έχετε την άδεια να επεξεργαστείτε αυτή τη σελίδα"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Αυτή η σελίδα είναι προστατευμένη"
+    },
+    {
+      "name": "pictured",
+      "value": "εικονογραφημένο"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Εκκαθάριση αποθηκευμένων αναζητήσεων"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 άρθρα"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Επανακεντρίστε στην τοποθεσία σας"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Εμφάνιση ως κατάλογος"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Εμφάνιση ως χάρτης"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Εμφάνιση περισσότερων άρθρων"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Αναζήτηση σε λήμματα της Βικιπαίδειας με γεωγραφικές τοποθεσίες"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Ενεργοποίηση τοποθεσίας"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Η πρόσβαση στην τοποθεσία σας είναι διαθέσιμη μόνο όταν η εφαρμογή ή ένα από τα χαρακτηριστικά της είναι ορατά στην οθόνη σας."
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Φιλτράρισμα λημμάτων"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Δεν έχετε αποθηκευμένα μέρη"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Αποθηκευμένα άρθρα"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Κορυφαίο διαβασμένο"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 λήμμα|\\$1 λήμματα}}"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Η τοποθεσία είναι ενεργοποιημένη"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Κανένα από τα αποθηκευμένα λήμματά σας έχουν πληροφορίες τοποθεσίας"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "Το \\$1 αντιστοιχεί στο “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Αναζήτηση μερών"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Μήπως εννοούσατε \\$1;"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Πρόσφατες αναζητήσεις"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Όλα τα αποθηκευμένα άρθρα"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Προτεινόμενες αναζήτησεις"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Αποτελέσματα σε αυτή τη περιοχή"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Όλα τα κορυφαία λήμματα"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Κοντινά"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Η τρέχουσα τοποθεσία σας"
+    },
+    {
+      "name": "places_title",
+      "value": "Μέρη"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "Άγνωστη απόσταση"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Εικόνα της ημέρας για το \\$1"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Προσθήκη του \"\\$1\" σε μια λίστα ανάνγωσης;"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ναι, πρόσθεσέ τα στις λίστες ανάγνωσής μου"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Αποθηκευμένα λήμματα που βρέθηκαν"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Δημιουργία λίστας ανάγνωσης"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Περιγραφή"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Όνομα λίστας ανάγνωσης"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Δημιουργία νέας λίστας"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Η λίστα ανάγνωσης διεγράφη"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Το όνομα λίστας ανάγνωσης είναι ήδη σε χρήση"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Ένα απρόβλεπτο σφάλμα συνέβη κατά την διάρκεια της ενημέρωσης των λίστων ανάγνωσής σας."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ναι, κρατήστε τα άρθρα στη συσκευή"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Υπάρχουν άρθρα συγχρονισμένα με τον λογαριασμό σας στη Wikipedia. Θα θέλατε να τα κρατήσετε σε αυτή τη συσκευή, αφού αποσυνδεθείτε;"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Διατήρηση των αποθηκευμένων λημμάτων στην συσκευή;"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Ταξινόμηση λημμάτων"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Φτάστηκε το όριο για αταξινόμητα άρθρα"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Συνδεθείτε ή δημιουργήστε λογαριασμό"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Συγχρονισμός των αποθηκευμένων άρθρων σας;"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "προαιρετική σύντομη περιγραφή"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "τίτλος λίστας ανάγνωσης"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Συγχρονισμός απενεργοποιημένων"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Ενεργοποίηση συγχρονισμού"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Ο συγχρονισμός είναι ενεργοποιημένος σε αυτό το λογαριασμό."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Λήμμα προστέθηκε στο \"\\$1\""
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Μη συγχρονισμένο"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Το όριο λημμάτων ξεπεράστηκε, αποτυχία στον συγχρονισμό άρθρου"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Το όριο λίστας ξεπεράστηκε, αποτυχία στον συγχρονισμό λήμματος"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Άρθρο σε ουρά για λήψη"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Η λίστα σας '\\$1' έχει μετονομαστεί σε '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 λίστα ανάγνωσης|\\$1 λίστες ανάγνωσης}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Προεπιλεγμένη λίστα για τα αποθηκευμένα λήμματά σας"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Αποθηκεύθηκε"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Αυτή η ενέργεια δεν μπορεί να αναιρεθεί. Οποιαδήποτε λήμματα αποθηκευμένα σε {{PLURAL:\\$1|αυτή τη λίστα|αυτές τις λίστες}} θα ξεαποθηκευτούν."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Διαγραφή των {{PLURAL:\\$1|λίστα|λιστών}};"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 λήμμα |\\$1 λήμματα}} και {{PLURAL:\\$2|\\$2 λίστα ανάγνωσης|\\$2 λίστες ανάγνωσης}} έχουν συγχρονιστεί από τον λογαριασμό σας"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Η λίστα δεν συγχρονίστηκε, το όριο ξεπεράστηκε"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Ταξινόμηση των αποθηκευμένων λημμάτων"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Ο συγχρονισμός θα συνεχίσει όταν θα υπάρχει διαθέσιμη σύνδεση στο διαδίκτυο"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Μαύρο θέμα"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Μαύρο θέμα"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Φωτεινό θέμα"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Θέμα Σέπια"
+    },
+    {
+      "name": "reference_title",
+      "value": "Αναφορά \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Σήμερα|1=Χθες|\\$1 ημέρες πριν}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=πρόσφατα|\\$1 ώρα πριν|\\$1 ώρες πριν}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=μόλις τώρα|\\$1 λεπτό πριν|\\$1 λεπτά πριν}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Αυτό το έτος|1=το προηγούμενο έτος|\\$1 χρόνια πριν}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Όλα τα άρθρα"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Η λίστα δεν μπορεί να διαγραφεί"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Αποτυχία στην λήψη εικόνων για αυτή την αποθηκευμένη σελίδα."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Η λήψη λήμματος είναι σε εξέλιξη..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Λίστες ανάγνωσης"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Αναζήτηση αποθηκευμένων άρθρων"
+    },
+    {
+      "name": "saved_title",
+      "value": "Αποθηκεύθηκε"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Ξεαποθήκευση {{PLURAL:\\$1|λήμμα|λημμάτων}};"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Αναζήτηση στη Βικιπαίδεια"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Αναζήτηση στη Βικιπαίδεια"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Διαγραφή όλων των πρόσφατων αναζητήσεων;"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Αυτή η ενέργεια δεν μπορεί να αναιρεθεί!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Διαγραφή Όλων"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Πρόσφατες αναζητήσεις"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Ανακατεύθυνση από: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Αναζήτηση"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Θέμα εφαρμογής"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Ακύρωση"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Βοήθεια και ανατροφοδότηση"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Εμφάνιση γλωσσών στην αναζήτηση"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Οι γλώσσες μου"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Ειδοποιήσεις push"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Δοκιμάστε ξανά"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Βασικά"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Ενημέρωση συγχρονισμένων λιστών ανάγνωσης"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Αποθήκη λημμάτων και συγχρονισμός"
+    },
+    {
+      "name": "settings_title",
+      "value": "Ρυθμίσεις"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Δημιουργήθηκε με την εφαρμογή Βικιπαίδεια"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» στη Βικιπαίδεια:"
+    },
+    {
+      "name": "share_building",
+      "value": "Χτίζοντας μια κάρτα κοινοποίησης ενός γεγονότος..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” από “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nαπό “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Λάβετε κατευθύνσεις"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Κοινοποίηση..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "μέσω της Βικιπαίδειας"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Άνοιγμα στους χάρτες"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” μέσω της Βικιπαίδειας: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” μέσω της Βικιπαίδειας: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Προστέθηκαν πρόσφατα"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Τίτλος"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Πίνακας περιεχομένων"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Κλείσιμο"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Κλείσιμο του Πίνακα περιεχομένων"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Περιεχόμενα"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Συνεισφορές"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Δεν βρέθηκαν αρχειοθετημένες σελίδες."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Αρχεία"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Διαβάστε περισσότερα"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Το σχόλιό σας προστέθηκε"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Συνέχεια επεξεργασίας"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Επεξεργασία κώδικα"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Οι σελίδες συζήτησης είναι οι σελίδες όπου οι άνθρωποι συζητούν πώς να κάνουν το περιεχόμενο στη Βικιπαίδεια όσο το δυνατόν καλύτερο. **Ξεκινήστε προσθέτοντας ένα νέο θέμα συζήτησης** για να συνδεθείτε και να συνεργαστείτε με μια κοινότητα Βικιπαιδιστών."
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Μαύρο"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Σκούρο"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Προεπιλογή"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Σέπια"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Συνεχίστε την σύνδεσή σας"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Συνδεθείτε στο λογαριασμό σας."
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Χρησιμοποιήστε έναν από τους κωδικούς ασφαλείας σας"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Χρησιμοποίησε κωδικό επαλήθευσης"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Εξερεύνηση της τροφοδότησης"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Αυτήν την μέρα"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Καρτέλα μερών"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Ξεκινήστε"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Νέοι τρόποι να εξερευνήσετε"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Κατάλαβα"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Η Βικιπαίδεια γράφεται συνεργατικά από εθελοντές και αποτελείται από περισσότερα από 40 εκατομμύρια λήμματα σε πάνω από 300 γλώσσες."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Μάθετε περισσότερα σχετικά με τη Βικιπαίδεια"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Σχετικά με τη Βικιπαίδεια"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Η Βικιπαίδεια είναι ένα παγκόσμιο εγχείρημα για την κατασκευή ελεύθερων εγκυκλοπαιδειών σε όλες τις γλώσσες του κόσμου. Εικονικά ο καθένας με πρόσβαση στο διαδίκτυο είναι ελεύθερος να συμμετάσχει συνεισφέροντας ουδέτερη, τεκμηριωμένη πληροφορία."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Η ελεύθερη εγκυκλοπαίδεια"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Πρόσθεση άλλης γλώσσας"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Πρόσθεση ή επεξεργασία των προτιμώμενων γλωσσών"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Έχουμε βρει τις ακόλουθες γλώσσες στην συσκευή σας:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Αναζητήστε σε πάνω από 300 γλώσσες"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Ανάκτηση προεπισκόπησης των αλλαγών σας σε εξέλιξη..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Αυτός ο σύνδεσμος οδηγεί στο '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Προεπισκόπηση συνδέσμου"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Σφάλμα επαλήθευσης CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Χρειάζεται επιβεβαίωση CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Γίνεται δημοσίευση..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Οι επεξεργασίες θα αποδοθούν στην διεύθυνση IP της συσκευής σας. Αν \\$1, θα έχετε περισσότερη ιδιωτικότητα."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Όροι χρήσης"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Επειδή διαβάζετε"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Άλλο τυχαίο άρθρο"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Από την %s Βικιπαίδεια"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Στην %s Βικιπαίδεια"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Από τα Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Δεν υπάρχει ιστορικό για εμφάνιση"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Απόκρυψη αυτής της κάρτας"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Εξατομικεύστε την ροή Εξερεύνησης"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Περιγραφή λήμματος για %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s από %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Μήπως εννοούσατε %s;"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "Συνεισφορές αυτόν τον μήνα"
+    }
+  ]
+}

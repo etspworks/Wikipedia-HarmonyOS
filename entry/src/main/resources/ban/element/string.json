@@ -1,0 +1,1796 @@
+{
+  "string": [
+    {
+      "name": "about_content_license",
+      "value": "Lisénsi  kontén"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Kontén wenten ring sor \\$1 sajabaning kabaosang lianan"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Lisénsi Atribusi-MawagiArupa Creative Commons"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Papituut"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Kapustakan sané kaanggén"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "daptar jangkep"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisénsi"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Titiang demen ring perangkat lunak kapustakan sane maungkaban"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "lisénsi peta indik genah"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Genah nganggén peta sané kasediayang olih Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Durus cingak iriki antuk pidarta lisénsi"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Kakardi olih \\$1 sareng wantuan saking makudang sukarélawan sekadi ragané"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Panyimpenan"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kode wit kasedia ring sor \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Lisénsi MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Kirim umpan walik aplikasi"
+    },
+    {
+      "name": "about_title",
+      "value": "Indik"
+    },
+    {
+      "name": "about_translators",
+      "value": "Pangalih basa"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Kaalih basa olih pangayah ring"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Yayasan Wikimédia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ten prasida nyingakin gambar? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Ngamolihang CAPTCHA anyar..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Nunas akun."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Panuréksaan kaamanan CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Kardi akun ragané"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Sampun madué akun? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Manjing log."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Ngeranjingin log..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Ragané patut manjingang wastan anganggé, kruna sandi, lan konfirmasi kruna sandi anggén ngaryanin akun."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Widang kruna sandi nénten pateh"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Ngaraksa..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Kardi akun anyar"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Akun Ragané"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Akun ical"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Kaca pabligbagan ragané"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Otomatis nanda tanganin diskusi"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Penandatanganan otomatis diskusi pacang nganggén tanda tangan sané sampun katentuang ring setélan Tanda tangan"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Préférénsi kaca pabligbagan"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Wewhin nuju..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Weweh ring lis wacénan"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Weweh nuju lis"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Wangdé"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Kutang Uahan"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Kutang uahan"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Ngerereh ring kaca"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Tetep Nguahin"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Gentos basa"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Gingsir nuju…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Gingsirang nuju lis wacénan"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Révisi salanturné"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Révisi sadurungné"
+    },
+    {
+      "name": "action_read",
+      "value": "Wacén"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ulihang"
+    },
+    {
+      "name": "action_remove",
+      "value": "Kutang"
+    },
+    {
+      "name": "action_retry",
+      "value": "Indayang"
+    },
+    {
+      "name": "action_save",
+      "value": "Raksa"
+    },
+    {
+      "name": "action_saved",
+      "value": "Karaksa"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Kasineb. Idupan antuk nénten nyineb"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Suratan kasineb nyanan"
+    },
+    {
+      "name": "action_share",
+      "value": "Sobyahang"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Sobyahang"
+    },
+    {
+      "name": "action_sort",
+      "value": "Urut"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Ngaturang Suksma"
+    },
+    {
+      "name": "action_undo",
+      "value": "Ulihang"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Durung karaksa"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Suratan durung kasineb"
+    },
+    {
+      "name": "action_update",
+      "value": "Anyarin"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Wewehin gambar sané kausulang ring suratan Wikipédia mangda prasida nincapang pangresepan."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Wewehin gambar"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Napi wénten pikayunan wewehan?"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Ragané durung kauahin ring wuku puniki. Kawitin mangkin anggén ngelacak pituut ragané."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Lacak napi sané sampun kawacén lan cingakin pituut ragané langkung galah nganggén cara anyar"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Ngranjing utawi karyanin akun anggén nyingakin parilaksana nguahin lan ngawacén."
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Nétral"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Ngawit nguahin"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Parilaksana"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Cingak suratan karaksa"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Ragané kauah {{PLURAL:\\$1|kaping \\$1}} ring wuku niki."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Ragané ngwacén {{PLURAL:\\$1|\\$1 suratan}} ring wuku niki."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Ragané karaksa {{PLURAL:\\$1| \\$1 suratan}} ring wuku niki."
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Wewehin {{PLURAL:\\$1|\\$1 suratan|\\$1 suratan}} nuju lis wacénan"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Setélan lantur"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Ragané nganggén akun sauntara. Akun pacang kadaluwarsa ring 90 rahina."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Pelajahin malih."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Barén walik sampun kakirim"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Tutup"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Énsiklopédia bébas"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Téma wacénan"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opsi téma"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Indik suratan puniki"
+    },
+    {
+      "name": "article_delete",
+      "value": "Apus"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|suratan}} kausap"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Rereh basa"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pilih basa"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Basa tiosan"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Basa ragané"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Wacén malih"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Pustaka \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "Sobyahang"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Buka"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "Buka ring tab latar ungkur"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Buka ring tab anyar"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Kaca pabligbagan suratan"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kontrol Tema Pangwacén"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Akun sauntara \\$1 kakaryanin risampuné uahan ragané kawedar. Punika pacang kadaluwarsa ring 90 rahina."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Akun sauntara kakaryanin"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Walik"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Ketok anggén mawali"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Mawali"
+    },
+    {
+      "name": "button_next",
+      "value": "Selanturné"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Wedar"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Wedar manten"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Parandika satunggal kakutu"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Raksa antuk nyanan"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Karaksa antuk nyanan"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Apus saking kasimpen"
+    },
+    {
+      "name": "button_skip",
+      "value": "Liwatin"
+    },
+    {
+      "name": "cancel",
+      "value": "Wangdé"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Resikin"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Sineb makasami tab"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Napiké ragané jagi nyineb \\$1 tab makasami? Parilaksana puniki nénten prasida kawaliang."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Sineb \\$1 tab makasami?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Sineb"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Sineb tab sané lianan"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Sineb tab?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Sineb tab"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ring pukul \\$1 tepet"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Puniki wantah prasida kalaksanayang antuk punia sané kamargiang saking piranti puniki."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Konfirmasi pangapusan"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Babad lokal kaapus"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Lanturang"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Jelajahin Wikipédia antuk suratan sané lianan antuk kawacén"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nénten wénten suratan mangkin kawacén"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Nganyarin..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Weweh déskripsi"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Indik"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Indik Wikidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Pidarta lianan"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "gegambaran karya Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "gunung pinih tegeh ring Gumi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Antuk conto:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Puput"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Jaga mangda cutet"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Ngawit nguahin"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Uahan Sadurungné"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Bina révisi"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Uahan Kasinahang"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Bina révisi"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Sinahang"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Engkebang"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Carik \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Paragraph kagingsirang"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "tedun"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "munggah"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 baris}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "\\$1 wagian"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Paragraph kagingsirang \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Tan kaprasida ngamuat révisi"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Waliang"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 uahan}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 bita kawewehin}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 bita kaapus}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Uah ringkesan"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Carik \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anganggé anonim tan prasida ngaturang suksma"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Aturin 'Matur suksma'"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Wedhar 'Matur Suksma'"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 baris tan kauahin}}"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Punia nganggén Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Punia nganggén Apple Pay utawi pilih cara nawur sané tiosan."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Cara nawur sané tiosan"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Punia nganggén Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Kabarésan ragané dahat mabuat pisan ring iraga."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Matur suksma!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Pilih akéh"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Pranala sasaran"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Usap pranala"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Uah pranala"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Uah"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Puniki uahan alit"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Panguningan uahan"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Sinahang pracingak wéb"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Wewehin ringkesan uahan"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Gambar kawewehin"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Gambar miwah sesirah kawewehin"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Becikang tata basa"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Becikang iwang tik"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Wewehin pranala"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Awasin kaca puniki"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Uah wit"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Tebel"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Sineb menu paformatan téks"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Panampen"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Sesirah"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Kirangin indén"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Munggahang indén"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Séndéh"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Pranala"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Lis kabacak"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Lis ten kabacak"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Paragrap"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Pustaka"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Corét"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Sub-sesirah 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Subsesirah 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Subsesirah 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Subsesirah 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Aksara sor"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Aksara duur"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Mal"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Paformatan Téks"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Garis sor"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Ngamargiang operasi gentosan. Soroh gentosan sampun kaatur nuju \\$1."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Resiki gentosan"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Gentos"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Gentosin nganggén..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Gentosin makasami"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Gentos makasami conto"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Silurin soroh gentosan. Mangkin antuk nuju \\$1. Pilih antuk nguah"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Gentos"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Gentos asiki manten"
+    },
+    {
+      "name": "editor_title",
+      "value": "Panguah"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Paformatan téks tebel"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Pilih berkas saking Wikimédia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Ampura, suratan nénten prasida kamuat"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Ragané kantun prasida ngawacén kaca karaksa"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Krana ragané wacén"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Wewehan suratan kakait"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Lanturang ngawacén"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Mawali nuju barén Jelajah"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Saking Wikipédia \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Saking Wikipédia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Mati"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Idupan samian"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Ring"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Ring \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Kartu global"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Kaca utama proyék Wikimédia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Rahina mangkin ring Wikipédia"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Wacénan pinih duur"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Pinih duur ring \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Ring Wikipédia \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Ring Wikipédia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Genah nampek"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Genah"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Saking Wikipédia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Saking Wikipédia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Genah ragané"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Genah ragané saking \\$1 Wikipédia"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Gambar rahina mangkin"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Saking Wikimédia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Kaca ulah-aluh"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Saking Wikipédia \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Saking Wikipédia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Ulah-aluh"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Weweh"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Saking Wikipédia \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Saking Wikipédia"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Suratan utama"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Kruna sandi nénten pateh"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Téks CAPTCHA"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "conto@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Rerepél"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Rerepél (opsional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Manjingang malih kruna sandi anyar"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Pastiang kruna sandi anyar"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Manjingang kruna sandi anyar"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Kruna sandi anyar"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "manjingang malih kruna sandi"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Pastiang kruna sandi"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "manjingang kruna sandi"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Kruna sandi"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kode vérifikasi"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "manjingang peséngan sang anganggé"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Peséngan sang anganggé"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Sinamian"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Apus rerehan"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Asil parerehan salanturné"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Asil parerehan sadurungné"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Rereh miwah silurin"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Sineb rereh miwah silurin"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Rereh"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Jumu"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Jumu kruna sandi"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Utawi"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Nggih, apus makasami"
+    },
+    {
+      "name": "history_title",
+      "value": "Lelintihan"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Liyanan sekadi \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "Jelajahin"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Suratan nampek"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Kaca ulah-aluh"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Rereh Wikipédia"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nénten"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Nénten pasti"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Inggih"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Sarengin survéi"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Saking Wikipédia \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Saking Wikipédia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Ring paortian"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Sisipang"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Sisipin pralana"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Sesirah"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Tengah"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Kiwa"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Nénten wénten"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Tengen"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Genah gambar"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Pidarta lianan"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Pilih gambar"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Kustom"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Baku"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Tegeh"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Linggah"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Ukuran gambar"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Dasar"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Bingkai"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Tanbingkai"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Gambar alit"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Soroh gambar"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Setélan média"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Sisipang média"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Basa"
+    },
+    {
+      "name": "languages_title",
+      "value": "Gentos basa"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Basa Wikipédia"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Pelajahin malih"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Sarengin Wikipédia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Durung madué akun? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Manjing log nuju akun ragané"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Indik aplikasi"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Manjing log"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Medal log"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Napiké ragané yakti pacang medal log?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Sampun manjing dados \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Peragaan miwah Katentuan"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Nampek"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Parikrama paragaan"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Icenin nilai aplikasi"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Katentuan Pawigunaan"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Malih"
+    },
+    {
+      "name": "main_page",
+      "value": "Kaca utama"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Rereh Wikipédia ring langkung 300 basa"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Weweh basa"
+    },
+    {
+      "name": "more_menu",
+      "value": "Malih"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Gingsirang {{PLURAL:\\$1|\\$1 suratan}} nuju lis wacénan"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Pracingak"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Atur kruna sandi Ida"
+    },
+    {
+      "name": "new_tab",
+      "value": "Tab anyar"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Selanturné"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Nénten kasambung internét"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nyanan"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Saking \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Paingetan"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Gentos kruna sandi"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Ring aplikasi"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Ring wéb"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 saring}}"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Sinamian"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Wacén"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Durung kawacén"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Status Wacén"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Panyaringan"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Samian soroh"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Suratan"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 kaca pabligbagan"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Bina"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Puput"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Cihna makasami dados kawacén"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Cihna dados kawacén"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Cihna durung kawacén"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Malih"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nénten suksma"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Saring Proyék"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Sinamian"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Makasami pikélingan"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Kasaring mawit"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Wacén"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Suksma"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Rahajeng rauh!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Cihna dados kawacén"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Lianan"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Suksma"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Pangripta: \\$1"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Kawewehin {{PLURAL:\\$1|\\$1 bita}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Kausap {{PLURAL:\\$1|\\$1 bita}}"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 uahan}} saking \\$2"
+    },
+    {
+      "name": "page_location",
+      "value": "Cingak ring peta"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Saring suratan"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Wacénan pinih duur"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Rereh Genah"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Makasami suratan kasimpen"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MédiaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibuku"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimédia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikiorti"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikianggit"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikipustaka"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispésiés"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversitas"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikimalali"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikikruna"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Apus {{PLURAL:\\$1|lis|lis}}?"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Rahina mangkin|1=dibi|\\$1 rahina sané ungkur}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1j"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Wawu|\\$1 jam sané ungkur}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h sané ungkur"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Wawu|1= amenit ungkur|\\$1 menit ungkur}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m sané ungkur"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Sasih mangkin|1=Asasih ungkur|\\$1 sasih ungkur}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s sané ungkur"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Warsa mangkin|1=Awarsa ungkur|\\$1 warsa ungkur}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Makasami suratan"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Rereh Wikipédia"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Rereh Wikipédia"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Apus Makasami"
+    },
+    {
+      "name": "search_title",
+      "value": "Rereh"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Wangdé"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" ring Wikipédia:"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” saking Wikipédia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” saking Wikipédia: \\$2"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Murda"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Wacén"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Wacén ring wéb"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Wacén malih"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Wacénan pinih duur"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Lanturang manjing log."
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Manjing log nuju akun ragané"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nénten, suksma"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Iraga sampun nemuin basa puniki ring piranti ragané:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Rereh ring langkung 300 basa"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Pranala puniki nuju situs wéb jaba: \\$1"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Krana ragané wacén"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Saking Wikipédia %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Ring Wikipédia %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Saking Wikimédia Commons"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

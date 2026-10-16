@@ -1,0 +1,4284 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Giấy phép nội dung"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Trừ khi được chỉ rõ, toàn bộ nội dung được phát hành theo \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Giấy phép Creative Commons Ghi công–Chia sẻ tương tự"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Người đóng góp"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Thư viện được sử dụng"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Danh sách đầy đủ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Giấy phép"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Chúng tôi yêu phần mềm nguồn mở \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Giấy phép bản đồ địa điểm"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Địa điểm sử dụng bản đồ do Bản đồ Apple cung cấp. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Xem chi tiết giấy phép tại đây"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Do \\$1 phát triển nhờ sự giúp đỡ của những người tình nguyện như bạn"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Kho mã nguồn"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Mã nguồn được phát hành theo \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Giấy phép MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Gửi phản hồi về ứng dụng"
+    },
+    {
+      "name": "about_title",
+      "value": "Giới thiệu"
+    },
+    {
+      "name": "about_translators",
+      "value": "Biên dịch viên"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Biên dịch bởi những tình nguyện viên tại \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Quỹ Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Không thấy được hình này? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Đang lấy CAPTCHA mới…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Yêu cầu tài khoản."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Kiểm soát an toàn bằng CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Tạo tài khoản mới"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Đã mở tài khoản rồi? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Đăng nhập."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Đang đăng nhập…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Bạn phải nhập một tên người dùng và mật khẩu và xác nhận mật khẩu để mở tài khoản."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Mật khẩu không khớp."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Đang lưu…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Mở tài khoản mới"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Tài khoản của Bạn"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Hủy tài khoản"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Trang thảo luận của bạn"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Tự động ký thảo luận"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Tự động ký các cuộc thảo luận sẽ sử dụng chữ ký trong tùy chọn Chữ ký"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Tùy chọn trang thảo luận"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Thêm vào…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Thêm vào danh sách đọc"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Thêm vào danh sách"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Hủy bỏ"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Từ bỏ sửa đổi"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Từ bỏ các sửa đổi"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Tìm trong trang"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Sửa tiếp"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Thay đổi ngôn ngữ"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Chuyển tới…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Di chuyển tới danh sách đọc"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Phiên bản Sau"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Phiên bản Trước"
+    },
+    {
+      "name": "action_read",
+      "value": "Đọc"
+    },
+    {
+      "name": "action_redo",
+      "value": "Làm lại"
+    },
+    {
+      "name": "action_remove",
+      "value": "Xóa"
+    },
+    {
+      "name": "action_retry",
+      "value": "Thử lại"
+    },
+    {
+      "name": "action_save",
+      "value": "Lưu"
+    },
+    {
+      "name": "action_saved",
+      "value": "Đã lưu"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Đã lưu. Kích hoạt để bác bỏ."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Đã lưu bài để đọc sau"
+    },
+    {
+      "name": "action_share",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sắp xếp"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Cảm ơn Người dùng"
+    },
+    {
+      "name": "action_undo",
+      "value": "Hoàn tác"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Bỏ lưu"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Đã bỏ lưu bài viết"
+    },
+    {
+      "name": "action_update",
+      "value": "Cập nhật"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Thêm hình ảnh gợi ý vào bài viết Wikipedia để tăng khả năng nhận diện."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Thêm hình ảnh"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Bạn có suy nghĩ nào muốn chia sẻ không?"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|\\$1 lượt xem}}"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Bài viết"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Bạn chưa sửa đổi bài viết nào trong tuần này. Hãy bắt đầu ngay để theo dõi bài viết của bạn."
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 ngày}}"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Hoạt động gần đây của bạn (30 ngày qua)"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Xóa lịch sử đọc"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Trung lập"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Bạn chưa sửa đổi tuần này. Hãy thêm hình ảnh để hiểu rõ hơn về bài viết."
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "Tìm hiểu thêm về Hoạt động"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Xem lịch sử đọc"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Hài lòng"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Bắt đầu sửa đổi"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Hoạt động"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Rất hài lòng"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Rất không hài lòng"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Xem lịch sử sửa đổi"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Xem lịch sử đọc"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Xem các bài viết đã lưu"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Tuần"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Bạn đã sửa đổi {{PLURAL:\\$1|\\$1 lần}} trong tuần này."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Bạn đã đọc {{PLURAL:\\$1|\\$1 bài viết}} trong tuần này."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Bạn đã lưu {{PLURAL:\\$1|\\$1 bài viết}} trong tuần này."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Hoạt động của bạn"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Thêm \\$1 bài viết vào danh sách đọc"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Tùy chọn nâng cao"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Bạn đang sử dụng tài khoản tạm thời. Tài khoản này sẽ hết hạn sau 90 ngày."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Tìm hiểu thêm."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Đã gửi phản hồi"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Thôi"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, tham khảo, wiki, bách khoa toàn thư, bktt, bách khoa thư, từ điển bách khoa, tđbk, thông tin, kiến thức, tri thức, nghiên cứu, khám phá, học hỏi, tìm hiểu"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Nguồn cấp Thám hiểm có thể tùy biến hoàn toàn và đọc dễ dàng hơn. Địa phương hóa, tối ưu hóa, và sửa lỗi."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Tải về ứng dụng Wikipedia để thám hiểm các địa điểm lân cận, đồng bộ hóa bài viết để đọc ngoại tuyến, và tùy biến trải nghiệm đọc bài."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Bách khoa toàn thư mở"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Điều chỉnh kích thước văn bản trong bài"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Mở rộng các bảng"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Mở rộng tất cả các bảng trong các bài viết theo mặc định, bao gồm Thông tin nhanh, Tham khảo, Chú thích, và Liên kết ngoài."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Giảm độ mờ của hình ảnh trên các giao diện tối và đen"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Giao diện đọc"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Cài đặt Bảng"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "Biểu tượng ứng dụng"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Kéo con trượt để điều chỉnh kích thước văn bản trong bài. Cấu hình kích thước văn bản hệ thống để thay đổi kích thước văn bản ở các phần khác của ứng dụng."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Tùy chọn giao diện"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Thông tin về bài viết"
+    },
+    {
+      "name": "article_delete",
+      "value": "Xóa"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "đã xóa {{PLURAL:\\$1|bài|các bài}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Ứng dụng không thể truy xuất nội dung cập nhật kịp thời. Vui lòng làm mới trang này sau để xem các thay đổi của bạn."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Tìm ngôn ngữ"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Chọn ngôn ngữ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Ngôn ngữ khác"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Ngôn ngữ của bạn"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Đọc thêm"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Tham chiếu \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "Trở về: \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Lịch sử sửa đổi bài viết"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Bạn không có đủ dung lượng trống trên bộ nhớ để lưu bài viết này"
+    },
+    {
+      "name": "article_share",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Mở"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Mở trong thẻ mới"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Trang thảo luận bài viết"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Điều khiển Giao diện Đọc bài"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Tài khoản tạm thời \\$1 đã được tạo sau khi sửa đổi của bạn được đăng tải. Tài khoản này sẽ hết hạn sau 90 ngày."
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Quay lại"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Chạm để quay lại"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Quay lại"
+    },
+    {
+      "name": "button_next",
+      "value": "Tiếp"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Đăng"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Cứ đăng"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Báo lỗi"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Lưu để đọc sau"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Đã lưu"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Xóa khỏi Đã lưu"
+    },
+    {
+      "name": "button_skip",
+      "value": "Bỏ qua"
+    },
+    {
+      "name": "cancel",
+      "value": "Hủy bỏ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Ứng dụng Wikipedia hiện hỗ trợ các kiểu chữ Hán sau đây khi sử dụng tiếng Trung làm ngôn ngữ chính hoặc phụ trong ứng dụng, giúp bạn đọc, tìm kiếm, và sửa đổi dễ dàng hơn trong kiểu chữ ưa thích của mình:\n\n简体 Trung giản thể (zh-hans)\n香港繁體 Hồng Kông phồn thể (zh-hk)\n澳門繁體 Ma Cao phồn thể (zh-mo)\n大马简体 Mã Lai giản thể (zh-my)\n新加坡简体 Singapore giản thể (zh-sg)\n臺灣正體 Đài Loan phồn thể (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Cập nhật hỗ trợ biến thể chữ Hán"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Xóa sạch"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Xóa bộ nhớ đệm hoàn tất."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Đang xóa bộ nhớ đệm."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Đóng"
+    },
+    {
+      "name": "compass_direction",
+      "value": "hướng \\$1 giờ"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Xác nhận"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Tiếp tục"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Kiếm thêm bài Wikipedia để đọc"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Không bài nào được đọc gần đây"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Tatar Crưm là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nQırımtatarca, Latin Tatar Crưm chữ Latinh (chr-latn)\nкъырымтатарджа, Кирил Tatar Crưm chữ Kirin (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Cập nhật hỗ trợ hệ chữ viết trong tiếng Tatar Crưm"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Đang cập nhật…"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Thêm lời tóm lược"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Tóm lược bài viết \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Với việc thay đổi lời tóm lược bài viết, tôi chấp nhận \\$1 và đồng ý phát hành các đóng góp của mình theo giấy phép \\$2 một cách không thể hủy bỏ."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Sửa phần đầu"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Sửa lời tóm lược bài viết"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Lời tóm lược càng ngắn càng tốt"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Đăng tóm lược"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Sửa tóm lược"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Cố gắng giữ lời tóm lược cho ngắn gọn để người dùng có thể hiểu nhanh chủ đề của bài viết"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Viết thường chữ đầu của lời tóm lược; chỉ viết hoa danh từ riêng."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Tài khoản tạm thời \\$1 đã được tạo sau khi sửa đổi của bạn được đăng tải. Tài khoản này sẽ hết hạn sau 90 ngày."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Lời tóm lược bài viết giúp độc giả dễ dàng hiểu chủ đề."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Giới thiệu"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Giới thiệu về Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Các lời tóm lược bài viết được lưu trữ trên Wikidata, một dự án trực thuộc Quỹ Wikimedia cung cấp cơ sở kiến thức chung tự do, hợp tác, đa ngôn ngữ, hỗ trợ Wikipedia và các dự án khác."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Xem thêm thông tin"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Lời tóm lược nên vừa một dòng không nên dài quá 60 ký tự. Các lời tóm lược không nên viết hoa ở đầu câu trừ khi đầu câu là danh từ riêng."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "lời tóm lược bài viết về Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "lời tóm lược bài viết về đỉnh Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "bức tranh của Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ngọn núi cao nhất trên Trái Đất"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Ví dụ:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Cách tóm lược bài viết"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Trợ giúp tóm lược bài viết"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Hướng dẫn viết miêu tả tại Wikidata"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Xong"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Bạn vừa cải thiện Wikipedia cho mọi người"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Đã đăng lời tóm lược!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Hãy cố gắng ghi lời tóm lược vừa một dòng và không quá 60 ký tự"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Làm ngắn gọn"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Tóm lược bài để giúp độc giả dễ dàng hiểu đề tài"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Tóm lược bài viết"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Với việc bắt đầu sửa đổi lời tóm lược, tôi hứa sẽ không lạm dụng tính năng này"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Bắt đầu sửa đổi"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Lịch sử sửa đổi bài viết"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Sửa đổi trước"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "So sánh các Phiên bản"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Sửa đổi được Hiển thị"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "So sánh các Phiên bản"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Nội dung đã bị xóa, \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Hiện"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Ẩn"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Phiên bản được tạo lúc"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Các dòng \\$1–\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Đoạn văn được di chuyển"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "xuống"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "lên"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "\\$1 dòng"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "\\$1 phần"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Đoạn văn đã được di chuyển \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Không thể tải dữ liệu phiên bản."
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Lùi tất cả"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Bạn có chắc chắn muốn lùi các sửa đổi không?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Lùi sửa đổi"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Đã lùi các sửa đổi."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "\\$1 sửa đổi"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Thông tin người dùng"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "\\$1 ký tự được thêm"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "\\$1 byte được xóa"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Tóm lược sửa đổi"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Giới thiệu"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Dòng \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Người dùng chưa đăng nhập không thể gửi lời cảm ơn"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Lời cảm ơn là một cách dễ dàng để thể hiện sự đánh giá cao đối với công việc của một người dùng trên Wikipedia. Bạn phải đăng nhập để gửi lời cảm ơn."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Đăng nhập để gửi lời cảm ơn"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Gửi lời cảm ơn"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Lời cảm ơn là một cách dễ dàng để thể hiện sự đánh giá cao đối với công việc của một biên tập viên trên Wikipedia. Không thể hoàn tác lời cảm ơn và có thể xem công khai."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Gửi lời cảm ơn công khai"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Lời cảm ơn của bạn đã được gửi tới \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Bạn đã gửi lời cảm ơn vì sửa đổi này"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Không thể hoàn tác cảm ơn"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Thao tác này sẽ hoàn tác các thay đổi được thực hiện bởi (các) bản sửa đổi của bài viết được hiển thị ở đây. Để tiếp tục, vui lòng cung cấp lý do để hoàn tác chỉnh sửa này."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Bản sửa đổi đã được hoàn tác."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "\\$1 dòng chưa được sửa đổi"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Nhấn đúp để mở menu"
+    },
+    {
+      "name": "dim_images",
+      "value": "Làm tối các hình ảnh"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Quyên góp bằng Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Quyên góp bằng Apple Pay hoặc chọn phương thức thanh toán khác."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Phương thức thanh toán khác"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Quyên góp bằng Apple Pay?"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Cảm ơn bạn!"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Hiển thị văn bản"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Đích của liên kết"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Xóa liên kết"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Sửa liên kết"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Sửa đổi"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Điều này có thể là do văn bản bạn đã chọn không thể chỉnh sửa được (ví dụ: tiêu đề bài viết hoặc tiêu đề hộp thông tin) hoặc do độ dài của văn bản được đánh dấu"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Không tìm thấy văn bản được chọn"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Tìm hiểu thêm về các sửa đổi nhỏ"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Đây là một sửa đổi nhỏ"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Thông báo sửa đổi"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Luôn hiển thị thông báo sửa đổi"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Vui lòng đọc trước khi sửa đổi"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Thêm tóm lược sửa đổi"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Sửa ngữ pháp"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Sửa chính tả"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Đặt liên kết"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Bạn đã cải thiện bài này như thế nào?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Đã thêm mô tả ngắn"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Đã cập nhật mô tả ngắn"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Tìm hiểu thêm về danh sách theo dõi của bạn"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Theo dõi trang này"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Hãy mạnh dạn nhưng không liều lĩnh trong việc cập nhật bài viết. Đừng lo lắng khi mắc lỗi: mọi phiên bản trước đây của trang đều được lưu lại, do đó cộng đồng của chúng tôi có thể dễ dàng sửa lỗi."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Bạn có tiếng nói quan trọng chứ"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Tất cả nội dung phải được kiểm chứng. Khi thêm thông tin mới vào một bài viết, người biên tập nên cung cấp trích dẫn nội tuyến cho một nguồn đáng tin cậy hỗ trợ trực tiếp cho sự đóng góp."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Chú thích các nguồn gốc đáng tin cậy"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Chúng tôi cố gắng để các bài viết được viết với giọng điệu khách quan. Khi chỉnh sửa, hãy cố gắng thể hiện thế giới một cách công bằng như những nguồn đáng tin cậy mô tả."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Đạt đến thái độ trung lập"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Để cung cấp cho mọi người khả năng tiếp cận kiến thức của thế giới, chúng tôi cần bạn tham gia vào quá trình tạo ra nó bằng cách đọc, chỉnh sửa và đóng góp cho các chủ đề quan trọng nhất đối với bạn."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Giải phóng kiến thức"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Sửa đổi của bạn đã được xuất bản."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Sửa mã nguồn"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Bạn có chắc chắn muốn rời chế độ sửa đổi mà không lưu trang trước?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Thoát chế độ chỉnh sửa?"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Đậm"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Đề mục"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Xiên"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Liên kết"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Danh sách đánh số"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Danh sách không đánh số"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Đoạn văn"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Đề mục con 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Đề mục con 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Đề mục con 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Đề mục con 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Viết xuống dưới"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Viết lên trên"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Bản mẫu"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Thay thế bằng..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Thay tất cả"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Thay thế"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Tìm trong trang"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Các phiên bản không có khác biệt"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Không có thay đổi xem được"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Chọn một tập tin từ Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Rất tiếc, không thể tải bài"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Bạn vẫn có thể đọc các trang đã lưu"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Bạn có thể xem các bài được gợi ý cho bạn khi bạn có kết nối Internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Ghi lại danh sách các trang bạn đã đọc ở đây"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Không có gì để hiển thị"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Bài viết này chưa được viết trong ngôn ngữ nào khác"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Không có sẵn ngôn ngữ khác"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Tạo danh sách đọc về những điểm du lịch thú vị, những chủ để bạn yêu thích và nhiều hơn nữa"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Sắp xếp các bài viết được lưu vào thiết bị bằng danh sách đọc"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Lưu các trang vào danh sách này để chúng xuất hiện ở đây"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Chưa có trang nào được lưu vào danh sách này"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Lưu trang để xem sau, thậm chí để xem ngoại tuyến."
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Chưa lưu trang nào."
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Không tìm thấy kết quả"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Tin nhắn chưa được đăng cho người dùng này"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Xin vui lòng thử lại sau"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Đã xuất hiện lỗi bất ngờ."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Một bài ngẫu nhiên nữa"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Vì bạn đã đọc"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Thêm bài có liên quan"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Đọc tiếp"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Quay lại nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Duyệt các bài gần vị trí hiện tại của bạn"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Bài viết chọn lọc"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Từ Wikipedia \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Từ Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Tùy chỉnh"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Cài đặt ngôn ngữ nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Có thể chọn thêm ngôn ngữ trong trang cài đặt “Ngôn ngữ của tôi”."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Phiếu đã ẩn"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Liên kết để nhanh chóng quay lại đọc bài đang mở"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Tùy biến nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Tùy biến nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Việc tắt loại phiếu sẽ ẩn loại phiếu không xuất hiện trong nguồn cấp Thám hiểm."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Thẻ Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Bài viết chọn lọc trong ngày tại Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Tắt"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Bật (tất cả)"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Bật"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Bật (\\$1)"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Tất cả phiếu \\$1 đã ẩn"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Phiếu này không thuộc về một ngôn ngữ nào đó. Việc tắt nó sẽ xóa nó khỏi nguồn cấp Thám hiểm."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Phiếu không thuộc ngôn ngữ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Không thuộc ngôn ngữ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Phiếu toàn cục"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Ẩn phiếu này"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Ẩn tất cả phiếu “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Bài về thời sự"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Việc tắt tất cả các phiếu nguồn cấp Thám hiểm trong các ngôn ngữ của bạn sẽ tắt hẳn thẻ Thám hiểm."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Sự kiện xảy ra ngày này năm xưa"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Bài Wikipedia gần vị trí của bạn"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Hình ảnh chọn lọc trong ngày từ Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Đưa ra bài viết ngẫu nhiên để đọc"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Gợi ý tùy theo lịch sử đọc bài"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Hiện phiếu Tiếp tục đọc"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Việc tắt phiếu Bài viết chọn lọc sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Hiện phiếu Bài viết chọn lọc"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Việc tắt phiếu Tin tức sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Hiện phiếu Tin tức"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Việc tắt phiếu Ngày này năm xưa sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Hiện phiếu Ngày này năm xưa"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Hiện phiếu Hình ảnh trong ngày"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Việc tắt phiếu Địa điểm sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Hiện phiếu Địa điểm"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Việc tắt phiếu Ngẫu nhiên sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Hiện phiếu Ngẫu nhiên"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Hiện phiếu Vì bạn đã đọc"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Việc tắt phiếu Bài đọc nhiều nhất sẽ tắt phiếu trong mọi ngôn ngữ có sẵn."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Hiện phiếu Bài đọc nhiều nhất"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Bài đọc nhiều nhất trong ngày"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Tắt nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Việc tắt tất cả các phiếu nguồn cấp Thám hiểm sẽ tắt hẳn thẻ Thám hiểm và thay thế nó bằng thẻ Cài đặt"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Tắt nguồn cấp Thám hiểm?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Tắt Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Bạn có thể bật lại thẻ Thám hiểm trong cài đặt nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Tắt thẻ Thám hiểm?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Việc tắt thẻ Thám hiểm sẽ thay thế thẻ Thám hiểm bằng thẻ Cài đặt."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Các phiếu nguồn cấp Thám hiểm sẽ xuất hiện trong thẻ Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Bật Thám hiểm"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Thẻ Cài đặt sẽ được thay thế bằng thẻ Thám hiểm. Bạn có thể truy cập Cài đặt bằng cách chạm vào hình bánh răng ở đầu thẻ Thám hiểm."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Bật thẻ Thám hiểm?"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "Trò chơi"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Ẩn phiếu này"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "trang đầu của dự án Wikimania"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hôm nay tại Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Tất cả các bài đọc nhiều nhất"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Bài đọc nhiều nhất"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Hạng nhất vào \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Tại Wikipedia tiếng \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Tại Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Địa điểm gần"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Địa điểm"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Từ Wikipedia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Từ Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Vị trí của bạn"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Vị trí của bạn từ Wikipedia tiếng \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Hình ảnh trong ngày"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Từ Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Bài viết ngẫu nhiên"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Từ Wikipedia \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Từ Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Ngẫu nhiên"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Thêm"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Thêm hình ảnh"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Chia sẻ thư viện ứng dụng của bạn bao gồm dữ liệu về danh sách Đọc và lịch sử, tùy chọn cũng như nội dung nguồn cấp dữ liệu Khám phá. Tệp dữ liệu này chỉ nên được chia sẻ với người nhận đáng tin cậy để sử dụng cho mục đích chẩn đoán kỹ thuật."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Chia sẻ thư viện ứng dụng?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Đã xảy ra lỗi khi xuất dữ liệu của bạn. Vui lòng thử lại sau."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Bạn không có đủ dung lượng thiết bị để xuất dữ liệu người dùng của mình. Vui lòng thử lại sau."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Xuất dữ liệu người dùng"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Không có sẵn bài viết chọn lọc vào ngày này."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Khám phá những bài viết hay nhất trên Wikipedia, được cộng đồng của chúng tôi lựa chọn hàng ngày."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Từ Wikipedia \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Từ Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Ngôn ngữ Wikipedia chính của bạn không hỗ trợ Bài viết nổi bật. Bạn có thể cập nhật Wikipedia chính của mình trong menu Cài đặt của ứng dụng."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Bài viết chọn lọc"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Đã xuất hiện một lỗi bất ngờ. Xin vui lòng thử lại sau."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Máy chủ đã phản hồi ứng dụng một cách bất ngờ. Xin vui lòng thử lại sau."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA không hợp lệ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Mật khẩu không khớp"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Mã không hợp lệ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Tên người dùng không khả dụng"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Mã sao lưu"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Nhập đoạn văn bản bạn thấy ở trên"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Email"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Địa chỉ thư điện tử (tùy chọn)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "nhập lại mật khẩu mới"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Xác nhận mật khẩu mới"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Nhập mật khẩu mới"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Mật khẩu mới"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "nhập lại mật khẩu"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Xác nhận mật khẩu"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "nhập mật khẩu"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Mật khẩu"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Mã xác nhận"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "nhập tên người dùng"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Tên người dùng"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Tất cả"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Xóa sạch tìm kiếm"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Kết quả tìm kiếm sau"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Kết quả tìm kiếm trước"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Tìm thay"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Đóng tìm thay"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Tìm"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Mặc định lại"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Đã gửi thư điện tử có hướng dẫn đặt lại mật khẩu"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Điền vào một trong những trường sau để nhận hướng dẫn đặt lại mật khẩu qua thư điện tử"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Đặt lại mật khẩu"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Hoặc"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "Chơi"
+    },
+    {
+      "name": "games_wcf_button_play_title",
+      "value": "Chơi trò chơi hôm nay"
+    },
+    {
+      "name": "games_wcf_explore_title",
+      "value": "Sự kiện nào đến trước?"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các biến thể chữ Hán cho tiếng Cám là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong biến thể của bạn:\n\n贛語 原文 Cám (gan)\n赣语 简体 Cám giản thể (gan-hans)\n贛語 繁體 Cám phồn thể (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Cập nhật hỗ trợ biến thể chữ Hán trong tiếng Cám"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Bạn có chắc chắn muốn xóa tất cả các mục gần đây của bạn?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Có, xóa toàn bộ"
+    },
+    {
+      "name": "history_title",
+      "value": "Lịch sử"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, quay về Thám hiểm"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, quay về Đã lưu"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Cộng đồng"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "Thêm hoặc chỉnh sửa ngôn ngữ"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "Dành cho bạn"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Thêm bài tương tự \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Thêm địa điểm gần vị trí của bạn"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Thêm mục gần \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Thêm thời sự"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Hiện có thể tổ chức các bài đã lưu của bạn thành danh sách đọc và đồng bộ hóa chúng trên nhiều thiết bị. Đăng nhập để lưu các danh sách đọc của bạn vào tùy chọn cá nhân."
+    },
+    {
+      "name": "home_tab_title",
+      "value": "Trang nhà"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Thiết lập"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Điều chỉnh tùy chọn Đọc bài, thí dụ kích thước văn bản và giao diện, dùng thanh công cụ bài viết hoặc trong Cài đặt để đọc bài một cách thoải mái hơn."
+    },
+    {
+      "name": "home_title",
+      "value": "Thám hiểm"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, cuộn lên đầu Thám hiểm"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Bài viết lân cận"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Bài viết ngẫu nhiên"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Tìm trong Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Tác giả không rõ."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Thêm hình ảnh này?"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Đã xảy ra sự cố."
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Không"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Danh sách đọc của tôi"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Thực hiện khảo sát"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Chia sẻ danh sách đọc\" là một tính năng thử nghiệm và chúng tôi cần phản hồi của bạn để cải thiện hoặc xóa tính năng này."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Bạn có thể giúp chúng tôi cải thiện tính năng \"Chia sẻ danh sách đọc\" không?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Nhập danh sách đọc được chia sẻ"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Từ Wikipedia \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Từ Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Tin tức"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Chèn"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Chèn liên kết"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Lời miêu tả văn bản dành cho độc giả không thể xem hình ảnh"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Miêu tả hình này"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Văn bản thay thế"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Hình này có liên quan đến bài viết như thế nào?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Nhãn xuất hiện bên cạnh mục cho mọi độc giả"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Chú thích"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Giữa"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Trái"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Không có"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Phải"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Vị trí hình"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Thêm thông tin"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Chọn hình"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Tùy biến"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Mặc định"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "điểm ảnh"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Kích thước hình ảnh"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Cơ bản"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Đường khung"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Không có đường khung"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Hình nhỏ"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Kiểu hình"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Tùy chọn phương tiện"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Chèn phương tiện"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Inuktitut là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut chữ tượng thanh âm tiết (ike-cans)\nInuktitut ilisautik, Inuktitut chữ Latinh (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Cập nhật hỗ trợ hệ chữ viết trong tiếng Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Kazakh là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh chữ Kirin (kk-cyrl)\nqazaqşa latin Kazakh chữ Latinh (kk-latn)\nتوتە قازاقشا Kazakh chữ Ả Rập (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Cập nhật hỗ trợ biến thể trong tiếng Kazakh"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Kurd là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nKurdî Latînî Kurd chữ Latinh (ku-latn)\nكوردی Kurd chữ Ả Rập (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Cập nhật hỗ trợ hệ chữ viết trong tiếng Kurd"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Ngôn ngữ"
+    },
+    {
+      "name": "languages_title",
+      "value": "Thay đổi ngôn ngữ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Ngôn ngữ Wikipedia"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Tìm hiểu thêm"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Tiếp tục mà không đăng nhập"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Đăng nhập vào tài khoản của bạn"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Đã gặp sự cố khi xác minh tài khoản của bạn. Để đồng bộ hóa các danh sách đọc của bạn và sửa đổi với tên của bạn, xin hãy đăng nhập lại."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Bạn đã đăng xuất"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Quên mật khẩu?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Tham gia Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Bạn chưa có tài khoản ở đây? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Đăng nhập vào tài khoản của bạn"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Giới thiệu về ứng dụng"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Đăng nhập"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Đăng xuất"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Bạn có chắc chắn muốn đăng xuất?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Việc đăng xuất sẽ xóa dữ liệu tài khoản được lưu trữ cục bộ của bạn (thông báo và tin nhắn), nhưng dữ liệu tài khoản của bạn sẽ vẫn còn trên web và sẽ được tải xuống lại nếu bạn đăng nhập lại."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Đã đăng nhập là \\$1."
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Thông tin pháp luật"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Lân cận"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Quy định về quyền riêng tư"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Đánh giá ứng dụng"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Điều khoản sử dụng"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Khác"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Câu hỏi thường gặp về Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Tìm kiếm Wikipedia trong gần 300 ngôn ngữ"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Thêm ngôn ngữ"
+    },
+    {
+      "name": "more_menu",
+      "value": "Thêm"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Di chuyển {{PLURAL:\\$1|\\$1 bài viết|\\$1 bài viết}} vào danh sách đọc"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Xem trước"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 bộ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 dặm"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Bạn đã đăng nhập bằng mật khẩu tạm. Để hoàn tất việc đăng nhập, bạn phải tạo lại mật khẩu mới tại đây."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Đặt mật khẩu"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Tiếp"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Vui lòng thiết lập một tài khoản thư điện tử trên thiết bị của bạn và thử lại."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Không có kết nối Internet"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Để sau"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Từ \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Nhắc nhở"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Bộ lọc thông báo - đã áp dụng bộ lọc"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Bộ lọc dự án - đã áp dụng bộ lọc"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Thông báo chưa đọc"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "Thông báo \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Thay đổi Mật khẩu"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Đang kiểm tra thông báo…"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Trong ứng dụng"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Trên web"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Chi tiết thông báo"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Đang kiểm tra thông báo…"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Bạn không có tin nhắn mới"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Bạn hiện không theo dõi thông báo Wikipedia nào"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Sửa đổi \\$1 để xem thêm tin nhắn"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Thêm dự án để xem thêm tin nhắn"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|Bộ lọc \\$1}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Bật thông báo đẩy"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Thông báo chỉnh sửa cho tất cả các dự án Wikimedia hiện có sẵn thông qua ứng dụng. Chọn nhận thông báo đẩy để cập nhật tin nhắn của bạn trên Wikipedia khi đang di chuyển."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Bộ lọc thông báo"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Tất cả"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Đọc"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Chưa đọc"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Trạng thái đọc"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Bộ lọc"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Sửa đổi loại thông báo để lọc chúng vào/ra khỏi hộp thư thông báo của bạn. Các loại bị tắt sẽ không hiển thị nhưng nội dung của chúng và mọi thông báo mới sẽ có khi bật lại nút chuyển đổi."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Tất cả"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Loại thông báo"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Bài viết"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Trang thảo luận \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Khác"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Trang thành viên của \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Khoản mục Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Trang thảo luận của bạn"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Nhắc nhở từ \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Xong"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Dự án"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Chỉ những dự án bạn đã tạo tài khoản mới xuất hiện ở đây"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Dự án Wikimedia"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Thông báo lần đăng nhập"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Đánh dấu"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Đánh dấu tất cả là đã đọc"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Đánh dấu là Đã đọc"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Đánh dấu là chưa đọc"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Thêm"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Tùy chọn thông báo"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Tiếp tục"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Thông báo đẩy"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Không, cảm ơn"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Tất cả"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Tất cả các thông báo"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Đã đọc"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Chưa đọc"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Cột mốc sửa đổi"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Sửa đổi của bạn bị lùi lại"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Thư điện tử mới"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Nhiều lần đăng nhập không thành công"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Lần đăng nhập không thành công"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Đăng nhập từ thiết bị không quen"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Lời nhắc đến tại trang thảo luận bài viết"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Lời nhắc đến trong tóm lược sửa đổi"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Lời nhắc đến thất bại"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Lời nhắc đến thành công"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Lời nhắc đến tại trang thảo luận"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Tin nhắn tại trang thảo luận của bạn"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Liên kết đến trang"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Trang được duyệt"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Lời cảm ơn"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Cột mốc biên dịch"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Thay đổi quyền người dùng"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Hoan nghênh!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Liên kết từ Wikidata"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Đánh dấu là đã đọc"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Đánh dấu là chưa đọc"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Thêm"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Thông báo"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Đánh dấu thông báo đã chọn"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Đề cập"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Thông báo"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Tin nhắn chào mừng"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Kết nối với Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Cột mốc sửa đổi"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Đã lùi các sửa đổi."
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Đề cập trong tóm lược sửa dổi"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Email từ người dùng khác"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Lần thử đăng nhập"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Số lần đăng nhập không thành công vào tài khoản của bạn"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Đăng nhập thành công"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Khác"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Liên kết đến trang"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Xem trước trang"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Gửi đề cập không thành công"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Gửi đề cập thành công"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Đề cập tại trang thảo luận"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Cảm ơn"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Cột mốc biên dịch"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Thay đổi quyền người dùng"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Tin nhắn trên trang thảo luận"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Chào mừng"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Hoạt động mới tại Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$1 {{PLURAL:\\$1}}tin nhắn mới tại \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1}}Tin nhắn mới"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 tỷ"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 triệu"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ngàn"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "từ \\$1–\\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "\\$1 sự kiện trong lịch sử"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Thêm sự kiện xảy ra ngày nay năm xưa"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "\\$1 sự kiện lịch sử nữa vào ngày này"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Ngôn ngữ Wikipedia chính của bạn không hỗ trợ Bài viết nổi bật. Bạn có thể cập nhật Wikipedia chính của mình trong menu Cài đặt của ứng dụng."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Không có sẵn dữ liệu"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 từ Wikipedia \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ngày này năm xưa"
+    },
+    {
+      "name": "open_article",
+      "value": "Mở bài viết"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Chạm vào chữ “W” để quay lại thẻ ban đầu"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Chạm để chọn hai phiên bản để so sánh"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "So sánh"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Biểu đồ các sửa đổi qua thời gian"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "đã đăng nhập"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "sửa đổi nhỏ"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Tác giả: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Bình luận \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Lịch sử thay đổi"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Sửa đổi nhỏ"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "\\$1 byte được thêm"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "\\$1 byte được xóa"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Thay đổi vào \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Chỉ có thể chọn hai phiên bản"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$1 sửa đổi từ \\$2 đến nay"
+    },
+    {
+      "name": "page_issues",
+      "value": "Vấn đề trang"
+    },
+    {
+      "name": "page_location",
+      "value": "Xem trên bản đồ"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Bạn không có quyền sửa đổi trang này."
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Trang này bị khóa"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Trang tương tự"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "So sánh các bản sửa đổi giúp cho thấy một bài viết đã thay đổi như thế nào theo thời gian. So sánh hai bản sửa đổi của một bài viết sẽ cho thấy sự khác biệt giữa các bản sửa đổi đó bằng cách đánh dấu bất kỳ nội dung nào đã được thay đổi."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Đang so sánh các phiên bản"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Sửa đổi mà không đăng nhập"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Bạn chưa đăng nhập"
+    },
+    {
+      "name": "pictured",
+      "value": "hình"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Xóa các tìm kiếm đã lưu"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 bài"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Tập trung lại vào vị trí của bạn"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Xem danh sách"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Xem trên bản đồ"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Xem thêm bài"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Thám hiểm các thành phố, quốc gia, lục địa, địa mạo, sự kiện lịch sử, tòa nhà, và nhiều thứ khác."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Tìm kiếm các bài Wikipedia có địa điểm"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Kích hoạt vị trí"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Ứng dụng chỉ có truy cập vị trí của bạn khi nào ứng dụng hoặc một trong những tính năng của nó xuất hiện trên màn hình."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Kích hoạt dịch vụ định vị để thám hiểm các bài gần vị trí của bạn"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Lọc bài"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Lọc"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Bạn chưa lưu địa điểm nào"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Bài viết đa lưu"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Bài đọc nhiều nhất"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "\\$1 bài"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Bài đọc nhiều nhất"
+    },
+    {
+      "name": "places_list_title",
+      "value": "Danh sách"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Vị trí được kích hoạt"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Chưa lưu bài nào có thông tin địa điểm"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 khớp với “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Tìm kiếm Địa điểm"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Có phải bạn muốn tìm “\\$1”?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Tìm kiếm gần đây"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Tất cả bài lưu"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Tìm kiếm gợi ý"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Kết quả trong khu vực này"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Tất cả các bài đọc nhiều nhất"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Lân cận"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Vị trí hiện tại của bạn"
+    },
+    {
+      "name": "places_title",
+      "value": "Địa điểm"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "tầm xa không rõ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Hình trong ngày cho \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Thất bại khi lấy hình trong ngày cho \\$1"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "Hai con bò đực đang chạy trong khi người đua ngựa giữ chúng trong pacu Jawi (từ Minangkabau, \"cuộc đua bò\"), một cuộc đua bò truyền thống ở Tanah Datar, Tây Sumatra, Indonesia. 2015, Chung kết-45."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Thưởng thức một bức ảnh đẹp hàng ngày được cộng đồng của chúng tôi lựa chọn."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Hình ảnh trong ngày"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Cho phép Quỹ Wikimedia thu thập thông tin về cách bạn sử dụng ứng dụng để giúp làm ứng dụng tốt hơn"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "Ngẫu nhiên"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Thêm bài này vào danh sách đọc?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Thêm “\\$1” vào danh sách đọc?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Có, thêm chúng vào các danh sách đọc của tôi"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Bài viết được lưu vào ứng dụng Wikipedia của bạn. Bạn có muốn giữ các bài và hợp nhất với các danh sách đọc được đồng bộ hóa trong tài khoản của bạn?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Tìm thấy bài đã lưu"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Mục này không được đồng bộ hóa vì bạn đã vượt quá hạn chế số mục tối đa trong danh sách này."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Có lỗi bất ngờ đã xảy đến khi đồng bộ hóa các danh sách đọc của bạn."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Danh sách này không được đồng bộ hóa vì bạn đã vượt quá hạn chế số danh sách tối đa được đồng bộ hóa."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Tạo danh sách đọc"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Miêu tả"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Tên danh sách đọc"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Tạo danh sách mới"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Đã xóa danh sách đọc"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Không, xóa các bài khỏi thiết bị"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Vui lòng giảm số bài trong danh sách tới \\$1 để tiếp tục đồng bộ hóa bài viết trong danh sách này."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Bạn đã vượt quá giới hạn \\$1 bài viết mỗi tài khoản."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "Không thể thêm bài viết vào danh sách này. Danh sách \\$3 đã vượt quá hạn chế mỗi danh sách chỉ có \\$2 bài."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Tên danh sách đọc đã được sử dụng"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Có lỗi bất ngờ đã xảy đến khi cập nhật danh sách đọc của bạn."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Có, giữ các bài viết trong danh sách"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Tài khoản Wikipedia của bạn có bài viết được đồng bộ hóa. Bạn có muốn giữ chúng trên thiết bị này sau khi đăng xuất?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Giữ các bài viết đã lưu trên thiết bị?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sắp xếp bài viết"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Số bài viết tối đa chưa được phân loại mà bạn có thể lưu là 5.000. Xin hãy xếp các bài viết vào các danh sách đọc để tiếp tục quá trình đồng bộ hóa các bài viết chưa được phân loại."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Đã đạt giới hạn về bài viết chưa phân loại"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Danh sách đọc này cũng như toàn bộ các bài viết trong danh sách sẽ không được đồng bộ hóa, xin hãy giảm số danh sách xuống còn \\$1 để tiếp tục quá trình đồng bộ hóa."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Bạn đã vượt quá giới hạn \\$1 danh sách đọc mỗi tài khoản."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Bạn đã tới giới hạn \\$1 danh sách đọc mỗi tài khoản"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Đăng nhập để đồng bộ các bài đã lưu của bạn"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Đăng nhập hoặc mở tài khoản"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Đăng nhập để đồng bộ bài đã lưu"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Đăng nhập hoặc mở tài khoản để đồng bộ hóa các bài viết và danh sách đọc đã lưu trên các thiết bị và lưu chúng vào tùy chọn cá nhân."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Đồng bộ hóa các bài đã lưu của bạn?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[do người dùng tạo]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "miêu tả ngắn tùy chọn"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "tên danh sách đọc"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Một thiết bị khác đã tắt đồng bộ hóa danh sách đọc vào tài khoản Wikipedia của bạn. Bạn có thể kích hoạt lại đồng bộ hóa trong cài đặt."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Đồng bộ hóa bị tắt"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Bật đồng bộ hóa"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Hiện có thể lưu các bài đã lưu và danh sách đọc vào tài khoản Wikipedia của bạn và đồng bộ hóa chúng vào các ứng dụng Wikipedia."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Bật đồng bộ hóa danh sách đọc?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Đồng bộ hóa danh sách đọc được kích hoạt cho tài khoản này. Bạn có thể ngừng đồng bộ hóa cho tài khoản này trong cài đặt."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Đồng bộ hóa được kích hoạt cho tài khoản này"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Xuất hiện lỗi bất ngờ khi thêm mục vào danh sách đọc. Vui lòng thử lại sau."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Xuất hiện lỗi bất ngờ khi tạo danh sách đọc. Vui lòng thử lại sau."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Xuất hiện lỗi bất ngờ khi xóa danh sách đọc. Vui lòng thử lại sau."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Xuất hiện lỗi bất ngờ khi xóa mục khỏi danh sách đọc. Vui lòng thử lại sau."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Xuất hiện lỗi bất ngờ khi cập nhật danh sách đọc. Vui lòng thử lại sau."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Không tìm thấy danh sách với tên “\\$1”. Vui lòng kiểm tra lại tên danh sách."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Đã thêm bài vào “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Không thể đồng bộ hóa bài"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Chưa đồng bộ hóa"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Đã vượt quá hạn chế bài, nên không thể đồng bộ hóa bài"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Đã vượt quá hạn chế danh sách, nên không thể đồng bộ hóa bài"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Đang chờ đợi tải về bài viết"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Đã vượt quá hạn chế thiết bị, nên không thể đồng bộ hóa bài"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Dọn dẹp thiết bị để có nhiều dung lượng trống hơn và thử lại"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Một số bài không được đồng bộ hóa vì vượt quá hạn chế"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Đã đổi tên danh sách “\\$1” của bạn thành “\\$2”"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "\\$1 danh sách đọc"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Danh sách mặc định cho các bài bạn lưu"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Đã lưu"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Không thể hoàn tác tác vụ này. Bài nào chỉ được lưu vào {{PLURAL:\\$1|danh sách|các danh sách}} này sẽ không được lưu."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Xóa {{PLURAL:\\$1|danh sách|các danh sách}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "\\$1 bài viết và \\$2 danh sách đọc được đồng bộ hóa từ tài khoản của bạn"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Danh sách không được đồng bộ hóa vì vượt quá hạn chế"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sắp xếp các bài đã lưu"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Mỗi danh sách đọc có hạn chế \\$1 bài. Các danh sách đã tồn tại vượt quá hạn chế này đã được chia thành nhiều danh sách."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sẽ tiếp tục đồng bộ hóa lúc khi kết nối với Internet"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Giao diện đen"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Thanh trượt độ sáng"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Giao diện tối"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Giao diện sáng"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Giao diện nâu"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Nổi bật Cú pháp"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Thanh trượt kích thước văn bản"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Nổi bật Cú pháp"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Nhảy tới phần tham khảo"
+    },
+    {
+      "name": "reference_title",
+      "value": "Chú thích \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Hôm nay|1=Hôm qua|\\$1 ngày trước}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1g̀"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Mới đây|Cách đây \\$1 giờ}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1g̀ trước"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Mới đây|Cách đây \\$1 giờ}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Bây giờ|Cách đây \\$1 phút}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1ph́"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Mới đây|Cách đây \\$1 phút}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1ph́ trước"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Tháng này|1=Tháng trước|\\$1 tháng trước}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1gi"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1gi trước"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Năm nay|1=Năm ngoái|Cách đây \\$1 năm}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Sửa đổi đã bị lùi lại"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Tất cả các bài"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Không thể xóa danh sách này"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Tải xuống hình ảnh khi lưu trang này thất bại."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Đang tải về bài viết…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Danh sách đọc"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Tìm bài đã lưu"
+    },
+    {
+      "name": "saved_title",
+      "value": "Đã lưu"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Khi xóa {{PLURAL:\\$1|bài đã lưu, nó|các bài đã lưu, chúng}} sẽ được loại bỏ khỏi các danh sách đọc"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Xóa {{PLURAL:\\$1|bài|các bài}} đã lưu?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Tìm trong Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Xóa sạch"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Tìm trong Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Xóa các tìm kiếm gần đây?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Không thể hoàn tác tác vụ này!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Xóa Toàn bộ"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Chưa có tìm kiếm gần đây"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Tìm kiếm gần đây"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Đổi hướng từ: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Tìm kiếm"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Serbia là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nсрпски ћирилица Serbia chữ Kirin (sr-ec)\nsrpski latinica Serbia chữ Latinh (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Cập nhật hỗ trợ hệ chữ viết trong tiếng Serbia"
+    },
+    {
+      "name": "settings_account",
+      "value": "Tài khoản"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Chủ đề ứng dụng"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Xóa dữ liệu đệm"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Xóa dữ liệu đệm sẽ giải phóng khoảng \\$1 dung lượng. Việc này sẽ không xóa trang bạn đã lưu."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Xóa dữ liệu đệm?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Hủy bỏ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Xóa bộ nhớ đệm"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Quyên góp"
+    },
+    {
+      "name": "settings_explore_games_title",
+      "value": "Trò chơi Wikipedia"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Trợ giúp và phản hồi"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Hiển thị ngôn ngữ khi tìm kiếm"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Bạn có thể quản lý các ngôn ngữ xuất hiện trong nguồn cấp Thám hiểm trong cài đặt nguồn cấp Thám hiểm."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Ngôn ngữ của tôi"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Thông báo đẩy"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Đã xảy ra lỗi khi kiểm tra đăng ký thông báo liên quan đến tài khoản của bạn."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Không thể kiểm tra đăng ký thông báo Echo"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Thử lại"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Được cảnh báo về hoạt động liên quan đến tài khoản của bạn, chẳng hạn như tin nhắn từ những người đóng góp, cảnh báo và thông báo. Tất cả được cung cấp liên quan đến quyền riêng tư và dữ liệu cập nhật từng phút."
+    },
+    {
+      "name": "settings_off",
+      "value": "Tắt"
+    },
+    {
+      "name": "settings_on",
+      "value": "Bật"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Chính"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Ngôn ngữ đứng đầu tiên trong danh sách này sẽ được dùng làm ngôn ngữ chính của ứng dụng."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Hiển thị thẻ Tìm kiếm thay vì thẻ Thám hiểm khi mở ứng dụng"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Hiện thẻ Tìm kiếm khi mở ứng dụng"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Cho phép Wikimedia lưu bài viết và danh sách đọc của bạn vào tùy chọn khi đăng nhập vào đồng bộ hóa."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Đồng bộ hóa những bài viết và danh sách đã lưu"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Các danh sách đọc của bạn sẽ được đồng bộ hóa trong nền"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Yêu cầu nâng cấp những bài viết đã được đồng bộ hóa và danh sách đọc."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Cập nhật các danh sách đọc đã đồng bộ hóa"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Hiển thị danh sách đọc Đã lưu (danh sách đọc mặc định) như một danh sách riêng khi xem các danh sách đọc. Danh sách đọc này xuất hiện trong thiết bị Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Hiện danh sách đọc được lưu"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Lưu trữ và đồng bộ hóa bài viết"
+    },
+    {
+      "name": "settings_temp_accounts_talk_page_footer",
+      "value": "Tài khoản tạm thời sẽ hết hạn sau 90 ngày"
+    },
+    {
+      "name": "settings_title",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Tạo bằng ứng dụng Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "“\\$1” trên Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Đang tạo phiếu chia sẻ sự thật…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” từ “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\ntừ “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Chỉ đường"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Chia sẻ…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "qua Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Mở trọng Bản đồ"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” tại Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” tại Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Thêm gần đây"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Tựa đề"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Mục lục"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Đóng"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Đóng Mục lục"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Mục lục"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Ẩn mục lục"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Đề mục con \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Shilha là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nⵜⴰⵛⵍⵃⵉⵜ Shilha chữ Tifinagh (shi-tfng)\nTaclḥit Shilha chữ Latinh (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Cập nhật hỗ trợ hệ chữ viết trong tiếng Shilha"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Tajik là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\nтоҷикӣ кирилликӣ Tajik chữ Kirin (tg-cyrl)\ntojikī lotinī Tajik chữ Latinh (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Cập nhật hỗ trợ biến thể trong tiếng Tajik"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 người dùng hoạt động}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Thêm đề tài"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Lưu trữ"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Giới thiệu về trang này"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Thay đổi ngôn ngữ"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Thu gọn chủ đề"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Đã đọc"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Chưa đọc"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Ứng dụng đã nhận được phản hồi không mong muốn từ máy chủ. Vui lòng thử lại sau."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Lỗi không mong đợi"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Có gì đó bị lỗi."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Đã xảy ra lỗi khi tải trang thảo luận"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Mở rộng chủ đề"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Tìm trong trang"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Mở tất cả chủ đề"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Hãy nhớ, chúng tôi đều là con người"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Hãy bình tĩnh"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Đã đăng câu trả lời của bạn thành công"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Đã đăng đề tài của bạn thành công"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Nhấn đúp để quay lại trả lời"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Tùy chọn trang thảo luận khác"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Thông tin trang"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Liên kết thường trực"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Xin kiểm tra kết nối mạng."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Không thể xuất bản bình luận của bạn."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Không thể xuất bản chủ đề mới."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Đọc trên web"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Các liên kết đến đây"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 phản hồi}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Trả lời"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Trả lời \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Độ sâu phản hồi: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Trả lời \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Lịch sử thay đổi"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Đóng chế độ xem trả lời"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Chia sẻ trang thảo luận"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Theo dõi"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Thảo luận Bài viết"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Thảo luận Người dùng"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Đóng góp"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Không tìm thấy trang lưu trữ nào."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Lưu trữ"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Đọc thêm"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Thảo luận"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Đen"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Tối"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Mặc định"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Phù hợp với chủ đề hệ thống"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Sáng"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Nâu"
+    },
+    {
+      "name": "today_title",
+      "value": "Hôm nay"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 người đọc"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Bài đọc nhiều nhất"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Tiếp tục đăng nhập"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Xin vui lòng nhập mã xác thực dùng hai nhân tố"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Đăng nhập vào tài khoản của bạn"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Sử dụng một mã sao lưu của bạn"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Sử dụng mã xác nhận"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Đã xảy ra lỗi khi tải trang thảo luận"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Không rõ"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Ứng dụng Wikipedia mới hỗ trợ các hệ chữ viết tiếng Uzbek là ngôn ngữ giao diện chính hoặc phụ để cho bạn dễ tra cứu, tìm kiếm, và sửa đổi trong hệ chữ viết của bạn:\n\noʻzbekcha lotin Uzbek chữ Latinh (uz-latin)\nўзбекча кирилл Uzbek chữ Kirin (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Cập nhật hỗ trợ biến thể trong tiếng Uzbek"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Tiếp tục"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Biến mất là **biện pháp cuối cùng** và nên **chỉ dùng khi bạn muốn chấm dứt sửa đổi vĩnh viễn** và muốn che giấu tối đa những mối liên hệ với bạn trong quá khứ.\n\nViệc xóa tài khoản trên Wikipedia được thực hiện bằng cách đổi tên tài khoản của bạn để người khác không nhận ra được những đóng góp của bạn trong một quy trình gọi là làm biến mất tài khoản. Bạn có thể dùng mẫu bên dưới để yêu cầu biến mất tài khoản. Việc biến mất không đảm bảo ẩn danh hoàn toàn hoặc xóa bỏ những đóng góp trên các dự án."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Cảnh báo"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Thôi"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Xem tùy chọn cá nhân của bạn"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 tháng"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 tuần"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 năm"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Vô thời hạn"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 tháng"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 tháng"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Bộ lọc"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Con người (không phải bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Phiên bản mới nhất"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Thêm ngôn ngữ..."
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Tìm hiểu thêm về Đã lưu"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "\"Lời cảm ơn\" của bạn đã được gửi tới \\$1"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Cảm ơn"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Đóng góp của người dùng"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Trang cá nhân"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Trang thảo luận người dùng"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Các bài đọc được cộng đồng gợi ý hằng ngày"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Quay về quá khứ để tìm hiểu về các sự kiện ngày nay năm xưa"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ngày này năm xưa"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Khám phá các địa điểm quan trọng lân cận hoặc tìm nơi ở khắp thế giới"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Thẻ Địa điểm"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Bắt đầu"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Phương cách thám hiểm mới"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Được rồi"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Nhờ những người tình nguyện cộng tác biên tập, Wikipedia có hơn 40 triệu bài trong hơn 300 ngôn ngữ."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Tìm hiểu thêm về Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Giới thiệu về Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia là dự án toàn thế giới để xây dựng bách khoa toàn thư trong tất cả mọi ngôn ngữ của thế giới. Ai có Internet thì có thể thoải mái tham gia đóng góp các thông tin trung lập có nguồn gốc."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Bách khoa toàn thư mở"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Thêm một ngôn ngữ nữa"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Thêm và sửa các ngôn ngữ ưa thích"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Đã tìm thấy các ngôn ngữ sau trên thiết bị của bạn:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Tìm trong gần 300 ngôn ngữ"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Bách khoa toàn thư mở trực tuyến cho phép bất cứ người nào góp tay xây dựng"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Bách khoa toàn thư nội dung mở Wikipedia mở cửa."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Đang lấy bản xem trước các thay đổi của bạn…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Liên kết này dẫn đến trang bên ngoài: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Liên kết ngoài"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia không có bài đúng tên này"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Không tìm thấy liên kết nội bộ"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Liên kết này dẫn đến “\\$1”"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Xem trước liên kết"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Lưu các thay đổi"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Lỗi khi xác nhận bằng CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Cần xác nhận bằng CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Không thể xác định kết quả tải lên mã wiki."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Đang đăng tải…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Các sửa đổi sẽ ghi rõ địa chỉ IP của thiết bị của bạn. Bạn có thể \\$1Đăng nhập\\$2 để bảo vệ quyền riêng tư của bạn một chút hơn."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Các sửa đổi sẽ ghi rõ địa chỉ IP của thiết bị của bạn. Bạn có thể \\$1 để bảo vệ quyền riêng tư của bạn một chút hơn."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Điều khoản sử dụng"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "Thứ sáu"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "Thứ hai"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "Thứ bảy"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "Chủ nhật"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "Thứ năm"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "Thứ ba"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "Thứ tư"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Quyên góp"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Quyên góp ngay"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "Độc giả trên khắp thế giới trân trọng những đóng góp của bạn. Trong 2 tháng qua, các bài viết mà bạn đã chỉnh sửa đã nhận được {{PLURAL:\\$1|\\$1 lượt xem}}. Nhờ có những biên tập viên như bạn, Wikipedia đang không ngừng cải thiện và trở thành nguồn tri thức dựa trên thực tế đáng tin cậy cho toàn thế giới."
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Hôm qua"
+    },
+    {
+      "name": "games_card_play",
+      "value": "Chơi"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Vì bạn đã đọc"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Tất cả các bài đọc nhiều nhất"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Một bài ngẫu nhiên nữa"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Từ Wikipedia %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Tại Wikipedia tiếng %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Từ Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Không có gì để hiển thị"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Hôm nay"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Hôm qua"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Ẩn phiếu này"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Tùy biến nguồn cấp Thám hiểm"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Phiếu đã ẩn"
+    },
+    {
+      "name": "editor_published",
+      "value": "Sửa đổi của bạn đã được xuất bản."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Tóm lược bài viết %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Có phải bạn muốn tìm “%s”?"
+    }
+  ]
+}

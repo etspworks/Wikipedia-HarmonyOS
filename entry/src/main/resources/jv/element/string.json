@@ -1,0 +1,1516 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lisènsi kontèn"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Isi cumepak kanthi pangayoman \\$1, kajaba ana katerangan liyané."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Lisènsi Atribusi-DumSaèmper Creative Commons"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Panyumbang"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Pabukon kang kaanggo"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Pratélan wutuh"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisènsi"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Awak dhéwé ndhemeni piranti alus sumber binuka \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Lisènsi map panggonan"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Panggonané nganggo map kang dicepakaké Apple Maps. \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Mangga deleng iki babagan rerincèning lisènsi"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Digawé déning \\$1 kanthi pitulungané sukarilawan kaya ta panjenengan"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Panyimpenan"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kodhe sumber cumepak ing pangayomané \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Lisènsi MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Kirimi pamrayoga aplikasi"
+    },
+    {
+      "name": "about_title",
+      "value": "Ngenani"
+    },
+    {
+      "name": "about_translators",
+      "value": "Juru pamertal"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Dipertal déning sukarilawan ing \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Yeyasan Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ora bisa ndeleng gambar? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Njupuk CAPTCHA anyar..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Nyuwun akun."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Pamriksa pangayoman CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Gawé akun panjenengan"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Wis duwé akun? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Mlebu log."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Mlebu log..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Panjenengan kudu ngisi jeneng naraguna, tembung sandi, lan konfirmasi tembung sandi saperlu nggawé akun."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Babagan tembung sandiné ora cocog."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Nyimpen..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Gawé akun anyar"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Akun"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Parembuganmu"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Tambahaké ing..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Wuwuhaké ing pratélan wacan"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Tambahaké ing pratélan"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Wurung"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Golèk ing kaca"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Owah basa"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Lih menyang..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Lih menyang pratélan wacan"
+    },
+    {
+      "name": "action_read",
+      "value": "Waca"
+    },
+    {
+      "name": "action_redo",
+      "value": "Balèni"
+    },
+    {
+      "name": "action_remove",
+      "value": "Buwang"
+    },
+    {
+      "name": "action_save",
+      "value": "Simpen"
+    },
+    {
+      "name": "action_saved",
+      "value": "Kasimpen"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Kasimpen. Urubaké saperlu wurung nyimpen."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikel disimpen kanggo mengko"
+    },
+    {
+      "name": "action_share",
+      "value": "Dum"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Dum"
+    },
+    {
+      "name": "action_sort",
+      "value": "Urutaké"
+    },
+    {
+      "name": "action_undo",
+      "value": "Balèkaké"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Wurung nyimpen"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikel wurung disimpen"
+    },
+    {
+      "name": "action_update",
+      "value": "Anyari"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Lebokaké {{PLURAL:\\$1|\\$1 artikel}} ing pratélan wacan"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Tutup"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Larasaké ukurané tulisan ing artikel"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Cakrik wacan"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opsi cakrik"
+    },
+    {
+      "name": "article_delete",
+      "value": "Busek"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikel|artikel}} kabusak"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Golèk basa"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pilih basa"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Basa liyané"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Basané panjenengan"
+    },
+    {
+      "name": "article_share",
+      "value": "Dum"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kontrol Cakrik Wacan"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Bali"
+    },
+    {
+      "name": "button_next",
+      "value": "Sabanjuré"
+    },
+    {
+      "name": "button_ok",
+      "value": "YA"
+    },
+    {
+      "name": "button_publish",
+      "value": "Babar"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Lapuraké ama"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Simpen kanggo mengko"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Kasimpen kanggo mengko"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Busak saka panyimpenan"
+    },
+    {
+      "name": "button_skip",
+      "value": "Lumpati"
+    },
+    {
+      "name": "cancel",
+      "value": "Wurung"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Resiki"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Tutup"
+    },
+    {
+      "name": "compass_direction",
+      "value": "nalika pukul \\$1 thèng"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Dlajahi Wikipédia supaya bisa maca werna-werna artikelé"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ora ana artikel kang mentas kawaca"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Wuwuh wedharan"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Wedharaning sesirah tumrap \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Besut purwaka"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Besut wedharaning sesirah"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Babar wedharan"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Besut wedharan"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Bab"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Bab Wikidata"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Contoné:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Rampung"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Wiwit mbesut"
+    },
+    {
+      "name": "dim_images",
+      "value": "Bleretaké gambar"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Besut"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Ndandani paramasastra"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Ndandani salah tik"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Nambahi pranala"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Awasi kaca iki"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Mardikakaké kawruh"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Pilih barkas saka Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Nyuwun pangapura, ora bisa ngamot artikel"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Panjenengan isih bisa maca kaca kang kasimpen"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Kowé bisa ndeleng artikel kang kaprayogakaké yèn wis nyambung Internèt"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Ngetutaké apa kang wis panjenengan waca ing kéné"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ora ana sajarah kang bisa tinuduhaké"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Gawé pratélan tumrap papan-papan kang arep kojajah, rembug-rembug kang kosenengi, lan akèh liyané"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Simpen kaca kanggo dideleng mengko, kapara ing jaban jaringan"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Durung ana kaca kang kasimpen"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ora tinemu"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Ana masalah kang ora kaweruhan"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Artikel sembarang liyané"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Amarga panjenengan maca"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Bacutaké maca"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Dlajahi artikel-artikel ing caketé pernahé panjenengan saiki"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Artikel pinilih"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Saka Wikipédia \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Saka Wikipédia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Larasaké"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Mati"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Murub kabèh"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Murub"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Murub \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Kertu iki ora mirunggan marang basa tinamtu, matèni kertu iki bakal mbusak kertuné saka pakan Dlajahé panjenengan."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Kertu ora mirunggan basa tinamtu"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ora mirunggan marang basa tinamtu"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Kertu sajagat"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Dhelikaké kertu iki"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Dhelikaké kabèh kertu “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikel bab kadadéan dinané iki"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Ndhelikaké kabèh kertu pakan Dlajah ing kabèh basa bakal matèni tab Dlajah."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Kadadéan duk nguni ing tanggal iki"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Artikel Wikipédia ing cedhak panjenengan"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Gambar pinilih padinan saka Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Asilaké sembarang artikel saperlu kawaca"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Saran kang dhedhasar sajarah wacan"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Kaca pendhapa saka proyèk-proyèké Wikimédia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Dina iki ing Wikipédia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Kabèh artikel kang kerep dhéwé kawaca"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Wacan kasuwur"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Kasuwur ing \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Ing Wikipédia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Cedhak kéné"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Panggonan"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Saka Wikipédia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Saka Wikipédia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Pernahé panjenengan"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Pernahmu saka Wikipédia \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Gambar dina iki"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Saka Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Artikel sembarang"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Saka Wikipédia \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Saka Wikipédia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Artikel sembarang"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Ana masalah. Mangga jajal manèh mengko."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA ora trep"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Tembung sandiné ora mathuk"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Kodhe ora trep"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Jeneng naraguna ora ana"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Kodhe sèrep"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Tèks CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Lebokaké tèks sing katon ing ndhuwur"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "conto@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Layang-èl"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Layang-èl (manasuka)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "isi manèh tembung sandi anyar"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Konfirmasi tembung sandi anyar"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "isi tembung sandi anyar"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Tembung sandi anyar"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "isi manèh tembung sandi"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Konfirmasi tembung sandi"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "isi tembung sandi"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Tembung sandi"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kodhe vèrifikasi"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "lebokaké jeneng naraguna"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Jeneng naraguna"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Golèk lan ganti"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Golèk"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Balèni setèl"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Layang-èl sing isiné panuntun setèl-ulang tembung sandi wis dikirim"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Isi ing salah siji babagan ngisor iki saperlu nampa panuntun setèl-ulang tembung sandi lumantar layang-èl"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Ambali nyetèl tembung sandi"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Utawa"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Panjenengan yakin arep mbusak kabèh barang anyar?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ha'a, busak kabèh"
+    },
+    {
+      "name": "history_title",
+      "value": "Sajarah"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipédia, bali ing Dlajah"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipédia, bali menyang Kasimpen"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Liyané kang mèmper \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Panggonan liyané ing pernahé panjenengan"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Liyané ing cedhak \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Acara dinané iki kang liyané"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Kemunah pilalan"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Setèl pilihan wacané panjenengan kalebu ukurané tèks lan cakriké saka wilah piranti artikel utawa ing setèlan panganggoné panjenengan saperlu luwih nyaman anggoné panjenengan maca."
+    },
+    {
+      "name": "home_title",
+      "value": "Dlajah"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipédia, glundhung mandhuwur ing Dlajah"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artikel cedhak kéné"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Artikel sembarang"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Golèk ing Wikipédia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Kang nganggit ora kaweruhan."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Saka Wikipédia \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Saka Wikipédia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Lagi dadi warta"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Basa"
+    },
+    {
+      "name": "languages_title",
+      "value": "Ganti basa"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Basa-basa ing Wikipédia"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Lali tembung sandimu?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Mèlu Wikipédia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Durung duwé akun? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Mlebu log ing akun panjenengan"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Bab aplikasi"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Mlebu log"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Metu log"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Apa panjenengan yakin arep metu?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Mlebu log minangka \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Priangga lan Paugeran"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Cedhak kéné"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Pranatan bab priangga"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Biji aplikasiné"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Bebakuning Pangguna"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Liyané"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Pitakon Kerep Wikipédia Zéro"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Pratuduh"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 jangkah"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Panjenengan wis mlebu log mawa tembung sandi sadhéla. Saperlu ngrampungaké olèhé panjenengan mlebu log, setèlen tembung sandi anyar ing kéné."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Setèl tembung sandiné panjenengan"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Mangga setèlen akun layang-èl ing pirantiné panjenengan lan ambali njajal."
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Urubaké pambiwara"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Rampung"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 milyar"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 yuta"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 éwu"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "saka \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 prastawa historis}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Prastawa historis liyané ing dina iki"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ing dina iki"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Panjenengan ora duwé hak mbesut kaca iki"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Kaca iki direksa"
+    },
+    {
+      "name": "pictured",
+      "value": "digambar"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Busak golèkan simpenan"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikel"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Dadèkaké pernahku saiki punjer"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Tuduhaké minangka pratélan"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Tuduhaké minangka petha"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Tuduhaké artikel liyané"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Dlajahi kutha, nagara, buwana, tetengeran alam, prastawa historis, yasan, lan liyané."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Golèk artikel Wikipédia mawa pernah géografis"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Urubaké pernah"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Aksès menyang pernahmu cumawis mung nalika aplikasiné utawa salah siji fituré katon ing kelirmu."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Dlajahi artikel sacedhaké pernahé panjengan kanthi ngurubaké Aksès Pernah"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Panjenengan ora duwé papan simpenan"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Artikel simpenan"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Wacan kondhang"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikel}}"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Artikel simpenané panjenengan ora ana sing ngemu katerangan pernah"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 jumbuh “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Golèk Papan"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Sing penjenengan karepaké apa \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Mentas digolèki"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Kabèh artikel sing kasimpen"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Gegolèkan sing diprayogakaké"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Kasil kanggo laladan iki"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Kabèh artikel kondhang"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Cedhak kéné"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Pernahé panjenengan saiki"
+    },
+    {
+      "name": "places_title",
+      "value": "Panggonan"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "dohé ora kaweruhan"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Gambar dina iki ing \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Wurung njupuk gambar dina iki ing \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Ngidini Yeyasan Wikimedia ngumpulaké katerangan ngenani carané nganggo aplikasi supaya aplikasiné dadi luwih becik"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Panggeser padhang"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Ules peteng"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Ules padhang"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Ules sèpia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Panggeser ukuran tèks"
+    },
+    {
+      "name": "reference_title",
+      "value": "Rujukan \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Dina iki|1=Wingi|\\$1 dina kapungkur}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Mentas waé|\\$1 jam kapungkur}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Mentas waé|\\$1 menit kapungkur}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Taun iki|1=Taun wingi|\\$1 taun kapungkur}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Kabèh artikel"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Pratélan iki ora bisa dibusek"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Wurung ngundhuh gambar tumrap kaca simpenan iki."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Pratélan wacan"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Golèk artikel sinimpen"
+    },
+    {
+      "name": "saved_title",
+      "value": "Kasimpen"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Golèk ing Wikipédia"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Golèk ing Wikipédia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Busak kabèh golèkan sing mentas waé?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Laku iki ora bisa kawurungaké!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Busak Kabèh"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Mentas digolèki"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Dilih saka: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Golèk"
+    },
+    {
+      "name": "settings_account",
+      "value": "Akun"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Pepilihaning wewacan"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Resiki dhata ing cache"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Mbusak dhata ing cache bisa ngosongaké ruwang \\$1. Laku iki ora bakal mbusek kaca simpenané panjenengan."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Resiki dhata ing cache?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Wurung"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Resiki cache"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Pitulung lan pamrayoga"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Tuduhaké basa ing panggolèkan"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Basa-basaku"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Wara-wara"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Pokok"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Basa kapisan ing pratélan iki kaanggo minangka basa pokok tumrap aplikasiné."
+    },
+    {
+      "name": "settings_title",
+      "value": "Setèlan"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Digawé nganggo aplikasi Wikipédia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" ing @Wikipedia:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” saka “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nsaka “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Golèk Lor-Kidul"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Dum..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "lumantar @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Bukak ing Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” lumantar Wikipédia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” lumantar @Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Mentas kawuwuhaké"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Sesirah"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Pratélan isi"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Tutup"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Tutup Pratélan isi"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Isi"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Éling, awak dhéwé ing kéné kabèh manungsa"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Wangsulanmu wis kasil kababar"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Parembungan Naraguna"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Ireng"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Peteng"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Gawan"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sèpia"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Banjuraké mlebu log"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Mangga isinen kodhe vèrifikasi rong faktor"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Mlebu log ing akun panjenengan"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Anggonen salah siji kodhe sèrepé panjenengan"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Anggonen kodhe vèrifikasi"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ing dina iki"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Miwiti"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Cara anyar ndlajah"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Mudheng"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Sinaoni liyané bab Wikipédia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Bab Wikipédia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Bauwarna bébas"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Tambah basa liyané"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Tambah utawa besut basa-basa pinilih"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Basa-basa ing ngisor iki ana ing pirantiné panjenengan:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Golèk ing mèh 300 basa"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Njupuk pratuduh owah-owahanmu ..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Pranala iki ngener '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Pratuduhé pranala"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Simpen owahan"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Masalah vèrifikasi CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Butuh vèrifikasi CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Ora bisa nemtokaké asiling unggahan wikitèk."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Mbabar..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Besutan bakal diatribusèkaké marang alamat IP pirantiné panjenengan. Yèn panjenengan \\$1, panjenengan bakal duwé privasi luwih."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Pranatan Pangguna"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Amarga panjenengan maca"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Kabèh artikel kang kerep dhéwé kawaca"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Artikel sembarang liyané"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Saka Wikipédia %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Saka Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ora ana sajarah kang bisa tinuduhaké"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Dhelikaké kertu iki"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Wedharaning sesirah tumrap %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Sing penjenengan karepaké apa %s?"
+    }
+  ]
+}

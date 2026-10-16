@@ -1,0 +1,5888 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ויקיפדיה"
+    },
+    {
+      "name": "about_content_license",
+      "value": "רישיון תוכן"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "אלא אם נאמר אחרת, התוכן זמין לפי תנאי \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "קריאייטיב קומונז–ייחוס–שיתוף זהה"
+    },
+    {
+      "name": "about_contributors",
+      "value": "תורמים"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ספריות בשימוש"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "רשימה מלאה"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "רישיון"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "אנחנו אוהבים תכנת קוד פתוח \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "רישיון המפות של המקומות"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "מקומות המשתמשים במפות שסופקו על־ידי יישום המפות של Apple.‏ \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "פרטי הרישיון מופיעים כאן"
+    },
+    {
+      "name": "about_product_of",
+      "value": "נוצר על־ידי \\$1 בעזרת מתנדבים כמוך"
+    },
+    {
+      "name": "about_repositories",
+      "value": "מאגרים"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "קוד המקור זמין לפי תנאי \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "רישיון MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "שליחת משוב על היישום"
+    },
+    {
+      "name": "about_title",
+      "value": "אודות"
+    },
+    {
+      "name": "about_translators",
+      "value": "מתרגמים"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "היישום הזה תורגם על־ידי מתרגמים מתנדבים באתר \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "קרן ויקימדיה"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ויקיפדיה"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "אינך יכול לראות את התמונה? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "הצגת תמונת אימות חדשה..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "בקשת חשבון."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "בדיקת ביטחון (CAPTCHA)"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "יצירת החשבון שלך"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "כבר יש לך חשבון? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "כניסה."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "כניסה..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "יש להזין שם משתמש, סיסמה ואישור סיסמה כדי ליצור חשבון."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "הסיסמאות אינן זהות."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "מתבצעת שמירה..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "יצירת חשבון חדש"
+    },
+    {
+      "name": "account_group_title",
+      "value": "החשבון שלך"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "העלמת החשבון שלך"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "דף השיחה שלך"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "חתימה אוטומטית בדיונים"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "חתימה אוטומטית בדיונים תשתמש בחתימה שהוגדרה בהגדרות החתימה"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "העדפות דף שיחה"
+    },
+    {
+      "name": "action_add_to",
+      "value": "הוספה ל־..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "הוספה לרשימת קריאה"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "הוספה לרשימה"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "לזרוק את העריכה"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "זריקת העריכות"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "למצוא בדף"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "להמשיך את העריכה"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "החלפת שפה"
+    },
+    {
+      "name": "action_move_to",
+      "value": "העברה ל־..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "העברה לרשימת קריאה"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "הגרסה הבאה"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "הגרסה הקודמת"
+    },
+    {
+      "name": "action_read",
+      "value": "קריאה"
+    },
+    {
+      "name": "action_redo",
+      "value": "ביצוע חוזר"
+    },
+    {
+      "name": "action_remove",
+      "value": "הסרה"
+    },
+    {
+      "name": "action_retry",
+      "value": "לנסות שוב"
+    },
+    {
+      "name": "action_save",
+      "value": "שמירה"
+    },
+    {
+      "name": "action_saved",
+      "value": "נשמר"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "נשמר. נא להפעיל כדי לבטל את השמירה."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "ערך נשמר לאחר־כך"
+    },
+    {
+      "name": "action_share",
+      "value": "שיתוף"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "שיתוף"
+    },
+    {
+      "name": "action_sort",
+      "value": "מיון"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "להודות למשתמש"
+    },
+    {
+      "name": "action_undo",
+      "value": "ביטול"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ביטול שמירה"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "שמירת הערך בוטלה"
+    },
+    {
+      "name": "action_update",
+      "value": "עדכון"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "הוספת תמונות מוצעות לערכי ויקיפדיה כדי לשפר את ההבנה."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "הוספת תמונות"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "עוד מחשבות?"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "ערכים שנקראו החודש"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "ערכים"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "השפעה מאז ומעולם"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "תובנות עריכה"
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "תובנות על קריאה"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "הזמן שבילית בקריאה"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "ציר זמן של התנהגות"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[צילומי מסך או קישורים]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "נתקלתי בבעיה עם יכולת לשונית הפעילות:"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[נא לתאר את ההתנהגות הרצויה]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [נא לתאר בעיה מסוימת]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "ההתנהגות שאני רוצה לראות היא:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "דיווח בעיה - לשונית פעילות"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "נא להתחיל לקרוא ולערוך כדי לבנות את ההיסטוריה שלך"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "אין מה להראות"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 שע׳ \\$2 דק׳"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "הרצף הארוך ביותר"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "עריכות"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "עריכה אחרונה"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "הפעילות שלך לאחרונה (30 הימים האחרונים)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "מ־\\$1 עד \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "תודות"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "סה״כ עריכות"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "יום"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "צפיות בערכים שערכת"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "צפיות"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "פעילות"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "הקטגוריות המובילות החודש"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "סך כל העריכות בכל המיזמים"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "הצגת ערכים שמורים"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "שבוע"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "ערכת {{PLURAL:\\$1|one=פעם אחת|two=פעמיים|many=\\$1 פעמים|\\$1 פעמים}} השבוע."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "קראת {{PLURAL:\\$1|one=ערך אחד|two=שני ערכים|many=\\$1 ערכים|\\$1 ערכים}} השבוע."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "שמרת {{PLURAL:\\$1|one=ערך אחד|two=שני ערכים|many=\\$1 ערכים|\\$1 ערכים}} השבוע."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "ההשפעה שלך"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "הוספת {{PLURAL:\\$1|ערך אחד|\\$1 ערכים}} לרשימת הקריאה"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "הגדרות מתקדמות"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "החשבון שלך חולף. החשבון יפוג בעוד 90 יום."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "מידע נוסף."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "המשוב נשלח"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "סגירה"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ויקיפדיה, מקורות, ויקי, אנציקלופדיה, מידע, ידע, חקר, מחקר, גילוי, למידה"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "הזנת ה\"לחקור\" ניתנת להתאמה אישית וקל יותר לקרוא אותה. שיפורי מיקום, ביצועים ותיקוני באגים."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "הורידו את היישום של ויקיפדיה כדי לגלות מקומות בסביבתכם, לסנכרן ערכים לקריאה ללא חיבור לרשת ולהתאים אישית את חוויית הקריאה שלכם."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "האנציקלופדיה החופשית"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "כוונון גודל טקסט הערך"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "להרחיב טבלאות"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "מגדיר שכל הטבלאות בכל הערכים יהיו פתוחות כשהערך נפתח, כולל עובדות מהירות, הערות שוליים, הערות אחרות, וקישורים חיצוניים."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "הפחתת העמימות של התמונות בערכות הנושא החשוכה והשחורה"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "ערכות נושא לקריאה"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "הגדרות טבלה"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "סמל היישום"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "יש לגרור את המחלק כדי לשנות את גודל טקסט הערך. ניתן להשתמש בגודל הטקסט של המערכת כדי לקבוע את גודל הטקסט באזורים אחרים של היישום."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "אפשרויות ערכת נושא"
+    },
+    {
+      "name": "article_about_title",
+      "value": "מידע על הערך הזה"
+    },
+    {
+      "name": "article_delete",
+      "value": "מחיקה"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|הערך נמחק|הערכים נמחקו}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "היישום לא הצליח לקבל את התוכן העדכני בזמן. נא לרענן את הדף הזה מאוחר יותר כדי לראות את השפעת השינויים שערכת."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "מציאת שפה"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "בחירת שפה"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "שפות אחרות"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "השפות שלך"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "הערת שוליים \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "היסטוריית גרסאות של ערך"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "אין מספיק נפח אחסון במכשיר שלך כדי לשמור את הערך"
+    },
+    {
+      "name": "article_share",
+      "value": "שיתוף"
+    },
+    {
+      "name": "article_tabs_button_accessibility_hint",
+      "value": "מנווט לסקירת הלשוניות"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "לשוניות ערכים"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "אפשר לפתוח כמה ערכים ולהחליף ביניהם בקלות."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "גלישה עם לשוניות"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "לשוניות זוכרות אוטומטית את המקום שגללת אליו."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "אפשר לחזור לנקודה בה הפסקת"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "אפשר לפתוח קישורים בלשוניות רקע מבלי לאבד את המקום שהיית בו"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "שמירת קישורים לאחר־כך"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "מידע נוסף על לשוניות"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "ניווט בלשוניות"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "עצות לאימוץ לשוניות"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "פתיחה"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "פתיחה בלשונית ברקע"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "פתיחה בלשונית חדשה"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "דף שיחה של ערך"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "בקרי ערכות נושא לקריאה"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "נוצר חשבון זמני"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "חזרה"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "יש ללחוץ כדי לחזור"
+    },
+    {
+      "name": "button_go_back",
+      "value": "חזרה"
+    },
+    {
+      "name": "button_next",
+      "value": "הבא"
+    },
+    {
+      "name": "button_ok",
+      "value": "אישור"
+    },
+    {
+      "name": "button_publish",
+      "value": "פרסום"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "לפרסם בכל־זאת"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "דיווח באג"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "לשמור לאחר־כך"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "נשמרו לאחר־כך"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "להסיר משמורים"
+    },
+    {
+      "name": "button_skip",
+      "value": "לדלג"
+    },
+    {
+      "name": "cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "cc_zero",
+      "value": "קריאייטיב קומונז אפס"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בהגוונים הבאים של סינית בתור השפה הראשית או המשנית ביישום, כדי שיהיה קל יותר לקרוא, לחפש, ולערוך בהגוונים המועדפים עליך:\n\n简体 סינית, מפושטת (zh-hans)\n香港繁體 הונג קונג מסורתית (zh-hk)\n澳門繁體 מקאו מסורתית (zh-mo)\n大马简体 מלזיה מפושטת (zh-my)\n新加坡简体 סינגפור מפושטת (zh-sg)\n臺灣正體 טאיוואן מסורתית (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של סינית"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ניקוי"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "ניקוי המטמון הושלם."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "ניקוי המטמון מתבצע."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "סגירת כל הלשוניות"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "לסגור את כל \\$1 הלשוניות? זאת פעולה בלתי־הפיכה."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "לסגור את כל \\$1 הלשוניות?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "סגירה"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "סגירת הלשוניות האחרות"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "לסגור לשונית?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "סגירת לשניות"
+    },
+    {
+      "name": "compass_direction",
+      "value": "בשעה \\$1"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "זה יחול רק על תרומות שנעשו מהמכשיר הזה."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "אישור המחיקה"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "ההיסטוריה המקומית נמחקה"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "המשך"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "לחקור את ויקיפדיה כדי למצוא ערכים נוספים לקריאה"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "אין ערכים שנקראו לאחרונה"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "תרומות החודש"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של טטרית של קרים בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nQırımtatarca, טטרית של קרים באותיות לטיניות (crh-latn)\nкъырымтатарджа, טטרית של קרים באותיות קיריליות (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "עדכונים לתמיכה בטטרית של קרים"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "התאמה"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "מתבצע עדכון…"
+    },
+    {
+      "name": "description_add_title",
+      "value": "הוספת תיאור"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "סדר הרכיבים יהיה שונה בתצוגת העריכה מאשר תצוגת ערך."
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "תיאור הערך עבור \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 מתוך \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "שינוי תיאור הערך מהווה את הסכמתי ל\\$1 ולשחרור בלתי־חוזר של התרומות שלי לפי תנאי רישיון \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "עריכת הפתיחה"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "עריכת תיאור ערך"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "תיאורים קצרים הם הטובים ביותר"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "פרסום התיאור"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "עריכת תיאור"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "השתדלו להקפיד שהתיאורים יהיו קצרים כדי שמשתמשים יוכלו להבין מה נושא הערך במבט מהיר"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "צריך לכתוב באות גדולה רק שמות פרטיים, גם התחילת משפט"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "תיאורי הערכים מסכמים ערך כדי לעזור לקוראים להבין את הנושא במבט מהיר."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "אודות"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "אודות ויקינתונים"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "התיאורים נשמרים ומתוחזקים בוויקינתונים (Wikidata), מיזם של קרן ויקימדיה שמספק מסד נתונים משני חופשי, שיתופי ורב־לשוני שתומך בוויקיפדיה ובמיזמים אחרים."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "תיאורים אמורים להיכנס לשורה אחת, ולכלול בין שתיים לשתים־עשרה מילים. אין להשתמש באותיות גדולות בלועזית אלא אם מדובר בשם עצם פרטי (שם של אדם, מקום, ישות או ארגון)."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "תיאור ערך של ערך על המונה ליזה"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "תיאור ערך של ערך על הר אוורסט"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ציור של לאונרדו דה וינצ'י"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ההר הגבוה בכדור הארץ"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "למשל:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "עצות ליצירת תיאורים"
+    },
+    {
+      "name": "description_help_title",
+      "value": "עזרה עם תיאור ערך"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "מדריך ויקינתונים לכתיבת תיאורים"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "סיום"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "שיפרת עכשיו את ויקיפדיה בשביל כולם"
+    },
+    {
+      "name": "description_published_title",
+      "value": "התיאור פורסם!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "הכי טוב שורה אחת, בין שתיים לשתים־עשרה מילים"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "זה אמור להיות קצר"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "מסכם את הערך כדי לעזור לקוראים להבין את הנושא במבט מהיר"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "תיאורי ערך"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "תחילת העבודה היא ההבטחה שלי לא להשתמש באפשרות הזאת לרעה"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "להתחיל לערוך"
+    },
+    {
+      "name": "developer_settings",
+      "value": "הגדרות מפתחים"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "לעקוף תרומות"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "הפעלת \"סקירת השנה\""
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "שליחת נתוני לבדיקה ל־wmflabs."
+    },
+    {
+      "name": "developer_settings_suppress_image_rec_post",
+      "value": "לא לשלוח את עריכת הצעות התמונה."
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "היסטוריית גרסאות של ערך"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "הוספה, \\$1, סוף הוספה."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "פסקה הוזזה {{PLURAL:\\$1|0=אפס שורות|שורה אחת|\\$1 שורות}} מטה. נא לעבור למיקום חדש."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "פסקה הוזזה {{PLURAL:\\$1|0=אפס שורות|שורה אחת|\\$1 שורות}} מעלה. נא לעבור למיקום חדש."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "הפסקה עברה. נא לעבור למיקום הקודם."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "פסקה הוזזה {{PLURAL:\\$1|0=אפס פרקים|פרק אחד|\\$1 פרקים}} מטה. נא לעבור למיקום חדש."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "פסקה הוזזה {{PLURAL:\\$1|0=אפס פרקים|פרק אחד|\\$1 פרקים}} מעלה. נא לעבור למיקום חדש."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "הסרה, \\$1, סוף הסרה."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "העריכה הקודמת"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "השוואת גרסאות"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "העריכה המוצגת"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "השוואת גרסאות"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "נוסף תוכן, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "הוסר תוכן, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "להסתיר את \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "להציג את \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "הצגה"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "הסתרה"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "הגרסה נעשתה ב־"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "שורות ‏\\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "הפסקה הועברה"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "מטה"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "מעלה"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|שורה אחת|\\$1 שורות}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|פרק אחד|\\$1 פרקים}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "פסקה הועברה \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "לא ניתן לטעון גרסה"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "שחזור"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "האם ברצונך באמת לשחזר את העריכות?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "שחזור עריכות"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "העריכות שוחזרו."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|עריכה אחת|\\$1 עריכות}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "פרטי העורך"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|בית אחד נוסף|\\$1 בתים נוספו}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|בית אחד הוסר|\\$1 בתים הוסרו}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "עריכת תקציר"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "מבוא"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "שורה \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "אי אפשר להודות למשתמשים אלמוניים"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "\"תודה\" היא דרך קלה להראות הערכה לעבודה של עורך בוויקיפדיה. חובה להיות בחשבון כדי לשלוח תודה."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "כניסה לשליחת ‚תודה’"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "שליחת ‚תודה’"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "\"תודה\" היא דרך קלה להראות הערכה לעבודה של עורך בוויקיפדיה. לא ניתן לבטל פעולות שליחת \"תודה\" והן מוצגות באופן ציבורי."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "שליחת \"תודה\" באופן ציבורי"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "ה\"תודה\" שלך נשלחה למשתמש \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "כבר שלחת \"תודה\" על העריכה הזאת"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "לא ניתן לבטל שליחת תודה"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "שורה שנותנת הקשר, ללא שינוי: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "הפעולה הזאת תבטל את השינויים שנעשו על־ידי העריכות של הערך המוצגות כאן. כדי להמשיך, נא לספק סיבה לביטול העריכה הזאת."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "הגרסה בוטלה."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|שורה שלא נערכה|\\$1 שורות שלא נערכו}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "יש להקיש פעמיים כדי לפתוח את התפריט"
+    },
+    {
+      "name": "dim_images",
+      "value": "עמעום תמונות"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "יש להקיש פעמיים כדי לבחור את סכום התרומה."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "יש להקיש פעמיים כדי לתרום \\$1 לקרן ויקימדיה."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "יש להקיש פעמיים כדי לתת לקרן ויקימדיה הרשאה לשלוח לך דוא\"ל."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "יש להקיש פעמיים כדי לסגור את תצוגת מקלדת הזנת הסכום."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "יש להקיש פעמיים כדי לאפשר תרומות חודשיות אוטומטיות בסכום הזה."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "יש להזין סכום מותאם אישית לתרומה."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "יש להקיש פעמיים כדי להוסיף עמלת עסקה לסכום התרומה."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "תודה, תורם יקר! הנדיבות שלך עוזרת להבטיח את צמיחתם של ויקיפדיה ושל האתרים הקשורים אליה."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "אפל אינה אחראית על גיוס כסף למטרה הזאת."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "כן, קרן ויקימדיה יכולה לשלוח לי דואר אלקטרוני מדי פעם."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "שאלות ותשובות"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "דרכים אחרות לתרום"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "בעיות בתרומה?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "מידע על פטור ממס"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "מחיקת היסטוריית תרומות מקומית"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "נזכיר לך שוב מחר."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "איננו יכולים לקבל תרומות גבוהות מ־\\$1 \\$2 דרך האתר שלנו. נא ליצור קשר עם צוות התרומות הגדולות שלנו בכתובת benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "נא לבחור את הסכום (לפחות \\$1 \\$2)"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "להפוך את זה לתרומה חוזרת חודשית."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "תרומה באמצעות Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "לתרום באמצעות Apple Pay או לבחור אמצעי תשלום אחר."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "אמצעי תשלום אחר"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "לתרום באמצעות Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "הנדיבות שלך חשובה לנו כל־כך."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "תודה!"
+    },
+    {
+      "name": "donate_title",
+      "value": "בחירת סכום"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "אוסיף בנדיבות \\$1 לכיסוי עמלות העסקה כדי שתוכלו לשמור 100%% מהתרומה שלי."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "איננו מוכרים את המידע שלך ואיננו סוחרים בו עם איש. תרומתך מהווה את הסכמתך לשתף את המידע האישי שלך עם קרן ויקימדיה, הארגון ללא כוונת רווח שמארח את ויקיפדיה ואת המיזמים האחרים של ויקימדיה, ועם ספקי השירות שלה בהתאם ל[מדיניות התורמים](\\$1) שלנו. קרן ויקימדיה וספקי השירות שלה נמצאים בארצות הברית ובארצות אחרות שחוקי הפרטיות שלהן אולי שונים מאלה שלך. למידע נוסף נא לקרוא את [מדיניות התורמים](\\$1) שלנו."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "תורמים קבועים יחויבו מדי חודש על ידי קרן ויקימדיה באותו יום בחודש שבו הועברה התרומה הראשונה, עד היום שבו תבקשו מאתנו להפסיק את החיוב. \nתרומות שהועברו בימים 29, 30 או 31 בחודש יחויבו בחודשים קצרים יותר ביום האחרון של החודש, קרוב ככל האפשר למועד  המקורי. לשאלות אנא פנו לכתובת donate@wikimedia.org."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "שכפול לשונית"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "טקסט להצגה"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "יעד הקישור"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "הסרת הקישור"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "עריכת קישור"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "עריכה"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "ייתכן שזה קרה כיוון שהטקסט שבחרת אינו זמין לעריכה (למשל: כותרת ערך או תיבות מידע) או עקב אורך הטקסט שסומן"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "לא ניתן לאתר את הטקסט שבחרת"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "מידע נוסף על עריכות משניות"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "זוהי עריכה משנית"
+    },
+    {
+      "name": "edit_notices",
+      "value": "הודעות לעורכים"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "תמיד להציג את ההודעות לעורכים"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "נא לקרוא לפני עריכה"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "כל התוכן מוצג בעיצוב פשוט."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "תצוגה מקדימה בדפדפן"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "הוספת תקציר עריכה"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "נוספה תמונה"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "נוספו תמונה וכיתוב"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "תיקנתי דקדוק"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "תיקנתי טעות הקלדה"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "הוספתי קישורים"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "איך שיפרת את הערך?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "נוסף תיאור קצר"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "עודכן תיאור קצר"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "מידע נוסף על רשימת המעקב שלך"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "מעקב אחר דף זה"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "היו נועזים, אבל לא פזיזים מדי בעדכון ערכים. אל תפחדו יותר מדי מטעויות: כל הגרסאות הקודמות של הדף נשמרות, ושגיאות יכולות להיות מתוקנות בקלות על־ידי הקהילה שלנו."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "הקול שלך עושה את ההבדל"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "כל התוכן צריך להיות בר־בדיקה. בעת הוספת מידע חדש לערך, עורכים צריכים לספק ציטוט למקור אמין שמאשר את תרומת התוכן."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "לצטט מקורות מהימנים"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "אנחנו שואפים לכך שערכים ייכתבו בנימה חסרת פניות. בעת עריכה, יש להשתדל לייצוג הוגן של העולם כפי שהוא מתואר במקורות אמינים."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "כתבו בנימה חסרת פניות"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "כדי להעניק לכולם גישה למידע עולמי, אנו רוצים לבקש ממך לקחת חלק בקריאה, עריכה ותרומה לנושאים שהכי נוגעים ללבך."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "להוציא את הידע לחופשי"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "העריכה שלך פורסמה."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "עריכת קוד מקור"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "האם ברצונך באמת לעזוב את מצב העריכה בלי לפרסם קודם?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "האם ברצונך באמת לזרוק את העריכה הזאת?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "לצאת ממצב העריכה?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "איפוס החיפוש"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "סגירת החיפוש"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "נמצאו \\$1 התאמות בסך הכול. מודגשת התאמה מספר \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "לא נמצאו התאמות"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "תוצאות החיפוש הבאה"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "תוצאת החיפוש הקודמת"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "למצוא"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "בולט"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "סגירת תפריט עיצוב טקסט"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "הערה"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "כותרת"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "הקטנת הזחה"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "הגדלת הזחה"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "נטוי"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "קישור"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "רשימה ממוספרת"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "רשימת תבליטים"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "פסקה"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "הערת שוליים"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "קו חוצה"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "תת־כותרת 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "תת־כותרת 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "תת־כותרת 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "תת־כותרת 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "כתב תחתי"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "כתב עילי"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "תבנית"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "עיצוב טקסט"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "קו תחתי"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "ביצוע פעולת החלפה. סוג ההחלפה מוגדר בתור \\$1."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "ניקוי החלפה"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "החלפה"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "החלפה ב־..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "החלפה של הכול"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "החלפת כל המופעים"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "סוג מתג החלפה. מוגדר כרגע לסוג \\$1. יש לבחור כדי לשנות."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "החלפה"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "החלפת מופע יחיד"
+    },
+    {
+      "name": "editor_title",
+      "value": "עורך"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "עיצוב טקסט מודגש"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "הזזת הסמן למטה לשורה הבאה."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "הזזת הסמן לתו הבא."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "הזזת הסמן לתו הקודם."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "הזזת הסמן למעלה לשורה הקודמת."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "למצוא בדף"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "עיצוב טקסט תמונה"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "עיצוב טקסט הקטנת הזחה"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "עיצוב טקסט הגדלת הזחה"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "עיצוב טקסט נטוי"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "עיצוב טקסט קישור"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "עיצוב טקסט רשימה ממוספרת"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "עיצוב טקסט רשימת תבליטים"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "פתיחת תפריט עיצוב טקסט"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "עיצוב טקסט הערת שוליים"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "הצגת אפשרויות עיצוב נוספות"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "עיצוב טקסט תבנית"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "טעינת הטקסט בעורך"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "עורך קוד ויקי"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "עריכות בחודש שעבר"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "עריכות החודש"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "אין הבדל בין גרסאות"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "לא נעשו שינויים שאפשר לראות"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "תקציר עריכה ריק"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "נא לבחור קובץ מוויקישיתוף"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "סליחה, לא ניתן לטעון ערך"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "עדיין אפשר לקרוא דפים שמורים"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "אפשר לראות הצעות לערכים כשיהיה לך אינטרנט"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "כאן אפשר לעקוב אחרי מה שקראת"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "אין היסטוריה להציג"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "הערך הזה עדיין לא נכתב בשום שפה אחרת"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "שפות אחרות אינן זמינות"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "צרו רשימות קריאה עבור מקומות שאתם רוצים לטייל בהם, נושאים שמעניינים אתכם, ועוד"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "סדרו ערכים שמורים ברשימות קריאה"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "שמרו דפים ברשימה זו כדי לראות אותם כאן"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "לא נשמרו דפים ברשימה זו"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "אפשר לשמור דפים כדי לקרוא אותם אחר־כך, אפילו בלי חיבור לרשת"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "אין עדיין דפים שמורים"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "לא נמצאו תוצאות"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "אין שיחות עבור משתמש זה"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "נא לנסות שוב מאוחר יותר"
+    },
+    {
+      "name": "error_unknown",
+      "value": "אירעה שגיאה בלתי־ידועה"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ערך אקראי נוסף"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "כי קראת"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "ערכים קשורים נוספים"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "המשך קריאה"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "חזרה להזנת לחקור"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "לגלות ערכים ליד המיקום הנוכחי שלך"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "ערך מומלץ"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "מתוך ויקיפדיה ב\\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "מתוך ויקיפדיה"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "התאמה אישית"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "הגדרות השפה של הזנת לחקור"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "ניתן להוסיף שפות נוספות בדף ההגדרות \"השפות שלי\"."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "הכרטיס מוסתר"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "קישור לחזרה מהירה לקריאת ערך פתוח"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "התאמה אישית של הזנת לחקור"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "התאמה אישית של ההזנה \"לחקור\""
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "הסתרת סוג של כרטיס תגרום לכך שהוא לא יוצג בהזנת לחקור."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "הלשונית \"לחקור\""
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ערך מומלץ יומי בוויקיפדיה"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "כבוי"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "בכל"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "מופעל"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "ב־\\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "כל הכרטיסים מסוג \\$1 מוסתרים"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "הכרטיס הזה אינו תלוי בשפה. כיבוי הכרטיס יסיר אותו מהזנת הלחקור שלך."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "כרטיסים שאינם תלויים בשפה"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "לא תלוי בשפה"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "כרטיסים גלובליים"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "הסתרת כרטיס זה"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "הסתרת כל הכרטיסים מסוג \"\\$1\""
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "ערכים על אירועים אקטואליים"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "הסתרת כל הכרטיסים בהזנת לחקור בכל השפות תגרום לכיבוי הלשונית לחקור."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "אירועים בהיסטוריה ביום הזה"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "ערכים בוויקיפדיה ליד המיקום שלך"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "תמונה מומלצת יומית מוויקישיתוף"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "יצירת ערכים אקראיים לקריאה"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "הצעות על בסיס היסטוריית הקריאה"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "הצגת המשך קריאת הכרטיס"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "כיבוי כרטיס הערך המומלץ יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "הצגת כרטיס הערך המומלץ"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "כיבוי הכרטיס \"בחדשות\" יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "הצגת הכרטיס \"בחדשות\""
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "כיבוי הכרטיס \"ביום הזה\" יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "הצגת הכרטיס \"ביום הזה\""
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "הצגת כרטיס התמונה היומית"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "כיבוי כרטיס המקומות יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "הצגת כרטיס המקומות"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "כיבוי הכרטיס \"אקראי\" יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "הצגת הכרטיס \"אקראי\""
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "מוצג משום שקראת את הכרטיס"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "כיבוי כרטיס הערכים הנקראים ביותר יגרום לכיבויו בכל השפות הזמינות."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "הצגת כרטיס הערכים הנקראים ביותר"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "הצעות להוספת תוכן לוויקיפדיה"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "להציג כרטיס עריכות מוצעות"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "הערכים הנקראים ביותר ביום"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "כיבוי הזנת לחקור"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "הסתרת כל הכרטיסים בהזנת לחקור תגרום לכיבוי הלשונית לחקור ולהחלפתה בלשונית ההגדרות"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "לכבות את ההזנה \"לחקור\"?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "כיבוי הלשונית לחקור"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "ניתן להפעיל מחדש את הלשונית לחקור בהגדרות של ההזנה"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "לכבות את הלשונית \"לחקור\"?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "כיבוי הלשונית לחקור יגרום להחלפתה בלשונית הגדרות."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "הצגת כרטיסים של הזנת לחקור תגרום להפעלת הלשונית לחקור"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "הפעלת הלשונית \"לחקור\""
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "זה יגרום להחלפת לשונית ההגדרות בלשונית לחקור. ניתן יהיה לגשת להגדרות מהחלק העליון של הלשונית לחקור, באמצעות לחיצה על כפתור גלגל השיניים"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "להפעיל את הלשונית \"לחקור\"?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "הסתרת כרטיס זה"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "העמוד הראשי של מיזמי ויקימדיה"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "היום בוויקיפדיה"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "כל הערכים שנקראו הכי הרבה"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "הנקראים ביותר"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "מוביל ב־\\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "בוויקיפדיה ב\\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "בוויקיפדיה"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "מקומות בסביבה"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "מקומות"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "מתוך ויקיפדיה ב\\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "מתוך ויקיפדיה"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "המיקום שלך"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "המיקום שלך מתוך ויקיפדיה ב\\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "תמונת היום"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "מתוך ויקישיתוף"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ערך אקראי"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "מתוך ויקיפדיה ב\\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "מתוך ויקיפדיה"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "הגרלה"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "הוספה"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "הוספת תמונות מוצעות לערכי ויקיפדיה כדי לשפר את ההבנה."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "הוספת תמונה"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "שיתוף ספריית היישום שלך כולל נתונים על רשימות הקריאה, ההיסטוריה שלך וההעדפות שלך. יש לשתף את קובץ הנתונים הזה רק עם נמען מהימן לשימוש למטרות אבחון טכני."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "לשתף את ספריית היישום?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "אירעה שגיאה בעת יצוא הנתונים שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "אין לך מספיק מקום במכשיר כדי לייצא את נתוני המשתמש שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "יצוא נתוני משתמשים"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "לא זמין ערך מומלץ עבור התאריך הזה."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "גלו את הערכים הטובים ביותר בוויקיפדיה, שנבחרים יום־יום על־ידי הקהילה שלנו."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "מתוך ויקיפדיה ה\\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "מתוך ויקיפדיה"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "ויקיפדיה בשפה הראשית שלך אינה תומכת ב״ערך מומלץ״. אפשר לעדכן את שפת הוויקיפדיה הראשית שלך בתפריט ההגדרות של היישום."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "ערך מומלץ"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "משהו השתבש! נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "היישום הזה קיבל תשובה בלתי־צפויה מהשרת. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "קוד אימות בלתי־תקין"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "הסיסמאות אינן תואמות"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "קוד בלתי־תקין"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "שם המשתמש אינו זמין"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "קוד גיבוי"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "טקסט אימות אנושיות"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "נא להזין את הטקסט שמוצג לעיל"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "shaked@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "כתובת דוא\"ל"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "דואר אלקטרוני (לא חובה)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "נא להזין את הסיסמה החדשה"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "אימות סיסמה חדשה"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "נא להזין סיסמה חדשה"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "סיסמה חדשה"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "נא להקליד את הסיסמה שוב"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "אימות סיסמה"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "נא להזין סיסמה"
+    },
+    {
+      "name": "field_password_title",
+      "value": "סיסמה"
+    },
+    {
+      "name": "field_token_title",
+      "value": "קוד אימות"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "נא להזין שם משתמש"
+    },
+    {
+      "name": "field_username_title",
+      "value": "שם משתמש"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "הכול"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "איפוס החיפוש"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 מתוך \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "תוצאת החיפוש הבאה"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "תוצאת החיפוש הקודמת"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "חיפוש והחלפה"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "סגירת החיפוש וההחלפה"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "למצוא"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "אתחול"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "נשלח מכתב עם הוראות איפוס סיסמה"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "נא למלא אחד מהשדות להלן כדי לקבל את הוראות אתחול הסיסמה בדוא\"ל"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "איפוס סיסמה"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "או"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של גאנית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\n贛語 原文 גאנית (gan)\n赣语 简体 גאנית, מפושטת (gan-hans)\n贛語 繁體 גאנית, מסורתית (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של גאנית"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "האם באמת למחוק את כל הפריטים האחרונים שלך?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "כן, למחוק הכול"
+    },
+    {
+      "name": "history_title",
+      "value": "היסטוריה"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ויקיפדיה, חזרה ל\"לחקור\""
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ויקיפדיה, חזרה ל\"נשמר\""
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "עוד כמו \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "מקומות נוספים ליד המיקום שלך"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "עוד בסביבת \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "אירועים אקטואליים נוספים"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "עכשיו אפשר לארגן את הערכים ששמרת ברשימות קריאה ולסנכרן אותם בין מכשירים. יש להיכנס לחשבון כדי לשמור את רשימות הקריאה בהעדפות המשתמש שלך."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ניהול העדפות"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "קִבעו את העדפות הקריאה שלכם, כולל גודל האותיות וערכת הנושא, בסרגל הכלים או בהעדפות המשתמש שלכם, לחוויית קריאה נוחה יותר."
+    },
+    {
+      "name": "home_title",
+      "value": "לחקור"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "ויקיפדיה, גלילה עד למעלה של \"לחקור\""
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ערכים בסביבה"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ערך אקראי"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "חיפוש בוויקיפדיה"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "היוצר אינו ידוע."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "להוסיף את התמונה הזאת?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "נא לנסות לחזור מאוחר יותר."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "אין לך תמונות מוצעות נוספות זמינות כעת."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "משהו השתבש."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "לא ניתן לטעון את הדף"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "בידך ההחלטה האם לשים תמונה מוצעת בערך בוויקיפדיה."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "הצגת הצעה"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "הצעות נוצרות על־ידי מכונה ויש להשתמש בשיקול דעתך כדי להחליט אם לקבל או לדחות אותן."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "לקבל או לדחות תמונה"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "התמונות מגיעות מוויקישיתוף, אוסף תמונות ברישיון חופשי, שמשמשות בוויקיפדיה."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "תמונות ברישיון"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "מידע נוסף על עריכות מוצעות"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "הוספת תמונה לערך"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "התשובות שלך משפרות הצעות עתידיות."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "יש לבחור אפשרות אחת או יותר"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "התמונה אינה רלוונטית"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "אין מספיק מידע בשביל להחליט"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "התמונה פוגענית"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "התמונה באיכות נמוכה"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "הנושא לא מוכר לי"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "אחר"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "שליחה"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "סיבה"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "הוספת תמונה"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "יש לעיין בערך הזה כדי להבין את הנושא שלו."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "סקירה"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "יש לבדוק את התמונה והמידע המשויך לה."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "לִבדוֹק"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "יש להחליט האם התמונה עוזרת לקוראים להבין טוב יותר את הנושא הזה."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "להחליט"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "הצגת הערך"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "נתקלתי בבעיה בתכונת העריכות המוצעות \"הוספת תמונה\":"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "דו\"ח בעיה - תכונת הוספת תמונה"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "לא"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "אין לי תשובה"
+    },
+    {
+      "name": "image_recs_time_warning_message",
+      "value": "נא לסקור את הערך כדי להבין את הנושא שלו ולהתבונן היטב בתמונה"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "כן"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "רשימת הקריאה שלי"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "מילוי סקר"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"שיתוף רשימות קריאה\" היא תכונה בבדיקה ואנחנו זקוקים למשוב שלך כדי לשפר או להסיר אותה."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "אפשר לבקש ממך לעזור לנו לשפר את התכונה \"שיתוף רשימות קריאה\"?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "יבוא רשימת קריאה משותפת"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "מתוך ויקיפדיה ב\\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "מתוך ויקיפדיה"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "בחדשות"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "הוספה"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "הוספת קישור"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "הוספת פרטי תמונה"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "תיאור טקסט לקוראים שלא יכולים לראות את התמונה"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "תיאור התמונה הזאת"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "טקסט חלופי"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "איך תמונה זו קשורה לערך?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "תווית שמופיעה לצד הפריט לטובת כל הקוראים"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "כותרת"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "מרכז"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "שמאל"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "אין"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ימין"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "מיקום תמונה"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "בחירת תמונה"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "מותאם אישית"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "ברירת המחדל"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "גובה"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "רוחב"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "פיקסל"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "גודל תמונה"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "גלישת טקסט סביב תמונה"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "בסיסית"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "מסגרת"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ללא מסגרת"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "תמונה ממוזערת"
+    },
+    {
+      "name": "insert_media_image_type_settings_footer_title",
+      "value": "אפשר לקבוע איך פריט המדיה יופיע בדף. זה אמור להיות עיצוב ממוזער, לשם עקביות עם דפים אחרים כמעט בכל המקרים."
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "סוג תמונה"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "הגדרות מדיה"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "הוספת מדיה"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של טטרית של קרים בתור שפה ראשית או משניות בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ אינוקטיטוט, כתב הברתי (ike-cans)\nInuktitut ilisautik, אינוקטיטוט, לטינית (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של אינקטיטוט"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "להיכנס או ליצור חשבון"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "לא נכנסת לחשבון"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של קזחית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nҚазақша קזחית (kk)\nҚазақша Кирил קזחית, קירילית (kk-cyrl)\nqazaqşa latin קזחית, לטינית (kk-latn)\nتوتە قازاقشا קזחתית, ערבית (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של קזחית"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של כורדית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nKurdî Latînî כורדית, לטינית (ku-latn)\nكوردی כורדית, ערבית (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של כורדית"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "שפות"
+    },
+    {
+      "name": "languages_title",
+      "value": "שינוי שפה"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "שפות ויקיפדיה"
+    },
+    {
+      "name": "learn_about_editing",
+      "value": "מידע על עריכה"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "lockscreen_search_widget_description",
+      "value": "גישה מהירה לחיפוש בוויקיפדיה ישירות ממסך הנעילה שלך."
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "להמשיך בלי להיכנס לחשבון"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "להיכנס חזרה לחשבון שלך"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "הייתה בעיה באימות החשבון שלך. כדי לסנכרן את רשימות הקריאה שלך ולערוך תחת שם המשתמש שלך נא להיכנס לחשבון מחדש."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "יצאת מהחשבון"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "שכחת את סיסמתך?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "להצטרף לוויקיפדיה."
+    },
+    {
+      "name": "login_no_account",
+      "value": "אין לך חשבון? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "כניסה לחשבון שלך"
+    },
+    {
+      "name": "looking_for_something_new",
+      "value": "מעניין אותך לקרוא משהו חדש?"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "אודות היישום"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "כניסה"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "יציאה"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "האם ברצונך לצאת?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "יציאה מהחשבון תמחק את נתוני החשבון שלך שמאוחסנים מקומית (התראות והודעות), אבל נתוני החשבון שלך עדיין יהיו זמינים באתר ויורדו למכשירך עם ההתחברות הבאה."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "נכנסת בתור \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "פרטיות ותנאי שימוש"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "בסביבה"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "מדיניות פרטיות"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "דירוג היישום"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "תנאי שימוש"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "עוד"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "שו\"ת ויקיפדיה אפס"
+    },
+    {
+      "name": "main_page",
+      "value": "העמוד הראשי"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_subtitle_updated",
+      "value": "בשנת 2024, מתנדבים הוסיפו 4,104,852,969 בתים לוויקיפדיה האנגלית. כל העבודה המשותפת הזאת שלהם מובילה ליצירת משאב ידע שמשתפר בהתמדה, מבוסס על עובדות ואמין, והם נותנים אותו לכל עולם. לכולנו יש ידע לשתף, [כאן אפשר ללמוד איך אפשר לקחת בזה חלק](\\$1)."
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "נוספו 4 מיליארד בתים"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_subtitle_updated",
+      "value": "מתנדבים עשו 98,222,407 שינויים ביותר מ־300 מהדורות של ויקיפדיה בשפות שונות. יותר מ־37 מיליון שינויים נעשו בויקיפדיה האנגלית. כל שעה בכל יום עובדים מתנדבים לשיפור ויקיפדיה."
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "העורכים עשו השנה כמעט 98 מיליון שינויים"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "אנשים השקיעו כ־2.9 מיליארד שעות - כמעט 331,000 שנה! - בקריאה בוויקיפדיה האנגלית בשנת 2024. ויקיפדיה נמצאת שם כאשר אתם רוצים ללמוד על העולם המשתנה שלנו, לזכות בהתערבות בין חברים או לענות על שאלה של ילד סקרן."
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "בילינו {{PLURAL:\\$1|one=שעה|two=שעתיים|\\$1 שעות}} בקריאה"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "למשתמשים הפעילים של היישום ל־iOS היו יותר מ־62.2 מיליון רשימות קריאה. הוספת ערכים לרשימות קריאה מאפשרת לך לגשת לערכים גם ללא חיבור לרשת. אפשר גם להיכנס לחשבון כדי לסנכרן רשימות קריאה בין מכשירים."
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "היו לנו למעלה מ־62.2 מיליון רשימות קריאה"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "5 הערכים שביקרו בהם הכי הרבה בוויקיפדיה האנגלית היו:\n\n1. \\$1\n2. \\$2\n3. \\$3\n4. \\$4\n5. \\$5\nבואו לקרוא עוד ב\\$6רשומה על זה בבלוג שלנו\\$7."
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "הערכים הפופולריים ביותר של ויקיפדיה האנגלית"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "חיפוש בוויקיפדיה בלמעלה מ־300 שפות"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "הוספת שפות"
+    },
+    {
+      "name": "more_menu",
+      "value": "עוד"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "העברת {{PLURAL:\\$1|דף אחד|\\$1 דפים}} לרשימת הקריאה"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "תצוגה מקדימה"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 רגל"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 ק״מ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 מטרים"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 מיל"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "נכנסת עם סיסמה זמנית. כדי לסיים את הכניסה יש להגדיר כאן סיסמה חדשה."
+    },
+    {
+      "name": "new_password_title",
+      "value": "נא להגדיר את הסיסמה שלך"
+    },
+    {
+      "name": "new_tab",
+      "value": "לשונית חדשה"
+    },
+    {
+      "name": "next_action_title",
+      "value": "הבא"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "נא להגדיר חשבון דואר אלקטרוני במכשיר שלך ולנסות שוב."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "אין חיבור אינטרנט"
+    },
+    {
+      "name": "not_now_title",
+      "value": "לא עכשיו"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "מאת \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "התראה"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "מסנן עדכונים – מסננים מופעלים"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "מסנן מיזמים – מסננים מופעלים"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "עדכונים עם סמל \"לא נקרא\""
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "התראה: \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "שינוי סיסמה"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "בדיקת התראות..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ביישום"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "באתר"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "פרטי התראה"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "בדיקת התראות..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "אין לך הודעות"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "אינך מנוי על שום התראות ויקיפדיה"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "יש לשנות \\$1 כדי לראות עוד הודעות"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "יש להוסיף מיזמים כדי לראות עוד הודעות"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|מסנן אחד|\\$1 מסננים}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "הפעלת עדכוני דחיפה"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "התראות עריכה זמינות עכשיו לכל מיזמי ויקימדיה זמינות עכשיו בכל היישום. אפשר להפעיל את עדכוני הדחיפה כדי להיות מעודכנים עם ההודעות בוויקיפדיה בתנועה."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "מסנן עדכונים"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "הכול"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "נקראו"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "לא נקראו"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "מצב קריאה"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "מסננים"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "לשנות את סוגי העדכונים כדי לסנן אותם בתיבה. סוגים כבויים לא יוצגו, אבל התוכן שלהם, וכל העדכונים החדשים יהיו זמינים כשזה יופעל שוב."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "כל הסוגים"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "סוגי העדכונים"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "ערך"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "דף השיחה של \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "השוואה"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "דף המשתמש של \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "פריט ויקינתונים"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "דף השיחה שלך"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "התראה מאת \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "סיום"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "מיזמים"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "רק מיזמים שיצרת בהם חשבון יופיעו כאן"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "מיזמי ויקימדיה"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ויקיפדיות"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "התראות כניסה"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "לסמן"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "לסמן שהכול נקרא"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "האם באמת לסמן את {{PLURAL:\\$1|הודעת העדכונים שלך כאילו היא נקראה? העדכון שלך יסומן בתור עדכון שנקרא|כל \\$1 הודעות העדכונים שלך כאילו הם נקראו? העדכונים שלך יסומנו בתור עדכונים שנקרא}} בכל המכשירים שלך."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "האם באמת לסמן את כל העדכונים שלך כעדכונים שנקראו? העדכונים שלך יסומנו כך בכל המכשירים שלך."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "סימון כהודעה שנקראה"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "סימון כהודעה שלא נקראה"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "עוד"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "הגדרות התראות"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|הודעה אחת|\\$1 הודעות}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "המשך"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "סינון ההתראות שלך לפי מצב קריאה והקלדה לצמצום קל של תיבת הדואר הנכנס שלך."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "מסננים"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "מידע נוסף על התראות"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "התראות עוזרות לך לקבל מידע על פעילות שקשורה לעריכות שלך ולחשבון שלך."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "התראות והודעות"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "כל ההודעות שלא קראת מוויקיפדיה בשפות שונות וממיזמי ויקימדיה אחרים מוצגות במקום אחד."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "תיבות דואר נכנס לפי מיזם"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "אפשר להפעיל את עדכוני הדחיפה כדי להיות מעודכנים עם הודעות העריכה בתנועה."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "עדכוני דחיפה"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "עדכוני עריכה"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "להפעיל את עדכוני הדחיפה?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "הפעלת עדכוני דחיפה"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "לא, תודה"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "ויקיפדיה היא מיזם שיתופי והפעלת עדכוני הדחיפה תקל על התעדכנות עם הודעות, התראות, ו\"תודות\" מעורכים עמיתים."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "מסנן מיזמים"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "הכול"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "כל ההודעות"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 ב־\\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "מסונן לפי"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|במיזם אחד|ב־\\$1 מיזמים}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|מיזם 1|\\$1 מיזמים}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|סוג אחד|\\$1 סוגים}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "נקרא"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 ו־\\$2 ב־\\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "לא נקרא"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "אבן דרך בעריכה"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "העריכה שלך שוחזרה"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "דוא\"ל חדש"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "ניסיונות כניסה כושלים מרובים"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "ניסיון כניסה כושל"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "כניסה ממכשיר לא מוכר"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "אזכור בדף שיחה של ערך"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "אזכור בתקציר עריכה"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "אזכור כושל"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "אזכור מוצלח"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "אזכור בדף שיחה"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "הודעה בדף השיחה שלך"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "קישור לדף"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "הדף נסקר"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "תודה"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "אבן דרך בתרגום"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "שינוי הרשאות משתמש"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ברוך בואך!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "קישור ויקינתונים בוצע"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "לסמן כהודעה שנקראה"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "לסמן כהודעה שלא נקראה"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "עוד"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "התראות"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "נא לסמן את העדכונים הנבחרים"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "אזכורים"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "התראה"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "הודעת ברוך־בואך"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "חיבור עם ויקינתונים"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "אבן דרך בעריכה"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "שחזור עריכה"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "אזכור בתקציר עריכה"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "דואר אלקטרוני ממשתמש אחר"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ניסיונות כניסה לחשבון"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "ניסיונות כניסה כושלים לחשבון שלך"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "כניסה מוצלחת"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "אחרות"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "קישור לדף"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "סקירת דף"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "אזכור כושל"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "אזכור מוצלח"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "אזכור בדף שיחה"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "תודה"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "אבן דרך בתרגום"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "שינוי הרשאות משתמש"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "הודעת בדף שיחה"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ברוך בואך"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "פעילות חדשה בוויקיפדיה"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|הודעה חדשה|הודעות חדשות}} בדף \\$3"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|הודעה חדשה|הודעות חדשות}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "מ־\\$1 עד \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|אירוע היסטורי|\\$1 אירועים היסטוריים}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "עוד אירועים היסטוריים ביום הזה"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|אירוע היסטורי נוסף|\\$1 אירועים היסטוריים נוספים}} ביום הזה"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "ויקיפדיה בשפה הראשית שלך אינה תומכת ב\"ביום בהיסטוריה\". אפשר לעדכן את שפת הוויקיפדיה הראשית שלך בתפריט ההגדרות של היישום."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "לא זמינים נתונים"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 מתוך ויקיפדיה ב\\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ביום הזה"
+    },
+    {
+      "name": "open_article",
+      "value": "פתיחת ערך"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "ניתן ללחוץ על 'W' כדי לחזור ללשונית שהתחלת ממנה"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "בוט"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "נא ללחוץ כדי לבחור שתי גרסאות להשוואה"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "השוואה"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "תרשים עריכות לעורך זמן"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "עריכות משניות"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "יוצר: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "הערה: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "היסטוריית גרסאות"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "עריכה משנית"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "נוס{{PLURAL:\\$1|ף בית אחד|פו \\$1 בתים}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "הוסר{{PLURAL:\\$1| בית אחד|ו \\$1 בתים}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "הגרסה נעשתה ב־\\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "ניתן לבחור שתי גרסאות בלבד"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|עריכה אחת|\\$1 עריכות}} מאז \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "בעיות בדף"
+    },
+    {
+      "name": "page_location",
+      "value": "הצגה על מפה"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "אין לך הרשאה לערוך את הדף הזה"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "הדף הזה מוגן"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "דפים דומים"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "השוואת גרסאות עוזרת להראות איך ערך השתנה לאורך זמן. השוואת שתי גרסאות של ערך תציג את ההבדל בין שתי הגרסאות האלה באמצעות הדגשת התוכן שהשתנה."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "גרסאות מושוות"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "עריכה ללא כניסה למערכת"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "לא נכנסת למערכת"
+    },
+    {
+      "name": "pictured",
+      "value": "בתמונה"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "ניקוי חיפושים שמורים"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 ערכים"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "לאחרונה במיקומך"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "להציג כרשימה"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "להציג כמפה"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "הצגת ערכים נוספים"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "לגלות ערים, מדינות, יבשות, אתרי טבע, אירועים היסטוריים, בניינים, ועוד."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "חיפוש ערכי ויקיפדיה עם מקומות גאוגרפיים"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "להפעיל מיקום"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "גישה למיקומך אפשרית רק כשהיישום או אחד הרכיבים שלו נראים על המסך."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "לגלות ערכים בסביבתך באמצעות הפעלת גישה למיקום"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "סינון הערכים"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "סינון"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "אין לך מקומות שמורים"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "ערכים שמורים"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "הנקראים ביותר"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|ערך אחד|\\$1 ערכים}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "הערכים הנקראים ביותר"
+    },
+    {
+      "name": "places_list_title",
+      "value": "רשימה"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "המיקום הופעל"
+    },
+    {
+      "name": "places_map_title",
+      "value": "מפה"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "אין מידע על מיקום אף באחד מהערכים מהערכים השמורים שלך"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 שמתאימים ל\"\\$2\""
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "חיפוש מקומות"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "האם התכוונת לכתוב \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "חיפושים אחרונים"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "כל הערכים השמורים"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "חיפושים מומלצים"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "תוצאות באזור הזה"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "כל הערכים המובילים"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "בסביבה"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "המיקום הנוכחי שלך"
+    },
+    {
+      "name": "places_title",
+      "value": "מקומות"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "מרחק בלתי־ידוע"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "תמונת היום של \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "לא הצלחתי לאחזר את תמונת היום של \\$1"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "שני שוורים רצים בזמן שהרוכב מחזיק בהם בפאצ'ו ג'אווי (משפת מיננגקפבאו, \"מרוץ שוורים\"), מרוץ שוורים מסורתי בטנה דטר, מערב סומטרה, אינדונזיה. 2015, Final-45"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "תיהנו מצילום יומי יפה שנבחר על־ידי הקהילה."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "תמונת היום"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "לאפשר לקרן ויקימדיה לאסוף מידע על השימוש שלך ביישום כדי לשפר אותו"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "מדיניות פרטיות"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "בעיה עם אפשרות"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "ניווט לתצוגת פרופיל."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "פרופיל"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "פרופיל עם תג \"לא נקרא\""
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "או לתמוך בוויקיפדיה בתרומה כדי לשמור על כל שהיא תהיה חופשית ונגישה לכולם ברחבי העולם."
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "אנו מזמינים אותך להירשם לחשבון ויקיפדיה כדי לעקוב אחר התרומות שלך, לשמור ערכים במצב לא מקוון ולסנכרן בין מכשירים."
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "כניסה לחשבון / הצטרפות לוויקיפדיה"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "ניתן להיכנס או ליצור חשבון כדי לקבל סקירת שנה משופרת בשנה הבאה"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "יש להיכנס או ליצור חשבון כדי לצפות בסקירה השנתית שלך שוב ולזכות בתובנות שיותר תואמות לך."
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "יש להיכנס כדי לגשת לסקירה השנתית"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "mediawiki.org"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "ויקיספר"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "ויקינתונים"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "ויקישיתוף"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "ויקיחדשות"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "ויקיציטוט"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "ויקיטקסט"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "ויקימינים"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "ויקיברסיטה"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "ויקימסע"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "ויקימילון"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "להוסיף את הערך הזה לרשימת קריאה?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "האם להוסיף את \"\\$1\" לרשימת קריאה?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "כן, להוסיף אותם לרשימות הקריאה שלי"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "יש ערכים ששמרת ביישום של ויקיפדיה. האם ברצונך לשמור את הערכים האלה ולמזג אותם ברשימות קריאה שמסונכרנות עם החשבון שלך?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "נמצאו ערכים שמורים"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "הערך הזה לא סונכרן משום שהגעת למגבלה של מספר הערכים שניתן לשמור ברשימה זו."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "שגיאה בלתי צפויה אירעה בזמן סינכרון רשימות הקריאה שלך"
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "הרשימה הזאת לא סונכרנה משום שהגעת למגבלה של מספר הרשימות שניתן לסנכרן."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "יצירת רשימת קריאה"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "תיאור"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "שם רשימת הקריאה"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "יצירת רשימה חדשה"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "רשימת הקריאה נמחקה"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "חיפוש ברשימת קריאה"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "לא, למחוק ערכים מהמכשיר"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "נא לצמצם את מספר הערכים ברשימה זו ל־\\$1, כדי שניתן יהיה להמשיך לסנכרן את כל הערכים ברשימה."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "חרגת ממגבלת {{PLURAL:\\$1|ערך אחד|\\$1 ערכים}} לחשבון."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "לא ניתן להוסיף {{PLURAL:\\$1|ערך|ערכים}} לרשימה זו. הגעת למגבלה של \\$2 ערכים ברשימת קריאה עבור \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "השם של רשימת הקריאה הזאת כבר בשימוש"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "אירעה שגיאה בלתי־צפויה בעת עדכון רשימות הקריאה שלך."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "כן, לשמור את הערכים במכשיר"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "יש ערכים שסונכרנו לחשבון הוויקיפדיה שלך. האם ברצונך לשמור אותם במכשיר זה לאחר היציאה מהחשבון?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "לשמור את הערכים השמורים במכשיר?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "מיון ערכים"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "ישנה מגבלה של 5000 ערכים שאינם ממוינים. נא למיין את הערכים הקיימים שלך לפי רשימות, כדי שניתן יהיה להמשיך בסנכרון הערכים שאינם ממוינים."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "מגבלה על ערכים שאינם ממוינים"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "רשימת הקריאה הזאת והערכים השמורים בה לא יסונכרנו, נא לצמצם את מספר הרשימות ל־\\$1 כדי שניתן יהיה להמשיך לסנכרן את הרשימה הזאת."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "חרגת ממגבלת {{PLURAL:\\$1|רשימת קריאה אחת|\\$1 רשימות קריאה}} לחשבון."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "הגעת למגבלה של \\$1 רשימות קריאה לחשבון אחד"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "יש להיכנס לחשבון כדי לסנכרן את הערכים השמורים שלך"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "כניסה לחשבון או יצירת חשבון"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "יש להיכנס לחשבון כדי לסנכרן את הערכים השמורים"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "יש להיכנס לחשבון או ליצור חשבון חדש כדי לסנכרן את הערכים השמורים ואת רשימות הקריאה שלך בין מכשירים ולשמור אותם בהעדפות המשתמש שלך."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "לסנכרן את הערכים השמורים שלך?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[המשתמש נוצר]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "תיאור קצר אופציונלי"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "כותרת רשימת הקריאה"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "סנכרון רשימות הקריאה של חשבון הוויקיפדיה שלך בוטל במכשיר אחר. באפשרותך להפעיל את הסנכרון מחדש באמצעות עדכון ההגדרות."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "הסנכרון בוטל"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "הפעלת סנכרון"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "עכשיו אפשר לשמור את הערכים השמורים ואת רשימות הקריאה שלך בחשבון הוויקיפדיה שלך ולסנכרן אותם בין יישומים של ויקיפדיה."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "להפעיל סנכרון רשימות קריאה?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "סנכרון רשימות הקריאה מופעל בחשבון זה. כדי להפסיק את הסנכרון, באפשרותך לכבות אותו עבור החשבון שלך באמצעות עדכון ההגדרות."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "הסנכרון מופעל בחשבון זה"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "אירעה שגיאה בלתי־צפויה בעת הוספת ערך לרשימת הקריאה שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "אירעה שגיאה בלתי־צפויה בעת יצירת רשימת הקריאה שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "אירעה שגיאה בלתי־צפויה בעת מחיקת רשימת הקריאה שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "אירעה שגיאה בלתי־צפויה בעת הסרת ערך מרשימת הקריאה שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "אירעה שגיאה בלתי־צפויה בעת עדכון רשימת הקריאה שלך. נא לנסות שוב מאוחר יותר."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "לא נמצאה רשימת קריאה בשם ”\\$1“. נא לוודא שהזנת את השם הנכון."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "הערך נוסף לרשימה ”\\$1“"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "לא ניתן לרענן את הערך"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "הסנכרון לא בוצע"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "עברת את מגבלת הערכים, ולכן לא ניתן לסנכרן את הערך"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "עברת את מגבלת הרשימות, ולכן לא ניתן לסנכרן את הערך"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "הערך ממתין להורדה"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "הגעת למגבלה של המכשיר, לא ניתן לסנכרן את הערך"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "באפשרותך לנקות שטח אחסון מהמכשיר שלך ולאחר מכן לנסות שוב"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "כמה ערכים לא סונכרנו משום שעברת את המגבלה"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "שם הרשימה \"\\$1\" שוּנה לשם \"\\$2\""
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|רשימת קריאה אחת|\\$1 רשימות קריאה}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "רשימת ברירת מחדל לערכים השמורים שלך"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "נשמר"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "לא ניתן לבטל את הפעולה הזאת. כל הערכים שנשמרו {{PLURAL:\\$1|ברשימה זו בלבד|ברשימות אלה בלבד}} לא יישמרו."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "למחוק את {{PLURAL:\\$1|הרשימה|הרשימות}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|ערך אחד|\\$1 ערכים}} {{PLURAL:\\$2|ורשימת קריאה אחת|ו־\\$2 רשימות קריאה}} סונכרנו מהחשבון שלך"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "הרשימה לא סונכרנה משום שעברת את המגבלה"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "מיון ערכים שמורים"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "ישנה מגבלה של \\$1 ערכים ברשימת קריאה אחת. רשימות קיימות עם מספר ערכים גבוה מהמגבלה הזאת פוצלו לכמה רשימות."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "הסנכרון ימשיך כשניתן יהיה להתחבר לאינטרנט"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "ערכת נושא שחורה"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "מחלק בהירות"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ערכת נושא כהה"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ערכת נושא בהירה"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "ערכת נושא ספיה"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "צביעת תחביר"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "מחלק גודל טקסט"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "צביעת תחביר"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "לקפוץ לפרק המקורות"
+    },
+    {
+      "name": "reference_title",
+      "value": "הערה \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=היום|1=אתמול|2=שלשום|לפני \\$1 ימים}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 שע׳"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=לפני זמן קצר|1=לפני שעה|2=לפני שעתיים|לפני \\$1 שעות}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "לפני \\$1 שע׳"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=לפני זמן קצר|1=לפני שעה|2=לפני שעתיים|לפני \\$1 שעות}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=זה עתה|1=לפני דקה|לפני \\$1 דקות}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 דק׳"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=זה עתה|1=לפני דקה|לפני \\$1 דקות}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "לפני \\$1 דק׳"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=החודש|1=בחודש שעבר|2=לפני חודשיים|לפני \\$1 חודשים}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 שנ׳"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "לפני \\$1s שנ׳"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=השנה|1=בשנה שעברה|2=לפני שנתיים|לפני \\$1 שנה|לפני \\$1 שנים}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "חזרה"
+    },
+    {
+      "name": "return_to_article",
+      "value": "חזרה לערך"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "עריכה ששוחזרה"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "שמירת כל הלשוניות"
+    },
+    {
+      "name": "save_view_temp_account_notice",
+      "value": "החשבון שלך חולף. העריכות מיוחסות לשם המשתמש \\$1..."
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "כל הערכים"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "כל הלשוניות נשמרו."
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "אין אפשרות למחוק רשימה זו"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "הורדת התמונות עבור הדך השמור הזה לא עבדה."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "הורדת הערכים מתבצעת..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "חיפוש רשימות קריאה"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "רשימות קריאה"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "חיפוש בערכים שמורים"
+    },
+    {
+      "name": "saved_title",
+      "value": "נשמר"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "ביטול השמירה של {{PLURAL:\\$1|הערך הזה תגרום להסרתו|הערכים האלה תגרום להסרתם}} מכל רשימות הקריאה המשויכות {{PLURAL:\\$1|אליו|אליהם}}"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "לבטל את השמירה של {{PLURAL:\\$1|הערך|הערכים}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "חיפוש בוויקיפדיה"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ניקוי"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "חיפוש בוויקיפדיה"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "למחוק את כל החיפושים האחרונים?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "לא ניתן לבטל את הפעולה הזאת!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "למחוק הכול"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "עדיין אין חיפושים אחרונים"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "חיפושים אחרונים"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "הופנה מהדף: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "חיפוש"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "ויקיפדיה"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של קזחית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nсрпски ћирилица סרבית, קירילית (sr-ec)\nsrpski latinica סרבית, לטינית (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של סרבית"
+    },
+    {
+      "name": "settings_account",
+      "value": "חשבון"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ערכת העיצוב של היישומון"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "ניקוי נתונים מוטמנים"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "ניקוי הנתונים המוטמנים יפנה בערך \\$1 של נפח אחסון. זה לא ימחק את הדפים השמורים שלך."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "לנקות את הנתונים המוטמנים?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "ניקוי מטמון"
+    },
+    {
+      "name": "settings_donate",
+      "value": "לתרום"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "עזרה ומשוב"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "הצגת שפות בחיפוש"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "אפשר לנהל אילו שפות מוצגות בהזנת לחקור באמצעות התאמה אישית של ההעדפות שלך עבור הזנת לחקור."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "השפות שלי"
+    },
+    {
+      "name": "settings_new_article_tab_header_text",
+      "value": "ערכת עיצוב של לשונית חדשה"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "עדכוני דחיפה"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "אירעה שגיאה בעת בדיקת מינויים להתראות שקשורות לחשבון שלך."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "לא ניתן לבדוק מינויים להתראות Echo"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "לנסות שוב"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "באפשרותך לקבל התראות על פעולות שקשורות לחשבון שלך, כגון הודעות מתורמים עמיתים, עדכונים, ומידע אחר. הכול מסופק תוך כדי כיבוד פרטיות ונתונים עדכניים ביותר."
+    },
+    {
+      "name": "settings_off",
+      "value": "כבוי"
+    },
+    {
+      "name": "settings_on",
+      "value": "מופעל"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ראשית"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "השפה הראשונה ברשימה הזאת היא השפה הראשית עבור היישום."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "הגדרת היישום להיפתח בלשונית החיפוש במקום בלשונית לחקור"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "פתיחת היישום בלשונית החיפוש"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "מתן אפשרות לוויקימדיה לשמור את הערכים השמורים ואת רשימות הקריאה שלך להעדפות המשתמש שלך בעת הכניסה וסנכרון."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "סנכרון ערכים שמורים ורשימות"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "רשימות הקריאה שלך יסונכרנו ברקע"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "בקשת עדכון לערכים ולרשימות הקריאה המסונכרנים שלך."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "עדכון רשימות הקריאה שסונכרנו"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "הצגת רשימת הקריאה השמורה (למשל ברירת המחדל) בתור רשימה נפרדת בתצוגת רשימות הקריאה שלך. רשימה זו מופיעה במכשירי אנדרואיד."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "הצגת רשימת הקריאה השמורה"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "אחסון וסנכרון ערכים"
+    },
+    {
+      "name": "settings_title",
+      "value": "הגדרות"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "כיבוי הסקירה השנתית ינקה את כל התובנות המותאמות שלך ויסתיר את הסקירה השנתית."
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "נוצר עם יישום ויקיפדיה"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" בוויקיפדיה:"
+    },
+    {
+      "name": "share_building",
+      "value": "בניית כרטיס שיתוף עובדה..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "\"\\$1\" מהערך \"\\$2\": \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "\\$1\n\nמהערך \"\\$2\"\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "קבלת כיוונים"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "שיתוף..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "\"\\$1\" \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "דרך Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "פתיחה במפות"
+    },
+    {
+      "name": "share_social_format",
+      "value": "\"\\$1\" דרך ויקיפדיה: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "\"\\$1\" דרך ויקיפדיה: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "נוספו לאחרונה"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "כותרת"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "עריכות מוצעות"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "יש לבחור אפשרות אחת או יותר"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "אחר"
+    },
+    {
+      "name": "survey_submit",
+      "value": "שליחה"
+    },
+    {
+      "name": "survey_title",
+      "value": "סיבה"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "תוכן עניינים"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "סגירה"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "סגירת תוכן העניינים"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "תוכן עניינים"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "הסתרת תוכן העניינים"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "כותרת־משנה \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "סגירת לשונית"
+    },
+    {
+      "name": "tabs_empty_view_title",
+      "value": "הלשוניות שלך תופענה כאן"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "הסתרת הצעות לערכים"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|לשונית|\\$1 לשוניות}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "פתיחת לשונית"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "הצגת הצעות לערכים"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "ההצעות מוסתרות כרגע"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "אפשר לסייע לשפר את הלשוניות. היכולת הזאת מספקת אותך?"
+    },
+    {
+      "name": "tabs_title",
+      "value": "לשוניות"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של קזחית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nⵜⴰⵛⵍⵃⵉⵜ תשלחית, תיפינג (shi-tfng)\nTaclḥit תשלחית, לטינית (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של תשלחית"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של קזחית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\nтоҷикӣ кирилликӣ טג'יקית, קירילית (tg-cyrl)\ntojikī lotinī טג'יקית, לטינית (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של טג'יקית"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|משתמש פעיל אחד|\\$1 משתמשים פעילים}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "הוספת נושא"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "ארכיונים"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "אודות דפי שיחה"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "שינוי שפה"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "הסתרת השרשור"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "נקרא"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "לא נקרא"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "היישום קיבל תשובה בלתי־צפויה מהשרת. נא לנסות שוב."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "שגיאה בלתי־ידועה"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "משהו השתבש."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "לא ניתן לטעון את דף השיחה"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "הרחבת השרשור"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "למצוא בדף"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "פתיחת כל השרשורים"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "זכרו, כולנו כאן בני אדם"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "היו מנומסים"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "התגובה שלך פורסמה בהצלחה"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "הדיון שלך פורסם בהצלחה"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "לחיצה כפולה תחזור לתגובה"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "אפשרויות נוספות של דף שיחה"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "מידע על הדף"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "קישור קבוע"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "נא לבדוק שיש לך חיבור לאינטרנט."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "לא ניתן לפרסם את התגובה שלך."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "לא ניתן לפרסם נושא חדש."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "לקריאה בדפדפן"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "מה מקשר לכאן"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|תשובה אחת|\\$1 תשובות}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "תגובה"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "להגיב לדברי \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "עומק תגובות: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "להגיב לדברי \\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "נא לשים לב לכך שהתשובה שלך תיחתם אוטומטית עם שם המשתמש שלך. שמירת השינויים מהווה את הסכמתך ל\\$1תנאי השימוש\\$2, ואת הסכמתך לשחרר את תרומתך לפי תנאי רישיונות \\$3CC BY-SA 4.0\\$4 ו־\\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "היסטוריית גרסאות"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "סגירת תצוגת תגובה"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "שיתוף דף שיחה"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "מינוי"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "יתקבלו אצלך התראות על תגובות חדשות בנושא הזה."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "עשית מינוי!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "הרישום לנושא נכשל, נא לנסות שוב."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "שיחת ערך"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "שיחת משתמש"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "פרסום השינויים מהווה את הסכמתך ל\\$1תנאי השימוש\\$2 ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך לפי תנאי הרישיונות \\$3CC BY-SA 4.0\\$4 ו־\\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "ביטול מינוי"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "לא יתקבלו אצלך עוד התראות על תגובות חדשות בנושא הזה."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "ביטלת את המינוי."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "ביטול הרישום לפריט נכשל, נא לנסות שוב."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "אודות דפי שיחת משתמש"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "תרומות"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "לא נמצאו דפים בארכיון."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "ארכיונים"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "לקרוא עוד"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "התגובה שלך נוספה"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "להמשיך לערוך"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "עריכת קוד מקור"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "דפי שיחה הם המקום שבו אנשים דנים איך להפוך את התוכן בוויקיפדיה לטוב ביותר שהוא יכול להיות. **יש להתחיל בהוספת נושא דיון חדש** כדי להתחבר ולשתף פעולה עם קהילה של ויקיפדים."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "דפי שיחה הם המקום שבו אנשים דנים איך להפוך את התוכן בוויקיפדיה לטוב ביותר שהוא יכול להיות. יש להתחיל דיון חדש כדי להתחבר ולשתף פעולה עם \\$1. מה שייאמר כאן יהיה פומבי לעיני אחרים."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "להוסיף נושא חדש"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "להתחיל דיון"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "השיחה מתחילה כאן"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "להתחיל דיון עם \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "האם ברצונך באמת לזרוק את התשובה החדשה הזאת?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "הנושא שלך נוסף"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "תיאור"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "תיאור נושא"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "לזרוק את התשובה"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "לזרוק את הנושא"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "האם ברצונך באמת לזרוק את הנושא החדש הזה?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "נושא"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "כותרת הנושא"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "דפי שיחה הם המקום שבו אנשים דנים איך להפוך את התוכן בוויקיפדיה לטוב ביותר שהוא יכול להיות. אפשר להוסיף נושא דיון חדש כדי להתחבר ולשתף פעולה עם קהילה של ויקיפדים.\n\nנא להיות אדיבים, כולנו כאן בני־אדם."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "דפי שיחה הם המקום שבו \\$1אנשים דנים איך להפוך את התוכן בוויקיפדיה לטוב ביותר שהוא יכול להיות.\\$1 יש להתחיל בהוספת נושא דיון חדש** כדי להתחבר ולשתף פעולה עם קהילה של ויקיפדים."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "נא לשמור על אדיבות, כולנו כאן בני־אדם."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "דפי שיחה"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "קבוצות משתמשים"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "יומנים"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "שיחה"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "מידע נוסף"
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "החשבון שלך חולף"
+    },
+    {
+      "name": "temporary_account",
+      "value": "חשבון חולף"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "תנאי שימוש"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "שחורה"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "חשוכה"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "ברירת המחדל"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "בהתאם לערכת העיצוב של המערכת"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "בהיר"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "ספיה"
+    },
+    {
+      "name": "today_title",
+      "value": "היום"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "למדו מה העולם קורה היום בוויקיפדיה."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 קוראים"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "הנקראים ביותר"
+    },
+    {
+      "name": "try_now_title",
+      "value": "לנסות עכשיו"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "מדריך"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "להמשיך בכניסה לחשבון"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "נא למלא קוד אימות דוא״ל"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "המשך כניסה לחשבון"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "נא להזין את קוד האימות הדו־שלבי"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "כניסה לחשבון שלך"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "להשתמש באחד מקודי הגיבוי שלך"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "להשתמש בקוד אימות"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "לא ניתן לטעון את דף השיחה"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "לא ידוע"
+    },
+    {
+      "name": "unwatch",
+      "value": "הפסקת מעקב"
+    },
+    {
+      "name": "user_title",
+      "value": "משתמש"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "יישום ויקיפדיה תומך עכשיו בסוגים הבאים של קזחית בתור שפה ראשית או משנית בתוך היישום, כדי שיהיה קל לקרוא, לחפש, ולערוך בצורות הכתב המועדפות עליך:\n\noʻzbekcha lotin אוזבקית, לטינית (uz-latin)\nўзбекча кирилл אוזבקית, קירילית (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "עדכונים לתמיכה בהגוונים של אוזבקית"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "המשך"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "שם משתמש ודף משתמש"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "היעלמות היא **מוצא אחרון** וצריך להשתמש בה **רק כשברצונך להפסיק לערוך לנצח** וגם להסתיר את הקשרים הקודמים שלך במידת האפשר.\n\nמחיקת חשבון בוויקיפדיה מתבצעת על־ידי שינוי שם החשבון שלך כדי להסוות אותו מפני אחרים כדי שלא יוכלו לזהות את התרומות שלך בתהליך שנקרא העלמת חשבון. **העלמה לא מבטיחה אלמוניות מלאה או הסרת התרומות למיזמים**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "אזהרה"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "לא, תודה"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "סקירת ההעדפות שלך"
+    },
+    {
+      "name": "view_changes",
+      "value": "הצגת השינויים"
+    },
+    {
+      "name": "watch",
+      "value": "מעקב"
+    },
+    {
+      "name": "watchlist",
+      "value": "רשימת המעקב"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "נוסף לרשימת המעקב שלך לחודש."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "נוסף לרשימת המעקב שלך לשבוע."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "נוסף לרשימת המעקב שלך לשנה."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "נוסף לרשימת המעקב שלך לתמיד."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "נוסף לרשימת המעקב שלך ל־6 חודשים."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "נוסף לרשימת המעקב שלך ל־3 חודשים."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "צפייה ברשימת המעקב"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|בית אחד|\\$1 בתים}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "חודש"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "שבוע"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "שנה"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "לתמיד"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 חודשים"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 חודשים"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "נא לבחור את הזמן לשמירה ברשימת המעקב"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "תוקף ברשימת המעקב"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "מעבר להבדל"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "תקציר העריכה"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "חיפוש ערכים"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "אין לך פריטים ברשימת המעקב"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "כאן אפשר לעקוב אחרי מה שקורה בערכים שמעניינים אותך. יש ללחוץ על תפריט הפעולות הנוספות ולבחור \"מעקב\" כדי לראות את השינויים לערך."
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "ערכים שהוספת לרשימת המעקב מופיעים כאן"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "ברירת המחדל היא שדפים נשארים, אבל קיימות אפשרויות למעקב זמני בטווח בין שבוע לשנה."
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "הגדרת תפוגה"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "סינון"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "פעילות ברשימת המעקב"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "שינויים שנצפו"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "שינויים שלא נצפו"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "תרומות אוטומטיות"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "בוט"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "בני אדם (לא בוטים)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "גרסאות אחרונות"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "גרסה אחרונה"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "לא הגרסה האחרונה"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "חשיבות"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "עריכות משניות"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "עריכות שאינן משניות"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "סוג השינוי"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "שינויים בקטגוריות"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "פעולות שנרשמו ביומן"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "יצירות דפים"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "עריכות דפים"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "עריכות ויקינתונים"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "הרשמת משתמשים ורמת ניסיון"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "רשומים"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "לא רשומים"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "הוספת שפה..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "אפשר לשנות [ {{PLURAL:\\$1|את המסנן|את \\$1 המסננים}}](wikipedia://watchlist/filter) כדי לראות פריטי רשימת המעקב נוספים"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "מידע נוסף על רשימת המעקב"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "היכרות עם רשימת המעקב שלך"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "הוסר מרשימת המעקב שלך"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "ה\"תודה\" שלך נשלחה למשתמש \\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "רשימת המעקב היא כלי שמאפשר לך לעקוב אחר שינויים שנעשו בדפים או ערכים שמעניינים אותך."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "מעקב אחר שינויים"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "ניתן לגשת לרשימת המעקב של הדפים שהוספת, כמו עריכות או דיונים, דרך הגדרות ← חשבון."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "הצגת עדכונים"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "תודה"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "תרומות המשתמש"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "דף משתמש"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "דף שיחת משתמש"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "הקשה על הכוכב או על פעולת \"מעקב\" בסרגל הכלים התחתון של הערך, תאפשר לך להוסיף את הדף לרשימת המעקב שלך."
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "מעקב אחרי ערכים"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "נתונים ופרטיות"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "קריאה מומלצת וערכים יומיים מהקהילה שלנו"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "הזנת לחקור"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "חזרו אחורה בזמן כדי ללמוד מה קרה היום בהיסטוריה"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ביום הזה"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "גלו מקומות חשובים בסביבתכם או חפשו מקומות מסביב לעולם"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "לשונית מקומות"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "להתחיל"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "דרכים חדשות לחקור"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "הבנתי"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "ויקיפדיה נכתבת באופן משותף על־ידי מתנדבים ומכילה יותר מ־40 מיליון ערכים בלמעלה מ־300 שפות."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "מידע נוסף על ויקיפדיה"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "אודות ויקיפדיה"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "ויקיפדיה היא מיזם עולמי לבניית אנציקלופדיה חופשית בכל השפות של העולם. כל מי שיש לו גישה לאינטרנט חופשי להשתתף על־ידי תרומה של מידע ניטרלי ומבוסס."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "האנציקלופדיה החופשית"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "הוספת שפה אחרת"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "הוספה או שינוי של שפות מועדפות"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "מצאנו את השפות הבאות במכשיר שלך:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "חיפוש בלמעלה מ־300 שפות"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "אנו מאמינים בכך שלא צריך לחייב אותך לספק מידע אישי כדי להשתתף בתנועת הידע החופשי. נתוני השימוש שנאספו עבור היישום הזה הם אלמוניים."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "מידע נוסף על מדיניות הפרטיות ותנאי השימוש שלנו"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "גלו מה קרה ביום הזה בהיסטוריה."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "האנציקלופדיה החופשית המקוונת שכולם יכולים לערוך"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "ויקיפדיה, אנציקלופדיית תוכן הוויקי החופשית, יוצאת לרשת."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "אחזור תצוגה מקדימה של השינויים שלך..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "קישור זה מוביל לאתר חיצוני: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "קישור חיצוני"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "לוויקיפדיה אין ערך בשם הזה"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "לא נמצא קישור פנימי"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "הקישור הזה מוביל לכתובת '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "תצוגה מקדימה של קישור"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "שמירת השינויים"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "שגיאת אימות."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "נדרש אימות תמונה."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "לא ניתן להסיק את התוצאה של העלאת קוד ויקי."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "מפרסם..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "עריכות ייוחסו לכתובת ה־IP של המכשיר שלך. \\$1כניסה\\$2 לחשבון תאפשר לך פרטיות רבה יותר."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "העריכות שלך תיוחסנה לכתובת ה־IP של המכשיר שלך. רישום באמצעות הכפתור \\$1 יעניק לך יותר פרטיות."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "פרסום השינויים מהווה את הסכמתך ל\\$1תנאי השימוש\\$2, ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך לפי תנאי הרישיונות \\$3CC BY-SA 4.0\\$4 ו־\\$5GFDL\\$6. זוהי גם הסכמתך לכך שקישור או כתובת מספקים אותך כייחוס לפי תנאי רישיון קריאייטיב קומונז."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "תנאי שימוש"
+    },
+    {
+      "name": "year_in_review_articles_slide_subtitle",
+      "value": "הינה הערכים שביקרת בהם הכי הרבה ב־2025:\n\\$1"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "קהילת העורכים המתנדבים של ויקיפדיה עשתה יותר מ-555,647 עריכות ביישום iOS. הלב והנשמה של ויקיפדיה היא הקהילה הגלובלית שלנו של העורכים המתנדבים, התורמים ומיליארדי קוראים כמוך – כולם מאוחדים כדי לשתף גישה בלתי־מוגבלת למידע אמין."
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "העורכים ביישום ל־iOS עשו יותר מ־\\$1 עריכות"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "נערכה ויקיפדיה בקצב ממוצע של \\$1 פעמים בדקה. ערכים נוצרים ומשתפרים באופן שיתופי תוך שימוש במקורות אמינים. לכולנו יש ידע לשתף, [ואנו מזמינים אותך לקבל מידע נוסף על השתתפות](\\$2)."
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "ויקיפדיה נערכה \\$1 פעמים בדקה"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "לוויקיפדיה היו יותר מ־\\$1 מיליון ערכים על פני \\$2 שפות פעילות. הצטרפת למיליונים לטובת הרחבת ידע וחקירת נושאים מגוונים."
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "ויקיפדיה הייתה זמינה ביותר מ־300 שפות"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "למשתמשים הפעילים של היישום ל־iOS היו יותר מ־62.2 מיליון רשימות קריאה. הוספת ערכים לרשימות קריאה מאפשרת לך לגשת לערכים גם ללא חיבור לרשת. אפשר גם להיכנס לחשבון כדי לסנכרן רשימות קריאה בין מכשירים."
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "היו לנו למעלה מ־\\$1 מיליון רשימות קריאה"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "משתמשי יישום iOS צפו בערכי ויקיפדיה \\$1 מיליארד פעמים. עבור אנשים ברחבי העולם, ויקיפדיה היא התחנה הראשונה כאשר עונים על שאלה, מחפשים מידע עבור בית־ספר או עבודה, או לומדים עובדה חדשה."
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "צפינו בערכים בוויקיפדיה \\$1 מיליארד פעמים"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "סקירה שנתית"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "איור מונפש של מסך מחשב עם דפדפן אינטרנט פתוח, מנווט באופן פעיל בערך בוויקיפדיה."
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "איור של שני חלקי פאזל של ויקיפדיה, שכל אחד מהם נושא פיסת מידע."
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "איור מונפש של אבן שחקוקות עליה כתובות בשפות שונות, שמסמלת איך ויקיפדיה בונה בשיתוף פעולה ידע מתרבויות ואזורים מגוונים."
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "גלובוס פאזל הכולל את הסמל של ויקיפדיה, המייצג שיתוף פעולה עולמי."
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "ימי שישי"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "ימי שני"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "ימי שבת"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "ימי ראשון"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "ימי חמישי"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "ימי שלישי"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "ימי רביעי"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "לתרום"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "לתרום כעת"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "צפייה בתובנות בנוגע לאילו ערכים קראנו וערכנו  ושיתוף רגעים בולטים מהשנה שלנו בוויקיפדיה."
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "צפייה בתובנות בנוגע לערכים שקראת ביישום ויקיפדיה, שיתוף המסע שלך וחשיפת רגעים מכוננים מהשנה האחרונה."
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "לחקור את הסקירה השנתית של ויקיפדיה"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "לסקור את השנה שלך בוויקיפדיה"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "ויקיפדיה היא משאב הידע הגדול ביותר שנאסף אי־פעם בהיסטוריה של העולם, והיא זמינה באופן חופשי לכולם בכל מקום. הסתכלו אחורה על 2024 דרך העדשה של ויקיפדיה."
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "תובנות לגבי הערכים שקראת ביישום ויקיפדיה והעריכות שעשית ב־2024. היסטוריית הקריאה שלך מוגנת. תובנות קריאה מחושבות באמצעות נתונים המאוחסנים מקומית במכשיר שלך."
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "סיום"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "ערכים שנקראו"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "מספר הערכים שנצפו"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "שיתוף רגעי שיא"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "קטגוריות שעניינו אותי"
+    },
+    {
+      "name": "year_in_review_highlights_changes",
+      "value": "שינויים שעורכים עשו"
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "שעות שהושקעו בקריאה"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "מספר רשימות הקריאה שנוצרו"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "מה תכיפות העריכה בוויקיפדיה"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "הערכים שנקראו הכי הרבה בוויקיפדיה באנגלית"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "היום המועדף לקריאה"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "סמל ויקיפדיה"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "אנחנו מצפים לשנה הבאה!"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "הקטגוריות המעניינות ביותר שלך"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "יש לך אפשרות לפתוח ההטבה שלך לתורם לשנה הבאה!"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "היום האהוב לקריאה"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "החודש שבו קראת הכי הרבה"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "הזמן האהוב לקריאה"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "יש לך דפוסי קריאה ברורים"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "תודה על ההשקעה בעתיד של ידע חופשי. השנה, קרן ויקימדיה שיפרה את הטכנולוגיה כדי לשרת טוב יותר כל קורא וכל מתנדב, פיתחה כלים המעצימים שיתוף פעולה ותמכה בוויקיפדיה בעוד שפות. [למידע נוסף על העבודה שלנו](\\$1)."
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "הנדיבות שלך עזרה לוויקיפדיה לצמוח"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "קוראים ברחבי העולם מעריכים את התרומות שלך. במהלך החודשיים האחרונים, ערכים שערכת קיבלו \\$1 צפיות בסך הכול. הודות לעורכים כמוך, ויקיפדיה היא משאב ידע המשתפר בהתמדה, מבוסס עובדות ואמין עבור העולם"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "העריכות שלך נצפו יותר מ־\\$1 פעמים לאחרונה"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "ערכת {{PLURAL:\\$1|פעם אחת|פעמיים|\\$1 פעמים}}"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "איור מונפש של יד אוחזת בגלובוס ויקיפדיה, שהופך בהדרגה לפיסת פאזל קטנה, המסמלת תרומות בודדות לפלטפורמה."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "קראת בערך \\$2\\$1\\$3."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "קראת בערך \\$3\\$1\\$4 ו־\\$3\\$2\\$4."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "קראת בערך \\$4\\$1\\$5, \\$4\\$2\\$5, ו־\\$4\\$3\\$5."
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "הערכים המובילים שלך"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "שמרת {{PLURAL:\\$1|ערך|\\$1 ערכים}}"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "איור מונפש שמציג בתים שנערמים זה על גבי זה, שמסמל יצירה מתמשכת של ידע חופשי."
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "שעון מתקתק, שמסמל את הזמן שאנשים השקיעו בקריאה בוויקיפדיה."
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "חתיכת פאזל עם הסמל של ויקימדיה נכנס משמאל."
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "איור שמציג פיסת פאזל של ויקיפדיה לצד עט."
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "הינה הסקירה השנתית שלי בוויקיפדיה. נוצרה באמצעות יישום ויקיפדיה ל־iOS."
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "יש מחשבות נוספות?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "רגיל"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "מרוצה"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "נשמח לעזרה בשיפור הסקירה השנתית של ויקיפדיה. היכולת הזאת מוצאת חן בעיניך? מה מעניין אותך לראות בשנה הבאה?"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "סקר שביעות רצון"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "לא מרוצה"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "מאוד מרוצה"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "מאוד לא מרוצה"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "אחר הצוהריים"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "ערב"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "מאוחר בלילה"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "באמצע היום"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "בוקר"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "לילה"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "סמל w של ויקיפדיה"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "סמל קרן ויקימדיה"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "אתמול"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "0 עריכות של ערכים לאחרונה"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "כי קראת"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "כל הערכים שנקראו הכי הרבה"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ערך אקראי נוסף"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "מתוך ויקיפדיה ב%s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "בוויקיפדיה ב%s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "מתוך ויקישיתוף"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "אין היסטוריה להציג"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "היום"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "אתמול"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "הסתרת כרטיס זה"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "התאמה אישית של ההזנה \"לחקור\""
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "הכרטיס מוסתר"
+    },
+    {
+      "name": "editor_published",
+      "value": "העריכה שלך פורסמה."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "תיאור הערך עבור %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s מתוך %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "האם התכוונת לכתוב %s?"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "תרומות החודש"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "עריכות החודש"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "עריכות בחודש שעבר"
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Википеди"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Чулацаман лицензи"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Авторш"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Лелош йолу библиотекаш"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Буьззина могӀам"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лицензи"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Репозитореш"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT лицензи"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Йуханехьа зӀе"
+    },
+    {
+      "name": "about_title",
+      "value": "Программех лаьцна"
+    },
+    {
+      "name": "about_translators",
+      "value": "Гочдархой"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Википеди"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ЧугӀо"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Системи чу дахар..."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Ӏалашйеш..."
+    },
+    {
+      "name": "account_group_title",
+      "value": "Хьан хьесапан запись"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Аккаунт дӀайаккха"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Дийцарийн агӀо"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Дийцарийн агӀо нисйар"
+    },
+    {
+      "name": "action_add_to",
+      "value": "ТӀетоха чу…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Йешаран могӀам чу тӀетоха"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "ТӀетоха могӀан чу"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Йухайаккхар"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Хийцамаш йухаберзабе"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Хийцамаш йухаберзабе"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "АгӀонна тӀехь лаха"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Кхин дӀа тайе"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "хийца мотт"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Дехье йаккха..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Йешаран могӀам дехьа йаккха"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "РогӀера верси"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Хьалхара верси"
+    },
+    {
+      "name": "action_read",
+      "value": "Йеша"
+    },
+    {
+      "name": "action_redo",
+      "value": "Йухадан"
+    },
+    {
+      "name": "action_remove",
+      "value": "ДӀайаккха"
+    },
+    {
+      "name": "action_retry",
+      "value": "ЙухагӀорта"
+    },
+    {
+      "name": "action_save",
+      "value": "Ӏалашйан"
+    },
+    {
+      "name": "action_saved",
+      "value": "Ӏалашйина"
+    },
+    {
+      "name": "action_share",
+      "value": "Йекъа"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Йекъа"
+    },
+    {
+      "name": "action_sort",
+      "value": "Къастам бе"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Баркалла ала декъашхочунна"
+    },
+    {
+      "name": "action_undo",
+      "value": "Йухайаккха"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Ӏалаш ца йина"
+    },
+    {
+      "name": "action_update",
+      "value": "Карлайаккха"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Суьрташ тӀетоха"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "ХӀумма а ца дина"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Реза"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Доладе тадар"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Ардамаш"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Дуьхьала"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "ЧӀогӀа реза"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "ЧӀогӀа дуьхьала"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "ТӀетоха {{PLURAL:\\$1|\\$1 йаззам}} бешаран могӀаме"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "ДӀачӀагӀа"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Йешаран теманаш"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ХӀокху агӀонах лаьцна"
+    },
+    {
+      "name": "article_delete",
+      "value": "ДӀайаккха"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|йаззам}} дӀабаьккхина"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Мотт лахар"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Мотт харжа"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Кхин меттанаш"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Хьан меттанаш"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Мадарра"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Билгалдаккхар \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Йаззам версийн истори"
+    },
+    {
+      "name": "article_share",
+      "value": "Йекъа"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Йиллина"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Керлачу вкладкехь схьайелла"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Йаззаман дийцарийн агӀо"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Йуханехьа"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Йуханехьа"
+    },
+    {
+      "name": "button_next",
+      "value": "Кхин дӀа"
+    },
+    {
+      "name": "button_ok",
+      "value": "ХӀаъ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ДӀайазйан"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ХӀуъа хилча а арахеца"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Хаийта гӀалатах"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Ӏалашйинчера йукъара дӀайаккха"
+    },
+    {
+      "name": "button_skip",
+      "value": "Чекхдалийтар"
+    },
+    {
+      "name": "cancel",
+      "value": "Йухайаккха"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ЦӀанйан"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Кэш дӀайаккхар чекхдаьлла."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Кэш дӀайаккхаран процессехь."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Массо а вкладкаш дӀакъовла"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ДӀачӀагӀа"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 сахьтана"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "ДӀадаккхар тӀечӀагӀде"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Кхин дӀа"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Карлайаккхар…"
+    },
+    {
+      "name": "description_add_title",
+      "value": "ТӀетоха хаам"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Нисбе хаам"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Программех лаьцна"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Викихаамех лаьца"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Масала:"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Хаамаш кхолларан хьокъехь Викихаамийн куьйгалла"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Кийчча йу"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Хаам Ӏалашбина!"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Доцца хила"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Йаззамех лаьцна"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Доладе тадар"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Йаззам версийн истори"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Хьалхара хийцам"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Версеш йуста"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Версеш йуста"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Чулацам тӀетоьхна, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Чулацам дӀабаьккхина, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "ДӀачӀагӀа \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Схьайелла \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Гайта"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Къайлайаккха"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Хийцамаш бина"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "МогӀанаш \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Абзац дехьа йаьккхина"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "лаха"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ирх"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 могӀа}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 дакъа}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Абзац дехьа йаьккхина \\$1 \\$2"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Йухайаккха"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Йухабаха хийцамаш"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Хийцамаш йухабаьхна."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|нисдар}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Редакторан  информаци"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 байт тӀетоьхна}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 байт дӀайаьккхина}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Хийцамах лаьцна"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "МогӀа \\$1"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Баркалла!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Мах харжа"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Текст гайта"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Хьажорган адрес"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ДӀайаккха хьажорг"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Хьажорг нисйар"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Нисйан"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Хийцамах хаамбар"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Сурт тӀетоьхна"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "ТӀетоха сурт а, куьг а"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Нийсайаздар"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Гӏалат нисдина"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Код нисйан"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Бакъалла а лаьий хьуна, хьайн хийцамаш дӀа а ца йазбеш, хийцаран раж дӀачӀагӀа?"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Лаха"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Ӏаьржа"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Коммент"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Корта"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Курсив"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Хьажорг"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Низам болу къепйоза"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Низам боцу къепйоза"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Абзац"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "ТIетовжам"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "ТӀехула сиз хьаькхна"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Корталг 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Корталг 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Корталг 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Корталг 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "МогӀанан буха"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "МогӀанан лакха"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Кеп"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Текстан формат"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Бухахь сиз хьаькхна"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Хийца"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Хийца оцуьнца..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Дерриге хийца"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Хийца"
+    },
+    {
+      "name": "editor_title",
+      "value": "Редактор"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "дӀайа."
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "лат. йерриге"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "лат."
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "лат. \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Йерриге а \\$1 карточкаш къайлайаьхна"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Карточкаш меттанашца йоьзна йац."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Маттаца йоьзна йац"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Глобалан карточкаш"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ХӀара карточка къайлайаккха"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Йерриге а «\\$1» карточкаш къайлайаха"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Таханлерчу хиламех лаьцна йаззамаш"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Массо а карточкийн тайпанаш къайладаьхча, йерриг лента къайлайоккхур йу."
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Аьтту"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Меттанаш"
+    },
+    {
+      "name": "languages_title",
+      "value": "Меттанаш"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ЧугӀо"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Цхьа гӀучӀа бу"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Уллехь"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Къайлаха политика"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ТӀетохаран мах хадор"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Лелоран биллам"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Кхин а"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero кест-кеста луш долу хаттарш"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ТӀетоха меттанаш"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Хьалххе хьажар"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фут"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 миль"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Кийчча йу"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "ХӀара агӀо тайан хьан бакъо йац"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ХӀара агӀо ларйина йу"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Лахар"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Ӏалашйина агӀонаш"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Ӏалашйинарш"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Тахана|1=Селхана|\\$1 де хьалха}}"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "ДӀадаккхар"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "ЗӀе"
+    },
+    {
+      "name": "share_default_format",
+      "value": "«\\$1» «\\$2» чуьра: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "«\\$1»\n\n«\\$2» чуьра \n\n\\$3"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Йекъа..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_social_format",
+      "value": "«\\$1» Википеди чохь: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "«\\$1» Википеди чохь: \\$2"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Чулацам"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Ӏалашъеш ю..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Лелоран статус"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ХӀара карточка къайлайаккха"
+    }
+  ]
+}

@@ -1,0 +1,6412 @@
+{
+  "string": [
+    {
+      "name": "permission_location_reason",
+      "value": "您的位置用于在“附近”和“探索”信息流中显示附近的维基百科条目。"
+    },
+    {
+      "name": "about_content_license",
+      "value": "内容许可协议"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "除非另有声明，内容基于\\$1授权。"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "知识共享-署名-相同方式共享许可协议"
+    },
+    {
+      "name": "about_contributors",
+      "value": "贡献者"
+    },
+    {
+      "name": "about_libraries",
+      "value": "使用的库"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "完整列表"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "许可协议"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "我们热爱开源软件\\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "地点地图许可协议"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "地点功能使用Apple地图提供的地图。\\$1。"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "请点击此处以了解许可协议详情"
+    },
+    {
+      "name": "about_product_of",
+      "value": "由\\$1在您这样的志愿者的协助下制作而成"
+    },
+    {
+      "name": "about_repositories",
+      "value": "资源仓库"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "源代码依据\\$1授权。"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT协议"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "发送应用反馈"
+    },
+    {
+      "name": "about_title",
+      "value": "关于"
+    },
+    {
+      "name": "about_translators",
+      "value": "译者"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "由\\$1的志愿者翻译"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "维基媒体基金会"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "维基百科"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "看不到图片？\\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "正在获取新验证码..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "请申请账号。"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "验证码安全检查"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "创建您的账号"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "已经拥有账号？\\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "请登录。"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "正在登录..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "您必须输入用户名、密码并再一次确认密码后才能创建账号。"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "密码字段不匹配。"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "正在保存..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "创建新账号"
+    },
+    {
+      "name": "account_group_title",
+      "value": "您的账号"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "隐退账号"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "您的讨论页"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "自动签名讨论"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "自动签名的讨论将使用签名设置中定义的签名"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "讨论页参数设置"
+    },
+    {
+      "name": "action_add_to",
+      "value": "添加至…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "添加至阅读列表"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "添加至列表"
+    },
+    {
+      "name": "action_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "丢弃编辑"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "放弃编辑"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "在页面中查找"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "继续编辑"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "更改语言"
+    },
+    {
+      "name": "action_move_to",
+      "value": "移动至…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "移动至阅读列表"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "下一个修订版本"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "上一个修订版本"
+    },
+    {
+      "name": "action_read",
+      "value": "阅读"
+    },
+    {
+      "name": "action_redo",
+      "value": "重做"
+    },
+    {
+      "name": "action_remove",
+      "value": "移除"
+    },
+    {
+      "name": "action_retry",
+      "value": "重试"
+    },
+    {
+      "name": "action_save",
+      "value": "保存"
+    },
+    {
+      "name": "action_saved",
+      "value": "已保存"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "已保存。激活以取消保存。"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "条目已保存供稍后使用"
+    },
+    {
+      "name": "action_share",
+      "value": "分享"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "分享"
+    },
+    {
+      "name": "action_sort",
+      "value": "排序"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "感谢用户"
+    },
+    {
+      "name": "action_undo",
+      "value": "撤销"
+    },
+    {
+      "name": "action_unsave",
+      "value": "未保存"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "条目未保存"
+    },
+    {
+      "name": "action_update",
+      "value": "更新"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "向维基百科的条目中添加建议的图片，使内容更易懂。"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "添加图片"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "还有什么想法吗？"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|1}} 次浏览"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "本月阅读的条目"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "条目"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "所有时间影响"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "编辑分析"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "活动模块已关闭。\\$1请将其开启\\$2以在此标签页中查看更新。"
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "阅读分析基于应用程序设置中所设置的主要语言，编辑分析仅限于您的主要应用程序语言。分析会利用本地端资料，但不包含公开的编辑内容。"
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "最后一次在应用程序内捐款"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "你必须登录才能开启这个监视列表功能。"
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "阅读分析"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "阅读时间"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "行为时间线"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[截图或链接]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "我在使用活动标签页功能时遇到的问题："
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[描述期望的行为]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [描述具体问题]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "我期望看到的情况是："
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "问题报告 - 活动标签页"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "开始阅读和编辑，构建你的历史"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "没有可显示的内容"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "您本周尚未进行编辑。马上开始编辑，以追踪贡献。"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 小时 \\$2 分钟"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "在维基百科iOS版"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "所有时间影响"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1天}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "最长连续时间"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "编辑数"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "上次编辑"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "您最近的活动（过去30天）"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "从 \\$1 到 \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "感谢"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "总编辑数"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "日"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "您已编辑的条目的浏览次数"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "浏览次数"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "登录或创建账号以查看更多编辑和阅读活动。"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "登录或创建账号来查看您在维基百科应用程序上的活动。"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "查看更多阅读和编辑方面的分析"
+    },
+    {
+      "name": "activity_tab_logged_out_track_what_youve_read",
+      "value": "以全新的方式追踪您的阅读记录，并查看您随着时间的贡献。"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "清除阅读历史"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "自您编辑以来最多浏览次数"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "中立"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "您本周尚未进行编辑。添加图片，以增强对文章的理解。"
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "你的阅读"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "查看您花了多少时间阅读，以及您在一段时间内探索了哪些条目或主题。"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "阅读模式"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "选择要显示的模块。所有个人资料在您的设备上都会保持隐私，并且可以随时清除浏览记录。"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "保持掌控"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "活动介绍"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "了解更多关于活动的信息"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "探索对于您的贡献、以及您所分享知识的影响的分析。"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "影响亮点"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_subtitle_updated",
+      "value": "活动包括已阅读、已保存和已编辑条目的完整时间线。您的阅读历史记录现在位于“搜索”标签页中。"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_title_updated",
+      "value": "正在搜索阅读历史"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "查看阅读记录"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "满意"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "本月保存的条目"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "开始编辑"
+    },
+    {
+      "name": "activity_tab_survey_subtitle",
+      "value": "请帮助改善活动。您对此功能满意吗？"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "满意度调查"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "本周阅读时间"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "活动"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "本月的热门分类"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "跨项目总编辑数"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "不满意"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "\\$1的阅读"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "非常满意"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "非常不满意"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "查看编辑历史记录"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "查看阅读记录"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "查看已保存的条目"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "周"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "您本周已编辑{{PLURAL:\\$1|\\$1}}次。"
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "您本周已阅读{{PLURAL:\\$1|\\$1}}篇条目。"
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "您本周已保存{{PLURAL:\\$1|\\$1}}篇条目。"
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "您的影响"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "添加{{PLURAL:\\$1|\\$1个条目}}到阅读列表"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "高级设置"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "您正在使用临时账号。该账号会在 90 天后到期。"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "了解更多。"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "反馈已提交"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "关闭"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "维基百科、参考书、wiki、百科全书、信息、知识、研究、详细信息、探索、学习"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "完全可以自定义，并更容易阅读探索订阅源。本地化、性能改进与错误修复。"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "下载维基百科应用以探索您附近的地点，同步条目以离线阅读并自定义您的阅读体验。"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "自由的百科全书"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "调整条目文本大小"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "展开表格"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "将条目内的所有表格设为默认展开，包括事实速览、参考文献、注释和外部链接。"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "夜间和黑暗主题下使图片变得透明"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "阅读主题"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "表格设置"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "贡献者图标是用来庆祝您在 2025 年于应用程序上对维基百科做出的贡献。这会保留到下一次的年度回顾。"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "应用程序图标"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "拖动滑块以更改条目文本大小。若要更改应用内其他区域的文本大小，请调整系统文本大小。"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "主题选项"
+    },
+    {
+      "name": "article_about_title",
+      "value": "关于本条目"
+    },
+    {
+      "name": "article_delete",
+      "value": "删除"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|个条目|个条目}}已删除"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "应用程序无法及时检索更新的内容。请稍后刷新此页面以查看您所做的更改。"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "查找语言"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "选择语言"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "其他语言"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "您的语言"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "阅读更多"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "参考文献 \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "条目修订历史"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "您的设备没有足够空间保存此条目"
+    },
+    {
+      "name": "article_share",
+      "value": "分享"
+    },
+    {
+      "name": "article_tabs_button_accessibility_hint",
+      "value": "导览至标签页概览"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "条目标签页"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "打开多篇条目并轻松在各条目间切换。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "使用标签页浏览"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "标签页会自动记住您的滚动位置。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "从您上次结束的地方开始"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "在后台标签页中打开链接，且丢失当前阅读位置。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "保存页面以供日后查阅"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_subtitle",
+      "value": "在打开新标签页时选择趣味知识或阅读建议。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "个性化您的新标签页"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "了解更多关于标签页的信息"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "引入标签"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "标签页已达到上限（\\$1）。条目已在当前标签页打开。请关闭一个或多个标签页。"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "标签导航"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "标签页的入门提示"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "开启"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "在后台标签页中打开"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "在新标签页打开"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "条目讨论页"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "阅读主题控件"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "当您的编辑发布后会建立临时账号“\\$1”。该账号将在 90 天后到期。"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "已创建临时账号"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "返回"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "轻触以返回"
+    },
+    {
+      "name": "button_go_back",
+      "value": "返回"
+    },
+    {
+      "name": "button_next",
+      "value": "下一步"
+    },
+    {
+      "name": "button_ok",
+      "value": "确定"
+    },
+    {
+      "name": "button_publish",
+      "value": "发布"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "仍要发布"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "报告错误"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "保存以便稍后阅读"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "已保存以供日后使用"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "从已保存内容中移除"
+    },
+    {
+      "name": "button_skip",
+      "value": "跳过"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "cc_zero",
+      "value": "知识共享CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "维基百科应用程序现在支持下列中文变体作为应用程序里的主要语言或次要语言，使用您偏好的变体以更容易地阅读、搜索、编辑：\n\n简体（zh-hans）\n香港繁體（zh-hk）\n澳門繁體（zh-mo）\n大马简体（zh-my）\n新加坡简体（zh-sg）\n臺灣正體（zh-tw）"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "中文变体支持更新"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "清空"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "缓存清空完成。"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "正在清空缓存。"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "关闭所有标签页"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "您是否要关闭所有 \\$1 个标签页？此操作无法取消。"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "关闭所有 \\$1 个标签页？"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "您是否要关闭 {{PLURAL:\\$1|\\$1}} 个标签页？此操作无法取消。"
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "关闭 {{PLURAL:\\$1|\\$1}} 个标签页？"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "关闭"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "关闭其他标签页"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "关闭标签页？"
+    },
+    {
+      "name": "close_tabs",
+      "value": "关闭标签页"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "已关闭 {{PLURAL:\\$1|\\$1}} 个标签页。"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1点钟"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "这仅适用于通过此设备进行的捐赠。"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "确认删除"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "已删除本地历史记录"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "继续"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "探索维基百科阅读更多条目"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "没有最近阅读的条目"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "本月贡献"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "维基百科应用程序现在支持以下克里米亚鞑靼语变体作为应用程序中的主要语言或次要语言，从而使您更易于阅读，搜索和编辑您喜欢的变体形式：\n\nQırımtatarca, Latin Crimean Tatar Latin (chr-latn)\nкъырымтатарджа, Кирил Crimean Tatar Cyrillic (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "更新克里米亚鞑靼语变体支持"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "自定义"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "正在更新..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "添加描述"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "编辑视图中的元素顺序与文章视图中的元素顺序不同。"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1的条目描述"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "一旦更改条目描述，即表示我同意\\$1，并在\\$2的许可下不可撤销地发布我的贡献。"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "编辑导言"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "编辑条目描述"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "最好使用简短的描述"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "发布描述"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "编辑描述"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "请尽量保持描述简短，使条目的主题一目了然"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "仅当句子开头的名词为专有名词时才应将其大写"
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "当您的编辑发布后会建立临时账号“\\$1”。该账号将在 90 天后到期。"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "条目描述概括了一篇条目，帮助读者一目了然地理解主题。"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "关于"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "关于维基数据"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "维基数据是维基媒体基金会的项目，提供了一个自由的、协作的、多语言的、支撑维基百科和其他项目的辅助数据库。"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "更多信息"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "理想情况下，描述应该只有一行，并且长度应介于2到12个字之间。仅当开头的名词为专有名词时才应将其大写。"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "蒙娜丽莎条目的条目描述"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "珠穆朗玛峰条目的条目描述"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "由列奥纳多·达·芬奇绘制"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "地球第一高峰"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "例如："
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "创建描述的提示"
+    },
+    {
+      "name": "description_help_title",
+      "value": "条目描述帮助"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "维基数据编写描述指南"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "完成"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "您刚刚完善了维基百科，人人都会受益"
+    },
+    {
+      "name": "description_published_title",
+      "value": "描述已发布！"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "理想情况下，一行介于2到12个字之间"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "保持简短"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "概括条目以帮助读者一目了然地了解主题"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "条目描述"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "点击开始按钮即表明我不会滥用此功能"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "开始编辑"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "强制电子邮件验证"
+    },
+    {
+      "name": "developer_settings",
+      "value": "开发者设置"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "绕过捐赠"
+    },
+    {
+      "name": "developer_settings_dynamic_tabs_group_c_v2",
+      "value": "启用 C 组的标签页 V2"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "启用年度回顾"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "发送分析信息至wmflabs。"
+    },
+    {
+      "name": "developer_settings_suppress_image_rec_post",
+      "value": "不发布图像推荐产生的编辑。"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "条目修订历史"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "已新增：\\$1，新增结束。"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "段落向下移动{{PLURAL:\\$1| 0=0 行| \\$1行}}。转到新位置。"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "段落已上移{{PLURAL:\\$1| 0=0 行| \\$1行}}。转到新位置。"
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "段落已移动。转到上一个位置。"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "段落向下移动{{PLURAL:\\$1| 0=0 段落| \\$1段落}}。转到新位置。"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "段落已上移{{PLURAL:\\$1| 0=0 段落| \\$1段落}}。转到新位置。"
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "已移除：\\$1，移除结束。"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "上一次编辑"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "对比修订"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "展示的编辑"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "对比修订"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "已新增内容：\\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "已移除内容：\\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "折叠\\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "展开\\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "显示"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "隐藏"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "修订日期"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "第\\$1-\\$2行"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "已移动段落"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "向下"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "向上"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1行|\\$1行}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1个章节|\\$1个章节}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "段落\\$1移动\\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "无法加载修订版本"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "回退"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "您确定要回退此编辑吗？"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "回退编辑"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "已回退编辑。"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1次编辑|\\$1次编辑}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "编者信息"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|增加了\\$1个字节|增加了\\$1个字节}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|删除了\\$1个字节|删除了\\$1个字节}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "编辑摘要"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "导言"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "第\\$1行"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "无法感谢匿名用户"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "“感谢”是对维基百科编者的编辑工作表示谢意的简单方式。您必须登录后才能发送“感谢”。"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "登录以发送“感谢”"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "发送“感谢”"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "“感谢”是对维基百科编者的编辑工作表示谢意的简单方式。“感谢”无法撤销，且可公开查看。"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "公开发送“感谢”"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "您的“感谢”已发送至\\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "您已为此次编辑发送“感谢”"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "感谢无法撤回"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "上下文行，未改变： \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "此操作将会撤销显示的条目修订所作出的更改。若要继续，请提供撤销此编辑的理由。"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "已撤销此修订版本。"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1行未被编辑|\\$1行未被编辑}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "双击打开菜单"
+    },
+    {
+      "name": "dim_images",
+      "value": "调暗图片"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "双击以选择捐款金额。"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "双击以捐赠\\$1给维基媒体基金会。"
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "双击以授予维基媒体基金会向您发送电子邮件的权限。"
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "双击以关闭输入金额的键盘视图。"
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "双击以启用每月自动捐赠此金额。"
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "输入自定义捐赠金额。"
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "双击以添加交易手续费至捐赠金额。"
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "谢谢您，亲爱的捐赠者！您的慷慨解囊会帮助维基百科与其他自由知识项目网站蓬勃发展。"
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple不负责为此目的筹集资金。"
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "是的，维基媒体基金会可以偶尔向我发送电子邮件。"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "常见问题"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "其他捐赠方式"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "捐款遇到问题？"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "减税信息"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "删除本地捐赠记录"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "明天我们会再次提醒您。"
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "我们的网站无法接收超过\\$1 \\$2的捐款。请通过benefactors@wikimedia.org联系我们的大件礼品专员。"
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "请选择金额（最低\\$1 \\$2）。"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "将此设为每月定期捐款。"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "使用Apple Pay捐款"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "使用Apple Pay或选择其他支付方式捐款。"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "其他付款方式"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "使用 Apple Pay 捐款？"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "您的慷慨解囊对我们意义重大。"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "谢谢您！"
+    },
+    {
+      "name": "donate_title",
+      "value": "选择金额"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "我愿意慷慨地增加\\$1来包含手续费，这样我的捐款就能100%%保留。"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "我们不会向任何人出售或交易您的信息。通过捐款，您同意与维基媒体基金会共享您的个人信息。维基媒体基金会是非营利性组织，主要负责管理维基百科、其他维基媒体项目，并且其服务提供商遵照我们的[捐款人隐私政策](\\$1)。维基媒体基金会及其服务提供商位于美国和其他国家，这些国家的隐私法律与您所在国的可能不等价。关于更多信息，请阅读我们的[捐款人隐私政策](\\$1)。"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "对于循环捐赠人，每月固定支付将记入维基媒体基金会账户，根据首次捐赠日期月月重复，直到您通知我们停止。每月29、30或31号开始的捐赠将会在较短月份的最后一天重复，尽量与原日期靠近。如有疑问，敬请联系donate@wikimedia.org。"
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "重复标签页"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "显示文字"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "链接目标"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "移除链接"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "编辑链接"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "编辑"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "这可能是因为您选择的文本不可编辑（如文章标题或信息框标题），也可能是因为选中的文本过长"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "无法定位您所选择的文本"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "了解更多关于小编辑的信息"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "标记为小编辑"
+    },
+    {
+      "name": "edit_notices",
+      "value": "编辑提示"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "始终显示编辑提示"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "编辑前请先阅读"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "所有内容均以简化格式显示。"
+    },
+    {
+      "name": "edit_sheet_ip_account_notice",
+      "value": "IP账号通知"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "临时账号通知"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "显示网页预览"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "添加编辑摘要"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "已添加图片"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "已添加图片与说明"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "修正语病"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "修正笔误"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "添加链接"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "您是如何改进条目的？"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "已添加简短描述"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "已更新简短描述"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "了解有关您监视列表的更多信息"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "监视本页"
+    },
+    {
+      "name": "edited_article",
+      "value": "已编辑"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "在更新条目的时候可以大胆但不要鲁莽。不要为犯错而苦恼：页面过去的所有版本都会保存下来，所以错误会很容易被我们的社区纠正。"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "我们重视您的声音"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "所有内容必须可供查证。在条目中添加新信息时，编者应添加文内引注，链至直接支持所添加内容的可靠来源。"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "引用可靠来源"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "我们力求以中立的语气来写条目。在编辑时，力求像可靠的消息来源一样，对世界进行中立的描述。"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "用中立的语气书写"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "为了让人人都能阅览全世界的知识，我们诚邀您阅读条目、编辑条目、向感兴趣的主题贡献，为其添砖加瓦。"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "解开知识的枷锁"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "已发布您的编辑。"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "编辑源代码"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "您确定要放弃发布并离开编辑模式吗？"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "您确定要丢弃此编辑吗？"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "关闭编辑模式？"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "清除查找内容"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "关闭查找"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "共找到\\$1匹配项。突出显示的匹配项编号为\\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "未找到匹配项"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "下一个查找结果"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "上一个查找结果"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "查找"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "粗体"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "关闭文本格式菜单"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "注释"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "标题"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "减少缩进"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "增加缩进"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "斜体"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "链接"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "有序列表"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "无序列表"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "段落"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "参考资料"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "删除线"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "一级子标题"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "二级子标题"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "三级子标题"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "四级子标题"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "下标"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "上标"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "模板"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "文本格式"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "下划线"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "执行替换操作。替换类型设置为\\$1 。"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "清空替换内容"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "替换"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "替换为…"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "全部替换"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "替换所有实例"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "切换替换类型。当前设置为\\$1 。选择以更改。"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "替换"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "替换单个实例"
+    },
+    {
+      "name": "editor_title",
+      "value": "编辑者"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "粗体文本格式"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "将光标移至下一行。"
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "将光标移至下一个字符。"
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "将光标移至前一个字符。"
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "将光标移至前一行。"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "在页面中查找"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "图片文本格式"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "减少缩进文本格式"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "增加缩进文本格式"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "斜体文本格式"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "链接文本格式"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "有序列表文本格式"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "无序列表文本格式"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "打开文本格式菜单"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "参考资料文本格式"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "显示更多格式选项"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "模板文本格式"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "正在加载编辑器文本"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wikitext编辑器"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "上个月的编辑"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "本月编辑"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "版本间无差异"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "没有可以观察到的变化"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "空编辑摘要"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "从维基共享资源中选择文件"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "对不起，无法加载条目"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "您仍然可以阅读已保存的页面"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "当您有网络连接时，您可以查看推荐的条目"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "在此记录您的阅读历程"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "没有要显示的历史"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "尚未用任何其他语言撰写本条目"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "没有其他语言"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "创建旅行目的地、感兴趣的话题以及更多事物的列表"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "使用阅读列表来整理已保存的条目"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "将页面保存至此列表，它们会出现在这里"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "没有页面已保存至此列表"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "保存页面以便日后即使在离线时也可查看"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "尚未保存页面"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "找不到结果"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "目前还没有人给该用户留言"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "请稍后再试"
+    },
+    {
+      "name": "error_unknown",
+      "value": "出现未知错误"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "其他随机条目"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "因你而读"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "其他相关条目"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "继续阅读"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "回到探索订阅源"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "探索您当前位置附近的条目"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "典范条目"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "来自\\$1维基百科"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "来自维基百科"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "自定义"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "探索订阅源语言设置"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "额外语言可添加到“我的语言”设置页面中。"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "卡片已隐藏"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "快速链接以返回阅读打开的条目"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "自定义探索订阅源"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "自定义探索订阅源"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "隐藏一种类型的卡片将会停止在探索订阅源中显示这种卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "探索标签页"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "维基百科上的每日典范条目"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "关闭"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "所有语言"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "开启"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1个语言"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "已隐藏所有\\$1卡片"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "此卡片无关语言，关闭此卡片将从您的探索订阅源中移除此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "与语言无关的卡片"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "与语言无关"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "全局卡片"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "隐藏此卡片"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "隐藏所有的“\\$1”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "有关时事的条目"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "若针对所有语言隐藏所有探索订阅源卡片，探索标签页将关闭。"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "今天的历史事件"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "在您位置附近的维基百科条目"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "来自共享资源的每日特色图片"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "生成随机条目以阅读"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "基于阅读历史的建议"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "显示“继续阅读”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "关闭“典范条目”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "显示“典范条目”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "关闭“新闻动态”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "显示“新闻动态”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "关闭“历史上的今天”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "显示“历史上的今天”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "显示“每日图片”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "关闭“地点”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "显示“地点”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "关闭“随机条目”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "显示“随机条目”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "显示“因你而读”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "关闭“热门阅读”将对所有可用语言关闭此卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "显示“热门阅读”卡片"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "向维基百科添加内容的建议"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "显示建议的修改卡"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "每日阅读量最多的条目"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "关闭探索订阅源"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "隐藏所有探索订阅源卡片将关闭探索标签页，并替换为设置标签页"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "关闭探索订阅源？"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "关闭“探索”功能"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "探索标签页可在探索订阅源设置中重新开启"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "关闭探索标签页？"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "关闭探索标签页将替换探索标签页为设置标签页。"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "选择显示探索卡片将会开启探索标签页功能"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "开启“探索”功能"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "这将替换设置标签页为探索标签页，您可以在探索标签页上方通过点按齿轮图标访问设置"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "打开探索标签页？"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "隐藏此卡片"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "维基媒体项目的首页"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "维基百科今日"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "所有热门阅读条目"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "热门阅读"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1的热门"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "在\\$1维基百科"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "在维基百科"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "地点附近"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "地点"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "来自\\$1维基百科"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "来自维基百科"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "您的位置"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "您的位置，来自\\$1维基百科"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "每日图片"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "来自维基共享资源"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "随机条目"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "来自\\$1维基百科"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "来自维基百科"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "随机条目"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "添加"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "将建议的图片添加至维基百科条目中，以增强理解。"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "添加图片"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "浏览维基百科"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "共享您的应用程序库包括有关您的阅读列表和历史记录、设置以及探索订阅源内容的数据。此数据文件只与受信任的接收者共享，用于技术诊断目的。"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "共享应用程序库？"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "导出数据时发生错误。请稍后重试。"
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "设备没有足够空间来导出您的用户数据。请稍后重试。"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "导出用户数据"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "没有有关当前日期的典范条目。"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "探索维基百科上的最佳条目，由我们的社群每日精选。"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "来自\\$1维基百科"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "来自维基百科"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "您的首选维基百科语言不支持典范条目。您可在本应用的设置菜单中更改首选维基百科语言。"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "典范条目"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "出错了！请稍后重试。"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "应用程序收到来自服务器的异常响应，请稍后重试。"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "无效验证码"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "密码不匹配"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "无效代码"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "用户名不可用"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "备份代码"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "电子邮件代码"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "验证码文本"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "输入您上方看见的文本"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "电子邮件"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "电子邮件（可选）"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "重新输入新密码"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "确认新密码"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "输入新密码"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "新密码"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "重新输入密码"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "确认密码"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "输入密码"
+    },
+    {
+      "name": "field_password_title",
+      "value": "密码"
+    },
+    {
+      "name": "field_token_title",
+      "value": "验证码"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "输入用户名"
+    },
+    {
+      "name": "field_username_title",
+      "value": "用户名"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "全部"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "清除查找内容"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "下一个查找结果"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "上一个查找结果"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "查找和替换"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "关闭查找和更换"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "查找"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "重置"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "已发送一封带有密码重置说明的电子邮件"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "请在下方字段中选择一项填入，以通过电子邮件接收密码重置说明"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "重置密码"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "或"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "维基百科应用现在支持以下赣语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Simplified (gan-hans)\n贛語 繁體 Gan, Traditional (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "更新赣语变体支持"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "您确定要删除所有您最近的项目吗？"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "是的，删除全部"
+    },
+    {
+      "name": "history_title",
+      "value": "历史"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "维基百科，返回到探索"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "维基百科，返回到已保存"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_title",
+      "value": "根据你的兴趣"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "回到您未看完的文章"
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "模块"
+    },
+    {
+      "name": "home_feed_settings_for_you_modules_subtitle",
+      "value": "开启或关闭“为您推荐”模块"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "阅读历史"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "更多\\$1相关条目"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "更多您所在位置附近的地点"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "更多在\\$1附近"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "更多最近的时事"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "您已保存的条目现在可以整理进阅读列表，并跨设备同步。请登录，以允许您的阅读列表保存到您的用户参数设置。"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "管理设置"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "在条目工具栏或您的用户设置中调整阅读设置（包括文字大小及主题），以取得更舒适的阅读体验。"
+    },
+    {
+      "name": "home_title",
+      "value": "探索"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "维基百科，滚动到探索顶部"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "附近条目"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "随机条目"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "搜索维基百科"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "作者不明。"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "添加此图片？"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "请稍后回来重试。"
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "目前，您没有其他可用的建议图片。"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "发生了一些错误。"
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "无法加载页面"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "决定是否应该将建议的图片添加至维基百科条目中。"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "查看建议"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "这些建议由机器生成，您需要自行判断接受还是拒绝这些建议。"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "接受或拒绝图片"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "图片来自维基共享资源——维基百科所使用的自由版权图片库。"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "图片经过授权"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "了解有关编辑建议的更多信息"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "将图片添加到条目中"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "您的回答将有助于改进未来的推荐。"
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "请选择一个或多个选项"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "图片不相关"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "没有足够做决定的信息"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "图片有冒犯性"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "图片质量差"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "我不了解这个主题"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "其他"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "提交"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "原因"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "添加图片"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "查看此条目以了解其主题"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "复核"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "检阅图片及其相关信息。"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "检查"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "确定图片是否能帮助读者更好地理解此话题。"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "决定"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "查看条目"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "我在使用“添加图片建议编辑”功能时遇到了一个问题："
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "报告问题——添加图片功能"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "否"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "不确定"
+    },
+    {
+      "name": "image_recs_time_warning_message",
+      "value": "请查看条目以了解其主题，并检查图片"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "是"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "我的阅读列表"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "参加调查"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "“分享阅读列表”是测试功能，我们需要您的反馈来改进或移除此功能。"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "您愿意帮助我们改进“分享阅读列表”吗？"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "导入共享阅读列表"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "来自\\$1维基百科"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "来自维基百科"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "新闻动态"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "插入"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "插入链接"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "添加图片详情"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "为无法看到图片的读者提供文字说明"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "描述一下这张图片"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "替代文字"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "这张图片和条目有什么关系？"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "显示在所有读者的项目旁边的标签"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "说明"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "居中"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "左"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "无"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "右"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "图像位置"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "更多信息"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "选择图像"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "自订"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "默认"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "高度"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "宽度"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "图片大小"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "在图像周围环绕文本"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "基本"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "有框"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "无框"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "缩略图"
+    },
+    {
+      "name": "insert_media_image_type_settings_footer_title",
+      "value": "您可以设置在页面上如何呈现媒体项目。这应该是缩略图格式以与几乎所有情况下的其他页面保持一致。"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "图片类型"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "媒体设定"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "插入媒体"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "维基百科应用现在支持以下因纽特语变体作为应用程序内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Syllabics (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "更新因纽特语变体支持"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "继续而不登录"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "登录或创建新账号"
+    },
+    {
+      "name": "ip_account_edit_sheet_subtitle",
+      "value": "一旦您做出编辑，将为您创建\\$1临时账号\\$2以保护您的隐私。\\$3了解更多。\\$4\\$5请登录或创建账号，以让往后做出的编辑归在您的用户名之下，并使用其他功能。"
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "发布时将为您创建临时账号。"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "您尚未登录"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "维基百科应用现在支持以下哈萨克语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Cyrillic (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arabic (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "更新哈萨克语变体支持"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "维基百科应用现在支持以下库尔德语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nKurdî Latînî Kurdish, Latin (ku-latn)\nكوردی Kurdish, Arabic (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "更新库尔德语变体支持"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "语言"
+    },
+    {
+      "name": "languages_title",
+      "value": "更改语言"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "维基百科语言"
+    },
+    {
+      "name": "learn_about_editing",
+      "value": "了解编辑"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "了解更多"
+    },
+    {
+      "name": "lockscreen_search_widget_description",
+      "value": "从锁屏界面快速访问维基百科进行搜索。"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "继续而不登录"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "重新登录到您的账号"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "验证您的账号时出现了问题。请重新登录以同步及编辑您的阅读列表。"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "您已退出登录"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "忘记了您的密码？"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "加入维基百科。"
+    },
+    {
+      "name": "login_no_account",
+      "value": "还没有账号？\\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "登录您的账号"
+    },
+    {
+      "name": "looking_for_something_new",
+      "value": "想读一些新东西吗？"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "关于应用"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "登录"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "退出"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "您确定要退出登录吗？"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "退出登录将会删除本地存储的账号数据（通知和消息），不过您的账号数据仍然存储于网络上，如果您重新登录，将会重新下载。"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "以\\$1的身份登录"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "隐私和条款"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "附近"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "评价应用"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "使用条款"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "更多"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "维基百科Zero常见问题"
+    },
+    {
+      "name": "main_page",
+      "value": "首页"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_subtitle_updated",
+      "value": "在\\$1年，志愿者们为英文维基百科增添了{{PLURAL:\\$2|\\$2}}字节的内容。他们众志成城，共同铸就了一个日臻完善、以事实为依据且可靠的全球知识资源库。其实我们每个人都有知识可以分享，[快来学习如何参与。](\\$3)"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "增加了{{PLURAL:\\$1|\\$1}}字节"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_subtitle_updated",
+      "value": "志愿者们在超过 {{PLURAL:\\$2|\\$2}} 种不同语言版本的维基百科上共完成了 {{PLURAL:\\$1|\\$1}} 次修改。其中，英文维基百科的修改次数就超过了 {{PLURAL:\\$3|\\$3}} 次。每一天的每一个小时，都有志愿者在努力完善维基百科。"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "编辑者们今年做出了 {{PLURAL:\\$1|\\$1}} 次修改"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_short_updated",
+      "value": "人们大约花了{{PLURAL:\\$1|\\$1小时}}——相当于{{PLURAL:\\$2|\\$2 年}}！——阅读英文维基百科的时间在\\$3年。"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "在 \\$3 年，人们花费了大约 {{PLURAL:\\$1|\\$1}} 小时（相当于 {{PLURAL:\\$2|\\$2}} 年！）阅读英文维基百科。无论是想要了解这个不断变化的世界，赢得朋友之间的打赌，还是回答一个好奇孩子的问题，维基百科都能随时为你提供帮助。"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "大家花了 {{PLURAL:\\$1|\\$1}} 小时阅读维基百科"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "活跃的应用程序用户今年保存了 {{PLURAL:\\$1|\\$1}} 篇条目。将条目加入阅读清单，即使在离线状态下也能随时查看。此外，登录后还能在不同设备上同步阅读清单。"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "我们拥有 {{PLURAL:\\$1|\\$1}} 篇已保存条目"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "当人们想要了解我们的世界，他们都会寻求于维基百科。英语维基百科上访问量最高的5篇文章是：\n\n1. \\$1\n2. \\$2\n3. \\$3\n4. \\$4\n5. \\$5\n\n在我们的\\$6专门博客文章\\$7中了解更多。"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "英语维基百科最多人阅读的文章"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "在超过300种语言中搜索维基百科"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "添加语言"
+    },
+    {
+      "name": "more_menu",
+      "value": "更多"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "移动{{PLURAL:\\$1|\\$1个条目}}至阅读列表"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "预览"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1英尺"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1千米"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1米"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1英里"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "您已通过临时密码登录。要完成登录，请在此设置一个新密码。"
+    },
+    {
+      "name": "new_password_title",
+      "value": "设置您的密码"
+    },
+    {
+      "name": "new_tab",
+      "value": "新标签页"
+    },
+    {
+      "name": "next_action_title",
+      "value": "下一个"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "请在您的设备上设置电子邮件地址并重试。"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "无互联网连接"
+    },
+    {
+      "name": "not_now_title",
+      "value": "现在不要"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "来自\\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "提醒"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "通知过滤器 - 已应用过滤器"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "项目过滤器 - 已应用过滤器"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "带有未读标记的通知"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1通知"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "更改密码"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "正在检查通知…"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "在App内"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "在网络上"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "通知详情"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "正在检查通知……"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "您没有消息"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "您目前没有订阅任何维基百科通知"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "修改\\$1来查看更多消息"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "添加项目以查看更多消息"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 种筛选}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "打开推送通知"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "现在在本应用内可以收到所有维基媒体项目的编辑通知。启用推送通知以便在繁忙时也能及时收到您在维基百科上的消息。"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "通知过滤器"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "所有"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "已读"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "未读"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "读取状态"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "过滤"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "修改通知类型来对您的通知收件箱里的进/出内容进行过滤。在类型为关闭时会不显示，内容和任何新通知会在再次切换为打开后可用。"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "所有类型"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "通知类型"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "条目"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1讨论页"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "差异"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1的用户页"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "维基数据项"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "您的讨论页"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "来自\\$1的提醒"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "项目"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "只有您创建了账号的项目会出现在此处"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "维基媒体项目"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "维基百科"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1\\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "登录通知"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "标记"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "标记所有为已读"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "您确定要将您所有的 {{PLURAL:\\$1|\\$1条消息}} 标记为已读？这会将您所有设备上的通知都标记为已读。"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "您确定要将您的所有消息都标记为已读？这会将您所有设备上的通知都标记为已读。"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "标记为已读"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "标记为未读"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "更多"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "通知设置"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 条消息}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "继续"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "按阅读状态和类型过滤通知，轻松缩小收件箱范围。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "过滤器"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "了解更多有关通知"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "通知可帮助您随时了解与您的编辑和帐户相关的活动。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "通知和警告"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "在一处查看来自不同语言维基百科和维基媒体项目的所有未读消息。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "项目收件箱"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "启用推送通知，以便在繁忙时也能及时收到您的编辑消息和警告。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "推送通知"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "编辑通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "打开推送通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "开启推送通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "不用了，谢谢"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "维基百科是一项写作计划，启用推送通知可以更方便地及时接收消息、警告以及来自编者的“感谢”信息。"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "项目过滤器"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "全部"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "所有通知"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "在\\$2个项目/收件箱中的\\$1个筛选条件"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "筛选条件"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1| 1=在 1 个项目中|在\\$1项目中}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1| 1=1 个项目| \\$1项目}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1| 1=1 类型| \\$1类型}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "已读"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1，在 \\$3 个专案/收件箱上有 \\$2 个"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "未读"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "编辑里程碑"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "您的编辑已被回退"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "新邮件"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "多次失败的登录尝试"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "失败的登录尝试"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "来自不熟悉设备的登录"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "条目讨论页上的提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "编辑摘要中的提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "提及失败"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "提及成功"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "讨论页上的提及"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "您讨论页上的消息"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "页面链接"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "页面已复核"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "感谢"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "翻译里程碑"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "用户权限更改"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "欢迎！"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "已建立维基数据链接"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "标记为已读"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "标记为未读"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "更多"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "标记选定的通知"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "提及"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "提示"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "欢迎消息"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "与维基数据连接"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "编辑里程碑"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "编辑已被回退"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "编辑摘要提及"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "来自其他用户的电子邮件"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "登陆尝试"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "您账号的失败登录尝试"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "其他"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "页面链接"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "页面复核"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "发送提及失败"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "发送提及成功"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "讨论页提及"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "感谢"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "翻译里程碑"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "用户权限更改"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "讨论页消息"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "欢迎"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "维基百科上的新活动"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2上有{{PLURAL:\\$1|\\$1条新留言}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|新消息}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "从\\$1-\\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1个历史事件}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "今天的更多历史事件"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|还有\\$1个历史事件}}发生在今天"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "您的首选维基百科语言并不支持“历史上的今天”。您可以在本应用的设置菜单中更改首选语言。"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "没有可用数据"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1，来自\\$2维基百科"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "历史上的今天"
+    },
+    {
+      "name": "open_article",
+      "value": "开启条目"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "点按“W”以返回您起始的标签页"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "机器人"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "点击选择两个修订版本进行比较"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "比较"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "一段时间内的编辑图"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "已登录"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "小编辑"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "作者：\\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "评论\\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "版本历史"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "小编辑"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "已添加{{PLURAL:\\$1|\\$1字节|\\$1字节}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "已删除{{PLURAL:\\$1|\\$1字节|\\$1字节}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "修订于\\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "您只能选择两个修订版本"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "自\\$2年起共{{PLURAL:\\$1|\\$1笔编辑}}"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "未注册"
+    },
+    {
+      "name": "page_issues",
+      "value": "页面问题"
+    },
+    {
+      "name": "page_issues_subtitle",
+      "value": "有关低于标准或有问题内容的警告"
+    },
+    {
+      "name": "page_location",
+      "value": "在地图上查看"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "您没有权限编辑此页"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "此页面受到保护"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "类似页面"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "比较修订版本有助于显示一个条目随着时间的推移发生了哪些变化。比较一篇条目的两个修订版本，可以通过高亮显示任何被修改的内容来显示这些修订版本之间的差异。"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "比较不同修订版本"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "不登录编辑"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "您尚未登录"
+    },
+    {
+      "name": "pictured",
+      "value": "如图"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "清除保存的搜索"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1个条目"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "重新定位您的位置"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "以列表显示"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "以地图显示"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "显示更多条目"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "浏览城市、国家、大陆、自然地标、历史事件、建筑物以及更多内容。"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "使用地理位置搜索维基百科条目"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "启用位置"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "仅当本应用（或其功能之一）在屏幕上显示时才能访问您的位置。"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "授予位置权限，探索您所在位置附近的条目"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "过滤条目"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "过滤器"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "您没有已保存的地方"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "保存的条目"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "热门阅读"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1个条目}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "阅读量最多的条目"
+    },
+    {
+      "name": "places_list_title",
+      "value": "列表"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "位置已启用"
+    },
+    {
+      "name": "places_map_title",
+      "value": "地图"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "您保存的条目均没有位置信息"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1匹配“\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "搜索地点"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "您是想搜索\\$1吗？"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "最近搜索"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "所有保存的条目"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "建议搜索"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "该地区的结果"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "所有热门条目"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "附近"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "您当前的位置"
+    },
+    {
+      "name": "places_title",
+      "value": "地点"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "未知距离"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1的每日图片"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "无法检索\\$1的每日图片"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "在2015年的Pacu Jawi活动决赛上（源于米南加保的“奔牛赛”），一名骑师驾驭两只奔跑的公牛。这是印度尼西亚西苏门答腊岛丹那达塔尔的传统奔牛比赛。"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "尽享由我们社群每日挑选的精美图片。"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "今日图片"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "允许维基媒体基金会收集有关您使用本应用的信息，从而改善应用"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "隐私政策"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "功能问题"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "导航到个人资料视图。"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "个人资料"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "个人资料（带有未读消息标记）"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "或通过捐款来支持维基百科，使之维持自由且人人可访问。"
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "注册维基百科账号来追踪您的贡献、离线保存条目，以及跨设备同步。"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "登录/加入维基百科"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "请登录或创建账号，以在来年获得更好的年度回顾"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "登录或创建账号即可查看年度回顾，并获得更多个性化分析数据。"
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "登录以访问年度回顾"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "维基教科书"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "维基数据"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "维基共享资源"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "维基新闻"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "维基语录"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "维基文库"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "维基物种"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "维基学院"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "维基导游"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "维基词典"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "是否添加此条目至阅读列表？"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "是否添加“\\$1”至阅读列表？"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "是，将它们添加到我的阅读列表"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "这些是保存到您的维基百科应用的条目。您是否希望保留它们，并合并到同步至您账号的阅读列表？"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "找到的已保存条目"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "此记录未同步，因为您已达到此列表的记录数限制。"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "同步您的阅读列表时发生意外错误。"
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "此列表未同步，因为您已达到同步列表的数量限制。"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "创建阅读列表"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "描述"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "阅读列表名称"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "创建新列表"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "阅读列表已删除"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "搜索阅读列表"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "否，从设备中删除条目"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "请减少您在此列表中的条目数至\\$1以恢复同步所有此列表的条目。"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "您已超过每账号{{PLURAL:\\$1|\\$1个条目}}的限制。"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|条目}}不能添加到此列表。您已超过每个\\$3的阅读列表\\$2个条目限制"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "阅读列表名称已被使用"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "更新您的阅读列表时发生意外错误。"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "是，将条目保留到设备"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "这些是同步到您维基百科账号的条目。您是否希望在退出后，在此设备上保留它们？"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "是否在设备上保留已保存的条目？"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "排序条目"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "限制5000个未分类条目。请将您的现有条目排序成列表以继续同步未分类条目。"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "未分类条目的限制触发"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "此阅读列表（及保存至此的条目）将不会同步，请减少您的列表数量至\\$1以恢复同步此列表。"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "您已超过每账号{{PLURAL:\\$1|\\$1个阅读列表}}的限制。"
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "您已超过每账号\\$1个阅读列表限制"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "登录以同步您保存的条目"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "登录或创建账号"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "登录以同步保存的条目"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "登录或创建账号以允许跨设备同步您保存的条目和阅读列表，并保存至您的用户参数设置中。"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "是否同步您保存的条目？"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[用户创建]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "可选简短描述"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "阅读列表标题"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "您的维基百科账号在另一台设备上的阅读列表同步已被禁用。您可以通过更新设置重新打开同步。"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "同步被禁用"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "启用同步"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "您保存的条目和阅读列表现在可以保存至您的维基百科账号，并跨维基百科应用同步。"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "打开阅读列表同步？"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "阅读列表同步已为此账号启用。要停止同步，您可以通过更新您的设置关闭此账号的同步。"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "同步已为此账号启用"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "添加条目至您的阅读列表时发生意外错误。请稍后重试。"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "创建您的阅读列表时发生意外错误。请稍后重试。"
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "删除您的阅读列表时发生意外错误。请稍后重试。"
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "从您的阅读列表中移除项目时发生意外错误。请稍后重试。"
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "更新您的阅读列表时发生意外错误。请稍后重试。"
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "找不到名为“\\$1”的阅读列表。请确保您已提供正确名称。"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "条目已添加至“\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "无法同步条目"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "未同步"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "超过条目限制，无法同步条目"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "超过列表限制，无法同步条目"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "条目已加入下载队列"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "超过设备限制，无法同步条目"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "在您的设备上清理一些空间，然后重试"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "部分条目未同步，超过限制"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "您的列表“\\$1”已重命名为“\\$2”"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1个阅读列表}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "用于您已保存条目的默认列表"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "已保存"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "此操作不能撤销。任何只添加至{{PLURAL:\\$1此|这些}}列表的条目将被取消保存。"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "是否删除{{PLURAL:\\$1|列表}}？"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1个条目}}和{{PLURAL:\\$2|\\$2个阅读列表}}已从您的账号同步"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "列表未同步，超过限制"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "排序保存的条目"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "每个阅读列表限制\\$1个条目。超过此限制的现有列表需要拆分为多个列表。"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "当互联网连接可用时，同步将恢复"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "黑色主题"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "亮度滑块"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "夜间主题"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "日间主题"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "棕褐色主题"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "语法高亮"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "文字大小滑块"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "语法高亮"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "跳转到参考文献章节"
+    },
+    {
+      "name": "reference_title",
+      "value": "参考文献\\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=今天|昨天|\\$1天前}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1小时"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1小时前}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1小时前"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1小时前}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=现在|\\$1分钟前}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1分钟"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=刚刚|\\$1分钟前}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1分钟前"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=本月|1=上个月|\\$1个月前}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1秒"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1秒前"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=今年|去年|\\$1年前}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "返回"
+    },
+    {
+      "name": "return_to_article",
+      "value": "返回至条目"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "编辑被退回"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "保存所有标签页"
+    },
+    {
+      "name": "save_view_temp_account_notice",
+      "value": "您目前使用的是临时帐户。编辑操作将归因于\\$1 ……"
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "您尚未登录。编辑完成后，系统将为您创建一个临时帐户以保护您的隐私。"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "所有条目"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "所有标签页已保存。"
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "所有标签页已保存。请查看阅读列表。"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "此列表不可删除"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "下载本已保存页面的图片时失败。"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "条目下载正在进行..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "搜索阅读列表"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "阅读列表"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "在已保存的文章中检索"
+    },
+    {
+      "name": "saved_title",
+      "value": "已保存"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "取消保存{{PLURAL:\\$1|此|这些}}条目将从所有相关阅读列表中移除"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "取消保存{{PLURAL:\\$1|条目}}？"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "搜索维基百科"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "清空"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "搜索维基百科"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "是否删除全部近期搜索记录？"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "此操作不能撤销！"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "删除全部"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "尚无最近搜索"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "最近搜索"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "重定向自：\\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "搜索"
+    },
+    {
+      "name": "search_widget_announcement_body",
+      "value": "将维基百科搜索小部件添加到您的主屏幕或锁屏，即可快速获取答案，一切尽在指尖。"
+    },
+    {
+      "name": "search_widget_announcement_title",
+      "value": "有新的搜索小工具可用"
+    },
+    {
+      "name": "search_widget_description",
+      "value": "快速访问以搜索维基百科"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "维基百科"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "维基百科应用现在支持以下塞尔维亚语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nсрпски ћирилица Serbian, Cyrillic (sr-ec)\nsrpski latinica Serbian, Latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "更新塞尔维亚语变体支持"
+    },
+    {
+      "name": "settings_account",
+      "value": "账号"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "应用程序主题"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "清空缓存数据"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "清空缓存数据将腾出约\\$1空间。这将不会删除您保存的页面。"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "清空缓存数据？"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "清空缓存"
+    },
+    {
+      "name": "settings_donate",
+      "value": "捐款"
+    },
+    {
+      "name": "settings_explore_games_title",
+      "value": "维基百科游戏"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "帮助和反馈"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "搜索时显示语言"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "您可以通过自定义您的探索订阅源设置，管理显示在您的探索订阅源的语言。"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "我的语言"
+    },
+    {
+      "name": "settings_new_article_tab_header_text",
+      "value": "新标签页主题"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "推送通知"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "检查与您的账号相关的通知订阅时出错。"
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "无法检查Echo通知订阅"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "重试"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "请留意与您账号相关的活动，例如来自其他贡献者的信息、警告还有通知。所有内容都会即时更新，且以保护隐私的方式提供。"
+    },
+    {
+      "name": "settings_off",
+      "value": "关"
+    },
+    {
+      "name": "settings_on",
+      "value": "开"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "首选"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "此列表中的第一种语言将作为应用程序的首选语言。"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "设置应用开启时打开搜索而非探索标签页"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "打开应用时显示搜索标签页"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "当您登录并同步时，允许维基媒体储存您保存的条目及阅读列表至您的用户参数设置。"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "同步保存的条目和列表"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "您的阅读列表将在后台同步"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "请求更新您同步的条目和阅读列表。"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "更新同步的阅读列表"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "在您的阅读列表视图中，分别显示保存的阅读列表（例如默认列表）。此列表会出现在Android设备上。"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "显示保存的阅读列表"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "条目存储与同步"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "关闭年度回顾将清除所存储的所有个性化分析数据，并将年度回顾隐藏。"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "维基百科应用出品"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "维基百科上的“\\$1”："
+    },
+    {
+      "name": "share_building",
+      "value": "正在构建分享预览卡片…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1”来自“\\$2”：\\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\n来自“\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "路线导航"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "分享…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1”\\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "通过维基百科"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "在地图中打开"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1”通过维基百科：\\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1”通过维基百科：\\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "最近添加"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "标题"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "编辑建议"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "您可选择一项或多项"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "其他"
+    },
+    {
+      "name": "survey_submit",
+      "value": "提交"
+    },
+    {
+      "name": "survey_title",
+      "value": "原因"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "目录"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "关闭"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "关闭目录"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "目录"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "隐藏目录"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "\\$1级子标题"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "关闭标签页"
+    },
+    {
+      "name": "tabs_empty_view_subtitle",
+      "value": "点击“+”图示即可在此空间新增标签页，或长按条目链接以在新标签页中开启。"
+    },
+    {
+      "name": "tabs_empty_view_title",
+      "value": "您的标签页将显示在此处"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "隐藏条目建议"
+    },
+    {
+      "name": "tabs_main_page_description",
+      "value": "在维基百科首页上发现典范条目、最新新闻、有趣的事实和关键统计数据。"
+    },
+    {
+      "name": "tabs_main_page_subtitle",
+      "value": "维基百科每日精彩内容"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1}} 个标签页"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "打开标签页"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "显示条目建议"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "建议现已隐藏"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "请帮助改善标签页。您对此功能满意吗？"
+    },
+    {
+      "name": "tabs_thumbnail_description",
+      "value": "探索维基百科，一个任何人都可编辑的自由百科全书"
+    },
+    {
+      "name": "tabs_thumbnail_subtitle",
+      "value": "从这里开始搜索"
+    },
+    {
+      "name": "tabs_title",
+      "value": "标签页"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "维基百科应用现在支持以下塔切尔特语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachelhit, Latin (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "更新塔切尔特语变体支持"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "维基百科应用现在支持以下塔吉克语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\nтоҷикӣ кирилликӣ Tajik, Cyrillic (tg-cyrl)\ntojikī lotinī Tajik, Latin (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "更新塔吉克语变体支持"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1| \\$1活跃用户}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "添加话题"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "存档"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "关于讨论页"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "更改语言"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "折叠讨论串"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "已读"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "未读"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "应用程序收到来自服务器的异常响应。请稍后重试。"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "意外错误"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "发生了一些错误。"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "无法加载讨论页"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "展开讨论串"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "在页面中查找"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "展开所有讨论串"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "请记住，我们都是这里的一份子"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "请保持友善"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "您的回复已成功发布"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "您的讨论已成功发布"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "双击返回回复界面"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "更多讨论页选项"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "页面信息"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "固定链接"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "请检查您的互联网连接。"
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "无法发布您的留言。"
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "无法发布新话题。"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "在网页中阅读"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "链入页面"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1条回复}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "回复"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "回复\\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "回复深度：\\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "回复\\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "请注意，您的回复会自动以您的用户名签名。保存更改即表明您同意\\$1使用条款\\$2，并且同意通过\\$3CC BY-SA 4.0\\$4和\\$5GFDL\\$6协议发布您的贡献。"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "版本历史"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "关闭回复视图"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "分享讨论页"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "订阅"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "您将收到有关此话题中新留言的通知。"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "您已订阅！"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "无法订阅话题，请重试。"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "条目讨论"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "用户讨论"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "发布更改即表明您同意\\$1使用条款\\$2，并且不可撤回地同意通过\\$3CC BY-SA 4.0\\$4和\\$5GFDL\\$6协议发布您的贡献。"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "取消订阅"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "您将不再收到对于此话题的新留言的通知。"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "您已取消订阅。"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "取消订阅话题失败，请重试。"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "关于用户讨论页"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "贡献"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "未找到存档页面。"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "存档"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "阅读更多"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "已添加您的留言"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "继续编辑"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "编辑源代码"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "讨论页是人们讨论如何使维基百科上的内容达到最佳状态的地方。**首先添加一个新的讨论话题**，以便与维基百科社区建立联系和协作。"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "讨论页是人们讨论如何使维基百科上的内容达到最佳状态的地方。开始新的讨论以与\\$1建立联系和协作。您在此处所说的内容将公开给其他人查看。"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "添加新话题"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "发起讨论"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "对话从这里开始"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "用\\$1开始讨论"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "您确定要丢弃这个新回复吗？"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "已添加您的话题"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "描述"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "话题描述"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "丢弃回复"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "丢弃话题"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "您确定要丢弃这个新话题吗？"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "话题"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "话题标题"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "讨论页是人们讨论如何使维基百科上的内容达到最佳状态的地方。首先添加一个新的讨论主题，以便与维基百科社区建立联系和协作。\n\n请保持友善，我们都是这里的一份子。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "讨论页是\\$1人们讨论如何使维基百科上的内容达到最佳状态的地方。\\$1首先添加一个新的讨论主题，以便与维基百科社区建立联系和协作。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "请保持友善，我们都是这里的一份子。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "讨论页"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "用户组"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "日志"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "讨论"
+    },
+    {
+      "name": "temp_account_alert_read_more_information",
+      "value": "\\$1您正在使用临时账号。\\$2账号会在90天后到期。到期后，下一次您在未登录情况下做出编辑时，会再创建另一个新的账号。\\$3请登录或创建账号，以让往后做出的编辑归在您的名义之下，并使用其他功能。"
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "登录或创建新账号"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2您目前正在使用临时账号。\\$3使用临时账号“\\$1”所做过的编辑，不会在您登录时转移到您的永久账号。请先登录或创建账号，以使编辑内容归在您的用户名之下，并使用其他功能。"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "延伸阅读"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1您目前正在使用临时账号。\\$2使用临时账号…"
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "您正在使用临时账号"
+    },
+    {
+      "name": "temp_warning_subtitle_format",
+      "value": "您的编辑内容会归在\\$1"
+    },
+    {
+      "name": "temporary_account",
+      "value": "临时账号"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "使用条款"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "黑暗"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "夜间"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "默认"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "跟随系统主题"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "日间"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "棕褐色"
+    },
+    {
+      "name": "today_title",
+      "value": "今日"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "了解全世界的人今天都在维基百科上读些什么。"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1位读者"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "热门阅读"
+    },
+    {
+      "name": "try_now_title",
+      "value": "现在试试"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "教程"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "继续登录"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "请输入电子邮件验证码"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "继续登录"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "请输入双因素验证码"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "登录您的账号"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "使用您的任一备份代码"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "使用验证码"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "无法加载讨论页"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "未知"
+    },
+    {
+      "name": "unwatch",
+      "value": "取消监视"
+    },
+    {
+      "name": "user_title",
+      "value": "用户"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "维基百科应用现在支持以下乌兹别克语变体作为应用内的主要语言或次要语言，从而使您更易于阅读，搜索和编辑首选变体：\n\noʻzbekcha lotin Uzbek, Latin (uz-latin)\nўзбекча кирилл Uzbek, Cyrillic (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "更新乌兹别克语变体支持"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "继续"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "用户名和用户页"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "隐退作为**最后手段**，应当**仅在您希望永久停止编辑**并尽可能隐藏过去踪迹的情况下使用。\n\n在维基百科上，删除账号通过改名为其他用户无法辨别的名称来进行，称为账号隐退。**账号隐退无法保证完全匿名，也无法保证移除在项目的所有贡献**。"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "警告"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "不，谢谢"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "查看您的设置"
+    },
+    {
+      "name": "view_changes",
+      "value": "查看更改"
+    },
+    {
+      "name": "watch",
+      "value": "监视"
+    },
+    {
+      "name": "watchlist",
+      "value": "监视列表"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "已添加至您的监视列表，为期1个月。"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "已添加至您的监视列表，为期1周。"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "已添加至您的监视列表，为期1年。"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "已永久添加至您的监视列表。"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "已添加至您的监视列表，为期6个月。"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "已添加至您的监视列表，为期3个月。"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "查看监视列表"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1字节}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1个月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1周"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1年"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "永久"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6个月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3个月"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "选择监视列表持续时间"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "监视列表有效期限"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "跳转到差异"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "编辑摘要"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "搜索条目"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "您没有监视列表项目"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "跟踪您感兴趣条目的最新状况。点击条目中的菜单并选择“监视”来查看条目的更改。"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "您添加到监视列表的条目会出现在这里"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "页面保留默认设置，但可以选择临时观看，时间范围从一周到一年。"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "设置期限"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "过滤"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "监视列表活动"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "已查看更改"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "未查看更改"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "自动化贡献"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "监视列表"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "人工（非机器人）"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "最新修订版本"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "最新修订版本"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "不是最新修订版本"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "重要性"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "小编辑"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "非小编辑"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "更改类型"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "分类更改"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "日志操作"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "页面创建"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "页面编辑"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "维基数据编辑"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "用户注册及体验"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "已注册"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "未注册"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "添加语言…"
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "修改 [ {{PLURAL:\\$1| \\$1 过滤器}}](wikipedia://watchlist/filter) 以查看更多监视列表项目"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "了解有关监视列表的更多信息"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "这是您的监视列表"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "已从您的监视列表移除"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "您的“感谢”已发送给\\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "监视列表是可让您追踪感兴趣的页面或条目更改的工具。"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "追踪更改"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "您可以通过“设置”→“账号”访问您添加的页面的监视列表，例如编辑或讨论。"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "查看更新"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "感谢"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "用户贡献"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "用户页"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "用户讨论页"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "点击条目底部工具栏的星星图标或者“监视”操作可添加该条目至您的监视列表。"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "监视条目"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "数据与隐私"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "来自我们社群的推荐阅读和每日条目"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "探索订阅源"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "时光倒流，了解历史上的今天"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "历史上的今天"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "发现您附近的地标，或搜索世界各地"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "地点标签页"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "开始"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "探索的新方式"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "明白了"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "维基百科由志愿者共同编写，包含超过300种语言的4000多万篇条目。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "了解关于维基百科的更多信息"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "关于维基百科"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "维基百科是一个全球项目，旨在为全世界所有语言编撰自由的百科全书。几乎所有可访问互联网的人都可以自由地向其贡献中立、有来源佐证的信息。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "自由的百科全书"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "添加另一个语言"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "添加或编辑首选语言"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "我们在您的设备上找到以下语言："
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "在超过300种语言中搜索"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "我们相信参与自由知识运动不需要您提供个人信息。本应用收集的使用数据皆为匿名数据。"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "了解我们的隐私政策和使用条款的更多信息"
+    },
+    {
+      "name": "which_came_first_correct_answer_a11y",
+      "value": "正确答案"
+    },
+    {
+      "name": "which_came_first_correct_feedback",
+      "value": "正确！"
+    },
+    {
+      "name": "which_came_first_error_title",
+      "value": "出错了"
+    },
+    {
+      "name": "which_came_first_incorrect_answer_a11y",
+      "value": "错误答案"
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "不正确"
+    },
+    {
+      "name": "which_came_first_retry_button",
+      "value": "重试"
+    },
+    {
+      "name": "which_came_first_splash_title",
+      "value": "猜先后"
+    },
+    {
+      "name": "which_came_first_title",
+      "value": "猜先后"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "探索在历史上的今天发生的事件。"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "人人都可编辑的自由在线百科全书"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "自由的wiki内容式百科全书“维基百科”即日上线。"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "正在获取您更改内容的预览…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "此链接指向外部网站：\\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "外部链接"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "维基百科上没有这个名称的条目"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "未找到内部链接"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "此链接引导至“\\$1”"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "链接预览"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "保存更改"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "验证码错误。"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "需要输入验证码。"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "无法确定wikitext上传结果。"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "正在发布..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "编辑将使用您设备的IP地址发布，如果您想保护隐私，请\\$1登录\\$2。"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "编辑将使用您设备的IP地址发布，如果您想保护隐私，请\\$1。"
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "发布更改即代表您同意\\$1使用条款\\$2，并且不可撤销地同意以\\$3CC BY-SA 4.0\\$4与\\$5GFDL\\$6协议发布您的贡献。您同意超链接或网页链接足够代表知识共享协议所规定的署名。"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "使用条款"
+    },
+    {
+      "name": "year_in_review_articles_slide_subtitle",
+      "value": "以下是您在 2025 年阅读过最多次的条目：\n\\$1"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "维基百科的核心和灵魂是我们全球的志愿贡献者、捐赠者和像您一样的数十亿读者的社区——大家团结一致，共享对可靠信息的无限访问。"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "维基百科官方应用程序上的编辑者做出了超过 {{PLURAL:\\$1|\\$1}} 次编辑"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "文章由志愿者参考可靠信息来源协作创建和改进。我们所有人都有可以分享的知识。[了解如何参与](\\$1)。"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "维基百科每分钟被编辑 {{PLURAL:\\$1|\\$1}} 次"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "维基百科拥有超过 {{PLURAL:\\$1|\\$1}} 篇文章，涵盖超过 {{PLURAL:\\$2|\\$2}} 种活跃语言。您与数百万人一起扩展知识，探索多样化的主题。"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "维基百科提供超过 {{PLURAL:\\$1|\\$1}} 种语言版本"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "将条目增加到阅读清单，可以让您即使在离线时也能存取条目。此外，您还可以登入账号，将阅读清单同步到不同设备。"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "应用程序用户拥有 {{PLURAL:\\$1|\\$1}} 篇已保存条目"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "对于全世界的人们来说，维基百科是解答疑问、查找上学或工作所需信息或学习新知识的第一站。"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "应用程序用户浏览了 {{PLURAL:\\$1|\\$1}} 次维基百科条目"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "年度回顾"
+    },
+    {
+      "name": "year_in_review_categories_slide_subtitle",
+      "value": "分类会把主题相似的条目归类在一起。在 2025 年，您多次阅读过以下这些您感兴趣分类里的条目。\n\n\\$1"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "一个动画插图展示了一台电脑屏幕，上面打开了一个网络浏览器，正在浏览维基百科文章。"
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "一幅插画，两个维基百科拼图碎片各带一条信息。"
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "一幅动画插画，描绘了一块刻有多种语言文字的石头，象征着维基百科汇聚各方力量，从不同文化和地区汲取知识，共同铸就知识宝库。"
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "一个带有维基百科标志的拼图地球仪，寓意着全球协作。"
+    },
+    {
+      "name": "year_in_review_contributor_gift_subtitle",
+      "value": "如果您现在不启用，稍后可以在“设置”下的“主题”中找到它。"
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "激活新应用图标"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_donor_updated",
+      "value": "感谢您投入自由知识的未来。\n\n您作为\\$1年捐款者的贡献，帮助到铺往自由信息世界的道路，因此，您已解锁了维基百科贡献者的自定义桌面图标。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_and_donor_updated",
+      "value": "感谢您投入自由知识的未来。\n\n您作为 \\$1 年捐款者与编辑者的贡献，帮助到铺往自由信息世界的道路，因此，您已解锁了维基百科贡献者的自定义桌面图标。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_updated",
+      "value": "感谢您投入自由知识的未来。\n\n您作为 \\$1 年编辑者的贡献，帮助到铺往自由信息世界的道路，因此，您已解锁了维基百科贡献者的自定义桌面图标。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "已解锁新的桌面应用图标"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "星期五"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "星期一"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "星期六"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "星期日"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "星期四"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "星期二"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "星期三"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "捐赠"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "立即捐款"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "查看我们阅读和编辑的文章的分析数据，并分享我们这一年使用维基百科的亮点。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "查看您在维基百科应用上阅读的文章的分析数据，分享您的旅程，并发现您这一年的亮点。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "探索维基百科回顾"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "探索您的维基百科年度回顾"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "维基百科是世界历史上最大的知识资源库，向每个地方的每个人免费开放。通过维基百科的视角回顾 2024 年。"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "查看您在维基百科应用上阅读的文章以及您在 2024 年所做的编辑的分析。您的阅读历史将受到保护。阅读见解使用存储在您设备上的本地数据计算。"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_v3",
+      "value": "查看有关您在维基百科应用程序上所阅读的条目和所作编辑的深入分析。"
+    },
+    {
+      "name": "year_in_review_feature_explore_footer_v3",
+      "value": "您的阅读历史记录受到保护。阅读分析数据基于您设备本地存储的数据计算得出。"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "完成"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "阅读过的条目"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "条目浏览量"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "分享精彩内容"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "我感兴趣的分类"
+    },
+    {
+      "name": "year_in_review_highlights_changes",
+      "value": "编辑者们做过的更改"
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "阅读时长"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "创建的阅读清单数量"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "维基百科的编辑频率"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "每分钟 {{PLURAL:\\$1|\\$1}} 次"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "英文维基百科上阅读量最高的文章"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "最喜欢阅读的日子"
+    },
+    {
+      "name": "year_in_review_highlights_number_app_editors",
+      "value": "应用内编辑"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "我阅读过最多的条目"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "阅读分钟数"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "维基百科标志"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "我们期待明年！"
+    },
+    {
+      "name": "year_in_review_highlights_times_edited",
+      "value": "编辑时间"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "感谢您与维基百科共度的这一年。"
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "您稍后可以在个人资料中查看您的年度回顾。"
+    },
+    {
+      "name": "year_in_review_intro_login_title",
+      "value": "登录以进行个性化"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "您最感兴趣的分类"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "解锁您明年的贡献者奖励！"
+    },
+    {
+      "name": "year_in_review_noncontributor_slide_subtitle_updated",
+      "value": "我们很高兴维基百科成为您在\\$1年参与的活动！成为贡献者，即可在您的\\$2年度回顾解锁特别奖励—无论是借由应用程序[编辑维基百科](\\$3) 的行为，或是向其背后的非营利组织[维基媒体基金会](\\$4) 捐款。如果维基百科对您有所帮助，欢迎您考虑捐款，来帮助维基百科维持其未来发展，并保持免费、无广告、值得信赖且人人皆可用的运作状态。如果您是通过其他管道捐款，我们由衷感谢您的支持。"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "最喜欢阅读的日子"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "你阅读最多次的月份"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "最喜欢的阅读时间"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "您有明确的阅读规律"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "感谢您对知识免费的未来投资。今年，维基媒体基金会改进了技术，从而更好地服务每一位读者和志愿者，并开发了增强协作的工具，另外还支持了维基百科的更多语言版本。[进一步了解我们的工作](\\$1)。"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "您的慷慨让维基百科兴旺"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "全世界的读者感谢您做出的贡献。在过去 2 个月中，您编辑过的条目共获得了 {{PLURAL:\\$1|\\$1}} 次浏览。正因为有像您这样的编辑者，维基百科才能不断改进，成为基于事实的、可靠的全球知识资源库。"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "您的编辑最近已被浏览超过 {{PLURAL:\\$1|\\$1}} 次。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_1",
+      "value": "感谢您作为志愿者编辑之一，为世界各地的维基媒体项目做出贡献。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_2_updated",
+      "value": "像您这样的志愿者在维基百科的 {{PLURAL:\\$2| \\$2 不同语言版本}} 上做出了 {{PLURAL:\\$1| \\$1 改变}}。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "您作出了 {{PLURAL:\\$1|\\$1}} 次编辑"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "一幅动画插画，一只手中握着维基百科的地球仪，它逐渐变成了一块小小的拼图碎片，寓意着众人拾柴火焰高，每个人都在为这个平台添砖加瓦。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "您阅读过关于\\$2\\$1\\$3的内容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "您阅读过关于\\$3\\$1\\$4和\\$3\\$2\\$4的内容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "您阅读过关于\\$4\\$1\\$5、\\$4\\$2\\$5和\\$4\\$3\\$5的内容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_title_format_updated",
+      "value": "您阅读过的条目里，最靠近您的地点是\\$1"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "您的热门条目"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "您保存了{{PLURAL:\\$1|\\$1 篇文章}}"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "一幅动画插画，数据字节层层堆叠，象征着自由知识的不断积累。"
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "时钟滴答作响，象征着人们花费在阅读维基百科上的时间。"
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "一块带有维基百科徽标的拼图从左侧走进来。"
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "一幅插画，维基百科的拼图碎片与一支笔相伴。"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "这里是我的维基百科年度回顾。通过 Wikipedia iOS 应用创建而成 (https://apps.apple.com/app/wikipedia/id324715238) #WikipediaYearInReview"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "您还有别的想法吗？"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "一般"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "满意"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "帮助改进您的年度回顾。您对这个功能满意吗？"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "满意度调查"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "不满意"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "非常满意"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "非常不满意"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "下午"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "傍晚"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "深夜"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "中午"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "早晨"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "晚上"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "维基百科 w 徽标"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "维基媒体基金会标志"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "昨日"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "最近对条目进行了 0 次编辑"
+    },
+    {
+      "name": "games_card_subtitle",
+      "value": "今日游戏"
+    },
+    {
+      "name": "games_card_play",
+      "value": "开始"
+    },
+    {
+      "name": "account_creation_hcaptcha_notice",
+      "value": "本网站受 hCaptcha 保护，适用 hCaptcha 的\\$1和\\$2。"
+    },
+    {
+      "name": "account_creation_hcaptcha_privacy",
+      "value": "隐私政策"
+    },
+    {
+      "name": "account_creation_hcaptcha_terms",
+      "value": "服务条款"
+    },
+    {
+      "name": "page_talk_page",
+      "value": "查看讨论页"
+    },
+    {
+      "name": "page_talk_page_subtitle",
+      "value": "讨论改进本条目"
+    },
+    {
+      "name": "page_edit_history",
+      "value": "查看编辑历史"
+    },
+    {
+      "name": "page_last_edited_today",
+      "value": "更新于今天"
+    },
+    {
+      "name": "page_last_edited_yesterday",
+      "value": "更新于昨天"
+    },
+    {
+      "name": "page_last_edited_days",
+      "value": "更新于\\$1天前"
+    },
+    {
+      "name": "license_footer_text",
+      "value": "除非另有说明，内容基于\\$1授权。"
+    },
+    {
+      "name": "view_in_browser_footer_link",
+      "value": "在浏览器中查看条目"
+    },
+    {
+      "name": "article_load_failed_not_saved_offline",
+      "value": "无法加载该条目，且该条目未离线保存。"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "维基百科"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "完成"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "因你而读"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "所有热门阅读条目"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "其他随机条目"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "来自%s维基百科"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "在%s维基百科"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "来自维基共享资源"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "没有要显示的历史"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "今日"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "昨日"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "隐藏此卡片"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "自定义探索订阅源"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "卡片已隐藏"
+    },
+    {
+      "name": "editor_published",
+      "value": "已发布您的编辑。"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s的条目描述"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s/%s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "您是想搜索%s吗？"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "在维基百科HarmonyOS版"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "本月贡献"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "本月编辑"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "上个月的编辑"
+    }
+  ]
+}

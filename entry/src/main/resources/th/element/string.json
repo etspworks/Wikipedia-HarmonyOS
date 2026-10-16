@@ -1,0 +1,5180 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "วิกิพีเดีย"
+    },
+    {
+      "name": "about_content_license",
+      "value": "สัญญาอนุญาตเนื้อหา"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "นอกเหนือจากที่ระบุไว้ เนื้อหาทั้งหมดใช้ได้ภายใต้ \\$1"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "สัญญาอนุญาตครีเอทีฟคอมมอนส์แบบแสดงที่มา-อนุญาตแบบเดียวกัน"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ผู้ร่วมเขียน"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ไลบรารีที่ใช้งาน"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "รายชื่อแบบสมบูรณ์"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "สัญญาอนุญาต"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "เรารักซอฟต์แวร์โอเพนซอร์ส \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "สัญญาอนุญาตแผนที่สถานที่"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "สถานที่ใช้ข้อมูลแผนที่จาก Apple Maps \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "โปรดดูที่นี่สำหรับรายละเอียดสัญญาอนุญาต"
+    },
+    {
+      "name": "about_product_of",
+      "value": "สร้างขึ้นโดย\\$1จากการร่วมมือกันของอาสาสมัครเช่นคุณ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "ที่เก็บ"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "ซอร์สโค้ดใช้ได้ภายใต้\\$1"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "สัญญาอนุญาต MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ส่งคำติชมแอป"
+    },
+    {
+      "name": "about_title",
+      "value": "เกี่ยวกับ"
+    },
+    {
+      "name": "about_translators",
+      "value": "ผู้แปล"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "แปลโดยอาสาสมัครที่ \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "มูลนิธิวิกิมีเดีย"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "วิกิพีเดีย"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "มองไม่เห็นรูปภาพงั้นหรือ? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "กำลังดึง CAPTCHA ใหม่..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ขอบัญชี"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "การตรวจสอบความปลอดภัย CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "สร้างบัญชีของคุณ"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "มีบัญชีแล้วหรือ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "เข้าสู่ระบบ"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "กำลังเข้าสู่ระบบ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "คุณต้องกรอกชื่อผู้ใช้ รหัสผ่าน และยืนยันรหัสผ่านอีกครั้งเพื่อสร้างบัญชีผู้ใช้"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "เขตข้อมูลรหัสผ่านทั้งสองไม่ตรงกัน"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "กำลังบันทึก..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "สร้างบัญชีใหม่"
+    },
+    {
+      "name": "account_group_title",
+      "value": "บัญชีของคุณ"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Vanish account"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "หน้าพูดคุยของคุณ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "เซ็นชื่อการอภิปรายอัตโนมัติ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "การเซ็นชื่อการอภิปรายอัตโนมัติจะใช้ลายเซ็นที่กำหนดในการตั้งค่าลายเซ็น"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "การตั้งค่าหน้าพูดคุย"
+    },
+    {
+      "name": "action_add_to",
+      "value": "เพิ่มลงใน…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "เพิ่มลงในรายการอ่าน"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "เพิ่มลงในรายการ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ยกเลิก"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "ยกเลิกการแก้ไข"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "ยกเลิกการแก้ไข"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ค้นหาในหน้า"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "แก้ไขต่อไป"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "เปลี่ยนภาษา"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ย้ายไป..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ย้ายไปในรายการอ่าน"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "รุ่นแก้ไขถัดไป"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "รุ่นแก้ไขก่อนหน้า"
+    },
+    {
+      "name": "action_read",
+      "value": "อ่าน"
+    },
+    {
+      "name": "action_redo",
+      "value": "ทำซ้ำ"
+    },
+    {
+      "name": "action_remove",
+      "value": "ลบออก"
+    },
+    {
+      "name": "action_retry",
+      "value": "ลองใหม่"
+    },
+    {
+      "name": "action_save",
+      "value": "บันทึก"
+    },
+    {
+      "name": "action_saved",
+      "value": "บันทึกแล้ว"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "บันทึกแล้ว เปิดใช้งานเพื่อเลิกบันทึก"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "บันทึกบทความไว้อ่านภายหลังแล้ว"
+    },
+    {
+      "name": "action_share",
+      "value": "แบ่งปัน"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "แบ่งปัน"
+    },
+    {
+      "name": "action_sort",
+      "value": "เรียงลำดับ"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "ขอบคุณผู้ใช้"
+    },
+    {
+      "name": "action_undo",
+      "value": "ทำกลับ"
+    },
+    {
+      "name": "action_unsave",
+      "value": "เลิกบันทึก"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "เลิกบันทึกบทความแล้ว"
+    },
+    {
+      "name": "action_update",
+      "value": "ปรับปรุง"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "เพิ่มภาพที่แนะนำในบทความวิกิพีเดียเพื่อเพิ่มความเข้าใจ"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "เพิ่มภาพ"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "มีความเห็นเพิ่มเติมหรือไม่?"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "จำนวนบทความที่อ่านในเดือนนี้"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "บทความ"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[ภาพหน้าจอหรือลิงก์]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "ฉันเจอปัญหาเกี่ยวกับฟีเจอร์แท็บกิจกรรม:"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[อธิบายสิ่งที่คิดว่าควรเกิดขึ้น]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [รายละเอียดของปัญหา]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "สิ่งที่ฉันคิดว่าจะเกิดคือ:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "รายงานปัญหา - แท็บกิจกรรม"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "คุณยังไม่ได้แก้ไขสิ่งใดในสัปดาห์นี้ เริ่มเลยตอนนี้เพื่อติดตามการมีส่วนร่วมของคุณ"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 ชม. \\$2 น."
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "บนวิกิพีเดีย iOS"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "เข้าสู่ระบบหรือสร้างบัญชีเพื่อดูกิจกรรมของคุณบนแอปวิกิพีเดีย"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "ดูข้อมูลเชิงลึกเกี่ยวกับการอ่านและการแก้ไข"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "ล้างประวัติการอ่าน"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "เฉย ๆ"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "สัปดาห์นี้ยังไม่ได้แก้ไขสิ่งใด ลองเพิ่มภาพในบทความเพื่อเพิ่มความเข้าใจ"
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "การอ่านของคุณ"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "ดูว่าคุณใช้เวลาไปกับการอ่านบทความหรือหัวข้อใดในแต่ละช่วงเวลาที่ผ่านมา"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "รูปแบบการอ่าน"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "เลือกมอดูลที่จะแสดง ข้อมูลส่วนบุคคลทั้งหมดจะอยู่บนอุปกรณ์นี้เท่านั้น และสามารถล้างประวัติได้ทุกเมื่อ"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "ขอแนะนำกิจกรรม"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "ดูเพิ่มเติมเกี่ยวกับกิจกรรม"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "ดูรายละเอียดเชิงลึกเกี่ยวกับการมีส่วนร่วมและการเข้าถึงความรู้ที่คุณได้แบ่งปันไว้"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "ไฮไลต์ผลกระทบ"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "ดูประวัติการอ่าน"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "พึงพอใจ"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "จำนวนบทความที่บันทึกไว้ในเดือนนี้"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "เริ่มแก้ไข"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "แบบสำรวจความพึงพอใจ"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "เวลาที่อ่านในสัปดาห์นี้"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "กิจกรรม"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "หมวดหมู่อันดับต้น ๆ ในเดือนนี้"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "ไม่พึงพอใจ"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "การอ่านของ \\$1"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "พึงพอใจมาก"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "ไม่พึงพอใจมาก"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "ดูประวัติการแก้ไข"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "ดูประวัติการอ่าน"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "ดูบทความที่บันทึกไว้"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "สัปดาห์"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "คุณได้แก้ไข {{PLURAL:\\$1|\\$1 ครั้ง}}ในสัปดาห์นี้"
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "คุณอ่านไป {{PLURAL:\\$1|\\$1 บทความ}}ในสัปดาห์นี้"
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "คุณบันทึก {{PLURAL:\\$1|\\$1 บทความ}}ไว้ในสัปดาห์นี้"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "เพิ่ม {{PLURAL:\\$1|\\$1 บทความ}} ลงในรายการอ่าน"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "การตั้งค่าขั้นสูง"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "คุณกำลังใช้บัญชีชั่วคราว บัญชีนี้จะหมดอายุใน 90 วัน"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "ดูรายละเอียดเพิ่มเติม"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "บันทึกคำติชมเรียบร้อย"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "รับทราบ"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "วิกิพีเดีย, อ้างอิง, วิกิ, สารานุกรม, ข้อมูล, ความรู้, วิจัย, สำรวจ, เรียนรู้"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "ฟีดสำรวจที่ปรับแต่งได้เต็มที่และอ่านง่ายขึ้น แก้ไขบั๊ก ปรับปรุงประสิทธิภาพ และการแปลเป็นภาษาท้องถิ่น"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "ดาวน์โหลดแอปวิกิพีเดียเพื่อสำรวจสถานที่ใกล้คุณ ซิงค์บทความเพื่อเก็บไว้อ่านออฟไลน์ และปรับแต่งประสบการณ์การอ่านของคุณ"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "สารานุกรมเสรี"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ปรับขนาดข้อความบทความ"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ขยายตาราง"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "ตั้งค่าให้เปิดตารางทั้งหมดในบทความทั้งหมดตามค่าเริ่มต้น รวมถึงข้อมูลเบื้องต้น อ้างอิง หมายเหตุ และแหล่งข้อมูลอื่น"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "ลดความทึบแสงของภาพเมื่อใช้ธีมมืด"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "ธีมการอ่าน"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "การตั้งค่าตาราง"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "เฉลิมฉลองการมีส่วนร่วมของคุณกับวิกิพีเดียในช่วงปี 2025 ด้วยไอคอนผู้มีส่วนร่วมในแอป แสดงจนถึง Year in Review ครั้งถัดไป"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "ไอคอนแอป"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "ลากตัวเลื่อนเพื่อปรับเปลี่ยนขนาดข้อความของบทความ ปรับขนาดข้อความระบบของคุณเพื่อปรับขนาดพื้นที่ข้อความส่วนอื่นภายในแอป"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "ตัวเลือกธีม"
+    },
+    {
+      "name": "article_about_title",
+      "value": "เกี่ยวกับบทความนี้"
+    },
+    {
+      "name": "article_delete",
+      "value": "ลบ"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "ลบ {{PLURAL:\\$1|บทความ}} แล้ว"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "แอปไม่สามารถดึงเนื้อหาที่ปรับปรุงได้ทันเวลา โปรดรีเฟรชหน้านี้ในภายหลังเพื่อดูการเปลี่ยนแปลงของคุณ"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ค้นหาภาษา"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "เลือกภาษา"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ภาษาอื่น"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ภาษาของคุณ"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "อ่านเพิ่มเติม"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "แหล่งอ้างอิง \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "ประวัติการแก้ไขบทความ"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "คุณมีพื้นที่บนอุปกรณ์ของคุณไม่เพียงพอที่จะบันทึกบทความนี้"
+    },
+    {
+      "name": "article_share",
+      "value": "แบ่งปัน"
+    },
+    {
+      "name": "article_tabs_button_accessibility_hint",
+      "value": "ส่วนนำทางไปยังแท็บภาพรวม"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "แท็บบทความ"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "เปิดบทความพร้อมกันและสลับระหว่างบทความอย่างง่ายดาย"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "เรียกดูด้วยแท็บ"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "แท็บจะจำตำแหน่งที่อ่านถึงในหน้าอัตโนมัติ"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "ไปที่ที่คุณค้างไว้"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "เปิดลิงก์ในแท็บพื้นหลังโดยไม่ต้องเสียจุดที่อ่านถึง"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "บันทึกลิงก์ไว้ภายหลัง"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_subtitle",
+      "value": "เลือกข้อเท็จจริงสนุก ๆ หรืออ่านคำแนะนำเมื่อเปิดแท็บใหม่"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "ปรับแต่งแท็บใหม่ของคุณ"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "ดูเพิ่มเติมเกี่ยวกับแท็บ"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "ขอแนะนำแท็บ"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "จำนวนแท็บถึงขีดจำกัด (\\$1) บทความจะเปิดในแท็บปัจจุบันแทน โปรดปิดแท็บบางแท็บแล้วลองใหม่อีกครั้ง"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "ไปยังแท็บบทความ"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "ข้อความแนะนำบทนำสำหรับแท็บ"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "เปิด"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "เปิดในแท็บพื้นหลัง"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "เปิดในแท็บใหม่"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "หน้าพูดคุยบทความ"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "กำลังอ่านการควบคุมธีม"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "บัญชีชั่วคราว \\$1 จะถูกสร้างขึ้นเมื่อคุณเผยแพร่การแก้ไข และจะหมดอายุใน 90 วัน"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "สร้างบัญชีชั่วคราวแล้ว"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "ย้อนกลับ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "แตะเพื่อย้อนกลับ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "ย้อนกลับ"
+    },
+    {
+      "name": "button_next",
+      "value": "ถัดไป"
+    },
+    {
+      "name": "button_ok",
+      "value": "ตกลง"
+    },
+    {
+      "name": "button_publish",
+      "value": "เผยแพร่"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "เผยแพร่ทันที"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "รายงานข้อผิดพลาด"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "บันทึกไว้อ่านในภายหลัง"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "บันทึกไว้อ่านในภายหลังแล้ว"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "เอาออกจากรายการที่บันทึกไว้"
+    },
+    {
+      "name": "button_skip",
+      "value": "ข้าม"
+    },
+    {
+      "name": "cancel",
+      "value": "ยกเลิก"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "ขณะนี้แอป Wikipedia รองรับภาษาจีนต่อไปนี้เป็นภาษาหลักหรือภาษารองภายในแอป ทำให้ง่ายต่อการอ่าน ค้นหา และแก้ไขในรูปแบบที่คุณต้องการ:\n\n简体 จีนตัวย่อ (zh-hans)\n香港繁體 ฮ่องกงดั้งเดิม (zh-hk)\n澳門繁體 มาเก๊าดั้งเดิม (zh-mo)\n大马简体 มาเลเซีย ตัวย่อ (zh-my)\n新加坡简体 สิงคโปร์ ตัวย่อ (zh-sg)\n臺灣正體 ไต้หวันดั้งเดิม (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "การปรับปรุงการรองรับภาษาจีนรูปแบบต่าง ๆ"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "ล้าง"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "การล้างแคชเสร็จสมบูรณ์"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "อยู่ระหว่างการล้างแคช"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "ปิดแท็บทั้งหมด"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "คุณต้องการปิด \\$1 แท็บหรือไม่ คุณไม่สามารถเรียกคืนได้"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "ปิด \\$1 แท็บหรือไม่"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "คุณต้องการปิด {{PLURAL:\\$1|\\$1 แท็บ}}หรือไม่? การดำเนินการนี้ไม่สามารถย้อนกลับได้"
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "ปิด {{PLURAL:\\$1|\\$1 แท็บ}}หรือไม่?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ปิด"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "ปิดแท็บอื่นทั้งหมด"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "ปิดแท็บหรือไม่"
+    },
+    {
+      "name": "close_tabs",
+      "value": "ปิดแท็บ"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "ปิด {{PLURAL:\\$1|\\$1 แท็บ}}แล้ว"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ที่ \\$1 นาฬิกา"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "ดำเนินการต่อ"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "สำรวจบทความเพิ่มเติมที่คุณอยากอ่านในวิกิพีเดีย"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ไม่มีบทความที่อ่านล่าสุด"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "กำลังปรับปรุง..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "เพิ่มคำอธิบาย"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "คำอธิบายบทความสำหรับ \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "การเปลี่ยนคำอธิบายบทความ ถือว่าคุณยอมรับ\\$1และคุณตกลงเผยแพร่งานของคุณภายใต้สัญญาอนุญาต \\$2 อย่างไม่อาจเพิกถอนได้"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "แก้ไขบทนำ"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "แก้ไขคำอธิบายบทความ"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "ควรกำหนดคำอธิบายอย่างสั้น ๆ"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "เผยแพร่คำอธิบาย"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "แก้ไขคำอธิบาย"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "พยายามเขียนคำอธิบายอย่างสั้น ๆ เพื่อให้ผู้ใช้เข้าใจหัวข้อบทความได้อย่างรวดเร็ว"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "คำอธิบายบทความใช้สรุปบทความเพื่อช่วยให้ผู้อ่านเข้าใจบทความได้อย่างรวดเร็ว"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "เกี่ยวกับ"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "เกี่ยวกับวิกิสนเทศ"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "คำอธิบายจะถูกเก็บและรักษาไว้บนวิกิสนเทศ ซึ่งเป็นโครงการของมูลนิธิวิกิมีเดียซึ่งจัดเตรียมฐานข้อมูลเสรีหลายภาษาที่ใช้งานร่วมกับวิกิพีเดียและโครงการอื่น ๆ"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ข้อมูลเพิ่มเติม"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "ควรเขียนคำอธิบายให้พอดีหนึ่งบรรทัด และควรมีความยาวตั้งแต่ 2-12 คำ และไม่ควรเขียนด้วยอักษรตัวพิมพ์ใหญ่หากไม่ใช่วิสามานยนาม"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "คำอธิบายบทความสำหรับบทความเกี่ยวกับโมนาลิซา"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "คำอธิบายบทความสำหรับบทความเกี่ยวกับเขาเอเวอเรสต์"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ภาพวาดโดยเลโอนาร์โด ดา วินชี"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "ภูเขาที่สูงที่สุดในโลก"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ตัวอย่าง:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "คำแนะนำการเขียนคำอธิบาย"
+    },
+    {
+      "name": "description_help_title",
+      "value": "วิธีเขียนคำอธิบายบทความ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "คู่มือวิกิสนเทศเกี่ยวกับการเขียนคำอธิบาย"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "เสร็จสิ้น"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "คุณทำให้วิกิพีเดียดีขึ้นสำหรับทุกคน"
+    },
+    {
+      "name": "description_published_title",
+      "value": "เผยแพร่คำอธิบายแล้ว!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "ควรเขียนให้พอดีหนึ่งบรรทัด และเขียนตั้งแต่ 2-12 คำ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "ควรเขียนสั้น ๆ"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "ใช้สรุปบทความเพื่อช่วยให้ผู้อ่านเข้าใจบทความได้อย่างรวดเร็ว"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "คำอธิบายบทความ"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "ฉันสัญญาว่าจะไม่ใช้คุณลักษณะนี้ในทางที่ผิด"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "เริ่มแก้ไข"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "ประวัติการแก้ไขบทความ"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "การแก้ไขก่อนหน้า"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "เปรียบเทียบรุ่นแก้ไข"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "แสดงการแก้ไข"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "เปรียบเทียบรุ่นแก้ไข"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "ยุบ \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "ขยาย \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "แสดง"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ซ่อน"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "แก้ไขเมื่อ"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "บรรทัด \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "ย้ายย่อหน้า"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ลง"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ขึ้น"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 บรรทัด|\\$1 บรรทัด}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 ส่วน|\\$1 ส่วน}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "ย้ายย่อหน้า\\$1ไป \\$2แล้ว"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "ไม่สามารถดึงข้อมูลรุ่น"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "ย้อนรวดเดียว"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการย้อนการแก้ไขแบบรวดเดียว?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "การแก้ไขย้อนรวดเดียว"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "การแก้ไขที่ถูกย้อนกลับ"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|การแก้ไข \\$1 ครั้ง|การแก้ไข \\$1 ครั้ง}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "ข้อมูลผู้แก้ไข"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|เพิ่ม \\$1 ไบต์แล้ว}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|ลบ \\$1 ไบต์แล้ว}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "ความย่อการแก้ไข"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "บทนำ"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "บรรทัดที่ \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "ไม่สามารถส่งคำขอบคุณให้กับผู้ใช้นิรนามได้"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'คำขอบคุณ' คือวิธีที่ง่ายในการแสดงความขอบคุณต่องานของผู้แก้ไขบนวิกิพีเดีย คุณต้องเข้าสู่ระบบเพื่อส่ง 'คำขอบคุณ'"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "เข้าสู่ระบบเพื่อส่ง 'คำขอบคุณ'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "ส่ง 'คำขอบคุณ'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'คำขอบคุณ' คือวิธีที่ง่ายในการแสดงความขอบคุณต่องานของผู้แก้ไขบนวิกิพีเดีย 'คำขอบคุณ' ไม่สามารถยกเลิกได้ และจะปรากฏต่อสาธารณะ"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "ส่ง 'คำขอบคุณ' แบบเป็นสาธารณะ"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "ส่งคำขอบคุณไปยัง \\$1 แล้ว"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "คุณได้ส่ง 'คำขอบคุณ' สำหรับการแก้ไขนี้แล้ว"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "ไม่สามารถยกเลิกการส่งคำขอบคุณได้"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "การดำเนินการนี้จะยกเลิกการเปลี่ยนแปลงที่ทำโดยการแก้ไขของบทความที่แสดงไว้ที่นี่ หากต้องการดำเนินการต่อ โปรดระบุเหตุผลในการยกเลิกการแก้ไขนี้"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "การแก้ไขถูกยกเลิกแล้ว"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "แตะสองครั้งเพื่อเปิดเมนู"
+    },
+    {
+      "name": "dim_images",
+      "value": "ลดแสงรูปภาพ"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "มีปัญหาในการบริจาคหรือไม่?"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "บริจาคด้วยเปิลเพย์"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "บริจาคด้วยเปิลเพย์หรือเลือกวิธีการชำระเงินอื่น ๆ"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "วิธีการชำระเงินอื่น ๆ"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "บริจาคด้วยเปิลเพย์?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "ความมีน้ำใจของคุณมีความหมายมากสำหรับเรา"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "ขอบคุณ!"
+    },
+    {
+      "name": "donate_title",
+      "value": "เลือกจำนวนเงิน"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "ข้อความที่แสดงผล"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "เป้าหมายลิงก์"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "เอาลิงก์ออก"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "แก้ไขลิงก์"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "แก้ไข"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "เรียนรู้เพิ่มเกี่ยวกับการแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "เป็นการแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "edit_notices",
+      "value": "แก้ไขการแจ้งเตือน"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "แสดงการแจ้งเตือนการแก้ไขเสมอ"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "โปรดอ่านก่อนแก้ไข"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "เพิ่มความย่อการแก้ไข"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "เพิ่มรูปภาพ"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "เพิ่มรูปภาพและคำอธิบาย"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "แก้ไขไวยากรณ์"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "แก้ไขการพิมพ์ผิด"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "เพิ่มลิงก์"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "คุณปรับปรุงบทความนี้อย่างไร?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับรายการเฝ้าดูของคุณ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "เฝ้าดูหน้านี้"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "จงกล้าหาญแต่อย่าประมาทในการปรับปรุงบทความ อย่าทนทุกข์ทรมานกับการทำผิดพลาด: ทุกรุ่นที่ผ่านมาของหน้าจะถูกบันทึกไว้ ดังนั้นชุมชนของเราจึงสามารถแก้ไขข้อผิดพลาดได้อย่างง่ายดาย"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "เสียงของคุณสำคัญ"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "เนื้อหาทั้งหมดจะต้องสามารถตรวจสอบได้ เมื่อเพิ่มข้อมูลใหม่ลงในบทความ ผู้แก้ไขควรจัดให้มีการอ้างอิงแบบอินไลน์ไปยังแหล่งข้อมูลที่เชื่อถือได้ซึ่งสนับสนุนการมีส่วนร่วมโดยตรง"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "อ้างอิงแหล่งข้อมูลที่น่าเชื่อถือ"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "เผยแพร่การแก้ไขของคุณแล้ว"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "แก้ไขต้นฉบับ"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการออกจากโหมดแก้ไขโดยไม่เผยแพร่ก่อน?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการแก้ไขนี้?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "ยกเลิกการแก้ไขหรือไม่?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "ล้างการค้นหา"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "ปิดการค้นหา"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "ไม่พบรายการที่ตรงกัน"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "ผลลัพธ์การค้นหาถัดไป"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "ผลลัพธ์การค้นหาก่อนหน้า"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "ค้นหา"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "ตัวหนา"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "ปิดเมนูการจัดรูปแบบข้อความ"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "ความเห็นซ่อน"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "หัวเรื่องหลัก"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "ลดการเยื้อง"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "เพิ่มการเยื้อง"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "ตัวเอียง"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "ลิงก์"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "รายการมีลำดับ"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "รายการไม่มีลำดับ"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "ย่อหน้า"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "อ้างอิง"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "ขีดฆ่า"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "ลำดับที่ 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "ลำดับที่ 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "ลำดับที่ 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "ลำดับที่ 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "ตัวห้อย"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "ตัวยก"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "แม่แบบ"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "การจัดรูปแบบข้อความ"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "เส้นใต้"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "ล้างการแทนที่"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "แทนที่"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "แทนที่ด้วย…"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "แทนที่ทั้งหมด"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "แทนที่อินสแตนซ์ทั้งหมด"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "แทนที่"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "แทนที่อินสแตนซ์เดียว"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "ค้นหาในหน้า"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "กำลังโหลดข้อความตัวแก้ไข"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "ไม่มีความแตกต่างระหว่างรุ่น"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "ไม่มีการเปลี่ยนแปลงที่มองเห็นได้"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "ไม่มีความย่อการแก้ไข"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "เลือกไฟล์จากวิกิมีเดียคอมมอนส์"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "ขออภัย ไม่สามารถโหลดบทความนี้ได้"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "คุณยังสามารถอ่านหน้าที่บันทึกไว้ได้"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "คุณสามารถดูบทความที่แนะนำของคุณได้เมื่อคุณมีอินเทอร์เน็ต"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ติดตามสิ่งที่คุณได้อ่านที่นี่"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ไม่มีประวัติที่จะแสดง"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "บทความนี้ยังไม่ได้ถูกเขียนในภาษาอื่นใด"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ไม่มีในภาษาอื่น"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "สร้างรายการสำหรับสถานที่ที่อยากไป หัวข้อโปรด และอื่น ๆ"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "จัดระเบียบบทความที่บันทึกไว้ด้วยรายการอ่าน"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "บันทึกหน้าลงในรายการนี้เพื่อให้สามารถดูได้จากที่นี่"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "ไม่มีหน้าที่บันทึกลงในรายการนี้"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "บันทึกหน้าสำหรับไว้ดูภายหลัง แม้กระทั่งเวลาออฟไลน์"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ยังไม่มีหน้าที่บันทึก"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ไม่พบผลลัพธ์"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ผู้ใช้นี้ยังไม่ได้โพสต์ข้อความใด"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "โปรดลองอีกครั้งในภายหลัง"
+    },
+    {
+      "name": "error_unknown",
+      "value": "เกิดข้อผิดพลาดไม่ทราบสาเหตุ"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "บทความสุ่มอื่น"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "เนื่องจากคุณอ่าน"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "บทความอื่น ๆ ที่เกี่ยวข้อง"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "อ่านต่อ"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "ย้อนกลับไปยังฟีดสำรวจ"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "สำรวจบทความที่อยู่ใกล้ตำแหน่งปัจจุบันของคุณ"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "บทความคัดสรร"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "จากวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "จากวิกิพีเดีย"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "ปรับแต่ง"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "การตั้งค่าภาษาฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "สามารถเพิ่มภาษาอีกได้ในหน้าการตั้งค่า ‘ภาษาของฉัน’"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "ซ่อนการ์ดอยู่"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "ลิงก์แบบด่วนสำหรับกลับไปยังบทความที่เปิดอ่านอยู่"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "ปรับแต่งฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "ปรับแต่งฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "การซ่อนการ์ดประเภทนี้จะหยุดการ์ดประเภทนี้ไม่ให้ปรากฏในฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "แท็บสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "บทความคัดสรรประจำวันบนวิกิพีเดีย"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ปิด"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "เปิดทั้งหมด"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "เปิด"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "เปิด \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "ซ่อนการ์ด \\$1 ทั้งหมดแล้ว"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "การ์ดนี้ไม่เจาะจงภาษาใด การปิดการ์ดนี้จะเป็นการเอาการ์ดนี้ออกจากฟีดสำรวจของคุณ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "การ์ดที่ไม่เจาะจงภาษา"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "ไม่เจาะจงภาษา"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "การ์ดทุกภาษา"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ซ่อนการ์ดนี้"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "ซ่อนการ์ด “\\$1” ทั้งหมด"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "บทความเกี่ยวกับเหตุการณ์ปัจจุบัน"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "การซ่อนการ์ดในฟีดสำรวจในภาษาทั้งหมดของคุณจะปิดแท็บสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "เหตุการณ์ในประวัติศาสตร์ของวันนี้ในอดีต"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "บทความวิกิพีเดียใกล้กับตำแหน่งที่ตั้งของคุณ"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "ภาพคัดสรรประจำวันจากคอมมอนส์"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "สร้างบทความที่จะอ่านแบบสุ่ม"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "คำแนะนำที่ขึ้นอยู่กับประวัติการอ่าน"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "แสดงการ์ดอ่านต่อ"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "การปิดการ์ดบทความคัดสรรจะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "แสดงการ์ดบทความคัดสรร"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "การปิดการ์ดเรื่องจากข่าวจะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "แสดงการ์ดเรื่องจากข่าว"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "การปิดการ์ดวันนี้ในอดีตจะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "แสดงการ์ดวันนี้ในอดีต"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "แสดงการ์ดรูปภาพประจำวันนี้"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "การปิดการ์ดสถานที่จะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "แสดงการ์ดสถานที่"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "การปิดการ์ดตัวสุ่มจะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "แสดงการ์ดตัวสุ่ม"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "แสดงการ์ดเนื่องจากคุณอ่าน"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "การปิดการ์ดอ่านมากที่สุดจะปิดการ์ดในทุกภาษาที่ใช้ได้"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "แสดงการ์ดอ่านมากที่สุด"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "แสดงการ์ดการแก้ไขที่แนะนำ"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "บทความที่อ่านมากที่สุดในแต่ละวัน"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "ปิดฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "การซ่อนการ์ดฟีดสำรวจจะเป็นการปิดแท็บสำรวจและแทนที่ด้วยแท็บการตั้งค่า"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "ปิดฟีดสำรวจ?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "ปิดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "สามารถเปิดแท็บสำรวจได้ใหม่ในการตั้งค่าฟีดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "ปิดแท็บสำรวจ?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "การปิดแท็บสำรวจจะเป็นการแทนที่แท็บสำรวจด้วยแท็บการตั้งค่า"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "การเลือกแสดงการ์ดฟีดสำรวจจะถือว่าคุณเปิดแท็บสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "เปิดสำรวจ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "การดำเนินการนี้จะแทนที่แท็บการตั้งค่าด้วยแท็บสำรวจ คุณสามารถเข้าถึงการตั้งค่าได้จากด้านบนของแท็บสำรวจโดยแตะบนไอคอนเกียร์"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "เปิดแท็บสำรวจ?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "ซ่อนการ์ดนี้"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "หน้าหลักของโครงการวิกิมีเดีย"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "วันนี้บนวิกิพีเดีย"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "บทความที่อ่านมากที่สุดทั้งหมด"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "อ่านมากที่สุด"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "ยอดนิยมบน \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "บนวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "บนวิกิพีเดีย"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "สถานที่ที่ใกล้เคียง"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "สถานที่"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "จากวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "จากวิกิพีเดีย"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ตำแหน่งของคุณ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "ตำแหน่งของคุณจากวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "รูปภาพประจำวันนี้"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "จากวิกิมีเดียคอมมอนส์"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "สุ่มบทความ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "จากวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "จากวิกิพีเดีย"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ตัวสุ่ม"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "เพิ่ม"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "เพิ่มรูปภาพที่แนะนำลงในบทความวิกิพีเดียเพื่อเพิ่มความเข้าใจ"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "เพิ่มรูปภาพ"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "แบ่งปันแอปไลบรารี่?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "เกิดข้อผิดพลาดขณะส่งออกข้อมูลของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "อุปกรณ์ของคุณมีพื้นที่ไม่เพียงพอที่จะส่งออกข้อมูลผู้ใช้ของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "ส่งออกข้อมูลผู้ใช้"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "ไม่มีบทความคัดสรรสำหรับวันที่นี้"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "ค้นพบบทความที่ดีที่สุดบนวิกิพีเดียซึ่งคัดสรรทุกวันโดยชุมชนของเรา"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "จากวิกิพีเดีย \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "จากวิกิพีเดีย"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "ภาษาวิกิพีเดียหลักของคุณไม่รองรับบทความแนะนำ คุณสามารถปรับปรุงวิกิพีเดียหลักของคุณได้ในเมนูการตั้งค่าของแอป"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "บทความคัดสรร"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "มีบางอย่างผิดปกติ โปรดลองอีกครั้งในภายหลัง"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "แอปได้รับการตอบกลับที่ไม่คาดคิดจากเซิร์ฟเวอร์ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA ไม่ถูกต้อง"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "รหัสผ่านไม่ตรงกัน"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "รหัสไม่ถูกต้อง"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ชื่อผู้ใช้ไม่พร้อมใช้งาน"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "รหัสการสำรอง"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "ข้อความ CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "กรอกข้อความที่คุณเห็นด้านบน"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "อีเมล"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "อีเมล (ไม่จำเป็น)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "กรอกรหัสผ่านใหม่อีกครั้ง"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "ยืนยันรหัสผ่านใหม่"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "กรอกรหัสผ่านใหม่"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "รหัสผ่านใหม่"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "กรอกรหัสผ่านใหม่อีกครั้ง"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "ยืนยันรหัสผ่าน"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "กรอกรหัสผ่าน"
+    },
+    {
+      "name": "field_password_title",
+      "value": "รหัสผ่าน"
+    },
+    {
+      "name": "field_token_title",
+      "value": "รหัสการยืนยัน"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "กรอกชื่อผู้ใช้"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ชื่อผู้ใช้"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "ทั้งหมด"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "ล้างการค้นหา"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "ผลลัพธ์การค้นหาถัดไป"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "ผลลัพธ์การค้นหาก่อนหน้า"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ค้นหาและแทนที่"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ปิดค้นหาและแทนที่"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ค้นหา"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "รีเซ็ต"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "ส่งอีเมลพร้อมวิธีตั้งค่ารหัสผ่านใหม่แล้ว"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "กรอกข้อมูลลงในช่องใดช่องหนึ่งด้านล่างเพื่อรับวิธีการรีเซ็ตรหัสผ่านผ่านทางอีเมล"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ตั้งรหัสผ่านใหม่"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "หรือ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "คุณแน่ใจหรือว่าคุณต้องการลบรายการล่าสุดของคุณทั้งหมด?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ใช่ ลบทั้งหมด"
+    },
+    {
+      "name": "history_title",
+      "value": "ประวัติ"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "วิกิพีเดีย กลับไปยัง สำรวจ"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "วิกิพีเดีย กลับไปยัง ที่บันทึกไว้"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "บทความเพิ่มเติมที่คล้ายกับ \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "สถานที่เพิ่มเติมที่อยู่ใกล้ตำแหน่งของคุณ"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "บทความเพิ่มเติมที่อยู่ใกล้เคียงกับ \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "เหตุการณ์ปัจจุบันเพิ่มเติม"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "คุณสามารถจัดระเบียบบทความที่บันทึกไว้ของคุณลงในรายการอ่านและซิงค์กับอุปกรณ์ทุกๆ เครื่องได้ เข้าสู่ระบบเพื่อบันทึกรายการอ่านของคุณไปยังการตั้งค่าผู้ใช้ของคุณ"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "จัดการการตั้งค่า"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "ปรับการตั้งค่าการอ่านของคุณรวมถึงขนาดข้อความและธีมจากแถบเครื่องมือบทความหรือในการตั้งค่าผู้ใช้ของคุณเพื่อประสบการณ์การอ่านที่สะดวกสบายยิ่งขึ้น"
+    },
+    {
+      "name": "home_title",
+      "value": "สำรวจ"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "วิกิพีเดีย เลื่อนไปยังด้านบนของ สำรวจ"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "บทความใกล้เคียง"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "สุ่มบทความ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ค้นหาวิกิพีเดีย"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ไม่รู้จักผู้เขียน"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "เพิ่มภาพนี้?"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "มีอะไรบางอย่างผิดพลาด"
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "ไม่สามารถโหลดหน้าได้"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับการแก้ไขที่แนะนำ"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "คำตอบของคุณจะช่วยปรับปรุงข้อเสนอแนะในอนาคต"
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "เลือกตัวเลือกหนึ่งรายการหรือมากกว่า"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "อื่น ๆ"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "ส่ง"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "เหตุผล"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "เพิ่มรูปภาพ"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "ดูบทความ"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "ไม่"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "ไม่แน่ใจ"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "ใช่"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "รายการอ่านของฉัน"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "ทำแบบสำรวจ"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"แบ่งปันรายการอ่าน\" เป็นคุณลักษณะทดสอบและเราต้องการคำติชมของคุณเพื่อปรับปรุงหรือลบออก"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "คุณช่วยเราปรับปรุง \"แบ่งปันรายการอ่าน\" ได้ไหม?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "นำเข้ารายการอ่านที่ใช้ร่วมกัน"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "จากวิกิพีเดียภาษา\\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "จากวิกิพีเดีย"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "เรื่องจากข่าว"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "แทรก"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "แทรกลิงก์"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "เพิ่มรายละเอียดรูปภาพ"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "คำอธิบายข้อความสำหรับผู้อ่านที่ไม่สามารถเห็นภาพได้"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "อธิบายภาพนี้"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "ข้อความอื่น"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ภาพนี้เกี่ยวข้องกับบทความอย่างไร?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "ป้ายกำกับที่แสดงถัดจากรายการสำหรับผู้อ่านทั้งหมด"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "คำอธิบาย"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "กลาง"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "ซ้าย"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ไม่มี"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ขวา"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ตำแหน่งภาพ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "ข้อมูลเพิ่มเติม"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "เลือกภาพ"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "ปรับแต่ง"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "ค่าปริยาย"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "ความสูง"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "ความกว้าง"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ขนาดภาพ"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "ตัดข้อความรอบ ๆ รูปภาพ"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "พื้นฐาน"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "กรอบ"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ไม่มีกรอบ"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "รูปย่อ"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ชนิดภาพ"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "การตั้งค่าสื่อ"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "แทรกสื่อ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ภาษา"
+    },
+    {
+      "name": "languages_title",
+      "value": "เปลี่ยนภาษา"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ภาษาของวิกิพีเดีย"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "เรียนรู้เพิ่มเติม"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "ดำเนินการต่อโดยไม่เข้าสู่ระบบ"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "เข้าสู่ระบบกลับไปยังบัญชีของคุณ"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "มีปัญหาในการรับรองความถูกต้องของบัญชีของคุณ หากต้องการซิงค์รายการอ่านและแก้ไขภายใต้ชื่อผู้ใช้ของคุณ โปรดเข้าสู่ระบบอีกครั้ง"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "คุณออกจากระบบแล้ว"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "ลืมรหัสผ่านของคุณหรือ?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "เข้าร่วมกับวิกิพีเดีย"
+    },
+    {
+      "name": "login_no_account",
+      "value": "ยังไม่มีบัญชี? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "เข้าสู่ระบบบัญชีของคุณ"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "เกี่ยวกับแอป"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "เข้าสู่ระบบ"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ออกจากระบบ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "คุณแน่ใจว่าต้องการออกจากระบบหรือไม่"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "การออกจากระบบจะลบข้อมูลบัญชีที่เก็บไว้ในเครื่องของคุณ (การแจ้งเตือนและข้อความ) แต่ข้อมูลบัญชีของคุณจะยังคงมีอยู่บนเว็บและจะถูกดาวน์โหลดใหม่หากคุณเข้าสู่ระบบใหม่"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "เข้าสู่ระบบในชื่อ \\$1 อยู่"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "ความเป็นส่วนตัวและข้อกำหนด"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ใกล้เคียง"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "นโยบายความเป็นส่วนตัว"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ให้คะแนนแอปนี้"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ข้อกำหนดการใช้งาน"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "เพิ่มเติม"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "คำถามที่พบบ่อยเกี่ยวกับ Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ค้นหาวิกิพีเดียในกว่า 300 ภาษา"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "เพิ่มภาษา"
+    },
+    {
+      "name": "more_menu",
+      "value": "เพิ่มเติม"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "ย้าย {{PLURAL:\\$1|\\$1 บทความ}} ลงในรายการอ่าน"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "แสดงตัวอย่าง"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ฟุต"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 กม."
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 ม."
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ไมล์"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "คุณเข้าสู่ระบบด้วยรหัสผ่านชั่วคราว คุณต้องตั้งรหัสผ่านใหม่ที่นี่เพื่อให้การเข้าสู่ระบบเสร็จสมบูรณ์"
+    },
+    {
+      "name": "new_password_title",
+      "value": "ตั้งรหัสผ่านของคุณ"
+    },
+    {
+      "name": "next_action_title",
+      "value": "ต่อไป"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "โปรดตั้งค่าบัญชีอีเมลบนอุปกรณ์ของคุณและลองอีกครั้ง"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ไม่ใช่ตอนนี้"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "จาก \\$1"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 การแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "เปลี่ยนรหัสผ่าน"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "กำลังตรวจสอบการแจ้งเตือน..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ในแอป"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "บนเว็บ"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "รายละเอียดการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "กำลังตรวจสอบการแจ้งเตือน..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "คุณไม่มีข้อความ"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "ขณะนี้คุณไม่ได้สมัครรับการแจ้งเตือนของวิกิพีเดียใด ๆ"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "เพิ่มโครงการเพื่อดูข้อความเพิ่มเติม"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 ตัวกรอง}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "เปิดการแจ้งเตือนแบบพุช"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "ขณะนี้การแก้ไขการแจ้งเตือนสำหรับโครงการวิกิมีเดียทั้งหมดพร้อมใช้งานผ่านแอปแล้ว เลือกใช้การแจ้งเตือนแบบพุชเพื่อติดตามข้อความของคุณบนวิกิพีเดียขณะเดินทาง"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "ตัวกรองการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ทั้งหมด"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "อ่าน"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "ยังไม่ได้อ่าน"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "อ่านสถานะ"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "ตัวกรอง"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "แก้ไขประเภทการแจ้งเตือนเพื่อกรองเข้า/ออกจากกล่องรับการแจ้งเตือนของคุณ ประเภทที่ปิดจะไม่สามารถมองเห็นได้ แต่เนื้อหาและการแจ้งเตือนใหม่จะพร้อมใช้งานเมื่อเปิดอีกครั้ง"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "ทุกประเภท"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "ประเภทของการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "บทความ"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "หน้าพูดคุย \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "ต่าง"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "หน้าผู้ใช้ของ \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "รายการวิกิสนเทศ"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "หน้าพูดคุยของคุณ"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "การแจ้งเตือนจาก \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "เสร็จสิ้น"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "โครงการ"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "เฉพาะโครงการที่คุณสร้างบัญชีเท่านั้นที่จะปรากฏที่นี่"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "โครงการวิกิมีเดีย"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "วิกิพีเดีย"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "การแจ้งเตือนการเข้าสู่ระบบ"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "ทำเครื่องหมาย"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ทำเครื่องหมายทั้งหมดว่าอ่านแล้ว"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "คุณแน่ใจหรือว่าต้องการทำเครื่องหมาย {{PLURAL:\\$1|\\$1 ข้อความ}} ของการแจ้งเตือนของคุณว่าอ่านแล้วใช่ไหม? การแจ้งเตือนของคุณจะถูกทำเครื่องหมายว่าอ่านแล้วบนอุปกรณ์ทั้งหมดของคุณ"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการทำเครื่องหมายการแจ้งเตือนทั้งหมดว่าอ่านแล้ว? การแจ้งเตือนของคุณจะถูกทำเครื่องหมายว่าอ่านแล้วบนอุปกรณ์ทั้งหมดของคุณ"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "ทำเครื่องหมายว่าอ่านแล้ว"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "ทำเครื่องหมายว่ายังไม่ได้อ่าน"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "เพิ่มเติม"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "การตั้งค่าการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 ข้อความ}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "ดำเนินการต่อ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "ตัวกรองการแจ้งเตือนของคุณตามสถานะการอ่านและพิมพ์เพื่อจำกัดกล่องจดหมายของคุณให้แคบลงได้อย่างง่ายดาย"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "ตัวกรอง"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "การแจ้งเตือนช่วยให้คุณทราบถึงกิจกรรมที่เกี่ยวข้องกับการแก้ไขและบัญชีของคุณ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "การแจ้งเตือนและการเตือน"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "ดูข้อความที่ยังไม่ได้อ่านทั้งหมดจากวิกิพีเดียและโครงการวิกิมีเดียในภาษาต่าง ๆ ได้ในที่เดียว"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "กล่องจดหมายของโครงการ"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "เลือกใช้การแจ้งเตือนแบบพุชเพื่อติดตามข้อความการแก้ไขและการแจ้งเตือนของคุณในขณะเดินทาง"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "การแจ้งเตือนแบบพุช"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "แก้ไขการแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "เปิดการแจ้งเตือนแบบพุช?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "เปิดการแจ้งเตือนแบบพุช"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "ไม่ขอบคุณ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "วิกิพีเดียเป็นโครงการร่วมมือและการเปิดใช้การแจ้งเตือนแบบพุชทำให้ง่ายต่อการติดตามข้อความ การแจ้งเตือน และคำ \"ขอบคุณ\" จากผู้แก้ไขคนอื่น ๆ"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "ตัวกรองโครงการ"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ทั้งหมด"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "การแจ้งเตือนทั้งหมด"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 ใน \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "กรองโดย"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=ใน 1 โครงการ|ใน \\$1 โครงการ}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 โครงการ|\\$1 โครงการ}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 ประเภท|\\$1 ประเภท}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "อ่าน"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 และ \\$2 ใน \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "ยังไม่ได้อ่าน"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "การแก้ไขของคุณถูกย้อนกลับ"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "อีเมลใหม่"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "การเข้าสู่ระบบจากอุปกรณ์ที่ไม่คุ้นเคย"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "การกล่าวถึงล้มเหลว"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "กล่าวถึงสำเร็จ"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "กล่าวถึงในหน้าพูดคุย"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "ข้อความในหน้าพูดคุยของคุณ"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ลิงก์หน้า"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ขอบคุณ"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "เปลี่ยนแปลงสิทธิผู้ใช้"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ยินดีต้อนรับ!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "ทำเครื่องหมายว่าอ่านแล้ว"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "ทำเครื่องหมายว่ายังไม่ได้อ่าน"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "เพิ่มเติม"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "การแจ้งเตือน"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "ทำเครื่องหมายการแจ้งเตือนที่เลือก"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "กล่าวถึง"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "ประกาศ"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ข้อความต้อนรับ"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "เชื่อมต่อกับวิกิสนเทศ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "การแก้ไขที่ถูกย้อนกลับ"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "ความย่อการแก้ไขการกล่าวถึง"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "อีเมลจากผู้ใช้คนอื่น"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "ความพยายามเข้าสู่ระบบ"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "ความพยายามเข้าสู่ระบบบัญชีของคุณล้มเหลว"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "เข้าสู่ระบบสำเร็จ"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "อื่น ๆ"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "ลิงก์หน้า"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "ตรวจทานหน้า"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "ส่งการกล่าวถึงล้มเหลว"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "ส่งการกล่าวถึงสำเร็จ"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "หน้าพูดคุยกล่าวถึง"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "ขอบคุณ"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "เปลี่ยนแปลงสิทธิผู้ใช้"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "หน้าพูดคุยข้อความ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ยินดีต้อนรับ"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 ข้อความใหม่}} เมื่อ \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|ข้อความใหม่}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "ตั้งแต่ \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|เหตุการณ์ย้อนหลัง \\$1 เหตุการณ์}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "เหตุการณ์เพิ่มเติมในอดีตประจำวันนี้"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "ไม่มีข้อมูลที่พร้อมใช้งาน"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 จากวิกิพีเดียภาษา\\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "วันนี้ในอดีต"
+    },
+    {
+      "name": "open_article",
+      "value": "เปิดบทความ"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "แตะบน 'W' เพื่อกลับไปยังแท็บที่คุณเปิดก่อนหน้านี้"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "บอต"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "เปรียบเทียบ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "การแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "ผู้เขียน: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "ความเห็น: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "ประวัติหน้า"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "การแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "เพิ่ม {{PLURAL:\\$1|\\$1 ไบต์}} แล้ว"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "เอา {{PLURAL:\\$1|\\$1 ไบต์}} ออกแล้ว"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 แก้ไข}} ตั้งแต่ \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "ปัญหาในหน้า"
+    },
+    {
+      "name": "page_location",
+      "value": "ดูบนแผนที่"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "คุณไม่มีสิทธิ์แก้ไขหน้านี้"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "หน้านี้ถูกล็อก"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "หน้าที่คล้ายกัน"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "การเปรียบเทียบการแก้ไขจะช่วยแสดงให้เห็นว่าบทความมีการเปลี่ยนแปลงอย่างไรเมื่อเวลาผ่านไป การเปรียบเทียบการแก้ไขทั้งสองครั้งของบทความจะแสดงความแตกต่างระหว่างการแก้ไขเหล่านั้นโดยการเน้นเนื้อหาใด ๆ ที่มีการเปลี่ยนแปลง"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "เปรียบเทียบรุ่นแก้ไข"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "แก้ไขโดยไม่เข้าสู่ระบบ"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "คุณยังไม่ได้เข้าสู่ระบบ"
+    },
+    {
+      "name": "pictured",
+      "value": "ในภาพ"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "ล้างการค้นหาที่บันทึก"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 บทความ"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "ปรับจุดศูนย์กลางบนตำแหน่งที่ตั้งของคุณ"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "แสดงเป็นรายการ"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "แสดงเป็นแผนที่"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "แสดงบทความเพิ่มเติม"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "สำรวจเมือง ประเทศ ทวีป สถานที่สำคัญทางธรรมชาติ เหตุการณ์ทางประวัติศาสตร์ อาคาร และอื่น ๆ"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "ค้นหาบทความวิกิพีเดียเกี่ยวกับตำแหน่งที่ตั้งทางภูมิศาสตร์"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "เปิดใช้งานตำแหน่งที่ตั้ง"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "แอปจะเข้าถึงตำแหน่งของคุณเฉพาะตอนที่แอปหรือฟีเจอร์ปรากฏอยู่บนหน้าจอของคุณเท่านั้น"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "สำรวจบทความที่อยู่ใกล้ตำแหน่งของคุณโดยเปิดใช้งานการเข้าถึงตำแหน่งที่ตั้ง"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "กรองบทความ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "กรอง"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "คุณไม่มีสถานที่ที่บันทึกไว้"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "บทความที่บันทึกไว้"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "อ่านมากที่สุด"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 บทความ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "บทความที่อ่านมากที่สุด"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "เปิดใช้งานตำแหน่งแล้ว"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "ไม่มีบทความที่บันทึกของคุณที่มีข้อมูลตำแหน่งที่ตั้ง"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1ที่ตรงกับ “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "ค้นหาสถานที่"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "คุณหมายถึง \\$1 หรือเปล่า?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ค้นหาล่าสุด"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "บทความที่บันทึกไว้ทั้งหมด"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "การค้นหาที่แนะนำ"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ผลลัพธ์ในพื้นที่นี้"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "บทความยอดนิยมทั้งหมด"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ใกล้เคียง"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "ตำแหน่งปัจจุบันของคุณ"
+    },
+    {
+      "name": "places_title",
+      "value": "สถานที่"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ไม่ทราบระยะทาง"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "รูปภาพประจำวันที่ \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "ไม่สามารถดึงข้อมูลรูปภาพประจำวันที่ \\$1 ได้"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "รูปภาพประจำวัน"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "อนุญาตให้มูลนิธิวิกิมีเดียเก็บข้อมูลการใช้แอปของคุณเพื่อพัฒนาแอปให้ดีขึ้น"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "ปัญหาเกี่ยวกับคุณสมบัติ"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "มีเดียวิกิ"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "วิกิตำรา"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "วิกิสนเทศ"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "วิกิมีเดียคอมมอนส์"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "วิกิข่าว"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "วิกิคำคม"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "วิกิซอร์ซ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "วิกิสปีชีส์"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "วิกิวิทยาลัย"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "วิกิท่องเที่ยว"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "วิกิพจนานุกรม"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "เพิ่มบทความนี้ลงไปยังรายการอ่านหรือไม่"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "เพิ่ม “\\$1” ลงไปยังรายการอ่านหรือไม่"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "ใช่ เพิ่มลงไปยังรายการอ่านของฉัน"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "มีบทความที่บันทึกไว้ในแอปวิกิพีเดียของคุณ คุณต้องการเก็บรายการเหล่านั้นและรวมเข้ากับอ่านที่ซิงค์กับบัญชีของคุณหรือไม่?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "พบบทความที่บันทึกไว้"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะซิงค์รายการอ่านของคุณ"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "สร้างรายการอ่าน"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "คำอธิบาย"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "ชื่อรายการอ่าน"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "สร้างรายการใหม่"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "ลบรายการอ่านแล้ว"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "ไม่ ลบบทความจากอุปกรณ์"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "คุณได้เกินขีดจำกัดของ {{PLURAL:\\$1|\\$1 บทความ}} ต่อบัญชี"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|บทความ}} ไม่สามารถเพิ่มในรายการนี้ คุณมีบทความถึงขีดจำกัด \\$2 ต่อรายการอ่านสำหรับ \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "ชื่อรายการอ่านถูกใช้แล้ว"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะปรับปรุงรายการอ่านของคุณ"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "ใช่เก็บบทความไว้บนอุปกรณ์"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "มีบทความที่ซิงค์กับบัญชีวิกิพีเดียของคุณ คุณต้องการเก็บไว้ในอุปกรณ์นี้หลังจากที่คุณออกจากระบบหรือไม่?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "เก็บบทความที่บันทึกไว้บนอุปกรณ์หรือไม่"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "เรียงบทความ"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "คุณเกินขีดจำกัดของ {{PLURAL:\\$1|\\$1 รายการอ่าน}} ต่อบัญชี"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "เข้าสู่ระบบเพื่อซิงค์บทความที่บันทึกไว้ของคุณ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "เข้าสู่ระบบหรือสร้างบัญชี"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "เข้าสู่ระบบเพื่อซิงค์บทความที่บันทึกไว้"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "เข้าสู่ระบบหรือสร้างบัญชีเพื่อซิงค์บทความที่บันทึกไว้และรายการอ่านของคุณกับอุปกรณ์ทุกเครื่องและบันทึกในการตั้งค่าผู้ใช้ของคุณ"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "ซิงค์บทความที่บันทึกไว้ของคุณหรือไม่?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[สร้างโดยผู้ใช้]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "คำอธิบายอย่างย่อ"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "ชื่อเรื่องรายการอ่าน"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "การซิงค์รายการอ่านถูกปิดใช้งานสำหรับบัญชีวิกิพีเดียของคุณบนอุปกรณ์อื่น คุณสามารถเปิดการซิงค์ได้อีกครั้งโดยปรับปรุงการตั้งค่าของคุณ"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "ปิดใช้งานการซิงค์แล้ว"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "เปิดใช้งานการซิงค์"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "บทความและรายการอ่านที่บันทึกไว้ของคุณตอนนี้สามารถบันทึกลงในบัญชีวิกิพีเดียของคุณและซิงค์กับแอปวิกิพีเดียได้แล้ว"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "เปิดการซิงค์รายการอ่านหรือไม่?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "การซิงค์ถูกเปิดอยู่บนบัญชีนี้"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะเพิ่มรายการลงในรายการอ่านของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะสร้างรายการอ่านของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะลบรายการอ่านของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะลบรายการออกจากรายการอ่านของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "เกิดข้อผิดพลาดที่ไม่คาดคิดขณะปรับปรุงรายการอ่านของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "เพิ่มบทความลงใน “\\$1” แล้ว"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "ไม่สามารถซิงค์บทความได้"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "ไม่ได้ซิงค์"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 รายการอ่าน}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "รายการเริ่มต้นสำหรับบทความที่คุณบันทึกไว้"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "ที่บันทึกไว้"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "การดำเนินการนี้ไม่สามารถยกเลิกได้ บทความใด ๆ ที่บันทึกไว้เฉพาะใน {{PLURAL:\\$1|รายการนี้|รายการเหล่านี้}} จะไม่ได้รับการบันทึก"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "ลบ {{PLURAL:\\$1|รายการ}} หรือไม่?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 บทความ}} และ {{PLURAL:\\$2|\\$2 รายการอ่าน}} ซิงค์จากบัญชีของคุณ"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "ไม่ได้ซิงค์รายการเนื่องจากถึงขีดจำกัดแล้ว"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "เรียงบทความที่บันทึกไว้"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "ธีมสีดำ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "ตัวเลื่อนปรับความสว่าง"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ธีมสีเข้ม"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ธีมสีอ่อน"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "ธีมซีเปีย"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "การเน้นไวยากรณ์"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "ตัวเลื่อนปรับขนาดข้อความ"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "การเน้นไวยากรณ์"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "ข้ามไปยังส่วนอ้างอิง"
+    },
+    {
+      "name": "reference_title",
+      "value": "แหล่งอ้างอิง \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=วันนี้|1=เมื่อวาน|\\$1 วันที่ผ่านมา}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 ชั่วโมง"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=เมื่อสักครู่|\\$1 ชั่วโมงที่ผ่านมา|\\$1 ชั่วโมงที่ผ่านมา}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 ชั่วโมงที่แล้ว"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=เมื่อสักครู่|\\$1 ชั่วโมงที่ผ่านมา}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=เมื่อสักครู่|\\$1 นาทีที่ผ่านมา}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 นาที"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=เมื่อสักครู่|\\$1 นาทีที่ผ่านมา|\\$1 นาทีที่ผ่านมา}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 นาทีที่แล้ว"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=เดือนนี้|1=เดือนที่แล้ว|\\$1 เดือนที่แล้ว}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 วินาที"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 วินาทีที่แล้ว"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ปีนี้|1=ปีที่ผ่านมา|\\$1 ปีที่ผ่านมา}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "ย้อนกลับ"
+    },
+    {
+      "name": "return_to_article",
+      "value": "ย้อนกลับไปที่บทความ"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "การแก้ไขที่ถูกย้อน"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "บทความทั้งหมด"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "ไม่สามารถลบรายการนี้ได้"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "ไม่สามารถดาวน์โหลดรูปภาพสำหรับหน้าที่บันทึกไว้นี้ได้"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "กำลังดาวน์โหลดบทความ..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "รายการอ่าน"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "ค้นหาบทความที่บันทึกไว้"
+    },
+    {
+      "name": "saved_title",
+      "value": "ที่บันทึกไว้"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "กำลังยกเลิกการบันทึก {{PLURAL:\\$1| บทความนี้จะลบออก|บทความเหล่านี้จะลบออก}} ออกจากรายการอ่านที่เกี่ยวข้องทั้งหมด"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "ยกเลิกการบันทึก {{PLURAL:\\$1|บทความ}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ค้นหาวิกิพีเดีย"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "ล้าง"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ค้นหาวิกิพีเดีย"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ลบการค้นหาล่าสุดทั้งหมด?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "การกระทำนี้ไม่สามารถยกเลิกได้!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ลบทั้งหมด"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ยังไม่มีการค้นหาล่าสุด"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "การค้นหาล่าสุด"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "เปลี่ยนทางจาก: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "ค้นหา"
+    },
+    {
+      "name": "settings_account",
+      "value": "บัญชี"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "การตั้งค่าการอ่าน"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "ล้างข้อมูลที่แคชไว้"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "การล้างข้อมูลที่แคชจะเพิ่มเนื้อที่ประมาณ \\$1 แต่จะไม่ลบหน้าที่บันทึกไว้ของคุณ"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "ล้างข้อมูลที่แคชไว้หรือไม่?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "ยกเลิก"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "ล้างแคช"
+    },
+    {
+      "name": "settings_donate",
+      "value": "บริจาค"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "วิธีใช้และคำติชม"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "แสดงภาษาในหน้าค้นหา"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "คุณสามารถจัดการภาษาที่จะแสดงบนฟีดสำรวจของคุณได้โดยปรับแต่งการตั้งค่าฟีดสำรวจของคุณ"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ภาษาของฉัน"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "การแจ้งเตือนแบบพุช"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "เกิดข้อผิดพลาดขณะตรวจสอบการสมัครรับการแจ้งเตือนที่เกี่ยวข้องกับบัญชีของคุณ"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ลองอีกครั้ง"
+    },
+    {
+      "name": "settings_off",
+      "value": "ปิดใช้งาน"
+    },
+    {
+      "name": "settings_on",
+      "value": "เปิด"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "หลัก"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "ภาษาแรกที่อยู่ในรายการนี้จะถูกใช้เป็นภาษาหลักสำหรับแอปนี้"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "ตั้งค่าแอปให้เปิดไปที่แท็บค้นหาแทนแท็บสำรวจ"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "เปิดแอปบนแท็บค้นหา"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "อนุญาตให้วิกิมีเดียบันทึกบทความและรายการอ่านที่คุณบันทึกไว้ตามความต้องการผู้ใช้ของคุณเมื่อคุณเข้าสู่ระบบและซิงค์"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "ซิงค์บทความและรายการที่บันทึกไว้"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "รายการอ่านของคุณจะถูกซิงค์ในเบื้องหลัง"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "ปรับปรุงบทความที่ซิงค์และรายการอ่านของคุณ"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "ปรับปรุงรายการอ่านที่ซิงค์"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "แสดงรายการอ่านที่บันทึกไว้ (เช่น ค่าเริ่มต้น) เป็นรายการแยกต่างหากในมุมมองรายการอ่านของคุณ รายการนี้ปรากฏบนอุปกรณ์แอนดรอยด์"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "แสดงรายการอ่านที่บันทึกไว้"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "การจัดเก็บบทความและการซิงค์"
+    },
+    {
+      "name": "settings_title",
+      "value": "การตั้งค่า"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "การปิดสรุปรอบปีจะล้างข้อมูลเชิงลึกส่วนบุคคลที่บันทึกไว้และซ่อนสรุปรอบปีของคุณ"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "ทําด้วยแอปวิกิพีเดีย"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" บน Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "กำลังสร้างการ์ดแบ่งปันเรื่องน่ารู้"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” จาก “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nจาก “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "ขอเส้นทาง"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "แบ่งปัน"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "ผ่านวิกิพีเดีย"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "เปิดในแผนที่"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” ผ่านทางวิกิพีเดีย: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” ผ่านทาง Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "ที่เพิ่งเพิ่มล่าสุด"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "ชื่อเรื่อง"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "การแก้ไขที่แนะนำ"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "เลือกตัวเลือกอย่างน้อย 1 รายการ"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "อื่น ๆ"
+    },
+    {
+      "name": "survey_submit",
+      "value": "ส่ง"
+    },
+    {
+      "name": "survey_title",
+      "value": "เหตุผล"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "สารบัญ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ปิด"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "ปิดสารบัญ"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "เนื้อหา"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "ซ่อนสารบัญ"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "ลำดับที่ \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "ปิดแท็บ"
+    },
+    {
+      "name": "tabs_empty_view_subtitle",
+      "value": "แตะ \"+\" เพื่อเพิ่มแท็บมาที่พื้นที่นี้หรือแตะค้างไว้ที่ลิงก์บทความเพื่อเปิดในแท็บใหม่"
+    },
+    {
+      "name": "tabs_empty_view_title",
+      "value": "แท็บของคุณจะแสดงที่นี่"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "ซ่อนการแนะนำบทความ"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 แท็บ}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "เปิดแท็บ"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "แสดงการแนะนำบทความ"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "ซ่อนการแนะนำแล้ว"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "ช่วยเราปรับปรุงแท็บโดยบอกเราหน่อยว่าพอใจกับฟีเจอร์หรือไม่"
+    },
+    {
+      "name": "tabs_thumbnail_description",
+      "value": "สำรวจวิกิพีเดีย สารานุกรมเสรีที่ใครก็แก้ไขได้"
+    },
+    {
+      "name": "tabs_thumbnail_subtitle",
+      "value": "เริ่มต้นการค้นหาของคุณที่นี่"
+    },
+    {
+      "name": "tabs_title",
+      "value": "แท็บ"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|ผู้ใช้ที่ใช้งานอยู่ \\$1}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "เพิ่มหัวข้อ"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "กรุ"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "เกี่ยวกับหน้าพูดคุย"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "เปลี่ยนภาษา"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "ยุบเธรด"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "อ่านแล้ว"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "ยังไม่ได้อ่าน"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "แอปได้รับการตอบกลับที่ไม่คาดคิดจากเซิร์ฟเวอร์ โปรดลองอีกครั้งในภายหลัง"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "ข้อผิดพลาดที่ไม่คาดคิด"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "มีอะไรบางอย่างผิดพลาด"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "ไม่สามารถโหลดหน้าพูดคุยได้"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "ขยายเธรด"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "ค้นหาในหน้า"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "เปิดเธรดทั้งหมด"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "โปรดใจกว้าง"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "เผยแพร่การตอบกลับของคุณเรียบร้อยแล้ว"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "การอภิปรายของคุณได้เผยแพร่เรียบร้อยแล้ว"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "แตะสองครั้งเพื่อกลับไปตอบกลับ"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "ตัวเลือกหน้าพูดคุยเพิ่มเติม"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "สารสนเทศหน้า"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "ลิงก์ถาวร"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "อ่านในเว็บ"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "หน้าที่ลิงก์มา"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 ตอบกลับ}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "ตอบกลับ"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "ตอบกลับ \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "ตอบกลับ \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "ประวัติหน้า"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "ปิดมุมมองตอบกลับ"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "แบ่งปันหน้าพูดคุย"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "สมัครรับ"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "คุณจะได้รับการแจ้งเตือนเกี่ยวกับความเห็นใหม่ในหัวข้อนี้"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "คุณได้สมัครรับแล้ว!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "การสมัครรับหัวข้อล้มเหลว โปรดลองอีกครั้ง"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "พูดคุยบทความ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "พูดคุยกับผู้ใช้"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "เลิกสมัครรับ"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "คุณจะไม่ได้รับการแจ้งเตือนเกี่ยวกับความเห็นใหม่ในหัวข้อนี้อีกต่อไป"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "คุณได้ยกเลิกการสมัครรับแล้ว"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "การยกเลิกการสมัครหัวข้อล้มเหลว โปรดลองอีกครั้ง"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "เกี่ยวกับหน้าพูดคุยนี้"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "ส่วนร่วม"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "ไม่พบหน้ากรุ"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "กรุ"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "อ่านเพิ่มเติม"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "ความเห็นของคุณถูกเพิ่มแล้ว"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "แก้ไขต่อไป"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "แก้ไขต้นฉบับ"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "หน้าพูดคุยเป็นหน้าที่ที่ผู้คนพูดคุยกันถึงวิธีการสร้างเนื้อหาบนวิกิพีเดียให้ดีที่สุดเท่าที่จะทำได้ **เริ่มต้นด้วยการเพิ่มหัวข้อการอภิปรายใหม่** เพื่อเชื่อมต่อและทำงานร่วมกับชุมชนชาววิกิพีเดีย"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "หน้าพูดคุยเป็นหน้าที่ที่ผู้คนพูดคุยกันถึงวิธีการสร้างเนื้อหาบนวิกิพีเดียให้ดีที่สุดเท่าที่จะทำได้ เริ่มการอภิปรายใหม่เพื่อเชื่อมต่อและทำงานร่วมกับ \\$1 สิ่งที่คุณพูดที่นี่จะถูกเปิดเผยต่อสาธารณะเพื่อให้ผู้อื่นเห็น"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "เพิ่มหัวข้อใหม่"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "เริ่มการอภิปรายใหม่"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "เริ่มต้นการอภิปรายที่นี่"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "เริ่มการอภิปรายด้วย \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการตอบกลับใหม่นี้?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "เพิ่มหัวข้อของคุณแล้ว"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "คำอธิบาย"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "คำอธิบายหัวข้อ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "ยกเลิกการตอบกลับ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "ยกเลิกหัวข้อ"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกหัวข้อใหม่นี้?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "หัวข้อ"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "ชื่อหัวข้อ"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "หน้าคุยเป็นที่ที่ผู้คนคุยกันถึงวิธีสร้างเนื้อหาบนวิกิพีเดียให้ดีที่สุดเท่าที่จะทำได้ เพิ่มหัวข้ออภิปรายใหม่เพื่อเชื่อมต่อและทำงานร่วมกับชุมชนชาววิกิพีเดีย\n\nกรุณาใจดี เราทุกคนต่างก็เป็นมนุษย์ที่นี่"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "หน้าพูดคุยคือที่ที่คน \\$1 พูดคุยถึงวิธีการสร้างเนื้อหาบนวิกิพีเดียให้ดีที่สุดเท่าที่จะทำได้ \\$1 เพิ่มหัวข้ออภิปรายใหม่เพื่อเชื่อมต่อและทำงานร่วมกับชุมชนชาววิกิพีเดีย"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "กรุณาใจดี เราทุกคนต่างก็เป็นมนุษย์ที่นี่"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "หน้าพูดคุย"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "กลุ่มผู้ใช้"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "ปูม"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "พูดคุย"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ดำ"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "มืด"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "ค่าปริยาย"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "ตามธีมระบบ"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "สว่าง"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "ซีเปีย"
+    },
+    {
+      "name": "today_title",
+      "value": "วันนี้"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "เรียนรู้สิ่งที่โลกกำลังอ่านในวันนี้บนวิกิพีเดีย"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "ผู้อ่าน \\$1"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "อ่านมากที่สุด"
+    },
+    {
+      "name": "try_now_title",
+      "value": "ลองตอนนี้"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "สอนใช้งาน"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "เข้าสู่ระบบต่อ"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "โปรดระบุรหัสยืนยันอีเมล"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "เข้าสู่ระบบต่อ"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "โปรดกรอกรหัสการยืนยันตัวตนสองขั้นตอน"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "เข้าสู่ระบบบัญชีของคุณ"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "ใช้รหัสสำรองของคุณรหัสใดรหัสหนึ่ง"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "ใช้รหัสการยืนยันตัวตนสองขั้นตอน"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "ไม่สามารถโหลดหน้าพูดคุยได้"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "ไม่ทราบ"
+    },
+    {
+      "name": "unwatch",
+      "value": "เลิกเฝ้าดู"
+    },
+    {
+      "name": "user_title",
+      "value": "ผู้ใช้"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "ดำเนินการต่อ"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "ชื่อผู้ใช้และหน้าผู้ใช้"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "คำเตือน"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "ไม่ขอบคุณ"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "ตรวจสอบการตั้งค่าของคุณ"
+    },
+    {
+      "name": "watch",
+      "value": "เฝ้าดู"
+    },
+    {
+      "name": "watchlist",
+      "value": "รายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณเป็นเวลา 1 เดือน"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณเป็นเวลา 1 สัปดาห์"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณเป็นเวลา 1 ปี"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณถาวร"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณเป็นเวลา 6 เดือน"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "เพิ่มเข้ารายการเฝ้าดูของคุณเป็นเวลา 3 เดือน"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "ดูรายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 ไบต์}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 เดือน"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 สัปดาห์"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 ปี"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "ถาวร"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 เดือน"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 เดือน"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "เลือกช่วงเวลารายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "รายการเฝ้าดูหมดอายุ"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "ไปที่ต่าง"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "ความย่อการแก้ไข"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "ค้นหาบทความ"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "คุณไม่มีรายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "บทความที่คุณเพิ่มเข้าในรายการเฝ้าดูจะปรากฏที่นี่"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "หน้าจะยังคงอยู่ตามค่าเริ่มต้น แต่มีตัวเลือกสำหรับการรับชมชั่วคราวตั้งแต่หนึ่งสัปดาห์ถึงหนึ่งปี"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "กำหนดวัน"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "ตัวกรอง"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "กิจกรรมรายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "การเปลี่ยนแปลงที่เห็นแล้ว"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "การเปลี่ยนแปลงที่ยังไม่เห็น"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "การมีส่วนร่วมอัตโนมัติ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "บอต"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "มนุษย์ (ไม่ใช่บอต)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "รุ่นล่าสุด"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "รุ่นล่าสุด"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "ไม่ใช่รุ่นล่าสุด"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "ความสำคัญ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "การแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "ไม่ใช่การแก้ไขเล็กน้อย"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "ประเภทของการเปลี่ยน"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "การเปลี่ยนแปลงหมวดหมู่"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "การกระทำที่ลงบันทึก"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "การสร้างหน้า"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "การแก้ไขหน้า"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "การแก้ไขวิกิสนเทศ"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "การลงทะเบียนผู้ใช้และประสบการณ์"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "ลงทะเบียน"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "ไม่ได้ลงทะเบียน"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "เพิ่มภาษา..."
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับรายการเฝ้าดู"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "แนะนำรายการเฝ้าดูของคุณ"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "นำออกจากรายการเฝ้าดูของคุณแล้ว"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "ส่งคำ 'ขอบคุณ' ไปยัง \\$1 แล้ว"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "รายการเฝ้าดูเป็นเครื่องมือที่ช่วยให้คุณติดตามการเปลี่ยนแปลงที่ทำกับหน้าหรือบทความที่คุณสนใจ"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "ติดตามการเปลี่ยนแปลง"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "รายการเฝ้าดูของหน้าที่คุณเพิ่ม เช่น การแก้ไขหรือการอภิปราย สามารถเข้าถึงได้ผ่านการตั้งค่า → บัญชี"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "ดูการปรับปรุง"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "ขอบคุณ"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "เรื่องผู้ใช้ที่มีส่วนร่วม"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "หน้าผู้ใช้"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "หน้าพูดคุยของผู้ใช้"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "เมื่อแตะที่ดาวหรือกระทำ \"ดู\" ในแถบเครื่องมือด้านล่างของบทความ คุณจะสามารถเพิ่มหน้านั้นลงในรายการเฝ้าดูของคุณได้"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "เฝ้าดูบทความ"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "ข้อมูลและความเป็นส่วนตัว"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "บทความแนะนำประจำวันจากชุมชนของเรา"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "ฟีดสำรวจ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "ย้อนเวลากลับไปเพื่อเรียนรู้ว่าเกิดอะไรขึ้นในเวลาที่ผ่านมา"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "วันนี้ในอดีต"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "ค้นพบสถานที่สำคัญที่อยู่ใกล้คุณ หรือค้นหาสถานที่ต่าง ๆ จากทั่วทุกมุมโลก"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "แท็บสถานที่"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "เริ่มต้นใช้งาน"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "วีธีใหม่ในการสำรวจ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "เข้าใจแล้ว"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "วิกิพีเดียนั้นร่วมกันเขียนขึ้นโดยอาสาสมัครและมีบทความมากกว่า 40 ล้านบทความในกว่า 300 ภาษา"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับวิกิพีเดีย"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "เกี่ยวกับวิกิพีเดีย"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "วิกิพีเดียเป็นโครงการสร้างสารานุกรมเสรีในทุกภาษาทั่วโลก ใครก็ตามที่มีการเข้าถึงอินเทอร์เน็ตสามารถเข้าร่วมได้อย่างเสรีด้วยการร่วมให้ข้อมูลที่เป็นกลางและมีแหล่งอ้างอิง"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "สารานุกรมเสรี"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "เพิ่มภาษาอื่น"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "เพิ่มหรือแก้ไขภาษาตามที่ต้องการ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "เราได้พบภาษาดังต่อไปนี้บนอุปกรณ์ของคุณ:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "ค้นหาในกว่า 300 ภาษา"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "เราเชื่อว่าคุณไม่จำเป็นต้องให้ข้อมูลส่วนบุคคลเพื่อที่จะมีส่วนร่วมในการเผยแพร่ความรู้เสรี ข้อมูลการใช้งานแอปนี้จึงไม่มีการระบุตัวตน"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "เรียนรู้เพิ่มเติมเกี่ยวกับนโยบายความเป็นส่วนตัวและเงื่อนไขการใช้งาน"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "สำรวจสิ่งที่เกิดขึ้นในวันนี้ในประวัติศาสตร์"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "สารานุกรมเสรีที่ทุกคนสามารถแก้ไขได้"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "วิกิพีเดียเป็นสารานุกรมเนื้อหาเสรีเผยแพร่ทางออนไลน์"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "กำลังดึงตัวอย่างการเปลี่ยนแปลงของคุณ..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ลิงก์นี้นำไปยังเว็บไซต์ภายนอก: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "แหล่งข้อมูลอื่น"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "วิกิพีเดียไม่มีบทความที่มีชื่อนี้"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "ไม่พบลิงก์ภายใน"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "ลิงก์นี้นำไปยัง '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "แสดงตัวอย่างลิงก์"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "บันทึกการเปลี่ยนแปลง"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "เกิดข้อผิดพลาดการทวนสอบ CAPTCHA"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "ต้องการการทวนสอบ CAPTCHA"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ไม่สามารถกำหนดผลการอัปโหลดข้อความวิกิได้"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "กำลังเผยแพร่..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "การแก้ไขจะเกิดจากที่อยู่ไอพีของอุปกรณ์ของคุณ หากคุณ\\$1เข้าสู่ระบบ\\$2คุณจะมีความเป็นส่วนตัวมากขึ้น"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "การแก้ไขจะถูกส่งผ่านที่อยู่ไอพีของอุปกรณ์ของคุณ คุณจะมีความเป็นส่วนตัวมากขึ้นหากคุณ\\$1"
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "ในการเผยแพร่การเปลี่ยนแปลง คุณยอมรับ\\$1นโยบายการใช้งาน\\$2และตกลงจะไม่เพิกถอนการเผยแพร่งานของคุณภายใต้สัญญาอนุญาต\\$3ครีเอทีฟคอมมอนส์ อ้างอิงแหล่งที่มา-อนุญาตอย่างเดียวกัน 4.0\\$4และ\\$5สัญญาอนุญาตเสรีของกนู\\$6 คุณยอมรับว่าลิงก์ที่คุณให้นั้นเพียงพอต่อการอ้างอิงแหล่งที่มาภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "ข้อกำหนดการใช้งาน"
+    },
+    {
+      "name": "year_in_review_articles_slide_subtitle",
+      "value": "นี่คือบทความที่คุณเข้าอ่านบ่อยที่สุดในปี 2025:\n\\$1"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "หัวใจสำคัญและจิตวิญญาณของวิกิพีเดีย คือชุมชนอาสาสมัครผู้ร่วมสร้าง ผู้บริจาค และผู้อ่านนับพันล้านคนทั่วโลกเช่นคุณ ซึ่งทุกคนรวมใจเป็นหนึ่งเพื่อแบ่งปันและมอบการเข้าถึงข้อมูลที่เชื่อถือได้อย่างไร้ขีดจำกัด"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "ผู้แก้ไขบทแอปอย่างเป็นทางการของวิกิพีเดียแก้ไขรวมทั้งสิ้น {{PLURAL:\\$1|\\$1 ครั้ง}}"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "บทความต่าง ๆ ถูกเขียนและปรับปรุงร่วมกันด้วยแหล่งอ้างอิงที่น่าเชื่อถือ แต่ละคนก็มีความรู้ที่จะแบ่งปัน [ดูวิธีการมีส่วนร่วมที่นี่](\\$1)"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "วิกิพีเดียถูกแก้ไข {{PLURAL:\\$1|\\$1 ครั้ง}}ต่อนาที"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "วิกิพีเดียมี {{PLURAL:\\$1|\\$1 บทความ}}ในกว่า {{PLURAL:\\$2|\\$2 ภาษา}}ที่ยังเปิดให้บริการอยู่ คุณได้ร่วมกับคนอีกนับล้านเพื่อเพิ่มพูนและสำรวจหัวข้อที่หลากหลาย"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "วิกิพีเดียมีมากกว่า {{PLURAL:\\$1|\\$1 ภาษา}}"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "คุณสามารถเข้าถึงบทความได้แม้ไม่ได้เชื่อมต่ออินเตอร์เน็ตโดยการบันทึกไว้ในรายการอ่าน และใช้รายการเดียวกันนี้ในอุปกรณ์อื่น ๆ ได้เพียงเข้าสู่ระบบ"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "ผู้ใช้แอปได้บันทึกบทความไว้กว่า {{PLURAL:\\$1|\\$1 รายการ}}"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "สำหรับผู้คนทั่วโลก วิกิพีเดียเป็นที่แรกในการตอบคำถาม หาข้อมูลสำหรับส่งงานในโรงเรียนหรือที่ทำงาน หรือไว้เรียนรู้อะไรใหม่ ๆ"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "ผู้ใช้แอปอ่านบทความวิกิพีเดีย {{PLURAL:\\$1|\\$1 ครั้ง}}"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "รวบยอดประจำปี"
+    },
+    {
+      "name": "year_in_review_categories_slide_subtitle",
+      "value": "บทความที่มีหัวเรื่องคล้ายกันจะถูกจัดในหมวดหมู่ต่าง ๆ ในปี 2025 นี้ คุณได้อ่านบทความในหมวดหมู่เหล่านี้หลายต่อหลายครั้ง\n\n\\$1"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "ภาพเคลื่อนไหวแสดงหน้าจอคอมพิวเตอร์ที่มีเบราว์เซอร์เปิดไว้กำลังเลื่อนผ่านบทความวิกิพีเดียต่าง ๆ"
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "ภาพของชิ้นตัวต่อวิกิพีเดียสองตัวกำลังแบกกล่องสีฟ้า แสดงถึงสารสนเทศ"
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "ภาพวาดเคลื่อนไหวของหินที่สลักเป็นสัญลักษณ์แสดงถึงภาษาหลายภาษา สื่อถึงการที่วิกิพีเดียมีการร่วมมือกันเพื่อสร้างแหล่งความรู้จากหลายวัฒนธรรมและภูมิภาค"
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "ชิ้นตัวต่อรูปโลกแสดงโลโก้ของวิกิพีเดีย สื่อถืงการมีส่วนร่วมกันจากทั่วโลก"
+    },
+    {
+      "name": "year_in_review_contributor_gift_subtitle",
+      "value": "หากคุณไม่ต้องการเปิดในตอนนี้ คุณยังสามารถเข้าถึงได้ภายในหลังในการตั้งค่าธีม"
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "เปิดใช้ไอคอนแอปใหม่"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_donor_updated",
+      "value": "ขอบคุณคุณร่วมที่ลงทุนในอนาคตของความรู้เสรี\n\nการมีส่วนร่วมของคุณในฐานะผู้บริจาคในปี \\$1 กำลังช่วยปูทางสู่โลกแห่งสารสนเทศเสรี และเพื่อขอบคุณคุณได้รับไอคอนผู้มีส่วนร่วมสำหรับวิกิพีเดียในหน้าจอโฮมของคุณ"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_and_donor_updated",
+      "value": "ขอบคุณคุณร่วมที่ลงทุนในอนาคตของความรู้เสรี\n\nการมีส่วนร่วมของคุณในฐานะผู้บริจาคและผู้แก้ไขในปี \\$1 ช่วยปูทางสู่โลกแห่งสารสนเทศเสรี และเพื่อขอบคุณคุณได้รับไอคอนผู้มีส่วนร่วมสำหรับวิกิพีเดียในหน้าจอโฮมของคุณ"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_updated",
+      "value": "ขอบคุณคุณร่วมที่ลงทุนในอนาคตของความรู้เสรี\n\nการมีส่วนร่วมของคุณในฐานะผู้แก้ไขในปี \\$1 กำลังช่วยปูทางสู่โลกแห่งสารสนเทศเสรี และเพื่อขอบคุณคุณได้รับไอคอนผู้มีส่วนร่วมสำหรับวิกิพีเดียในหน้าจอโฮมของคุณ"
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "ไอคอนแอปใหม่พร้อมใช้งานในหน้าจอโฮมของคุณแล้ว"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "วันศุกร์"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "วันจันทร์"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "วันเสาร์"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "วันอาทิตย์"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "วันพฤหัสบดี"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "วันอังคาร"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "วันพุธ"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "บริจาค"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "บริจาคเลยตอนนี้"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "ดูข้อมูลเชิงลึกเกี่ยวกับบทความที่คุณได้อ่านและแก้ไข และแบ่งปันไฮไลต์จากปีของเราบนวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "ดูข้อมูลเชิงลึกเกี่ยวกับบทความที่คุณได้อ่านบนแอปวิกิพีเดีย แบ่งปันการเดินทาง และดูไฮไลต์จากปีของคุณ"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "สำรวจรวบยอดประจำปี"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "สำรวจรวบยอดวิกิพีเดียปีนี้ของคุณ"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "วิกิพีเดียเป็นแหล่งความรู้ที่ใหญ๋ที่สุดเท่าที่มีมาในประวัติศาสตร์โลก และยังสามารถเข้าถึงได้ทุกคนจากที่ใดก็ตาม นี่คือปี 2024 จากมุมมองของวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "ดูข้อมูลเชิงลึกเกี่ยวกับบทความที่คุณอ่านและแก้ไขบนแอปวิกิพีเดียในช่วงปี 2024 ประวัติการอ่านของคุณถูกเก็บรักษาอย่างดีและข้อมูลเชิงลึกต่าง ๆ ถูกคำนวนและเก็บไว้ในอุปกรณ์ของคุณเท่านั้น"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_v3",
+      "value": "ดูข้อมูลเชิงลึกเกี่ยวกับบทความที่คุณอ่านบนแอปวิกิพีเดียและการแก้ไขที่คุณทำ"
+    },
+    {
+      "name": "year_in_review_feature_explore_footer_v3",
+      "value": "ประวัติการอ่านของคุณถูกเก็บรักษาอย่างดีและข้อมูลเชิงลึกต่าง ๆ ถูกคำนวนและเก็บไว้ในอุปกรณ์ของคุณเท่านั้น"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "เสร็จสิ้น"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "บทความที่อ่าน"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "จำนวนบทความที่อ่าน"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "แบ่งปันไฮไลต์"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "หมวดหมู่ที่ฉันสนใจ"
+    },
+    {
+      "name": "year_in_review_highlights_changes",
+      "value": "การเปลี่ยนแปลงที่ผู้แก้ไขทำ"
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "ชั่วโมงที่ใช้อ่าน"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "จำนวนรายการอ่านที่สร้าง"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "ความถี่ที่วิกิพีเดียถูกแก้ไข"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "{{PLURAL:\\$1|\\$1 ครั้ง}}ต่อนาที"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "บทความที่ถูกอ่านมากที่สุดในวิกิพีเดียภาษาอังกฤษ"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "วันที่คุณชอบอ่าน"
+    },
+    {
+      "name": "year_in_review_highlights_number_app_editors",
+      "value": "การแก้ไขบนแอป"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "บทความที่ฉันอ่านบ่อยที่สุด"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "นาทีที่ใช้อ่าน"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "โลโก้วิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "แล้วเจอกันใหม่ปีหน้า"
+    },
+    {
+      "name": "year_in_review_highlights_times_edited",
+      "value": "ครั้งที่แก้ไข"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "ขอบคุณที่ใช้เวลาของคุณในปีนี้กับวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "คุณสามารถเข้าถึงสรุปรอบปีนี้ได้ทุกเมื่อในโปรไฟล์"
+    },
+    {
+      "name": "year_in_review_intro_login_title",
+      "value": "เข้าสู่ระบบเพื่อปรับแต่ง"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "หมวดหมู่ที่สะกิดใจคุณที่สุด"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "ปลดล็อกรางวัลผู้มีส่วนร่วมของคุณได้ใหม่ปีหน้า"
+    },
+    {
+      "name": "year_in_review_noncontributor_slide_subtitle_updated",
+      "value": "เรายินดีที่วิกิพีเดียเป็นส่วนหนึ่งของปี \\$1 ของคุณ! มาปลดล็อกรางวัลพิเศษในสรุปรอบปี \\$2 ของคุณ ด้วยการเป็นผู้มีส่วนร่วม ไม่ว่าจะด้วย [การแก้ไขวิกิพีเดีย](\\$3) หรือการบริจาคผ่านแอปให้กับ[มูลนิธิวิกิมีเดีย](\\$4) ซึ่งเป็นองค์กรไม่แสวงผลกำไรที่อยู่เบื้องหลัง หากวิกิพีเดียมีประโยชน์ต่อคุณ โปรดพิจารณาบริจาคเพื่อช่วยสนับสนุนอนาคตของวิกิพีเดีย และช่วยให้วิกิพีเดียยังคงใช้งานได้ฟรี ไม่มีโฆษณา น่าเชื่อถือ และเข้าถึงได้สำหรับทุกคน หากคุณบริจาคผ่านช่องทางอื่น เราก็ขอขอบคุณสำหรับการสนับสนุนของคุณเป็นอย่างยิ่ง"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "วันที่คุณชอบอ่าน"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "เดือนที่คุณอ่านมากที่สุด"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "เวลาที่คุณชอบอ่านมากที่สุด"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "คุณมีรูปแบบการอ่านที่ชัดเจน"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "ขอขอบคุณที่ร่วมลงทุนในอนาคตของความรู้เสรี ปีนี้ มูลนิธิวิกิมีเดียได้ปรับปรุงเทคโนโลยีเพื่อให้บริการแก่ผู้อ่านและอาสาสมัครทุกท่านได้ดียิ่งขึ้น พัฒนาเครื่องมือที่ส่งเสริมการทำงานร่วมกัน และสนับสนุนวิกิพีเดียในภาษาที่หลากหลายมากขึ้น [เรียนรู้เพิ่มเติมเกี่ยวกับงานของเรา](\\$1)"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "ความเอื้อเฟื้อของคุณช่วยให้วิกิพีเดียยังอยู่ได้"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "ผู้อ่านทั่วโลกต่างซาบซึ้งในผลงานของคุณ ในช่วง 2 เดือนที่ผ่านมา บทความที่คุณแก้ไขถูกอ่านไป {{PLURAL:\\$1| \\$1 ครั้ง}} ผู้แก้ไขเช่นคุณช่วยให้วิกิพีเดียมีการปรับปรุง ตรวจสอบความถูกต้อง และเป็นแหล่งความรู้ที่เชื่อถือได้ ต้องขอบคุณคุณจริง ๆ"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "ไม่นานมานี้การแก้ไขของคุณถูกเห็นแล้ว {{PLURAL:\\$1|\\$1 ครั้ง}}"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_1",
+      "value": "ขอขอบคุณที่คุณเป็นหนึ่งในอาสาสมัครผู้แก้ไขที่สร้างความแตกต่างให้กับโครงการวิกิมีเดียทั่วโลก"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_2_updated",
+      "value": "อาสาสมัครเช่นคุณได้แก้ไข {{PLURAL:\\$1|\\$1 ครั้ง}}ในกว่า {{PLURAL:\\$2|\\$2 ภาษา}}ของวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "คุณแก้ไขไปทั้งสิ้น {{PLURAL:\\$1|\\$1 ครั้ง}}"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "ภาพเคลื่อนไหวประกอบที่แสดงมือข้างหนึ่งกำลังถือลูกโลกวิกิพีเดีย ซึ่งค่อย ๆ เปลี่ยนเป็นจิ๊กซอว์ชิ้นเล็ก ๆ ทีละน้อย อันเป็นสัญลักษณ์ของการมีส่วนร่วมของแต่ละบุคคลต่อแพลตฟอร์ม"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "คุณได้อ่านเกี่ยวกับ \\$2\\$1\\$3"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "คุณได้อ่านเกี่ยวกับ \\$3\\$1\\$4 และ \\$3\\$2\\$4"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "คุณได้อ่านเกี่ยวกับ \\$4\\$1\\$5 \\$4\\$2\\$5 และ \\$4\\$3\\$5"
+    },
+    {
+      "name": "year_in_review_personalized_location_title_format_updated",
+      "value": "บทความที่คุณอ่านใกล้เคียงกับ \\$1 มากที่สุด"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "บทความที่ติดใจคุณที่สุด"
+    },
+    {
+      "name": "year_in_review_personalized_reading_subtitle_format_v3_updated",
+      "value": "เราประมาณได้ว่าคุณใช้เวลาอ่านวิกิพีเดียใน **PERCENT** แรกของผู้อ่านทั่วโลก โดยประมาณแล้วแต่ละคนมักอ่านราว {{PLURAL:\\$1|\\$1 บทความ}}ต่อปี"
+    },
+    {
+      "name": "year_in_review_personalized_reading_title_v3_format_updated",
+      "value": "คุณใช้เวลาไป{{PLURAL:\\$1|\\$1 นาที}} เพื่ออ่าน {{PLURAL:\\$2|\\$2 บทความ}}ในปี \\$3"
+    },
+    {
+      "name": "year_in_review_personalized_saved_subtitle_format_v3_updated",
+      "value": "ซึ่งรวมถึงบทความ \\$1, \\$2, และ \\$3 บทความที่คุณบันทึกไว้แสดงถึงความสนใจและช่วยสร้างฐานความรู้ส่วนตัวบนวิกิพีเดีย\n\nผู้ที่ใช้แอปในปีนี้บันทึกบทความไว้กว่า {{PLURAL:\\$4|\\$4 รายการ}}"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "คุณได้บันทึก {{PLURAL:\\$1|\\$1 บทความ}}"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "ภาพประกอบเคลื่อนไหวที่แสดงไบต์ที่วางซ้อนกัน เป็นสัญลักษณ์ของการสร้างองค์ความรู้อิสระอย่างต่อเนื่อง"
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "นาฬิกาที่กำลังเดินเป็นสัญลักษณ์แทนเวลาที่ผู้คนใช้อ่านวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "ชิ้นส่วนปริศนาที่มีโลโก้ Wikimedia เดินเข้ามาจากด้านซ้าย"
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "ภาพประกอบที่มีชิ้นส่วนปริศนาวิกิพีเดียอยู่ข้าง ๆ ปากกา"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "นี่คือสรุปรอบปีในวิกิพีเดีย สร้างด้วยแอปวิกิพีเดียบน iOS"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "มีความเห็นเพิ่มเติมหรือไม่"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "เฉย ๆ"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "พึงพอใจ"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "ช่วยเราปรับปรุงฟีเจอร์สรุปรอบปีวิกิพีเดียโดยบอกเราหน่อยว่าคุณรู้สึกยังไงบ้างกับฟีเจอร์นี้ คุณอยากเห็นอะไรในปีหน้า"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "แบบสอบถามความพึงพอใจ"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "ไม่พึงพอใจ"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "พึงพอใจมาก"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "ไม่พึงพอใจมาก"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "บ่าย ๆ"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "เย็น ๆ"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "กลางดึก"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "เที่ยงวัน"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "ช่วงเช้า"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "ช่วงดึก"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "โลโก้ w ของวิกิพีเดีย"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "โลโก้มูลนิธิวิกิมีเดีย"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "เนื่องจากคุณอ่าน"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "บทความที่อ่านมากที่สุดทั้งหมด"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "บทความสุ่มอื่น"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "จากวิกิพีเดียภาษา%s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "บนวิกิพีเดียภาษา%s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "จากวิกิมีเดียคอมมอนส์"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ไม่มีประวัติที่จะแสดง"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "วันนี้"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ซ่อนการ์ดนี้"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "ปรับแต่งฟีดสำรวจ"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "ซ่อนการ์ดอยู่"
+    },
+    {
+      "name": "editor_published",
+      "value": "เผยแพร่การแก้ไขของคุณแล้ว"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "คำอธิบายบทความสำหรับ %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "คุณหมายถึง %s หรือเปล่า?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "บนวิกิพีเดีย HarmonyOS"
+    }
+  ]
+}

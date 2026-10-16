@@ -1,0 +1,208 @@
+{
+  "string": [
+    {
+      "name": "about_content_license",
+      "value": "დინორეშ ლიცენზია"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "ახალ CAPTCHA-შ მეღება."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "სისტემაშა მიშულა…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "ანგარიშიშ განწყუმალო უციო რე მახვარებუშ ჯოხოშ, პაროლიშ დო პაროლიშ გომაჟირაფაშ მეწურაფა."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "პაროლი ვაუხვადუ."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "იჩუალუაფუ…"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ნინაშ ფილტრი"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "გეგშაგორით ნინა"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "მაჯღონალი:"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ადრესატი"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "გეძინელი რსხუეფი"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "თე სტატია დიო ვა რე ჭარილი შხვა ნინაშა"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "შხვა ნინეფი ვა რე ხემიოჭირინაფუს"
+    },
+    {
+      "name": "error_unknown",
+      "value": "მეგორაფილი რე უჩინებუ ჩილათაშა."
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "გიშნაგორა სტატია"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "დღაშ გიშნაგორა სტატია ვიკიპედიას"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "ქაძირე ბართი „გიშნაგორა სტატია“"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "გიშნაგორა სტატია ვა რე ხემიოლუ თე თარიღიშო."
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "დობლასათო არძა ასერდეიანი ელემენტი?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "არძაშ ლასუა"
+    },
+    {
+      "name": "history_title",
+      "value": "ისტორია"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "კილიშკილშა ახალ ამბეეფს"
+    },
+    {
+      "name": "languages_title",
+      "value": "ნინეფი"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "აპლიკაცია \"ვიკიპედიაშ\" გეშა"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ვიკიპედიაშა მიშულა"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "გიშულა"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "მიშულირი რეთ მუჭო: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "კონფიდენციალურობა დო წესეფი"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "გოხოლუას"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "კონფიდენციალურობაშ პოლიტიკა"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "აპლიკაციაშ შეფასება"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "გჷმორინაფაშ წესეფი"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ხოლო"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero FAQ"
+    },
+    {
+      "name": "more_menu",
+      "value": "უმოსი"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "გიწოთოლორაფა"
+    },
+    {
+      "name": "saved_title",
+      "value": "ჩუალირი"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "გორუა ვიკიპედიას"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "დობლასათო ასერდე მუნათხუა გორუეფი?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "თე ქიმინჯუა ვეგიუქვებუ!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "არძაშ ლასუა"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ასერდე გორუნდით"
+    },
+    {
+      "name": "search_title",
+      "value": "გორუა"
+    },
+    {
+      "name": "settings_title",
+      "value": "პარამეტრეფი"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "სხუნუაშ ხასჷლეფი"
+    },
+    {
+      "name": "watchlist",
+      "value": "კონტროლიშ ერკებული"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "მიშნაღელი თირაფეფიშ გიწოთოლორაფაშ ძირაფა…"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA-შ დოდასურაფაშ ჩილათა.."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA-შ დოდასურაფაშ ოხვილჷ."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "იჩუალუაფუ..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "გჷმორინაფაშ წესეფი"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Contribudori"
+    },
+    {
+      "name": "about_libraries",
+      "value": "librarie doparae"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licensa"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Un prodoto de la \\$1, co el juto de vołontari come ti!"
+    },
+    {
+      "name": "about_repositories",
+      "value": "archivi"
+    },
+    {
+      "name": "about_title",
+      "value": "Informasion"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tradutori"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Tradoto dai volontari de \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fondasion Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "action_undo",
+      "value": "Desfare"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Xonta {{PLURAL:\\$1|voce|voci}} al'elenco de letura"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Descarga l'app de Wikipedia par esplorar i posti visin a ti, sincronixar i articoli par vardarli offline e personalixar la to esperiensa de letura."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Cata łéngua"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Sełesiona ła lengua"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Altre łéngue"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "No te ghe mia spasio sul to telefono par salvar l'articolo"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Sistemà la gramàtega"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Sistemà un becanoto"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Xontà dei link"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Come xe che te ghè mejorà ła voxe?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Sì, descançeła tuto"
+    },
+    {
+      "name": "languages_title",
+      "value": "Canbia łéngua"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Informasion so l'app"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Lòghite"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Deslòghite"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Aceso efetuà cofà: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privacy e condision"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Cuà rente"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Polìtega su la riservadessa"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Cuałifega l'aplicasion"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Condision de doparasion"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Piassè"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "FAQ de Wikipedia Zero"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Moi {{PLURAL:\\$1|voce|voci}} al'elenco de letura."
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Anteprima"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pié"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 miglia"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 da Wikipèdia in \\$2"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "La to lista '\\$1' ła xé sta sta renomenà en '\\$2'"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Rexalta ła sintasi"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Rexalta ła sintasi"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Serca su Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Scancela tuto"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" so @Wikipèdia Vèneta:"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Contegnùi"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publegasion..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Condision de dòpara"
+    }
+  ]
+}

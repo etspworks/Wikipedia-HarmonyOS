@@ -1,0 +1,1400 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ویکیپیڈیا"
+    },
+    {
+      "name": "about_content_license",
+      "value": "مواد کا اجازت نامہ"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "جب تک الگ سے بتایا نہ گیا ہو تب تک مواد \\$1 کے تحت دستیاب ہے۔"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": " کریئیٹیو کامنز انتساب / یکساں-شراکت اجازت نامہ"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ترمیم کنندگان"
+    },
+    {
+      "name": "about_libraries",
+      "value": "مستعملہ لائبریریاں"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "مکمل فہرست"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "اجازت نامہ"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "ہم کھلے ذرائع کے سافٹ ویئر \\$1 کو پسند کرتے ہیں"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "مقامات کے نقشوں کا اجازت نامہ"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "وہ مقامات جو ایپل کے فراہم کردہ نقشہ جات کے مطابق ہیں۔ \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "لائسنس کی معلومات کے لئے یہاں دیکھیں"
+    },
+    {
+      "name": "about_product_of",
+      "value": "اس اطلاقیے کو آپ جیسے رضاکاروں کی مدد سے \\$1 نے تیار کیا ہے"
+    },
+    {
+      "name": "about_repositories",
+      "value": "ذخائر"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "ماخذ کا کوڈ \\$1 کے تحت دستیاب ہے۔"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "ایم آئی ٹی اجازت نامہ"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "اپنے تاثرات بھیجیں"
+    },
+    {
+      "name": "about_title",
+      "value": "تعارف"
+    },
+    {
+      "name": "about_translators",
+      "value": "مترجمین"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 پر رضاکاروں نے ترجمہ کیا ہے"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ویکیمیڈیا فاؤنڈیشن"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ویکیپیڈیا"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "تصویر نہیں دیکھ سکے؟ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "نئی کیپچا حاصل کی جارہی ہے۔"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "درخواست برائے کھاتہ۔"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "کیپچا حفاظتی تفتیش"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "اپنا کھاتہ بنائیں"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "پہلے سے کھاتہ موجود ہے؟ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "داخل ہوں"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "داخل ہو رہے ہیں..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "کھاتہ بنانے کے لیے صارف کا نام، پاسورڈ اور پاسورڈ کی تصدیق فراہم کریں۔"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "پاسورڈ غلط ہے۔"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "محفوظ ہورہا ہے..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "نیا کھاتہ بنائیں"
+    },
+    {
+      "name": "account_group_title",
+      "value": "آپ کا کھاتہ"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "آپ کا تبادلۂ خیال صفحہ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "جمح کریں۔۔۔۔"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "فہرست مطالعہ میں شامل کریں"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "فہرست میں شامل کریں"
+    },
+    {
+      "name": "action_cancel",
+      "value": "منسوخ"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "صفحہ میں تلاش کریں"
+    },
+    {
+      "name": "action_move_to",
+      "value": "موو کریں۔۔۔"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "فہرست مطالعہ میں منتقل کریں"
+    },
+    {
+      "name": "action_read",
+      "value": "مطالعہ"
+    },
+    {
+      "name": "action_redo",
+      "value": "بحال"
+    },
+    {
+      "name": "action_remove",
+      "value": "حذف"
+    },
+    {
+      "name": "action_save",
+      "value": "محفوظ"
+    },
+    {
+      "name": "action_saved",
+      "value": "محفوظ ہو گیا"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "محفوظ شد۔ غیر محفوظ کرنے کے لیے فعال کریں۔"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "بعد کے لیے مضمون محفوظ ہو گیا"
+    },
+    {
+      "name": "action_share",
+      "value": "دوسروں کو بھیجیں"
+    },
+    {
+      "name": "action_sort",
+      "value": "مرتب کریں"
+    },
+    {
+      "name": "action_undo",
+      "value": "رد"
+    },
+    {
+      "name": "action_unsave",
+      "value": "غیر محفوظ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "مضمون غیر محفوظ کر دیا گیا"
+    },
+    {
+      "name": "action_update",
+      "value": "تجدید"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "فہرست مطالعہ میں {{PLURAL:\\$1|\\$1 مضمون|\\$1 مضامین}} کو شامل کریں"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "بند کریں"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ویکیپیڈیا، حوالہ، ویکی، دائرۃ المعارف، خبر، علم، تحقیق، معلومات، تلاش، مطالعہ"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "آزاد دائرۃ المعارف"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "مضمون کے متن کا حجم متعین کریں"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "جدول کھولیں"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "جدول کی ترتیبات"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "پوشاک کے اختیارات"
+    },
+    {
+      "name": "article_delete",
+      "value": "حذف کریں"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|مضمون حذف کر دیا گیا|مضامین حذف کر دیے گئے}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "زبان کو تلاش کریں"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "زبان منتخب کریں"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "دیگر زبانیں"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "آپ کی زبانیں"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "آپ کے ڈیوائس میں اس مضمون کو محفوظ کرنے کی جگہ نہیں ہے۔"
+    },
+    {
+      "name": "article_share",
+      "value": "دوسروں کو بھیجیں"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "واپس"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "واپس جانے کے لیے طک کریں"
+    },
+    {
+      "name": "button_next",
+      "value": "اگلا"
+    },
+    {
+      "name": "button_ok",
+      "value": "ٹھیک ہے"
+    },
+    {
+      "name": "button_publish",
+      "value": "شائع کریں"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "بگ کی رپورٹ کریں"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "بعد کے لیے محفوظ کریں"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "بعد کے لیے محفوظ شدہ"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "محفوظات سے حذف کریں"
+    },
+    {
+      "name": "button_skip",
+      "value": "آگے بڑھیں"
+    },
+    {
+      "name": "cancel",
+      "value": "منسوخ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "کریئیٹیو کام\n CC0"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "بند"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 بجے پر"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "مطالعہ کے لیے مزید مضامین تلاش کریں"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "کوئی حالیہ پڑھا گیا مضمون نہیں"
+    },
+    {
+      "name": "description_add_title",
+      "value": "وضاحت شامل کریں"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 کے لیے عنوان وضاحت"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "دیباچے میں ترمیم  کے ساتھ ہی  مجھے اپنی ترامیم کے ضمن میں \\$1 اور \\$2 کے تحت  ناقابل تنسیخ واگزاشت لائسنس کی شرائط سے مکمل اتفاق ہے۔"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "تعاوف میں ترمیم کریں"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "لیبل میں ترمیم کریں"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "انتہائی مختصر وضاحت ہی بہتر ہے"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "وضاحت شائع کریں"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "وضاحت میں ترمیم کریں"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "دیباچہ جامع اور مختصر رکھیں تاکہ پڑھنے والے پہلی نظر میں ہی عنوان اور نفس مضمون سے آگاہ ہو جائیں۔"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "عنوانات (مضامین) کی مختصر ترین وضاحتیں، قارئین کو مضمون کے موضوع کو ایک ہی نظر میں، سمجھنے میں معاون ہوتی ہیں۔"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "ہمارے بارے میں"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ویکی ڈیٹا سے متعلق"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "مزید معلومات"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "دنیا کا بلند ترین پہاڑ"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "بطور مثال:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "تکمیل"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "اس کو مختصر رکھیں"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "مضامین کی مختصر ترین وضاحتیں، قارئین کو مضمون کے موضوع کو ایک ہی نظر میں، سمجھنے میں معاون ہوتی ہیں۔"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "عنوان کی وضاحتیں"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "شروع کرنے سے قبل میں عہد لیتا ہوں کہ اس فیچر کا غلط استعمال نہیں کروں گا۔"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "ترمیم شروع کریں"
+    },
+    {
+      "name": "dim_images",
+      "value": "تصاویر کو کم روشن کریں"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "درستی قواعد"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "درستی املا"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "روابط شامل کیے"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "اس مضمون میں آپ نے کیا درستی کی؟"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "معاف کیجیے، مضمون کو لوڈ نہیں کیا جاسکا"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "آپ اب بھی اپنے محفوظ کردہ صفحات پڑھ سکتے ہیں"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "آپ اپنے سفارش کردہ مضامین کو اس وقت دیکھ سکتے ہیں جب آپ کے پاس انٹرنیٹ ہو۔"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "آپ یہاں کیا پڑھ رہے تھے، اسے ذہن میں رکھیے"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "دکھانے کے لیے کوئی تاریخچہ نہیں ہے"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "صفحات کو محفوظ کریں تاکہ انہیں بعد میں دیکھا جاسکے، آفلائن بھی"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ابھی تک کوئی صفحہ نہیں ہؤا"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "کوئی نتیجہ نہیں ملا"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ایک اور بے ترتیب مضمون"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "کیونکہ آپ نے پڑھا"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "اضافی متعلقہ مضامین"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "مطالعہ جاری رکھیں"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "منتخب مضمون"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "کارڈ پوشیدہ کریں"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "ویکیپیڈیا پر آج کا منتخب مضمون"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "بند"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "سب آن کریں"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "آن"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 زبانیں"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "تمام \\$1 کارڈ پوشیدہ"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "یہ کارڈ پوشیدہ کریں"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ویکیمیڈیا منصوبوں کا صفحہ اول"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ویکیپیڈیا پر آج"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "سب سے زیادہ پڑھے جانے والے مضامین"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "سب سے زیادہ پڑھا گیا"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 پر اوپر"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "قریبی مقامات"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "مقامات"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "آپ کا مقام"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے آپ کا مقام"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "آج کی تصویر"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "ویکی ذخائر سے"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "تصادفی مضمون"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "جستہ جستہ صفحات"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "غیر موافق کیپچا"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "دونوں پاس ورڈ یکساں نہیں ہیں"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "نادرست کوڈ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "یہ صارف نام دستیاب نہیں ہے"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "احتیاطی کوڈ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "کیپچا کا متن"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "اوپر موجود متن یہاں درج کریں"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ای میل"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ای میل (اختیاری)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "نیا پاس ورڈ دوبارہ درج کریں"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "نئے پاس ورڈ کی تصدیق کریں"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "نیا پاس ورڈ درج کریں"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "نیا پاسورڈ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "پاس ورڈ دوبارہ درج کریں"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "پاس ورڈ کی تصدیق کریں"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "پاس ورڈ درج کریں"
+    },
+    {
+      "name": "field_password_title",
+      "value": "پاس ورڈ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "توثیقی کوڈ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "صارف نام درج کریں"
+    },
+    {
+      "name": "field_username_title",
+      "value": "صارف نام"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "دوبارہ مرتب کریں"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "پاسورڈ تبدیل کریں"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "یا"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "کیا آپ تمام حالیہ مواد کو حذف کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "ہاں، تمام حذف کریں"
+    },
+    {
+      "name": "history_title",
+      "value": "تاریخچہ"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 سے کافی مشابہ"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "آپ کی لوکیشن کے قریب مزید جگہیں"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "زیادہ پاس \\$1 سے"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "مزید حالیہ واقعات"
+    },
+    {
+      "name": "home_title",
+      "value": "ایکسپلور"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "قریبی مضامین"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "تصادفی مضمون"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ویکیپیڈیا میں تلاش"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "نامعلوم تخلیق کار۔"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "سروے پُر کریں"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "مطالعہ کی فہرستیں' شیئر کریں ایک ٹیسٹنگ خصوصیت ہے اور اسے بہتر بنانے یا ہٹانے کے لیے ہمیں آپ کے تاثرات درکار ہیں۔"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "کیا آپ 'مطالعہ کی فہرستیں شیئر کریں' کو بہتر بنانے میں ہماری مدد کر سکتے ہیں؟"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 ویکیپیڈیا سے"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "ویکیپیڈیا سے"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "خبروں میں"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "وضاحت"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "وسط"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "بائیں"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "کوئی نہیں"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "دائیں"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "مزید معلومات"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "تصویر منتخب کریں"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "حسب ضرورت"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "طے شدہ"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "پک"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "تصویر کا حجم"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "ابتدائی"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "چوکٹھا"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "زبانیں"
+    },
+    {
+      "name": "languages_title",
+      "value": "زبان تبدیل کریں"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ویکیپیڈیا کی زبانیں"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "اپنا پاس ورڈ بھول گئے؟"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ویکیپیڈیا میں شامل ہوں"
+    },
+    {
+      "name": "login_no_account",
+      "value": "کیا آپ نے کھاتہ نہیں بنایا ہوا؟ \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "اپنے کھاتے سے لاگ ان ہوں"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ایپ کے بارے ميں"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "داخل ہوں"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "خارج ہوجائیں"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "کیا آپ یقینی طور پر خارج ہوجانا چاہتے ہیں؟"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "داخل شدہ بطور \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "رازداری اور شرائط"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "قریبی"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "اصول برائے اخفائے راز"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "ایپ کو گردانیے"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "استعمال کی شرائط"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "مزید"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ویکیپیڈیا زیرو عمومی سوالات"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ویکیپیڈیا کو تقریباً 300 زبانوں میں تلاش کریں۔"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "لسانیات کا اضافہ کریں"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "مطالعہ کی فہرست میں {{PLURAL:\\$1|\\$1 مضمون|\\$1 مضامین}} کو منتقل کریں"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "نمائش"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 فٹ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 کلو میٹر"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 میٹر"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 میل"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "آپ ایک عارضی پاسورڈ سے لاگ ان ہیں۔ لاگ ان کو مکمل کرنے کے لیے براہ مہربانی یہاں ایک نیا پاسورڈ سیٹ کریں۔"
+    },
+    {
+      "name": "new_password_title",
+      "value": "اپنا پاسورڈ سیٹ کریں"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "اپنے آلے پر ای میل کھاتہ کھول کر پھر سے کوشش کریں۔"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ابھی نہیں"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "اطلاع ناموں کو فعال کریں"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "تکمیل"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 بلین"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 ملین"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ہزار"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 سے \\$2 تک"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 تاریخی واقعہ|\\$1 تاریخی واقعات}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "اس دن کے مزید تاریخی واقعات"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "آج کے دن"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "آپ کے پاس اس صفحہ کو ترمیم کرنے کے حقوق نہیں ہیں"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "یہ محفوظ کردہ صفحہ ہے"
+    },
+    {
+      "name": "pictured",
+      "value": "تصویر"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "محقوظ شدہ تلاش مضامین صاف کر دیں"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 مضامین"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "اپنے مقام کو مرتکز کریں"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "بطور فہرست دکھائیں"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "بطور نقشہ دکھائیں"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "مزید مضامین دکھائیں"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "فلٹر"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "محفوظ شدہ مضامین"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "سب سے زیادہ پڑھا گیا"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 مضمون|\\$1 مضامین}}"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "کیا آپ کی مراد \\$1 ہے؟"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "حالیہ تلاش شدہ"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "تمام محفوظ شدہ مضامین"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "آپ کا موجودہ مقام"
+    },
+    {
+      "name": "places_title",
+      "value": "مقامات"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "نامعلوم فاصلہ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 کے لیے آج کی تصویر"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 کے لیے آج کی تصویر اخذ نہیں کی جاسکی"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ویکیمیڈیا کو اجازت دیں کہ وہ آپ کے اس ایپ کے استعمال کی معلومات حاصل کرے تاکہ اس ایپ کو مزید بہتر بنایا جا سکے۔"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "وضاحت"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "فہرست مطالعہ کا نام"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "نئی فہرست بنائیں"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "فہرست مطالعہ حذف کر دی گئی"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "مضامین مرتب کریں"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "اپنے محفوظ کردہ مضامین کو یکجا کرنے کے لیے لاگ ان کریں"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "لاگ ان کریں یا کھاتہ بنائیں"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "محفوظ کردہ مضامین کو یکجا کرنے لیے لاگ ان کریں"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "سیاہ تھیم"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ہلکا تھیم"
+    },
+    {
+      "name": "reference_title",
+      "value": "\\$1 حوالہ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "محفوظ صفحات کے لیے تصاویر کو کامیابی سے ڈاؤنلوڈ نہیں کیا جاسکا۔"
+    },
+    {
+      "name": "saved_title",
+      "value": "محفوظ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ویکیپیڈیا میں تلاش"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "حالیہ سبھی تلاشوں کو حذف کریں؟"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "اس عمل کو واپس نہیں کیا سکتا!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "سبھی کو حذف کریں"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "حالیہ تلاش شدہ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 سے رجوع مکرر ہوا ہے"
+    },
+    {
+      "name": "search_title",
+      "value": "تلاش"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "مدد اور ردعمل"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "تلاش ميں زبانوں کو دکھائیں"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "میری زبانیں"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ابتدائی"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "اس فہرست کی پہلی زبان ایپ کی بنیادی زبان کے طور پر استعمال کی گئی ہے۔"
+    },
+    {
+      "name": "settings_title",
+      "value": "ترجیحات"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "وکیپیڈیا ایپ کے ساتھ تشکیل دے دیا گیا"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia پر \"\\$1\":"
+    },
+    {
+      "name": "share_building",
+      "value": "اشتراک-حقائق کارڈ زیر تخلیق…"
+    },
+    {
+      "name": "share_email_format",
+      "value": "«\\$1»\n\nاز «\\$2»\n\n\\$3"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "شیئر…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "بتوسط @UrduWikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "نقشوں میں کھولیں"
+    },
+    {
+      "name": "share_social_format",
+      "value": "”\\$1“ بذریعہ ویکیپیڈیا: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "«\\$1» بتوسط @UrduWikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "عنوان"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "فہرست"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "بند کریں"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "فہرست بند کریں"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "مندرجات"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "سیاہ"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "تاریک"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "طے شدہ"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "بھورا"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "اپنے کھاتے میں لاگ ان ہوں"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "زیر نظر فہرست میں شامل رکھنے کی مدت کا انتخاب کیجیے"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "آج کے دن"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "شروع کریں"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "سمجھ ميں آیا"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "ویکیپیڈیا کے متعلق مزید معلومات حاصل کریں"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "ویکیپیڈیا کا تعارف"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "آزاد دائرۃ المعارف"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "دوسری زبان شامل کریں"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "تقریباً 300 زبانوں میں تلاش کریں"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "آپ کی تبدیلیوں کی نمائش دوبارہ حاصل کی جارہی ہے..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "ربط کی نمائش"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "کیپچا کی تصدیق میں خطا۔"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "کیپچا کی تصدیق ضروری۔"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "ویکی متن اپلوڈ کے نتیجے کا تعین نہیں کیا جا سکا۔"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "شائع ہورہا ہے۔۔۔"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "ترامیم کا انتساب آپ کے آلے کے دستور شبکی پتے کو جائے گا۔ اگر آپ \\$1 آپ کے پاس زیادہ نجی حیثیت رہے گی۔"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "استعمال کے شرائط"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "کیونکہ آپ نے پڑھا"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "سب سے زیادہ پڑھے جانے والے مضامین"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ایک اور بے ترتیب مضمون"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s ویکیپیڈیا سے"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "ویکی ذخائر سے"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "دکھانے کے لیے کوئی تاریخچہ نہیں ہے"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "کارڈ پوشیدہ کریں"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s کے لیے عنوان وضاحت"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "کیا آپ کی مراد %s ہے؟"
+    }
+  ]
+}

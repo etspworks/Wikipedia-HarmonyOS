@@ -1,0 +1,1860 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ويکيپېډيا"
+    },
+    {
+      "name": "about_content_license",
+      "value": "د منځپانگې منښتليک"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "منځپانگه د \\$1 منښتليک لاندې د لاسرسي وړ ده، خو دا چې بل ډول ويل شوي وي."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "د ټولگړې پنځونې ځانگړي‌کونگ-ورته شريکېدنې منښتليک"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ونډه وال"
+    },
+    {
+      "name": "about_libraries",
+      "value": "کارېدلي کتابتونونه"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "بشپړ لړليک"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "منښتليک"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "موږ د پرانېستې سرچينې په پوستغالي مين يو \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "د ځايونو د نخچو منښت"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "ځايونه د ايپل نخچو له خوا چمتو شويو نخچو نه کار اخلي.  \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "مهرباڼي وکړئ د منښتليک نور سپيناوي لپاره دلته وگورئ"
+    },
+    {
+      "name": "about_product_of",
+      "value": "د \\$1 له خوا ستاسې په څېر خپل‌خوښو په مرسته جوړ شوی"
+    },
+    {
+      "name": "about_repositories",
+      "value": "زېرمې"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "سرچينې کوډ د \\$1 سره سم د لاسرسي وړ دی."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "اېم‌آی‌ټي منښتليک"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "کاريال غبرگون لېږل"
+    },
+    {
+      "name": "about_title",
+      "value": "په اړه"
+    },
+    {
+      "name": "about_translators",
+      "value": "ژباړنان"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "په \\$1 کې د خپل‌خوښو لهٔ خوا ژباړل‌شوی"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "ويکيمېډيا بنسټ"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ويکيپېډيا"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "انځور نشې ليدلای؟ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "نوې کپچا ترلاسه کول..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "گڼون غوښتنه."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "د کپچا خونديتوب کتنه"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "گڼون مو جوړ کړئ"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "له مخکې څخه گڼون لرې؟ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "ننوتل"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "په ننوتلو کې دی..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "تاسو بايد کارن‌نوم، پټنوم او پټنوم تاييد وليکئ؛ ترڅو يو گڼون جوړ کړئ."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "د پټنوم ډگرونه سره ورته‌والی نه لري."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "خوندي کېږي..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "يو گڼون جوړول"
+    },
+    {
+      "name": "account_group_title",
+      "value": "ستاسو گڼون"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "گڼون له‌منځه‌وړل"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "د خبرواترو مخ"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "د شننو خپلکاره لاسليک"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "د شننو خپلکاره لاسليک به په لاسليک اوڼنو کې پېژندل شوی لاسليک وکاروي"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "د خبرو اترو مخ غوره‌توبونه"
+    },
+    {
+      "name": "action_add_to",
+      "value": "...ته ورگډول"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "لوستلړ ته ورگډول"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "لړليک ته ورگډول"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ناگارل"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "سمون غورځول"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "سمونونه غورځول"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "په مخ کې موندل"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "سمون روان ساتل"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ژبه بدلول"
+    },
+    {
+      "name": "action_move_to",
+      "value": "...ته لېږل"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "لوستلړ ته لېږل"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "راتلونکې بیاکتنه"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "مخکنۍ بیاکتنه"
+    },
+    {
+      "name": "action_read",
+      "value": "لوستل"
+    },
+    {
+      "name": "action_redo",
+      "value": "بياکړل"
+    },
+    {
+      "name": "action_remove",
+      "value": "لرې‌کول"
+    },
+    {
+      "name": "action_retry",
+      "value": "بيا هڅه‌کول"
+    },
+    {
+      "name": "action_save",
+      "value": "خوندي‌کول"
+    },
+    {
+      "name": "action_saved",
+      "value": "خوندي‌شو"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "خوندي‌شو. ناخوندي‌کولو لپاره کارندول"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "ليکنه د وروسته‌کتنې ته خوندي شوه"
+    },
+    {
+      "name": "action_share",
+      "value": "وېشل"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "وېشل"
+    },
+    {
+      "name": "action_sort",
+      "value": "اوډل"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "له کارن مننه"
+    },
+    {
+      "name": "action_undo",
+      "value": "ناکړل"
+    },
+    {
+      "name": "action_unsave",
+      "value": "ناخوندي‌کول"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "ليکنه ناخوندي‌شوې"
+    },
+    {
+      "name": "action_update",
+      "value": "هم‌مهالول"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "د پوهاوي لوړولو لپاره د ويکيپېډيا ليکنو ته وړانديز شوي انځورونه ورگډ کړئ."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "انځورونه ورگډول"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "کوم زياتي اندونه لرئ؟"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|\\$1 کتنه|\\$1 کتنې}}"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "دې مياشت کې لوستل شوې ليکنې"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "ليکنې"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "ټول مهاله اغېز"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "اندلورو سمون"
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "لوست پوه‌ليدونه ستاسو د کاريال ژبو پربنسټ په اوڼنو کې ده، او د سمون پوه‌ليدونه ستاسو د لومړني کاريال ژبې پورې محدودې دي. پوه‌ليدونه د سيمه‌ييزو اومتوکو څخه گټه پورته کوي، پرته له هغه سمونونو څخه چې ټولگړې دي."
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "کاريال کې وروستۍ بسپنه"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "د دې پوه‌ليد لپاره تاسو بايد ننوتلي ياست."
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "اندلورو لوستل"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "په لوستلو تېرشوی وخت"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "د چلند مهالوېش"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[سکرین‌شاټونه یا تړوني]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "زه د چارو ريښکې ځانگړنې سره ستونزې سره مخ شوی يم:"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[وړانديز شوی حل څرگندول]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [ځانګړې ستونزه تشریح کړئ]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "هغه چلند چې زه يې ليدل غواړم:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "ستونزې راپور - چارو ريښکه"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "د خپل پېښليک جوړولو لپاره لوستل او سمول پيل کړئ"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "ښودلو لپاره څه نشته"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "تاسو دا اوونۍ هېڅ ترميم نه دی کړی. د خپلو ونډو څارولو لپاره همدا اوس پيل کړئ."
+    },
+    {
+      "name": "activity_tab_hitory_callout_close",
+      "value": "د پېښليک خبرونې کارت تړل"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1hگړۍ \\$2دقيقې"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "په ويکي‌پېډيا آی‌او‌اېس"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "ټول مهاله اغېز"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 ورځ|\\$1 ورځې}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "غوره لړۍ"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "سمونونه"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "وروستی ځل سم‌شوی"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "ستاسو وروستۍ چارې (وروستۍ ۳۰ ورځې)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "له \\$1 څخه \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "مننه"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "ټولټال سمونونه"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "ورځ"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "د تاسو سمې‌کړو ليکنو ليدنې"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "کتنې"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "په ويکي‌پېډيا کاريال کې د خپلو چارو کتلو لپاره غونډال ته ننوځئ يا يو گنون جوړ کړئ."
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "د لوستلو او سمون نور مالومات وگورئ"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "لوست پېښليک سپاکول"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "ستاسو د سمون راهيسی ډېر ليدل‌شوي"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "بې‌پلو"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "تاسو دا اوونۍ هېڅ سمون نه دی کړی. د ليکنې د پوهېدو د ښه والي لپاره انځورونه ورگډ کړئ."
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "ستاسو لوست"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "وگورئ چې تاسو څومره وخت په لوستلو تېر کړی دی او کومې ليکنې يا سکالوگانې مو د وخت په تېرېدو سپړلې دي."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "د لوستلو نمونې"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "غوره کړئ چې کوم چلنوال ښکاره کړئ. ټول ځانواله اومتوکي ستاسو وسيله کې ځانواله پاتې کېږي او د پلټلو پېښليک هروخت سپا کېدی شي."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "کنترول کې اوسئ"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "چارو معرفي‌کول"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "د چارو اړوند نور زده کړئ."
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "د خپلو ونډو او هغه پوهې د لاسرسي په اړه پوه‌ليدونه ومومئ چې تاسو شريک کړې دي."
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "اغېزمن مهم‌ټکي"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_title_updated",
+      "value": "لوست پېښليک اوس په لټون کې دی"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "د لوست پېښليک کتل"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "خوښ"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "دې مياشت کې خوندي‌شوې ليکنې"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "سمون پيلول"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "د ډاډ ټولپوښتنه"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "د دې اوونۍ لوست وخت"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "چاره"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "د دې مياشتې غوره وېشنيزې"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "په ټولو پروژو کې ټول سمونونه"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "ناخوښ"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "\\$1 لوستل"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "ډېره خوښ‌"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "ډېر ناخوښ"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "سمون پېښليک کتل"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "د لوست پېښليک کتل"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "خوندي شوې ليکنې کتل"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "اوونۍ"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "تاسو په دې اوونۍ کې {{PLURAL:\\$1|\\$1 ځل|\\$1 ځله}} سم کړی."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "تاسو دې اوونۍ کې {{PLURAL:\\$1|\\$1 ليکنه ولوسته|\\$1ليکنې ولوستې}}."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "تاسو دې اوونۍ کې {{PLURAL:\\$1|\\$1 ليکنه خوندي کړې ده|\\$1ليکنې خوندي کړې دي}}."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "ستاسو اغېز"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1ليکنه|\\$1 ليکنې}} لوستلړ ته ورگډول"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "پرمختللې اوڼنې"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "تاسو یو لنډمهاله گڼون کاروئ. گڼون به په ۹۰ ورځو کې پای ته ورسېږي."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "نور زده کړئ"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "غبرگونونه سپارل‌شوې دي"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "تړل"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ويکيپېډيا، سرچينه، ويکي، پوهنغونډ، مالومات، پوهه، څېړنه، مالومات، سپړنه، زده‌کړه"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "په بشپړه توگه دوديزه او اسانه لوست وړ د سپړنې ليددړه.\nځايي کول، د چارو ترسره کولو ښه والی او تېروتنو اوارول."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "وړیا پوهنغونډ"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "د ليکنې ليک کچه برابرول"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "لښتيالونه غځول"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "لوست پوښۍ"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "لښتيال اوڼنې"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "کاريال نښه"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "پوښۍ خوښنې"
+    },
+    {
+      "name": "article_about_title",
+      "value": "د دې ليکنې په اړه"
+    },
+    {
+      "name": "article_delete",
+      "value": "ړنگول"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|ليکنه ړنگه شوه|ليکنې ړنگې شوې}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ژبه موندل"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ژبه ټاکل"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "نورې ژبې"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "ستاسې ژبې"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "نور لوستل"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "\\$1 سرچينه"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "مخ بياکتنې پېښليک"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "ستاسو وسيله دومره ځای نه لري چې دا ليکنه خوندي کړي"
+    },
+    {
+      "name": "article_share",
+      "value": "وېشل"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "ليکنې ريښکې"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "ډېرې ليکنې پرانېځئ او په خپلمنځي ډول يې په اسانۍ سره بدلې کړئ."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "ريښکو سره ښوول"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "له هغه ځايه يې پيل کړئ پرکوم ځای مو چې پرېښی و"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "تړوني د وروسته ليدلو لپاره خوندي‌کول"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "خپله نوې ريښکه ځانواله‌کول"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "د ريښکو په اړه نور زده‌کول"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "ريښکو پېژندون"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "ريښکو چلند"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "پرانېستل"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "په شاليد ريښکه کې پرانېستل"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "په نوې ريښکه کې پرانيستل"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "د ليکنې د خبرو اترو مخ"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "د لوست شاليدنو واگې"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "لنډمهاله گڼون جوړ شو:"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "پر شا کېدل"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "پرشاتگ لپاره وټوکئ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "پر شا تلل"
+    },
+    {
+      "name": "button_next",
+      "value": "راتلونکی"
+    },
+    {
+      "name": "button_ok",
+      "value": "ښه"
+    },
+    {
+      "name": "button_publish",
+      "value": "خپرول"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "بيا يې هم خپرول"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "تېروتنې خبر ورکول"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "د وروسته لوستلو لپاره خوندي کول"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "د وروسته لوستلو لپاره خوندي شو"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "له خوندي‌شوي لرې‌کول"
+    },
+    {
+      "name": "button_skip",
+      "value": "تېرېدل"
+    },
+    {
+      "name": "cancel",
+      "value": "ناگارل"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "د ويکيپېډيا کاريال وسمهال په کاريال کې د لومړنيو يا دوهمي ژبو په توگه لاندې چينايي وينگونه ملاتړ کوي، ستاسو د خوښې وړ وينگ کې لوستل، پلټل او سمول اسانه کوي:\n\n简体 چينايي، ساده‌شوې (zh-hans)\n香港繁體 هانکانگ دوديزه (zh-hk)\n澳門繁體 مکايو دوديزه (zh-mo)\n大马简体 مليزيا ساده‌شوې (zh-my)\n新加坡简体 سينگاپور ساده‌شوې (zh-sg)\n臺灣正體 تايوان دوديزه (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "د چينايي بلبڼې ملاتړ هم‌مهالول"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "سپينول"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "نيونگه سپاکول بشپړ شول."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "نيونگه سپاکول دوام لري."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "ټولې کړکۍ وتړئ"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "ټولې  \\$1 ريښکې وتړي؟"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "تړل"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "نورې ريښکې تړل"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "کړکۍ وتړي؟"
+    },
+    {
+      "name": "close_tabs",
+      "value": "ريښکې تړل"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 ريښکه تړل‌شوې ده|\\$1 ريښکې تړل‌شوې دي}}."
+    },
+    {
+      "name": "compass_direction",
+      "value": "په \\$1 بجو"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "ړنگول تایید کړئ"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "سيمه‌ييز پېښليک ړنگ‌شو"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "پرله‌پورې"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "په دې وروستيو کې هېڅ ليکنې نه دي لوستل شوي"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "د دې مياشتې ونډې"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "د کريميايي تاتاري بلبڼې ملاتړ هم‌مهالول"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "دوديزول"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "هم‌مهالول"
+    },
+    {
+      "name": "description_add_title",
+      "value": "څرگنداوی ورگډول"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 لپاره د ليکنې څرگنداوی"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "پېژندون سمول"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "ليکنې څرگنداوی سمول"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "لنډ څرگنداوي غوره دي"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "څرگنداوی خپرول"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "څرگنداوی سمول"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "هڅه وکړئ سپيناوی مو لنډ وي؛ ترڅو کارنان سملاسي د ليکنې په سکالو پوه شي"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "په اړه"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ويکي‌اومتوک په اړه"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "نور مالومات"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "د بېلگې په توگه:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "د څرگنداوي جوړولو لارښوونې"
+    },
+    {
+      "name": "description_help_title",
+      "value": "د ليکنې څرگنداوي لارښود"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "د ويکي‌اومتوک د څرگنداوي ليکنې لارښود"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "وشو"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "تاسو ويکي‌پېډيا د ټولو لپاره ښه کړه"
+    },
+    {
+      "name": "description_published_title",
+      "value": "څرگنداوی خپورشو!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "د بېلگې په توگه يوه کرښه، د دوو څخه تر دولسو ويوکو پورې"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "لنډ یې وساتئ"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "د لوستونکو پوهاوي لپاره د يوې ليکنې لنډيز وړاندې کوي"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ليکنې څرگنداوی"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "په پیل کې، زه ژمنه کوم چې له دې ځانگړنې نه ناوړه گټه نه اخلم"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "سمون پيلول"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "اجباري برېښليک تاييد"
+    },
+    {
+      "name": "developer_settings",
+      "value": "پراختياگر اوڼنې"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "بسپنې څه تېرېدل"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "کال بياکتنه چارنول"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "مخ بياکتنې پېښليک"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "زياتي، \\$1، زياتي پای."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "پخوانی سمون"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "بياکتنو پرتلنه"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "ښودل‌شوی سمون"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "بياکتنو پرتلنه"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "منځپانگه ورگډه‌شوې، \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 پرځول"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 غځول"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ښودل"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "پټول"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "بياکتنې وخت"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "کښته"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "پورته"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "شاگرځ"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "ايا تاسو ډاډه ياست چې د سمونونو شاگرځ وکړئ؟"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "سمونونو شاگرځ"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "سریزه"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "مننه!"
+    },
+    {
+      "name": "donate_title",
+      "value": "د پيسو ټاکل"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "زه به په سخاوتمندانه ډول د راکړې ورکړې فيسونو د پوره کولو لپاره \\$1 ورکړم؛ ترڅو تاسو زما د بسپنې ۱۰۰%% وساتئ."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "دوه‌گونې ريښکه"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "ليک ښکارېدنه"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "تړوني موخه"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "تړونی لرې‌کول"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "تړونی سمول"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "سمول"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "دا يو کوچنی سمون دی"
+    },
+    {
+      "name": "edit_notices",
+      "value": "يادښتونه سمول"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "مهرباني وکړئ د سمون دمخه یې ولولئ"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "د لنډمهاله گڼون خبرتيا"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ورگډې شوې تړنې"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "د ليکنو هم‌مهالولو کې جرئت وکړئ؛ خو بې پروا مه اوسئ. د تېروتنو کولو څخه مه وېرېږئ: د يو مخ هره بلبڼه خوندي کېږي؛ نو زموږ ټولنه کولی شي هغه تېروتنې په اسانۍ سره سمې کړي."
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "ستاسو سمون خپور شو."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "سرچينه سمول"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "باوري ياست چې سمون ونگ‌ډول مو له خپرولو پرته پرېښودل غواړئ؟"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "ايا تاسو ډاډه ياست چې دا سمون پرېښودل غواړئ؟"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "سمون ونگډودل رد کړي؟"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "هېڅ ورته والی و نه موندل شو"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "موندل"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "زغرد"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "ليک بڼلو غوره‌نۍ تړل"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "څرگندونه"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "سرليک"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "کوږوالی ووړول"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "کوږوالی لويول"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "رېوند"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "تړونی"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "ترتيب‌شوی لړليک"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "بې‌ترتيبه لړليک"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "پاراگراف"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "سرچينه"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "کرښ‌باندې"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "څېرمه سرليک ۱"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "څېرمه سرليک ۲"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "څېرمه سرليک ۳"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "څېرمه سرليک ۴"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "ټيټ‌ليک"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "جگ‌ليک"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "کينډۍ"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "ليک بڼل"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "کرښ‌لاندې"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "ځايناستول"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "ځايناستول سره د:"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "ټول ځايناستول"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "ځايناستول"
+    },
+    {
+      "name": "editor_title",
+      "value": "سمونگر"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "په مخ کې موندل"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "د انځور ليک بڼل"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "وبښئ، ليکنه رابرسېره نه شوه"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "لا تر اوسه پورې تاسو خوندي مخونه لوستلی شئ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "د ښکاره کولو لپاره کوم پېښليک نشته"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "لا تر اوسه پورې خوندي مخونه نشته"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "کومې پايلې و نه موندل شوې"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "غوره ليکنه"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "گول"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ټول بلول"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "بل"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "نن په ويکيپېډيا کې"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ټولې ډېرې لوستل شوې ليکنې"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ډېر لوستل شوي"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "نژدې ځايونه"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "ستاسې ځای"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "د نن ورځې انځور"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ناټاکلې ليکنه"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "برېښليک کوډ"
+    },
+    {
+      "name": "field_email_title",
+      "value": "برېښليک"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "برېښليک (اختياري)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "نوی پټنوم بيا دننه کړئ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "نوی پټنوم تاييدول"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "نوی پټنوم دننه‌کول"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "نوی پټنوم"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "پټنوم بيا دننه کړئ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "پټنوم تاييدول"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "پټنوم دننه‌کول"
+    },
+    {
+      "name": "field_password_title",
+      "value": "پټنوم"
+    },
+    {
+      "name": "field_token_title",
+      "value": "تاييد کوډ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "کارن‌نوم دننه‌کول"
+    },
+    {
+      "name": "field_username_title",
+      "value": "کارن‌نوم"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "ټول"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "موندل پاکول"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "د پټنوم بيااوڼلو لارښوونو سره يو برېښليک ولېږل شو"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "لوبول"
+    },
+    {
+      "name": "games_wcf_explore_complete_subtitle",
+      "value": "تاسو نننۍ لوبه کې \\$1/\\$2 نومرې ترلاسه کړې. راتلونکې لوبه په \\$3 وي"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "آيا ډاډمن يې چې خپل ټول وروستني توکي ړنگول غواړې؟"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "هو، ټول ړنگول"
+    },
+    {
+      "name": "history_title",
+      "value": "پېښليک"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "د \\$1 په څېر نور"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "د لوستلو ښې تجربې لپاره خپل د لوستلو غوره‌توبونه د ليک کچې او شاليد په شمول د ليکنې په توک پټه يا ستاسې کارن اوڼنو کې ترتيب کړئ."
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "نژدې ليکنې"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ناټاکلې ليکنه"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ويکيپېډيا پلټل"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "ناڅرگنده ليکوال."
+    },
+    {
+      "name": "languages_title",
+      "value": "ژبه بدلول"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "ويکيپېډيا سره يوځای شئ."
+    },
+    {
+      "name": "main_menu_about",
+      "value": "د کاريال په اړه"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "ننوتل"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "وتل"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "د \\$1 په توگه ورننوتئ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "نژدې"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "پټنتيا تگلار"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "کاريال ارزول"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "د کارولو منښتونه"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "نور"
+    },
+    {
+      "name": "main_page",
+      "value": "لومړی مخ"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "مخليدنه"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 گام"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 کیلومتر"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 متر"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 ميله"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "وشو"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "روباټ"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "د وخت په تېرېدو سره د سمونونو گراف"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "دا مخ ژغورل شوی"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 ليکنې|\\$1 ليکنې}}"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "د \\$1 د ورځې انځور"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=نن|1=پرون|\\$1 ورځې مخکې}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=په دې وروستيو کې|\\$1 گړۍ دمخه}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1گړۍ مخکې"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=په دې وروستيو کې|\\$1 گړۍ مخکې}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=اوس|\\$1 دقيقه مخکې|\\$1 دقيقې مخکې}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=همدا اوس|\\$1 دقيقه مخکې|\\$1 دقيقې مخکې}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 دقيقې مخکې"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=دا مياشت|1=تېره مياشت|\\$1 مياشتې مخکې}}"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 ثانيې مخکې"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=سږ کال|1=تېر کال|\\$1 کاله مخکې}}"
+    },
+    {
+      "name": "saved_title",
+      "value": "خوندي شو"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ويکيپېډيا پلټل"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "ټولې وروستنۍ پلټنې ړنگول؟"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "دا کړنه پر شا نه گرځول کېږي!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ټول ړنگول"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "تازه پلټل شوي"
+    },
+    {
+      "name": "search_title",
+      "value": "پلټل"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "زما ژبې"
+    },
+    {
+      "name": "settings_title",
+      "value": "اوڼنې"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" په ويکيپېډيا کې:"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "د ويکيپېډيا له لارې"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "نيوليک"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "تړل"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "منځپانگې"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "سکالو کې گډون‌کول نابرياله شو، مهرباني وکړئ بيا هڅه وکړئ."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "د سکالو ونډکښنې نه وتل نابرياله شو، مهرباني وکړئ وروسته بيا هڅه وکړئ."
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "ورکېدل يوه **وروستۍ چاره ده** او بايد **يوازې هغه وخت وکارول شي کله چې تاسو غواړئ د تل لپاره سمون پرېږدئ** او همدارنگه تر شوني بريده د ځان اړوند پخوانۍ اړيکې پټې کړئ.\n\nپه ويکيپېډيا کې گڼون ړنگول ستاسو د گڼون نوم بدلولو له لارې ترسره کېږي؛ ترڅو نور ستاسو ونډې ونه پېژني، دې چارې ته ورکېدل يا گڼون له منځه وړل وايي. **ورکېدل په پروژو کې په بشپړ ډول ستاسو د هويت او ونډو لرې کولو ډاډ نه درکوي**."
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "۱ کال"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "د کتنلړ وخت موده غوره‌کول"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "پيلول"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "وپوهېدم"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "بله ژبه ورگډول"
+    },
+    {
+      "name": "which_came_first_average_score_label",
+      "value": "منځگوړې نومرې"
+    },
+    {
+      "name": "which_came_first_best_streak_label",
+      "value": "غوره لړۍ"
+    },
+    {
+      "name": "which_came_first_better_luck",
+      "value": "د سبا لپاره ښې چارې!"
+    },
+    {
+      "name": "which_came_first_current_streak_label",
+      "value": "اوسنۍ لړۍ"
+    },
+    {
+      "name": "which_came_first_game_complete_title",
+      "value": "لوبه پای ته ورسېده!"
+    },
+    {
+      "name": "which_came_first_games_played_label",
+      "value": "لوبې وشوې"
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "ناسم!"
+    },
+    {
+      "name": "which_came_first_log_in_button",
+      "value": "ننوتل"
+    },
+    {
+      "name": "which_came_first_log_in_stats_body",
+      "value": "خپله لړۍ، نومرې او نور وگورئ"
+    },
+    {
+      "name": "which_came_first_log_in_stats_title",
+      "value": "د خپلې لوبې شمارنو د کتلو لپاره ننوځئ"
+    },
+    {
+      "name": "which_came_first_next_game_time",
+      "value": "راتلونکې لوبه به په \\$1 وي"
+    },
+    {
+      "name": "which_came_first_nice_work",
+      "value": "ښه چاره! سبا د يوې نوې لوبې لپاره بيا راشئ."
+    },
+    {
+      "name": "which_came_first_perfect_score",
+      "value": "بشپړې نومرې!"
+    },
+    {
+      "name": "which_came_first_score",
+      "value": "تاسو \\$1/\\$2 نومرې ترلاسه کړې."
+    },
+    {
+      "name": "which_came_first_share_score_button",
+      "value": "نومرې شريکول"
+    },
+    {
+      "name": "which_came_first_your_stats_title",
+      "value": "ستاسو شمارنې"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "خپرېږي..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "د کارولو منښتونه"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "هره ادينه"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "هره دوه‌نۍ"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "هره پيلنۍ"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "هره يوه‌نۍ"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "هره پېنځه‌نۍ"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "هره درې‌نۍ"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "هره څلورنۍ"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "بسپنه ورکول"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "اوس بسپنه ورکول"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "بې‌پرې"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "ډاډمن"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "د ډاډ ټولپوښتنه"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "ناخوښ"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "ډېره خوښ‌"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "ډېر ناخوښ"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "ماسپښين"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "ماښام"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "شپې ناوخته"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "غرمه"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "سهار"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "شپه"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "ويکي‌پېډيا له نښان سره"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "ويکي‌رسنۍ بنسټ نښان"
+    },
+    {
+      "name": "games_card_play",
+      "value": "لوبول"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ټولې ډېرې لوستل شوې ليکنې"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "د ښکاره کولو لپاره کوم پېښليک نشته"
+    },
+    {
+      "name": "editor_published",
+      "value": "ستاسو سمون خپور شو."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s لپاره د ليکنې څرگنداوی"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "په ويکي‌پېډيا آی‌او‌اېس"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "د دې مياشتې ونډې"
+    }
+  ]
+}

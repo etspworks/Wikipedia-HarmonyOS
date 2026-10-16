@@ -1,0 +1,5040 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Innholdslisens"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Om ikke annet er angitt, er innhold tilgjengelig under \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "lisensen Creative Commons Navngivelse-DelPåSammeVilkår"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Bidragsytere"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Bibliotek brukt"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Fullstendig liste"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisens"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Vi elsker åpen kildekode-programvare \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Lisens for kart"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Steder bruker kart fra Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Se her for lisensdetaljer"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Laget av \\$1 med hjelp fra frivillige som deg"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Lagre"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kildekode tilgjengelig under \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT-lisensen"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Gi tilbakemelding på appen"
+    },
+    {
+      "name": "about_title",
+      "value": "Om"
+    },
+    {
+      "name": "about_translators",
+      "value": "Oversettere"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Oversatt av frivillige på \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ser du ikke bildet? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Henter en ny CAPTCHA…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": " Opprett konto."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA sikkerhetssjekk"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Opprett konto"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Har du allerede en konto? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Logg inn."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Logger inn…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Du må skrive inn brukernavn, passord og passordbekreftelse for å opprette en konto."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Passordfeltene stemmer ikke overens."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Lagrer…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Opprett ny konto"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Kontoen din"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Få kontoen til å forsvinne"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Diskusjonssiden din"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Signer diskusjoner automatisk"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Automatisk signering av diskusjoner bruker signaturen som er angitt i innstillingene dine"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Diskusjonssideinnstillinger"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Legg til i…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Legg til i leseliste"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Legg til i liste"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Forkast redigering"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Forkast endringene"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Finn på siden"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Fortsett å redigere"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Endre språk"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Flytt til…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Flytt leselisten"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Neste revisjon"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Forrige revisjon"
+    },
+    {
+      "name": "action_read",
+      "value": "Les"
+    },
+    {
+      "name": "action_redo",
+      "value": "Gjenta"
+    },
+    {
+      "name": "action_remove",
+      "value": "Fjern"
+    },
+    {
+      "name": "action_retry",
+      "value": "Prøv igjen"
+    },
+    {
+      "name": "action_save",
+      "value": "Lagre"
+    },
+    {
+      "name": "action_saved",
+      "value": "Lagret"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Lagret. Aktiver for å fjerne lagring."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Lagrede artikler"
+    },
+    {
+      "name": "action_share",
+      "value": "Del"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Del"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sorter"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Takk bruker"
+    },
+    {
+      "name": "action_undo",
+      "value": "Angre"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Fjern lagring"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikkelen er ikke lenger lagret"
+    },
+    {
+      "name": "action_update",
+      "value": "Oppdater"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Legg til foreslåtte bilder i Wikipedia-artikler for å gjøre dem enklere å forstå."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Legg til bilder"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Du har ikke redigert denne uka. Begynn nå for å spore bidragene dine."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Logg inn eller opprett en konto for å se aktiviteten din i Wikipedia-appen."
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Se mer lese- og redigeringsinnsikter"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Du har ikke redigert denne uka. Legg til bilder for å gjøre artikler enklere å forstå."
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Vis lesehistorikk"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Vis redigeringshistorikk"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Vis lesehistorikk"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Se lagrede artikler"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Legg til {{PLURAL:\\$1|\\$1 artikkel|\\$1 artikler}} i leselisten"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Avanserte innstillinger"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Lukk"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, referanse, wiki, encyklopedi, info, kunnskap, informasjon, oppdaging, læring"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Fullstendig tilpassbar og mer lettlest utforskingsside. Lokalisering, ytelsesforbedringer og feilrettinger."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Last ned Wikipedia-appen for å utforske steder i nærheten av deg, synkronisere artikler for å lese dem frakoblet og tilpasse leseopplevelsen din."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Den frie encyklopedi"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Tilpass tekststørrelsen i artikler"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Utvid tabeller"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Setter alle tabeller i alle artikler til å være åpne som standard, inkludert raske fakta, referanser, merknader og eksterne lenker."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Reduser lysstyrken til bilder i den mørke og svarte drakten"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Lesedrakter"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabellinnstillinger"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Dra glidebryteren for å endre tekststørrelsen i artikler. Bruker systemets tekststørrelse for å endre størrelsen på andre tekstfelter i appen."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Draktvalg"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Om denne artikkelen"
+    },
+    {
+      "name": "article_delete",
+      "value": "Slett"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikkel|artikler}} slettet"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Appen kunne ikke hente det oppdaterte innholdet i tide. Oppdater siden senere for å se endringene dine."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Finn språk"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Velg språk"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Andre språk"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Dine språk"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Les mer"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Referanse \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Artikkelsideversjonshistorikk"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Du har ikke nok plass ledig på enheten din for å lagre denne artikkelen"
+    },
+    {
+      "name": "article_share",
+      "value": "Del"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "Fortsett der du slapp"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "Lagre lenker til senere"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "Tilpass den nye fanen din"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "Lær mer om faner"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "Innføring av faner"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "Fanegrensen er nådd (\\$1). Artikkelen ble åpnet i den gjeldende fanen. Du bør lukke én eller flere faner."
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Fanenavigasjon"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Artikkeldiskusjonsside"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Styring av lesedrakter"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Tilbake"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Trykk for å gå tilbake"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Gå tilbake"
+    },
+    {
+      "name": "button_next",
+      "value": "Neste"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publiser"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Publiser likevel"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Meld fra om en feil"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Lagre til senere"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Lagret til senere"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Fjern fra lagrede"
+    },
+    {
+      "name": "button_skip",
+      "value": "Hopp over"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende kinesiske varianter som primær- eller sekundærspråk, noe som gjør det enklere å lese, søke i eller redigere på dine foretrukne varianter:\n\n简体 Forenklet kinesisk (zh-hans)\n香港繁體 Tradisjonell Hongkong-kinesisk (zh-hk)\n澳門繁體 Tradisjonell Macao-kinesisk (zh-mo)\n大马简体 Forenklet Malaysia-kinesisk (zh-my)\n新加坡简体 Forenklet Signapore-kinesisk (zh-sg)\n臺灣正體 Tradisjonell Taiwan-kinesisk (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Oppdateringer i støtte for kinesiske varianter"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Tøm"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Mellomlager tømt."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Mellomlager tømmes."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Lukk"
+    },
+    {
+      "name": "compass_direction",
+      "value": "mot kl. \\$1"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Fortsett"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Utforsk Wikipedia for å finne flere artikler å lese"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ingen nylig leste artikler"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende krimtatariske varianter som primær- eller sekundærspråk i appen, hvilket gjør det enklere å lese, søke i og skrive på dine foretrukne varianter:\n\nQırımtatarca, Latin Latinsk krimtatarisk (chr-latn)\nкъырымтатарджа, Кирил Kyrillisk krimtatarisk (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Oppdateringer i støtte for krimtatariske varianter"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Oppdaterer …"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Legg til beskrivelse"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Artikkelbeskrivelse for \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Ved å endre artikkelbeskrivelsen samtykker jeg til \\$1 og til å ugjenkallelig slippe bidragene mine under \\$2-lisensen."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Rediger innledning"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Rediger artikkelbeskrivelsen"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Korte beskrivelser er best"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publiser beskrivelse"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Rediger beskrivelse"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Prøv å holde beskrivelser korte, slik at brukere raskt og enkelt kan forstå hva artikkelen handler om"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Bare egennavn bør ha stor forbokstav, selv i begynnelsen av setningen."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Artikkelbeskrivelser oppsummerer en artikkel for å hjelpe lesere å raskt forstå hva den handler om."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Om"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Om Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Beskrivelser lagres og vedlikeholdes på Wikidata, et prosjekt fra Wikimedia Foundation for å tilby en fri, samarbeidsbasert, flerspråklig andrehåndsdatabase for å støtte Wikipedia og andre prosjekter."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Mer informasjon"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Gode beskrivelser får plass på én linje, og er mellom to og tolv ord lange. De begynner ikke med stor forbokstav med mindre første ord er et egennavn."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "artikkelbeskrivelse for en artikkel om Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "artikkelbeskrivelse for en artikkel om Mount Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "maleri av Leonardo da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "jordas høyeste fjell"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "For eksempel:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Tips for å lage beskrivelser"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Hjelp for artikkelbeskrivelser"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Guide på Wikidata om å skrive beskrivelser"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Ferdig"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Du har nettopp gjort Wikipedia bedre for alle"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Beskrivelse publisert!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Helst én linje, mellom to og tolv ord"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Hold det kort"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Sammenfatter en artikkel for å hjelpe lesere til å raskt forstå hva den handler om"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Artikkelbeskrivelser"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Gjennom å starte lover jeg å ikke misbruke denne funksjonen"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Begynn å redigere"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Artikkelsideversjonshistorikk"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Tillegg, \\$1, slutt på tillegg."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Avsnitt flyttet \\$1 {{PLURAL:\\$1|linje|linjer}} ned. Gå til den nye plasseringen."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Avsnitt flyttet \\$1 {{PLURAL:\\$1|linje|linjer}} opp. Gå til den nye plasseringen."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Avsnitt flyttet. Gå til den tidligere plasseringen."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Avsnittet flyttet ned {{PLURAL:\\$1|0=0 seksjoner|\\$1 seksjon|\\$1 seksjoner}}. Gå til den nye plasseringen."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Avsnitt flyttet opp {{PLURAL:\\$1|0=0 seksjoner|\\$1 seksjon|\\$1 seksjoner}}. Gå til den nye plasseringen."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Fjerning, \\$1, slutt på fjerning."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Forrige redigering"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Sammenlign revisjoner"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Den viste redigeringen"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Sammenlign revisjoner"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Innhold lagt til, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Innhold fjernet, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Slå sammen \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Utvid \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Vis"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Skjul"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Sideversjon utført"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linje \\$1–\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Avsnitt flyttet"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ned"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "opp"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "\\$1 {{PLURAL:\\$1|linje|linjer}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "\\$1 {{PLURAL:\\$1|seksjon|seksjoner}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Avsnitt flyttet \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Kunne ikke laste revisjon"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Tilbakestill"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Er du sikker på at du vil tilbakestille redigeringene?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Tilbakestill redigeringer"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Redigeringer tilbakestilt."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "\\$1 {{PLURAL:\\$1|redigering|redigeringer}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Bidragsyterinformasjon"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "\\$1 {{PLURAL:\\$1|byte}} lagt til"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "\\$1 {{PLURAL:\\$1|byte}} fjernet"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Redigeringsforklaring"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Intro"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linje \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonyme brukere kan ikke takkes"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "«Takk» er en enkel måte å vise takknemlighet for en bidragsyters arbeid på Wikipedia. Du må være logget inn for å sende takk."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Logg inn for å sende takk"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Send takk"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "«Takk» er en enkel måte å vise takknemlighet for en bidragsyters arbeid på Wikipedia. «Takk» kan ikke gjøres om, og vises offentlig."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Sendte takk offentlig"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Takket ditt ble sendt til \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Du har allerede takket for denne redigeringen"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Takk kan ikke gjøres om"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Kontestuell linje, uendret: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Dette angrer endringer gjort ved sideversjonen(e) til artikkelen vist her. For å fortsette, angi en grunn til å omgjøre denne redigeringen."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Revisjonen ble gjort om."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "\\$1 {{PLURAL:\\$1|linje|linjer}} uredigert"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Dobbelttrykk for å åpne menyen"
+    },
+    {
+      "name": "dim_images",
+      "value": "Mørklegg bilder"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Dobbelttrykk for å velge donasjonsbeløp."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Dobbelttrykk for å donere \\$1 til Wikimedia Foundation."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Dobbelttrykk for å gi Wikimedia Foundation tillatelse til å sende deg e-post."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Dobbelttrykk for å avvise tastastur for mengdeinndata."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Dobbelttrykk for å aktivere automatiske månedlige donasjoner med dette beløpet."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Angi egendefinert donasjonsbeløp."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Dobbelttrykk for å legge til transaksjonsgebyr til donasjonsbeløpet."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Takk, kjære giver! Din sjenerøsitet hjelper å blomstre Wikipedia og søsterprosjektene."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple er ikke ansvarlig for å samle inn penger til dette formålet."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Ja, Wikimedia Foundation kan sende meg en e-post i ny og ne."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Ofte stilte spørsmål"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Andre måter å gi"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Problemer med å donere?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Informasjon om skattefradrag"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Vi påminner deg igjen i morgen."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Vi kan ikke godta donasjoner over \\$1 \\$2 gjennom vår nettside. Ta kontakt med vårt personale for større gaver på benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Velg et beløp (minimum \\$1 \\$2)"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Gjør dette til en månedlig gjentatt donasjon."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Doner med Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Doner med Apple Pay eller velg en annen betalingsmetode."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Annen betalingsmåte"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Doner med Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Din sjenerøsitet betyr så mye for oss."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Takk!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Velg et beløp"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Jeg vil sjenerøst legge til \\$1 for å dekke transaksjonsgebyrene slik at dere kan beholde 100 %% av donasjonen min."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "Vi selger ikke informasjonen din til noen. Ved å donere samtykker du i å dele din personlige informasjon med Wikimedia Foundation, den ideelle organisasjonen som drifter Wikipedia og andre Wikimedia-prosjekter, og deres tjenesteleverandører i samsvar med [donorpolicyen vår](\\$1). Wikimedia Foundation og deres tjenesteleverandører holder til i USA og i andre land hvis personvernslover kan være ulike de i ditt land. Les [donorpolicyen vår](\\$1) for mer informasjon."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Vis tekst"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Lenkemål"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Fjern lenke"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Rediger lenke"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Rediger"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Dette kan skyldes at teksten du har valgt ikke er redigerbar (f.eks. artikkeltittel eller infobokstitler) eller på grunn av lengden på teksten som var markert"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Teksten du markerte ble ikke funnet"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Lær mer om mindre redigeringer"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Dette er en mindre redigering"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Redigeringsvarsler"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Vis alltid redigeringsvarsler"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Vennligst les før du redigerer"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Alt innhold vises i et forenklet format."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Vis webforhåndsvisning"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Legg til en redigeringsforklaring"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "La til bilde"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "La til bilde og bildetekst"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Korrigerte grammatikk"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Fikset typo"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "La til lenker"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Hvordan forbedret du artikkelen?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "La til kort beskrivelse"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Oppdaterte kort beskrivelse"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Lær mer om overvåkingslisten din"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Overvåk denne siden"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Vær modig, men ikke uvøren når du oppdaterer artikler. Ikke vær redd for å gjøre feil: alle tidligere versjoner av en side er lagret, så feil kan enkelt korrigeres av andre."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Din stemme er viktig"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Alt innhold må være verifiserbart. Når du legger til ny informasjon i en artikkel, bør du helst gi en referanse til en pålitelig kilde som støtter påstandene i bidraget."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Siter pålitelige kilder"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Vi streber etter artikler skrevet med en upartisk tone. Når du redigerer, prøv å gi en rimelig representasjon av det du skriver om slik pålitelige kilder ville gjort."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Skriv med en upartisk tone"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "For å gi alle tilgang til all verdens kunnskap trenger vi din deltakelse i å lese, redigere og bidra til de temaene som har størst betydning for deg."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Sett kunnskap fri"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Redigeringen din ble publisert."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Rediger kilde"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Er du sikker på at du vil gå ut av redigeringsmodus uten å publisere først?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Er du sikker på at du vil forkaste denne redigeringen?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Gå ut av redigeringsmodus?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Tøm søkefeltet"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Lukk søkefeltet"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "\\$1 treff funnet totalt. Søkeresultat nummer \\$2 er markert"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Ingen treff funnet"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Neste søkeresultat"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Forrige søkeresultat"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Finn"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Halvfet"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Lukk tekstformateringsmenyen"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Kommentar"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Overskrift"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Reduser innrykk"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Øk innrykk"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursiv"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Lenke"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Nummerert liste"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Punktliste"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Avsnitt"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Referanse"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Gjennomstreking"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Underoverskrift 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Underoverskrift 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Underoverskrift 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Underoverskrift 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Senket skrift"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Hevet skrift"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Mal"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Tekstformatering"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Understreking"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Utfør erstatting. Erstattingstypen er satt til \\$1."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Tøm erstatt-feltet"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Erstatt"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Erstatt med …"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Erstatt alle"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Erstatt alle forekomster"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Bytt erstattingstype. Den er for øyeblikket satt til \\$1. Velg for å endre."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Erstatt"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Erstatt én forekomst"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Halvfet tekstformatering"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Flytt pekeren ned til neste linje."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Flytt pekeren til neste tegn."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Flytt pekeren til forrige tegn."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Flytt pekeren opp til forrige linje."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Finn på siden"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "Bildetekstformatering"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "Reduser innrykksformatering"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "Øk innrykksformatering"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Kursiv tekstformatering"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "Lenketekstformatering"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "Nummerert liste-formatering"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "Punktlisteformatering"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Åpne tekstformateringsmenyen"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "Referansetekstfomatering"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Vis flere formateringsvalg"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "Maltekstformatering"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "Laster tekstredigering"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wikitekstredigering"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Ingen forskjeller mellom revisjoner"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Ingen synlige endringer gjort"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Tom redigeringsforklaring"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Velg ei fil fra Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Artikkelen kunne ikke lastes"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Du kan fremdeles lese lagrede sider"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Du kan se de anbefalte artiklene dine når du ikke har internett"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Her kan du holde styr på hva du har lest"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ingen historikk å vise"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Denne artikkelen har foreløpig ikke blitt skrevet på noe annet språk"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Ingen andre språk tilgjengelig"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Opprett lister for steder du vil reise til, favorittemner og mye mer"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organiser lagrede artikler i leselister"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Lagre sider i denne listen og de vil dukke opp her"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Ingen sider er lagret i denne listen"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Lagre sider for senere visning, også offline."
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Ingen sider lagret enda"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ingen resultater ble funnet"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Denne brukeren har ikke fått noen meldinger ennå"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prøv igjen senere"
+    },
+    {
+      "name": "error_unknown",
+      "value": "En ukjent feil oppsto"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "En annen tilfeldig artikkel"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Fordi du leste"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Ytterligere relaterte artikler"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Fortsett å lese"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Tilbake til utforskingssiden"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Utforsk artikler om ting i nærheten av deg"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Fremhevet artikkel"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Fra Wikipedia på \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Tilpass"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Språkinnstillinger for utforskingssiden"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Ytterligere språk kan legges til under innstillingen «Mine språk»."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kort skjult"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Hurtiglenke for å gå tilbake til en åpen artikkel"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Tilpass utforskingssiden"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Tilpass utforskingssiden"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ved å skjule en type kort vil denne typen kort ikke lenger dukke opp på utforskingssiden."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Utforskingsfane"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Dagens/ukens anbefalte artikkel på Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Av"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Alle på"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "På"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "På \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Alle «\\$1»-kort skjult"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Dette kortet er ikke språkspesifikt, ved å skru det av vil det forsvinne fra utforskingssiden din."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Ikke-språkspesifikke kort"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ikke-språkspesifikk"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globale kort"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Skjul dette kortet"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Skjul alle «\\$1»-kort"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikler om aktuelle hendelser"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Hvis du skjuler alle kort på alle språk vil utforskingsfanen bli skrudd av."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Historiske hendelser på denne dagen"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedia-artikler om ting i nærheten av din posisjon"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Dagens utvalgte bilde fra Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Tilfeldig utvalgte artikler"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Forslag basert på lesehistorikk"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Vis kortet «Fortsett å lese»"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Ved å skru av kortet «Fremhevet artikkel» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Vis kortet «Utmerket artikkel»"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Ved å skru av kortet «Aktuelt» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Vis kortet «Aktuelle hendelser»"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Ved å skru av kortet «På denne dag» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Vis kortet «På denne dag»"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Ved å skru av kortet «Dagens bilde» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Ved å skru av kortet «Steder» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Vis kortet «Steder»"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Ved å skru av kortet «Tilfeldig artikkel» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Vis kortet «Tilfeldig artikkel»"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Vis kortet «Fordi du leste»"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Ved å skru av kortet «Fordi du leste» vil kortet bli skrudd av for alle tilgjengelige språk."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Vis kortet «Mest leste»"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Forslag om å legge til innhold på Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Dagens mest leste artikler"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Skru av utforskingssiden"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Ved å skjule alle utforskingskort vil utforskfanen bli skrudd av og erstattet med en innstillingsfane."
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Skru av utforskingssiden?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Skru av utforsking"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Utforskingsfanen kan skrus på igjen fra innstillingene"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Skru av utforskingsfanen?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Ved å skru av utforskingsfanen vil fanen bli erstattet av en innstillingsfane."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Ved å vise utforskingskort skrur du på utforskingsfanen."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Skru på utforsking"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Dette vil erstatte innstillingsfanen med en utforskingsfane. Du finner innstillinger på toppen av utforskingsfanen ved å trykke på tannhjulikonet."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Skru på utforskingsfanen?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Skjul dette kortet"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Hovedside for Wikimedia-prosjekter"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "I dag på Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Alle mest leste artikler"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Mest lest"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Mest lest på \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "På Wikipedia på \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "På Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Steder i nærheten"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Steder"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Fra Wikipedia på \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Din posisjon"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Din posisjon fra Wikipedia på \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Dagens bilde"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Fra Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Tilfeldig artikkel"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Tilfeldig artikkel"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Legg til"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Legg til foreslåtte bilder i Wikipedia-artikler for å øke forståeligheten."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Legg til et bilde"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Deling av appbiblioteket ditt inkluderer data om leselistene dine, historikk, innstillinger og innhold i utforskningsfeeden. Denne datafila bør kun deles med mottakere du stoler på for å utføre teknisk diagnostikk."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Dele appbiblioteket?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Det oppsto en feil ved eksporteringen av din data. Vennligst prøv igjen senere."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Du har ikke nok plass på enheten til å eksportere brukerdataene dine. Prøv igjen senere."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Eksporter brukerdata"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Ingen utvalgt artikkel er tilgjengelig for denne datoen."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Oppdag de beste artiklene på Wikipedia, som velges ut daglig av bidragsyterne."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Fra Wikipedia på \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Ditt hoved-Wikipedia-språk har ikke støtte for Utmerkede artikler. Du kan oppdatere ditt hoved-Wikipedia-språk i applikasjonens innstillinger."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Utvalgt artikkel"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Noe gikk galt. Prøv igjen senere."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Appen mottok en uventet respons fra serveren. Prøv igjen senere."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Ugyldig CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Passordene er ikke like"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ugyldig kode"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Brukernavnet er ikke tilgjengelig"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Reservekode"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-tekst"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Fyll inn teksten du ser ovenfor"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "eksempel@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-post"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-post (valgfritt)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "gjenta nytt passord"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Bekreeft nytt passord"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "fyll inn nytt passord"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nytt passord"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "gjenta passord"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Bekreft passord"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "fyll inn passord"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Passord"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Bekreftelseskode"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "fyll inn brukernavn"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Brukernavn"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Alle"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Tøm søkefeltet"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Neste søkeresultat"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Forrige søkeresultat"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Søk og erstatt"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Lukk søk og erstatt"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Søk"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Tilbakestill"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Vi har sendt deg n e-post med instruksjoner for å tilbakestille passordet"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Fyll inn et av feltene under for å motta instruksjoner for tilbakestilling av passord per e-post"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Tilbakestill passord"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Eller"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende gan-varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\n贛語 原文 gan (gan)\n赣语 简体 forenklet gan (gan-hans)\n贛語 繁體 tradisjonell gan (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Oppdateringer i støtte for gan-varianter"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Er du sikker på at du vil tømme loggen din?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ja, slett alt"
+    },
+    {
+      "name": "history_title",
+      "value": "Historikk"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, vend tilbake til Utforsk"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, vend tilbake til Lagret"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mer som ligner \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Flere steder i nærheten av deg"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mer i nærheten av \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Flere aktuelle hendelser"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "De lagrede artiklene dine kan nå organiseres i leselister og synkroniseres på tvers av enheter. Logg inn for å la leselistene dine bli lagret til brukerkontoen din."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Håndter innstillingene"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Tilpass lesepreferansene dine inkludert tekststørrelsen og drakten fra artikkelverktøylinjen eller i brukerinnstillingene dine for en behageligere leseopplevelse."
+    },
+    {
+      "name": "home_title",
+      "value": "Utforsk"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, rull til begynnelsen av Utforsk"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Nære artikler"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Tilfeldig artikkel"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Søk i Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ukjent forfatter."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Legge til dette bildet?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Prøv å komme tilbake senere."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Du har ingen flere foreslåtte bilder for øyeblikket."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Noe gikk galt."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Kunne ikke laste siden"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Bestem hvorvidt et foreslått bilde skal legges til i en Wikipedia-artikkel."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Vis et forslag"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Forslagene er maskingenererte, og du vil avgjøre om de skal godkjennes eller avvises."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Godta eller avvis et bilde"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Bildene kommer fra Wikimedia Commons, en samling fritt lisensierte bilder som brukes av Wikipedia."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Lisensierte bilder"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Lær mer om foreslåtte redigeringer"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Legg til et bilde i en artikkel"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Svarene dine forbedrer framtidige forslag."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Velg ett eller flere alternativer"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Bildet er ikke relevant"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Ikke nok informasjon til å avgjøre"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Bildet er støtende"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Bildet har lav kvalitet"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Jeg kan ikke noe om dette emnet"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Annet"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Send"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Årsak"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Legg til bilde"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Gå gjennom denne artikkelen for å forstå emnet."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Gå gjennom"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "Inspiser bildet og tilhørende informasjon."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Inspiser"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "Avgjør om bildet hjelper leseren med å forstå dette emnet bedre."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Avgjør"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Vis artikkelen"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "Jeg har støtt på et problem med funksjonen for å legge til et foreslått bilde:"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nei"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Usikker"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Ja"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Min leseliste"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Ta undersøkelsen"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "«Del leselister» er en testfunksjon, og vi trenger tilbakemelding fra brukerne for å forbedre eller fjerne den."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Kan du hjelpe oss å forbedre «Del leselister»?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Importer delt leseliste"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Fra Wikipedia på \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Aktuelt"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Sett inn"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Sett inn lenke"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Legg til bildedetaljer"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Tekstbeskrivelse for lesere som ikke kan se bildet"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Beskriv bildet"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativ tekst"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Hvordan relaterer dette bildet seg til artikkelen?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Etikett som vises ved siden av elementet for alle lesere"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Bildetekst"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Midtstilt"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Venstre"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ingen"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Høyre"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Bildeposisjon"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Mer informasjon"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Velg bilde"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Egendefinert"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Standard"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Høyde"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Bredde"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Bildestørrelse"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "La teksten flyte rundt bildet"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Enkel"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Ramme"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Rammeløs"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatyr"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Bildetype"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Medieinnstillinger"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Sett inn media"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende inuktitut-varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ inuktitut med stavelsesskrift (ike-cans)\nInuktitut ilisautik, inuktitut med latinsk skrift (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Oppdateringer i støtte for inkutitut-varianter"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "Logg inn eller opprett konto"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende kasakhiske varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nҚазақша kasakhisk (kk)\nҚазақша Кирил kyrillisk kasakhisk (kk-cyrl)\nqazaqşa latin latinsk kasakhisk (kk-latn)\nتوتە قازاقشا arabisk kasakhisk (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Oppdateringer i støtte for kasakhiske varianter"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende kurdiske varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nKurdî Latînî latinsk kurdisk (ku-latn)\nكوردی arabisk kurdisk (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Oppdateringer i støtte for kurdiske varianter"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Språk"
+    },
+    {
+      "name": "languages_title",
+      "value": "Endre språk"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipedia-språk"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Lær mer"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Fortsett uten å logge inn"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Logg inn på kontoen din igjen"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Et problem medførte at du ikke lenger er logget inn. Du må logge inn igjen for å kunne synkronisere leselister og redigere under brukernavnet ditt."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Du har blitt logget ut"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Glemt passordet?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Registrer deg på Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Mangler du konto? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Logg inn med kontoen din"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Om appen"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Logg inn"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Logg ut"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Er du sikker på at du vil logge ut?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Å logge ut vil slette dine lokalt lagrede kontodata (varsler og meldinger), men kontodataene dine vil still være tilgjengelige på nett og lastes ned på nytt hvis du logger inn igjen."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Innlogget som \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Personvern og vilkår"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "I nærheten"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Personvernspolitikk"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Vurder appen"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Bruksvilkår"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mer"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero-FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Søk i Wikipedia på over 300 språk"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Legg til språk"
+    },
+    {
+      "name": "more_menu",
+      "value": "Mer"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Flytt {{PLURAL:\\$1|\\$1 artikkel|\\$1 artikler}} til leselisten"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Forhåndsvis"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 fot"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 amerikanske miles"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Du ble logget inn med et midlertidig passord. For å fullføre registreringen må du lage deg et nytt passord her."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Lag passord"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Neste"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Legg til en epostkonto på enheten din og prøv igjen."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Ingen internettforbindelse"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ikke nå"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Fra \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Varsel"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Varselfilter – har gjeldende filtre"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Prosjektfilter – har gjeldende filtre"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Varsler med merking for ulest"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 varsel"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Endre passord"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Sjekker varsler …"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "I appen"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "På nettet"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Varselsinformasjon"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Sjekker varsler …"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Du har ingen meldinger"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Du abonnerer for tiden ikke på noen Wikipedia-varsler"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Endre \\$1 for å se flere meldinger"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Legg til prosjekter for å se flere beskjeder"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter|\\$1 filtre}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Slå på pushvarsler"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Redigeringsvarsler for alle Wikimedia-prosjekter er nå tilgjengelige via appen. Slå på pushvarsler for å holde deg oppdatert mens du er i farta."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Varselfilter"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Alle"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Lest"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Ulest"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Lesestatus"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Endre varseltyper for å filtrere dem til/fra varselsinnboksen din. Typene som er slått av vil ikke være synlige, men innholdet deres og nye varsler vil være tilgjengelige hvis typen slås på igjen."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Alle typer"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Typer varsler"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Artikkel"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Diskusjon om \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Diff"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "{{GRAMMAR:genitive|\\$1}} brukerside"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-element"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Din diskusjonsside"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Varsel fra \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Ferdig"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Prosjekter"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Bare prosjekter du har opprettet konto på dukker opp her"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedia-prosjekter"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedia-er"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 på \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Innloggingsvarsler"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Merk"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Merk alle som lest"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Er du sikker på at du ønsker å merke {{PLURAL:\\$1|den ene meldingen|2=begge meldingene|alle \\$1 meldinger}} fra varslene dine som lest? Varslene blir merket som lest på alle enhetene dine."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Er du sikker på at du vil merke alle varslene dine som lest? Varslene blir merket som lest på alle enhetene dine."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Merk som lest"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Merk som ulest"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Mer"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Varselsinnstillinger"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "\\$1 {{PLURAL:\\$1|melding|meldinger}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Fortsett"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Filtrer varslene dine etter hvorvidt de er leste og etter type for å enkelt finne fram i innboksen din."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Lær mer om varsler"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Varsler holder deg informert om aktivitet som gjelder din konto og dine redigeringer."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Varsler"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Se alle dine uleste meldinger fra forskjellige språkversjon av Wikipedia- og Wikimedia-prosjekter på ett sted."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Prosjektinnbokser"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Velg å få pushvarsler for å holde deg oppdatert på redigeringsvarsler i farta."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Pushvarsler"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Redigeringsvarsler"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Slå på pushvarsler?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Slå på pushvarsler"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nei takk"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia er et samarbeidsprosjekt, og å slå på pushvarsler kan gjøre det enklere å holde seg oppdatert på meldinger, varsler og «takk» fra andre bidragsytere."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Prosjektfilter"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Alle"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Alle varsler"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 i \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtrert etter"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "På \\$1 {{PLURAL:\\$1|prosjekt|prosjekter}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "\\$1 {{PLURAL:\\$1|prosjekt|prosjekter}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "\\$1 {{PLURAL:\\$1|type|typer}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Leste"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 og \\$2 i \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Uleste"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Redigeringsmilepæl"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Redigeringen din ble tilbakestilt"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Ny e-post"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Flere mislykkede innloggingsforsøk"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Mislykket innloggingsforsøk"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Innlogging fra ukjent enhet"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Nevnt på diskusjonsside"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Nevnt i redigeringssammendrag"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Mislykket nevning"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Vellykket nevning"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Nevning på diskusjonsside"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Melding på diskusjonssiden din"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Sidelenke"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Side gjennomgått"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Takk"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Oversettelsesmilepæl"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Endring av brukerrettigheter"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Velkommen!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Wikidata-tilkobling gjort"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Merk som lest"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Merk som ulest"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Mer"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Varsler"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Merk valgte varsler"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Nevninger"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Notis"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Velkomstmelding"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Kobling med Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Redigeringsmilepæl"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Redigering tilbakestilt"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Nevning i redigeringsforklaring"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-post fra en annen bruker"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Innloggingsforsøk"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Mislykkede innloggingsforsøk på kontoen din"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Vellykket innlogging"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Annet"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Sidelenke"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Sidegjennomgang"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Mislykket sendt nevning"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Suksessful nevning sendt"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Omtalt på diskusjonsside"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Takk"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Oversettelsesmilepæl"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Endring av brukerrettigheter"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Melding på diskusjonsside"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Velkommen"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Ny aktivitet på Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 ny melding|\\$1 nye meldinger}} på \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Ny melding|Nye meldinger}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mrd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mill."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 tusen"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "from \\$1–\\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historisk hendelse|\\$1 historiske hendelser}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Flere historiske hendelser på denne dagen"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "\\$1 {{PLURAL:\\$1|historisk hendelse|historiske hendelser}} til på denne dag"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Ditt hoved-Wikipedia-språk har ikke støtte for På denne dag. Du kan oppdatere ditt hoved-Wikipedia-språk i applikasjonens innstillinger."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Ingen tilgjengelige data"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 fra Wikipedia på \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "På denne dag"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Trykk på «W» for å gå tilbake til fanen du startet fra"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Trykk for å velge to revisjoner å sammenligne"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Sammenlign"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Graf over redigeringer over tid"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "mindre redigeringer"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Forfatter: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Kommentar: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Revisjonshistorikk"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Mindre endring"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "La til \\$1 {{PLURAL:\\$1|byte}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Fjernet \\$1 {{PLURAL:\\$1|byte}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Revisjon gjort \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Kun to revisjoner kan velges"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$1 {{PLURAL:\\$1|redigering|redigeringer}} siden \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Merknader for siden"
+    },
+    {
+      "name": "page_location",
+      "value": "Vis på kart"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Du har ikke rettigheter til å redigere denne siden"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Denne siden er beskyttet"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Lignende sider"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Ved å sammenligne revisjoner kan man se hvordan en artikkel har endret seg over tid. Man vil se forskjellen mellom revisjonene ved at innhold som er forskjellig markeres."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Sammenligner revisjoner"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Rediger uten å logge inn"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Du er ikke logget inn"
+    },
+    {
+      "name": "percentile_0_01",
+      "value": "0,01"
+    },
+    {
+      "name": "pictured",
+      "value": "bildet"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Tøm lagrede søk"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikler"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Sentrer på din posisjon"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Vis som liste"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Vis på kart"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Vis flere artikler"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Utforsk byer, land, kontinenter, landemerker, historiske hendelser, bygninger og mer."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Søk etter Wikipedia-artikler knytta til geografiske steder"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Skru på plassering"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Appen bruker kun posisjonen din når appen eller en av funksjonene dens er synlige på skjermen."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Gi tilgang til stedstjenester for å kunne utforske artikler om ting i nærheten av posisjonen din"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtrer artikler"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filter"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Du har ingen lagrede steder"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Lagrede artikler"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Mest lest"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikkel|\\$1 artikler}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Mest leste artikler"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Stedstjenester er aktivert"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ingen av de lagrede artiklene dine har stedsinformasjon"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 matcher «\\$2»"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Søk i steder"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Mente du \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Siste søk"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Alle lagrede artikler"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Foreslåtte søk"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultater i dette området"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Alle populære artikler"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "I nærheten"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Din nåværende plassering"
+    },
+    {
+      "name": "places_title",
+      "value": "Steder"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ukjent avstand"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Dagens bilde \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Klarte ikke hente dagens bilde \\$1"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "To okser løper mens jockeyen holder seg fast i dem i pacu jawi (fra minangkabau, «okseløp»), et tradisjonelt okseløp i Tanah Datar på Vest-Sumatra i Indonesia. 2015, siste 45."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Beundre et vakkert daglig bilde valgt av samfunnet vårt."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Dagens bilde"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Tillatt at Wikimedia Foundation samler informasjon om hvordan du bruker appen for å gjøre den bedre"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Personvernspolitikk"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Problem med funksjonen"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibøker"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinytt"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikikilden"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Legg til artikkelen i en leseliste?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Legg til «\\$1» i en leseliste?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ja, legg dem til i leselistene mine"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Dette er artikler som er lagret lokalt i Wikipedia-appen din. Ønsker du å beholde dem og synkronisere dem sammen med leselister fra brukerkontoen din?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Lagrede artikler funnet"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Denne oppføringen synkroniseres ikke fordi du har nådd grensen for antall oppføringer i denne listen."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "En uventet feil oppsto under synkronisering av leselister."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Denne listen synkroniseres ikke fordi du har nådd grensen for antall synkroniserte lister."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Opprett leseliste"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Navn på leseliste"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Opprett en ny liste"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Leseliste slettet"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nei, slett artikler fra enheten"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Du må redusere antallet artikler i denne listen til \\$1 for å gjenoppta synkronisering av artikler i denne listen."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Du har overskredet grensen på {{PLURAL:\\$1|\\$1 artikkel|\\$1 artikler}} per konto."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Artikkelen|Artiklene}} kunne ikke legges til i listen. Du har nådd grensen på \\$2 artikler per leseliste for \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Navnet er allerede i bruk"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "En uventet feil oppsto under oppdatering av leselistene dine."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ja, behold artiklene på enheten"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Du har lagret artikler som er synkronisert med Wikipedia-kontoen din. Ønsker du å beholde disse lokalt på denne enheten etter at du har logget ut?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Behold lagrede artikler på enheten?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sorter artikler"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Det er en grense på 5000 usorterte artikler. Vennligst sorter eksisterende artikler i lister for å fortsette synkroniseringen av usorterte artikler."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Grensen for usorterte artikler er nådd"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Denne leselisten, og artiklene som er lagret i den, blir ikke synkronisert. For å gjenoppta synkronisering av denne listen må du redusere antall lister til \\$1.\n "
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Du har overskredet grensen på {{PLURAL:\\$1|\\$1 leseliste|\\$1 leselister}} per konto."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Du har nådd grensen på \\$1 leselister per konto"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Logg inn for å synkronisere lagrede artikler"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Logg inn eller opprett konto"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Logg innfor å synkronisere lagrede artikler"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Logg inn eller opprett en konto om du ønsker at lagrede artikler og leselister skal lagres i brukerkontoen din og synkroniseres på tvers av enheter."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Synkroniser de lagrede artiklene dine?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[brukerskapt]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "valgfri kort beskrivelse"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "tittel på leseliste"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Synkronisering av leselister har blitt deaktivert for Wikipedia-kontoen din fra en annen enhet. Du kan aktivere synkronisering igjen fra innstillingene dine."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Synkronisering er skrudd av"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Aktiver synkronisering"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "De lagrede artiklene og leselistene dine kan nå lagres i Wikipedia-kontoen din og synkroniseres på tvers av Wikipedia-apper."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Skru på synkronisering av leselister?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Synkronisering av leselister er aktivert for denne kontoen. Skulle du ønske å skru av synkronisering kan du gjøre det i innstillingene dine."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Synkronisering er aktivert for denne kontoen"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "En uventet feil oppsto under lagring av et nytt element i leselisten. Prøv igjen senere."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "En uventet feil oppsto under oppretting av leselisten. Prøv igjen senere."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "En uventet feil oppsto under sletting av leselisten. Prøv igjen senere."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "En uventet feil oppsto under fjerning av et element fra leselisten. Prøv igjen senere."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "En uventet feil oppsto under oppdatering av leselisten. Prøv igjen senere."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Ingen leseliste med navnet «\\$1» ble funnet. Sjekk at du har riktig navn."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikkel lagt til i «\\$1»"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Artikkelen kunne ikke lastes inn."
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ikke synkronisert"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Artikkelgrensen er overskredet, kunne ikke synkronisere artikkelen"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Listegrensen er overskredet, kunne ikke synkronisere artikkelen"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artikkelen er lagt i kø for nedlasting"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Ikke nok tilgjengelig plass på enheten, kunne ikke synkronisere artikkelen"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Frigjør plass på enheten din og prøv på nytt"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Noen artikler har ikke blitt synkronisert, grense overskredet"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Listen «\\$1» har blitt omdøpt til «\\$2»"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 leseliste|\\$1 leselister}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Standardliste for lagrede artikler"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Lagret"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Handlingen kan ikke angres. Artikler som kun er lagret i {{PLURAL:\\$1|denne listen|disse listene}} vil bli fjernet."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Slett {{PLURAL:\\$1|listen|listene}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "\\$1 {{PLURAL:\\$1|artikkel|artikler}} og \\$2 {{PLURAL:\\$2|leseliste|leselister}} synkronisert fra kontoen din"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Listen ble ikke synkronisert, grense overskredet"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sorter lagrede artikler"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Det er en grense på \\$1 artikler per leseliste. Eksisterende lister med flere artikler vil bli delt opp i flere lister."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Synkronisering vil gjenopptas når en internettforbindelse er tilgjengelig"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Svart drakt"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Glidebryter for lysstyrke"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Mørk drakt"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Lys drakt"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepia-drakt"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Syntaksfremheving"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Glidebryter for tekststørrelse"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Syntaksfremheving"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Hopp til referanseseksjonen"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referanse \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=I dag|1=I går|For \\$1 dager siden}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1t"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Nylig|For \\$1 time siden|For \\$1 timer siden}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "for \\$1t siden"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Nylig|For \\$1 time siden|For \\$1 timer siden}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Nå|For \\$1 minutt siden|For \\$1 minutter siden}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Nettopp|For \\$1 minutt siden|For \\$1 minutter siden}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "for \\$1m siden"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Denne måneden|1=Forrige måned|For \\$1 måneder siden}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "for \\$1s siden"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=I år|1=I fjor|For \\$1 år siden}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Tilbake"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Tilbake til artikkel"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Tilbakestilt redigering"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Alle artikler"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Listen kan ikke slettes"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Klarte ikke laste ned bilder for den lagrede siden."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Nedlasting av artikler pågår…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Leselister"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Søk i lagrede artikler"
+    },
+    {
+      "name": "saved_title",
+      "value": "Lagret"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Fjerning av {{PLURAL:\\$1|denne artikkelen vil fjerne den|disse artiklene vil fjerne dem}} fra alle leselister du måtte ha den i"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Fjern {{PLURAL:\\$1|artikkelen|artiklene}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Søk i Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Tøm"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Søk i Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Slette alle nylige søk?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Handlingen kan ikke omgjøres!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Slett alt"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Ingen nylige søk enda"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Siste søk"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Omdirigert fra: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Søk"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende serbiske varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nсрпски ћирилица kyrillisk serbisk (sr-ec)\nsrpski latinica Serbian, latinsk serbisk (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Oppdateringer i støtte for serbiske varianter"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konto"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Appdrakt"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Tøm mellomlager"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Ved å tømme mellomlageret frigjør du rundt \\$1 med plass. Eventuelle lagrede sider vil ikke bli fjernet."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Tøm mellomlager?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Tøm mellomlager"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Doner"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Hjelp og tilbakemelding"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Vis språk ved søkefeltet"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Du kan tilpasse hvilke språk som vises på utforskingssiden fra innstillingene for utforskingssiden."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Mine språk"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Pushvarsler"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "En feil oppsto når vi skulle sjekke abonnementer på varsler tilknyttet kontoen din."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Kunne ikke sjekke abonnementer for Echo-varsler"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Prøv igjen"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Bli varslet om aktiviteter som angår kontoen din, som f.eks. meldinger fra andre bidragsytere. Alt gis med hensyn til personvern og oppdaterte data."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primær"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Det første språket i denne lista brukes som primærspråk for appen."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Still inn appen til å starte i søkefanen i stedet for utforskingsfanen"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Start appen i søkefanen"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Tillat at Wikimedia lagrer de lagrede artiklene og leselistene dine i brukerkontoen din når du logger inn og synkroniserer."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Synkroniser lagrede artikler og lister"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Leselistene vil bli synkronisert i bakgrunnen"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Be om en oppdatering av synkroniserte artikler og leselister."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Oppdater synkroniserte leselister"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Vis standardleselisten «Lagret» som en egen liste i leselistevisningen. Denne listen vises på Android-enheter."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Vis standardleselisten «Lagret»"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Lagring og synkronisering"
+    },
+    {
+      "name": "settings_title",
+      "value": "Innstillinger"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Laget med Wikipedia-appen"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» på Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Bygger faktadelingskort …"
+    },
+    {
+      "name": "share_default_format",
+      "value": "«\\$1» fra «\\$2»: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "«\\$1»\n\nfra «\\$2»\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Veibeskrivelse"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Del …"
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Vis på kart"
+    },
+    {
+      "name": "share_social_format",
+      "value": "«\\$1» via Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "«\\$1» via Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Nylig lagt til"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Tittel"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Foreslåtte redigeringer"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Innholdsfortegnelse"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Lukk"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Lukk innholdsfortegnelsen"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Innhold"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Skjul innholdsfortegnelsen"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Underoverskrift \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende varianter av tachelhit som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nⵜⴰⵛⵍⵃⵉⵜ tachelhit med tifinagh (shi-tfng)\nTaclḥit latinsk tachelhit (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Oppdateringer i støtte for tachelhit-varianter"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende tadsjikiske varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\nтоҷикӣ кирилликӣ kyrillisk tadsjikisk (tg-cyrl)\ntojikī lotinī latinsk tadsjikisk (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Oppdateringer i støtte for tadsjikiske varianter"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktiv bruker|\\$1 aktive brukere}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Legg til emne"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Arkiv"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Om diskusjonssider"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Endre språk"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Minimer tråd"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Lest"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Ulest"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Appen fikk en uventet respons fra tjeneren. Prøv igjen senere."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Uventet feil"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Noe gikk galt."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Kunne ikke laste diskusjonsside"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Utvid tråd"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Finn på siden"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Åpne alle tråder"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Husk at vi alle er mennesker her"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Vær snill"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Svaret ditt ble publisert"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Diskusjonen din ble publisert"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Trykk to ganger for å gå tilbake til svaret"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Flere diskusjonssidealternativer"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Sideinformasjon"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Permanent lenke"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Sjekk internettforbindelsen din."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Kunne ikke publisere kommentaren din."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Kunne ikke publisere nytt emne."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Les i nettversjonen"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Lenker hit"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 svar}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Svar"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Svar til \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Svardybde: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Gi et svar til \\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "Merk at svaret ditt automatisk signeres med brukernavnet ditt. Ved å lagre endringene samtykker du i \\$1bruksvilkårene\\$2, og samtykker i å utgi bidraget ditt under lisensene \\$3CC BY-SA 4.0\\$4 og \\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Versjonshistorikk"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Lukk svarvisning"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Del diskusjonsside"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Abonner"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Du vil få varsler om nye kommentarer på dette emnet."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Du abonnerer!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Abonnering feilet, prøv igjen."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Artikkeldiskusjon"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Brukerdiskusjon"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "Ved å publisere endringene samtykker du i \\$1bruksvilkårene\\$2, og samtykker i å ugjenkallelig utgi bidraget ditt under lisensene \\$3CC BY-SA 4.0\\$4 og \\$5GFDL\\$6."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Avslutt abonnement"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Du vil ikke lenger motta varsler om nye kommentarer på dette emnet."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Du har avsluttet abonnementet."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Avslutting av abonnement feilet, prøv igjen."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Om brukerdiskusjonssider"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Bidrag"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Ingen arkiverte sider funnet."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Arkiv"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Les mer"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Kommentaren din ble lagt til"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Fortsett å redigere"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Rediger kilde"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Diskusjonssider brukes for å diskutere hvordan innholdet på Wikipedia kan bli best mulig. **Start ved å legge til et nytt emne** for å få kontakt med og samarbeide med fellesskapet av wikipedianere."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Diskusjonssider er der folk diskuterer hvordan innholdet på Wikipedia kan bli så bra som mulig. Start en ny diskusjon for å få kontakt med og samarbeide med \\$1. Det du skriver her vil være synlig offentlig."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Legg til et nytt emne"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Start en diskusjon"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Samtalen begynner her"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Begynn en samtale med \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Er du sikker på at du vil forkaste dette nye svaret?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Emnet ditt ble lagt til"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Emnebeskrivelse"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Forkast svar"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "Forkast emne"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Er du sikker på at du vil forkaste dette nye emnet?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Emne"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Emnetittel"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Diskusjonssider er stedet hvor folk diskuterer hvordan en kan gjøre det som står på Wikipedia-sider best mulig. Legg til et nytt diskusjonssavsnitt for å ta kontakt og sam arbeide med wikipedianerne."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Diskusjonssider er stedet for \\$1å diskutere hvordan Wikipedias innhold kan bli enda bedre\\$1. Du kan begynne ved å legge til et nytt emne for å få kontakt og samarbeide med fellesskapet av wikipedianere."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Vær snill, vi er alle mennesker."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Diskusjonssider"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Brukergrupper"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Logger"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Diskusjon"
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "Logg inn eller opprett konto"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Bruksvilkår"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Svart"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Mørk"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Standard"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Matcher systemtemaet"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Lys"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Få greie på hva verden leser om på Wikipedia i dag."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 lesere"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Mest leste"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Prøv nå"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Veiviser"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Fortsett innlogging"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Fyll inn bekreftelseskoden for totrinnspålogging"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Logg inn med kontoen din"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Bruk en av reservekodene dine"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Bruk bekreftelseskode"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Kunne ikke last diskusjonsside"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Ukjent"
+    },
+    {
+      "name": "unwatch",
+      "value": "Avslutt overvåkning"
+    },
+    {
+      "name": "user_title",
+      "value": "Bruker"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Wikipedia-appen støtter nå følgende usbekiske varianter som primær- eller sekundærspråk i appen, noe som gjør det enklere å lese, søke i og redigere på dine foretrukne varianter:\n\noʻzbekcha lotin latinsk usbekisk (uz-latin)\nўзбекча кирилл kyrillisk usbekisk (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Oppdateringer i støtte for usbekiske varianter"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Fortsett"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Brukernavn og brukerside"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Forsvinning er en **siste utvei**, og bør **kun brukes hvis du ønsker å slutte å redigere for alltid**, og også skjule så mange som mulig av de tidligere handlingene dine.\n\nKontosletting på Wikipedia gjøres ved å endre kontonavnet ditt slik at andre ikke kan kjenne igjen bidragene i en prosess som kalles kontoforsvinning. **Forsvinning garanterer ikke fullstendig anonymitet, og fjerner ikke bidragene dine fra prosjektene.**"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Advarsel"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nei takk"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Gå gjennom innstillingene dine"
+    },
+    {
+      "name": "watch",
+      "value": "Overvåk"
+    },
+    {
+      "name": "watchlist",
+      "value": "Overvåkningsliste"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Lagt til overvåkningslisten din for én måned."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Lagt til overvåkningslisten din for én uke."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Lagt til overvåkningslisten din for ett år."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Lagt til overvåkningslisten din permanent."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Lagt til overvåkningslisten din for seks måneder."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Lagt til overvåkningslisten din for tre måneder."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Se overvåkningsliste"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 byte}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 måned"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 uke"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 år"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Permanent"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 måneder"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 måneder"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Velg tidsperiode for overvåkningsliste"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Utløpstid for overvåkningsliste"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Gå til diff"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Redigeringsforklaring"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Søk i artikler"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Du har ingen elementer på din overvåkningsliste"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "Følg med på hva som skjer med artikler du er interessert i. Trykk på menyen i artikkelen og velg «Overvåk» for å se endringer til en artikkel."
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "Artikler du har lagt til overvåkningslisten vises her"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "Sider forblir som standard, men det finnes alternativer for midlertidig visning fra én uke til ett år."
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Angi utløp"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filter"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Overvåkningslisteaktivitet"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Sette endringer"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Uleste endringer"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Automatiske bidrag"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Menneske (ikke bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Siste sideversjoner"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Siste sideversjon"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ikke den siste sideversjonen"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Betydning"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Mindre endringer"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Ikke-mindre endringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Type endring"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Kategoriendringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Loggførte handlinger"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Sideopprettelser"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Sideredigeringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata-redigeringer"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Brukerregistrering og -erfaring"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Registrert"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Uregistrert"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Legg til språk …"
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "Endre [{{PLURAL:\\$1|\\$1 filter|\\$1 filtre}}](wikipedia\n://watchlist/filter) for å se flere overvåkningslisteelementer"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Lær mer om overvåkingslisten"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Dette er din overvåkningsliste"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Fjernet fra din overvåkningsliste"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Din «takk» ble sendt til \\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "Overvåkningslisten er et verktøy som lar deg holde oversikt over endringer til sider eller artikler du er interessert i."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Spor endringer"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Overvåkningslisten over sider du har lagt til, som redigeringer eller diskusjoner, kan nås gjennom Innstillinger → Konto."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Se oppdateringer"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Takk"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Brukerbidrag"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Brukerside"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Brukerdiskusjonsside"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "Ved å trykke på stjerna eller «Overvåk»-handlingen i den nederste verktøylinjen til en artikkel, kan du legge den til overvåkningslisten din."
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Overvåk artikler"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Data og personvern"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Anbefalt lesning og daglige artikler utvalgt av fellesskapet"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Utforskingsside"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Reis tilbake i tid for å lære hva som skjedde på dagens dato i historien"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "På denne dag"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Oppdag landemerker nær deg eller søk etter steder over hele verden"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Stedsfane"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Kom igang"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nye måter å utforske på"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Skjønner"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia skrives på dugnad av frivillige og består av mer enn 40 millioner artikler på mer enn 300 språk."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Lær mer om Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Om Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia er et globalt prosjekt for å bygge frie encyklopedier på alle verdens språk. Alle og enhver med internettilgang kan i prinsippet bidra med nøytral og referansebelagt informasjon."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Den frie encyklopedi"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Legg til et annet språk"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Legg til eller rediger foretrukne språk"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Språk funnet på enheten din:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Søk på over 300 språk"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "Vi mener at du ikke skal måtte oppgi personlig informasjon for å delta i bevegelsen for fri kunnskap. Bruksdata som samles inn for denne appen er anonyme."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Lær mer om personvernspolitikken vår og bruksvilkårene våre."
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Finn ut hva som skjedde på denne datoen i historien."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Fritt nettleksikon som alle kan redigere"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Det frie nettleksikonet Wikipedia blir lansert."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Laster forhåndsvisning av endringene dine…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Denne lenka leder til et eksternt nettsted: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ekstern lenke"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia har ikke noen artikkel med dette navnet"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Ingen ekstern lenke funnet"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Denne lenken fører til «\\$1»"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Lenkeforhåndsvisning"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Lagre endringer"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA-verifikasjonsfeil"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Trenger CAPTCHA-verifikasjon."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Kunne ikke avgjøre resultatet av oppdateringen."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publiserer..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Redigeringer vil bli tilskrevet IP-adressen til enheten din. Hvis du \\$1 logger inn\\$2 vil du få bedre personvern."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Redigeringer vil bli tilskrevet IP-adressen til enheten din. Hvis du \\$1 vil du få bedre personvern."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "Ved å publisere endringene samtykker du i \\$1bruksvilkårene\\$2, og samtykker i å ugjenkallelig utgi bidraget ditt under lisensene \\$3CC BY-SA 4.0\\$4 og \\$5GFDL\\$6. Du samtykker til at en hyperlenke eller URL er tilstrekkelig attribuering under Creative Commons-lisensen."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "bruksvilkårene"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Fordi du leste"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Alle mest leste artikler"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "En annen tilfeldig artikkel"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Fra Wikipedia på %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "På Wikipedia på %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Fra Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ingen historikk å vise"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Skjul dette kortet"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Tilpass utforskingssiden"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kort skjult"
+    },
+    {
+      "name": "editor_published",
+      "value": "Redigeringen din ble publisert."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Artikkelbeskrivelse for %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Mente du %s?"
+    }
+  ]
+}

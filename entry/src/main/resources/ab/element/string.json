@@ -1,0 +1,376 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Авикипедиа"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Авторцәа"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Ихархәо абиблиотекақәа"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Алицензиа"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT Алицензиа"
+    },
+    {
+      "name": "about_translators",
+      "value": "Аиҭагаҩцәа"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Авикипедиа"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Иҭалатәуп"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Асистемахь аҭаларҭа..."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Ажәамаӡақәа еиқәшәаӡом."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Аиқәырхара..."
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Иԥшаатәуп адаҟьаҟны"
+    },
+    {
+      "name": "action_read",
+      "value": "Иаԥхьатәуп"
+    },
+    {
+      "name": "action_save",
+      "value": "Еиқәырхатәуп"
+    },
+    {
+      "name": "action_saved",
+      "value": "Еиқәырхоуп"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Еиқәырхаӡам"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Аркра"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Атема архиарақәа"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ианыхтәуп"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Астатиа аныхуп"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Абызшәатә фильтр"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Иалышәх абызшәа"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Егьырҭ абызшәақәа"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Шәара шәбызшәақәа"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Шьҭахьҟа"
+    },
+    {
+      "name": "button_next",
+      "value": "Анаҩс"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_skip",
+      "value": "Ибжьажьтәуп"
+    },
+    {
+      "name": "cancel",
+      "value": "Аҟәыхра"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Иарктәуп"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Иацҵоу азхьарԥшқәа"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Акагь ԥшаам"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Иҟалеит идырым агха"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Иаҳа изыԥхьо"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ииашам акод."
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Email"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Ажәамаӡа ҿыц"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "даҽазнык иҭажәгал ажәамаӡа"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Ишьақәшәырӷәӷәа ажәамаӡа"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "иҭажәгал ажәамаӡа"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Ажәамаӡа"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Ашьақәырӷәӷәара акод"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "иҭажәгал ахархәаҩ ихьӡ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Алахәыла ихьӡ"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 \\$2 аҟынтәи"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Иқәгатәуп"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Иқәгатәуп ажәамаӡа"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Ма"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ааи, ианыхтәуп зегьы"
+    },
+    {
+      "name": "history_title",
+      "value": "Аҭоурых"
+    },
+    {
+      "name": "home_title",
+      "value": "Иҭышәҵаала!"
+    },
+    {
+      "name": "languages_title",
+      "value": "Иԥсахтәуп абызшәа"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Википедиа Абызшәақәа"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ишәхашҭыма ажәамаӡа?"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Иҭалатәуп"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Иҭыҵтәуп"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Ааигәа"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Еиҭа"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Иацҵатәуп абызшәақәа"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фут."
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 мил."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Иқәыргылатәуп ажәамаӡа"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 млрд."
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ари амш аҽны..."
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ари адаҟьа хьчоуп"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Иаарԥштәуп ахьӡынҵа еиԥш"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Еиқәырхо астатиақәа"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Иаҳа изыԥхьо"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Аԥшаара аҭыԥқәа"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Еиқәырхо астатиақәа зегьы"
+    },
+    {
+      "name": "places_title",
+      "value": "Аҭыԥқәа"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Илашоу атема"
+    },
+    {
+      "name": "reference_title",
+      "value": "Азгәаҭа \\$1"
+    },
+    {
+      "name": "saved_title",
+      "value": "Еиқәырхоуп"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Википедиа аҟны аԥшаара"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Ианыхтәуп зегьы"
+    },
+    {
+      "name": "search_title",
+      "value": "Аԥшаара"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Аҟәыхра"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Сара сбызшәақәа"
+    },
+    {
+      "name": "settings_title",
+      "value": "Архиарақәа"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» @Wikipedia аҟны:"
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "@Wikipedia ала"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Иарктәуп"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Аиқәаҵәа"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Ихархәатәуп ашьақәырӷәӷәаратә код"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ари амш аҽны..."
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Иалагатәуп"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Еилкаауп"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Википедиа иазкны"
+    }
+  ]
+}

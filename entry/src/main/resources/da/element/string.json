@@ -1,0 +1,5480 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Indholdslicens"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Medmindre andet er specificeret er indholdet tilgængeligt under \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Kreditering-DelPåSammeVilkår-licensen"
+    },
+    {
+      "name": "about_contributors",
+      "value": "bidragsydere"
+    },
+    {
+      "name": "about_libraries",
+      "value": "anvendte biblioteker"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Fuldstændig liste"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licens"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Vi elsker open source software \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Kortlicens for placeringer"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Steder bruger kort leveret af Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Se her for licens detaljer"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Skabt af \\$1 med hjælp fra frivillige som dig"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Arkiver"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kildekode tilgængelig under \\$1"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT licens"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Send tilbagemelding om app"
+    },
+    {
+      "name": "about_title",
+      "value": "Om"
+    },
+    {
+      "name": "about_translators",
+      "value": "oversættere"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Oversat af frivillige på \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Kan du ikke se billedet? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Henter en ny CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Anmod om konto."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA-sikkerhedskontrol"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Opret din konto"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Har du allerede en konto? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Log på."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Logger på..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Du skal indtaste et brugernavn, en adgangskode og en adgangskodebekræftelse for at oprette en konto."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Adgangskoderne stemmer ikke overens."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Gemmer..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Opret en ny konto"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Din konto"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Få konto til at forsvinde"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Din diskussionsside"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Auto-underskriv diskussioner"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Auto-underskrivning i diskussioner vil benytte den signatur, der er defineret i Signatur-indstillinger"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Indstillinger for diskussionsside"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Tilføj til ..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Tilføj til læseliste"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Tilføj til liste"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Annuller"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Kassér redigering"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Fjern redigeringer"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Find på siden"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Fortsæt med at redigere"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Skift sprog"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Flyt til ..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Flyt til læseliste"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Næste sideversion"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Forrige sideversion"
+    },
+    {
+      "name": "action_read",
+      "value": "Læs"
+    },
+    {
+      "name": "action_redo",
+      "value": "Gentag"
+    },
+    {
+      "name": "action_remove",
+      "value": "Fjern"
+    },
+    {
+      "name": "action_retry",
+      "value": "Prøv igen"
+    },
+    {
+      "name": "action_save",
+      "value": "Gem"
+    },
+    {
+      "name": "action_saved",
+      "value": "Gemt"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Gemt. Aktiver for at fortryde."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikel gemt til senere"
+    },
+    {
+      "name": "action_share",
+      "value": "Del"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Del"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sorter"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Tak bruger"
+    },
+    {
+      "name": "action_undo",
+      "value": "Fortryd"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Gem ikke"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikel ikke længere gemt"
+    },
+    {
+      "name": "action_update",
+      "value": "Opdater"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Tilføj foreslåede billeder til Wikipedia-artikler for at forbedre forståelsen."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Tilføj billeder"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Yderligere tanker?"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1| \\$1 visning| \\$1 visninger}}"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Artikler læst denne måned"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Artikler"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "Alle tiders indflydelse"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Redigeringsindsigt"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "Aktivitetsmoduler er slået fra. \\$1 Slå dem til \\$2 for at se opdateringer i denne fane."
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "Læseindsigt er baseret på dine appsprog i indstillingerne, og redigeringsindsigt er begrænset til dit primære appsprog. Indsigt udnytter lokale data, med undtagelse af redigeringer, som er offentlige."
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "Sidste donation i appen"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "Du skal være logget ind for at aktivere denne aktivitetsindsigt."
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "Læseindsigt"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "Tid brugt på at læse"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[Skærmbilleder eller links]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "Jeg har oplevet et problem med funktionen Aktivitetsfane:"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[Beskriv ønsket adfærd]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [Beskriv specifikt problem]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "Den adfærd jeg gerne vil se er:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "Problemrapport - Aktivitetsfanen"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "Begynd at læse og redigere for at opbygge din historik"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "Intet at vise"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Du har ikke redigeret i denne uge. Start nu med at spore dine bidrag."
+    },
+    {
+      "name": "activity_tab_history_callout_body",
+      "value": "Gennemse eller ryd din læsehistorik i **fanen Søg**."
+    },
+    {
+      "name": "activity_tab_history_callout_body_loggedout",
+      "value": "Find og ryd din læsehistorik i **fanen Søg**. Ingen konto nødvendig."
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 time \\$2 min"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "PÅ WIKIPEDIA iOS"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "Alle tiders indflydelse"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 dag|\\$1 dage}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "bedste serie"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "redigeringer"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "sidst redigeret"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Din seneste aktivitet (de seneste 30 dage)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "Fra \\$1 til \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "tak"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "redigeringer ialt"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Dag"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "Visninger af artikler, du har redigeret"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Visninger"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "Log ind eller opret en konto for at se mere redigerings- og læseaktivitet."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Log ind eller opret en konto for at se dine aktiviteter i Wikipedia appen."
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Se mere redigerings- og læseaktivitet"
+    },
+    {
+      "name": "activity_tab_logged_out_track_what_youve_read",
+      "value": "Spor, hvad du har læst, og se dine bidrag over tid på en ny måde"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Ryd læsehistorik"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "Mest sete siden din redigering"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Neutral"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Du har ikke redigeret i denne uge. Tilføj billeder for at forbedre forståelsen af ​​artiklen."
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "Din læsning"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "Se hvor meget tid du har brugt på at læse, og hvilke artikler eller emner du har udforsket over tid."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Læsemønstre"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "Vælg hvilke moduler der skal vises. Alle personlige data forbliver private på din enhed, og din browserhistorik kan til enhver tid ryddes."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Bevar kontrollen"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "Introduktion til aktivitet"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "Få mere at vide om aktivitet"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "Få indsigt i dine bidrag og rækkevidden af den viden, du har delt."
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "Højdepunkter"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Se læsehistorik"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Tilfreds"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Artikler gemt denne måned"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Begynd at redigere"
+    },
+    {
+      "name": "activity_tab_survey_subtitle",
+      "value": "Hjælp med at forbedre Aktivitet. Er du tilfreds med denne funktion?"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "Tilfredshedsundersøgelse"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "Tid brugt på at læse i denne uge"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Aktivitet"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "Mest læste kategorier denne måned"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "Samlede redigeringer på tværs af projekter"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Utilfreds"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "\\$1s læsning"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Meget tilfreds"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Meget utilfreds"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Se redigeringshistorik"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Se læsehistorik"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Se gemte artikler"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Uge"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Du redigerede {{PLURAL:\\$1|\\$1 gang|\\$1 gange}} i denne uge."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Du læste {{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}} i denne uge."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Du gemte {{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}} i denne uge."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Din indflydelse"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Tilføj {{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}} til læselisten"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Avancerede indstillinger"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Du bruger en midlertidig konto. Kontoen udløber efter 90 dage."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Lær mere"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Feedback indsendt."
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Nej tak"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, reference, wiki, encyklopædi, info, viden, forskning, information, udforsk, lær"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Fuldt tilpasselig og nemmere at læse Udforsk-feed. Lokalisering, ydeevneforbedringer og fejlrettelser."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Download Wikipedia-appen for at udforske steder i nærheden af dig, synkronisere artikler for at læse offline og tilpasse din læseoplevelse."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Den frie encyklopædi"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Juster størrelse for artikelteksten"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Udvid tabeller"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Angiv at alle tabeller i alle artikler skal være åbne som standard, inklusive hurtige fakta, referencer, noter og eksterne henvisninger."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Sænk synligheden for billeder på mørke og sorte temaer"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Læsetemaer"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabelindstillinger"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "Bidragyderikonet hylder dine bidrag til Wikipedia i appen i 2025. Det forbliver indtil næste år i tilbageblik."
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "App-ikon"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Træk skyderen oven over for at ændre artiklens tekststørrelse. Udnyt din tekststørrelse fra systemet til at ændre størrelse på andre tekstområder i appen."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Temaindstillinger"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Om denne artikel"
+    },
+    {
+      "name": "article_delete",
+      "value": "Slet"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikel|artikler}} slettet"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Appen var ikke i stand til at hente det opdaterede indhold i tide. Opdater denne side senere for at se dine ændringer afspejlet."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Find sprog"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Vælg sprog"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Andre sprog"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Dine sprog"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Læs mere"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Reference \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Artiklens redigeringshistorik"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Du har ikke nok plads ledig på din enhed for at lagre denne artikel"
+    },
+    {
+      "name": "article_share",
+      "value": "Del"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "Artikelfaner"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "Gem links til senere"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "Fanegrænsen er nået (\\$1). Artiklen blev åbnet i den aktuelle fane. Luk venligst en eller flere faner."
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Fanebladsnavigation"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "Værktøjstips til onboarding af faner"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Åben"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "Åbn i baggrundsfanen"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Åbn i ny fane"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Artiklens diskussionsside"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Styring af læsetemaer"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Midlertidig konto \\$1 blev oprettet, efter din redigering blev offentliggjort. Den udløber om 90 dage."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Midlertidig konto oprettet"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Tilbage"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Tryk for at gå tilbage"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Gå tilbage"
+    },
+    {
+      "name": "button_next",
+      "value": "Næste"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Udgiv"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Udgiv alligevel"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Rapportér en fejl"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Gem til senere"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Gemt til senere"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Fjern fra gemte"
+    },
+    {
+      "name": "button_skip",
+      "value": "Spring over"
+    },
+    {
+      "name": "cancel",
+      "value": "Afbryd"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Wikipedia appen understøtter nu følgende kinesiske variationer af primære og sekundære sprog, hvilket gør det nemmere at læse, søge og redigere i dine foretrukne variationer:\n\n简体 Chinese, Simplified (zh-hans)\n香港繁體 Hong Kong Traditional (zh-hk)\n澳門繁體 Macau Traditional (zh-mo)\n大马简体 Malaysia Simplified (zh-my)\n新加坡简体 Singapore Simplified (zh-sg)\n臺灣正體 Taiwanese Traditional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Opdateringer til understøttelse af kinesisk variant"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Ryd"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Rydning af cache fuldført."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Rydning af cache i gang."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Luk alle faner"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Vil du lukke alle \\$1 faner? Denne handling kan ikke fortrydes."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Luk alle \\$1 faner?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Luk"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Luk andre faner"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Luk fane?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Luk faner"
+    },
+    {
+      "name": "compass_direction",
+      "value": "mod klokken \\$1"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Dette gælder kun for donationer fra denne enhed."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Bekræft sletning"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Lokal historik slettet"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Fortsæt"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Udforsk Wikipedia for flere artikler at læse"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ingen seneste læste artikler"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Wikipedia-appen understøtter nu følgende krimtatariske varianter som primære eller sekundære sprog i appen, hvilket gør det nemmere at læse, søge og redigere i dine foretrukne varianter:\n\nQırımtatarca, latin krimtatarisk latin (chr-latn) \nкъырымтатарджа, Кирил krimtatarisk kyrillisk (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Opdateringer til understøttelse af Krim-tatariske varianter"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Tilpas"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Opdaterer..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Tilføj beskrivelse"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "Rækkefølgen af elementer vil være anderledes i redigeringsvisningen end artikelvisningen."
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Artikelbeskrivelse for \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Ved at ændre titelbeskrivelsen indvilliger jeg i \\$1 og uigenkaldeligt at udgive mit bidrag under \\$2 licensen."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Rediger introduktion"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Rediger artikelbeskrivelse"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Korte beskrivelser er de bedste"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Udgiv beskrivelse"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Rediger beskrivelse"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Prøv at holde beskrivelserne korte, så brugere hurtigt kan forstå artiklens emne"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Kun egennavne skal skrives med stort, selv i begyndelsen af sætningen."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Midlertidig konto \\$1 blev oprettet, efter din redigering blev offentliggjort. Den udløber om 90 dage."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Arikelbeskrivelser sammenfatter en artikel for at hjælpe læsere til at forstå emnet på et øjeblik."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Om"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Om Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Beskrivelser gemmes og vedligeholdes på Wikidata, et projekt fra Wikimedia Foundation, som giver en gratis, kollaborativ, flersproget, sekundær database, der understøtter Wikipedia og andre projekter."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Flere oplysninger"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Beskrivelser skal ideelt set passe på én linje og er mellem to til tolv ord lange. De skrives ikke med stort, medmindre det første ord er et egennavn."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "artikelbeskrivelse til en artikel om Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "artikelbeskrivelse for en artikel om Mount Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "maleri af Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Jordens højeste bjerg"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "For eksempel:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Tips til at skabe beskrivelser"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Hjælp til artikelbeskrivelse"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Wikidata-guide til at skrive beskrivelser"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Udført"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Du har lige gjort Wikipedia bedre for alle"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Beskrivelse offentliggjort!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Helst én linje, mellem to og tolv ord"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Gør det kort"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Opsummérer en artikel for at hjælpe læserne med at forstå emnet"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Artikelbeskrivelser"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Begynder du at redigere, så lover du samtidig ikke at misbruge denne funktion"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Start med at redigere"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "Tving e-mailgodkendelse"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Indstillinger for Udvikler"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "Bypass Donation"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "Aktiver År i gennemgang"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "Send analyser til wmflabs."
+    },
+    {
+      "name": "developer_settings_suppress_image_rec_post",
+      "value": "Indsend ikke billedanbefalinger redigering."
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Artiklens redigeringshistorik"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Tilføjelse, \\$1 , tilføjelse slut."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Afsnit flyttet {{PLURAL:\\$1|0=0 linjer|\\$1 linje|\\$1 linjer}} ned. Gå til ny placering."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Afsnit flyttet {{PLURAL:\\$1|0=0 linjer|\\$1 linje|\\$1 linjer}} op. Gå til ny placering."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Afsnit flyttet. Gå til forrige placering."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Afsnit flyttet {{PLURAL:\\$1|0=0 sektioner|\\$1 sektion|\\$1 sektioner}} ned. Gå til ny placering."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Afsnit flyttet {{PLURAL:\\$1|0=0 sektioner|\\$1 sektion|\\$1 sektioner}} op. Gå til ny placering."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Fjernelse, \\$1 , fjernelse slut."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Forrige redigering"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Sammenlign revisioner"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Vist redigering"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Sammenlign revisioner"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Indhold tilføjet, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Indhold fjernet, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Skjul \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Udvid \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Vis"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Skjul"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Revision foretaget den"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linjerne \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Afsnit flyttet"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ned"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "op"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linje|\\$1 linjer}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 sektion|\\$1 sektioner}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Afsnit flyttet \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Kunne ikke indlæse revisionen"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Rul tilbage"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Er du sikker på at du vil rulle ændringerne tilbage?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Tilbagefør redigeringer"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Redigeringer tilbageført."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 redigering|\\$1 redigeringer}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Bidrager information"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 byte tilføjet|\\$1 bytes tilføjet}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1| \\$1 byte fjernet| \\$1 bytes fjernet}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Redigeringssammendrag"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Introduktion"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linje \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonyme brugere kan ikke takkes"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Tak' er en nem måde at vise påskønnelse af en andens arbejde på Wikipedia. Du skal være logget ind for at sende 'Tak'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Log ind for at sende et 'Tak'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Send 'Tak'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Tak' er en nem måde at vise påskønnelse af en andens arbejde på Wikipedia. 'Tak' kan ikke fortrydes og er offentligt synlige."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Send offentligt 'Tak'"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Din 'Tak' blev sendt til \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Du har allerede sendt et 'Tak' for denne redigering"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Et 'Tak' kan ikke fortrydes"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Kontekstuel linje, uændret: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Dette vil fortryde ændringerne foretaget af revisionerne af artiklen vist her. For at fortsætte skal du angive en grund til at fortryde denne redigering."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Revisionen blev fortrudt."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1| \\$1 linje uredigeret| \\$1 linjer uredigeret}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Dobbelttryk for at åbne menuen"
+    },
+    {
+      "name": "dim_images",
+      "value": "Mørklæg billeder"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Tryk to gange for at vælge donationsbeløb."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Tryk to gange for at donere \\$1 til Wikimedia Foundation."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Dobbelttryk for at give Wikimedia Foundation tilladelse til at sende dig en e-mail."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Tryk to gange for at afvise beløb indtastningstastaturvisning."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Tryk to gange for at aktivere automatiske månedlige donationer af dette beløb."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Indtast det beløb du ønsker at donere."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Tryk to gange for at tilføje transaktionsgebyr til donationsbeløbet."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Tak, kære donor! Din gavmildhed hjælper med at holde Wikipedia og dets søsterwebsteder i gang."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple er ikke ansvarlig for at rejse penge til dette formål."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Ja, Wikimedia Foundation må gerne sende mig en lejlighedsvis e-mail."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Ofte stillede spørgsmål"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Alternative donationsmetoder"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Problemer med at donere?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Information om skattefradrag"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "Slet lokal donationshistorik"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Vi vil minde dig om det igen i morgen."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Vi kan ikke acceptere donationer på mere end \\$1 \\$2 via vores hjemmeside. Kontakt venligst vores afdeling for store gaver på benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Vælg venligst et beløb (minimum \\$1 \\$2)"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Gør dette til en månedlig tilbagevendende donation."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Donér med Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Donér med Apple Pay eller vælg en anden betalingsmetode."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Anden betalingsmetode"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Donér med Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Din gavmildhed betyder meget for os."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Tak!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Vælg et beløb"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Jeg vil gerne tilføje \\$1 for at dække transaktionsgebyrerne, så I kan beholde 100 %% af min donation."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "Vi sælger eller bytter ikke dine oplysninger til nogen. Ved at donere accepterer du at dele dine personlige oplysninger med Wikimedia Foundation, den nonprofitorganisation, der er vært for Wikipedia og andre Wikimedia-projekter, og dens tjenesteudbydere i henhold til vores [donorpolitik](\\$1). Wikimedia Foundation og dets tjenesteudbydere er placeret i USA og i andre lande, hvis privatlivslovgivning muligvis ikke svarer til din egen. For mere information, læs venligst vores [donorpolitik](\\$1)."
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "For tilbagevendende donorer vil faste månedlige betalinger blive debiteret af Wikimedia Foundation på månedsdagen for den første donation, indtil du giver os besked om at afbryde dem. Donationer påbegyndt den 29., 30. eller 31. i måneden vil gentage sig på den sidste dag i måneden i kortere måneder, så tæt på den oprindelige dato som muligt. For spørgsmål, kontakt venligst donate@wikimedia.org."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "Dupliker fane"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Vis tekst"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Linkmål"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Fjern link"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Rediger link"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Rediger"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Dette kan skyldes, at den valgte tekst ikke kan redigeres (f.eks. artikeltitel eller infobokstitler) eller på grund af længden af den tekst, der blev fremhævet"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Den valgte tekst kunne ikke findes"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Lær mere om mindre ændringer"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Dette er en mindre ændring"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Redigeringsbemærkninger"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Vis altid redigeringsbemærkninger"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Læs venligst dette før du redigerer"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Alt indhold vises i forenklet format."
+    },
+    {
+      "name": "edit_sheet_ip_account_notice",
+      "value": "Meddelelse om IP-konto"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "Midlertidig kontomeddelelse"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Forhåndsvisning"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Giv et redigeringsresumé"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Tilføjede billede"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Tilføjede billede og billedtekst"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Rettede grammatik"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Rettede slåfejl"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Tilføjede links"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Hvordan har du forbedret artiklen?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Tilføjede kort beskrivelse"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Opdaterede kort beskrivelse"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Lær mere om din overvågningsliste"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Overvåg denne side"
+    },
+    {
+      "name": "edited_article",
+      "value": "Redigeret"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Vær modig, men ikke letsindig, når du opdaterer artikler. Vær ikke bange for at lave fejl: alle tidligere versioner af en side er lagret, så fejl kan nemt korrigeres af andre."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Dit bidrag er vigtigt"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Alt indhold skal kunne verificeres. Når du tilføjer ny information i en artikel, bør du indsætte en reference til en pålidelig kilde som direkte understøtter denne information."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Henvis til pålidelige kilder"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Vi efterstræber artikler i en neutral tone. Når du redigerer, så forsøg at give en fair fremstilling af verden på den måde som pålidelige kilder beskriver den."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Skriv i en neutral tone"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "For at give alle adgang til verdens viden, har vi brug for at du bidrager med at læse og redigere de emner som betyder mest for dig."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Slip din viden løs"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Din redigering er udgivet."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Rediger kilde"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Er du sikker på du ønsker at forlade redigering uden at gemme først?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Er du sikker på, at du vil fortryde denne redigering?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Forlad redigeringstilstanden?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Ryd søgefelt"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Luk søgefelt"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "\\$1 resultater fundet. Fremhævet kamp nummer \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Ingen matchende resultater blev fundet."
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Næste søgeresultat"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Forrige søgeresultat"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Find"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Fed"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Luk tekstformateringsmenuen"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Kommentér"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Overskrift"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Formindsk indrykning"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Forøg indrykning"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursiv"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Link"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Sorteret liste"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Usorteret liste"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Afsnit"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Reference"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Gennemstregning"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Underoverskrift 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Underoverskrift 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Underoverskrift 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Underoverskrift 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Sænket skrift"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Hævet skrift"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Skabelon"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Tekstformatering"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Understregning"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Udfør udskiftningsoperationen. Erstatningstype er indstillet til \\$1 ."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Ryd udskiftning"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Erstat"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Erstat med..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Erstat alle"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Erstat alle forekomster"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Skift udskiftningstype. I øjeblikket indstillet til \\$1. Vælg for at ændre."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Erstat"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Erstat enkel forekomst"
+    },
+    {
+      "name": "editor_title",
+      "value": "Deltager"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Fed tekstformatering"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Flyt markøren ned til næste linje."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Flyt markøren til næste tegn."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Flyt markøren til forrige tegn."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Flyt markøren op til forrige linje."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Find på side"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "Billedtekstformatering"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "Reducer tekstindrykning"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "Øg tekstindrykning"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Kursiv tekstformatering"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "Linktekstformatering"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "Ordnet listetekstformatering"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "Uordnet listetekstformatering"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Åbn tekstformateringsmenuen"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "Referencetekstformatering"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Vis flere formateringsmuligheder"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "Skabelon tekstformatering"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "Indlæser editortekst"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wiki tekst editor"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Ingen forskel mellem versioner"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Ingen synlige ændringer er foretaget"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Tom redigeringssammendrag"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Vælg en fil fra Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Beklager, kunne ikke indlæse artiklen"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Du kan stadig læse gemte sider"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Du kan se dine anbefalede artikler når du har internetforbindelse"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Hold styr på hvad du har læst her"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ingen historik at vise"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Denne artikel er endnu ikke skrevet på andre sprog"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Ingen andre sprog tilgængelige"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Opret lister for steder at rejse til, favoritemner og meget mere"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organiser gemte artikler med læselister"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Gem sider på denne liste for at se dem blive vist her"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Ingen sider er gemt på denne liste"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Gem sider for at læse dem senere, selv offline"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Ingen gemte sider endnu"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ingen resultater fundet"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Ingen beskeder er blevet sendt til denne bruger endnu"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prøv venligst igen senere"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Der opstod en ukendt fejl"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "En anden tilfældig artikel"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Fordi du læste"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Yderligere relaterede artikler"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Fortsæt læsning"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Tilbage til Udforsk-feed"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Udforsk artikler i nærheden af din nuværende placering"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Fremhævet artikel"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Tilpas"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Udforsk indstillinger for feedsprog"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Yderligere sprog kan tilføjes på indstillingssiden 'Mine sprog'."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kort skjult"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Hurtigt link tilbage til læsning af en åben artikel"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Tilpas Udforsk-feed"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Tilpas Udforsk-feed"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Hvis du skjuler en korttype, vises den ikke længere i Udforsk-feedet."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Fanen Udforsk"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Daglig fremhævet artikel på Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Fra"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Alle på"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Til"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "På \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Alle \\$1 kort er skjult"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Dette kort er ikke sprogspecifikt. Hvis du slår dette kort fra, vil det blive fjernet fra dit Udforsk-feed."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Ikke-sprogspecifikke kort"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ikke sprogspecifikt"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globale kort"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Skjul dette kort"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Skjul alle “\\$1” kort"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikler om aktuelle begivenheder"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Hvis du skjuler alle Udforsk-feedkort på alle dine sprog, deaktiveres fanen Udforsk."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Begivenheder i historien på denne dag"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedia-artikler i nærheden af din placering"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Dagens udvalgte billede fra Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Vis vilkårlig artikel"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Forslag baseret på læsehistorik"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Vis Fortsæt læsning-kort"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Hvis du deaktiverer kortet Udvalgte artikler, deaktiveres kortet på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Vis kort med Udvalgt artikel"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Hvis du slår \"I nyhederne\"-kortet fra, slås kortet fra på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Vis kortet 'I nyhederne'"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Hvis du slår \"På denne dag\"-kortet fra, slås kortet fra på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Vis På denne dag kort"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Vis Dagens Billede kort"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Hvis du slår Steder-kortet fra, slås kortet fra på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Vis Steder kort"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Hvis du slår Randomizer-kortet fra, slås kortet fra på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Vis Tilfældigt kort"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Vis Fordi du læste kortet"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Hvis du slår Top Read-kortet fra, slås kortet fra på alle tilgængelige sprog."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Vis Mest læst kort"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Forslag om at tilføje indhold til Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Dagligt mest læste artikler"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Slå Udforsk fra"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Hvis du skjuler alle Udforsk-feedkort, slukkes fanen Udforsk og erstattes med fanen Indstillinger"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Vil du deaktivere Udforsk feed?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Slå Udforsk fra"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Fanen Udforsk kan slås til igen i indstillinger for Udforsk feed"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Vil du deaktivere fanen Udforsk?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Hvis du slukker for fanen Udforsk, erstattes fanen Udforsk med fanen Indstillinger."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Ved at vælge at vise Udforsk-feedkort, aktiverer du fanen Udforsk"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Slå Udforsk til"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Dette erstatter fanen Indstillinger med fanen Udforsk. Du kan få adgang til Indstillinger fra toppen af fanen Udforsk ved at trykke på tandhjulsikonet"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Vil du aktivere fanen Udforsk?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Skjul dette kort"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Hovedside for Wikimedia-projekt"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "I dag på Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Alle mest læste artikler"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Mest læst"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Mest læst d. \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "På \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "På Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Steder i nærheden"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Steder"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Din placering"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Din placering fra \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Dagens billede"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Fra Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Tilfældig artikel"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Tilfældig artikel"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Tilføj"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Tilføj foreslåede billeder til Wikipedia-artikler for at forbedre forståelsen."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Tilføj et billede"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Deling af dit appbibliotek omfatter data om dine læselister og historik, præferencer og Udforsk feed-indhold. Denne datafil bør kun deles med en betroet modtager til brug til tekniske diagnostiske formål."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Vil du dele appbibliotek?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Der opstod en fejl under eksport af dine data. Prøv venligst igen senere."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Du har ikke nok enhedsplads til at eksportere dine brugerdata. Prøv venligst igen senere."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Eksportér Brugerdata"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "En fremhævet artikel er ikke tilgængelig for denne dato."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Oplev de bedste artikler på Wikipedia, udvalgt dagligt af vores fællesskab."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Dit primære Wikipedia-sprog understøtter ikke udvalgte artikler. Du kan opdatere din primære Wikipedia i appens Indstillinger-menu."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Fremhævet artikel"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Noget gik galt. Prøv venligst igen senere."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Appen modtog et uventet svar fra serveren. Prøv igen senere."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Ugyldig CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Adgangskoderne stemmer ikke overens"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ugyldig kode"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Brugernavn ikke tilgængeligt"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Reservekode"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-tekst"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Indtast den tekst, du ser ovenfor"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "eksempel@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-mail"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-mail (valgfri)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "genindtast ny adgangskode"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Bekræft ny adgangskode"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "indtast ny adgangskode"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Ny adgangskode"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "genindtast adgangskode"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Bekræft adgangskode"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "indtast adgangskode"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Adgangskode"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Bekræftelseskode"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "indtast brugernavn"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Brugernavn"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Alle"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Ryd søgefelt"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Næste søgeresultat"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Forrige søgeresultat"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Find og erstat"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Luk find og erstat"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Find"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Nulstil"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "En e-mail med instruktioner om nulstilling af adgangskoden blev afsendt"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Udfyld et af felterne nedenfor for at modtage instruktioner om nulstilling af adgangskoden via e-mail"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Nulstil adgangskode"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Eller"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Wikipedia-appen understøtter nu følgende Gan-varianter som primære eller sekundære sprog i appen, hvilket gør det nemmere at læse, søge og redigere i dine foretrukne varianter:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Simplified (gan-hans, 誫 甞 甞 紛n) (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Opdateringer til Gan variant support"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Er du sikker på at du ønsker at slette alle dine seneste emner?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ja, slet alt"
+    },
+    {
+      "name": "history_title",
+      "value": "Historik"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, vend tilbage til Udforsk"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, vend tilbage til Gemt"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mere som \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Flere steder i nærheden af din placering"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mere nær \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Flere aktuelle hændelser"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Dine gemte artikler kan nu organiseres i læselister og synkroniseret på tværs af enheder. Log ind for at acceptere at dine læselister gemmes i dine brugerpræferencer."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Håndter præferencer"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Juster dine læseindstillinger inklusive tekststørrelse og tema fra artiklens værktøjslinje eller i dine brugerindstillinger for en mere komfortabel læseoplevelse."
+    },
+    {
+      "name": "home_title",
+      "value": "Udforsk"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, rul til begyndelsen af Udforsk"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artikler i nærheden"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Tilfældig artikel"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Søg i Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ophavsmand ukendt."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Tilføj dette billede?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Prøv at vende tilbage senere."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Du har ikke flere foreslåede billeder tilgængelige på nuværende tidspunkt."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Noget gik galt"
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Kunne ikke indlæse siden"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Beslut om et foreslået billede skal placeres i en Wikipedia-artikel."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Vis et forslag"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Forslag er maskingenererede, og du vil skulle bruge din dømmekraft til at beslutte, om du vil acceptere eller afvise dem."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Accepter eller afvis et billede"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Billeder er fra Wikimedia Commons, en samling af åbent licenserede billeder benyttet af Wikipedia."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Licenserede billeder"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Lær mere om foreslåede redigeringer"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Tilføj et billede til en artikel"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Dine svar forbedrer fremtidige forslag."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Vælg en eller flere muligheder"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Billedet er ikke relevant"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Ikke tilstrækkelig information til at vurdere"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Billedet er stødende"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Billedet er af lav kvalitet"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Jeg kender ikke dette emne"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Andet"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Indsend"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Begrundelse"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Tilføj billede"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Gennemgå denne artikel for at forstå dets emne"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Gennemse"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "Undersøg billedet og dets tilhørende oplysninger"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Inspicér"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "Beslut om billedet hjælper læserne med at forstå dette emne bedre."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Afgør"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Vis artikel"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "Jeg har stødt på et problem med funktionen Tilføj et Billede Foreslåede Redigeringer:"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "Problemrapport - Tilføj et Billed Funktion"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nej"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Ikke sikker"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Ja"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Min læseliste"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Deltag i undersøgelse"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Fra \\$1 Wikipedia"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Fra Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "I nyhederne"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Indsæt"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Indsæt et link"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Tilføj billeddetaljer"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Beskriv dette billede"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativ tekst"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Hvordan relaterer dette billede sig til denne artikel?"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centrer"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Venstre"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ingen"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Højre"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Billedposition"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Flere oplysninger"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Vælg billede"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Brugerdefineret"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Standard"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Højde"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Bredde"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Billedestørrelse"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "Pak tekst rundt om billede"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Grundlæggende"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Ramme"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Uden ramme"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniaturebillede"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Billedetype"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Medieindstillinger"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Indsæt medie"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Du er ikke logget ind"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Sprog"
+    },
+    {
+      "name": "languages_title",
+      "value": "Skift sprog"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipediasprog"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Lær mere"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Fortsæt uden at logge på"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Log ind på din konto igen"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Et problem medførte, at du ikke længere er logget ind. Du må logge ind igen, for at kunne synkronisere læselister og redigere under dit brugernavn."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Du er blevet logget af"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Glemt din adgangskode?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Deltag i Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Har du ikke en konto? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Log ind på din konto"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Om Wikipedia-appen"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Log på"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Log af"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Er du sikker på at du ønsker at logge ud?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Logget på som: \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privatliv og vilkår"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "I nærheden"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Behandling af personlige oplysninger"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Bedøm appen"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Vilkår for anvendelse"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mere"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Ofte stillede spørgsmål om Wikipedia Zero"
+    },
+    {
+      "name": "main_page",
+      "value": "Forside"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "{{PLURAL:\\$1|\\$1 byte|\\$1 bytes}} tilføjet"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "Bidragere lavede {{PLURAL:\\$1|\\$1 ændring|\\$1 ændringer}} dette år"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "Det anslås at folk har brugt {{PLURAL:\\$1|\\$1 time|\\$1 timer}} – over {{PLURAL:\\$2|år}}! – på at læse engelsk Wikipedia i \\$3. Wikipedia er der, når du vil lære om vores foranderlige verden, vinde et væddemål blandt venner eller besvare et nysgerrigt barns spørgsmål."
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "Vi brugte {{PLURAL:\\$1|\\$1 time|\\$1 timer}} på at læse"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "Aktive iOS App-brugere havde over {{PLURAL:\\$1|\\$1 gemt artikel|\\$1 gemte artikler}}. Tilføjelse af artikler til læselister giver dig adgang til artikler, selv når du er offline. Du kan også logge ind for at synkronisere læselister på tværs af enheder."
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "Vi havde over {{PLURAL:\\$1|\\$1 gemt artikel|\\$1 gemte artikler}}"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "De 5 mest besøgte artikler på engelsk Wikipedia var:\n\n1. \\$1 \n2. \\$2 \n3. \\$3 \n4. \\$4 \n5. \\$5 \n\nLæs mere i \\$6vores dedikerede blogindlæg \\$7 ."
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "Engelsk Wikipedias mest læste artikler"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Søg Wikipedia på mere end 300 sprog"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Tilføj sprog"
+    },
+    {
+      "name": "more_menu",
+      "value": "Mere"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Tilføj {{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}} til læselisten"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Forhåndsvisning"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|fod}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 amerikanske mil"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Du loggede på med en midlertidig adgangskode. Angiv en ny adgangskode her for at færdiggøre login."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Sæt din adgangskode"
+    },
+    {
+      "name": "new_tab",
+      "value": "Ny fane"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Næste"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Opsæt venligst en e-mail-konto på din enhed og forsøg igen."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Ingen internetforbindelse"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ikke nu"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Fra \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Advarsel"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Meddelelsesfilter - har filtre anvendt"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Projektfilter - har anvendt filtre"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Notifikationer med ulæst badge"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 notifikation"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Skift adgangskode"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Søger efter notifikationer..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "I appen"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "På web"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Underretningsdetaljer"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Søger efter notifikationer..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Du har ingen nye beskeder"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Tilpas \\$1 for at se flere beskeder"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Tilføj projekter for at se flere beskeder"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter|\\$1 filtre}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Slå push-notifikationer til"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Alle"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Læst"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Ulæst"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Læsestatus"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Alle typer"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Artikel"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 diskussionsside"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Forskel"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1's brugerside"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-emne"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Din diskussionsside"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Advarsel fra \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Udført"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projekter"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Kun projekter, du har oprettet en konto til, vises her"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedia-projekter"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedias"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Markér"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Markér alle som læste"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Markér som læst"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Markér som ulæst"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Mere"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Fortsæt"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtre"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Lær mere om notifikationer"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Projektindbakker"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push-notifikationer"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Redigering af notifikationer"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Slå push-notifikationer til?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Slå push-notifikationer til"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nej tak"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia er et samarbejdsprojekt, og aktivering af push-beskeder kan gøre det lettere at holde sig ajour med beskeder, advarsler og \"tak\" fra andre bidragsydere."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Projektfilter"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Alle"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Alle meddelelser"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 af \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtreret efter"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=In 1 projekt|In \\$1 projekter}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 Projekt|\\$1 projekter}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1| 1=1 type| \\$1 typer}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Læst"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 og \\$2 i \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Ulæst"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Redigeringsmilepæl"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Din redigering blev tilbageført"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Ny email"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Logind fra en ukendt enhed"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Omtale på artiklens diskussionsside"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Nævn i redigeringsresuméet"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Mislykket omtale"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Vellykket omtale"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Omtale på diskussionssiden"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Besked på din diskussionsside"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Sidelink"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Side gennemgået"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Tak"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Oversættelsesmilepæl"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Ændringer af brugerrettigheder"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Velkommen!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Wikidata-forbindelse oprettet"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Markér som læst"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Markér som ulæst"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Mere"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Notifikationer"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Markér valgte notifikationer"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Omtaler"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Bemærkning"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Velkomstbesked"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Forbindelse med Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Redigeringsmilepæl"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Redigering tilbagerullet"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Omtale i redigeringssammenfatning"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-mail fra anden bruger"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Login forsøg"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Mislykket forsøg på login til din konto"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Login succes"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Andet"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Sidelink"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Sidegennemgang"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Tak"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Velkommen"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Ny aktivitet på Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1| \\$1 ny besked| \\$1 nye beskeder}} på \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Ny besked|Nye beskeder}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mia."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mio."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "fra \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historisk hændelse|\\$1 historiske hændelser}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Flere historiske hændelser på denne dag"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 historisk begivenhed mere|\\$1 flere historiske begivenheder }} på denne dag"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Ingen tilgængelige data"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 fra \\$2 Wikipedia"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "På denne dag"
+    },
+    {
+      "name": "open_article",
+      "value": "Vis artikel"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Tryk på «W» for at gå tilbage til fanen du startede fra"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Sammenlign"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "mindre redigeringer"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Forfatter: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Kommentar \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Versionshistorik"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Mindre ændring"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Tilføjede {{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Fjernede {{PLURAL:\\$1| \\$1 byte| \\$1 bytes}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Revision af \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Kun to revisioner kan vælges."
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 redigering|\\$1 redigeringer}} siden \\$2"
+    },
+    {
+      "name": "page_location",
+      "value": "Vis på et kort"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Du har ikke rettigheder til at redigere denne side"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Denne side er beskyttet"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Lignende sider"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Du er ikke logget ind"
+    },
+    {
+      "name": "pictured",
+      "value": "billedet"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Ryd gemte søgninger"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikler"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Centrér på din placering"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Vis som liste"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Vis som kort"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Vis flere artikler"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Udforsk byer, lande, kontinenter, naturlige landemærker, historiske begivenheder, bygninger og mere."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Søg efter Wikipedia-artikler med geografiske placeringer"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Aktivér placering"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Adgang til din placering er kun tilgængelig, når appen eller en af dens funktioner er synlige på din skærm."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Udforsk artikler i nærheden af din placering ved at aktivere placeringsadgang"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtrer artikler"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtrér"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Du har ingen gemte steder"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Gemte artikler"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Mest læst"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Mest læste artikler"
+    },
+    {
+      "name": "places_list_title",
+      "value": "Liste"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Placering aktiveret"
+    },
+    {
+      "name": "places_map_title",
+      "value": "Kort"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ingen af dine gemte artikler har stedinformation"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 matcher “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Søg steder"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Mente du \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Seneste søgninger"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Alle gemte artikler"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Søgeforslag"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultater i dette område"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Alle populære artikler"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "I nærheden"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Din aktuelle placering"
+    },
+    {
+      "name": "places_title",
+      "value": "Steder"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ukendt afstand"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Dagens billede for \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Kunne ikke hente billede af den dag, for \\$1"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Nyd et smukt dagligt foto udvalgt af vores fællesskab."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Dagens billede"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Tillad Wikimedia Foundation at indsamle oplysninger om, hvordan du bruger appen, for at gøre appen bedre."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Privatlivspolitik"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Problem med funktionen"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "Navigerer til profilvisningen."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profil"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "Profil med ulæst badge"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "Eller støt Wikipedia med en donation for at holde den gratis og tilgængelig for alle rundt om i verden."
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Log ind / Tilmeld dig Wikipedia"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Tilføj denne artikel til en læseliste?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Tilføj »\\$1« til læselisten?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ja, tilføj dem til mine læselister"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Der er artikler gemt i dit Wikipediaprogram. Ønsker du at bevare dem og sammenføje dem med læselister synkroniseret til din konto?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Der blev fundet gemte artikler"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Denne post er ikke synkroniseret, da du har nået grænsen for antallet af poster i denne liste."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Der opstod en uventet fejl under synkronisering af dine læselister."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Denne liste er ikke synkroniseret, da du har nået begrænsningen for antallet af synkroniserede lister."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Opret læseliste"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Navn på læseliste"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Opret en ny liste"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Læseliste slettet"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nej, slet artikler fra enhed"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1| Artikel|Artikler}} kan ikke tilføjes til denne liste. Du har nået grænsen på \\$2 artikler pr. læseliste til \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Læselistenavn er allerede i brug"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Der opstod en uventet fejl under opdatering af dine læselister."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ja, bevar artikler på enhed"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Der er artikler synkroniseret med din Wikipediakonto. Ønsker du at bevare dem på denne enhed efter at du logger ud?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Bevar gemte artikler på enhed?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sorter artikler"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Der er en begrænsning på 5.000 usorterede artikler. Sorter venligst dine eksisterende artikler i lister for at fortsætte synkroniseringen af usorterede artikler."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Begrænsningen for usorterede artikler er nået"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Log ind for at synkronisere dine gemte artikler"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Log ind eller opret konto"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Log ind for at synkronisere gemte artikler"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Log ind eller opret en konto så dine gemte artikler og læselister synkroniseres på tværs af enheder og gemmes i dine brugerpræferencer."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Synkroniser dine gemte artikler?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[bruger oprettet]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "valgfri kort beskrivelse"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "titel på læseliste"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Synkronisering af læselister er blevet deaktiveret for din Wikipedia-konto på en anden enhed. Du kan slå synkronisering til igen ved at opdatere dine indstillinger."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Synkronisering deaktiveret"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Aktiver synkronisering"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Dine gemte artikler og læselister kan nu blive gemt på din Wikipediakonto og synkroniseret på tværs af Wikipedia apps."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Aktiver synkronisering af læselister?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Synkronisering er aktiveret på denne konto"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Der opstod en uventet fejl under tilføjelse af et punkt til din læseliste. Prøv igen senere."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Der opstod en uventet fejl under oprettelse af din læseliste. Prøv venligst igen senere."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Der opstod en uventet fejl under sletning af din læseliste. Prøv igen senere."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Der opstod en uventet fejl under fjernelse af en post i din læseliste. Prøv igen senere."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Der opstod en uventet fejl under opdatering af din læseliste. Prøv igen senere."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "En læseliste med navnet »\\$1« blev ikke fundet. Sikr dig at du har det korrekte navn."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikel tilføjet til »\\$1«"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Artiklen kunne ikke synkroniseres"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ikke synkroniseret"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artiklen er sat i kør for download"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Frigør plads på dit udstyr og prøv igen"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Din liste '\\$1' er blevet omdøbt til '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 læseliste|\\$1 læselister}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Standardliste for dine gemte artikler"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Gemt"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Denne handling kan ikke fortrydes. Enhver artikel gemt kun i {{PLURAL:\\$1|denne liste|disse lister}} vil ikke blive gemt."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Slet {{PLURAL:\\$1|liste|lister}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 artikel|\\$1 artikler}} og {{PLURAL:\\$2| \\$2 læseliste| \\$2 læselister}} synkroniseret fra din konto"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Listen er ikke synkroniseret, grænsen er overskredet"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sorter gemte artikler"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Der er en begrænsning på \\$1 artikler per læseliste. Eksisterende lister med mere end denne begrænsning er blevet delt i flere lister."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Synkronisering genoptages, når internetforbindelse er tilgængelig"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Sort tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Lysstyrkeskyder"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Mørk tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Lyst tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepia-tema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Syntaksfremhævelse"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Tekststørrelseskyder"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Syntaksfremhævelse"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Spring til referencesektionen"
+    },
+    {
+      "name": "reference_title",
+      "value": "Reference \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=I dag|1=I går|\\$1 dage siden}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 time"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=For nyligt|\\$1 time siden|\\$1 timer siden}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 timer siden"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=For nyligt|\\$1 time siden|\\$1 timer siden}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Lige nu|\\$1 minut siden|\\$1 minutter siden}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 min"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Lige nu|\\$1 minut siden|\\$1 minutter siden}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 min siden"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Denne måned|1=Sidste måned|\\$1 måneder siden}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 sek"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 sek siden"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Dette år|1=Sidste år|\\$1 år siden}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Tilbage"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Tilbage til artikel"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Omgjort redigering"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "Gem alle faner"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Alle artikler"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "Gemte alle faner."
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "Gemte alle faner. Se læseliste."
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Denne liste kan ikke slettes"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Hentning af billeder mislykkedes for denne gemte side."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Artikel download i gang..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "Søg i læseliste"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Læselister"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Søg i gemte artikler"
+    },
+    {
+      "name": "saved_title",
+      "value": "Gemt"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Fjernelse {{PLURAL:\\$1|af denne artikel vil fjerne den|af disse artikler vil fjerne dem }} fra alle associerede læselister"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Fjern {{PLURAL:\\$1|artikel|artikler}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Søg i Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Ryd"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Søg i Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Slet alle seneste søgninger?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Denne handling kan ikke fortrydes!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Slet"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Endnu ingen seneste søgninger"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Seneste søgte"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Omdirigeret fra: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Søg"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Wikipedia-appen understøtter nu følgende serbiske varianter som primære eller sekundære sprog i appen, hvilket gør det nemmere at læse, søge og redigere i dine foretrukne varianter:\n\nсрпски ћирилица serbisk, kyrillisk (sr-ec)\nsrpski latinica serbisk, latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Opdateringer til understøttelse af serbisk variant"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konto"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "App-tema"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Ryd cachede data"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Rydning af cachede data vil frigøre omkring \\$1 plads. Det vil ikke slette dine gemte sider."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Ryd cachede data?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Annuller"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Ryd cache"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Donér"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Hjælp og tilbagemelding"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Vis sprog ved søgning"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Du kan administrere, hvilke sprog der vises på dit Udforsk-feed ved at tilpasse dine Udforsk-feedindstillinger."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Mine sprog"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push-notifikationer"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Prøv igen"
+    },
+    {
+      "name": "settings_off",
+      "value": "Fra"
+    },
+    {
+      "name": "settings_on",
+      "value": "Til"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primær"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Det første sprog i denne liste bruges som appens primære sprog."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Tillad at Wikimedia gemmer dine gemte artikler og læselister til dine brugerpræferencer, når du logger ind for at synkronisere."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Synkroniser gemte artikler og lister"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Dine læselister vil blive synkroniseret i baggrunden"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Anmod om en opdatering af dine synkroniserede artikler og læselister."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Opdatér synkroniserede læselister"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Vis den gemte (f.eks. standard) læseliste som en separat liste i din læselistevisning. Denne liste vises på Android-enheder."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Vis gemt læseliste"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Artikellagring og synkronisering"
+    },
+    {
+      "name": "settings_title",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Lavet med Wikipediaprogrammet"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" på Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Bygger Del-et-fakt-kort …"
+    },
+    {
+      "name": "share_default_format",
+      "value": "»\\$1« fra »\\$2«: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "»\\$1«\n\nfra »\\$2«\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Få Rutevejledning"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Del …"
+    },
+    {
+      "name": "share_message_format",
+      "value": "»\\$1« \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Åben i Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "»\\$1« via Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” via Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Tilføjet for nylig"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titel"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "Vælg en eller flere muligheder"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "Andet"
+    },
+    {
+      "name": "survey_submit",
+      "value": "Indsend"
+    },
+    {
+      "name": "survey_title",
+      "value": "Årsag"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Indholdsfortegnelse"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Afslut"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Luk indholdsfortegnelse"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Indhold"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Skjul indholdsfortegnelsen"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Underoverskrift \\$1"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1| \\$1 fane| \\$1 faner}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Åbn fane"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Wikipedia-appen understøtter nu følgende Tachelhit-varianter som primære eller sekundære sprog i appen, hvilket gør det lettere at læse, søge og redigere i dine foretrukne varianter:\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachellatn,) Latin"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Opdateringer til Tachelhit variant support"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Wikipedia-appen understøtter nu følgende tadsjikiske varianter som primære eller sekundære sprog i appen, hvilket gør det nemmere at læse, søge og redigere i dine foretrukne varianter:\n\nтоҷикӣ кирилликӣ Tajik, kyrillisk (tg-cyrl)\ntojikī lotinī tajikisk, (latin)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Opdateringer til understøttelse af tadsjikiske varianter"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1| \\$1 aktiv bruger| \\$1 aktive brugere}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Tilføj emne"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Arkiver"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Skift sprog"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Læst"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Ulæst"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Find på siden"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Husk, vi er alle mennesker her"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Vær venlig"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Dit svar blev offentliggjort"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Sideinformation"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Permanent link"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Tjek venligst din internetforbindelse."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Kan ikke udgive din kommentar."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Kan ikke udgive nyt emne."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Læs på web"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 svar}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Svar"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Svar til \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Svardybde: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Svar til \\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "Bemærk, at dit svar automatisk bliver underskrevet med dit brugernavn. Ved at gemme ændringer accepterer du \\$1Vilkårene for brug\\$2, og accepterer at frigive dit bidrag under \\$3CC BY-SA 4.0\\$4 og \\$5GFDL\\$6 licenserne."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Versionshistorik"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Abonnér"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Brugerdiskussion"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Bidrag"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Ingen arkiverede sider fundet."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Arkiver"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Læs mere"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Din kommentar blev tilføjet"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Fortsæt med at redigere"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Rediger kilde"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Tilføj nyt emne"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Start en diskussion"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Samtalen begynder her"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Start en diskussion med \\$1"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Beskrivelse"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Emne beskrivelse"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Emne"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Emnetitel"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Læs mere"
+    },
+    {
+      "name": "temporary_account",
+      "value": "Midlertidig konto"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Vilkår for anvendelse"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Sort"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Mørk"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Standard"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Lys"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "today_title",
+      "value": "I dag"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Se, hvad verden læser i dag på Wikipedia."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 læsere"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Mest læst"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Prøv nu"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Guide"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "Fortsæt login"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "Indtast venligst e-mailbekræftelseskoden"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Fortsæt login"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Indtast venligst to-faktor-bekræftelseskode"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Log ind på din konto"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Brug en af dine reservekoder"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Brug bekræftelseskode"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Kunne ikke indlæse diskussionsside"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Ukendt"
+    },
+    {
+      "name": "unwatch",
+      "value": "Fjern overvågning"
+    },
+    {
+      "name": "user_title",
+      "value": "Bruger"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Fortsæt"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Advarsel"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nej tak"
+    },
+    {
+      "name": "view_changes",
+      "value": "Vis ændringer"
+    },
+    {
+      "name": "watch",
+      "value": "Overvåg"
+    },
+    {
+      "name": "watchlist",
+      "value": "Overvågningsliste"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Tilføjet til din overvågningsliste i 1 måned."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Tilføjet til din overvågningsliste i 1 uge."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Tilføjet til din overvågningsliste i 1 år."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Tilføjet permanent til din overvågningsliste."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Tilføjet til din overvågningsliste i 6 måneder."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Tilføjet til din overvågningsliste i 3 måneder."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Se overvågningsliste"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 byte|\\$1 bytes}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 måned"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 uge"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 år"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Permanent"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 måneder"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 måneder"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Vælg tidsperiode for overvågningsliste"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Overvågningsliste udløber"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Søg artikler"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Du har ingen Overvågningslisteelementer"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Angiv udløb"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filtrér"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Læste ændringer"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Ulæste ændringer"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Menneske (ikke bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Seneste revisioner"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Seneste revision"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ikke den seneste revision"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Betydning"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Mindre ændringer"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Ikke-mindre ændringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Type af ændring"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Kategoriændringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Sideredigeringer"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata redigeringer"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Registreret"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Tilføj sprog..."
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Lær mere om Overvågningsliste"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Introduktion til din Overvågningsliste"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Fjern fra Overvågningsliste"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Din 'Tak' blev sendt til \\$1"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Spor ændringer"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Overvågningslisten over de sider, du har tilføjet, såsom redigeringer eller diskussioner, kan tilgås via Indstillinger → Konto."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Vis opdateringer"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Tak"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Brugerbidrag"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Brugerside"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Brugers diskussionsside"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Se artikler"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Data & Privatliv"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Anbefalet læsning og daglige artikler fra vores fællesskab"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Udforsk nyhedskilde"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Rejs tilbage i tid for at lære noget om hvad der skete i dag historisk"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "På denne dag"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Find landemærker nær dig eller søg steder over hele verden"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Faneblad med steder"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Kom i gang"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nye måder at udforske på"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Forstået"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia er et samarbejde blandt frivillige og består af mere end 40 millioner artikler på mere end 300 sprog."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Lær mere om Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Om Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia er et globalt projekt til at bygge frie encyklopædier i alle verdens sprog. Næsten alle med internetadgang kan deltage ved at bidrage neutral, kildeangivet information."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Den frie encyklopædi"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Tilføj et andet sprog"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Tilføj eller rediger foretrukne sprog"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Vi har fundet de følgende sprog på din enhed:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Søg i mere end 300 sprog"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "Vi mener, at du ikke skal afgive personlige oplysninger for at deltage i den frie vidensbevægelse. Brugsdata indsamlet til denne app er anonyme."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Lær mere om vores privatlivspolitik og brugsbetingelser"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Udforsk, hvad der skete på denne dag i historien."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Gratis online encyklopædi, som alle kan redigere"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, et gratis wiki-indholdsleksikon, går online."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Henter forhåndsvisning af dine ændringer…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Dette link fører til en ekstern hjemmeside: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ekstern henvisning"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia har ikke en artikel med dette nøjagtige navn"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Ingen intern henvisning blev fundet"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Dette link leder til '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Linkforhåndsvisning"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Gem ændringer"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA kontrolfejl."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Brug for CAPTCHA bekræftelse."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Ude af stand til at afgøre resultatet af wikitext upload."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Udgiver..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Redigeringer vil blive tilskrevet IP-adressen for din enhed. \\$1 hvis du vil have mere privatliv."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Vilkår for anvendelse"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "Redaktører på iOS-appen foretog mere end {{PLURAL:\\$1|\\$1 redigering|\\$1 redigeringer}}"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "Wikipedia blev redigeret {{PLURAL:\\$1|\\$1 gang|\\$1 gange}} i minuttet"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "Wikipedia havde {{PLURAL:\\$1| \\$1 artikel| \\$1 artikler}} på tværs af over {{PLURAL:\\$2| \\$2 aktivt sprog| \\$2 aktive sprog}}. Du sluttede dig til millioner af andre i at udvide din viden og udforske forskellige emner."
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Wikipedia var tilgængelig på mere end {{PLURAL:\\$1|sprog}}"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "Brugere af appen havde mere end{{PLURAL:\\$1|\\$1 gemt artikel|\\$1 gemte artikler}}"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "For folk over hele verden er Wikipedia ofte det første stop, når de skal besvare et spørgsmål, søge information til skole eller arbejde eller lære en ny kendsgerning."
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "App-brugere har set Wikipedia-artikler {{PLURAL:\\$1| \\$1 gang| \\$1 gange}}"
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "Aktivér nyt appikon"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_donor_updated",
+      "value": "Tak fordi du investerer i en fremtid for gratis viden.\n\nDine bidrag som donor på \\$1 er med til at bane vejen for en verden af gratis information, og som et resultat har du låst op for et brugerdefineret bidragyderikon til Wikipedia på din startskærm."
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_and_donor_updated",
+      "value": "Tak fordi du investerer i fremtiden for fri viden.\n\nDine bidrag som donor og redaktør i \\$1 er med til at bane vejen for en verden af gratis information, og som et resultat har du låst op for et brugerdefineret bidragyderikon til Wikipedia på din startskærm."
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_updated",
+      "value": "Tak fordi du investerer i fremtiden for fri viden.\n\nDine bidrag som redaktør i \\$1 er med til at bane vejen for en verden af gratis information, og som et resultat har du låst op for et brugerdefineret bidragyderikon til Wikipedia på din startskærm."
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "Nyt appikon låses op for din startskærm"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "Fredage"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "Mandage"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "Lørdage"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "Søndage"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "Torsdage"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "Tirsdage"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "Onsdage"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Donér"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Donér nu"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "Se indsigt i, hvilke artikler vi læste og redigerede, og del højdepunkter fra vores år på Wikipedia."
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "Se indsigt i de artikler, du læser i Wikipedia-appen, del din rejse, og opdag højdepunkter fra dit år."
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "Udforsk Wikipedia i årsoversigt"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "Udforsk din Wikipedia-årsoversigt"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "Afslut"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "Læste artikler"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "Antal læste artikler"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "Del højdepunkter"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "Kategorier der interesserede mig"
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "Timer brugt på læsning"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "Antal oprettede læselister"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "Hvor ofte Wikipedia blev redigeret"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "{{PLURAL:\\$1| \\$1 gang| \\$1 gange}} i minuttet"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "Mest læste artikler på engelsk Wikipedia"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "Yndlingsdag at læse"
+    },
+    {
+      "name": "year_in_review_highlights_number_app_editors",
+      "value": "Redigeringer i appen"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "Artikler jeg læser mest"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "Læste minutter"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "Wikipedia logo"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "Vi glæder os til næste år!"
+    },
+    {
+      "name": "year_in_review_highlights_times_edited",
+      "value": "Antal redigeringer"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "Tak for at du har brugt et år med Wikipedia."
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "Du kan få adgang til dit årsoverblik senere under Profil."
+    },
+    {
+      "name": "year_in_review_intro_login_title",
+      "value": "Log ind for personalisering"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "Dine mest interessante kategorier"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "Lås op for din bidragyderbelønning til næste år!"
+    },
+    {
+      "name": "year_in_review_noncontributor_slide_subtitle_updated",
+      "value": "Vi er glade for, at Wikipedia var en del af din \\$1 ! Lås op for en særlig belønning i din \\$2 Årsoversigt ved at blive bidragyder – enten ved at [redigere Wikipedia]( \\$3 ) eller ved at donere fra appen til [Wikimedia Foundation]( \\$4 ), den nonprofitorganisation, der står bag den. Hvis Wikipedia er nyttig for dig, så overvej venligst at donere for at hjælpe med at opretholde dens fremtid og holde den gratis, reklamefri, troværdig og tilgængelig for alle. Hvis du har doneret et andet sted, er din støtte dybt værdsat."
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "Yndlingsdag at læse"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "Måned du læste mest"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "Yndlingstidspunkt at læse"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "Du har klare læsemønstre"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "Tak fordi du investerer i fremtiden for fri og gratis viden. I år forbedrede Wikimedia Foundation teknologien for at kunne betjene enhver læser og frivillige bedre, udviklede værktøjer, der styrker samarbejdet, og understøttede Wikipedia på flere sprog. [Få mere at vide om vores arbejde](\\$1)."
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Din generøsitet hjalp med at holde Wikipedia i gang"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "Læsere over hele verden sætter pris på dine bidrag. I de sidste 2 måneder har artikler, du har redigeret, modtaget {{PLURAL:\\$1| \\$1 visning| \\$1 visninger}}. Takket være redaktører som dig er Wikipedia en stadigt forbedret, faktabaseret og pålidelig vidensressource for verden."
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "Dine redigeringer er blevet vist mere end {{PLURAL:\\$1| \\$1 gang| \\$1 gange}} for nylig"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_1",
+      "value": "Tak fordi du er en af de frivillige bidragsydere, der gør en forskel på Wikimedia-projekter rundt om i verden."
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_2_updated",
+      "value": "Frivillige som dig har lavet {{PLURAL:\\$1| \\$1 ændring| \\$1 ændringer}} på tværs af {{PLURAL:\\$2| \\$2 sprogudgave| \\$2 forskellige sprogudgaver}} af Wikipedia."
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "Du redigerede {{PLURAL:\\$1|\\$1 gang|\\$1 gange}} i denne uge."
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "En animeret illustration af en hånd, der holder Wikipedia-kloden, som gradvist forvandles til en lille puslespilsbrik, der symboliserer individuelle bidrag til platformen."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "Du læste om \\$2\\$1\\$3."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "Du læste om \\$3\\$1\\$4 og \\$3\\$2\\$4."
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "Du læste om \\$4\\$1\\$5, \\$4\\$2\\$5 og \\$4\\$3\\$5."
+    },
+    {
+      "name": "year_in_review_personalized_location_title_format_updated",
+      "value": "Artikler, du læser, er tættest på \\$1"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "Dine vigtigste artikler"
+    },
+    {
+      "name": "year_in_review_personalized_reading_subtitle_format_v3_updated",
+      "value": "Vi anslår, at det placerer dig i den øverste **PROCENT** af Wikipedia-læsere globalt. Den gennemsnitlige person læser {{PLURAL:\\$1| \\$1 artikel| \\$1 artikler}} om året."
+    },
+    {
+      "name": "year_in_review_personalized_reading_title_v3_format_updated",
+      "value": "Du brugte {{PLURAL:\\$1| \\$1 minut| \\$1 minutter}} på at læse {{PLURAL:\\$2| \\$2 artikel| \\$2 artikler}} i \\$3"
+    },
+    {
+      "name": "year_in_review_personalized_saved_subtitle_format_v3_updated",
+      "value": "Disse artikler omfattede \\$1, \\$2 og \\$3 . Hver gemt artikel afspejler dine interesser og hjælper med at opbygge en personlig vidensbase på Wikipedia.\n\nAktive app-brugere havde {{PLURAL:\\$4| \\$4 gemt artikel| \\$4 gemte artikler}} i år."
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "Du har gemt {{PLURAL:\\$1| \\$1 artikel| \\$1 artikler}}"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "En animeret illustration, der viser bytes, der stables oven på hinanden, hvilket symboliserer den kontinuerlige skabelse af fri viden."
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "Et ur, der tikker, symboliserer den tid, folk bruger på at læse Wikipedia."
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "En puslespilsbrik med Wikimedia-logoet, der går ind fra venstre."
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "En illustration med en Wikipedia-puslespilsbrik ved siden af en kuglepen."
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "Her er gennemgangen af mit Wikipedia-år. Oprettet med Wikipedia iOS-appen"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "Yderligere tanker?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Neutral"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Tilfreds"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "Hjælp med at forbedre Wikipedia Årsgennemgang. Er du tilfreds med denne funktion? Hvad vil du gerne se næste år?"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "Tilfredshedsundersøgelse"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "Utilfreds"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "Meget tilfreds"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "Meget utilfreds"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "Eftermiddag"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "Aften"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "Sent på natten"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "Middag"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "Morgen"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "Nat"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Wikipedia w-logo"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Wikimedia Foundation logo"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "I går"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Fordi du læste"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Alle mest læste artikler"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "En anden tilfældig artikel"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Fra %s Wikipedia"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "På %s Wikipedia"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Fra Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ingen historik at vise"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "I dag"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "I går"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Skjul dette kort"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Tilpas Udforsk-feed"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kort skjult"
+    },
+    {
+      "name": "editor_published",
+      "value": "Din redigering er udgivet."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Artikelbeskrivelse for %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Mente du %s?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "PÅ WIKIPEDIA HarmonyOS"
+    }
+  ]
+}

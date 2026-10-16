@@ -1,0 +1,4992 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Википедия"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Контент лицензия"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Башха белгиленмесе, контентге \\$1 тамалында джетиширчады."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike Лицензия"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Авторла"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Хайырланнган китабханала"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Толу тизме"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лицензия"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Ачыкъ къайнакъ программа баджарыуну сюебиз \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Джерле картала лицензия"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Джерле, Apple Maps берген карталаны хайыраныр. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Лицензияны юсюнде толу хапарлау ючюн бери къарагъыз"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1 сизни кибик кёллюлени болушлугъу бла болдурулду"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Репозиторийле"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Къайнакъ кодха \\$1 тюбюнде джетиширчады."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT Лицензия"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Къошакъ ючюн кери билдириу джибер"
+    },
+    {
+      "name": "about_title",
+      "value": "Юсюнден"
+    },
+    {
+      "name": "about_translators",
+      "value": "Кёчюрюучюле"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1-деги волонтерла кёчюргендиле"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Викимедиа Фонд"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Википедия"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Суратны кёралмаймысыз? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Джангы CAPTCHA алына турады..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Хыйсаб излем."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA къоркъуусузлукъ контроль"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Хыйсабынгы къура"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Алайсыз да хыйсабыгъыз бармыды? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Кир."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Системагъа кириу..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Хыйсаб къурар ючюн хайырланыучу атны, проль эмда пароль къабыл этиуню киргизтирге керексиз."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Пароль къырла келишмейдиле."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Сакъланады…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Джангы хыйсаб къура"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Хыйсабыгъыз"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Хыйсабны джокъ эт"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Сюзюу бетигиз"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Автомат къол салыу сюзюуле"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Сюзюулени автомат халда къол салыныуу, къол салыу джарашдырыулада танылгъан къолну салыр"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Сюзюу бет джарашдырыула"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Къош..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Окъуу тизмеге къош"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Тизмеге къош"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Ызына ал"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Тюзетиуню унама"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Тюзетиулени унама"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Бетде таб"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Тюзетиуню андан ары бардыр"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Тилни ауушдур"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Ташы..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Окъуу тизмеге ташы"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Эндиги Версия"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Аллындагъы Версия"
+    },
+    {
+      "name": "action_read",
+      "value": "Окъу"
+    },
+    {
+      "name": "action_redo",
+      "value": "Къайтар"
+    },
+    {
+      "name": "action_remove",
+      "value": "Къорат"
+    },
+    {
+      "name": "action_retry",
+      "value": "Джангыдан сына"
+    },
+    {
+      "name": "action_save",
+      "value": "Сакъландыр"
+    },
+    {
+      "name": "action_saved",
+      "value": "Сакъланды"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Сакъланды. Сакъландырмаз ючюн актив этигиз."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Статья артдагъа сакъланды"
+    },
+    {
+      "name": "action_share",
+      "value": "Юлюшле"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Юлюшле"
+    },
+    {
+      "name": "action_sort",
+      "value": "Айыр"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Хайырланыучугъа Бюсюреу"
+    },
+    {
+      "name": "action_undo",
+      "value": "Кери ал"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Сакъландырма"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Статья сакъланмады"
+    },
+    {
+      "name": "action_update",
+      "value": "Джангырт"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 статьяны}} окъуу тизмеге къошугъуз"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Унама"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Википедия, белгилеу, вики, энциклопедия, билим, тинтиу, информация, окъуу, юрениу"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Окъуу тасма, тамамы бла джарашдырылырча эмда окъууда тынч болурча этилгенди. Локализация, джетишим маджаллашдырыула эмда халат тюзетиуле."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Сизге джууукъ джерлени тинтер, оффлайн статьяланы окъур эмда окъуу сынамыгъызны джарашдырыр ючюн Википедия къошакъны эндиригиз."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Эркин энципклопедия"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Статьяны текстини ёлчемлерини джарашдыр"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Таблицаланы кер"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Къысха фактла, Белгилеуле, Комментарийле эмда Тыш джибериуле да къошулуб бютеу статьялада бютеу таблицаланы ачыкъ шекелде джарашдырыгъыз."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Къарангы эмда къара темаладагъы суратланы чокъуракълыкъларын азайт"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Окъуу темала"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Таблица Джарашдырыула"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Статья текстни ёлчемин тюрлендирир ючюн тайдырыучуну тартыгъыз. Къошакъдагъы башха текст аламланы джангыдан бойландырыр ючюн, системагъызны текст ёлчемининден хайырланыгыз."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Тема сайлаула"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Бу статьяны юсюнден"
+    },
+    {
+      "name": "article_delete",
+      "value": "Кетер"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|статья}} кетерилди"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Къошакъ, джангыртылгъан контентни заманында алалмады. Тюрлениулеригизни салындыгъыны кёрюр ючюн, тилейбиз, бу бетни кечирек джангыртыгъыз."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Тилни таб"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Тилни сайла"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Башха тилле"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Тиллеригиз"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Энтда окъу"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Белгилеу \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Статья версияны тарихи"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Статьяны сакъландырыр ючюн девайсыгъызда джетерли джер джокъду"
+    },
+    {
+      "name": "article_share",
+      "value": "Юлюшле"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Салгъыч навигация"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "Салгъычла ючюн эс салыула"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Статьяны сюзюу бети"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Окъуу Тема Джарашдырыула"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Болджаллы хыйсаб болдурду"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Кери"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Кери къайтыр ючюн бас"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Кери къайт"
+    },
+    {
+      "name": "button_next",
+      "value": "Эндиги"
+    },
+    {
+      "name": "button_ok",
+      "value": "ОК"
+    },
+    {
+      "name": "button_publish",
+      "value": "Басмала"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Къалай алай да публикация эт"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Халатны юсюнден билдир"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Артдагъа сакъландыр"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Артдагъа сакъланнганды"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Сакъланнганладан къоратылды"
+    },
+    {
+      "name": "button_skip",
+      "value": "Атлат"
+    },
+    {
+      "name": "cancel",
+      "value": "Ызына ал"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Википедия къошакъ, энди энишгедеги Къытайча вариантланы биринчи неда экинчи болуб къошакъны ичинде, сайлагъан вариант бла окъууну, излеуню неда тюзетиу этиуню тынч этер ючюн дагъан береди:\n\n简体 Къытайча, Ортакълашхан (zh-hans)\n香港繁體 Эскиден келген Гонконгча (zh-hk)\n澳門繁體 Эскиден келген Макаоча (zh-mo)\n大马简体 Тынч этилген Малайзия (zh-my)\n新加坡简体 Тынч этилген, Сингапур (zh-sg)\n臺灣正體 Эскиден келген Тайванча (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Къытайчаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Тазала"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Кэш тазалау тамамланды."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Кэш тазалана турады."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Бютеу салгъычланы джаб"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Бютеу \\$1 салгъынчы джабаргъа излеймисиз? Бу этиу кери алыналлыкъ тюлдю."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Бютеу \\$1 салгъыч джабылсынмы?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Джаб"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Башха салгъычланы джаб"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Салгъыч джабылсынмы?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Салгъычланы джаб"
+    },
+    {
+      "name": "compass_direction",
+      "value": "сагъат \\$1 табада"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Бардыр"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Аслам статья окъур ючюн Википедияны тинтигиз"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Кёб болмай кёргюзюлген статья джокъду"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Википедия къошакъ энди энишгедеги Кърым Татар тилни вариантларын биринчи неда экинчи тилболуб къошакъ ичинде дагъан береди, бу шекелде сайлагъан вариант бла андан да тынч окъурча, излерча эмда тюзетиу этерчасыз:\n\nQırımtatarca, Latin кърымтатар латин харифле (chr-latn)\nкъырымтатарджа, Кирил кърымтатар кирил харифле (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Кърымтатарчаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Джангыртыла турады..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Ачыкълау къош"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 ючюн статья ачыкълау"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Статья ачыкълауну тюрлендириб \\$1 къабыл этеме эмда \\$2 лицензия тамалындагъы къошумланы кери алынмаз шекелде басмалайма."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Ал сёзню тюзет"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Статья ачыкълауну тюзет"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Эм игиси къысха ачыкълау этиудю"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Ачыкълауну басмала"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Ачыкълау тюзет"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Ачыкълауланы къысха тутаргъа кюрешигиз, былай бла хайырланыучула статьяны темасын бир къарам бла ангыларгъа боллукъдула"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Къуру энчи атла уллу хариф бла башланыргъа керекдиле, айтымны аллында огъунакъ."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Статья ачыкълаула, окъуучуланы бир къарам бла теманы ангылауларына болушур ючюн, статьяны къысха хапарлаууду."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Юсюнден"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Викибилгилени юсюнден"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Ачыкълаула Викимедиа Фондну проекти болгъан тёлеусюз, иш бирликчи, кёб тилли, Википедия эмда башха проектлеге да дагъан болгъан экинчи дараджалы билги база Викибилгиледе сакъланыр эмда андан берилир."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Аслам информация"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Ачыкълауланы бир тизгиннге сыйыныр шекелде, эки бла он эки сёзюню арасында узунлугъуна болуу тыйыншлыды. Энчи ат болмаса, уллу хариф хайырланмаз."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Мона Лизаны юсюнден статья ючюн статья ачыкълау"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Эверест тауну юсюнден статья ючюн статья ачыкълау"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Леонардо да Винчини сураты"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Джерни эм мийик таууу"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Юлгюге:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Ачыкълау болдурууда юретиуле"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Статья ачыкълау болушлукъ"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Викибилгилеге танытыу джазар ючюн юретиу"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Тындырылды"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Википедияны хар ким ючюн да энтда маджаллашдырдынг"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Ачыкълау басмаланды!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Идеалда экиден онеки сёзге дери бир тизгин"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Къысха болугъуз"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Окъуучуланы къысха къарау бла теманы ангыларча болургъа болушур ючюн статьяны магъанасын береди"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Статья ачыкълаула"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Башлаб, бу энчиликни аманнга хайырламазлыгъыма сёз береме"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Тюзетиуню башла"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Статья версияны тарихи"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Къошуу, \\$1, къошууну ахыры."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Параграф {{PLURAL:\\$1|\\$1 тизгин}} энишге ташылды. Джангы джерине ётюгюз."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Параграф {{PLURAL:\\$1|\\$1 тизгин}} ёрге ташылды. Джангы джерине ётюгюз."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Параграф ташылды. Аллындагъы джерине ётюгюз."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Параграф {{PLURAL:\\$1|\\$1 бёлюм}} энишге ташылды. Джангы джерине ётюгюз."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Параграф {{PLURAL:\\$1|\\$1 бёлюм}} ёрге ташылды. Джангы джерине ётюгюз."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Къоратыу, \\$1, къоратыуну ахыры."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Аллындагъы Тюзетиу"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Версияланы Тенглешдир"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Кёрюннген Тюзетиу"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Версияланы Тенглешдир"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Контент къошулгъанды, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Контент къоратылгъанды, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Чырма \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Кер \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Кёргюз"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Джашыр"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Версия этилген дата"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Тизмеле \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Параграф ташылгъанды"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "энишге"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ёрге"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 тизгин}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 бёлюм}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Параграф ташылгъанды \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Версия джюкленалмады."
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Кери къайтар"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Тюзетиулени кери алыргъа излегенигизге ишексизмисиз?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Тюзетиулени кери алыу"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Тюзетиуле кери алындыла."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 тюзетиу}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Редактор информация"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 байт къошулду}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 байт къоратылды}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Тюзетиулени ачыкълау"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Кириш"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1 тизгин"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Аноним хайырланыучуагъа бюсюреу этилалмаз"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Сау бол', редакторну Википедиядагъы ишине бюсюреу этиуню тынч джолуду. 'Сау бол' джиберир ючюн системагъа кирирге керексиз."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "'Сау бол' джиберир ючюн киригиз"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'Сау бол' джибер"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Сау бол', редакторну Википедиядагъы ишлерине бюсюреу бериуню тынч джолуду. 'Сау бол' кери алынмаз эмда хар ким да кёрюрчады."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Ачыкъдан 'Сау бол' джибер"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "'Сау болунг' \\$1 хайырланыучугъа джиберилди"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Бу тюзетиу ючюн алайсыз да 'Сау бол' джибергенсиз"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Сау бол кери алыналмаз"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Байламлы тизгин, тюрлендирилмеди: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Бу, былайда кёргюзюлен статьяны версиясы(лары) бла этилген тюрлениулени кери аллыкъды. Бардыр ючюн тилейбиг, бу тюзетиуню кери алыу чурумугъузну белгилегиз."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Версия кери алынды."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 тизгин тюзетилмеди}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Менюню ачар ючюн эки кере бас"
+    },
+    {
+      "name": "dim_images",
+      "value": "Суратланы салкъынлашдыр"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Багъышны суммасын сайлар ючюн эки кере бас."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Викимедиа Фондха \\$1 багъышлар ючюн эки кере бас."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Викимедиа Фондну сизге электрон мектубла джибериуюне эркилик берир ючюн эки кере бас."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Сумманы киргизиуню клавиатурадан режимин джабар ючюн эки кере бас."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Бу суммада автомат халда багъыш этиуню джандырыр ючюн эки кере бас."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Багъыш этер ючюн энчи сумманы киргиз."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Багъыш суммагъа транзакция коммиссия къошар ючюн эки кере бас."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Сау бол, багъалы багъышчы! Чомартлыгъыгъыз Википедияны эмда эгеч сайтланы маджаллашдырыуларны болушурукъду."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple бу нюзюр ючюн ачха джыяр борчу джокъду."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Хоу, Викимедиа Фонд меннге анда мында электрон джиберирге боллукъду."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Терк терк сорулгъан соруула"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Багъышлауну башха джоллары"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Багъашлау бла проблемала бармыды?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Налогну азайытыу информация"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Тамбла да сизге эсгертирикбиз."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Веб сайтыбызны юсю бла \\$2 \\$1 аслам багъышны алалмайбыз. Тилейбиз benefactors@wikimedia.org адресдеги уллу багъышла бла ишлеген ишдашларыбыз бла байлам къуругъуз."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Тилейбиз, сумма сайлагъыз (эм азы бла \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Буну ай сайын къайтарылгъан багъыш этигиз"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Apple Pay бла багъыш этигиз"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Apple Pay бла багъыш этигиз неда башха тёлеу амал сайлагъыз."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Башха тёлеу амал"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Apple Pay бла багъыш этерге излеймисиз?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Чомартлыгъыгъыз бизни ючюн бек кёб магъана тутады."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Сау бол!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Сумма сайла"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Багъышым 100 %% алаллыгъыз ючюн комиссияны джабар ючюн чомартча \\$1 къошарыкъмы."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "Салгъычны дубликат эт"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Текстни кёргюз"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Джибериуню нюзюрю"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Джибериуню къорат"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Джибериуню тюзет"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Тюзет"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Бу сайлагъан текстни тюзетирча болмагъаны (юлгюге статья башлыкъ неда инфобокс башлыкъла) неда чертилген текстни узунлугъундан болургъа болур."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Сиз сайлагъан текст табылалмады"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Гитче тюзетиулени юсюнден аслам билигиз"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Бу гитче тюрлениудю"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Тюзетиу хапарландырыула"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Тюзетиу хапарландырыуланы хаманда кёргюз"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Тилейбиз, тюзетиуню аллы бла окъугъуз"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Бютеу контент къысхартылгъан форматда кёргюзюлгенди."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Веб ал къарауну кёргюз"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Тюзетиуню къысха хапарлауун къош"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Сурат къошулду"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Сурат эм тюб джазыу къошулдула"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Грамматика тюзетилди"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Джазыу халат тюзелтилди"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Джибериуле къошулдула"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Бетни къалай маджаллашдырдыгъыз?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Кёздеги тизмегиз юсюнден аслам билигиз"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Бу бетни кёзде тут"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Статьяланы джангыртыуда таукел болугъуз, алай а эсли болугъуз. Халат этгенден джанламагъыз. Бетни хар эски версиясы сакъланыр, былай бла халатланы къошулуучула тынч тюзетирчадыла."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Ауазыгъыз магъаналыды"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Бютеу контент тинтилирча болургъа керекди. Къошум этгенле, статьягъа джангы информация къошхан заманда, анга дагъан болгъан тыйыншлы къайнакъгъа джибериу да берирге керекдиле."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Ышангылы къайнакъланы хайырланыгъыз"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Статьяланы киши джанлы болмагъан къарам бла джазылыр ючюн кюрешебиз. Тюзетген заманда ышангылы къайнакъла танытхан шекелде, дунияны адил шекелде танытыгъыз."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Киши джанлы болмагъан къарам бла джазыгъыз"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Хар кимге да дуниядагъы билимлеге хайырланыр мадар берир ючюн, эм магъаналы темаланы окъууда, тюзетиуде эмда къошумда бизге сиз керексиз."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Билимлени эркин эт"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Тюзетиуюгюз басмаланды."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Къайнакъны тюзет"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Басмаламагъанлай, тюзетиу режимден чыгъаргъа излегенигизден ишексизмисиз?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Бу тюзетиуню унамазгъа излегенигизге ишексизмисиз?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Тюзетиу режим джабылсынмы?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Излеуню тазала"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Излеуню джаб"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "Бютеулей \\$1 келишиу табылды. Чертилген келишиу саны \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Келишиуле табылмадыла"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Сорагъы излеу эсеб"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Аллындагъы излеу эсеб"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Таб"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Къалын"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Бичимлендириу менюню джаб"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Комментарий"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Башлыкъ"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Киришни къысхарт"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Киришни кенгерт"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Сёдегейле"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Джибериу"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Мизамланган тизме"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Мизамланмагъан тизме"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Параграф"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Белгилеу"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Юсю сызылгъан"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Тюббашлыкъ 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Тюббашлыкъ 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Тюббашлыкъ 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Тюббашлыкъ 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Тизгин тюбю"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Тизгин башы"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Шаблон"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Тексни бичимлендириу"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Чертилген"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Алмашдырыу ишлемни тындыр. Алмашдырыу типи \\$1 болуб джарашдырылды."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Алмашдырыуну тазала"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Алмашдыр"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Буну бла алмашдыр..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Барын да алмашдыр"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Бютеу юлгюлени алмашдыр"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Алмашдырыу типин ауушшдур. Бусагъатда \\$1 болуб джарашдырылды. Тюрлендири ючюн сайла."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Алмашдыр"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Джангыз юлгюню алмашдыр"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Къалын текст бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Курсорну энишгеде эндиги тизгиннге ташыгъыз."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Курсорны эндиги символгъа ташыгъыз."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Курсорны аллындагъы символгъа ташыгъыз."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Курсорну аллындагъы тизгиннге кёрге ташыгъыз."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Бетде таб"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "Сурат текст бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "Аллында бошлугъу болгъан текстни бичимлендириуюн азайт"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "Аллында бошлугъу болгъан текстни бичимлендириуюн уллайт"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Сёздегей текст бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "Джибериу текстни бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "Мизамланнган тизме текстни бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "Мизамланмагъан тизме текстни бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Текст бичимлендириу менюню ач"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "Белгилеу текстни бичимлендириу"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Аслам бичимлендириу опцияланы кёрюз"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "Шаблон текстни бичимлендириу"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "Редактор текст джюклене турады"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Вики текст редактор"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Версияланы арасында башхалыкъ джокъду"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Кёрюнюрча тюрлениу этилмеди"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Бош тюзетиуню бютеую"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Викигёзенде файл сайла"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Кечериксиз, статья джюкленалмады"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Алкъын сакъланнган бетлени окъурчасыз"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Интернет байламыгъыз болса, сизге теджелген статьяланы кёрюрге боллукъсуз"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Окъугъанларынгы былайдан ызла"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Кёргюзюрча тарих джокъду"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Бу статья алкъын башха тилледе джазылмагъанды"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Башха хайырланырча тилле джокъдула"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Джолоучулукъ этиллик джерле, джаратхан темала, эмда бек кёб зат ючюн окъуу тизмеле къура"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Окъуу тизмелени болушлугъу бла сакъланнган статьяланы мизамгъа салыгъыз"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Бетлени бу тизмеге сакъландырыб былайда къалай кёрюннгенине къарагъыз"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Бу тизмеге чырт бир бет сакъланмады"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Бетлени артдан оффлайн болсагъыз да окъур ючюн сакъландырыгъыз"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Алкъын сакъланнган бет джокъду"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Джукъ да табылмады"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Бу хайырланыучу ючюн алкъын чырт билдириу басмаланмады"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Тилейбиз, кечирек энтда бир кере сынагъыз"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Белгили болмагъан халат болду"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Башха рандом статья"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Окъугъанынг ючюн"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Аслам байламлы статьяла"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Окъууну андан ары бардыр"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Аулау тасмагъа кери къайт"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Сизни локацияыгъызны къатында статьяланы аулагъыз"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Сайланнган статья"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Википедиядан"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Википедиядан"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Джарашдыр"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Тасма тил джарашдырыула"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "\"Тиллерим\" джарашдырыу бетде, къошакъ тилле къошулургъа боллукъдула."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Картчыкъ джашырылды"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Ачыкъ статьяны окъур ючюн дженгил джибериу"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Тинтиу тасманы джарашдыр"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Аулау тасманы джарашдыр"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Картчыкъны типин джашырыу, бу картчыкъны титпин Аулау тасмагъызда кёрюнюуюн тыяр."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Аулау салгъыч"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Википедияда кюнню сайланнган статьясы"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Джукълат"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Барысына"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Джандыр"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1-де"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Бютеу \\$1 картчыкъ джашырылды"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Бу картчыкъ тилге энчи тюлдю, бу картчыкъны джабылыуу аны Аулау тасмагъыздан къоратыр."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Тилге энчи байламлы болмагъан картчыкъла"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Тилге энчи байламлы тюлдю"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Глобал картчыкъла"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Бу картчыкъны джашыр"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Бютеу “\\$1” картчыкъланы джашыр"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Баргъан болууланы юсюнден статьяла"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Бютеу Аулау тасма картчыкъланы тиллеринги барысында да джашырыу, Аулау салгъычны джабарыкъды."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Тарихде бюгюн болгъан болуула"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Локациягъызны къатныда Википедия статьяла"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Викигёзенден кюнню сайланнган сураты"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Окъур ючюн рандом статьяла тизме болдур"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Окъуу тарихге кёре теджеуле"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Окъууну андан ары бардыр картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Сайлама статья картчыкъны джабылыуу, картчыкъны бютеу болгъан тилледе джабар."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Сайланнган статья картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Джангылыкълада картчыкъны джабылыуу, бютеу бар тилледе картчыкъны джабар."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Джангылыкълада картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Тарихде бюгюн картчыкъны джабылыуу бютеу бар тилледе картчыкъны джабар"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Тарихде бюгюн картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Кюнню сураты картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Джерле картчыкъны джабылыуу, бютеу бар тилледе картчыкъны джабар."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Джерле картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Рандомайзер картчыкъны джабылыуу бютеу бар тилледе картчыкъны джабар"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Рандомайзер картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Картчыкъны окъугъанынг ючюн кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Эм окъулгъан картчыкъны джабылыуу, бютеу бар тилледе картчыкъны джабар."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Эм окъулгъан картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Википедиягъа контент къошар ючюн теджеуле"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Теджелген тюзетиуле картчыкъны кёргюз"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Кюнню эм кёб окъулгъан статьялары"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Аулау тасманы джукълат"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Бютеу Аулау тасма картчыкъланы джашырыу, Аулау салгъычны джабар эмда буну Джарашдырыула салгъычха алмашдырыр"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Аулау тасма джабылсынмы?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Аулауну джукълат"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Аулау салгъыч, Аулау тасманы джарашдырыуларында джангыдан джандырылрчады"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Аулау салгъыч джабылсынмы?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Аулау салгъычны джабыу, Аулау салгъычны Джарашдырыула салгъычха алмашдырыр."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Аулау тасма картчыкъланы кёргюзюуюн сайлаб, Аулау салгъычны джандырасыз"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Аулауну джандыр"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Бу Аулау салгъыч Джарашдырыула салгъычха алмашдырыллыкъды, тишли белгини басыб Аулау салгъычны баш кесегиндеги Джарашдырыулагъа кирирчасыз"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Аулау салгъыч ачылсынмы?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Бу картчыкъны джашыр"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Википедия проектлени баш бети"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Википедияда бюгюн"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Эм кёб окъулгъан статьяла"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Эм бек окъулгъан"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 датада эм бек окъулгъан"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Википедияда"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Википедияда"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Джууукъдагъы джерле"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Джерле"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Википедиядан"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Википедиядан"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Локациянг"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Локациянг ючюн \\$1 Википедиядан"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Кюнню сураты"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Викигёзенден"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Рандом статья"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Википедиядан"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Википедиядан"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Рандомайзер"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Къош"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Ангылашаллыгъын ёсдюрюр ючюн, Википедияны статьяларына теджелген суратланы къошугъуз."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Сурат къош"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Къошакъланы библиотекаларын юлюшлеу, Окъуу тизмегиз эмда тарихигиз, джарашдырыуларыгъыз эмда Аулау тасманы контенти бла байламлы билгиледен болур."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Къошакъланы библиотекасы ортагъа салынсынмы?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Билгилеригизни экспортунда халат болду. Тилейбиз, кечирек энтда бир кере кёрюгюз."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Хайырланыучу билгилеригизни экспорт этер ючюн девайсыгъызда джетрли джер джокъду. Тилейбиз, кечирек джангыдан сынагъыз."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Хайырланыучу Билгилени экспорт эт"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Бу дата ючюн сайланнган статья джокъду"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Джамагъатыбыз хар кюн сайын сайлагъан Википедияны эм иги статьялары бла танышыгъыз."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 Википедиядан"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Википедиядан"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Биринчи Википедия тилигиз сайланнган статьягъа дагъан бермейди. Биринчи Википедиягъызны, къошакъны менюсунда джангыртыргъа боллукъсуз."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Сайланнган статья"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Не эсе да терс барды. Тилейбиз, кечирек джангыдан кёргюгюз."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Къошакъ, серверден сакъланмагъан джаууаб алды. Тилейбиз, кечирек джангыдан кёрюгюз."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Джараусуз CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Паролла бир бирлери бла келишмейдиле"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Джараусуз код"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Хайырланыучу ат джараусузду"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Бэкап код"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-текст"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Ёргеде кёрген текстни киргизигиз"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-mail"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Email (амалсыз тюлдю)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "джангы паролну къайтарыб киргиз"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Джангы паролну къабыл эт"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "джангы паролну киргиз"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Джангы пароль"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "паролну къайтарыб киргиз"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Паролну къабыл эт"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "паролну киргиз"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Пароль"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Верификация код"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "хайырланыучу атны киргиз"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Хайырланыучуну аты"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Барысы да"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Излеуню тазала"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Сорагъы излеу эсеб"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Аллындагъы излеу эсеб"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Таб эмда алмашдыр"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Излеуню джаб эмда алмашдыр"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Таб"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Ариула"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Пароль ариулауну буйрукълары ичинде болгъан электрон мектуб джиберилди"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Пароль ариулау буйрукъла электрон почта джолу бла алыр ючюн, энишгедеги къырладан бирин толтуругъуз"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Паролну ариула"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Неда"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Wikipedia къошакъ энди энишгедеги Gan вариантланы биринчи недаэкинчи тил болуб къошакъны ичинде дагъан береди, алай бла сайлагъан вариантла андан да тынч окъуялырча, тинтелирча эмда тюзеталырча болады:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Къысхартылгъан (gan-hans)\n贛語 繁體 Gan, Адетдеги (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Gan вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Кёб болмагъан бютеу элементленеи кетерирге излегенигизге ишексизмисиз?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Хоу, барысын да кетер"
+    },
+    {
+      "name": "history_title",
+      "value": "Тарих"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Википедия, Аулаугъа къайт"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Википедия, Сакъланнганлагъа къайт"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 ушаш аслам статья"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Локациябызгъа джууукъ аслам джер"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 джууугъунда аслам"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Аслам бола тургъан болуу"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Сакъландыргъан статьяларыгъыз энди окъуу тизмелени болуб къураллыкъдыла эмда девайсларыгъызны арасында синхронизация этилирге боллукъдула. Окъуу тизмелеригизни хайырланыучу джарашдырыуларыгъызгъа сакъланыууна эркинлик берир ючюн киригиз."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Джарашдырууларынгы оноуун джюрют"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Статьяны адыр панелинден неда хайырланыучу джарашдырыуларыгъыздан текстни ёлчеми эмда темасы да къошулуб, Окъуу сайлауларыгъызны андан да рахат окъуялырча джарашдырыгъыз."
+    },
+    {
+      "name": "home_title",
+      "value": "Аула"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Википедия, Аулауну башына бур"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Джууукъдагъы статьяла"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Рандом статья"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Википедияда излеу"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Автору белгисизди."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Бу сурат къошулсунму?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Кечирек энтда къайтыб кёрюгюз."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Бусагъатда башха теджелген сурат джокъду."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Теджелген суратны Википедия статьягъа орунларгъа керек болуб болмагъанын оноуун этигиз."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Теджеу кёргюз"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Теджеуле автомат халда этилгендиле эмда быланы къабыл этиуню оноуун кесигизни оюмугъузгъа къоюгъуз."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Бу суратны къабыл эт неда кери джибер"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Суратла, Википедия хайырланнган эркин лицензиялы сурат коллекция Викигёзенден алыныр."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Лицензияланнган суратла"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Теджеулери болгъан тюзетиулени юсюнден аслам бил"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Статьягъа сурат къош"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Джууабларыгъыз боллукъ тедежулени игилешдирир."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Бир неда аслам опция сайла"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Сурат релевант тюлдю"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Оноу этер ючюн, джетерли информация джокъду"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Сурат рахатсыз этерчады"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Сурат аман агъачлыды"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Бу теманы билмейме"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Башха"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Джибер"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Чурум"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Сурат къош"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Темасын ангылар ючюн бу статьяны тинтигиз."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Тинт"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "Суратны эмда байламлы информацияны тинтигиз."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Осмакъла"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "Суратны, окъуучуланы бу теманы андан да иги ангыларларына болушлукъ болуб болмагъанына оноу этигиз."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Оноун эт"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Статья кёргюз"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "Теджелген Тюзетиулери бла Сурат Къош функцияны хайырланыуда проблемагъа тюртюлдюм:"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "Джетмегенликлени Билдирмеси - Сурат Функцияны Къошуу"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Огъай"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Ишексиз тюлме"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Хоу"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Окъуу Тизмем"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Соруулаугъа къошул"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Окъургъа тизмелени джайыу\"  — тест функцияды, аны маджаллашдырырча неда кетерирча, бизге сизни багъаларыгъыз керекди."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "\"Окъургъа тизмелени ортагъа салыу\" функцияны маджаллашдырыргъа болушаллыкъмысыз?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Ортагъа салыннган окъургъа тизмени импорту"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 Википедиядан"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Википедиядан"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Джангылыкълада"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Сал"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Джибериуню сал"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Сурат толу хапарлауну сал"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Суратны кёралмагъан окъуучула ючюн текстли ачыкълау"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Бу суратны таныт"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Альтернатив текст"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Бу суратны статья бла байламы неди?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Бютеу окъуучула ючюн элементни джанында кёргюзюлген джазыу"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Тюб джазыу"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Ара"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Сол"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Джокъду"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Онг"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Суратны позициясы"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Аслам информация"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Сурат сайла"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Джарашдырылырча"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Тынгылау бла"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "пикс."
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Суратны ёлчеми"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Тамал"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Къаб"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Къабсыз"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Миниатюра"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Суратны типи"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Медиа джарашдырыула"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Медианы сал"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Википедия къошакъ, энди энишгедеги Иниктитут вариантланы биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, алай бла сайлагъан версия бла андан да тынч окъурча, тинтирча эмда тюзетирча боллукъсуз:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Heceli (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Инуктитут вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Википедия къошакъ, энди энишгедеги Къазахча вариантланы биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, алай бла сайлагъан версия бла андан да тынч окъурча, тинтирча эмда тюзетирча боллукъсуз::\n\nҚазақша Казахча (kk)\nҚазақша Кирил Казахча, Кирил (kk-cyrl)\nqazaqşa latin Къазахча, Латин (kk-latn)\nتوتە قازاقشا Къазахча, Араб (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Къазахчаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Википедия къошакъ, энди энишгедеги Курдча версияланы биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, алай бла сайлагъан версия бла андан да тынч окъурча, тинтирча эмда тюзетирча боллукъсуз:\n\nKurdî Latînî Курдча, Латин (ku-latn)\nكوردی Курдча, Араб (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Курдачаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Тилле"
+    },
+    {
+      "name": "languages_title",
+      "value": "Тилни ауушдур"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Википедияны тиллери"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Аслам бил"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Кирмегенлей андан ары бардыр"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Хыйсабыгъызгъа къайтарыб киригиз"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Хыйсабыгъызны аутентификациясында проблема болду. Окъуу тизмелеригизни синхронизация этер эмда хайырланыучу атыгъыз бла тюзетиу этер ючюн, тилейбиз, джангыдан киригиз."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Чыкгъан эдигиз"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Паролунгу унутдунгму?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Википедиягъа къошул."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Хыйсабынг джокъмуду? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Хыйсабыгъызгъа киригиз"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Къошакъны юсюнден"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Кир"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Чыкъ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Сессияны джабаргъа излегенигзге ишексизмисиз?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Системадан чыгъыу, локал сакъланнган хыйсаб билгилеригизни (хапарландырыула бла билдириуле) кетерир, алай а хыйсаб билгилеригиз вебде къалыр эмда къайтарыб кирсегиз, джангыдан эндирилирле."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 болуб сессия ачылды"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Ташалыкъ эмда Шартла"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Джуўукъда"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Ташалыкъ политика"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Къошакъгъа багъа бич"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Хайырланыу Шартла"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Энтда"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero FAQ"
+    },
+    {
+      "name": "main_page",
+      "value": "Баш бет"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Википедияда 300-дан аслам тилде излегиз"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Тилле къош"
+    },
+    {
+      "name": "more_menu",
+      "value": "Энтда"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 статьяны}} окъуу тизмеге ташыгъыз"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Ал къарау"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 фут"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 км"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 м"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 миль"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Кёзюулю пароль бла кирдигиз. Кириуню тамамлар ючюн, былайда джангы пароль салыгъыз."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Паролунгу сал"
+    },
+    {
+      "name": "new_tab",
+      "value": "Джангы салгъыч"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Эндиги"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Тилейбиз, девайсыгъызда электрон почта хыйсабны джарашдырыб, джангыдан сынагъыз."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Интернет байлам джокъду"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Бусагъатда тюл"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Джиберген \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Эсгертриу"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Хапарландырыу Фильтр - хайырланнган фильтрле барды"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Проектле Фильтр - хайырланнган фильтрле барды"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Окъулмагъанды белгичиги болгъан хапарландырыула"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 хапарландырыу"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Паролну тюрлендир"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Хапарландырыула тинтиле турадыла..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Къошакъда"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Вебде"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Хапарландырыуну Джикден джиги"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Хапарландырыула тинтиле турадыла..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Билдириугюз джокъду"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Чырт бир Википедия Хапарландырыугъа джаздырылмагъансыз"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Аслам билдириу кёрюр ючюн \\$1 тюзетигиз"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Аслам билдириу кёрюр ючюн прокет къошугъуз"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 фильтр}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Push-хапарландырыуланы джандыр"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Бютеу Викимедиа проектле ючюн тюзетиу хапарландырыула энди къошакъны болушлугъу бла хайырланырчады. Гузаба заманыгъызда Википедиядагъы билдириулеригизден хапарлы болур ючюн пуш-хапарландырыуланы сайлагъыз."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Хапарландырыу Фильтр"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Барысы да"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Окъу"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Окъулмагъан"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Окъулгъан Статусу"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Фильтрле"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Хапарландырыу келген инфобоксугъуздан фильтр этер ючюн хапарландыру типлени алмашдырыгъыз. Джабылгъан типле кёрюннюк тюлдюле, алай а тиек джангыдан ачылса контент эмда джангы хапарландырыула джетиширча боллукъдула."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Бютеу тюрлюле"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Хапарландырыуланы тюрлюлери"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Статья"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 сюзюу бет"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Башхалыкъ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1-ни хайырланыучу бети"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Викибилгилени элементи"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Сюзюу бетигиз"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1 къайнакъдан эсгертиу"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Тындырылды"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Проектле"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Былайда къуру хыйсаб болдургъан проектигиз кёрюннюкдю"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Викимедианы Проектлери"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Википедияла"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Кириу хапарландырыула"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Белгиле"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Барсын да окъулгъанды деб белгиле"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Хапарландырыуларыгъыздагъы {{PLURAL:\\$1|\\$1 билдириуню}} окъулду деб белгилерге излегенигизге ишексизмисиз? Хапарландырыуларыгъыз, бютеу девайсларыгъызда окъулду деб бил белгиленникди."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Бютеу хапарландырыуларыгъызны окъулду деб билгилерге излегенигизге ишексизмисиз? Хапарлдандырыуларыгъыз бютеу девайсларыгъызда окъулду деб белгиленникди."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Окъулмагъанды деб белгиле"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Окъулмагъанды деб белгиле"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Энтда"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Хапарландырыу джарашдырыула"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 билдириу}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Бардыр"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Келгенле папкагъызны тынч азайтыр ючюн, хапарландырыуларыгъызны окъуу статусуна эмда тюрлюсюне кёре фильтр эт."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Фильтрле"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Хапарландырыуланы юсюнден аслам бил"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Хапарландырыула, тюзетиулеригиз эмда хыйсабыгъыз бла байламлы этиуледен хапарлы болгъаныгъызгъа болушчу болур."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Хапарландырыула эмда эсгертиуле"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Тюрлю-тюрлю тилледеги Википедияладан эмда Викимедиа проектлеринден бютеу окъулмагъан билдириулеригизни бир джерде кёргюзюгюз."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Прокетлени кирген бокслары"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Гузаба заманыгъызда тюзетиу билдириулеригизни эмда эсгертиулеригизден хапарлы болур ючюн push-хапарландырыуланы джандырыгъыз."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push-хапарландырыула"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Тюзетиу хапарландырыула"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Push-хапарландырыуланы джандырылсынмы?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Push-хапарландырыуланы джандыр"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Огъай, сау болугъуз"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Википедия ортакъ проектди эмда push-хапарландырыуланы ачыу, башха редакторладан келген билдириулени, эсгертиулени эмда \"бюсюреулени\" заманында алыуну тынчлашдырыр."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Прокетле Фильтр"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Барысы да"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Бютеу хапарландырыула"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Фильтр этилгенди"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=1 прокетде|\\$1 проектде}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 проект|\\$1 проект}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 тип|\\$1 тип}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Окъу"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 бла \\$2/\\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Окъулмагъан"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Тюзетиуде кёзюу"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Тюзетиулеригиз кери алынды"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Джангы электрон почта"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Кёб джетишимсиз кириб кёрюу"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Джетишимсиз кириб кёрюу"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Танылмагъан девайсдан кириу"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Сюзюу бетде сагъыныу"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Тюзетиу хапарлауда сагъыныу"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Джетишимсиз сагъыныу"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Джетишимли сагъыныу"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Сюзюу бетде сагъыныу"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Сюзюу бетингде билдириу"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Бет джибериу"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Бет къаралды"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Сау болугъуз"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Кёчюрюуде кёзюу"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Хайырланыучу хакълада тюрлениу"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Хош келигиз!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Викибилгиле бла байлам этилди"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Окъулгъанды деб белгиле"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Окъулмагъанды деб белгиле"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Энтда"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Хапарландырыула"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Сайланнга хапарландырыуланы белгиле"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Сагъыныула"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Эсгериу"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Хошкелди билдириу"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Викибилгиле бла байлам"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Кёзюуню тюзет"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Тюзетиу кери алынды"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Тюзетиу хапарлауну сагъыныу"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Башха хайырланыучудан электрон мектуб"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Кириб кёрюуле"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Хыйсабыгъызгъа джетишимсиз кириб кёрюуле"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Кириу джетишимлиди"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Башха"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Бет джибериу"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Бет тинтиу"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Сагъыныу джибериу халатлыды"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Сагъыныу джибериу джетишимлиди"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Сюзюу бет сагъыныу"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Сау болугъуз"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Кёчюрюуде кёзюу"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Хайырланыучу хакълада тюрлениу"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Сюзюу бет билдириу"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Хош келигиз"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Википедияда джангы этиуле"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "\\$2 бетде {{PLURAL:\\$1|\\$1 джангы билдириу}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Джангы билдириу|Джангы билдириуле}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 млрд."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 млн."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 минг"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$2-\\$1 кёзюуле"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 тарих болуу}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Бюгюнню юсюнден аслам тарих болуула"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "Бу кюнде {{PLURAL:\\$1|\\$1 аслам тарих болуу}}"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Биринчи Википедия тилигиз \"Тарихде бюгюннге\" дагъан бермейди. Биринчи Википедиягъызны, къошакъны Джарашдырыула менюсунда джангыртыргъа боллукъсуз."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Билги джокъду"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1, \\$2 Википедиядан"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Бу кюнде"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Башлагъан сагъычха кери къайтыр ючюн 'W' тиекге басыгъыз."
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "бот тюзетиуле"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Тенглешдириллик эки версияны сайлар ючюн басыгъыз"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Тенглешдир"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Заман ичиндеги тюзетиулени графиги"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "гитче тюзетиуле"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Автор: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "\\$1 комментарий"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Версияланы тарихи"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Гитче тюзетиу"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|\\$1 байт}} къошулду"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 байт}} къоратылды"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "\\$1 версия этилди"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Къуру эки версия сайларгъа боллукъду"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$2 сора {{PLURAL:\\$1|\\$1 тюзтеиу}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "Бетни джетмегенликлери"
+    },
+    {
+      "name": "page_location",
+      "value": "Картада кёргюз"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Бу бетни тюзетир эркинликлеригиз джокъду"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Бу бет къорууланыбды"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Ушаш бетле"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Версияланы тенглешдириу, статьяны заман ичинде къалай тюрленнгенин кёргюзюрге болушады. Статьяны эки версиясын тенглешдириу, тюрлендирилген, къаллай да болсун, контентни айырыб, бу версияланы арасында башхалыкъны кёргюзюрюкдю."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Версияланы тенглешдириу"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Олтуруу ачхмагъанлай тюзет"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Системагъа кирмегенсиз"
+    },
+    {
+      "name": "pictured",
+      "value": "суратлан этилгенди"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Сакъланнган излеулени тазала"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 статья"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Локациягъызны арасына кёре джангыдан белгиле"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Тизмеча кёргюз"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Картача кёргюз"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Аслам статья кёргюз"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Шахарланы, къралланы, континентлени, табигъат тамашалыкъланы, тарих болууланы, мекямланы эмда андан асламны аулагъыз."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Гоеграфия локациясы болгъан Википедия статьяланы излегиз"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Локацияны джандыр"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Къуру къошакъ неда къошакъны энчилиги экранда ачыкъ заманда, локациягъызгъа джетишиу амал берилликди."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Локация Ачыкълауну джандырыб къатыгъыздагъы статьяланы аулагъыз"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Фильтрленнген статьяла"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Фильтр"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Сакъланнган джерлеригиз джокъду"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Сакъланнган статьяла"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Эм бек окъулгъан"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 статья}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Эм кёб окъулгъан статьяла"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Локация джаныбды"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Чырт бир сакъланнган статьягъызны локациясы джокъду"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "“\\$2” келишеди \\$1"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Джерле Изле"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "\\$1 излене болурму?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Ахыр изленнгенле"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Сакъланнган статьяланы барысы"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Теджелген излеуле"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Бу бёлгедеги эсебле"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Эм кёб окъулгъан бютеу статьяла"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Джуўукъда"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Бусагъатдагъы локациянг"
+    },
+    {
+      "name": "places_title",
+      "value": "Джерле"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "билинмеген узакълыкъ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 датагъа кюнню сураты"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 датагъа кюнню тарихи алыналмады"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "Индонезияны Кюнбатыш Суматрасындагъы Танах Датарда бардырылгъан эртдеден келген бугъа чабышдырыу pacu jawi (минангкабау тилден -\"бугъа чабышдырыу\"), бир чаришчи, чабхан эки бугъаны тутуб, 2015, Финал-45"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Джамагъатыбыз сайлагъан ариу кюнлюк фотосуратлагъа къараб зауукъ этигиз."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Кюнню сураты"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Викимедиа Фондну къошакъны маджаллашдырыр ючюн къошакъны къалай хайырланнганыгъызны юсюнден информация джыяргъа эркинлик беригиз"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Ташалыкъ политика"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Функция бла проблема"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Викикитабла"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Викибилгиле"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Викигёзен"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Викиджангылыкъла"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Викисёз"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Викикъайнакъ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Викитюрле"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Викиверситет"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Викиджолоучулукъ"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Викисёзлюк"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Бу статья окъуу тизмеге къошулсунму?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "“\\$1” статья окъуу тизмеге къошулсунму?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Хоу, быланы окъуу тизмеме къош"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Википедия къошагъыгъызгъа сакъланнган статьяла бардыла. Быланы сакъландырыр эмда хыйсабыгъыз бла синхронизация этилген окъуу тизмеле бла бирлешдирирге излеймисиз?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Сакъланнган статьяла табылды"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Бу тизмеде джазыуланы саныны мардасына джетгенигиз ючюн, бу джазыу синхронизация болмайды."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Окъуу тизмелеригизни синхронизация этген заманда сакъланмагъан халат болду."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Синхронизация этилген тизме саны лимитге джетгенигиз ючюн, бу тизме синхронизация этилалмайды."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Окъуу тизмеге къура"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Ачыкълау"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Окъуу тизмени аты"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Джангы тизмени болдур"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Окъуу тизме кетерилди"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Огъай, девайсдан статьяланы кетер"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Бу тизмедеги бютеу статьяланы синхронизациясыны бардыр ючюн, тилейбиз, бу тизмедеги статьяланы санын \\$1 дери азайт."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Хыйсаб башына {{PLURAL:\\$1|\\$1 статья}} марданы оздугъуз."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Статья}}, бу тизмеге къошулалмаз. \\$3 ючюн окъуу тизме башына \\$2 статья мардасына джетдигиз"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Окъуу тизмеге берилген ат алайсыз да хайырланады"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Окъуу тизмелеригиз джангыртылгъан заманда сакъланмагъан халат болду."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Хоу, статьяланы девайсда сакъландыр"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Википедия хыйсабыгъызгъа синхронизация болгъан статьяла бардыла. Чыкъгъандан сора аланы бу девайсда тутаргъа излеймисиз?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Сакъланнган статьяла девайсда къаласынмы?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Статьяланы айыр"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "5000 айыралмагъан статья лимит барды. Тилейбиз, айырылмагъан статьяланы синхронизациясын бардыр ючюн болгъан статьяланы тизмелеге айырыгъыз."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Айырылмагъан статьяла ючюн лимит мардасы"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Бу окъуу тизме эмда бу тизмеге сакъланнган статьяла синхронизация этиллик тюлдюле, тилейбиз, бу тизмени синхронизациясыны бардыр ючюн тизмегизни бу саннга тюшюрюгюз: \\$1"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Хыйсаб башына {{PLURAL:\\$1|\\$1 окъуу тизме}} марданы оздугъуз."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Хыйсаб башына \\$1 окъуу тизме мардагъа джетдигиз"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Сакъланнган статьяларыгъызны синхронизация этер ючюн киригиз"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Кир неда хыйсаб къура"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Сакъланнган статьяланы синхронизация этер ючюн киригиз"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Сакъланнган статьяларыгъызны эмда къоуу тизмелеригизни девайслада синхронизация этилиуюне эмда хайырланыучу сайлауларыгъызгъа сакъландыргъа эркинлик берир ючюн киригиз неда хыйсаб къурагъыз."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Сакъланнган статьяларыгъыз синхронизация болсунму?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[хайырланыучу болдурулду]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "амалсыз болмагъан къысха ачыкълау"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "окъуу тизмени башлыгъы"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Башха девайсда Википедия хыйсабыгъыз ючюн окъуу тизме синхронизациясы джукълатылгъанды. Джарашдырыуларыгъызны джангыртыб, синхронизацияны джангыдан этерге боллукъсуз."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Синхронизация джукълатылыбды"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Синхрозинацияны джандыр"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Сакъланнган статьяларыгъыз эмда окъуу тизмелеригиз энди Википедия хыйсабыгъызгъа сакъландырырчады эмда Википедия къошакъла арасында синхронизация этилирчады."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Окъуу тизмени синхронизациясы джандырылсынмы?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Бу хыйсаб ючюн окъуу тизме синхронизация джандырылды. Синхронизацияны тохтатыр ючюн джарашдырыуларыгъызны джангыртыб бу хыйсаб ючюн синхронизацияны джабаргъа боллукъсуз."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Бу хайсабда синхронизация джандырылды"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Окъуу тизмегизге бу джазыу къошулгъан заманда, сакъланмагъан халат болду. Тилейбиз, кечирек энтда кёрюгюз."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Окъуу тизмегиз къуралгъан заманда, сакъланмагъан халат болду. Тилейбиз, кечирек энтда кёрюгюз."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Окъуу тизмегиз кетерилген заманда, сакъланмагъан халат болду. Тилейбиз, кечирек энтда кёрюгюз."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Окъуу тизмегиз джазыу къоратылгъан заманда, сакъланмагъан халат болду. Тилейбиз, кечирек энтда кёрюгюз."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Окъуу тизмегиз джангыртылгъан заманда, сакъланмагъан халат болду. Тилейбиз, кечирек энтда кёрюгюз."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "“\\$1” атлы окъуу тизме табылмады. Тилейбиз, тюз атны сайлагъаныгъызгъа ишексиз болугъуз."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Статья бери: \"\\$1\" къошулду."
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Статья синхронизация болалмайды"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Синхронизация болмады"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Статья марда озулду, статья синхронизация болалмады"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Тизме марда озулду, статья синхронизация болалмады"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Статья эндирилир ючюн кёзюуге салынды"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Девайсха марда озулду, статья синхронизация болалмады"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Девайсыгъызда бир кесек джер тазалагъыз, эмда джангыдан сынагъыз"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Бир къауум статья синхронизация болмадыла, марда озулду"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "'\\$1' атлы тизмегиз '\\$2' болуб аталды"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 окъуу тизме}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Сакъланнган статьяларыгыз ючюн тынгылау бла тизме"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Сакъланды"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Бу этиу кери алыналмаз. {{PLURAL:\\$1|бу тизмеге|бу тизмелеге}} сакъланнган бютеу статья сакъланныкъ тюлдю."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|Тизме|Тизмеле}} кетерилсинми?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 статья}} эмда {{PLURAL:\\$2|\\$2 окъуу тизме}} хыйсабыгъыздан синхронизация этилди"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Тизме синхронизация болмады, марда озулду"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Сакъланнган статьяланы айыр"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Окъуу тизме башына \\$1 статья мардасы барды. Бу мардадан чыкъгъан, болгъан тизмеле бирден аслам тизмеген юлешиннгендиле."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Интернет байлам болгъанлай, синхронизация андан ары бардырыллыкъды"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Къара тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Джарыкълыкъ тайдырыучу"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Къараууз тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Джарыкъ тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Сепия тема"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Синтаксисни Джарыкъ Чертиу"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Текстни ёлчемини тайдырыучу"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Синтаксисни Джарыкъ Чертиу"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Белгилеу бёлюмге кёч"
+    },
+    {
+      "name": "reference_title",
+      "value": "Белгилеу \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Бюгюн|1=Тюнене|\\$1 кюн алгъа}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 с."
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=сагъат ичинде|\\$1 сагъат алгъа}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 с. алгъа"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Кёб болмай|\\$1 сагъат алгъа}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Бусагъатда|\\$1 минут алгъа}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 мин."
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Алгъаракъ|\\$1 минут алгъа}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1мин. алгъа"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Бу ай|1=Ахыр ай|\\$1 ай алгъа}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 сек."
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 сек. алгъа"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Быйыл|1=Былтыр|\\$1 джыл алгъа}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Кери къайт"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Статьягъа кери къайт"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Кери алыннган тюзетиу"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "Бютеу салгъычланы сакъландыр"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Бютеу статьяла"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "Бютеу салгъычла сакъланды."
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "Бютеу салгъычланы сакъландыр. Окуу тизмени кёргюз."
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Бу тизме кетерилалмады"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Бу сакъланнган бет ючюн суратла эндирилмеди."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Статья эндириу ишлеу бардырылады..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Окъуу тизмеле"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Сакъланнган статьяланы изле"
+    },
+    {
+      "name": "saved_title",
+      "value": "Сакъланды"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "{{PLURAL:\\$1|Бу статьяны|Бу статьяланы}} сакъландырмады, байламлы болгъан бютеу тизмелени къоратырыкъды"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "{{PLURAL:\\$1|Статьяны|Статьяланы}} сакъландырыулары кери алынсынмы?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Википедияда излеу"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Тазала"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Википедияда излеу"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Ахыр излеулени бютеую кетерилсинми?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Бу этиу кери аллыналмаз!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Барысын да кетер"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Алкъын джангы излеу джокъду"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Ахыр изленнгенле"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Мындан джиберилгенди: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Изле"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Википедия къошакъ энди энишгедеги Сербчаны вариантларын биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, бу шекелде сайлагъан вариант бла андан да тынч окъурча, излерча эмда тюзетиу этерчасыз:\n\nсрпски ћирилица Сербча, Кирил (sr-ec)\nsrpski latinica Сербча, Латин (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Сербча вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "settings_account",
+      "value": "Хыйсаб"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Окъууну джарашдырыулары"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Кэш этилген билгилени тазала"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Кэшни этилген билгилени тазалау \\$1 чакълы бир джер бош этерикди. Сакъланнган бетлеригиз кетериллик тюлдюле."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Кэш этилген билгилени тазалансынмы?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Ызына ал"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Кэшни тазала"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Багъышла"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Болушлукъ эмда кери билдириу"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Излеуде тиллени кёргюз"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Аулау тасмагъыздагъы джарашдырыуларгъызны келишдириб, Аулау тасмагъызны къайсы тиллени кёргюзюрюн бегитирге боллукъсуз."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Тиллерим"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push-хапарландырыула"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Хыйсабыгъыз бла байламлы хапарландырыулагъа джаздырылыуну тинтген заманда халат болду."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Эхо Хапарландырыугъа джаздырылыу тинтилирча тюлдю"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Энтда сынаб кёр"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Башха къошум этгенледен келген билдириуле, эсгертиуле эмда хапарландырыула кибик хыйсабыгъыз бла байламлы этиуледен хапарлы болугъуз. Барысы да ташалыкъгъа эмда эм джангы информациягъа кёре берилгенди."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Биринчи"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Бу тизмедеги биринчи тил, къошакъны баш тили болуб хайырланады."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Къошакъны, Аулау салгъычны орнуна Излау салгъыч ачылырча джарашдыр."
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Излеу салгъычда къошакъны ач"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Кирсегиз эмда синхронизация этсегиз, Википедиягъа, сакъланнган статьяларыгъызны эмда окъуу тизмелеригизни хайырланыучу сайлауларыгъызгъа сакъландырыргъа эркинлик беригиз."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Сакъланнган статьяланы эмда тизмелени синхронизация эт"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Окъуу тизмелеригиз фон режимде синхронизация этилликди"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Синхронизация этилген статьяла эмда окъуу тизмелеригиз ючюн джангыртыу излегиз."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Синхронизация этилген окъуу тизмелени джангырт"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Окъуу тизмелени кёрюнюуюне Сакъланнган (юлг. тынгылау бла) окъуу тизмелени айры тизме болуб кёргюз. Бу тизме Android-девайслада кёрюнюр."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Сакъланнган окъуу тизмени кёргюз"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Статья асырау эмда синхронизация"
+    },
+    {
+      "name": "settings_title",
+      "value": "Джарашдырыўла"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Википедия къошакъны болушлугъу бла этилди"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "Википедияда \"\\$1\":"
+    },
+    {
+      "name": "share_building",
+      "value": "Фактны юлюшле карчыкъ къура..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "\\$3 бетдеги \\$2 статьядан \\$1"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\n“\\$2” статьядан\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Маршрутну ал"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Ортагъа салыргъа..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "Википедия бла"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Карталада ач"
+    },
+    {
+      "name": "share_social_format",
+      "value": "Википедиядан \"\\$1\": \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "Википедиядан \"\\$1\": \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Кёб болмай къошулгъанла"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Башлыкъ"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Теджелген Тюзетиуле"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Ичиндегилени Таблицасы"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Джаб"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Ичиндегилени Таблицасын джаб"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Ичиндегиле"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Ичиндегилени таблицасын джашыр"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Тюббашлыкъ \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Википедия къошакъ энди энишгедеги Тачелхитни вариантларын биринчи неда экинчи тилболуб къошакъ ичинде дагъан береди, бу шекелде сайлагъан вариант бла андан да тынч окъурча, излерча эмда тюзетиу этерчасыз:\n\nⵜⴰⵛⵍⵃⵉⵜ Тачельхит, Тифинагъ (shi-tfng)\nTaclḥit Тачельхит, Латин (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Тачельхит вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Википедия къошакъ энди энишгедеги Таджикчаны вариантларын биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, бу шекелде сайлагъан вариант бла андан да тынч окъурча, излерча эмда тюзетиу этерчасыз:\n\nтоҷикӣ кирилликӣ Таджикча, Кирил (tg-cyrl)\ntojikī lotinī Таджикча, Латин (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Таджикчаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 актив къошулуучу}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Тема къош"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Архивле"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Сюзюу бетилени юсюнден"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Тилни ауушдур"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Сынджырны чырма"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Окъу"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Окъулмагъан"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Къошакъ, серверден сакъланмагъан джаууаб алды. Тилейбиз, кечирек джангыдан кёрюгюз."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Сакъланмагъан халат"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Не эсе да табсыз кетди."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Сюзюу бет джюкленалмайды"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Теманы кер"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Бетде таб"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Бютеу темаланы ач"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Унутма, былайда барыбыз да инсанбыз"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Тилейбиз, адебли болугъуз"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Джууабыгъыз джетишимли басмаланды"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Сюзюуюгюз джетишимли басмаланды"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Джууабха къайтыр ючюн эки кере бас"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Сюзюу бетни къошакъ джарашдырыулары"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Бетни информациясы"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Дайым джибериу"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Тилейбиз, интернет байламыгъызны тинтигиз."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Комментарийигиз басмаланырача тюлдю."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Джангы тема басмаланырча тюлдю."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Вебде окъу"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Бетге джибериуле"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 джууаб}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Джууабла"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1 джууаб бер"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Джууабны теренлиги: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1 джууаб бер"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "Джууабыгъыз, кеси аллына хайырланыучу атыгъыз бла къол салыннганды. Тюзетиулени сакълаб, \\$1Хайырланыу Шартланы\\$2 къабыл этер, эмда къошумугъузну \\$3CC BY-SA 4.0\\$4 эмда \\$5GFDL\\$6 лицензияла бла басмалауну къабыл этериксиз."
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Версияланы тарихи"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Джууабны кёргюзюуню джаб"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Сюзюу бетни ортагъа сал"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Джаздырыл"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Бу темада джангы комментарийлени юсюнден хапарландырыула аллыкъсыз."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Джаздырылдыгъыз!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Темагъа джаздырылылмады, тилейбиз, джангыдан сынагъыз."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Статья сюзюу"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Хайырланыучу Сюзюу"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "Тюзетиулени басмалаб \\$1Хайырланыу Шартланы\\$2 къабыл этер эмда къошумугъузну \\$3CC BY-SA 4.0 Лицензия\\$4 эмда \\$5GFDL\\$6 тамалында кери алынмаз бичимде басмалауну къабыл этериксиз."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Джаздырылыуну кери ал"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Мындан ары бу темада джангы комментарийлени юсюнден хапарландырыула аллыкъ тюлсюз."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Энди джаздырылмагъансыз."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Темадан джаздырылыу кери алыналмады, тилейбиз, джангыдан сынагъыз."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Хайырланыучу сюзюу бетни юсюнден"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Къошумла"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Архивленнген бетде табылмадыла."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Архивле"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Энтда окъу"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Комментарийгиз къошулду"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Тюзетиуню андан ары бардыр"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Къайнакъны тюзет"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Википедияда контентни не къадар маджал къалай этерге керек болгъанын сюзген джерди. Википедиячыланы джамагъаты бла байламлы болуб, иш бирлик джюрютюр ючюн, **Сюзюуге джангы теманы къошуб** башлагъыз."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Википедияда контентни не къадар маджал къалай этерге керек болгъанын сюзген джерди. \\$1 бла байламлы болуб, иш бирлик джюрютюр ючюн, джангы сюзюу башлагъыз. Былайда джазгъанларыгъыз башхаланы кёралырча хар кимге да ачыкъ боллукъду."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Джангы тема къош"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Сюзюу башлат"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Ушакъ мында башланады"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1 бла сюзюу башлат"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Бу джангы джууабны унамазгъа излегенигизе ишексизмисиз?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Темагъыз къошулгъанды"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Ачыкълау"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Теманы ачыкълауу"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Джууабны Унама"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "Теманы Унама"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Бу джангы теманы унамазгъа излегенигизе ишексизмисиз?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Тема"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Тема башлыкъ"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Википедияда контентни не къадар маджал къалай этерге керек болгъанын сюзген джерди. Википедиячыланы джамагъаты бла байламлы болуб, иш бирлик джюрютюр ючюн, сюзюуге джангы теманы къошугъуз.\n\n\nТилейбиз, адебли болугъуз, барыбыз да мында инсанбыз."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Википедияда контентни не къадар маджал къалай этерге керек болгъанын сюзген джерди. Википедиячыланы джамагъаты бла байламлы болуб, иш бирлик джюрютюр ючюн, \\$1 Сюзюуге джангы теманы къошугъуз."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Тилейбиз, джумушакъ болугъуз, барыбыз да мында адамбыз."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Сюзюу бетле"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Хайырланыучу къауумла"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Журналла"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Сюзюу"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Хайырланыу шартла"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Къара"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Къарангы"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Тынгылау бла"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Система темагъа келишеди"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Джарыкъ"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Сепия"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Дунияны бюгюн Википедияда не окъугъанын юрен."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 окъуучу"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Эм бек окъулгъан"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Энди сына"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Юретиучю"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Кириуню бардыр"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Тилейбиз, эки факторлу верификация кодну киргизигиз"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Хыйсабыгъызгъа киригиз"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Резерв кодларыгъызны бирин хайырланыгъыз"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Верификация кодну хайырлан"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Сюзюу бет джюкленалмайды"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Билинмейди"
+    },
+    {
+      "name": "unwatch",
+      "value": "Кёзде тутма"
+    },
+    {
+      "name": "user_title",
+      "value": "Хайырланыучу"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Википедия къошакъ, энди энишгедеги Курдча версияланы биринчи неда экинчи тил болуб къошакъ ичинде дагъан береди, алай бла сайлагъан версия бла андан да тынч окъурча, тинтирча эмда тюзетирча боллукъсуз:\n\noʻzbekcha lotin Юзбекча, Латин (uz-latin)\nўзбекча кирилл Юзбекча, Кирил (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Юзбекчаны вариантларыны дагъаныны джангыртыулары"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Бардыр"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Хайырланыучу ат эмда хайырланыучу бет"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Джокъ этиу — **ахыр амалды**, эмда аны  **тюзетиуню тамамы бла тохтатыргъа излегесиз хайырланыргъа керекди**, неда эскиде ассоциацияланы бир мадар болуб аслам джашырыргъа излесегиз.\n\n\nВикипедияда хыйсабны кетериу, башхала хыйсабны джокъ этиу атны джюрютген процессде сизни кошугъузну танымазча, хыйсабыгъызны атын тюрлендириу бла этиледи.**Джокъ этиу толу анонимликни гарантия этмейди эмда проектде къошумларыгъызны къоратмайды**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Эс бёлюгюз"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Огъай, сау болугъуз"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Джарашдырыуларгыъзгъа кёз джетдиригиз"
+    },
+    {
+      "name": "watch",
+      "value": "Кёзде тут"
+    },
+    {
+      "name": "watchlist",
+      "value": "Кёздеги тизме"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Кёздеги тизмегизге 1 айгъа къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Кёздеги тизмегизге 1 ыйыкъгъа къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Кёздеги тизмегизге 1 джылгъа къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Кёздеги тизмегизге дайым къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Кёздеги тизмегизге 6 айгъа къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Кёздеги тизмегизге 3 айгъа къошулду."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Кёздеги Тизмени Кёргюзт"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|\\$1 байт}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 ай"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 ыйыкъ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 джыл"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Дайым"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 ай"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 ай"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Кёздеги тизме заман кёзюуюн сайлагъыз"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Кёздеги тизмени болджалыны чыгъыуу"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Башхалыкълагъа кёч"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Тюзетиулени ачыкълау"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Статьяланы изле"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Кёздеги тизмегизде элемент джокъду"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "Эсигизни бёлген статьяла бла не болгъанын марагъыз. Статьядагъы тюрлендириулени кёрюр ючюн, менюну басыгъыз эмда \"Кёзде тутну\" сайла."
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "Кёздеги Тизмеге къошхан статьяларыгъыз былайда кёрюнюр"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "Бетле тынгылау бла къалыр, алай а болджаллы къарау ючюн бир ыйыкъдан бир джылгъа дери сайлау барды"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Болджалны сал"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Фильтр"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Кёздеги Тизмеде Ишлеуле"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Къаралгъан тюрлениуле"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Къаралмагъан тюрлениуле"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Автомат Халдагъы Къошумла"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Бот"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Адам (бот тюлдю)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Ахыр Версияла"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Ахыр версия"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ахыр версия тюлдю"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Магъаналыкъ"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Гитче тюзетиуле"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Гитче болмагъан тюзетиуле"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Тюрлениуню тюрлюсю"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Категория тюрлениуле"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Кюнлюк ишлеуле"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Бет болдуруула"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Бетни тюзетиулери"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Викибилгилени тюзетиулери"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Хайырланыучуну регистрациясы эмда сынамы"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Регистрация этгенле"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Регистрация болмагъанла"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Тил къош..."
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "Аслам кёздеги тизме элемент кёрюр ючюн [{{PLURAL:\\$1|\\$1 фильтр}}](wikipedia://watchlist/filter) тюзет"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Кёздеги Тизмени юсюнден аслам билигиз"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Кёздеги тизмегиз бла танышыгъыз"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Кёздеги тизмегизни къоратыгъыз"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "‘Сау болунг’ \\$1 хайырланыучугъа джиберилди"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "Кёздеги Тизме, эс бёлген бет эмда статьялагъа этилген тюрлениулени мараргъа джораланнган адырды."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Тюрлениулени мара"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "Тюрлениуле неда сюзюуле кибик къошгъан бетлеригизни Кёздеги Тимзеге Джарашдырыула → Хыйсаб бла джетишилир."
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Джангыртыуланы кёргюзт"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Бюсюреу"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Хайырланыучу къошумла"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Хайырланыучуну бети"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Хайырланыучуну сюзюу бети"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "Джулдузгъа неда статьяны тюб адырла панелине \"Къара\" этиуге басыб, ол бетни Кёздеги Тизмегизге къошаргъа боллукъсуз."
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Статьялагъа къара"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Билгиле эмда Ташалыкъ"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Теджелген окъуула эмда джамагъатыбыздан кюнлюк статьяла"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Аулау тасма"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Тарихде бюгюн неле болгъанын юренир ючюн озгъаннга джолоучулукъ эт"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Бу кюнде"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Джууугъугъуздагъы белгили нохталаны тинтигиз неда дуния джюзюнде джерлени излегиз"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Джерле салгъыч"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Башла"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Тинтиуню джангы джоллары"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Англашынды"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Википедия волонтёрла джанындан ортакълашыб джазылгъанды эмда 300-ден аслам тилде 40 миллиондан аслам статья барды."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Википедияны юсюнден аслам бил"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Википедияны юсюнден"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Википедия дунияны бютеу тиллеринде эркин энциклопедияла джаратыр муратлы болгъан глобал проектди. Интернет джетишими болгъан хар ким нейтрал эмда къайнакълы информация бла къошум этиуде эркинди."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Эркин энципклопедия"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Башха тил къош"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Тил сайлауну къош неда тюзет"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Девайсыгъызда бу тиллени табдыкъ:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "300-ден аслам тилде изле"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "Тёлеусюз информация къозгъалыугъа къошулур ючюн, энчи информациягъызны берирге керек болмагъанына ийнанабыз. Бу къошум ючюн джыйылгъан хайырланыу билгиле анонимдиле."
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Ташалыкъ политикабызны эмда хайырланыу шартларыбызны юсюнден алсам билигиз"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Тарихде бу кюнде не болгъанын аула"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Хар ким да тюзетирча эркин онлайн энциклопедия"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Эркин вики контент энциклопедия болгъан Википедия онлайн болады."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Тюрлениулеригигзни ал къарауму алына турады..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Бу джибериу тыш вебсайтха джоллайды: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Тыш джибериу"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Википедияда бу ат бла статья джокъду"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Ич джибериу табылмады"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Бу джибериу '\\$1' бетге джоллайды"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Джибериуню ал къарауу"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Тюрлениулени сакъландыр"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA верификация халат."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA верификация керекди."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Викитекст джюклеу эсеб белгиленалмайды."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Басмаланады..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Тюрлениуле девайсыгъызны IP-адреси бла джаздырыллыкъдыла. \\$1Крисегиз\\$2 андан аслам ташалыкъгъа ие боллукъсуз."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Тюрлениуле девайсыгъызны IP-адреси бла басмаланыр. \\$1 эсегиз, аслам ташалыкъгъа ие болургъа болукъсуз."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "Тюрлениулени басмалаб \\$1Хайырланыу Шартланы\\$2 къабыл этер эмда къошумугъузну \\$3CC BY-SA 4.0\\$4 Лицензиясы эмда \\$5GFDL\\$6 тамалында басмалау кери алынмаз шекелде къабыл этерсиз. Creative Commons лицензия бла, джибериуню неда URL джетерли болгъанын къабыл этериксиз."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Хайырланыу Шартла"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Окъугъанынг ючюн"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Эм кёб окъулгъан статьяла"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Башха рандом статья"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s Википедиядан"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Википедияда"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Викигёзенден"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Кёргюзюрча тарих джокъду"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Бу картчыкъны джашыр"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Аулау тасманы джарашдыр"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Картчыкъ джашырылды"
+    },
+    {
+      "name": "editor_published",
+      "value": "Тюзетиуюгюз басмаланды."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s ючюн статья ачыкълау"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "%s излене болурму?"
+    }
+  ]
+}

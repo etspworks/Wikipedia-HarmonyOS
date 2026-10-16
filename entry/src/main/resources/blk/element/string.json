@@ -1,0 +1,1944 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "about_content_license",
+      "value": "အကျောင်ꩻခရာႏလုဲင်သိဉ်"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ခွုမ်မာꩻသားဖုံႏ"
+    },
+    {
+      "name": "about_libraries",
+      "value": "ကထွားခါꩻဖို ထွားလိတ်ခင်ႏလမ်းဖုံႏ"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "လုဲင်သိဉ်"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT လုဲင်သိဉ်"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ပသာ အဲပ် ဖေႏကျံႏညဏ်ႏချက်"
+    },
+    {
+      "name": "about_title",
+      "value": "အကျောင်ꩻခရာႏ"
+    },
+    {
+      "name": "about_translators",
+      "value": "ကေားပြန်ႏဘာႏသာႏသားဖိုင်ႏ"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "ထီလꩻတဝ်းပုင်ႏနဲ့ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "အဝ်ႏထူႏ CAPTCHAတသာတဗာႏ..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "ကွီအကောက်"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": " CAPTCHA လိုမ်းဗိဉ်းရေꩻ စဲစ်ထွားမုꩻ"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "ဖန်ဆင်ꩻ နာꩻအကောက်"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "အကောက်အဝ်ႏထွူလဲဉ်းနဲ့ဩ?"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "နွို့အကောက်"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "အဝ်ႏနွို့အကောက်ကျာꩻ..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "အီႏဖန်ဆင်ꩻအကောက်တာႏ နာꩻအဝ်ႏလိုႏနျꩻသော့ꩻ ကေားသုင်ꩻသားမိဉ်ꩻ၊ ငဝ်းဗိဉ်ႏပလို့ꩻ တောမ်ႏ ငဝ်းဗိဉ်ႏပလို့ꩻအတီႏသွူသြ။"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "ကဲက်ညီႏဒါႏငဝ်းဗိဉ်ႏပလို့ꩻ အဝ်ႏတဝ်း။"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "အဝ်ႏထူႏဟဝ်ကျာꩻ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ဖန်ဆင်ꩻအကောက်တသာ"
+    },
+    {
+      "name": "account_group_title",
+      "value": "နာꩻအကောက်"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "နာꩻအိုင်ကိုမ်ဒေါ့ꩻရီလိတ်မဲ့ငါ"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "အိုင်ကိုမ်ဒေါ့ꩻရီလိတ်မဲ့ငါ အပွိုင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "ထဲမ်သော့ꩻလွေꩻ..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "ထဲမ်သော့ꩻ ဟော်ꩻထွားစာႏရင်ꩻကို"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "ထဲမ်သော့ꩻစာႏရင်ꩻကို"
+    },
+    {
+      "name": "action_cancel",
+      "value": "မာꩻတဝ်းဒွုမ်"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ထိုမ်ႏထွား လိတ်မဲ့ငါကို"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "ပြောင်ꩻလုဲင်ႏ ဘာႏသာႏငဝ်းငွါ"
+    },
+    {
+      "name": "action_move_to",
+      "value": "ခြုဲင်းလွေꩻ..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "ခြုဲင်းလွေꩻ ဟော်ꩻထွားစာႏရင်ꩻထျꩻ"
+    },
+    {
+      "name": "action_read",
+      "value": "ဟော်ꩻ"
+    },
+    {
+      "name": "action_redo",
+      "value": "သဲင်ꩻဖျင်ငါ"
+    },
+    {
+      "name": "action_remove",
+      "value": "ဖုဲင်းထန်ႏထိုꩻ"
+    },
+    {
+      "name": "action_retry",
+      "value": "မာꩻချာယင်း"
+    },
+    {
+      "name": "action_save",
+      "value": "သိမ်ꩻ"
+    },
+    {
+      "name": "action_saved",
+      "value": "သဲမ်ထွူလဲဉ်း"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "သဲမ်ထွူလဲဉ်း။ မာꩻချာသဲမ်တဝ်းဒွုမ်။"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "သဲမ်ဟဝ်ရောမ်ဖြုဲင်ꩻ ဆုဲင်ꩻအတာႏ"
+    },
+    {
+      "name": "action_share",
+      "value": "ဖန်းဖြယ်"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ဖန်းဖြယ်"
+    },
+    {
+      "name": "action_sort",
+      "value": "စီႏစဲဉ်ႏ"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "ကေꩻဇူꩻတင်ႏငါႏ ကေားသုင်ꩻသား"
+    },
+    {
+      "name": "action_undo",
+      "value": "သဲင်ꩻဖျင်ချာ"
+    },
+    {
+      "name": "action_unsave",
+      "value": "သဲမ်ဗာႏဒွိုန်း"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "ရောမ်ဖြုဲင်ꩻနဝ်ꩻသဲမ်ဗာႏဒွိုန်း"
+    },
+    {
+      "name": "action_update",
+      "value": "ဒင်ႏထို"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "ဟော်ꩻထွားစာႏရင်ꩻကို ထဲမ်သော့ꩻ {{PLURAL:\\$1|ရောမ်ဖြုဲင်ꩻ \\$1|ရောမ်ဖြုဲင်ꩻဖိုင်ႏ \\$1}}"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "လွတ်ꩻ"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ဝီခီပီးဒီးယား၊ အာႏကွိုꩻ၊ ဝီခီ၊ ကျမ်ꩻပေါင်ꩻစွုမ်ႏ၊ အချက်လက်၊ ဗဟုသုတ၊ သုတေသန၊ သတင်ꩻအချက်လျက်၊ လွူꩻထွား၊ သွောန်ထူႏ"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "အငိုꩻလို့တဝ်း ကျမ်ꩻပေါင်ꩻစွုမ်ႏ"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ခိန်ႏထွား ရောမ်ဖြုဲင်ꩻလိတ်ယာႏပေႏတန်"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ခြဲ့ꩻလုဲင်းဇယား"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ဇယား အပွိုင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ရောမ်ဖြုဲင်ꩻယိုခရာႏ"
+    },
+    {
+      "name": "article_delete",
+      "value": "ယားကုဲင်"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "ယားကုဲင်ထွူလဲဉ်း {{PLURAL:ရောမ်ဖြုဲင်ꩻ|ရောမ်ဖြုဲင်ꩻဖိုင်ႏ|\\$1}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "ထိုမ်ႏထွားဘာႏသာႏငဝ်းငွါ"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "လွိုက်ဘာႏသာႏငဝ်းငွါ"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ဘာႏသာႏငဝ်းငွါအလင်ဖုံႏ"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "နာꩻဘာႏသာႏငဝ်းငွါဖုံႏ"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ဟော်ꩻထဲင်းအသွုပ်"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "အာႏကွိုꩻ \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "ဖန်းဖြယ်"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "သဲင်ꩻချာ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "နျꩻသဲင်ꩻချာ"
+    },
+    {
+      "name": "button_next",
+      "value": "လွေꩻငါ"
+    },
+    {
+      "name": "button_ok",
+      "value": "မွေးသွူ"
+    },
+    {
+      "name": "button_publish",
+      "value": "ဒင်ႏထင်ႏ"
+    },
+    {
+      "name": "button_skip",
+      "value": "ကာႏထိုꩻ"
+    },
+    {
+      "name": "cancel",
+      "value": "မာꩻတဝ်းဒွုမ်"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "သျင်ꩻထိုꩻ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "ပေ့ꩻထိုꩻ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 နားရီႏခိန်ႏ"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "ထွာခါꩻရောမ်ဖြုဲင်ꩻကျာꩻယိုဖိုင်ႏ အဝ်ႏတဝ်း"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "အဝ်ႏဒင်ႏထိုကျာꩻ..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "ထဲမ်သော့ꩻအွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "ရောမ်ဖြုဲင်ꩻအွောန်ႏနယ်ချက် \\$1 တာႏ"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "မွဉ်းဖျင် ရောမ်ဖြုဲင်ꩻအွောန်ႏနယ်ချက်"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "ဒင်ႏထင်ႏအွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "မွဉ်းဖျင် အွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "အကျောင်ꩻခရာႏ"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "ဝီခီဒေတာခရာႏ"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "သꩻတင်ꩻအချက်လျက်အထဲင်း"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "ဥပမာႏအနေႏ-"
+    },
+    {
+      "name": "description_help_title",
+      "value": "ရောမ်ဖြုဲင်ꩻအွောန်ႏနယ်ချက်ခရာႏအကူႏညီႏ"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "ထွူလဲဉ်း"
+    },
+    {
+      "name": "description_published_title",
+      "value": "ဒင်ႏထင်ႏထွူလဲဉ်း အွောန်ႏနယ်ချက်ခရာႏ!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "လိတ်ရဲဉ်ႏတရဲဉ်ႏတာႏ၊ လိတ်ဖြုံႏ အဝ်ႏနီဖြုံႏ ဗꩻတဆီနီဖြုံႏခါႏ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "အွောန်ႏနယ်သွော့အဒွောင်ႏ"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "ရောမ်ဖြုဲင်ꩻအွောန်ႏနယ်ချက်ခရာႏဖိုင်ႏ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "ခြပ်ချော်ꩻစ"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "အွောန်ႏနယ်"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "ပလို့ꩻ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "ဆꩻလ့"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ဆꩻကီ"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|ခြပ်ချော်ꩻမုꩻ \\$1|ခြပ်ချော်ꩻမုꩻ \\$1}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "မွဉ်းဖျင်သား သꩻတင်ꩻအချက်လက်"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "မွဉ်းဖျင် ချုတ်အအဲဉ်ႏ-"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "ပသာ 'ငဝ်းကေꩻဇူꩻတင်ႏ'"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "ပသာ 'ငဝ်းကေꩻဇူꩻတင်ႏ' လိုꩻအာငါ"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "နာꩻ 'ငဝ်းကေꩻဇူꩻတင်ႏ' နဝ်ꩻ ပသာထွူလဲဉ်း \\$1 ထျꩻသွူ"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "ငဝ်းကေꩻဇူꩻတင်ႏနဝ်ꩻ ပသာလꩻတဝ်း"
+    },
+    {
+      "name": "dim_images",
+      "value": "မာꩻတမို့ ရုက်ပုင်ႏဖိုင်ႏ"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "အွောန်ႏနယ်လိတ်ယာႏ"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "ဖုဲင်းထိုꩻလိဉ့်"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "မွဉ်းဖျင်လိဉ့်"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "မွဉ်းဖျင်"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "ယိုနဝ်ꩻထွာဒျာႏ အရေꩻတန်တဝ်းမွဉ်းဖျင်မုꩻဒျာႏသွူ"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "ထဲမ်သော့ꩻ မွဉ်းဖျင်ချုတ်အအဲဉ်ႏတဗာႏ"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "ဖျင်ခါꩻလဲဉ်း သဒ္ဒါႏ"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "ထဲမ်သော့ꩻခါꩻလဲဉ်း လိဉ့်ဖိုင်ႏ"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "အုံပွေားထွား လိတ်မဲ့ငါယိုတာႏ"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "အာႏကွိုꩻ ယွုမ်းအံႏသꩻဆွော့ꩻလꩻဒါႏ အရွီးခိုႏဖိုင်ႏ"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "အွောန်ႏထွော့ အငိုꩻလို့တဝ်း ဗဟုသုတထာꩻသေꩻ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "သꩻဟဝ်တဝ်းသွူ။ ဒင်ႏနွောင်ꩻတဝ်း ရောမ်ဖြုဲင်ꩻဝွန်ႏ။"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "အီႏအွောန်ႏနယ်တာႏ ရာႏဇာႏဝင်ႏအဝ်ႏတဝ်း"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "ဘာႏသာႏငဝ်းငွါအလင်ဖိုင်ႏ လꩻနွောင်ꩻတဝ်းသွူ"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "သဲမ်ဟဝ်ခါꩻ လိတ်မဲ့ငါဖိုင်ႏ အဝ်ႏတဝ်းဒွိုန်း"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "လꩻလဒ်မုဲင်ꩻမုဲင်ꩻတဲ့ တမော့ꩻတဝ်း"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "ကေားသုင်ꩻသားယိုတာႏ လꩻဒင်ႏဗာႏတဝ်းဒွိုန်း လိတ်မဲက်သေ့ဖိုင်ႏသွူ။"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "ကျိုꩻစာꩻစံꩻထဲင်းယင်းဆုဲင်ꩻတလဲင်ႏဟုဲင်းသြ"
+    },
+    {
+      "name": "error_unknown",
+      "value": "တသေဗာႏတဝ်းအခရာႏ ထွာထိုꩻအမာႏတဗာႏနဝ်ꩻသွူ။"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ရော့ꩻရာꩻရောမ်ဖြုဲင်ꩻအလင်"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "ပွိုးနာꩻဟော်ꩻထွားတဲင်"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "ဆွိုက်စပ်ရောမ်ဖြုဲင်ꩻအထဲင်းဖိုင်ႏ"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "ဟော်ꩻသွုပ်ထဲင်း"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "ရောမ်ဖြုဲင်ꩻတဲးဝါး"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "အဝ်ႏဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "ဖျင်သꩻကျွိုက်"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "ပလို့ꩻခါꩻလဲဉ်းကဒ်။"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "စွုမ်ႏနီꩻ ရောမ်ဖြုဲင်ꩻတဲးဝါး ဝီခီပီးဒီးယားကို"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "ပေ့ꩻ"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ဗွောင်လို့"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "ဗွောင်"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "ဗွောင် \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "ပလို့ꩻ \\$1 ကဒ်ဖိုင်ႏကားကအဝ်ႏ"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "တကမ္ဘာႏလွုမ်း ကဒ်ဖိုင်ႏ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ပလို့ꩻ ကဒ်ယို"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "ပလို့ꩻ \"\\$1\" ကဒ်ကားကအဝ်ႏ"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "ရောမ်ဖြုဲင်ꩻ ထွာကုဲင်ယိုခါကျာꩻခရာႏ"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "အတိတ်သꩻမဲင်ꩻကို ထာꩻထွာဖိုင်ႏ ကထွာခါꩻဒါႏ ဟန်ႏနီꩻ"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "ဝီခီပီးဒီးယား ရောမ်ဖြုဲင်ꩻဖိုင်ႏ ကအဝ်ႏဗော့ꩻနာꩻအဝ်ႏအိုင်ခမ်းလမ်းထျꩻ"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "စွုမ်ႏနီꩻ ဓာတ်ပုင်ႏတဲးဝါး ကောင်မွဉ်းကို"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "ထေထန်ႏရော့ꩻရာꩻရောမ်ဖြုဲင်ꩻဖိုင်ႏ အီႏဟော်ꩻတာႏ"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "ဖေႏကျံႏညဏ်ႏချက်ဖိုင်ႏ အခေႏခံႏဒါႏ ဟော်ꩻရာႏဇာႏဝင်ႏလောင်း"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "အွောန်ႏနယ် ဟော်ꩻထွားသွုပ်ထဲင်းကဒ်"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "အွောန်ႏနယ် ရောမ်ဖြုဲင်ꩻတဲးဝါးကဒ်"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "အွောန်ႏနယ်ကဒ် သꩻတင်ꩻကို"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "အွောန်ႏနယ် ကဒ်ဟန်ႏနီꩻယို"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "အွောန်ႏနယ် ဓာတ်ပုင်ႏကဒ်တဲးဝါးဟန်ႏနီꩻ"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "အွောန်ႏနယ် ခင်ႏလမ်းကဒ်ဖိုင်ႏ"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "အွောန်ႏနယ် ရော့ꩻရာꩻကဒ်"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "အွောန်ႏနယ် ပွိုးနာꩻဟော်ꩻထွားကဒ်"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "အွောန်ႏနယ် ဟော်ꩻထွားအာသွတ်ꩻကဒ်"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "စွုမ်ႏနီꩻ ဟော်ꩻထွားအအာသွတ်ꩻ ရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "ပလို့ꩻ ကဒ်ယို"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "ဝီခီမီဒီယာ ပရောစဲစ်ဖိုင်ႏ ဗဟိုႏလိတ်မဲ့ငါ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ဟန်ႏနီꩻ ဝီခီပီးဒီးယားကို"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻ"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 ကို အအာသွတ်ꩻ"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 ဝီခီပီးဒီးယားလောင်း"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "ဝီခီပီးဒီးယားလောင်း"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "ဗော့ꩻရာꩻခင်ႏလမ်းဖိုင်ႏ"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "ခင်ႏလမ်းဖိုင်ႏ"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "အဝ်ႏ\\$1ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "အဝ်ႏ\\$1 ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "နာꩻခင်ႏလမ်းအိုင်"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "နာꩻအဝ်ႏအိုင်ခင်ႏလမ်း \\$1 ဝီခီပီးဒီးယားကို"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "ဟန်နီꩻတာႏ ဓာတ်ပုင်ႏ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "အဝ်ႏ ဝီခီမီဒီယာကောင်မွဥ်းကို"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "ရော့ꩻရာꩻ ရောမ်ဖြုဲင်ꩻ"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "အဝ်ႏ\\$1 ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "အဝ်ႏဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ရော့ꩻရာꩻစဲဉ်ႏ"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "မွူးနီꩻယိုအတာႏ ရောမ်ဖြုဲင်ꩻတဲးဝါး လꩻနွောင်ꩻတဝ်းသွူ။"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "အဝ်ႏ\\$1 ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "အဝ်ႏဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "ရောမ်ဖြုဲင်ꩻတဲးဝါး"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA မဲဉ်ႏတဝ်း"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "ငဝ်းဗိဉ်ႏပလို့ꩻဖိုင်ႏ မဲဉ်ႏစွို့ꩻတဝ်းဩ။"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "ကိုဒ်အမာႏ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ကေားသုင်ꩻသားမိဉ်ꩻ လꩻနွောင်ꩻတဝ်းသွူ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA လိတ်ယာႏ"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "နျꩻသော့ꩻသွော့လိတ်ယာႏ နုဲင်းနာꩻကထီႏကီနဝ်ꩻအတွိုင်ꩻ"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "အီးမေး"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "အီးမေး (မိဉ်ႏအဝ်ႏနဝ်ꩻ)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "နျꩻသော့ꩻသမ်းယင်း ငဝ်းဗိဉ်ႏပလို့ꩻတသာ"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "အွောန်ႏတီႏငဝ်းဗိဉ်ႏပလို့ꩻတသာ"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "နျꩻသော့ꩻသွော့ ငဝ်းဗိဉ်ႏပလို့ꩻတသာ"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "ငဝ်းဗိဉ်ႏပလို့ꩻတသာ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "နျꩻသော့ꩻထဲင်းယင်း ငဝ်းဗိဥ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "အွောန်ႏတီႏငဝ်းဗိဉ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "နျꩻသော့ꩻသွော့ ငဝ်းဗိဉ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "field_password_title",
+      "value": "ငဝ်းဗိဥ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "ကိုဒ်အတီႏ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "သော့ꩻ ကေားသုင်ꩻသားမိဉ်ꩻ"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ကေားသုင်ꩻသားမိဉ်ꩻ"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "ထိုမ်ႏထွားမုꩻလꩻလဒ်အထဲင်း"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "ထိုမ်ႏထွားမုꩻလꩻလဒ်ကရီးခါ"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "ထိုမ်ႏထွားထွူ လုဲင်ႏသော့ꩻ"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "ပေ့ꩻထိုꩻ ထိုမ်ႏထွားထွူ လုဲင်ႏသော့ꩻမုꩻ"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "ထိုမ်ႏ"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "မာꩻချာယင်း"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ခိန်ႏသော့ꩻယင်း ငဝ်းဗိဉ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "မွေးတဝ်းလဲ့"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "မွေး၊ ယားကုဲင်လို့သြ"
+    },
+    {
+      "name": "history_title",
+      "value": "ရာႏဇာႏဝင်ႏ"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ဝီခီပီးဒီးယား၊ လွေꩻချာထိုမ်ႏလွူꩻထွားမုꩻထျꩻ"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ဝီခီပီးဒီးယား၊ လွေꩻချာသဲမ်ꩻထူႏမုꩻကို"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "ထဲင်းယင်းနုဲင်း \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "ခင်ႏလမ်းအထဲင်း အဝ်ႏဗော့ꩻဒါႏ နာꩻအဝ်ႏအိုင်ခင်ႏလမ်းထျꩻ"
+    },
+    {
+      "name": "home_title",
+      "value": "ထိုမ်ႏလွူꩻထွား"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "ဗော့ꩻရာꩻ ရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "ရော့ꩻရာꩻ ရောမ်ဖြုဲင်ꩻ"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "ထိုမ်ႏထွား ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "သေတဝ်းကေားတဲမ်းသား။"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "အဝ်ႏ\\$1 ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "အဝ်ႏဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "သꩻတင်ꩻကိုနဝ်ꩻ"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "ဒင်ႏသွင်ꩻသော့ꩻ"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "ဒင်ႏထဲမ်သော့ꩻလိဉ့်သြ"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "တထီႏလꩻတဝ်းဒါႏရုက်ပုင်ႏ ဟော်ꩻထွားသားတာႏ သော့ꩻဖေႏလိတ်ယာႏအွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "အွောန်ႏနယ် ဓာတ်ပုင်ႏယိုခရာႏ"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "လိတ်ယာႏ တောမ်ႏအနယ်ꩻလင်"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "ရုက်ပုင်ႏယိုနဝ်ꩻ စပ်ဆွိုင်ꩻရောမ်ဖြုဲင်ꩻ နုဲင်းမုဲင်ꩻနဲး?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "ပုင်ႏလိတ်"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "အကဲဉ်"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "စေႏ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "မုဲင်ꩻမုဲင်ꩻမွေးတဝ်း"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ထွေ"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "ရုက်ပုင်ႏ ခင်ႏလမ်းအိုင်"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "သꩻတင်ꩻအချက်လျက်အထဲင်း"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "လွိုက်ဓာတ်ပုင်ႏ"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "သꩻကျွိုက်"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "နုဲင်းမူလအတွိုင်ꩻ"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "ရုက်ပုင်ႏပေႏတန်"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "အခေႏခံႏ"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "ပုင်ႏအစွိုးအမျိုꩻ"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "မီဒီယာ အပွိုင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "ဒင်ႏထူႏသော့ꩻမီဒီယာ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "ဘာႏသာႏငေါဝ်းငွါဖိုင်ႏ"
+    },
+    {
+      "name": "languages_title",
+      "value": "ပြောင်ꩻလုဲင်ႏ ဘာႏသာႏငဝ်းငွါ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "ဝီခီပီးဒီးယားဘာႏသာႏဖိုင်ႏ"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "သုင်ꩻသွုပ်အီ နွို့တဝ်းအကောက်စား"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "နွို့လွေꩻချာနာꩻအကောက်ကို"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "နာꩻထန်ႏထိုꩻထွူလဲဉ်းအကောက်"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "အွဉ်ႏဖေင်ꩻထိုꩻ ငဝ်းဗိဉ်ႏပလို့ꩻနဲ့?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "နွို့ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "login_no_account",
+      "value": "အကောက် အဝ်ႏတဝ်းနဲ့? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "နွို့လွေꩻနာꩻအကောက်ကို"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "အဲပ် အကျောင်ꩻခရာႏ"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "နွို့အကောက်"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "ထန်ႏအကောက်"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "နာꩻမဲဉ်ထန်ႏထိုꩻမွေး အကောက်နဝ်ꩻ သေႏချာႏဒျာႏနဲ့ဟောင်း?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "နွို့လဲဉ်းအကောက် \\$1 အနေႏ"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "နမ်းရေꩻခရာႏ တောမ်ႏ စီꩻကန်ꩻအွောန်ႏထွော့ချက်ဖုံႏ"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "ဗော့ꩻရာꩻ"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "နမ်းပဲင်ႏမူဝါဒ"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "အွောန်ႏထွော့ အဲပ်အရန်း"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "သုင်ꩻအီခရာႏ အွောန်ႏထွော့ချက်ဖိုင်ႏ"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ထဲင်းယင်း"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "ဝီခီပီးဒီးယားသုည ငဝ်းရီငဝ်းစေကဏ္ဍ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "ထိုမ်ႏထွားဝီခီပီးဒီးယား တောမ်ႏဘာႏသာႏငဝ်းငွါ ၃၀၀ လွို"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "ထဲမ်သော့ꩻဘာႏသာႏငဝ်းငွါဖိုင်ႏ"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "ဟော်ꩻထွားစာႏရင်ꩻကို ခြုဲင်းလွေꩻရောမ်ဖြုဲင်ꩻ {{PLURAL:\\$1|\\$1 ဗာႏ|\\$1 ဗာႏ}}"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "နမူႏနာႏ"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 ပေ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 ကီလိုမီတာ"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 မီတာ"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 မဲင်ႏ"
+    },
+    {
+      "name": "new_password_title",
+      "value": "နျꩻသော့ꩻသွော့ နာꩻငဝ်းဗိဥ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "အိဉ်တာနဲက်လဲင်း အဝ်ႏတဝ်းသြ"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "ပြောင်ꩻငဝ်းဗိဉ်ႏပလို့ꩻ"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "စဲစ်ထွား ဖေႏသေချက်ဖိုင်ႏတာႏ..."
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "ဗွောင် ဖေႏသေချက်ဖိုင်ႏ"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ကားကအဝ်ႏ"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "လွေꩻ \\$1 ကေားသုင်ꩻသားလိတ်မဲ့ငါထျꩻ"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "လွေꩻ နာꩻအိုင်ကိုမ်ဒေါ့ꩻရီလိတ်မဲ့ငါထျꩻ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "ထွူလဲဉ်း"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "နွို့အကောက် ဖေႏသေချက်ဖိုင်ႏ"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ဒင်ႏမုဲင် နုဲင်းဟော်ꩻထွားထွူလို့လဲဉ်းအကျောင်ꩻ"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "မာꩻနုဲင်းဟော်ꩻထွူလဲဉ်း"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "မာꩻနုဲင်းဟော်ꩻဗာႏဒွိုန်းပုင်ႏ"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "ဖေႏသေချက် အပွိုင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ကားကအဝ်ႏ"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "မွဉ်းဖျင် မဲင်ႏထွန်ႏ"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "အီးမေးတသာ"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ပေ့လိဉ့်"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "ကေꩻဇူꩻသြ"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ကျိုႏဆွုမ်ႏဒျာႏသြ!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "မာꩻနုဲင်းဟော်ꩻဗာႏဒွိုန်း"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "ထဲင်းယင်း"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "ဖေႏသေချက်ဖိုင်ႏ"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "အတသာ \\$1"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 ဗီလီယံ"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 မီလီယံ"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1ရေင်"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ဟန်ႏနီꩻတာႏ"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "ဗော့ မွဉ်းဖျင်မုꩻဖိုင်ႏ"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "တဲက်ထွား"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "အရေꩻတန်တဝ်း မွဉ်းဖျင်မုꩻဖိုင်ႏ"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "တဲမ်းလိတ်သား- \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "တောင်ꩻသေꩻ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "မူရာႏဇာႏဝင်ႏမုဲင်တန်ꩻ"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "အရေꩻတန်တဝ်း မွဉ်းဖျင်မုꩻ"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "ထဲမ်သော့ꩻလဲဉ်း {{PLURAL:\\$1|\\$1 ဗုဲက်|\\$1 ဗုဲက်}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "ဖုဲင်းထိုꩻလဲဉ်း {{PLURAL:\\$1|\\$1 ဗုဲက်|\\$1 ဗုဲက်}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "လိတ်မဲ့ငါ ခရာႏဖုံႏ"
+    },
+    {
+      "name": "page_location",
+      "value": "ထွားဟံႏပုင်ႏကို"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "လိတ်မဲ့ငါယိုဗာႏနဝ်ꩻ အဝ်ႏရဲးကမ်းသေꩻခါꩻဩ"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ဗိုန်ပီလိတ်မဲ့ငါဖိုင်ႏ"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "ရောမ်ဖြုဲင်ꩻ \\$1"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "အွောန်ႏနယ်နေးစာႏရင်ꩻ"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "အွောန်ႏနယ် နေးဟံႏပုင်ႏ"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "အွောန်ႏနယ် ရောမ်ဖြုဲင်ꩻအထဲင်းဖိုင်ႏ"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "ဗွောင် အိုင်အဝ်ႏခင်ႏလမ်း"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "စဲစ်ထွားခါꩻဒါႏရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "စဲစ်ထွား"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "သဲမ်ခါꩻဒါႏခင်ႏလမ်းဖိုင်ႏအဝ်ႏတဝ်း"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "သဲမ်ခါꩻဒါႏရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻ"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 ရောမ်ဖြုဲင်ꩻ|\\$1 ရောမ်ဖြုဲင်ꩻဖိုင်ႏ}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "ဗွောင်ထွူလဲဉ်း အဝ်ႏအိုင်ခင်ႏလမ်း"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "ထိုမ်ႏ ခင်ႏလမ်းဖိုင်ႏ"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "နာꩻမိဉ်ရိုꩻ \\$1 ယိုနဲ့ဟောင်း။"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "ထိုမ်ႏထွားလဲဉ်းကျာꩻယိုဖိုင်ႏ"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "သဲမ်ခါꩻဒါႏ ရောမ်ဖြုဲင်ꩻကားကအဝ်ႏ"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "ဖေႏကျံႏညဏ်ႏခါꩻဒါႏ ထိုမ်ႏထွားမုꩻဖိုင်ႏ"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "လꩻလဒ် ခင်ႏလမ်းခဝ်ယိုအကို"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "ဗော့ꩻရာꩻ"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "နာꩻအဝ်ႏအိုင်ဒါႏခင်ႏလမ်းကျာꩻယို"
+    },
+    {
+      "name": "places_title",
+      "value": "ခင်ႏလမ်းဖိုင်ႏ"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "သေတဝ်း အဗော့ꩻအညာꩻ"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 တာႏ ဓာတ်ပုင်ႏဟန်ႏနီꩻ"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "ဓာတ်ပုင်ႏဟန်ႏနီꩻ"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "ဟော်ꩻလိတ်စာႏရင်ꩻကို ထဲမ်သော့ꩻနေ ရောမ်ဖြုဲင်ꩻယိုဟောင်း?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "ဟော်ꩻလိတ်စာႏရင်ꩻကို ထဲမ်သော့ꩻနေ \"\\$1\"ဟောင်း?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "မော့ꩻ ကသဲမ်ခါꩻဒါႏရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "ဖန်ဆင်ꩻ ဟော်ꩻလိတ်စာႏရင်ꩻ"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "အွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "အဝ်ႏဟော်ꩻ စာႏရင်ꩻမိဉ်ꩻ"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "ဖန်ဆင်ꩻ စာႏရင်ꩻတသာ"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "ယားကုဲင်ထွူလဲဉ်း ဟော်ꩻလိတ်စာႏရင်ꩻ"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "မွေးသြ၊ ရောမ်ဖြုဲင်ꩻဖိုင်ႏယို သော့ꩻဟဝ်လွေꩻ စက်ကိုသြ"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "ခြပ်စဲဉ်ႏရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "နွို့အကောက်/ ဖန်ဆင်ꩻအကောက်"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "နွို့အကောက် အီႏမာꩻကသဲမ်ခါꩻဒါႏ ရောမ်ဖြုဲင်ꩻsync"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "သဲမ်ခါꩻဒါႏနာꩻရောမ်ဖြုဲင်ꩻနဝ်ꩻ အီႏမာꩻနေsync?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[ကေားသုင်ꩻသား ဖန်ဆင်ꩻခါꩻလဲဉ်း]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "အရေꩻတန်တဝ်း အွောန်ႏနယ်ချက်ခရာႏ"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "ဟော်ꩻထွား စာႏရင်ꩻကတူႏစဲဉ်ႏ"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "ပေ့ꩻခါꩻလဲဉ်းsync"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "ဗွောင်sync"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "ရောမ်ဖြုဲင်ꩻ ထဲမ်သော့ꩻလဲဉ်း ”\\$1”ထျꩻ"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "ဒင်ႏနွောင်ꩻတဝ်း ရောမ်ဖြုဲင်ꩻsyncသွူ"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "သဲမ်ထွူလဲဉ်း"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "ခိန်ႏလိတ်ဖြုံႏပေႏတန်"
+    },
+    {
+      "name": "reference_title",
+      "value": "အာႏကွိုꩻ \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ဟန်နီꩻ|1=မဟာနီꩻ|\\$1 နီꩻကိုကာႏ}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1နားရီႏ"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=နဝ်ꩻဟွောန်ႏကျာꩻ|\\$1 နားရီႏကိုကာႏ|\\$1 နားရီႏကာႏ}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1နားရီႏကာႏ"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=နဝ်ꩻဟွောန်ႏကျာꩻ|\\$1 နားရီႏကိုကာႏ|\\$1 နားရီႏကာႏ}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=ယိုခါ|\\$1 မိနိစ်ကာႏ|လꩻလဲဉ်း \\$1 မိနိစ်}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1မိနိစ်"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=ယိုခါ|\\$1 မိနိစ်ကာႏ|လꩻလဲဉ်း \\$1 မိနိစ်}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "လꩻလဲဉ်း \\$1 မိနိစ်"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=လာယို|1=လာကရီး|လꩻလဲဉ်း \\$1 လာ}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1စက္ကန့်"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "လꩻလဲဉ်း \\$1 စက္ကန့်"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ဟန်ႏနေင်ႏ|1=နေင်ႏဟာ|လꩻလဲဉ်း \\$1 နေင်ႏ}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "သဲင်ꩻဖျင်ချာ မွဉ်းဖျင်မုꩻ"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "ရောမ်ဖြုဲင်ꩻကားကအဝ်ႏ"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "အဝ်ႏဟော်ꩻဒျာႏစာႏရင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "ထိုမ်ႏ ကသဲမ်ခါꩻဒါႏ ရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "saved_title",
+      "value": "သဲမ်ထွူလဲဉ်း"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "သိမ်ꩻတဝ်းဒွုမ် {{PLURAL:\\$1|ရောမ်ဖြုဲင်ꩻ|ရောမ်ဖြုဲင်ꩻဖိုင်ႏ}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "ထိုမ်ႏထွား ဝီခီပီးဒီးယားကို"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "သျင်ꩻထိုꩻ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "ထိုမ်ႏထွား ဝီခီပီးဒီးယားကို"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "လတ်တလောထိုမ်ႏခါꩻမုꩻဖုံႏ ကားကအဝ်ႏယို ယားကုဲင်ချာနဲ့?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ခွုမ်မာꩻချက်ယိုနဝ်ꩻ မာꩻချာနွောင်ꩻတဝ်းဒုမ်!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "ယားကုဲင်လို့"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "ထိုမ်ႏခါꩻမုꩻဖုံႏ အဝ်ႏတဝ်း"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "ထိုမ်ႏထွားခါꩻဒါႏကျာꩻယိုဖိုင်ႏ"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 ယီးနယ်ချာခါꩻဒျာႏသွူ"
+    },
+    {
+      "name": "search_title",
+      "value": "ထိုမ်ႏ"
+    },
+    {
+      "name": "settings_account",
+      "value": "အကောက်"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ဟော်ꩻလိတ် အပွိုင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "သျင်ꩻထိုꩻ cachedဒေတာ"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "သျင်ꩻထိုꩻသွူ cachedဒေတာနဲ့?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "မာꩻတဝ်းဒွုမ်"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "သျင်ꩻထိုꩻcache"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "အစွဲးအကမ်းတောမ်ႏ ဖေႏကျံႏညဏ်ႏချက်"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "အွောန်ႏနယ်ဘာႏသာႏငဝ်းငွါ ထိုမ်ႏထွားမုꩻကို"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "ခွေသွဉ်းဘာႏသာႏငဝ်းငွါဖိုင်ႏ"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "ဖေႏသေချက်ဖုံႏ"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "အထျ့ꩻ"
+    },
+    {
+      "name": "settings_title",
+      "value": "အဖျင်အဆင်ဖိုင်ႏ"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "မာꩻထူႏတောမ်ႏ ဝီခီပီးဒီးယား အဲပ်"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" အဝ်ႏဝီခီပီးဒီးယားကို:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” အဝ်ႏ “\\$2”: \\$3 ကို"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nအဝ်ႏ “\\$2”\n\n\\$3 ကို"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "ထူႏယီးနယ်ချက်ဖိုင်ႏ"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "ဖန်းဖြယ်..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "အဝ်ႏ @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "ဗွောင်ဟံႏပုင်ႏကို"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” အဝ်ႏ Wikipediaကို: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” အဝ်ႏ @Wikipediaကို: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "ထဲမ်သော့ꩻခါꩻလဲဉ်း နဝ်ꩻဟွောန်ႏ"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "ကꩻတူႏရဲန်ႏ"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "ဟော်ꩻထွားရီးတာႏ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "ပေ့ꩻထိုꩻ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "ပေ့ꩻထိုꩻ ဟော်ꩻထွားရီးတာႏ"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "ဟော်ꩻထွားရီးတာႏ"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "ပလို့ꩻ ဟော်ꩻထွားရီးတာႏ"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "ကတူႏရဲန်ႏဖြယ် \\$1"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "ဟော်ꩻ"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "ဟော်ꩻဗာႏဒွိုန်း"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "နီသွောန်းသီးကားကအဝ်ႏယို ထွာဒျာႏလိုꩻဖိုင်ႏကရိုꩻနဝ်ꩻ ယူႏလꩻပါသွော့သြ"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "ယေန်ႏကေႏသꩻညင်ꩻ ရက်သွော့ဝင်ꩻသြ"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "နာꩻလဝ်းပြန်ႏချာချက်နဝ်ꩻ ဒင်ႏထင်ႏအောင်ႏလဲဉ်းသွူ"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "နာꩻအိုင်ကိုမ်ချက်နဝ်ꩻ ဒင်ႏထင်ႏအောင်ႏလဲဉ်းသွူ"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "ရောမ်ဖြုဲင်ꩻ အိုင်ကိုမ်ဒေါ့ꩻရီ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "ကေားသုင်ꩻသား အိုင်ကိုမ်ချက်"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "အဖြေင်း"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "အခေ့ꩻ"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "နုဲင်းမူလအတွိုင်ꩻ"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "အလေ"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "ဟော်ꩻလိတ်သားဖိုင်ႏ \\$1"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻ"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "နွို့သွုပ်အကောက်"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "နွို့လွေꩻနာꩻအကောက်"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "သုင်ꩻကိုဒ်အတီႏ"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "ဒင်ႏနွောင်ꩻတဝ်း အိုင်ကိုမ်ဒေါ့ꩻရီလိတ်မဲ့ငါဝွန်ႏ"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "သေတဝ်းအမိဉ်ꩻ"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "လိုႏတဝ်း၊ ကေꩻဇူꩻတန်ငါႏသြ။"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "စဲစ်ထွား နာꩻလွိုက်ရွေꩻခရာႏဖိုင်ႏ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ဟန်ႏနီꩻ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "မာꩻစခန်း"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "လွူꩻထွားတာႏ အနယ်ꩻတသာဖိုင်ႏ"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "လꩻလဲဉ်းသြ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "လွူꩻထွားထဲင်း ဝီခီပီးဒီးယားခရာႏ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "ဝီခီပီးဒီးယားခရာႏ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "အငိုꩻလို့တဝ်း ကျမ်ꩻပေါင်ꩻစွုမ်ႏ"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "ထဲမ်သော့ꩻ ဘာႏသာႏငဝ်းငွါအလင်"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "ထဲမ်သော့ꩻ မွေးတဝ်းလဲ့ မွဉ်းဖျင် ပေါင်းကျွိုက်စွယ်ꩻဒါႏ ဘာႏသာႏငဝ်းငွါဖိုင်ႏ"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "နာꩻစက်တခြိုꩻကိုနဝ်ꩻ နီသွဉ်းသီးမော့ꩻခါꩻ ဘာႏသာႏငဝ်းငွါဖိုင်ႏ နုဲင်းလ့နဝ်ꩻအတွိုင်ꩻသွူ။"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "ထိုမ်ႏ လွိုထဲင်းဘာႏသာႏငဝ်းငွါ ၃၀၀ လွိုကို"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "အငိုꩻလို့တဝ်း လဲင်းလောင်းကျမ်ꩻပေါင်ꩻစွုမ်ႏယိုနဝ်ꩻ ပါမုဲင်ꩻတရိုꩻတဝ်း မွဉ်းဖျင်နွောင်ꩻဒျာႏသွူ"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "လိဉ့်အထန်ႏ"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "ဝီခီပီးဒီးယားကိုနဝ်ꩻ တောမ်ႏအမိဉ်ꩻစဲင်းစဲ့နုဲင်းယို ရောမ်ဖြုဲင်ꩻတဗာႏဗာႏအဝ်ႏတဝ်းသြ"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "မော့ꩻတဝ်း လိဉ့်အကို"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "လိဉ့်ယိုနဝ်ꩻ ရေႏမိုးထေ့ '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "ထွားကျိုႏလိဉ့်နမူႏနာႏ"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "သိမ်ꩻ ပြောင်ꩻလုဲင်ႏမုꩻဖိုင်ႏ"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA အွောန်ႏတီႏမုꩻ အမာႏ။"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "အဝ်ႏလိုႏ CAPTCHA အွောန်ႏတီႏချက်သွူ။"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "အဝ်ႏဒင်ႏထင်ႏကျာꩻ..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "သုင်ꩻအီခရာႏအွောန်ႏထွော့ချက်ဖုံႏ"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "ပွိုးနာꩻဟော်ꩻထွားတဲင်"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ဟော်ꩻထွားအာသွတ်ꩻရောမ်ဖြုဲင်ꩻဖိုင်ႏ"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ရော့ꩻရာꩻရောမ်ဖြုဲင်ꩻအလင်"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s ဝီခီပီးဒီးယား"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s ဝီခီပီးဒီးယားလောင်း"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "အဝ်ႏ ဝီခီမီဒီယာကောင်မွဥ်းကို"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "အီႏအွောန်ႏနယ်တာႏ ရာႏဇာႏဝင်ႏအဝ်ႏတဝ်း"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ပလို့ꩻ ကဒ်ယို"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "ပလို့ꩻခါꩻလဲဉ်းကဒ်။"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "ရောမ်ဖြုဲင်ꩻအွောန်ႏနယ်ချက် %s တာႏ"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "နာꩻမိဉ်ရိုꩻ %s ယိုနဲ့ဟောင်း။"
+    }
+  ]
+}

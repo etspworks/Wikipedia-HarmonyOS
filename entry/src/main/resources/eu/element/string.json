@@ -1,0 +1,1972 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lizentziaren edukia"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Beste era batera zehazten ez bada, edukia \\$1(r)en pean eskuragarri egongo da."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike Lizentzia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Ekarleak"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Erabilitako liburutegiak"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Zerrenda osatu"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lizentzia"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "\\$1 iturri software irekia maite dugu"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Mesedez, hemen begiratu lizentziaren xehetasunetarako"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1(e)k eginda, zu bezalako boluntarioen laguntzaz"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Biltegiak"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Iturri kodea erabilgarri dago \\$1(r)en babespean."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT Lizentzia"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Aplikazioari buruzko feedbacka eman"
+    },
+    {
+      "name": "about_title",
+      "value": "Honi buruz"
+    },
+    {
+      "name": "about_translators",
+      "value": "Itzultzaileak"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1(e)n boluntarioek itzulita"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Fundazioa"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ezin duzu argazkia ikusi? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "CAPTCHA berria lortzen..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Eskatu kontua."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Segurtasunezko CAPTCHA kontrola"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Zure kontua sortu"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Baduzu erabiltzaile kontua? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Hasi saioa."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Saioa hasten..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Erabiltzaile-izena eta pasahitza idatzi eta pasahitza berrestu beharko duzu, kontua sortzeko."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Pasahitza eremuak ez datoz bat."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Gordetzen..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Kontu berria sortu"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Hona gehitu:"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Gehitu irakurketa zerrendara"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Zerrendara gehitu"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Utzi"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Orrialdean bilatu"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Horra mugitu..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Irakurketa zerrendara mugitu"
+    },
+    {
+      "name": "action_read",
+      "value": "Irakurri"
+    },
+    {
+      "name": "action_redo",
+      "value": "Berregin"
+    },
+    {
+      "name": "action_remove",
+      "value": "Kendu"
+    },
+    {
+      "name": "action_retry",
+      "value": "Saiatu berriro"
+    },
+    {
+      "name": "action_save",
+      "value": "Gorde"
+    },
+    {
+      "name": "action_saved",
+      "value": "Gordeta"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Gordeta. Aktibatu ez gordetzeko."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Gerorako gorde da artikulua"
+    },
+    {
+      "name": "action_share",
+      "value": "Partekatu"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Partekatu"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sailkatu"
+    },
+    {
+      "name": "action_undo",
+      "value": "Desegin"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Ez da gorde"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Gorde gabeko artikulua"
+    },
+    {
+      "name": "action_update",
+      "value": "Eguneratu"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Gehitu {{PLURAL:\\$1|artikulu bat|\\$1 artikulu}} irakurketa zerrendara"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Utzi"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, erreferentzia, wiki, entziklopedia, informazioa, ezagutza, ikerketa, informazioa, arakatu, ikasi"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Gordetako artikuluak jada irakurketa zerrendetan antola daitezke eta gailuetatik zehar sinkroniza daitezke ere."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Deskargatu Wikipedia aplikazioa zure inguruko tokiak arakatzeko, artikuluak konexiorik gabe irakurtzearren sinkronizatzeko, eta zure irakurketa esperientzia pertsonalizatzeko."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Entziklopedia askea"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Artikuluaren testuaren tamaina egokitu"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Taulak zabaldu"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Ezarri artikulu guztietako taula guztiak lehenespenez irekitzeko, Quick facts, References, Notes eta Kanpoko estekak barne."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Gai ilun eta beltzetako argazkien opakotasuna gutxiagotu"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Irakurketa gaiak"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Taula Ezarpenak"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Arrastatu kontrolatzailea testuaren tamaina aldatzeko. Erabili zure sistemaren testuaren tamaina aplikazioaren beste testu-eremu batzuk aldatzeko."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Gaien aukerak"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ezabatu"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Artikulu bat ezabatu da|\\$1 artikulu ezabatu dira}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Aurkitu hizkuntza"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Hizkuntza aukeratu"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Beste hizkuntzak"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Zure hizkuntzak"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Ez duzu espazio nahikorik gailuan artikulu hau gordetzeko"
+    },
+    {
+      "name": "article_share",
+      "value": "Partekatu"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kontrol Gaiak Irakurtzen"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Atzera"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Eman atzera joateko"
+    },
+    {
+      "name": "button_next",
+      "value": "Hurrengoa"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Argitaratu"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Akats bat jakinarazi"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Gorde gerorako"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Gorde gerorako"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Gordetakoetatik kendu"
+    },
+    {
+      "name": "button_skip",
+      "value": "Jauzi"
+    },
+    {
+      "name": "cancel",
+      "value": "Ezeztatu"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Garbitu"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Itxi"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ordu \\$1(e)tan"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Wikipedia arakatu irakurtzeko artikulu gehiago lortzeko"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ez dago azkenaldian irakurritako artikulurik"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Gehitu deskribapena"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Honi buruz"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Wikidatari buruz"
+    },
+    {
+      "name": "dim_images",
+      "value": "Irudiak arindu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Gramatika konpondu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Tipografia konpondu"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Loturak gehitu"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Barkatu, ezin da artikulua kargatu"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Oraindik gordetako orrialdeak irakurri ditzakezu"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Interneta duzunean ikusi ahal izango dituzu iradokitutako artikuluak"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Egin hemen irakurri duzunaren jarraipena"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Erakusteko historiarik ez"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Sortu irakurketa zerrendak bidaiatzeko lekuetarako, gai gogokoenetarako eta askoz gehiago"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Gordetako artikuluak eta irakurketa zerrendak antolatu"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Gorde orrialdeak zerrenda honetan hemen agertarazteko"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Ez da orririk gorde zerrenda honetan"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Orrialdeak gorde gero ikusteko, nahiz eta konexiorik gabe egon"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Oraindik gordetako orrialderik ez"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Ez da emaitzarik aurkitu"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Identifikatu gabeko errorea gertatu da."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Ausazko beste artikulu bat"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Zuk irakurtzen duzulako"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Erlazionatutako artikulu gehiago"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Jarraitu irakurtzen"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Atzera Arakatze jariora"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Zure kokapenetik gertuko artikuluak arakatu"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Nabarmendutako artikulua"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Wikipediatik"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Wikipediatik"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Hizkuntza gehigarriak gehitu daitezke \"Nire hizkuntzak\" ezarpenen orrian."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Ezkutatutako txartela"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Esteka lasterra irekitako artikuluaren irakurketara itzultzeko"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Arakatzeko iturriak pertsonalizatu"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Arakatzeko iturriak pertsonalizatu"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Txartela mota bat ezkutatzeak Arakatze iturrian ez agertzea eragingo du."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Arakatzaile leihoa"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Eguneko Wikipediako artikulu aipagarria"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Itzalita"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Denak piztuta"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Piztuta"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1(e)an"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "\\$1 txartel guztiak ezkutatuta"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Txartela hau ez dago hizkuntza batean zehaztuta, txarlela amatatzeak Arakatze jariotik ezabatzea eragingo du."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Hizkuntza zehaztasun gabeko txartelak"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Hizkuntza zehaztasun gabea"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Txartel globalak"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Txartel hau ezkutatu"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "“\\$1” txartel guztiak ezkutatu"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Eguneko ekitaldiei buruzko artikuluak"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Gaurko eguneko historian zehar gertaturiko ekitaldiak"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedia artikuluak zure kokapenetik hurbil"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Wikimedia Commonsetik hartutako eguneko irudi aipagarria"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Irakurtzeko ausazko artikuluak sortu"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Irakurketa historian oinarritutako iradokizunak"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Jarraitu irakurtzen txartela erakutsi"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Artikulu nabarmenduaren txartela itzaltzeak txartela itzaltzea eragingo du erabilgarri dauden hizkuntza guztietan"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Erakutsi berrien txartelan"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Erakutsi Eguneko txartelaren argazkia"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Erakutsi Lekuen txartela"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Egunean gehien irakurtzen diren artikuluak"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Itzali Arakatzaile jarioa"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Itzali Arakatzaile jarioa?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Arakatzailea Itzali"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Itxi nahi duzu Arakatzaile leihoa?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Arakatzailea Piztu"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Piztu nahi duzu Arakatzaile leihoa?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Txartel hau ezkutatu"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Wikimedia proiektuen orrialde nagusia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Gaur Wikipedian"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Irakurrienak"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1(e)n ospetsuenak"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Wikipedian"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Wikipedian"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Inguruko tokiak"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Lekuak"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 Wikipediatik"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Wikipediatik"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Zure kokapena"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Eguneko irudia"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Wikimedia Commons-etik"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Ausazko artikulua"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 Wikipediatik"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Wikipediatik"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Ausazkoa"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA baliogabetuta"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Pasahitzak ez datoz bat."
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Kode okerra"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Erabiltzaile-izena ez dago erabilgarri"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Babeskopia kodea"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA testua"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Goian ikusten duzun testua idatzi"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "adibidea@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Helbide elektronikoa"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Helbide elektronikoa (aukerakoa)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Idatzi berriz pasahitz berria"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Berretsi pasahitz berria"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "sartu pasahitz berria"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Pasahitz berria"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Sartu berriz pasahitza"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Berretsi pasahitza"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "sartu pasahitza"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Pasahitza"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Berrespen kodea"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Erabiltzaile izena sartu"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Erabiltzaile izena"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Berrezarri"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Emaila bidali da, pasahitza berrezartzeko jarraibideekin"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Hurrengo hutsuneak bete, emailez jasotzeko pasahitza berrezartzeko jarraibideak"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Pasahitza berrezarri"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Edo"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Ziur al zaude zure azken elementu guztiak ezabatu nahi dituzula?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Bai, dena ezabatu"
+    },
+    {
+      "name": "history_title",
+      "value": "Historia"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, Arakatzailera itzuli"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, Biltegira itzuli"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 bezalako artikulu gehiago"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Zure kokapenetik gertuko leku gehiago"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Zure kokapenetik gertuko gehiago \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Oraingo gertakari gehiago"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Gordetako artikuluak irakurketa-zerrendatan antola eta sinkroniza daitezke gailuetan zehar. Hasi saioa zure irakurketa-zerrendak zure erabiltzaile prefentzietan gordetzeko baimena eman ahal izateko."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Lehentasunak aukeratu"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Zure irakurketa lehentasunak hitzartu testuaren neurria eta gaia artikuluaren erraminta atalean edo erabiltzailearen doitze atalean, irakurketa esperientzia erosoagoa izateko."
+    },
+    {
+      "name": "home_title",
+      "value": "Esploratu"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, joan Arakatzailearen goialdera"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Inguruko artikuluak"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Ausazko artikulua"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Bilatu Wikipedian"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Egile ezezaguna."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 Wikipediatik"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Wikipediatik"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Albisteak"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Hizkuntzak"
+    },
+    {
+      "name": "languages_title",
+      "value": "Hizkuntza aldatu"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipedia hizkuntzak"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Zure pasahitza ahaztu duzu?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Wikipediara batu"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Ez duzu erabiltzaile konturik? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Zure kontuan sartu"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Aplikazioari buruz"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Saioa hasi"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Saioa itxi"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Atera nahi duzula ziur al zaude?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Saioa hasita, \\$1 erabiltzaile izenarekin"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Terminoak eta Pribautasuna"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Hurbilekoak"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Pribatutasun politika"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Baloratu aplikazioa"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Erabilera Baldintzak"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Gehiago"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Bilatu Wikipedia 300 hizkuntza baino gehiagotan"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Hizkuntzak gehitu"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Mugitu {{PLURAL:\\$1|artikulu bat|\\$1 artikulu}} irakurketa zerrendara"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Aurrebista"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 oin"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milia"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Aldi baterako pasahitza erabiliz hasi duzu saioa. \nSaio hasten amaitzeko, pasahitz berria ezarri beharko duzu hemen."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Zure pasahitza ezarri"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Mesedez, ezarri ezazu email kontua zure gailuan eta saiatu zaitez berriz."
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Jakinarazpenak piztu"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1tik \\$2ra"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|Gertakizun historiko bat|\\$1 gertakizun historiko}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Egun honetako ekintza historiko gehiago"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 \\$2 Wikipediatik"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Gaurkoan"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Sakatu 'W' jatorrizko lehiatilara bueltatzeko"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Ez duzu orrialde hau aldatzeko baimenik"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Orrialde hau babestuta dago"
+    },
+    {
+      "name": "pictured",
+      "value": "Irudikatuta"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Garbitu gordetako bilaketak"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikulu"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Zure kokapena berrezarri"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Erakutsi zerrenda gisa"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Erakutsi mapa gisa"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Artikulu gehiago erakutsi"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Arakatu hiriak, herrialdeak, kontinenteak, paisai naturalak, gertaera historikoak, eraikinak..."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Kokapen geogrefikoa duten Wikipedia artikuluak bilatu"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Kokapena piztu"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Zure kokapenerako sarbidea erabilgarri egongo da bakarrik aplikazioan edo ezarpenen batean pantailan ikusgarri baldin badago."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Zure kokapenetik gertu dauden artikuluak arakatu Kokapen Sarbidea gaituz"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Artikuluak iragazi"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Iragazkia"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Ez duzu gordetako kokapenik"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Gordetako artikuluak"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Irakurrienak"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|artikulu bat|\\$1 artikulu}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Artikulu irakurrienak"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Kokapena gaitua"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Zure gordetako artikuluetatik batek ere ez du kokapenari buruzko informazioa"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 “\\$2”(r)ekin dator bat"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Lekuak bilatu"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "\\$1 esan nahi zenuen?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Azken bilaketak"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Gordetako artikulu guztiak"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Iradokitako bilaketak"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Emaitzak leku honetan"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Top artikulu guztiak"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Hurbilekoak"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Zure oraingo kokapena"
+    },
+    {
+      "name": "places_title",
+      "value": "Lekuak"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "distantzia ezezaguna"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Gaurko argazkia \\$1(e)ngatik"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Ezin izan da berreskuratu gaurko argazkia \\$1(e)ngatik"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Baimendu Wikimediari zure aplikazioaren erabileraren inguruko informazioa jasotzen, aplikazioa hobetzeko."
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Artikulu hau gehitu irakurtze zerrendara?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Gehitu \\$1 irakurketa zerrendara?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Bai, gehitu itzazu nire irakurketa zerrendetara"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Zure Wikipedia aplikazioan irakurketa zerrendako artikuluak gorde dira. Zure kontuarekin sinkronizatutako irakurketen zerrendak gorde eta bateratu nahi dituzu?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Gordetako artikuluak aurkitu dira"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Sarrera hau ez dago sinkronizatuta zerrenda honetako sarrera muga jadanik gainditu duzulako."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrendak sinkronizatzen ari ziren bitartean."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Zerrenda hau ez dago sinkronizatuta zure sinkronizatutako zerrenden muga gainditu duzulako."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Irakurketa zerrenda sortu"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Deskribapena"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Izenen zerrenda irakurtzen"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Zerrenda berria sortu"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Irakurketa zerreda ezabatu da"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ez, ezaba itzazu artikuluak gailutik"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Mesedez, gutxitu zerrenda honetako artikulu kopurua $ 1-ra zerrendako artikulu guztien sinkronizazioa berreskuratzeko."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Kontu bakoitzeko {{PLURAL:\\$1|artikulu \\$1en|\\$1 artikuluen}} muga gainditu duzu."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|artikulu \\$1|\\$1 artikulu}} ezin izan d(ir)a zerrendara gehitu. Irakurketa-zerrenda bakoitzeko \\$2 artikulutako muga gainditu duzu \\$3-engatik"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Irakurketa zerrendari jarritako izena erabilpean dago"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrendak eguneratzen ari ziren bitartean."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Bai, mantendu itzazu artikuluak gailuan"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Zure Wikipedia kontuan sinkronizatutako artikuluak daude. Saioa itxi eta gero, gailuan mantendu nahiko zenituzke?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Gordetako artikuluak gailuan mantendu nahi dituzu?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sailkatu artikuluak"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Sailkatu gabeko 5000 artikuluren muga dago. Mesedez, antola itzazu jadanik existitzen diren artikuluak zerrendatan sailkatu gabeko artikuluak sinkronizatu ahal izateko."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Sailkatu gabeko artikuluen muga jo duzu"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Irakurketa zerrenda hau eta hor gordetako artikuluak ez dira sinkronizatuko. Murriztu ezazu zure zerrenda kopurua \\$1-(e)ra, zerrenda honen sinkronizazioari berriz ekin ahal izateko."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Kontu bakoitzeko {{PLURAL:\\$1|irakurketa zerrenda \\$1en|\\$1 irakurketa zerrenden}} muga gainditu duzu."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Kontu bakoitzeko \\$1 irakurketa-zerrenden muga gainditu duzu."
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Hasi saioa gordetako arikuluak sinkronizatzeko"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Hasi saioa edo sortu kontua"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Hasi saioa gordetako artikuluak sinkronizatzeko"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Hasi saioa edo sortu kontu bat zure gordetako artikuluak eta irakurketa-zerrendak gailu guztietan sinkronizatzeko eta zure erabiltzailearen hobespenetan gorde ahal izateko."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Gordetako artikuluak sinkronizatu?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[erabiltzailea sortua]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "Aukerako deskribapen laburra"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "Irakurketa zerrendaren izenburua"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Irakurketa zerrendaren sinkronizazioa desgaitua izan da zure Wikipedia kontutik beste gailu batean. Sinkronizazioa atzera bueltatu dezakezu, zure ezarpenak eguneratuz."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinkronizazioa desgaituta"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Sinkronizazioa ahalbidetu"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Gordetako artikuluak eta irakurketa-zerrendak zure Wikipedia kontura gehitu daitezke eta Wikipedia aplikazioetan zehar sinkroniza daitezke."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Irakurketa zerrendaren sinkronizazioa piztu?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Irakurketa zerrendaren sinkronizazioa gaituta dago kontu honetan. Sinkronizazioa geldiarazteko, sinkronizazioa desgaitu dezakezu kontu honetan, zure ezarpenak eguneratuz."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Sinkronizatzea gaitu da kontu honetan"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrendara sarrera bat gehitu den bitartean. Mesedez, saia ezazu geroago."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrendara sortzen ari zen bitartean. Mesedez, saia ezazu geroago."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrenda ezabatzen ari zen bitartean. Mesedez, saia ezazu geroago."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrendatik sarrera bat ezabatzen ari zen bitartean. Mesedez, saia ezazu geroago."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Espero gabeko errorea gertatu da zure irakurketa zerrenda eguneratzen ari zen bitartean. Mesedez, saia ezazu geroago."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "\\$1 izendatutako irakurketa zerrenda ez da aurkitu. Mesedez, ziurta ezazu izen zuzena jarri duzula."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "\"\\$1\"-ra gehitu da artikulua"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Ezin da artikulua sinkronizatu"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Sinkronizatu gabe"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Artikulu-muga gaindituta, ezin da artikulua sinkronizatu"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Zerrenda-muga gaindituta, ezin da artikulua sinkronizatu"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artikuloa zain deskargarako"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Gailuko muga gaindituta, ezin da artikulua sinkronizatu"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Hustu espazio pixka bat zure gailuan eta berriz saiatu"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Artikulu batzuk ez dira sinkronizatu, muga gainditu da"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Zure '\\$1' zerrenda '\\$2' berrizendatu da"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|irakurketa zerrenda bat|\\$1 irakurketa zerrenda}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Zerrenda lehenetsia gordetako artikuluentzat"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Gordeta"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Ekintza hau ezin da desegin. Bakarrik {{PLURAL:\\$1|zerrenda honetan|zerrenda hauetan}} gordetako artikuluak desagertuko dira."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Ezabatu {{PLURAL:\\$1|zerrenda bat|\\$1 zerrenda}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|Artikulu \\$1|\\$1 artikulu}} eta {{PLURAL:\\$2|irakurketa zerrenda \\$2|\\$2 irakurketa zerrenda}} sinkronizatu dira zure kontutik"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Zerrenda ez da sinkronikaztu, muga gainditu da"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sailkatu gordetako artikuluak"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Irakurketa zerrenda bakoitzeko \\$1 artikuluko muga dago. Muga gainditu dituzten jada existitzen diren zerrendak beste zerrendatan banatu dira."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sinkronizazioak aurrera egingo du interneterako konexioa eskuragarri dagoenean"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Gai iluna"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Argitasun sliderra"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Gai iluna"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Gai argia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepia gaia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Testuaren tamaina irristagarria"
+    },
+    {
+      "name": "reference_title",
+      "value": "\\$1 erreferentzia"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Gaur|1=Atzo|Orain dela \\$1 egun}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Aurreko batean|Orain dela ordu \\$1|Orain dela \\$1 ordu}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Oraintxe|Orain dela minutu \\$1|Orain dela \\$1 minutu}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Aurten|Aurreko urtea|\\$1 duela urteak}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Artikulu guztiak"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Zerrenda hau ezin da ezabatu"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Akatsa gordetako orrialdetik argazkiak deskargatzean."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Artikuluen jaistea abian..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Irakurketa zerrendak"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Gordetako artikuluetan bilatu"
+    },
+    {
+      "name": "saved_title",
+      "value": "Gordea"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Ezabatzekotan {{PLURAL:\\$1|artikulu honek ezabatuko du|artikulu hauek ezabatuko dute}} asoziatutako irakurketa zerrenda guztietatik"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "{{PLURAL:\\$1|Artikulu bat|\\$1 artikulu}} gordetzeari utzi?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Bilatu Wikipedian"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Garbitu"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Bilatu Wikipedian"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Ezabatu azken bilaketa guztiak?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ekintza hau ezin da desegin!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Denak ezabatu"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Oraindik ez dago bilaketa berririk"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Azken bilaketak"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1(e)tik birzuzenduta"
+    },
+    {
+      "name": "search_title",
+      "value": "Bilatu"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Irakurtzeko lehentasunak"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Garbitu katxeratutako datuak"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Cached datuen ezabaketak \\$1 inguruko espazioa libratuko du. Ez dira gordetako orrialdeak ezabatuko."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Garbitu katxeratutako datuak?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Utzi"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Garbitu katxea"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Laguntza eta iritziak"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Bilaketan hizkuntzak erakutsi"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Nire hizkuntzak"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Jakinarazpenak"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primarioa"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Zerrenda honetan erabilitako lehenengo hizkuntza aplikazio honetarako ere erabiltzen den hizkuntza da."
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Zabaldu aplikazioa Bilaketa leihoan"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Baimendu Wikimediari zure gordetako artikuluak eta irakurketa-zerrendak zure kontuko lehentasunetan gordetzen saioa sinkronizatzeko hasten duzunean."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Gordetako artikuluak eta zerrendak sinkronizatu"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Zure irakurketa zerrendak atzeko planoan sinkronizatuko dira"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Zure sinkronizatutako artikulu eta irakurketa-zerrenden eguneratzea eskatu"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Eguneratu sinkronizatutako irakurketa zerrendak"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Erakutsi gordetako irakurketa-zerrenda (ad. lehentesia) zure irakurketa-zerrenden ikuspegian zerrenda bereizi batean. Zerrenda Android gailuetan agertuko da."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Gordetako irakurketa-zerrenda erakutsi"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Artikuluen biltegia eta sinkronizatzea"
+    },
+    {
+      "name": "settings_title",
+      "value": "Ezarpenak"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Wikipedia aplikazioarekin eginda"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" Wikipedian:"
+    },
+    {
+      "name": "share_building",
+      "value": "Gertakaria-Partekatu txartela sortzen..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$2” “\\$1”(r)engandik: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$2” \n\n“\\$1”(r)engandik\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Helbidea lortu"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Partekatu"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Mapsen ireki"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” Wikipediaren bidez: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” Wikipedia -(r)ren bidez: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Berriki gehituak"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Izenburua"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Eduki-taula"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Itxi"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Itxi eduki-taula"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Edukiak"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Irakurri"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "irakurri gabe"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Beltza"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Iluna"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Lehenetsia"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Saio hasierarekin jarraitu"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Mesedez, sartu bi faktoreen egiaztapen kodea"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Zure kontuan sartu"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Erabil ezazu zure babeskopiarako kodeetako bat"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Berrespen kodea erabili"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Gure komunitateko gomendaturiko irakurketak eta eguneko artikuluak"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Arakatze jarioa"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Iraganera bidaiatu ikasteko zer gertatu da gaurko egunean historian zehar"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Gaurkoan"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Zugandik gertu dauden paisaiak deskubritu edo mundu osoko lekuak bilatu"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Lekuak tab"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Hasi"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Exploratzeko era berriak"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Ulertuta"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia boluntarioek idatzi dute elkarlanean, eta 40 milioi artikulu baino gehiago biltzen dira 300 hizkuntza baino gehiagotan."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Wikipediari buruzko gehiago ikasi"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Wikipediari buruz"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia mundu osoko hizkuntzetan eraikitako doako entziklopedia da, proiektu globala. Interneteko sarbidea duen ia edonork dohainik parte hartzeko aukera dauka, informazio neutrala eta aipatuen ekarpenen bidez."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Entziklopedia askea"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Gehitu beste hizkuntza bat"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Gehitu edo aldatu hizkuntza hobetsia"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Hurrengo hizkuntzak aurkitu ditugu zure gailuan:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Bilatu 300 hizkuntza baino gehiagotan"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Zure aldaketen aurrebista eskuratzen..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Estekak '\\$1'(e)ra eramaten zaitu"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Estekaren aurrebista"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA egiaztapen errorea."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA egiaztapena behar da."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Ezin da wikitext kargaren emaitza zehaztu."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Argitaratzen..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Aldaketak zure gailuko IP helbideari egotziko zaizkio. Zuk \\$1 egiten baduzu, pribautasun gehiago edukiko duzu."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Erabilera Baldintzak"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Zuk irakurtzen duzulako"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Ausazko beste artikulu bat"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s Wikipediatik"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s Wikipedian"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Wikimedia Commons-etik"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Erakusteko historiarik ez"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Txartel hau ezkutatu"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Arakatzeko iturriak pertsonalizatu"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Ezkutatutako txartela"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "%s esan nahi zenuen?"
+    }
+  ]
+}

@@ -1,0 +1,2752 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licenca wobsaha"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Wobsah steji pod \\$1 k dispoziciji, chibazo je něšto hinaše podate."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Licenca Creative Commons Attribution-ShareAlike"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Awtorojo"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Wužite biblioteki"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Dospołna lisćina"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenca"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Lubujemy softwary wotewrjeneho žórła \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licenca kartow"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Za městna wužiwaja so karty z Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Hlej tu za podrobnosće wo licency"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repozitorije"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Žórłowy kod steji k dispoziciji pod \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "licencu MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Feedback wo app pósłać"
+    },
+    {
+      "name": "about_title",
+      "value": "Wo"
+    },
+    {
+      "name": "about_translators",
+      "value": "Přełožowarjo"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Tuta app je so wot dobrowólnych přełožowarjow na \\$1 přełožiła"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "załožby Wikimedije"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Njemóžeš wobraz widźeć? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Wobstaraj sej nowy CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Konto požadać."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA wěstotne pruwowanje"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Twoje konto załožić"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Maš hižo wužiwarske konto? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Přizjew so."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Přizjewja so..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Zapodaj wužiwarske mjeno, hesło a wobkrućenje hesła, zo by so wužiwarske konto natwariło!"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Poli hesłow so njekryjetej"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Składuje so..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Nowe konto załožić"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Twoje wužiwarske konto"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Konto zhašeć"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Twoja diskusijna strona"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Přinoški awtomatisce podpisać"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Při awtomatiskim podpisanju w diskusijach wužiwa so w nastajenjach postajeny podpismo."
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Nastajenja diskusijneje strony"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Přidać k..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "K čitanskej lisćinje přidać"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "K lisćinje přidać"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Přetorhnyć"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Změnu zaćisnyć"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Změny zaćisnyć"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Na stronje pytać"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Dale wobdźěłać"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Rěč změnić"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Přesunyć do..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Do čitanskeje lisćinje přesunyć"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Přichodna wersija"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Předchadna wersija"
+    },
+    {
+      "name": "action_read",
+      "value": "Čitać"
+    },
+    {
+      "name": "action_redo",
+      "value": "Wospjetować"
+    },
+    {
+      "name": "action_remove",
+      "value": "Wotstronić"
+    },
+    {
+      "name": "action_retry",
+      "value": "Znowa spytać"
+    },
+    {
+      "name": "action_save",
+      "value": "Składować"
+    },
+    {
+      "name": "action_saved",
+      "value": "Składowane"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Zapisk za pozdźišo składowany"
+    },
+    {
+      "name": "action_share",
+      "value": "Dźělić"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Dźělić"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sortěrować"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Wužiwarjej dźakować"
+    },
+    {
+      "name": "action_undo",
+      "value": "Cofnyć"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Wotstronić"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Zapisk wotstronjeny"
+    },
+    {
+      "name": "action_update",
+      "value": "Aktualizować"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Wobrazy přidać"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "W tutym měsacu čitane zapiski"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Nastawki"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1h \\$2m"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "WE WIKIPEDIA iOS"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|1 dźeń|\\$1 dnjej|\\$1 dny|\\$1 dnjow}}"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "změny"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "poslednja změna"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Twoja poslednja aktiwita (zašłe 30 dnjow)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "Wot \\$1 do \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "dźakprajenje"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "změny dohromady"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Dźeń"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Wobhladanja"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Neutralny"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Čitanske mustry"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "W tutym měsacu składowane zapiski"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Aktiwita"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Tydźeń"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 zapisk|\\$1 zapiskaj|\\$1 zapiski|\\$1 zapiskow}} k čitanskej lisćinje přidać"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Rozšěrjene nastajenja"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Dalše informacije."
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Schować"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedija, referenca, wiki, encyklopedija, informacija, info, wěda, wědomosć, slědźenje, wotkrywać, wuknyć"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Sćehń sej Wikipedija-app za wotkrywanje městnow w twojej bliskosći, synchronizowanje zapiskow k offline-čitanju a přiměrjenju twojeho čitanskeho dožiwjenja."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "swobodna encyklopedija"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Wulkosć teksta w zapisku přiměrić"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Čitanske temy"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Nastajenja za tabulki"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Wo tutym zapisku"
+    },
+    {
+      "name": "article_delete",
+      "value": "Wušmórnyć"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|nastawk zhašany|nastawkaj zhašanej|nastawki zhašane}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Rěč namakać"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Rěč wubrać"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Druhe rěče"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Twoje rěče"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Wjace čitać"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Nimaš dosć městna na twojim nastroju za składowanje tutoho zapiska"
+    },
+    {
+      "name": "article_share",
+      "value": "Dźělić"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Wočinić"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "W pozadkowym rajtarku wočinić"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "W nowym rajtarku wočinić"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Diskusijna strona nastawka"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Wróćo"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Wróćo"
+    },
+    {
+      "name": "button_next",
+      "value": "Přichodne"
+    },
+    {
+      "name": "button_ok",
+      "value": "W porjadku"
+    },
+    {
+      "name": "button_publish",
+      "value": "Wozjewić"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Najebać to wozjewić"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Zmylk rozprawić"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Za pozdźišo składować"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Za pozdźišo składowane"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Ze składowanych wotstronjene"
+    },
+    {
+      "name": "button_skip",
+      "value": "Přeskočić"
+    },
+    {
+      "name": "cancel",
+      "value": "Přetorhnyć"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Wuprózdnić"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Wšě rajtarki začinić"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Ma so slědowaca ličba rajtarkow začinić? \\$1"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "Chceš {{PLURAL:\\$1|\\$1 rajtark|\\$1 rajtarkaj|\\$1 rajtarki|\\$1 rajtarkow}} začinić? To njeda so cofnyć."
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 rajtark|\\$1 rajtarkaj|\\$1 rajtarki|\\$1 rajtarkow}} začinić?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Začinić"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Druhe rajtarki začinić"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Rajtark začinić?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Rajtarki začinić"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 rajtark začinjeny|\\$1 rajtarkaj začinjenej|\\$1 rajtarki začinjene|\\$1 rajtarkow začinjene}}."
+    },
+    {
+      "name": "compass_direction",
+      "value": "na \\$1 hodź."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Zhašenje wobkrućić"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Lokalna historija zhašana"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Dale"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Wotkrywaj Wikipediju za dalše zapiski"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Žane njedawno čitane zapiski"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "Přinoški w tutym měsacu"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Přiměrić"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Aktualizuju..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Wopis přidać"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Wopis zapiska \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Přez změnjenje wopisa zapiska přihłosuju \\$1 a doskónčnemu wozjewjenju mojich přinoškow pod licencu \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Zawod wobdźěłać"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Wopis zapiska wobdźěłać"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Krótke wopisy su najlěpše"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Wopis wozjewić"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Wopis wobdźěłać"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Wo"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Wo Wikidatach"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Wopisanja so na Wikidata składuja a zarjaduja, projekće załožby Wikimedije, kotryž natwari kolaboratiwnu, wjacerěčnu a sekundarnu datowu banku k podpěrje Wikipedije a dalšich projektow."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Dalše informacije"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Wopisanja dyrbjeli so w idealnym padźe na jeničku linku hodźeć a mjez dwěmaj a dwanaće słowow měć. Prěni pismik so wulce njepisa, chiba zo je prěnje słowo swójske mjeno."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "wopis zapiska wo Monje Lisy"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "wopis zapiska wo Mount Everestu"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "mólba Leonarda Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "najwyša hora na zemi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Na přikład:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Pokiwy k wutworjenju wopisanjow"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Pomoc k wopisanjam zapiskow"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Přiručka za pisanje wopisanjow na Wikidatach"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Hotowo"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Sy Wikipediju runje za wšěch polěpšił(a)"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Wopis wozjewjeny!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Najradšo jenička linka, mjez 2 a 12 słowami"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Zjima zapisk, zo by čitarjam při zrozumjenju temy pomhał"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Wopisy zapiskow"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Nětko wobdźěłać"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Prěnja změna"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Wersiji přirunać"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Pokazana změna"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Wersije přirunać"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Pokazać"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Schować"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linki \\$1 do \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Wotrězk přesunjeny"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "dele"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "horje"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linka|\\$1 lince|\\$1 linki|\\$1 linkow}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 wotrězk|\\$1 wotrězkaj|\\$1 wotrězki|\\$1 wotrězkow}}"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Wersija njehodźi so začitać."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 změna|\\$1 změnje|\\$1 změny|\\$1 změnow}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Zjeće wobdźěłanja"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Zawod"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linka \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonymnym wužiwarjam njemóžeš dźakować"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Dźakowanja' su jednora móžnosć, dźěło awtor(k)ow we Wikipedije hódnoćić. Dyrbiš so přizjewić, zo by so podźakować móhł/a."
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Za tute wobdźěłanje so podźakować"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Zjawnje so podźakować"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Dźakowanja njehodźa so cofnyć"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 njezměnjena linka|\\$1 njezměnjenej lince|\\$1 njezměnjene linki|\\$1 njezměnjenych linkow}}"
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "Rajtark podwojić"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Pokazany tekst"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Cil wotkaza"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Wotkaz wotstronić"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Wotkaz wobdźěłać"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Wobdźěłać"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Wjace wo snadnych změnach zhonić"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "To je snadna změna"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Zjeće wobdźěłanja podać"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Wobraz je so přidał"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Gramatika skorigowana"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Pisanski zmylk skorigowany"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Wotkazy přidate"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Tutu stronu wobkedźbować"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Twój hłós je wažny"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Spušćomne žórła citować"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "W neutralnym stilu pisać"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Pytać"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Tučny"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Komentar"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Nadpis"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursiwny"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Wotkaz"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Wotstawk"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Podšmórnyć"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Wuměnić"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Wuměnić z …"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "wšě wuměnić"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Wšě instancy wuměnić"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Wuměnić"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Jednotliwu instancu wuměnić"
+    },
+    {
+      "name": "editor_title",
+      "value": "Editor"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Žane rozdźěle mjez wersijomaj"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Žane widźomne změny sčinjene"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Dataju z Wikimedia Commons wubrać"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Bohužel njeje so zapisk začitać dał"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Móžeš přiwšěm składowane strony čitać"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Móžeš sej swoje doporučene zapiski wobhladać, hdyž maš internet."
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Žane stawizny wersijow k pokazanju"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Tutón zapisk njebu hač dotal w druhich rěčach spisany"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Žane druhe rěče přistupne"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Wutwor lisćiny za jězbne cile, najlubše temy a wjele wjace"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Zarjaduj składowane zapiski z čitanskimi lisćinami"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Składuj strony do tuteje lisćiny, zo bychu so tule pokazowali"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "W tutej lisćinje njejsu žane strony składowane"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Hišće žane składowane strony"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Žane wuslědki namakane"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Prošu spytaj pozdźišo znowa"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Njeznaty zmylk je wustupił"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Dalši připadny zapisk"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Dalše podobne zapiski"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Dale čitać"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Namakaj zapiski blisko twojeho stejišća"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Doporučeny zapisk"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Z Wikipedije w tutej rěči: \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedije"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Přiměrić"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Dalše rěče hodźa so w nastajenjach na stronje „Moje rěče“ přidać."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Karta schowana"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Wšědnje předstajeny zapisk we Wikipediji"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Na wšěch"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Na \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Wšě karty typa \\$1 schowane"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globalne karty"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Tutu kartu schować"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Wšě karty typa „\\$1“ schować"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Zapiski wo aktualnych podawkach"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Podawki na tutym dnju w stawiznach"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Zapiski Wikipedije blisko twojeho stejišća"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Wobraz dnja z Commons"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Namjety na zakładźe čitanskeje historije"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Kartu „Na tutym dnju“ pokazać"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Kartu „Wobraz dnja“ pokazać"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Kartu „Městna“ pokazać"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Kartu „Najhusćišo čitane“ pokazać"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Tutu kartu schować"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Dźensa we Wikipediji"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Wšě husto čitane zapiski"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Najhusćišo čitane"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Husto čitane dnja \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "W tutej Wikipediji: \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "We Wikipediji"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Městna w bliskosći:"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Městna"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Z tuteje Wikipedije: \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Z Wikipedije"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Twoje stejišćo"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Twoje stejišćo z tuteje Wikipedije: \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Wobraz dnja"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Připadny zapisk"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Z tuteje Wikipedije: \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedije"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Přidać"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "Wikipediju wuslědźić"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Wužiwarske daty eksportować"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Z Wikipedije w tutej rěči: \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Z Wikipedije"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Něšto je křiwje šło. Prošu spytaj pozdźišo znowa."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "App je njewočakowanu wotmołwu wot serwera dóstała. Prošu spytaj pozdźišo znowa."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Njepłaćiwy CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Hesle so njekryjetej"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Njepłaćiwy kod"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Wužiwarske mjeno njeje swobodne"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "E-mejlowy kod"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA tekst"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Zapodaj tekst, kotryž horjeka widźiš."
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "přikład@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Mejlka"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Mejlka (opcionalnje)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "nowe hesło znowa zapodać"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Nowe hesło wobkrućić"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "nowe hesło zapodać"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nowe hesło"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "hesło znowa zapodać"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Hesło wobkrućić"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "hesło zapodać"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Hesło"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Wužiwarske mjeno"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Wšě"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Pytawu wuprózdnić"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Přichodny pytanski wuslědk"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Předchadny pytanski wuslědk"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Pytać a narunać"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Pytać a narunać začinić"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Pytać"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Wróćo stajić"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Mejlka z přikazami wo wróćostajenju hesła bu na tebje pósłana"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Wupjelń jedne z polow deleka, zo bychu so přikazy wo wróćostajenju hesła tebi pósłali"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Hesło wróćo stajić"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "abo"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Chceš woprawdźe wšě swoje poslednje objekty wušmórnyć?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Haj, wšě wušmórnyć"
+    },
+    {
+      "name": "history_title",
+      "value": "Stawizny"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedija, wróćo k Wotkrywanju"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedija, wróćo k Składowanym"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Wjace kaž \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Wjace městnow blisko twojeho stejišća"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Wjace w bliskosći wot \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Wjace aktualnych podawkow"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Nastajenja zarjadować"
+    },
+    {
+      "name": "home_title",
+      "value": "Wotkrywać"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedija, k započatkej Wotkrywanja scrollować"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Zapiski w bliskosći"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Připadny zapisk"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Wikipediju přepytać"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Awtor njeznaty."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Licencowane wobrazy"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Wobraz relewantny njeje"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Wotpósłać"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Přičina"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Wobraz přidać"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Rozsudźić"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Nastawk pokazać"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Ně"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Njewěsty"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Haj"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Z tuteje Wikipedije: \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Z Wikipedije"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "W powěsćach"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Zasunyć"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Wotkaz zasunyć"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Tekstowy wopis za čitarjow, kiž wobraz widźeć njemóžeja"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Wopisuj tutón wobraz"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternatiwny tekst"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Kak je tutón wobraz ze zapiskom zwjazany?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Popis"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "srjedźa"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "nalěwo"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "žana"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "naprawo"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Pozicija wobraza"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Dalše informacije"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Wobraz wubrać"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Swójska"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Standard"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Wysokosć"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Šěrokosć"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Wulkosć wobraza"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Wobłuk"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Bjez wobłuka"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Wobrazk"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Typ wobraza"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Medijowe nastajenja"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Medij zasunyć"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Njejsy přizjewjeny"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Rěče"
+    },
+    {
+      "name": "languages_title",
+      "value": "Rěč změnić"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Rěče Wikipedije"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Dalše informacije"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Bjez přizjewjenja pokročować"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Přizjew so znowa z twojim kontom"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Sy nětko wozjewjeny/a"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Hesło zabył/a?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Wikipediji přistupić"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nimaš žane wužiwarske konto? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Přizjew so z twojim kontom"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Wo tutej app"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Přizjewić so"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Wotzjewić"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Chceš so woprawdźe wotzjewić?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Přizjewjeny/a jako \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Datowy škit a wuměnjenja"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "W bliskosći"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Škit datow"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Tutu app pohódnoćić"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Wužiwanske wuměnjenja"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Dalše"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedija Zero - Huste prašenja"
+    },
+    {
+      "name": "main_page",
+      "value": "Hłowna strona"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Přepytuj Wikipediju we wjace hač 300 rěčach"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Rěče přidać"
+    },
+    {
+      "name": "more_menu",
+      "value": "Wjace"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 zapisk|\\$1 zapiskaj|\\$1 zapiski|\\$1 zapiskow}} do čitanskeje lisćiny přesunyć"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Přehlad"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 stopa|\\$1 stopje|\\$1 stopy|\\$1 stopow}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milow"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Sy so z nachwilnym hesłom přizjewił/a. Za wotzamknjenje přizjewjenja postaj prošu tule nowe hesło."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Postaj swoje hesło"
+    },
+    {
+      "name": "new_tab",
+      "value": "Nowy rajtark"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Dale"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Prošu zarjaduj na twojim nastroju e-mejlowe konto a spytaj znowa."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Žadyn zwisk z internetom"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nětko nic"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Z \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Warnowanje"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter|\\$1 filtraj|\\$1 filtry|\\$1 filtrow}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Zdźělenki Push zapinać"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Wšě"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Čitać"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Nječitany"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Čitanski status"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtry"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Wšě družiny"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Typy zdźělenkow"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Nastawk"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "diskusijna strona \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Rozdźěl"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "wužiwarska strona wužiwarja \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Objekt Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Waša diskusijna strona"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Warnowanje wot \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Hotowo"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projekty"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Projekty Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedije"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Přizjewjenske zdźělenki"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Markěrować"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Wšě jako přečitane markěrować"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Wjace"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 zdźělenka|\\$1 zdźělence|\\$1 zdźělenki|\\$1 zdźělenkow}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Dale"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtry"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Dalše informacije wo zdźělenkach"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Zdźělenki a warnowanja"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Ně, dźakuju so"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Wšě zdźělenki"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 w \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Filtrowany po"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=W \\$1 projekće|W \\$1 projektomaj|W \\$1 projektach}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=\\$1 projekt|\\$1 projektaj|\\$1 projekty|\\$1 projektow}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=\\$1 typ|\\$1 typaj|\\$1 typy|\\$1 typow}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Čitać"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 a \\$2 w \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Nječitany"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nowa mejlka"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Wulki dźak"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Witaj!"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Wjace"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Zdźělenki"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Naspomnjenja"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Zdźělenka"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Druhe"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Wulki dźak"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Witaj"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Nowa aktiwita we Wikipediji"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 nowa powěsć|\\$1 nowej powěsći|\\$1 powěsće|\\$1 powěsćow}} na \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 nowa zdźělenka|\\$1 nowej zdźělence|\\$1 nowe zdźělenki|\\$1 nowych zdźělenkow}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mrd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mil."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 tys."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "wot \\$1 do \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historiski podawk|\\$1 historiskej podawkaj|\\$1 historiske podawki|\\$1 historiskich podawkow}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Dalše historiske podawki na tutym dnju"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 dalši historiski podawk|\\$1 dalšej historiskej podawkaj|\\$1 dalše historiske podawki|\\$1 dalšich historiskich podawkow}} na tutym dnju"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Žane daty k dispoziciji"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 z tuteje Wikipedije: \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Na tutym dnju"
+    },
+    {
+      "name": "open_article",
+      "value": "Nastawk wočinić"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Přirunać"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "snadne změny"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Awtor: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentar \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Stawizny wersijow"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Snadna změna"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "({{PLURAL:\\$1|1 bajt|\\$1 bajtaj|\\$1 bajty|\\$1 bajtow}})"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 změna|\\$1 změnje|\\$1 změny|\\$1 změnow}} wot \\$2"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "njeregistrowany"
+    },
+    {
+      "name": "page_issues",
+      "value": "Problemy strony"
+    },
+    {
+      "name": "page_location",
+      "value": "Na karće pokazać"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nimaš prawa, zo by tutu stronu wobdźěłał"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Tuta strona je škitana"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Podobne strony"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Njejsy přizjewjeny"
+    },
+    {
+      "name": "pictured",
+      "value": "na wobrazu"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "Ličba nastawkow: \\$1"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Jako lisćinu pokazać"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Jako kartu pokazać"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Dalše nastawki pokazać"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Za zapiskami z geografiskimi stejišćemi pytać"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Stejnišćo zmóžnić"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Nastawki filtrować"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtrować"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Składowane nastawki"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Najhusćišo čitane"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 nastawk|\\$1 nastawkaj|\\$1 nastawki|\\$1 nastawkow}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Najhusćišo čitane zapiski"
+    },
+    {
+      "name": "places_list_title",
+      "value": "Lisćina"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Stejnišćo zmóžnjena"
+    },
+    {
+      "name": "places_map_title",
+      "value": "Karta"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Waše aktualne stejnišćo"
+    },
+    {
+      "name": "places_title",
+      "value": "Městna"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "njeznata zdalenosć"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Wobraz dnja za \\$1"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Wobraz dnja"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Prawidła priwatnosće"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Problem z funkciju"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profil"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionary"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Wopisanje"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Nastawki sortěrować"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Njesynchronizowany"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Składowany"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|Lisćinu|Lisćiny}} zhašeć?"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Čorna drasta"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Ćmowa drasta"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Swětła drasta"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Dźensa|1=Wčera|2=Předwčerawšim|Před \\$1 dnjemi}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Wróćo"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Wróćo k nastawkej"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Wšě nastawki"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Wikipediju přepytać"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Wikipediju přepytać"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Zašłe pytanja wušmórnyć?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Njemóžeš tule akciju wróćo wzać!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Wšě wušmórnyć"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Najnowše pytanja"
+    },
+    {
+      "name": "search_title",
+      "value": "Pytać"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipedija"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konto"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Přetorhnyć"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Darić"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Rěče při pytanju pokazać"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Moje rěče"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Hišće raz spytać"
+    },
+    {
+      "name": "settings_title",
+      "value": "Nastajenja"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Wutworjene z Wikipedija-app"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ na Wikipediji:"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "přez Wikipediju"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„\\$1“ přez Wikipediju: \\$2"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titul"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "Druhe"
+    },
+    {
+      "name": "survey_submit",
+      "value": "Wotpósłać"
+    },
+    {
+      "name": "survey_title",
+      "value": "Přičina"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Zapis wobsaha"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Začinić"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Zapis wobsaha začinić"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Wobsah"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Zapis wobsaha schować"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Podnapis \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "Rajtark začinić"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 rajtark|\\$1 rajtarkaj|\\$1 rajtarki|\\$1 rajtarkow}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Rajtark wočinić"
+    },
+    {
+      "name": "tabs_title",
+      "value": "Rajtarki"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktiwny wužiwar|\\$1 aktiwnej wužiwarjej|\\$1 aktiwni wužiwarjo|\\$1 aktiwnych wužiwarjow}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Temu přidać"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Archiwy"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Wo diskusijnych stronach"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Rěč změnić"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Nitku začinić"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Čitać"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Nječitany"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Njewočakowany zmylk"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Něšto je so nimokuliło."
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Nitku wočinić"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Na stronje pytać"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Wšě nitki wočinić"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 wotmołwa|\\$1 wotmołwje|\\$1 wotmołwy|\\$1 wotmołwow}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Wotmołwić"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Abonować"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Sy abonował!"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Wotskazać"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Sy wotskazał."
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Přinoški"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Žane archiwowane strony namakane."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Archiwy"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Wjace čitać"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Waš komentar je so přidał"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Žórło wobdźěłać"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Nowu temu přidać"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Diskusiju započeć"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Rozmołwa so tu započina"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Wopisanje"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Wotmołwu zaćisnyć"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "Temu zaćisnyć"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Tema"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Temowy titul"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Diskusijne strony"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Wužiwarske skupiny"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Protokole"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Diskusija"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Wjace čitać"
+    },
+    {
+      "name": "temporary_account",
+      "value": "Nachwilne konto"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Wužiwanske wuměnjenja"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Čorny"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Ćmowy"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Standard"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Swětły"
+    },
+    {
+      "name": "today_title",
+      "value": "Dźensa"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Njeznaty"
+    },
+    {
+      "name": "unwatch",
+      "value": "Hižo njewobkedźbować"
+    },
+    {
+      "name": "user_title",
+      "value": "Wužiwar"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Dale"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Wužiwarske mjeno a wužiwarska strona"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Warnowanje"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Ně, dźakuju so"
+    },
+    {
+      "name": "watch",
+      "value": "Wobkedźbować"
+    },
+    {
+      "name": "watchlist",
+      "value": "Wobkedźbowanki"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|1 bajt|\\$1 bajtaj|\\$1 bajty|\\$1 bajtow}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 měsac"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 tydźeń"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 lěto"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Na přeco"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 měsacow"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 měsacy"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Zjeće wobdźěłać"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filter"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Njewobhladane změny"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Awtomatizowane přinoški"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Čłowjek (žadyn bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Najnowše wersije"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Najnowša wersija"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Nic najnowša wersija"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Snadne změny"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Rěč přidać…"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Změnam slědować"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Wužiwarska strona"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Nastawki wobkedźbować"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Pućuj w času wróćo, zo by {{GENDER:\\$1|zhonił|zhoniła|zhoniła}}, što je so na tutym dnju w stawiznach stało."
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Na tutym dnju"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Započeć"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Sym zrozumił"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Wjace wo Wikipediji zhonić"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Wo Wikipediji"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedija je globalny projekt k wutworjenju swobodnych encyklopedijow we wšěch rěčach swěta. Skoro kóždy z internetnym přistupom móže z neutralnymi a spušćomnymi informacijemi přinošować."
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Smy slědowace rěče na twojim nastroju namakali:"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Pokazaj přehlad twojich změnow…"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedija nima žadyn zapisk z dokładnje tutym mjenom"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Zmylk při přepruwowanju CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Přepruwowanje přez CAPTCHA je trěbne."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Wozjewja so…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Přinoški so IP-adresy twojeho aparata přirjaduja. Zo by měł(a) lěpši datowy škit, wubjer „\\$1“."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Wužiwanske wuměnjenja"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Wčera"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Wšě husto čitane zapiski"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Dalši připadny zapisk"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Z Wikipedije w tutej rěči: %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "W tutej Wikipediji: %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Žane stawizny wersijow k pokazanju"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Dźensa"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Wčera"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Tutu kartu schować"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Karta schowana"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Wopis zapiska %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s/%s"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "WE WIKIPEDIA HarmonyOS"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "Přinoški w tutym měsacu"
+    }
+  ]
+}

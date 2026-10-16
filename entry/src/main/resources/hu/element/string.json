@@ -1,0 +1,3836 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Tartalom licence"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Ha nincs másképp jelezve, a tartalom \\$1 alatt érhető el."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Nevezd meg! – Így add tovább! licenc"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Közreműködők"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Felhasznált könyvtárak"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Teljes lista"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenc"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Imádjuk a nyílt forráskódú szoftvereket \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "A helyek térképeinek licence"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "A helyek az Apple Maps által biztosított térképeket használják. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "A licenc részleteit itt láthatod"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Készítette a \\$1 hozzád hasonló önkéntesek segítségével"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Tárolók"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "A forráskód \\$1 alatt érhető el."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT licenc"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Visszajelzés küldése az alkalmazásról"
+    },
+    {
+      "name": "about_title",
+      "value": "Névjegy"
+    },
+    {
+      "name": "about_translators",
+      "value": "Fordítók"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "A \\$1 önkéntesei fordították"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimédia Alapítvány"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Nem látod a képet? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Új CAPTCHA kérése…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Igényelj fiókot."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA biztonsági ellenőrzés"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Fiók létrehozása"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Már van fiókod? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Jelentkezz be."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Belépés…"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Be kell írnod egy felhasználónevet, jelszót és jelszómegerősítést egy fiók létrehozásához."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "A jelszavak nem egyeznek."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Mentés…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Új fiók létrehozása"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Fiókod"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Fiók eltüntetése"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Vitalapod"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Hozzászólások automatikus aláírása"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "A hozzászólások automatikus aláírása az Aláírásbeállításokban megadott aláírást használja"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Vitalapok beállításai"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Hozzáadás ide..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Hozzáadás az olvasólistához"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Hozzáadás a listához"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Mégse"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Szerkesztés elvetése"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Változtatások elvetése"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Keresés a lapon"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Szerkesztés folytatása"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Nyelvváltás"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Áthelyezés ide..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Mentés olvasólistára"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Következő változat"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Előző változat"
+    },
+    {
+      "name": "action_read",
+      "value": "Olvasás"
+    },
+    {
+      "name": "action_redo",
+      "value": "Újra"
+    },
+    {
+      "name": "action_remove",
+      "value": "Eltávolítás"
+    },
+    {
+      "name": "action_retry",
+      "value": "Újra"
+    },
+    {
+      "name": "action_save",
+      "value": "Mentés"
+    },
+    {
+      "name": "action_saved",
+      "value": "Elmentve"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Mentve. Aktiválja a visszavonáshoz."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Szócikk elmentve későbbre"
+    },
+    {
+      "name": "action_share",
+      "value": "Megosztás"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Megosztás"
+    },
+    {
+      "name": "action_sort",
+      "value": "Rendezés"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Köszönet a felhasználónak"
+    },
+    {
+      "name": "action_undo",
+      "value": "Visszavonás"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Mentés eldobása"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Szócikk eltávolítva"
+    },
+    {
+      "name": "action_update",
+      "value": "Frissítés"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Tegyél könnyebben érthetővé Wikipédia-szócikkeket azzal, hogy ajánlott képeket helyezel el bennük."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Képek hozzáadása"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "További gondolatok?"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Ebben a hónapban olvasott szócikkek"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Szócikkek"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "Összesített hozzájárulás"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Szerkesztési áttekintések"
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "Legutóbbi adomány az alkalmazásban"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Ezen a héten nem szerkesztettél. Ha szerkesztesz, itt nyomon tudod követni a közreműködéseidet."
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "A WIKIPÉDIÁN iOS-EN"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Semleges"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Elégedett"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Ebben a hónapban elmentett szócikkek"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Szerkesztés elkezdése"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "Elégedettségi felmérés"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "Ezen a héten olvasással töltött idő"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Tevékenység"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Elégedetlen"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Nagyon elégedett"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Nagyon elégedetlen"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Laptörténet megtekintése"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Olvasási előzmények megtekintése"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Mentett szócikkek megtekintése"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Hét"
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Tevékenységed"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 szócikk|\\$1 szócikk}} hozzáadása az olvasólistához"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Speciális beállítások"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Tudj meg többet."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Visszajelzés elküldve"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Kihagyás"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipédia, hivatkozás, wiki, enciklopédia, infó, tudás, kutatás, információ, felfedezés, tanulás"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Teljesen testreszabható és könnyebben olvasható Felfedezés hírfolyam. Fordítási és teljesítményjavítások, hibajavítások."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Töltsd le a Wikipédia alkalmazást, ezzel felfedezheted a közeli helyeket, elolvashatod a szócikkeket akkor is, ha offline vagy, és testreszabhatod az olvasási élményt befolyásoló beállításokat."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "A szabad enciklopédia"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "A szócikk szövegméretének beállítása"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Táblázatok kinyitása"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Az összes táblázat kinyitása alapértelmezetten a cikkekben, beleértve a Gyors adatok, Forráshivatkozások, Jegyzetek és Külső hivatkozások dobozokat is."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "A képek átlátszatlanságának csökkentése sötét témák esetén"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Olvasási témák"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Táblázatbeállítások"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "Alkalmazás ikon"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Húzd el a csúszkát a cikk szövegének méretének módosításához. Használd a rendszerszöveg méretét az alkalmazás többi szövegterületének átméretezéséhez."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Témabeállítások"
+    },
+    {
+      "name": "article_about_title",
+      "value": "A szócikkről"
+    },
+    {
+      "name": "article_delete",
+      "value": "Törlés"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|szócikk|szócikk}} törölve"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Az applikációnak nem sikerült időben lehívnia a frissített tartalmat. Kérjük, frissítsd az oldalt később a változások megtekintéséhez."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Nyelv keresése"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Nyelvválasztás"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Más nyelvek"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "A te nyelveid"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Olvass tovább"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Szócikk felülvizsgálati előzmények"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Nincs elég hely az eszközön a szócikk mentéséhez"
+    },
+    {
+      "name": "article_share",
+      "value": "Megosztás"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "Szócikk lapok"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "Böngéssz lapokkal"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "A lapok megjegyzik meddig görgettél."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "Folytasd ott, ahol abbahagytad"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "Nyisd meg a linkeket a háttérben, anélkül hogy elnavigálnál"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "Tudj meg többet a lapokról"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Megnyitás"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "Megnyitás a háttérben"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Megnyitás új lapon"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Szócikk vitalap"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Olvasási témák vezérlése"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Vissza"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "A visszalépéshez koppints ide"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Visszalépés"
+    },
+    {
+      "name": "button_next",
+      "value": "Következő"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Közzététel"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Közzététel mindenképpen"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Hibajelentés"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Elmentés későbbre"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Elmentve későbbre"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Eltávolítás a mentettek közül"
+    },
+    {
+      "name": "button_skip",
+      "value": "Kihagyás"
+    },
+    {
+      "name": "cancel",
+      "value": "Mégse"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "A Wikipédia alkalmazás mostantól a következő kínai változatokat támogatja elsődleges vagy másodlagos nyelvként az alkalmazáson belül, megkönnyítve az olvasást, keresést és szerkesztést a kívánt változatokon:\n\n简体 egyszerűsített kínai (zh-hans)\n香港繁體 hagyományos hongkongi (zh-hk)\n澳門繁體 hagyományos makaói (zh-mo)\n大马简体 egyszerűsített malajziai(zh-my)\n新加坡简体 egyszerűsített szingapúri (zh-sg)\n臺灣正體 hagyományos tajvani (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Kínai nyelvű változat támogatásának frissítése"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Törlés"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "A gyorsítótár törlése befejeződött."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "A gyorsítótár törlése folyamatban van."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Az összes lap bezárása"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Be akarod zárni mind a(z) \\$1 lapot? Ezt a lépést nem lehet visszavonni."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Bezárod mind a(z) \\$1 lapot?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Bezárás"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Minden más lap bezárása"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Bezárod a lapot?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Lapok bezárása"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1| \\$1 lap}} bezárva."
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 óra irányban"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Ez csak az erről az eszközről küldött adományokra vonatkozik."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Törlés megerősítése"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Eszközre mentett előzmények törölve"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Folytatás"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Fedezd fel a Wikipédiát több szócikkért"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nincsenek nemrég olvasott szócikkek"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "A Wikipédia alkalmazás a következő krími tatár változatokat támogatja elsődleges vagy másodlagos nyelvként az alkalmazáson belül, megkönnyítve az olvasást, keresést és szerkesztést a kívánt változatokon:\n\nQırımtatarca, krími tatár latin (chr-latn) \nкъырымтатарджа, Кирил krími tatár cirill (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Krími tatár nyelvű változat támogatásának frissítése"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Frissítés..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Leírás hozzáadása"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 leírása"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1/\\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Bevezetés szerkesztése"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Leírás szerkesztése"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "A rövid leírások jobbak"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Leírás közzététele"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Leírás szerkesztése"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "A leírás legyen rövid, hogy az olvasó könnyen megérthesse a szócikk témáját"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Csak a tulajdonneveket kell nagy kezdőbetűvel kezdeni."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "A cikkleírások összefoglalják egy cikk tartalmát, hogy az olvasók gyorsan megérthessék, miről szól."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Névjegy"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "További információ a Wikidatáról"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "A leírások a Wikidatán tárolódnak, ami a Wikimédia Alapítvány egyik projektje, egy szabad, együttműködő, többnyelvű, másodlagos adatbázis, ami a Wikipédiát és egyéb projekteket támogat."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "További információk"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "A leírások ideális esetben nem hosszabbak egy sornál, és 2–12 szóból állnak. Nem kezdődnek nagybetűvel, csak ha az első szó mondat közepén is nagybetűvel írandó."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Leírás a Mona Lisáról szóló cikkhez"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Leírás a Csomolungmáról szóló cikkhez"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo da Vinci festménye"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "A Föld legmagasabb hegye"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Például:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Tippek a leírások készítéséhez"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Cikkleírás súgó"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Wikidata-útmutató leírások készítéséről"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Kész"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Épp jobbá tetted a Wikipédiát mindenkinek"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Leírás közzétéve!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Ideális, ha egy sor, kettő és tizenkettő szó között"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Fogalmazz tömören"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Összefoglalja a szócikk témáját, hogy az olvasó megtudja, miről szól"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Cikkleírások"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Mielőtt nekifognék, megígérem, hogy nem élek vissza ezzel a funkcióval"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Szerkesztés elkezdése"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Fejlesztői beállítások"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Előző szerkesztés"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Változatok összehasonlítása"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Megjelenített szerkesztés"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Változatok összehasonlítása"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Mutat"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Elrejtés"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "\\$1 - \\$2 sor"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Bekezdés áthelyezve"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "le"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "föl"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|Egy sor|\\$1 sor}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 szakasz}}"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "A lapváltozat betöltése sikertelen"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Visszaállítás"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Biztosan vissza akarod vonni a szerkesztéseket?"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|Egy szerkesztés|\\$1 szerkesztés}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Járőr információk"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|Egy bájt|\\$1 bájt}} hozzáadva"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|Egy bájt|\\$1 bájt}} eltávolítva"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Szerkesztési összefoglaló"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Bevezető"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1. sor"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonim szerkesztőknek nem küldhető köszönet"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Köszönet küldéséhez jelentkezz be"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Köszönet küldése"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Nyilvános köszönetküldés"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Köszönetedet elküldted \\$1 szerkesztőnek"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Már küldtél köszönetet ezért a szerkesztésért"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "A köszönetek nem visszavonhatóak"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|Egy változatlan sor|\\$1 változatlan sor}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "Képek sötétítése"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Dupla kattintás az adomány összegének megadásához."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Dupla kattintás, ha \\$1 összeggel támogatnád a Wikimédia Alapítványt."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Dupla kattintás, ha engedélyezed a Wikimédia Alapítványt, hogy e-mailben tartsa veled a kapcsolatot."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Dupla kattintással engedélyezheted az összeg automatikus, havi befizetését."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Dupla kattintás a tranzakciós díj hozzáadásához."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Igen, a Wikimedia Alapítvány küldhet nekem néha e-mailt."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Gyakran ismételt kérdések"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Egyéb adományozási módok"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Gond az adományozásnál?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Elszámolási információk"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Holnap újra emlékeztetünk."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Honlapunkon keresztül ennél az összegnél (\\$1 \\$2) többet nem fogadhatunk el. Vedd fel a kapcsolatot nagyobb támogatásokkal foglalkozó stábunkkal a benefactors@wikimedia.org címen!"
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Válassz összeget (minimum \\$1 \\$2)!"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Legyen havonta ismétlődő adomány!"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Adományozz Apple Pay-jel!"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Adományozz Apple Pay-jel, vagy válassz más fizetési módot!"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Más fizetési mód"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Apple Pay-jel adományoznál?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Nagylelkűséged számunkra rengeteget jelent."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Köszönjük!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Válassz összeget!"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Nagylelkűen hozzáadok \\$1 összegű tranzakciós díjat, hogy adományom 100%%-át megtarthassátok."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Szöveg mutatása"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Hivatkozás célja"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Hivatkozás eltávolítása"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Hivatkozás szerkesztése"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Szerkesztés"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "A kijelölt szöveg nem található"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Tudj meg többet az apró szerkesztésekről"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Ez egy apró szerkesztés"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Szerkesztési összefoglaló hozzáadása"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Nyelvtani javítás"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Elírás javítása"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Hivatkozások hozzáadása"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Hogy javítottad a szócikket?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Tudj meg többet a figyelőlistádról"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Lap figyelése"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Legyen merész, de ne vakmerő a cikkek frissítése során. Ne kínlódjon a hibákon: az lap minden korábbi verziója elmentésre kerül, így közösségünk könnyen kijavíthatja a hibákat."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "A hangod fontos"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Megbízható források megadása"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Írj elfogulatlan hangnemben"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Annak érdekében, hogy mindenki hozzáférjen a világ tudásához, szükségünk van arra, hogy részt vegyél annak létrehozásában a számodra legfontosabb témák olvasásával, szerkesztésével és azokhoz való hozzájárulásával."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Tedd szabaddá a tudást"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "A szerkesztésed közzé lett téve."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Forrás szerkesztése"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Biztosan el szeretnéd hagyni a szerkesztési módot közzététel nélkül?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Biztosan elveted ezt a szerkesztést?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Elveted a szerkesztési módot?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Keresés törlése"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Keresés bezárása"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "Összesen \\$1 találat. Kiemelt találatok száma: \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Nincs találat"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Következő találat"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Előző találat"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Keresés"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Félkövér"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Szövegformázás menü bezárása"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Megjegyzés"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Címsor"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Behúzás csökkentése"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Behúzás növelése"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Dőlt"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Hivatkozás"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Rendezett lista"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Rendezetlen lista"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Bekezdés"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Hivatkozás"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Áthúzott"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Alsó index"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Felső index"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Sablon"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Szövegformázás"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Aláhúzott"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Csere"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Csere erre..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Összes cseréje"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Összes példány cseréje"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Csere"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Egyetlen példány cseréje"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Keresés a lapon"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wiki szövegszerkesztő"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "A változatok között nincs eltérés"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Üres szerkesztési összefoglaló"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Fájl kiválasztása a Wikimedia Commonsról"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Sajnáljuk, nem sikerült betölteni a cikket"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Továbbra is olvashatsz elmentett lapokat"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "A neked ajánlott szócikkeket akkor láthatod, ha kapcsolódsz az internethez"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Kövesd nyomon, hogy mit olvastál itt"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nincsenek megjeleníthető előzmények"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Ez a szócikk még nincs megírva más nyelveken"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Más nyelven nem érhető el"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Még egyetlen oldal sem lett elmentve a listába"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Ments el lapokat, hogy később, akár kapcsolat nélkül is elolvashasd őket"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Még nincsenek mentett lapok"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nincs találat"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Kérlek próbáld újra"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Hiba történt"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Másik cikk találomra"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Mert ezt olvastad"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "További, kapcsolódó szócikkek"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Olvasás folytatása"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "A közeledben lévő dolgok szócikkei"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Kiemelt szócikk"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédiáról"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "A Wikipédiáról"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Testreszabás"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kártya elrejtve"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Felfedezés"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "A Wikipédia napi kiemelt cikke"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Ki"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Mindegyiken"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Be"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Minden \\$1 kártya elrejtve"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Nem nyelv-specifikus kártyák"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Nem nyelv-specifikus"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globális kártyák"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Kártya elrejtése"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Minden „\\$1” kártya elrejtése"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Szócikkek aktuális eseményekről"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Események ezen a napon"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipédia szócikkek a közeledben"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "A nap kiemelt képe a Wikimédia Commonsról"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Véletlenszerűen kiválasztott szócikkek"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Javaslatok olvasási előzményeid alapján"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "A nap legolvasottabb szócikkei"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "Játékok"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Kártya elrejtése"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "A Wikimédia projektek főoldala"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Ma a Wikipédián"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Az összes legolvasottabb szócikk"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Legolvasottabb"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Legolvasottabb ekkor: \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédián"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "A Wikipédián"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Helyek a közelben"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Helyek"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédiáról"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "A Wikipédiáról"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Helyed"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "A nap képe"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "A Wikimédia Commonsról"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Lap találomra"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédiáról"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "A Wikipédiáról"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Randomizáló"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Kép hozzáadása"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "Wikipédia felfedezése"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Megosztod az alkalmazáskönyvtárat?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Hiba történet az adatok exportálása során. Kérlek próbáld újra később."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Nincs elég tárterület az eszközön a felhasználói adatok exportálásához. Kérlek, próbáld újra később."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Felhasználói adatok exportálása"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédiáról"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "A Wikipédiáról"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Kiemelt szócikk"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Valami félresikerült. Kérlek próbáld újra később."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Az alkalmazás váratlan választ kapott a szervertől. Kérlek, próbáld újra később."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Érvénytelen CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "A jelszavak nem egyeznek"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Érvénytelen kód"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "A felhasználónév nem érhető el"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Visszaállítási kód"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-szöveg"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Írd be a fent látható szöveget"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "pelda@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-mail-cím"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-mail-cím (opcionális)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "add meg az új jelszavad még egyszer"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Új jelszó megerősítése"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "add meg az új jelszavad"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Új jelszó"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "add meg a jelszavad még egyszer"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Jelszó megerősítése"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "add meg a jelszavad"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Jelszó"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Ellenőrző kód"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "add meg a szerkesztőnevedet"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Szerkesztőnév"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Mind"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Keresés törlése"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Következő találat"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Előző találat"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Keresés és csere"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Keresés és csere bezárása"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Keresés"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Visszaállítás"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Elküldtük az e-mailt a jelszó-visszaállítási utasításokkal"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Töltsd ki a lenti mezők egyikét, hogy megkapd a jelszó-visszaállítási utasításokat e-mailben"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Jelszó visszaállítása"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Vagy"
+    },
+    {
+      "name": "games_wcf_button_play_title",
+      "value": "Játssz a mai játékkal"
+    },
+    {
+      "name": "games_wcf_explore_button_review_title",
+      "value": "Eredmények áttekintése"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Biztosan törölni akarod az összes korábbi elemet?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Igen, összes törlése"
+    },
+    {
+      "name": "history_title",
+      "value": "Előzmények"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipédia, visszatérés a Felfedezéshez"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipédia, visszatérés a mentett lapokhoz"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Több ehhez hasonló: \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "További helyek a közeledben"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Több \\$1 közeléből"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "További aktuális események"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "A mentett szócikkeidet mostantól olvasólistákba tudod szervezni, amelyek a különböző eszközeid között szinkronizálásra kerülnek. Jelentkezz be, hogy az olvasólistáidat a felhasználói beállításaid közé tudd menteni."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Beállítások kezelése"
+    },
+    {
+      "name": "home_title",
+      "value": "Felfedezés"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipédia, görgetés a Felfedezés tetejére"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Közeli szócikkek"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Lap találomra"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Keresés a Wikipédiában"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Ismeretlen szerző."
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Próbálj később visszatérni."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Valami elromlott."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Javaslat megtekintése"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "A javaslatok gépi úton vannak generálva, és a te belátásodra van bízva, hogy elfogadod vagy elutasítod azokat."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Kép elfogadása vagy elutasítása"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "A képek a Wikimédia Commonsból származnak, a Wikipédia által használt, szabadon licencelt képek gyűjteményéből."
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "A kép nem releváns"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Nincs elég információ a döntéshez"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "A kép sértő"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "A kép rossz minőségű"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Nem ismerem ezt a témát"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Egyéb"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Elküldés"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Indoklás"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Kép hozzáadása"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Szócikk megtekintése"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nem"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Nem tudom biztosan"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Igen"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Kérdőív kitöltése"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "A(z) \\$1 Wikipédiáról"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "A Wikipédiáról"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "A hírekben"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Beszúrás"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Hivatkozás beszúrása"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Leírás olyan olvasók számára, akik nem látják a képet"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Írd le a képet"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternatív szöveg"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Hogyan kapcsolódik ez a kép a szócikkhez?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Képaláírás"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Középre"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Balra"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Nincs"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Jobbra"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "A kép pozíciója"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "További információk"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Kép kiválasztása"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Egyéni"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Alapértelmezett"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Magasság"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Szélesség"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "pixel"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Képméret"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "Kép körbefuttatása szöveggel"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Egyszerű"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Keret"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Keret nélkül"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Bélyegkép"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Képtípus"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Médiabeállítások"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Média beszúrása"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "Folytatás bejelentkezés nélkül"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "Bejelentkezés vagy fiók létrehozása"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Nem vagy bejelentkezve"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "A kazak nyelvi változat támogatásának frissítése"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "A kurd nyelvi változat támogatásának frissítése"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Nyelvek"
+    },
+    {
+      "name": "languages_title",
+      "value": "Nyelvváltás"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipédia nyelvek"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Tudj meg többet"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Folytatás bejelentkezés nélkül"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Jelentkezz vissza a fiókodba"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Kijelentkeztél"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Elfelejtetted a jelszavad?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Csatlakozz a Wikipédiához."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nincs még fiókod? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Bejelentkezés a fiókodba"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Az appról"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Bejelentkezés"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Kijelentkezés"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Biztosan ki akarsz lépni?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Bejelentkezve \\$1 néven"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Jogi információk"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Közelben"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Adatvédelmi irányelvek"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "App értékelése"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Felhasználási feltételek"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Több"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipédia Zéró GYIK"
+    },
+    {
+      "name": "main_page",
+      "value": "Kezdőlap"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Keress a Wikipédián közel 300 nyelven"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Nyelvek hozzáadása"
+    },
+    {
+      "name": "more_menu",
+      "value": "Több"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|egy szócikk|\\$1 szócikk}} hozzáadása az olvasólistához"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Előnézet"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 láb}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mérföld"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Ideiglenes jelszóval jelentkeztél be. A bejelentkezés befejezéséhez állíts be itt egy új jelszót."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Jelszó beállítása"
+    },
+    {
+      "name": "new_tab",
+      "value": "Új lap"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Következő"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Állíts be egy e-mail-fiókot az eszközödön és próbáld újra."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Nincs internetkapcsolat"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ne most"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "A(z) \\$1 lapról"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Jelszó módosítása"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Értesítések keresése..."
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Értesítés részletei"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Értesítések keresése..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Nincsenek üzeneteid"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Nincsenek beállítva a Wikipédia értesítések"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Értesítések bekapcsolása"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Az összes Wikimédia-projekt szerkesztési értesítései mostantól elérhetők az alkalmazáson keresztül. Iratkozz fel a push értesítésekre, hogy útközben is naprakész legyen a Wikipédián lévő üzeneteiddel."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Értesítés szűrő"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Mind"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Olvasva"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Olvasatlan"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Szűrők"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Módosítsa az értesítési típusokat, hogy kiszűrje őket a beérkező értesítések között. A kikapcsolt típusok nem lesznek láthatóak, de a tartalmuk és az új értesítések elérhetőek lesznek, ha a kapcsolót újra bekapcsolja."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Minden típus"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Értesítések típusai"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Szócikk"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 vitalap"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Diff"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 felhasználói oldala"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-elem"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Vitalapod"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Kész"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimédia-projektek"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipédiák"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Bejelentkezési értesítések"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Az összes megjelölése olvasottként"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Megjelölés olvasottként"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Megjelölés olvasatlanként"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Több"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Értesítési beállítások"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 üzenet}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Folytatás"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Szűrők"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "További információ az értesítésekről"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Mind"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Összes értesítés"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Szűrés"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|\\$1 projektben}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|\\$1 projekt}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|\\$1 típus}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Olvasás"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Olvasatlan"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Szerkesztési mérföldkő"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Szerkesztésedet visszavonták"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Új email"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Sikertelen bejelentkezés"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Bejelentkezés ismeretlen eszközről"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Ellenőrzött szócikk"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Köszönetek"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Fordítási mérföldkő"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Szerkesztői jog módosulása"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Üdvözlet!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Jelölés olvasottként"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Jelölés olvasatlanként"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Tovább"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Értesítések"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Említések"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Megjegyzés"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Üdvözlő üzenet"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Kapcsolat a Wikidatával"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Szerkesztési mérföldkő"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Szerkesztések visszavonva"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Szerkesztési összefoglaló említés"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-mail egy másik felhasználótól"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Bejelentkezési kísérletek"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Sikertelen bejelentkezési kísérlet a fiókodba"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Sikeres bejelentkezés"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Egyéb"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Fordítási mérföldkő"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Szerkesztői jog módosulása"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Vitalapi üzenet"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Üdvözlünk"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Új tevékenység a Wikipédián"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Új üzenet|Új üzenetek}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 Mrd"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1k"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 és \\$2 között"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 történelmi esemény|\\$1 történelmi esemény}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Több történelmi esemény ezen a napon"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Nincs elérhető adat"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 a(z) \\$2 Wikipédiáról"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ezen a napon"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "bot"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Összehasonlít"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Szerkesztések grafikus ábrázolása"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "apró módosítás"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Szerző: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Megjegyzés \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Laptörténet"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "apró szerkesztés"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Hozzáadva {{PLURAL:\\$1|\\$1 bájt|\\$1 bájt}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Eltávolítva {{PLURAL:\\$1|\\$1 bájt|\\$1 bájt}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Változtatás közzétéve ekkor: \\$1"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|$Egy szerkesztés|\\$1 szerkesztés}} \\$2-óta"
+    },
+    {
+      "name": "page_location",
+      "value": "Megtekintés térképen"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nincs jogosultságod a lap szerkesztéséhez"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ez a lap védett"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Hasonló oldalak"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Változatok összehasonlítása"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Szerkesztés bejelentkezés nélkül"
+    },
+    {
+      "name": "pictured",
+      "value": "képpel"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Mentett keresések törlése"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 szócikk"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Saját helyzet középre helyezése"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Megjelenítés listaként"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Megjelenítés térképen"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Több cikk mutatása"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Fedezz fel városokat, országokat, földrészeket, természeti képződményeket, történelmi eseményeket, épületeket és még sok minden mást."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Földrajzi hellyel rendelkező Wikipédia-szócikkek keresése"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Helymeghatározás engedélyezése"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "A helyzeted csak akkor érhető el, amikor az alkalmazás vagy egy funkciója látható a képernyőn."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "A közeledben lévő témájú szócikkek felfedezése a helymeghatározás engedélyezésével"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Szócikkek szűrése"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Szűrés"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nincsenek mentett helyeid"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Mentett szócikkek"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Legolvasottabb"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "\\$1 szócikk"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Legolvasottabb szócikkek"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Helymeghatározás engedélyezve"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Egyetlen mentett szócikked sem tartalmaz helyinformációkat."
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 találat erre: „\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Helyek keresése"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Úgy érted: \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Legutóbbi keresések"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Minden mentett szócikk"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Javasolt keresések"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Találatok ezen a területen"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Az összes legolvasottabb szócikk"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Közelben"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Földrajzi helyzeted"
+    },
+    {
+      "name": "places_title",
+      "value": "Helyek"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "ismeretlen távolság"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "A \\$1 nap képe"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "A \\$1 nap képének lekérése sikertelen"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "A nap képe"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "A Wikimédia Alapítvány adatokat gyűjthet arról, hogy hogyan használod az alkalmazást, hogy még jobbá tehessük."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Adatvédelmi irányelvek"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Bejelentkezés / Regisztrálás a Wikipédiába"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikikönyvek"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimédia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikihírek"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikidézet"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikiforrás"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikifajok"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiegyetem"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikiszótár"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "Véletlen"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Szócikket olvasólistára?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "„\\$1” hozzáadása egy olvasólistához?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Igen, vedd fel az olvasólistáimhoz"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Váratlan hiba történt az olvasólisták szinkronizálása során."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Olvasólista létrehozása"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Leírás"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Az olvasólista neve"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Új lista létrehozása"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Olvasólista törölve"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nem, töröld a szócikket az eszközről"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "A szócikkek száma legfeljebb \\$1 lehet fiókonként."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "A {{PLURAL:\\$1|szócikket|szócikkeket}} nem lehet hozzáadni ehhez a listához. Elérted a maximális \\$2 szócikket \\$3 olvasólistában."
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Váratlan hiba történt az olvasólisták frissítése során."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Szócikkek rendezése"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Az olvasólista és a benne mentett szócikkek nem fognak szinkronizálódni. Csökkentsd a listák számát ennyire: \\$1, a listák szinkronizálásának folytatásához."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Az olvasólisták száma legfeljebb \\$1 lehet fiókonként."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Az olvasólisták száma legfeljebb \\$1 lehet."
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Jelentkezz be a mentett szócikkek szinkronizálásához"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Bejelentkezés / fiók létrehozása"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Jelentkezz be a mentett szócikkek szinkronizálásához"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "opcionális rövid leírás"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "olvasólista címe"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Szinkronizálás leállítva"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Szinkronizálás engedélyezése"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "A szinkronizálás engedélyezve van ennél a fióknál"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Szócikk hozzáadva a következőhöz: „\\$1”"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nincs szinkronizálva"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "„\\$1” nevű listád át lett nevezve a következőre: „\\$2”"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Elmentve"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|Lista|Listák}} törlése?"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Mentett szócikkek rendezése"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Fekete téma"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Fényerő csúszka"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Sötét téma"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Világos téma"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Szépia téma"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Szintaxiskiemelés"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Szövegméret csúszka"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Szintaxiskiemelés"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Ugrás a referenciákhoz"
+    },
+    {
+      "name": "reference_title",
+      "value": "Forráshivatkozás \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Ma|1=Tegnap|\\$1 napja}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 óra"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Nemrég|\\$1 órája|\\$1 órája}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 órával ezelőtt"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 perc"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Épp most|\\$1 perce|\\$1 perce}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 perccel ezelőtt"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Ebben a hónapban|1=Előző hónapban|\\$1 hónappal ezelőtt}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 másodperc"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 másodperccel ezelőtt"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Idén|1=Tavaly|\\$1 évvel ezelőtt}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Visszatérés"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Vissza a szócikkhez"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Visszavont szerkesztés"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Minden szócikk"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Ezt a listát nem lehet törölni"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "A képek letöltése sikertelen ehhez a mentett laphoz."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "A szócikk letöltése folyamatban..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Olvasólisták"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Keresés a mentett szócikkeidben"
+    },
+    {
+      "name": "saved_title",
+      "value": "Elmentve"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Keresés a Wikipédiában"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Törlés"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Keresés a Wikipédiában"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Törlöd az összes friss keresést?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ezt a műveletet nem lehet visszavonni!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Összes törlése"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Legutóbbi keresések"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1 szócikkből átirányítva"
+    },
+    {
+      "name": "search_title",
+      "value": "Keresés"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipédia"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "A szerb nyelvi változat támogatásának frissítése"
+    },
+    {
+      "name": "settings_account",
+      "value": "Fiók"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Alkalmazástéma"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Gyorsítótárazott adatok törlése"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "A gyorsítótárazott adatok törlése körülbelül \\$1 helyet fog felszabadítani, az elmentett lapokat nem érinti."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Törlöd a gyorsítótárazott adatokat?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Mégse"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Gyorsítótár törlése"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Adományozás"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Súgó és visszajelzés"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Nyelvek megjelenítése keresésnél"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Saját nyelvek"
+    },
+    {
+      "name": "settings_new_article_tab_header_text",
+      "value": "Új lap téma"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Értesítések"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Próbáld újra"
+    },
+    {
+      "name": "settings_off",
+      "value": "Ki"
+    },
+    {
+      "name": "settings_on",
+      "value": "Be"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Elsődleges"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "A listában szereplő első nyelv az alkalmazás elsődleges nyelve."
+    },
+    {
+      "name": "settings_title",
+      "value": "Beállítások"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "A Wikipédia appal készült"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1” a Wikipédiában:"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Útvonalterv"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Megosztás"
+    },
+    {
+      "name": "share_message_format",
+      "value": "„\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "a Wikipédián"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Megnyitás a Térképekben"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„\\$1” a Wikipédián: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "„\\$1” Wikipedián: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Nemrég hozzáadva"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Cím"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Tartalomjegyzék"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Bezárás"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Tartalomjegyzék bezárása"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Tartalom"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Tartalomjegyzék elrejtése"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Alcím \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "Lap bezárása"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Lap megnyitása"
+    },
+    {
+      "name": "tabs_title",
+      "value": "Lapok"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "A tadzsik nyelvi változat támogatásának frissítése"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Olvasott"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Olvasatlan"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "A válaszod közzétéve"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Lapinformáció"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Hivatkozás erre a változatra"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Mi hivatkozik erre?"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Válasz"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Feliratkozás"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Szócikk Vitalap"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Szerkesztővita"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Leiratkozás"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Közreműködések"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Archívumok"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Továbbolvas"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Leírás"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Téma"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Téma címe"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Rendszernaplók"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Vitalap"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Felhasználási feltételek"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Fekete"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Sötét"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Alapértelmezés"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Világos"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Szépia"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Legolvasottabb"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Bejelentkezés folytatása"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Írd be a kétlépcsős azonosítás kódját"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Bejelentkezés a fiókodba"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Használd az egyik visszaállítási kódod"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Ellenőrző kód használata"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Nem sikerült betölteni a vitalapot"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Ismeretlen"
+    },
+    {
+      "name": "user_title",
+      "value": "Felhasználó"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Az üzbég nyelvi változat támogatásának frissítése"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Folytatás"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Felhasználónév és felhasználói oldal"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nem, köszönöm"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Beállításaid áttekintése"
+    },
+    {
+      "name": "watch",
+      "value": "Lap figyelése"
+    },
+    {
+      "name": "watchlist",
+      "value": "Figyelőlista"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 hónap"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 hét"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 év"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Állandó"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 hónap"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 hónap"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Szerkesztési összefoglaló"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Cikkek keresése"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Nincsenek figyelőlista-elemeid"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Lejárat beállítása"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Szűrő"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Figyelőlista aktivitás"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Látott változtatások"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Még nem látott változtatások"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Automatikus szerkesztések"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Ember (nem bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Legutóbbi változat"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Legutóbbi változat"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Régebbi változatok"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Fontosság"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Apró szerkesztések"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Nem apró szerkesztések"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Változtatás típusa"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Kategóriaváltoztatások"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Naplózott műveletek"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Laplétrehozások"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Lapszerkesztések"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata-szerkesztések"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Felhasználói regisztráció és tapasztalat"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Regisztrált"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Nem regisztrált"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Nyelv hozzáadása..."
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Változások nyomonkövetése"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Köszönet"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Felhasználói lap"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Szerkesztővita"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Adatvédelem"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "A közösség által napi olvasásra ajánlott szócikk"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Felfedezés csatorna"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Mi történt a mai napon a történelemben"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ezen a napon"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Fedezd fel a nevezetes helyeket a közeledben vagy fedezz fel új helyeket szerte a világban"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Helyek lap"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Kezdés"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Új módok a felfedezésre"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Értem"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "A Wikipédiát önkéntesek közösen írják, és több mint 40 millió szócikkből áll, több mint 300 nyelven."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Tudjon meg többet a Wikipédiáról"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "A Wikipédia névjegye"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "A Wikipédia egy globális projekt, amelynek célja ingyenes enciklopédiák létrehozása a világ összes nyelvén. Gyakorlatilag bárki, akinek internet-hozzáférése van, szabadon részt vehet semleges, idézett információkkal."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "A szabad enciklopédia"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Másik nyelv hozzáadása"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Előnyben részesített nyelvek hozzáadása vagy szerkesztése"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "A következő nyelveket találtuk a készülékeden:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Keresés majdnem 300 nyelven"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Mi történt a történelemben ezen a napon?"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Ingyenes online enciklopédia, amelyet bárki szerkeszthet"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "A Wikipédia, egy ingyenes wiki tartalomlexikon, elérhető az interneten."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "A változtatásaid előnézetének lekérése…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ez a link a következő külső weboldalra mutat: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Külső hivatkozás"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "A Wikipédián nincs szócikk pontosan ezzel a névvel"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Nem található belső hivatkozás"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "A hivatkozás ide mutat: „\\$1”"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Hivatkozás előnézete"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Változtatások mentése"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA ellenőrzési hiba."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA ellenőrzés szükséges."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "A wikiszöveg-feltöltés eredményének meghatározása sikertelen."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Közzététel…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "A szerkesztéseid az eszközöd IP-címéhez lesznek társítva. Ha \\$1bejelentkezel\\$2, nagyobb adatvédelmet élvezhetsz."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "A szerkesztéseid az eszközöd IP-címéhez lesznek társítva. A \\$1 nagyobb adatvédelmet biztosít."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Felhasználási feltételek"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Adományozás"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Adományozz most"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "További gondolatok?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Semleges"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Elégedett"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "Elégedettségi felmérés"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "Elégedetlen"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "Nagyon elégedett"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "Nagyon elégedetlen"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "Délután"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "Este"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "Késő éjszaka"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "Dél"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "Reggel"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "Éjszaka"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Wikipédia w logó"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Wikimédia Alapítvány logó"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Tegnap"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Mert ezt olvastad"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Az összes legolvasottabb szócikk"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Másik cikk találomra"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "A(z) %s Wikipédiáról"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "A(z) %s Wikipédián"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "A Wikimédia Commonsról"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nincsenek megjeleníthető előzmények"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Tegnap"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Kártya elrejtése"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kártya elrejtve"
+    },
+    {
+      "name": "editor_published",
+      "value": "A szerkesztésed közzé lett téve."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s leírása"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s/%s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Úgy érted: %s?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "A WIKIPÉDIÁN HarmonyOS-EN"
+    }
+  ]
+}

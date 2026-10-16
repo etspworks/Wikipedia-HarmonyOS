@@ -1,0 +1,2720 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Aotre-implij an endalc'had"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Ma n'eo ket resisaet mod all emañ an holl zanvez dindan un \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Aotre-implijout Creative Commons Attribution-ShareAlike"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Kenlabourerien"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Levraouegoù implijet"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Roll klok"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Aotre-implijout"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Plijout a ra deomp ar meziant kod digor \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Aotre ar c'hartennoù Plasennoù"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Graet gant ar \\$1 gant skoazell tud a-youl vat eveldoc'h"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Reizhiadoù daveiñ"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Ar c'hod mammennoù a c'haller kaout dindan \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Aotre-implijout MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Kas un ali diwar-benn an arload"
+    },
+    {
+      "name": "about_title",
+      "value": "Diwar-benn"
+    },
+    {
+      "name": "about_translators",
+      "value": "Troerien"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Troet eo bet an arload-mañ gant troerien a-youl vat e \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Diazezadur Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Dibosupl gwelet ar skeudenn ? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Kaout ur C'HAPTCHA nevez..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Goulenn kaout ur gont."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Gwiriañ ar surentez CAPCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Krouiñ ho kont"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Ur gont hoc'h eus c'hoazh ? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Kevreañ."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "O kevreañ ouzh..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Rankout a rit ebarzhiñ un anv implijer, ur ger-tremen, hag ur ger-tremen kadarnaat evit krouiñ ur gont."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Maeziennoù ar gerioù-tremen ne glotont ket an eil gant egile"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Oc'h enrollañ..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Krouiñ ur gont nevez"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Ho kont"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Ho pajenn kaozeal"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Ouzhpennañ da"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Ouzhpennañ d'ar roll lenn."
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Ouzhpennañ d'ar roll"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Nullañ"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Nullañ kemmoù"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Klask er bajenn"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Kenderc'hel da gemmañ"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Cheñch yezh"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Dilec'hiañ war-zu :"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Dilec'hiañ war-zu ar roll lenn"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Stumm kent"
+    },
+    {
+      "name": "action_read",
+      "value": "Lenn"
+    },
+    {
+      "name": "action_redo",
+      "value": "Adober"
+    },
+    {
+      "name": "action_remove",
+      "value": "Diverkañ"
+    },
+    {
+      "name": "action_retry",
+      "value": "Klask en-dro"
+    },
+    {
+      "name": "action_save",
+      "value": "Enrollañ"
+    },
+    {
+      "name": "action_saved",
+      "value": "Enrollet"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Enrollet. Gwerededkaat evit lemel an enrolladenn."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Pennad enrollet evit diwezhatoc'h"
+    },
+    {
+      "name": "action_share",
+      "value": "Rannañ"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Rannañ"
+    },
+    {
+      "name": "action_sort",
+      "value": "Rummañ"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Trugarekaat an implijer"
+    },
+    {
+      "name": "action_undo",
+      "value": "Dizober"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Hep enrollañ"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Pennad n'eo ket enrollet"
+    },
+    {
+      "name": "action_update",
+      "value": "Hizivaat"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Ouzhpennañ {{PLURAL:\\$1|\\$1 pennad|\\$1 pennad}} d'ar roll lenn"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Disteurel"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "An Holloueziadur digor"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Azasait ment ar pennad ouzh ar pennad"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Digreskiñ divoullder ar skeudennoù en temoù du ha teñval"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Temoù lenn"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Dibaboù an temoù"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Diwar-benn ar pennad-mañ"
+    },
+    {
+      "name": "article_delete",
+      "value": "Diverkañ"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|pennad|bennad|fennad|a bennadoù}} dilamet"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Kavout ar yezh"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Dibab ar yezh"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Yezhoù all"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Ho yezhoù"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Lenn pelloc'h"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Daveenn \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "Rannañ"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Pajenn kaozeal ar pennad"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Distreiñ"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Pouezit evit distreiñ"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Distreiñ"
+    },
+    {
+      "name": "button_next",
+      "value": "War-lerc'h"
+    },
+    {
+      "name": "button_ok",
+      "value": "Mat eo"
+    },
+    {
+      "name": "button_publish",
+      "value": "Embann"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Embann memestra"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Kas keloù diwar-benn un draen"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Enrollañ evit diwezhatoc'h"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Enrollet evit diwezhatoc'h"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Lemel enroladennoù"
+    },
+    {
+      "name": "button_skip",
+      "value": "Lezel a-gostez"
+    },
+    {
+      "name": "cancel",
+      "value": "Nullañ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Riñsañ"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Serriñ"
+    },
+    {
+      "name": "compass_direction",
+      "value": "da \\$1 eur"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Kenderc'hel"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Explorer Wikipedia evit kaout muioc'h a bennadoù da lenn"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Pennad ebet lennet nevez zo"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Oc'h hizivaat..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Ouzhpennañ un deskrivadur"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Deskrivadur ar pennad evit \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Pa'z embannit e tegemerit ar \\$1, hag e lakait ho tegasadennoù dindan an aotre-implijout \\$2 en un doare didorradus."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Kemmañ ar raklavar"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Kemmañ deskrivadur ar pennad"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Embann an deskrivadur"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Kemmañ an deskrivadur"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Diwar-benn"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Diwar-benn Wikipedia"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Muioc'h a ditouroù"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Ul livadur gant Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Menez uhelañ ar bed"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Da skouer :"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Kuzulioù evit krouiñ deskrivadurioù"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Sikour da zeskrivañ ar pennad"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Sturlevr Wikidata evit skrivañ deskrivadurioù"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Graet"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Embannet eo bet an deskrivadur!"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Krak ha berr"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Deskrivadurioù ar pennad"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Stagañ a ran ganti ha reiñ a ran ma ger da chom hep drougimplij an arc'hwel-mañ"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Kregiñ da gemmañ"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Kemm kent"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Kemm diskouezet"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Diskouez"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Kuzhat"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linennoù \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Rannbennad dilec'hiet"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linenn}}"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Disteuler"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Ha sur oc'h e fell deoc'h disteurel ar c'hemmoù ?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Disteuler ar c'hemmoù"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Kemmoù disc'hraet."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 c'hemm|\\$1 gemm|\\$1 a gemmoù}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Titouroù diwar-benn an aozer/ez"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Diverradenn eus ar c'hemmoù"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Rakskrid"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linenn \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Ne c'hall ket an implijerien dizanav bezañ trugarekaet"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Kevreit evit kas trugarekadennoù"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Kas trugarekadennoù"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Pouezit daou wezh evit reiñ \\$1 d'an Diazezadur Wikimedia"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Foar ar Goulennoù"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Doareoù all da reiñ"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Ni a gemenno ac'hanoc'h en-dro warc'hoazh."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Reiñ gant Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Roit gant Apple Pay pe dibabit un doare all da baeañ."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Doare all da baeañ"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Reiñ gant Apple Pay?"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Trugarez deoc'h!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Dibab ar sammad"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Diskwel an destenn"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Dilemel al liamm"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Kemmañ al liamm"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Kemmañ"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Ur c'hemm dister eo hemañ"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Kemennoù aozañ"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Skeudenn ouzhpennet"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Fazi yezhadur reizhet"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Vi-koukoug reizhet"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Liammoù ouzhpennet"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Penaos eo bet gwellaet ar pennad-mañ ganeoc'h ?"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Evezhiañ ar bajenn-mañ"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Ha sur oc’h e fell deoc’h mont kuit eus ar mod kemmañ hep embann?"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Klask"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Titl"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Rannbennad"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Istitl 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Istitl 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Istitl 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Istitl 4"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Furmaozañ an destenn"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Erlec'hiañ"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Erlec'hiañ gant..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Erlec'hiañ pep tra"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Erlec'hiañ"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Ho tigarez, n'eus ket bet gallet kargañ ar pennad"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Gallout a reot lenn ar pajennoù enrollet"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Gallout a reot gwelet ho pennadoù erbedet p'ho pez ar Genrouedad."
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Mirout ur roud eus ar pezh ho peus lennet amañ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Istor ebet da ziskwel"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "N'eo ket bet skrivet ar pennad-mañ e yezhoù all c'hoazh"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "N'eus yezh all ebet da gaout"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Enrollit ar pajennoù-se evit o lenn diwezhatoc'h, ha pa vefe ezlinenn"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Pajenn ebet enrollet c'hoazh"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "N'eus bet kavet disoc'h ebet"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Klaskit en-dro diwezhatoc'h"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Ur fazi dianav zo c'hoarvezet"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Ur pennad all dre zegouezh"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Peogwir ho peus lennet"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Kenderc'hel da lenn"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Pennad a-zoare"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Eus \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Eus Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Personelaat"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kartenn kuzhet"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Liamm distreiñ prim evit lenn ur pennad digor"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Diweredekaet"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Holl gweredekaet"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Gweredekaet"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "E \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Kuzhet eo an holl gartennoù \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Kuzhat ar gartenn-mañ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Kuzhat an holl gartennoù \"\\$1\""
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Pennadoù diwar-benn an darvouoù bremañ"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Diskouez ar gartenn Hiziv"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Diskouez ar gartenn Skeudenn an deiz"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Diweredekaat ar gartenn Lec'h a ziweredekaio anezhi en holl yezhoù a c'haller kaout."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Diskouez ar gartenn Lec'h"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Diweredakaat ar Gartenn Dargouezhek a ziweredekaio anezhi en  holl yezhoù a c'haller kaout."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Diskouez ar gartenn Dargouezhek"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Diskouez peogwir emaoc'h o lenn ur gartenn"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Pajenn bennañ ar raktresoù Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hiziv e Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "An holl bennadoù lennet ar muiañ"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Ar re a vez lennet ar muiañ"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Ar re a vez lennet ar muiañ d'an \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "E \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "E Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Lec'hioù tost"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Lec'hioù"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Eus Wikipédia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Eus Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Ho lec'hiadur"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Skeudenn an deiz"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Eus Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Ur pennad dre zegouezh"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Eus \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Eus Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Dre zegouezh"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Ouzhpennañ"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Ouzhpennañ ur skeudenn"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Eus \\$1 Wikipedia"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Eus Wikipedia"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "N'eo ket mat ar c'hCAPCHA-mañ"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Ar gerioù-tremen ne glotont ket an eil gant egile"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Kod direizh"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Ne c'haller ket kaout an anv implijer-mañ"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Kod saveteiñ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Testenn Capcha"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Merkit an destenn a welit amañ a-us"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Postel"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Postel (diret)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Bizskrivañ ar ger-tremen en-dro"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Kadarnaat ar ger-tremen nevez"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Bizskrivañ ar ger-tremen nevez"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Ger-tremen nevez"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Bizskrivañ ar ger-tremen en-dro"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Kadarnaat ar ger-tremen"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Bizskrivañ ar ger-tremen"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Ger-tremen"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kod gwiriekaat"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Bizskrivañ an anv implijer"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Anv implijer"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Pep tra"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Klask"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Adderaouekaat"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Kaset ez eus bet ur postel gant displegadurioù adderaouekaat"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Leuniañ unan eus ar maeziennoù amañ dindan evit degemer ar c'hemennadurioù evit adderaouekaat ar ger-tremen dre bostel."
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Adderaouekaat ar ger-tremen"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Pe"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Ha sur eo ho peus c'hoant da lemel ho holl elfennoù nevez ?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ya, lemel pep tra"
+    },
+    {
+      "name": "history_title",
+      "value": "Istor"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, distreiñ da Ergerzhiñ"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, distreiñ da Enrollañ"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Muioc'h evel \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Muioc’h a zanvez eus lec’hioù tost ouzoc’h"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Tostoc'h da \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "Ergerzhet"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, riklañ war-zu al laez evit Ergerzhiñ."
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Pennadoù nes"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Ur pennad dre zegouezh"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Klask e Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Aozer dianav."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Ouzhpennañ ar skeudenn-mañ?"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Ouzhpennañ ur skeudenn d'ur pennad"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "All"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Abeg"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Ouzhpennañ ur skeudenn"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Adwelet"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Ensellet"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Divizout"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Gwelet ar pennad"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Ket"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "N'on ket sur"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Ya"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Ma roll lenn"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Kemer perzh er sontadeg"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Eus \\$1 Wikipedia"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Eus Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Er C'heleier"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Ensoc'hañ"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Ensoc'hañ ul liamm"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Ouzhpennañ munudoù d'ar skeudenn"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Deskrivañ ar skeudenn-mañ"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Testenn all"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Alc'hwez"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Kreiz"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Kleiz"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Hini ebet"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Dehou"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Lec'hiadur"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Muioc'h a ditouroù"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Diuzañ ur skeudenn"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Personelaet"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Dre ziouer"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Ment ar skeudenn"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Eeun"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Framm"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Hep framm"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Munud"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Seurt skeudenn"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Arventennoù ar media"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Yezhoù"
+    },
+    {
+      "name": "languages_title",
+      "value": "Cheñch yezh"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Yezhoù Wikipedia"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Gouzout hiroc'h"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Kenderc'hel hep kevreañ"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Adkevreit ouzh ho kont"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Digevreet oc'h bet"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ankouaet ho ker-tremen ganeoc'h ?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Mont gant Wikipédia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "N'ho peus kont ebet ? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Kevreit ouzh ho kont"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Diwar-benn an arload"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Kevreañ"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Digevreañ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ha sur oc'h e fell deoc'h digevreañ ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Kevreañ evel \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Prevezded ha Termenoù"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Tostik"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Reolennoù prevezded"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Notañ an arload"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Termenoù implijout"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Muioc'h"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "FAG Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Klask e Wikipedia e muioc’h evit 300 yezh"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Ouzhpennañ yezhoù"
+    },
+    {
+      "name": "more_menu",
+      "value": "Muioc'h"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Rakwelet"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 troad"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 metr"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil saoz"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Kevreet oc'h bet gant ur ger-tremen dibad.\nEvit echuiñ kevreañ e rankit lakaat ur ger-tremen nevez amañ :"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Dielfennañ ho ker-tremen"
+    },
+    {
+      "name": "next_action_title",
+      "value": "War-lerc'h"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Kendalc'hit, mar plij da gefluniañ ur gemennadenn en hoc'h ardivink ha klaskit en-dro."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Kevreadur ebet ouzh ar Genrouedad"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ket bremañ"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Digant \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Kemennoù-diwall"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 kemenn"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Cheñch ger-tremen"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "En arload"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "War ar genrouedad"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "N'hoc'h eus kemennadenn nevez ebet"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 sil}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Gweredekaat ar c'hemennadennoù bountet"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Pep tra"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Lennet"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Anlennet"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Siloù"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "An holl"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Pennad"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Pajenn gaozeal \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Diforc'h"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Pajenn gaozeal an implijer \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Elfenn Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Ho pajenn gaozeal"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Kemenn-diwall digant \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Graet"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Raktresoù"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Raktresoù Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipediaoù"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Merkañ an holl evel lennet"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Merkañ evel lennet"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Merkañ evel anlennet"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Muioc'h"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Arventennoù ar c'hemennoù"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 gemennadenn|\\$1 kemennadenn}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Kenderc'hel"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Siloù"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Gouzout hiroc'h diwar-benn ar c'hemennoù"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nann, trugarez"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "An holl"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "An holl gemennoù"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 e \\$2"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=En 1 raktres|E \\$1 raktres}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|Raktres}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Lenn"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Anlennet"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Postel nevez"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Trugarez"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Deuet-mat oc'h!"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Muioc'h"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Kemennoù"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Kemenn"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Kevreet oc'h"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "All"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Trugarez"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Degemer mat"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "Eus \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "N'eus ket roadennoù da gaout"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 er Wikipedia \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "D'an deiz-mañ..."
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "kemmoù gant robotoù"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Keñveriañ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "kemmoù dister"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Aozer : \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Evezhiadenn \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Istor ar c'hemmoù"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Kemm dister"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$1 {{PLURAL:\\$1|c'hemm|gemm|c'hemm|a gemmoù}} abaoe \\$2"
+    },
+    {
+      "name": "page_location",
+      "value": "Diskwel war ur gartenn"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "N'ho peus ket gwir da aozañ ar bajenn-mañ"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Gwarezet eo ar bajenn-mañ"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Pajennoù kar"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Riñsañ an enklaskoù enrollet"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 pennadoù"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Adkreizañ en ho lec'hiadur"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Diskouez evel ur roll"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Diskouez evel ur gartenn"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Diskouez muioc'h a bennadoù"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Ergerzhet ar c'hêrioù, ar broioù, ar c'hevandirioù, ar monumantoù naturel, an darvoudoù istorel, ar savadurioù, ha muioc'h c'hoazh."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Enklask pennadoù Wikipedia gant lec'hioù douaroniel."
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Gweredekaat al lec'hiadur"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Monet d'ho lec'hiadur a c'haller kaout nemet pa vez gwelet an arload pe unan eus e arc'hweladurioù."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Furchal ar pennadoù tost d'ho lec'hiadur en ur weredekaat Monet d'al lec'hiadur"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Silañ pennadoù"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Sil"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "N'ho peus lec'h savetaet ebet"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Pennadoù enrollet"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Ar re lennetañ"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 pennad|\\$1 pennad}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Pennadoù lennet ar muiañ"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Lec'hiadur gweredekaet"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Hini ebet eus ho pennadoù enrollet zo ennañ titouroù lec'hiañ"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 a glot gant « \\$2 »"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Klask Lec'hioù"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "N'ho poa ket soñjet kentoc'h e : \\$1 ?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Enklaskoù graet nevez zo"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "An holl bennadoù enrollet"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Enklaskoù kinniget"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Disoc'hoù en takad-mañ"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "An holl bennadoù gwellañ"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Nepell"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Ho lec'hiadur bremañ"
+    },
+    {
+      "name": "places_title",
+      "value": "Lec'hioù"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "Keit dianav"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Skeudenn an deiz evit \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "N'eus ket bet gallet adtapout skeudenn an deiz evit an \\$1"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Skeudenn an deiz"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Aotren Diazezadur Wikipedia da zastum titouroù diwar-benn an doare ma implijit an arload evit gwellaat anezhañ"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikilevrioù"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikikeloù"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiarroud"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikimammenn"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispesad"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiskolveur"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikibeaj"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikeriadur"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Ouzhpennañ ar pennad-mañ d'ur roll lenn ?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Ouzhpennañ \"\\$1\" d'ar roll lenn ?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ya, ouzhpennit anezho da'm rolloù lenn"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Setu ar pennadoù enrollet en hoc'h arload Wikipédia. Ha c'hoant ho peus da virout anezho ha da gendeuziñ anezho gant ar rolloù lenn sinkronelaet gant ho kont ?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Pennadoù enrollet kavet"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Krouiñ ar roll lenn"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Deskrivadur"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Anv ar roll lenn"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Krouiñ ur roll nevez"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Roll lenn lamet"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Rummañ ar pennadoù"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Kevreañ pe krouiñ ur gont"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Kevreañ evit sinkronelaat ar pennadoù enrollet"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Kevreañ pe krouiñ ur gont evit gallout sinkronelaat ho pennadoù enrollet hag ho rolloù lenn etre ardivinkoù, hag enrollañ ho penndibaboù implijer."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Sinkronelaat ho pennadoù enrollet ?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[implijer krouet]"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinkroneladur diweredekaet"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Gweredekaat ar sinkroneladur"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Pennad ouzhpennet da “\\$1”"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Enrollet"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Dilemel ar {{PLURAL:\\$1|roll}}?"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Tem du"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tem teñval"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Tem sklaer"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Tem sepia"
+    },
+    {
+      "name": "reference_title",
+      "value": "Daveenn \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Hiziv|1=Dec'h|2=2 zeiz zo|\\$1 deiz zo}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1e"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Nevez zo|\\$1 eur zo}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1e zo"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Nevez zo|\\$1 eur zo}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Bremañ|\\$1 munutenn zo}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Nevez zo|\\$1 munutenn zo}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m zo"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Er miz-mañ|\\$1 miz zo}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s zo"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Er bloaz-mañ|\\$1 bloaz zo}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Distreiñ"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Distreiñ d'ar pennad"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Kemm distaolet"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "An holl bennadoù"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Ne c'haller ket dilemel ar roll-mañ"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "C'hwitet eo pellgardadur ar skeudennoù evit ar bajenn enrollet-se."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "O pellgargañ ar pennad..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Rolloù lenn"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Klask er pennadoù enrollet"
+    },
+    {
+      "name": "saved_title",
+      "value": "Enrollet"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Klask e Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Riñsañ"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Klask e Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Lemel an holl enklaskoù nevez"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ne c'hall ket an ober-mañ bezañ nullet !"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Lemel pep tra"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Enklaskoù nevez"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Adkaset eus:\\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Klask"
+    },
+    {
+      "name": "settings_account",
+      "value": "Kont"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Penndibaboù lenn"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Diverkañ ar roadennoù krubuilhet"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Diverkañ roadennoù krubuilhet a ziac'hubo war-dro \\$1 a blas. Ne ziverko ket ho pajennoù enrollet."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Diverkañ ar roadennoù krubuilhet ?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Nullañ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Goullonderiñ ar c'hrubuilh"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Ober un donezon"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Skoazell hag evezhiadennoù"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Diskwel ar yezhoù en enklask"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Ma yezhoù"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Kemennoù bountet"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Klask en-dro"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Pennañ"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Ar yezh kentañ er roll-mañ eo ar yezh implijet en arload."
+    },
+    {
+      "name": "settings_title",
+      "value": "Arventennoù"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" war Wikipedia:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” eus “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\neus “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Kaout an tuioù"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Rannañ…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "\"\\$1\" \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Digor e Kartennoù"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” dre Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” dre Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Ouzhpennet nevez zo"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titl"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Taolenn"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Serriñ"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Serriñ an daolenn"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Endalc'had"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Istitl \\$1"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 implijer·ez oberiant}}"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Dielloù"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Diwar-benn ar pejennoù kaozeal"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Cheñch yezh"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Lennet"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Anlennet"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Fazi dic'hortoz"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Un dra bennak a-dreuz a zo bet."
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Klask er bajenn"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Bezit jentil mar plij."
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Embannet eo bet ho respont gant berzh"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Titouroù ar bajenn"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 respont}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Respont"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Respont da \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Respont da \\$1"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Koumanantiñ"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Koumanantet oc’h!"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Kaozeadenn ar pennad"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Kaozeadenn an implijer"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Digoumanantiñ"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Digoumanantet oc’h."
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Degasadennoù"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Diell ebet kavet."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Dielloù"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Lenn muioc'h"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Ouzhpennet eo bet hoc'h evezhiadenn"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Kenderc'hel da aozañ"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Kemmañ ar vammenn"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Boulc’hañ ur gaozeadenn"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Deskrivadur"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Pajennoù kaozeal"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Strolladoù implijerien"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Marilhoù"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Kaozeal"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Du"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Teñval"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Dre ziouer"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Sklaer"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 lenner"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Ar re lennetañ"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Tuto"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Kenderc'hel da gevreañ"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Merkit ar c'hod gwiriañ dezhañ daou faktor"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Kevreañ d'ho kont"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Ober gant unan eus ho kodoù saveteiñ"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Ober gant ur c'hod gwiriekaat"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Dianav"
+    },
+    {
+      "name": "unwatch",
+      "value": "Paouez da evezhiañ"
+    },
+    {
+      "name": "user_title",
+      "value": "Implijer/ez"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Kenderc'hel"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Anv-implijer ha pajenn an implijer"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Diwallit"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nann, trugarez"
+    },
+    {
+      "name": "watch",
+      "value": "Evezhiañ"
+    },
+    {
+      "name": "watchlist",
+      "value": "Roll evezhiañ"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Gwelet ar roll-evezhiañ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 mizvezh"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 sizhunvezh"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 bloavezh"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Da viken"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 mizvezh"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 mizvezh"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Diverradenn eus ar c'hemmoù"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Klask ur pennad"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Silañ"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Oberiantiz ar roll-evezhiañ"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Robot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Den (n'eo ket ur robot)"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Talvoudegezh"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Kemmoù dister"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Kemmoù n'int ket dister"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Seurt kemm"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Kemmoù rummadoù"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Krouidigezhioù pajennoù"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Kemmoù pajennoù"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Kemmoù Wikidata"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Ouzhpennañ ur yezh..."
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Trugarekaat"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Degasadennoù an implijer"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Pajenn implijer"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Pajenn gaozeal an implijer"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Roadennoù & Prevezded"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "En deiz-mañ"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Kregiñ"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Hentoù nevez da vezañ ergerzhet"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Dibat evit"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Gouzout hiroc'h diwar-benn Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Diwar-benn Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "An Holloueziadur digor"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Ouzhpennañ ur yezh all"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Adtapout an alberz eus ho kemmoù"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Liamm diavaez"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Rakwel al liamm"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Enrollañ ar c'hemmoù"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Fazi gwiriañ Captcha"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Ezhomm gwiriañ captcha"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "N'haller ket termenañ disoc'h pellgargañ ar wikitestenn."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Oc'h embann..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Ar c'hemmoù a vo roet da chomlec'h IP hoc'h ardivink. M'ho peus \\$1 ho po muioc'h a zegasadennoù e kuzhut."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Termenoù implijout"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Peogwir ho peus lennet"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "An holl bennadoù lennet ar muiañ"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Ur pennad all dre zegouezh"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Eus %s Wikipedia"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "E %s Wikipedia"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Eus Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Istor ebet da ziskwel"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Kuzhat ar gartenn-mañ"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kartenn kuzhet"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Deskrivadur ar pennad evit %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "N'ho poa ket soñjet kentoc'h e : %s ?"
+    }
+  ]
+}

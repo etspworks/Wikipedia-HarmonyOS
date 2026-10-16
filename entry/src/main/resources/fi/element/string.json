@@ -1,0 +1,5924 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Sisältölisenssi"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Ellei toisin mainita, sisältö on saatavilla \\$1 -lisenssillä."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Nimeä-JaaSamoin -lisenssi"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Tekijät"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Käytetyt kirjastot"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Täydellinen luettelo"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisenssi"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Me rakastamme avoimen lähdekoodin ohjelmistoja \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Paikat-kartan lisenssi"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Paikat käyttää Apple Kartat -palvelun tarjoamia karttoja. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Lisenssitiedot"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1 yhdessä sinun kaltaistesi vapaaehtoisten avustamana"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Tietovarastot"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Lähdekoodi on saatavilla \\$1-lisenssin ehtojen mukaisesti."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Lähetä palautetta sovelluksesta"
+    },
+    {
+      "name": "about_title",
+      "value": "Tietoja"
+    },
+    {
+      "name": "about_translators",
+      "value": "Kääntäjät"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Käännöstyön tehneet vapaaehtoiset sivustolla \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia-säätiö"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Etkö näe kuvaa? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Ladataan uutta kuvavarmennusta..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Pyydä käyttäjätunnusta."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Kuvavarmennus"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Luo käyttäjätunnus"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Onko sinulla jo tunnus? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Kirjaudu sisään."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Kirjaudutaan..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Tunnuksen luomiseen vaaditaan käyttäjänimi, salasana ja salasanan vahvistus."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Salasanat eivät täsmää."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Tallennetaan..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Luo uusi käyttäjätunnus"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Oma käyttäjätunnus"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Hävitä käyttäjätunnus"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Oma keskustelusivu"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Allekirjoita automaattisesti"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Allekirjoita keskusteluviestit asetuksissa määritellyllä allekirjoituksella automaattisesti"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Keskustelusivujen asetukset"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Lisää..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Lisää lukulistaan"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Lisää listaan"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Peruuta"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Hylkää muutos"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Hylkää muutokset"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Etsi sivulta"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Jatka muokkaamista"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Vaihda kieli"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Siirrä kohteeseen..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Siirrä lukulistaan"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Seuraava versio"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Edellinen versio"
+    },
+    {
+      "name": "action_read",
+      "value": "Lue"
+    },
+    {
+      "name": "action_redo",
+      "value": "Tee uudelleen"
+    },
+    {
+      "name": "action_remove",
+      "value": "Poista"
+    },
+    {
+      "name": "action_retry",
+      "value": "Yritä uudelleen"
+    },
+    {
+      "name": "action_save",
+      "value": "Tallenna"
+    },
+    {
+      "name": "action_saved",
+      "value": "Tallennettu"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Tallennettu. Aktivoi poistaaksesi."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikkeli tallennettu myöhemmäksi"
+    },
+    {
+      "name": "action_share",
+      "value": "Jaa"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Jaa"
+    },
+    {
+      "name": "action_sort",
+      "value": "Lajittele"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Kiitä käyttäjää"
+    },
+    {
+      "name": "action_undo",
+      "value": "Kumoa"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Kumoa tallennus"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikkeli tallentamatta"
+    },
+    {
+      "name": "action_update",
+      "value": "Päivitä"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Paranna Wikipedia-artikkelin ymmärrettävyyttä hyväksymällä niihin ehdotettavia kuvia."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Lisää kuvia"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Muuta sanottavaa?"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|\\$1 katselukerta|\\$1 katselukertaa}}"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Tässä kuussa lukemasi artikkelit"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Artikkelit"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "Vaikutus koko ajalta"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Muokkaustilastot"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "Aktiviteettimoduulit on poistettu käytöstä. \\$1Ota ne käyttöön\\$2, niin näet päivitykset tällä välilehdellä."
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "Lukutilastot pohjautuvat asetuksissa valitsemiisi sovelluksen kieliin ja muokkaustilastot ensisijaiseen kieleesi. Tilastoissa hyödynnetään paikallista dataa, mutta muokkaustiedot ovat kuitenkin julkisia."
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "Viimeisin sovelluksen sisäinen lahjoitus"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "Voit ottaa tämän aktiviteetin tilastot käyttöön kirjautumalla sisään."
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "Lukutilastot"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "Lukemiseen käytetty aika"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "Käytöksesi aikajana"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[Näyttökuvat tai linkit]"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[Kuvaile ehdottamaasi ratkaisua]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [Kuvaile ongelmaa]"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "Ei mitään näytettävää"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Et ole tehnyt muokkauksia tällä viikolla. Aloita muokkauksiesi seuraaminen."
+    },
+    {
+      "name": "activity_tab_history_callout_body",
+      "value": "Voit selata lukuhistoriaasi tai poistaa sen **Haku-välilehdeltä**."
+    },
+    {
+      "name": "activity_tab_history_callout_body_loggedout",
+      "value": "Voit näyttää ja poistaa lukuhistoriasi **Haku-välilehdeltä**. Käyttäjätiliä ei tarvita."
+    },
+    {
+      "name": "activity_tab_hitory_callout_close",
+      "value": "Sulje historiailmoituskortti"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 h \\$2 min"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "WIKIPEDIA iOS:SSÄ"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "Vaikutus koko ajalta"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 päivä|\\$1 päivää}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "paras putki"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "viimeksi muokattu"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Viimeaikainen toimintasi (viimeiset 30 päivää)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "\\$1–\\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "kiitos"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Katselukertoja"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Kirjaudu sisään tai luo tunnus nähdäksesi toimintasi Wikipedia-sovelluksessa."
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Tyhjennä lukuhistoria"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "Katsotuimmat muokkauksesi jälkeen"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Neutraali"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Et ole tehnyt muokkauksia tällä viikolla. Voit parantaa artikkeleja lisäämällä kuvia."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Lukutottumukset"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "Valitse näytettävät moduulit. Kaikki henkilökohtaiset tiedot pidetään yksityisinä laitteellasi, ja voit poistaa selaushistoriasi milloin tahansa."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Pidä ohjat käsissäsi"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_title_updated",
+      "value": "Hakutoiminnossa hyödynnetään nyt lukuhistoriaa"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Näytä lukuhistoria"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Tyytyväinen"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Tässä kuussa tallennetut artikkelit"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Aloita muokkaaminen"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "Tyytyväisyyskysely"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "Lukemiseen käytetty aika tällä viikolla"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Toiminta"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "Suosituimmat luokat tässä kuussa"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "Muokkauksia yhteensä kaikissa hankkeissa"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Tyytymätön"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Erittäin tyytyväinen"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Erittäin tyytymätön"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Näytä muokkaushistoria"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Näytä lukuhistoria"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Näytä tallennetut artikkelit"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Viikko"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Muokkasit {{PLURAL:\\$1|\\$1 kerran|\\$1 kertaa}} tällä viikolla."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Olet lukenut {{PLURAL:\\$1|\\$1 artikkelin|\\$1 artikkelia}} tällä viikolla."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Olet tallentanut {{PLURAL:\\$1|\\$1 artikkelin|\\$1 artikkelia}} tällä viikolla."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Vaikutuksesi"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Lisää {{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}} lukulistaan"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Lisäasetukset"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Käytät tilapäistä tunnusta. Tunnus vanhenee 90 päivän päästä."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Lisätietoja"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Palaute lähetetty"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Sulje"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, viittaus, wiki, tietosanakirja, tieto, info, tutkimus, tutki, opi"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Täysin mukautettava ja helpommin luettava Tutki-syöte. Paikallistamista, suorituskykyparannuksia ja bugikorjauksia."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Wikipedia-sovelluksella voit tutkia lähistöllä olevia paikkoja, ladata artikkeleita luettavaksi ilman verkkoyhteyttä ja mukauttaa lukukokemusta mieleiseksesi."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Vapaa tietosanakirja"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Säädä artikkelien tekstin kokoa"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Laajenna taulukot"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Aseta kaikki taulukot (Pikafaktoja, Viitteet, Ilmoitukset ja Ulkoiset linkit) näytettävän oletuksena laajennettuna."
+    },
+    {
+      "name": "appearance_settings_icon_contributor_title",
+      "value": "Muokkaaja"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Pienennä kuvien sameutta tummassa ja mustassa teemassa"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Lukuteema"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Luetteloasetukset"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "Muokkaajakuvakkeessa juhlistetaan sovelluksessa vuonna 2025 tekemiäsi muokkauksia Wikipediaan. Se pysyy näkyvissä seuraavaan vuosikatsaukseen asti."
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "Sovelluskuvake"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Muuta artikkelin tekstin kokoa vetämällä liukusäädintä. Sovelluksen käyttöliittymän tekstin kokoa muutetaan käyttöjärjestelmän asetuksista."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Teeman asetukset"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Tietoa tästä artikkelista"
+    },
+    {
+      "name": "article_delete",
+      "value": "Poista"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikkeli|artikkelia}} poistettu"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Muokkausten näyttäminen epäonnistui, aikakatkaisu. Tarkastele muutoksia myöhemmin palaamalle tälle sivulle."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Hae kieliä"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Valitse kieli"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Muut kielet"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Omat kielet"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Samankaltaisia artikkeleita"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Lähde \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "Palaa artikkeliin \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Artikkelin versiohistoria"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Sinulla ei ole tarpeeksi tilaa laitteessasi artikkelin tallentamiseen"
+    },
+    {
+      "name": "article_share",
+      "value": "Jaa"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "Artikkelivälilehdet"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "Voit avata useita artikkeleja ja siirtyä helposti niiden välillä."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "Selaa välilehdillä"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "Välilehdet muistavat sivun kohdan automaattisesti."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "Voit jatkaa siitä, mihin jäit"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "Voit avata linkkejä taustavälilehdillä menettämättä paikkaasi sivulla."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "Tallenna linkkejä myöhempään käyttöön"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_subtitle",
+      "value": "Valitse, haluatko näyttää hauskoja faktoja tai lukusuosituksia, kun avaat uuden välilehden."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "Mukauta uudet välilehdet"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "Lisätietoja välilehdistä"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "Esittelyssä välilehdet"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "Välilehtien enimmäismäärä (\\$1) saavutettu. Artikkeli avattiin nykyisessä välilehdessä. Sulje yksi tai useampia välilehtiä."
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Välilehtiselailu"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "Välilehtien työkaluvinkit uusille käyttäjille"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Avaa"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "Avaa välilehti taustalle"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Avaa uudessa välilehdessä"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Artikkelin keskustelusivu"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Lukuteemojen ohjaimet"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Tilapäinen tunnus \\$1 luotiin muokkauksesi julkaisun yhteydessä. Se vanhenee 90 päivän päästä."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Tilapäinen tunnus luotu"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Takaisin"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Napauta palataksesi"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Takaisin"
+    },
+    {
+      "name": "button_next",
+      "value": "Seuraava"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Julkaise"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Julkaise silti"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Ilmoita ongelmasta"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Tallenna myöhemmäksi"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Tallennettu myöhemmäksi"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Poista tallennetuista"
+    },
+    {
+      "name": "button_skip",
+      "value": "Ohita"
+    },
+    {
+      "name": "cancel",
+      "value": "Peruuta"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Wikipedia-sovellus tukee nyt seuraavia kiinan kielen variantteja pääasiallisena tai toissijaisena sovelluksen kielenä, mikä tekee helpommaksi lukea, hakea ja muokata haluamallasi variantilla:\n\n简体 yksinkertaistettu kiina (zh-hans)\n香港繁體 Hong Kongin perinteinen kiina (zh-hk)\n澳門繁體 Macaon perinteinen kiina (zh-mo)\n大马简体 Malesian yksinkertaistettu kiina (zh-my)\n新加坡简体 Singaporen yksinkertaistettu kiina (zh-sg)\n臺灣正體 Taiwanin perinteinen kiina (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Päivityksiä kiinan kielen kieliversiotukeen"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Tyhjennä"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Välimuistin tyhjennys on valmis."
+    },
+    {
+      "name": "clearing_cache_error",
+      "value": "Virhe välimuistia tyhjennettäessä."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Väliuistin tyhjennys on käynnissä."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Sulje kaikki välilehdet"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Haluatko sulkea kaikki \\$1 välilehteä? Tätä toimintoa ei voi perua."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Suljetaanko kaikki \\$1 välilehteä?"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "Haluatko sulkea {{PLURAL:\\$1|\\$1 välilehden|\\$1 välilehteä}}? Tätä toimintoa ei voi perua."
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "Suljetaanko {{PLURAL:\\$1|\\$1 välilehti|\\$1 välilehteä}}?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Sulje"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Sulje muut välilehdet"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Suljetaanko välilehti?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Sulje välilehdet"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1| \\$1 välilehti| \\$1 välilehtiä}} suljettu."
+    },
+    {
+      "name": "collect_prize_title",
+      "value": "Nouda palkintosi!"
+    },
+    {
+      "name": "compass_direction",
+      "value": "klo \\$1"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Tämä koskee vain tältä laitteelta tehtyjä lahjoituksia."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Vahvista poisto"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Paikalliset historiatiedot poistettu"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Jatka"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Tutki Wikipediaa löytääksesi lisää luettavia artikkeleja"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ei äskettäin luettuja artikkeleja"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "Muokkaukset tässä kuussa"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Mukauta"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Päivitetään..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Lisää kuvaus"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "Osien järjestys muokkausnäkymässä on erilainen kuin artikkelinäkymässä."
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Artikkelin kuvaus \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Muuttamalla artikkelin kuvausta hyväksyn \\$1 ja peruuttamattomasti julkaisen muutokseni \\$2 -lisenssillä."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Muokkaa esittelyä"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Muokkaa artikkelin kuvausta"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Lyhyet kuvaukset ovat parhaita"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Julkaise kuvaus"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Muokkaa kuvausta"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Yritä pitää kuvaus lyhyenä, jotta käyttäjät ymmärtäisivät artikkelin aiheen yhdellä silmäyksellä"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Älä kirjoita muita sanoja kuin erisnimiä isolla alkukirjaimella, vaikka ne ovatkin lauseen alussa."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Tilapäinen tunnus \\$1 luotiin muokkauksesi julkaisun yhteydessä. Se vanhenee 90 päivän päästä."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Lyhyt kuvaus tiivistää artikkelin aiheen ja auttaa hahmottamaan sen sisällön nopeasti."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Tietoja"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Tietoja Wikidatasta"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Kuvaukset tallennetaan Wikidataan. Se on Wikimedia-säätiön ylläpitämä vapaasti muokattava monikielinen tietokanta, joka toimii Wikipedian ja muiden wikiprojektien tukena."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Lisää tietoa"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Kuvauksen tulisi mahtua yhdelle riville eli olla 2-12 sanan pituinen."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Mona Lisaa käsittelevän artikkelin kuvaus"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Mount Everestiä käsittelevän artikkelin kuvaus"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo da Vincin maalaus"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Maapallon korkein vuori"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Esimerkkejä:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Vinkkejä kuvauksen luomiseen"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Artikkelin kuvauksen ohje"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Wikidata-opas kuvausten kirjoittamiseen"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Valmis"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Teit juuri Wikipediasta paremman kaikille"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Kuvaus julkaistu!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Ideaalisesti yksi rivi, kahdesta kahteenkymmeneen sanaan"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Pidä kuvaus lyhyenä"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Artikkelin yhteenveto helpottaa sisällön hahmottamista nopealla vilauksella"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Artikkelin kuvaukset"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Aloittamalla lupaan, etten väärinkäytä tätä toimintoa"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Aloita muokkaaminen"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "Pakota sähköpostitodennus"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Kehittäjien asetukset"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "Ohita lahjoitus"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "Ota vuosikatsaus käyttöön"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "Lähetä analytiikka wmflabsille."
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Artikkelin versiohistoria"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Lisäys, \\$1, lisäyksen loppu."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Kappaletta siirretty {{PLURAL:\\$1|0=0 riviä|\\$1 rivi|\\$1 riviä}} alaspäin. Siirry uuteen sijaintiin."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Kappaletta siirretty {{PLURAL:\\$1|0=0 riviä|\\$1 rivi|\\$1 riviä}} ylöspäin. Siirry uuteen sijaintiin."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Kappaletta siirretty. Siirry edelliseen sijaintiin."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Kappaletta siirretty {{PLURAL:\\$1|0=0 osiota|\\$1 osio|\\$1 osiota}} alaspäin. Siirry uuteen sijaintiin."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Kappaletta siirretty {{PLURAL:\\$1|0=0 osiota|\\$1 osio|\\$1 osiota}} ylöspäin. Siirry uuteen sijaintiin."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Poisto, \\$1, poiston loppu."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Edellinen muokkaus"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Versioiden vertailu"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Näkyvä muokkaus"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Versioiden vertailu"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Sisältöä lisätty, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Sisältöä poistettu, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Tiivistä \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Laajenna \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Näytä"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Piilota"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Versio, joka on tehty"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Rivit \\$1-\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Kappale siirretty"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "alas"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "ylös"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 rivi|\\$1 riviä}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 kappale|\\$1 kappaletta}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Kappale siirretty \\$2 \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Versiohistorian näyttäminen epäonnistui"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Palauta"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Kumotaanko muokkaukset?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Kumoa muokkaukset"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Muokkaukset kumottu."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 muokkaus|\\$1 muokkausta}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Muokkaajan tiedot"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 tavu lisätty|\\$1 tavua lisätty}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 tavu poistettu|\\$1 tavua poistettu}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Muokkausyhteenveto"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Intro"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Rivi \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonyymeille käyttäjille ei voi lähettää kiitoksia"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Kiitoksen lähettäminen on helppo tapa arvostaa toisen käyttäjän panosta Wikipedian kehittämiseen. Sinun on oltava kirjautunut sisään."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Kirjaudu sisään lähettääksesi kiitokset"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Lähetä kiitokset"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Kiitoksen lähettäminen on helppo tapa arvostaa toisen käyttäjän panosta Wikipedian kehittämiseen. Toimintoa ei voi perua, ja kiitokset ovat julkisesti nähtävillä."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Lähetä julkinen kiitos"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Kiitoksesi käyttäjälle \\$1 lähetetty"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Olet jo lähettänyt kiitokset tälle muokkaukselle"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Kiitoksen lähettämistä ei voi kumota"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Asiayhteysrivi, muuttumaton: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Tämä kumoaa tässä näytettävien versioiden tekemät muutokset artikkeliin. Jatkaaksesi anna syy tämän muokkauksen kumoamiseen."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Versio kumottiin."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 rivi ilman muutoksia|\\$1 riviä ilman muutoksia}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Kaksoisnapauta avataksesi valikon"
+    },
+    {
+      "name": "dim_images",
+      "value": "Himmennä kuvia"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Kaksoisnapauta valitaksesi lahjoituksen määrän."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Lahjoita \\$1 Wikimedia-säätiölle kaksoisnapauttamalla."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Anna kaksoisnapautuksella Wikimedia-säätiölle lupa lähettää sinulle sähköpostia."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Anna mukautettu lahjoitussumma."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Lisää tapahtuman käsittelymaksu lahjoitussummaan kaksoisnapautuksella."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Kiitos lahjoituksestasi! Anteliaisuutesi auttaa Wikipediaa ja sen vapaan tiedonsaannin hankkeita menestymään."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple ei vastaa rahankeräyksestä tähän tarkoitukseen."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Kyllä, Wikimedia-säätiö saa toisinaan lähettää minulle sähköpostia."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Usein kysytyt kysymykset"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Muut tavat antaa"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Ongelmia lahjoittamisessa?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Verovähennystiedot"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "Poista paikallinen lahjoitushistoria"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Muistutamme sinua jälleen huomenna."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Valitse summa (vähintään \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Tee tästä kuukausittainen toistuva lahjoitus."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Lahjoita Apple Paylla"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Lahjoita Apple Paylla tai valitse toinen maksutapa."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Muu maksutapa"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Lahjoitetaanko Apple Paylla?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Anteliaisuutesi merkitsee meille niin paljon."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Kiitos!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Valitse summa"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Lisään avokätisesti \\$1 kattamaan siirtokulut, jotta voitte pitää 100 %% lahjoituksestani."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "Monista välilehti"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Näytä teksti"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Linkin kohde"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Poista linkki"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Muokkaa linkkiä"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Muokkaa"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Valittu teksti ei ole ehkä muokattavissa (esimerkiksi artikkelin tai tietolaatikon otsikot) tai olla liian pitkä."
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Valittua tekstiä ei löytynyt"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Lue lisää pienistä muutoksista"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Tämä on pieni muutos"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Muokkausilmoitukset"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Näytä aina muokkausilmoitukset"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Lue ennen muokkaamista"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Kaikki sisältö näytetään yksinkertaistetussa muodossa."
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "Ilmoitus tilapäisestä tunnuksesta"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Näytä verkkoesikatselu"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Lisää muokkausyhteenveto"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Lisätty kuva"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Lisätty kuva ja kuvateksti"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Kielioppia korjattu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Korjattu kirjoitusvirhe"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Lisätty linkkejä"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Miten paransit artikkelia?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Lyhyt kuvaus lisätty"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Päivitetty lyhyt kuvaus"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Lue lisää omista tarkkailulistoista"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Tarkkaile tätä sivua"
+    },
+    {
+      "name": "edited_article",
+      "value": "Muokattu"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Muokkaa rohkeasti, mutta älä holtittomasti. Älä epäröi virheiden tekemistä, sillä yhteisömme voi tarvittaessa helposti palauttaa edellisen version."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Äänesi on tärkeä"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Kaikki sisältö on oltava vahvistettavissa. Artikkeliin kirjoitettaville väitteille tulisi lisätä lisätä luotettava lähde, jossa väitteen sisältö todetaan."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Viittaa luotettaviin lähteisiin"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Artikkelin sävyn on oltava neutraali. Pyri kirjoittamaan tasapuolisesti luotettavien lähteiden kuvailuja mukaillen."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Kirjoita puolueettomaan sävyyn"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Tarvitsemme sinua lukemaan, kirjoittamaan ja parantamaan sinua kiinnostavia aiheita, jotta voisimme tarjota kaikille maailman parasta tietoa."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Vapauta tieto"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Muokkauksesi julkaistiin."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Muokkaa wikitekstiä"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Poistutaanko muokkaustilasta julkaisematta muutoksia?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Hylätäänkö muokkaus?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Piilota muokkaustila?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Tyhjennä haku"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Sulje haku"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Ei hakutuloksia"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Seuraava hakutulos"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Edellinen hakutulos"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Etsi"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Lihavointi"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Sulje tekstinmuotoiluvalikko"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Kommentti"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Otsikko"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Pienennä sisennystä"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Suurenna sisennystä"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursivointi"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Linkki"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Järjestetty luettelo"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Järjestämätön luettelo"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Kappale"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Lähde"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Yliviivaus"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Alaotsikko 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Alaotsikko 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Alaotsikko 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Alaotsikko 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Alaindeksi"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Yläindeksi"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Malline"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Tekstin muotoilu"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Alleviivaus"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Korvaa"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Korvaa seuraavalla..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Korvaa kaikki"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Korvaa"
+    },
+    {
+      "name": "editor_title",
+      "value": "Muokkain"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Lihavoitu teksti"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Siirrä kohdistin seuraavalle riville."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Siirrä kohdistin seuraavaan merkkiin."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Siirrä kohdistin edelliseen merkkiin."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Siirrä kohdistin edelliselle riville."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Etsi sivulta"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Kursivoitu teksti"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "muokkaukset viime kuussa"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "muokkaukset tässä kuussa"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Ei eroavaisuuksia versioiden välillä"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Näkyviä muutoksia ei tehty"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Tyhjä muokkausyhteenveto"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Valitse tiedosto"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Pahoittelut, artikkelia ei voitu ladata"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Voit silti lukea tallennettuja sivuja"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Näet suositellut artikkelisi kun sinulla on Internet-yhteys"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Pidä kirjaa lukemistasi artikkeleista"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ei näytettävää historiaa"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Artikkelia ei ole vielä kirjoitettu muilla kielillä."
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Muita kieliä ei saatavilla"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Luo lukulistoja matkustettaville paikoille, suosikkiartikkeleille ja paljon enemmän"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Järjestä tallennetut artikkelit lukulistoilla"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Tallenna sivuja tähän listaan nähdäksesi ne täällä"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Ei sivuja tallennettuna tähän listaan"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Tallenna sivuja tarkastellaksesi niitä myöhemmin myös yhteydettömässä tilassa"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Ei vielä tallennettuja sivua"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Tuloksia ei löytynyt"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Käyttäjälle ei ole lähetetty viestejä"
+    },
+    {
+      "name": "end_session",
+      "value": "Lopeta istunto"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Yritä myöhemmin uudelleen"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Tapahtui tuntematon virhe"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Toinen satunnainen sivu"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Aiemmin lukemasi perusteella"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Muut liittyvät artikkelit"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Jatka lukemista"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Takaisin Tutki-syötteeseen"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Tutki artikkeleita lähellä nykyistä sijaintisi"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Suositeltu artikkeli"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Wikipedian kieliversiosta \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Wikipediasta"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Mukauta"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Tutki-syötteen kieliasetukset"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Valitse käytettävissä olevat kielet Omat kielet -näkymästä."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kortti piilotettu"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Pikalinkki takaisin avoimeen artikkeliin"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Mukauta Tutki-syötettä"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Mukauta Tutki-syötettä"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Tämän korttityypin piilottaminen lopettaa niiden tarjoamisen Tutki-syötteeseen."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Tutki-välilehti"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Suositeltu artikkeli Wikipediassa"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Pois käytöstä"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Kaikilla"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Käytössä"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 kielellä"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Kaikki \\$1 korttia piilotettu"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Tämä kortti ei ole kielikohtainen, ja sen poistaminen käytöstä poistaa sen Tutki-syötteestäsi."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Ei-kielikohtaiset tietyt kortit"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Kielestä riippumaton"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globaalit kortit"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Piilota tämä kortti"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Piilota kaikki \\$1-kortit"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikkelit ajankohtaisista tapahtumista"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Kaikkien Tutki-syötekorttien poistaminen käytöstä kaikilla kielillä poistaa Tutki-välilehden käytöstä."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Aiempina vuosina tälle päivämäärälle osuneita tapahtumia"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedia-artikkelit lähellä sijaintiasi"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Päivän suositeltu kuva Commonsista"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Tuota satunnaisia ​​artikkeleita luettavaksi"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Lukuhistoriaan perustuvat ehdotukset"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Näytä \"Jatka lukemista\" -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Suositeltu artikkeli -kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Näytä Suositeltu artikkeli -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Uutisissa-kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Näytä Uutisissa-kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Tänä päivänä -kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Näytä Tänä päivänä -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Näytä Päivän kuva -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Paikat-kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Näytä Paikat-kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Satunnaistaminen-kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Näytä Satunnaistaminen-kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Näytä Aiemmin lukemasi perusteella -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Luetuimmat-kortin poistaminen käytöstä poistaa sen käytöstä kaikilla kielillä."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Näytä Luetuimmat-kortti"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Ehdotuksia sisällön lisäämiseksi Wikipediaan"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Näytä Ehdotetut muokkaukset -kortti"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Päivittäin eniten luetut artikkelit"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Poista Tutki-syöte käytöstä"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Kaikkien Tutki-syötteen korttien piilottaminen poistaa näkymän kokonaan ja korvaa sen Asetukset-näkymällä"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Poistetaanko Tutki-syöte käytöstä?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Poista Tutki-välilehti käytöstä"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Tutki-välilehti voidaan ottaa uudelleen käyttöön Tutki-syötteen asetuksissa"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Poista Tutki-välilehti käytöstä"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Tutki-välilehden poistaminen käytöstä korvaa sen Asetukset-välilehdellä."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Valitsemalla Tutki-syötteen kortteja otat Tutki-näkymän käyttöön"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Ota Tutki-välilehti käyttöön"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Asetukset-painike korvataan Tutki-painikkeella, Asetuksiin pääsee napauttamalla mutterin kuvaketta Tutki-näkymän ylälaidasta"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Ota käyttöön Tutki-välilehti?"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "Pelit"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Piilota tämä kortti"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Wikimedia projektin etusivu"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Tänään Wikipediassa"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Kaikki luetuimmat artikkelit"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Luetuimmat"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Parhaimmistoa \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Wikipedian kieliversiossa \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Wikipediassa"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Lähistön paikat"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Paikat"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Wikipedian kieliversiosta \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Wikipediasta"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Sijaintisi"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Sijaintisi kieliversion \\$1 Wikipediassa"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Päivän kuva"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Wikimedia Commonsista"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Satunnainen artikkeli"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Wikipedian kieliversiosta \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Wikipediasta"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Satunnaistaminen"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Lisää"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Lisää ehdotettuja kuvia Wikipedian artikkeleihin parantaaksesi niiden ymmärrettävyyttä."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Lisää kuva"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "Tutustu Wikipediaan"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Jaetaanko sovelluskirjasto?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Tietojesi viennissä tapahtui virhe. Yritä uudelleen myöhemmin."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Laitteessasi ei ole tarpeeksi tilaa käyttäjätietojen viemiseen. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Vie käyttäjätiedot"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Suositeltu artikkeli ei ole saatavilla tälle päivälle."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Löydä parhaat Wikipedian artikkelit, joita yhteisömme valitsee päivittäin."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Wikipedian kieliversiosta \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Wikipediasta"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Ensisijainen Wikipedia-kielesi ei tue Suositeltua artikkelia. Voit päivittää Wikipedian asetuksia sovelluksen asetuksista."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Suositeltu artikkeli"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Jotain meni pieleen. Yritä uudelleen myöhemmin"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Sovellus vastaanotti odottamattoman vastauksen palvelimelta. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Virheellinen kuvavarmennuksen vastaus"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Salasanat eivät täsmää"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Koodi ei kelpaa"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Käyttäjänimi ei ole saatavilla"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Varmuuskopiointikoodi"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "Sähköpostitettu koodi"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Kuvavarmennuksen teksti"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Kirjoita yllä oleva teksti"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "esimerkki@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Sähköposti"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Sähköpostiosoite (valinnainen)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "anna uusi salasana uudelleen"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Vahvista uusi salasana"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "anna uusi salasana"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Uusi salasana"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "anna salasana uudelleen"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Vahvista salasana"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "anna salasana"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Salasana"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Vahvistuskoodi"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "anna käyttäjänimi"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Käyttäjänimi"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Kaikki"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Tyhjennä etsintä"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Seuraava hakutulos"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Edellinen hakutulos"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Etsi ja korvaa"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Sulje etsi ja korvaa"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Etsi"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Palauta"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Sähköposti salasanan palautusohjeiden kanssa lähetetty."
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Saat ohjeet salasanan palauttamiseen sähköpostitse täytettyäsi yhden alla olevista kentistä"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Salasanan palauttaminen"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "tai"
+    },
+    {
+      "name": "games_email_report_body_encountered",
+      "value": "Olen havainnut seuraavan ongelman Wikipedian pelitoiminnossa:"
+    },
+    {
+      "name": "games_wcf_explore_title",
+      "value": "Kumpi tapahtui ensin?"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Päivityksiä Gan-version tukeen"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Tyhjennetäänkö historia?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Kyllä, poista kaikki"
+    },
+    {
+      "name": "history_title",
+      "value": "Historia"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, palaa Tutki-sivulle"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, palaa Tallennettu-sivulle"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Yhteisö"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "Lisää tai muokkaa kieliä"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_subtitle",
+      "value": "Valitsemiisi aiheisiin mukautettuja artikkeleita."
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_title",
+      "value": "Kiinnostuksenkohteidesi perusteella"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_subtitle",
+      "value": "Hiljattain lukemaasi artikkeliin perustuvia ehdotuksia"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_title",
+      "value": "Aiemmin lukemasi perusteella"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "Palaa artikkeleihin, joita et ole lukenut loppuun"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_title",
+      "value": "Jatka lukemista"
+    },
+    {
+      "name": "home_feed_for_you_settings_header",
+      "value": "Moduulin poistaminen käytöstä piilottaa sen Sinulle-syötteestäsi. Voit ottaa sen uudelleen käyttöön milloin tahansa täällä."
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "Moduulit"
+    },
+    {
+      "name": "home_feed_interests_settings_empty_message",
+      "value": "Kiinnostuksenkohteesi näkyvät täällä"
+    },
+    {
+      "name": "home_feed_interests_settings_title",
+      "value": "Kiinnostuksenkohteesi"
+    },
+    {
+      "name": "home_feed_modules_featured_article_subtitle",
+      "value": "Suositellut artikkelit ovat Wikipedian korkealaatuisimpia artikkeleita, ja ne ovat muokkaajien valitsemia"
+    },
+    {
+      "name": "home_feed_modules_featured_article_title",
+      "value": "Suositeltu artikkeli"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_subtitle",
+      "value": "Artikkelit, joita on päivitetty vastaamaan äskettäisiä tai ajankohtaisia tapahtumia"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "Uutisissa"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "Tänä päivänä tapahtuneita historiallisia tapahtumia"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "Tänä päivänä"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_subtitle",
+      "value": "Päivittäin vaihtuvia kuvia Wikimedia Commonsista vapaaehtoisten muokkaajien valitsemina"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_title",
+      "value": "Päivän kuva"
+    },
+    {
+      "name": "home_feed_modules_settings_header",
+      "value": "Moduulin poistaminen käytöstä piilottaa sen Yhteisö-syötteestäsi. Voit ottaa sen uudelleen käyttöön milloin tahansa täällä. Jotkin moduulit eivät ehkä ole saatavilla kielelläsi."
+    },
+    {
+      "name": "home_feed_modules_settings_title",
+      "value": "Moduulit"
+    },
+    {
+      "name": "home_feed_modules_top_read_subtitle",
+      "value": "Mikä Wikipediassa on suosittua tänään"
+    },
+    {
+      "name": "home_feed_modules_top_read_title",
+      "value": "Luetuimmat"
+    },
+    {
+      "name": "home_feed_settings_community_modules_subtitle",
+      "value": "Ota Yhteisö-syötteen moduuleja käyttöön tai pois käytöstä"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "Yhteisö"
+    },
+    {
+      "name": "home_feed_settings_for_you_modules_subtitle",
+      "value": "Ota Sinulle-syötteen moduuleja käyttöön tai pois käytöstä"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "Sinulle"
+    },
+    {
+      "name": "home_feed_settings_modules_title",
+      "value": "Moduulit"
+    },
+    {
+      "name": "home_feed_settings_title",
+      "value": "Mukauta etusivun syöte"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_subtitle",
+      "value": "Artikkelit ja aiheet, jotka vaikuttavat syötteesi sisältöön"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_title",
+      "value": "Mihin syötteesi perustuu"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_subtitle",
+      "value": "Muokkaa ensisijaisia kieliäsi"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_title",
+      "value": "Kielet"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_subtitle",
+      "value": "Selaa hiljattain lukemiasi artikkeleita"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "Lukuhistoria"
+    },
+    {
+      "name": "home_feed_whats_driving_settings_header",
+      "value": "Nämä artikkelit ja aiheet vaikuttavat Sinulle-syötteesi sisältöön. Voit poistaa aiheita, joita et enää halua seurata, tai lisätä uusia kiinnostuksenkohteita."
+    },
+    {
+      "name": "home_feed_whats_driving_settings_title",
+      "value": "Mihin syötteesi perustuu"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_subtitle",
+      "value": "Muokkaa kiinnostuksenkohteitasi"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_title",
+      "value": "Kiinnostuksenkohteesi"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "Sinulle"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Vastaavia artikkeleita kuin \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Lisää lähelläsi olevia paikkoja"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Lähistöllä: \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Lisää ajankohtaisia tapahtumia"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Tallennetut artikkelisi voidaan nyt järjestää lukulistoihin ja synkronoida laitteiden välillä. Ota lukulistojen tallentumisen käyttöön käyttäjäasetuksissa kirjautumalla sisään."
+    },
+    {
+      "name": "home_tab_title",
+      "value": "Etusivu"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Hallinnoi asetuksia"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Mukauta lukukokemusta sinulle sopivaksi muuttamalla tekstin kokoa ja teemaa artikkelipalkista tai sovelluksen asetuksista."
+    },
+    {
+      "name": "home_title",
+      "value": "Tutki"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, selaa Tutki-syötteen alkuun"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Lähellä olevat artikkelit"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Satunnainen artikkeli"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Etsi Wikipediasta"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Tuntematon tekijä."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Lisätäänkö kuva?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Palaa myöhemmin takaisin."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Ehdotettuja kuvia ei saatavilla enempää."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Jotain meni vikaan."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Sivua ei voi ladata"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Päätä, tulisiko ehdotettu kuva lisätä Wikipedia-artikkeliin."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "Tutustu ehdotukseen"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "Ehdotukset ovat koneen laatimia, ja sinun tulee käyttää omaa harkintaasi päättääksesi, hyväksytkö vai hylkäätkö ne."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "Hyväksy tai hylkää kuva"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "Kuvat ovat peräisin Wikimedia Commonsista, joka on kokoelma vapaasti lisensoituja kuvia Wikipediassa käytettäväksi."
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Lisensoituja kuvia"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Lisätietoa ehdotetuista muokkauksista"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "Lisää kuva artikkeliin"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Vastauksesi parantavat tulevia ehdotuksia."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Valitse yksi tai useampi vaihtoehto"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Kuva ei liity aiheeseen"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Ei riittävästi tietoa päätöstä varten"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Kuva on loukkaava"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Kuva on heikkolaatuinen"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "En tunne tätä aihetta"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Muu"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Lähetä"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Syy"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Lisää kuva"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Ymmärrä aihepiiri paremmin tutustumalla artikkeliin."
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Tutustu"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "Tarkista kuva ja sen tiedot."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Tarkista"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "Päätä, auttaako kuva lukijoita ymmärtämään tätä aihetta paremmin."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Päätä"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Näytä artikkeli"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "Olen havainnut ongelman Lisää ehdotettu kuva -toiminnossa:"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Ei"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Epävarma"
+    },
+    {
+      "name": "image_recs_time_warning_message",
+      "value": "Ymmärrä aihepiiri paremmin tutustumalla artikkeliin ja tarkista kuva"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Kyllä"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Oma lukulista"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Vastaa kyselyyn"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "Lukulistojen jakaminen on testiominaisuus, jonka kehittämiseen tarvitsemme palautettasi"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Voisitko auttaa meitä parantamaan lukulistojen jakamista?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Tuo jaettu lukulista"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Wikipedian kieliversiossa \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Wikipediasta"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Uutisissa"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Lisää"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Lisää linkki"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Tekstin kuvaus lukijoille, jotka eivät näe kuvaa"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Kuvaile tätä kuvaa"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Vaihtoehtoinen teksti"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Kuinka tämä kuva liittyy artikkeliin?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Tunniste, joka näkyy kohteen vieressä kaikille lukijoille"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Kuvateksti"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Keski"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Vasen"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ei mitään"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Oikea"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Kuvan sijainti"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Lisätietoja"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Valitse kuva"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Mukautettu"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Oletus"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Korkeus"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Leveys"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Kuvan koko"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Normaali"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Kehys"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Kehyksetön"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Pienoiskuva"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Kuvan tyyppi"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Media-asetukset"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Lisää media"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Wikipedia-sovellus tukee nyt seuraavia inuktitut-muunnelmia ensi- tai toissijaisina kielinä sovelluksessa, mikä helpottaa lukemista, etsimistä ja muokkaamista näillä versioilla:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, tavumerkistö (ike-cans)\nInuktitut ilisautik, Inuktitut, latinalaiset aakkoset (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Päivitykset Inuktitut-varianttien tukeen"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "Jatka kirjautumatta"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "Kirjaudu sisään tai luo tunnus"
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "Kun julkaiset muokkauksen, sinulle luodaan tilapäinen tunnus."
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Et ole kirjautunut sisään"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Wikipedia-sovellus tukee nyt seuraavia kazakin muunnelmia ensi- tai toissijaisina kielinä sovelluksessa, mikä helpottaa lukemista, etsimistä ja muokkaamista näillä versioilla:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, kyrillinen kirjaimisto (kk-cyrl)\nqazaqşa latina kazakstani, latinalainen kirjaimisto (kk-latn)\nتوتە قازاقشا Kazakh, arabialainen kirjaimisto (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Päivitykset kazakin varianttien tukeen"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Wikipedia-sovellus tukee nyt seuraavia kurdin muunnelmia ensi- tai toissijaisina kielinä sovelluksessa, mikä helpottaa lukemista, hakua ja muokkaamista näillä versioilla:\n\nKurdî Latînî Kurdish, latinalainen kirjaimisto (ku-latn)\nكوردی Kurdish, arabialainen kirjaimisto (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Päivitykset kurdin varianttien tukeen"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Kielet"
+    },
+    {
+      "name": "languages_title",
+      "value": "Kielenvaihto"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipedian kielet"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Lisätietoja"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Jatka kirjautumatta"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Kirjaudu takaisin käyttäjätunnuksellesi"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Tunnistauduttaessa tapahtui virhe. Kirjaudu takaisin sisään synkronoidaksesi lukulistasi sekä muokataksesi käyttäjätunnuksellasi."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Olet kirjautunut ulos"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Unohditko salasanasi?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Liity Wikipediaan."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Eikö sinulla vielä ole käyttäjätunnusta? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Kirjaudu sisään käyttäjätunnuksellesi"
+    },
+    {
+      "name": "looking_for_something_new",
+      "value": "Etsitkö uutta luettavaa?"
+    },
+    {
+      "name": "looks_like_you_havent_made_an_edit",
+      "value": "Et ole ilmeisesti muokannut mitään tässä kuussa. Lisää vapaasti saatavilla olevaa tietoa muokkaamalla itsellesi tärkeitä aiheita käsitteleviä artikkeleja."
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Tietoja sovelluksesta"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Kirjaudu sisään"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Kirjaudu ulos"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Kirjaudutaanko ulos?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Uloskirjautuminen poistaa paikallisesti tallennetut tunnustietosi (ilmoitukset ja viestit), mutta tunnuksesi tiedot ovat silti käytettävissä verkossa ja ne ladataan uudelleen mikäli kirjaudut takaisin sisään."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Olet kirjautunut käyttäjänä \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Tietosuoja ja Ehdot"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Lähistöllä"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Tietosuojakäytäntö"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Arvostele sovellus"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Käyttöehdot"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Lisää"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Usein kysyttyjä kysymyksiä Wikipedia Zerosta"
+    },
+    {
+      "name": "main_page",
+      "value": "Etusivu"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "{{PLURAL:\\$1|\\$1 tavu|\\$1 tavua}} lisätty"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_subtitle_updated",
+      "value": "Vapaaehtoiset tekivät {{PLURAL:\\$1|\\$1 muutoksen|\\$1 muutosta}} yli {{PLURAL:\\$2|\\$2 eri kieliversioon}} Wikipediassa. Englanninkieliseen Wikipediaan tehtiin {{PLURAL:\\$3|\\$3 muutos|\\$3 muutosta}}. Joka päivä, joka tunti, vapaaehtoiset työskentelevät parantaakseen Wikipediaa."
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "Muokkaajat tekivät tänä vuonna {{PLURAL:\\$1|\\$1 muutoksen|\\$1 muutosta}}"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "Ihmiset viettivät arviolta {{PLURAL:\\$1|\\$1 tunti|\\$1 tuntia}} – noin {{PLURAL:\\$2|\\$2 vuosi|\\$2 vuotta}}! – englanninkielisen Wikipedian lukemiseen vuonna \\$3. Wikipedia on palveluksessasi, kun haluat oppia lisää muuttuvasta maailmasta, voittaa vedon ystävien kesken tai vastata uteliaan lapsen kysymykseen."
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "Aktiivisilla apin käyttäjillä oli tänä vuonna {{PLURAL:\\$1|\\$1 tallennettu artikkeli|\\$1 tallennettuja artikkeleita}}. Artikkelien lisääminen lukulistoihin mahdollistaa artikkelien käytön myös ilman Internet-yhteyttä. Voit myös synkronoida lukulistoja eri laitteiden välillä."
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "Meillä oli {{PLURAL:\\$1|\\$1 tallennettu artikkeli|\\$1 tallennettuja artikkeleita}}"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "Englanninkielisen Wikipedian luetuimmat artikkelit"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Hae Wikipediasta yli 300 kielellä"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Lisää kieliä"
+    },
+    {
+      "name": "more_menu",
+      "value": "Lisää"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Siirrä {{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}} lukulistaan"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Esikatselu"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 jalka|\\$1 jalkaa}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 metriä"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mailia"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Olet kirjautunut sisään väliaikaisella salasanalla. Viimeistelläksi kirjautumisen aseta uusi salasana tässä."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Aseta salasanasi"
+    },
+    {
+      "name": "new_tab",
+      "value": "Uusi välilehti"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Seuraava"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Asenna sähköpostitili laitteeseesi ja yritä uudelleen."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Ei Internet-yhteyttä"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Ei nyt"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Alullepanija: \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Hälytys"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1-ilmoitus"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Vaihda salasana"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Tarkistetaan ilmoituksia..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Sovelluksessa"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Verkossa"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Ilmoituksen tiedot"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Tarkistetaan ilmoituksia..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Sinulla ei ole viestejä"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Et ole tilannut Wikipedia-ilmoituksia"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Lisää hankkeita nähdäksesi enemmän viestejä"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 suodatin|\\$1 suodatinta}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Ota push-ilmoitukset käyttöön"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Ilmoitussuodatin"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Kaikki"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Luettu"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Lukematon"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Luettu"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Suodattimet"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Valitse ilmoituksissa näytettävät ilmoitustyypit. Pois käytöstä otetut ilmoitukset piilotetaan, mutta ne säilyvät ja palautetaan näkymään jos ne otetaan jälleen käyttöön."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Kaikki tyypit"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Ilmoitusten tyypit"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Artikkeli"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Sivun \\$1 keskustelusivu"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Ero"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Käyttäjän \\$1 käyttäjäsivu"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-kohde"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Oma keskustelusivu"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Valmis"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Hankkeet"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Listassa näytetään vain projektit, joihin olet luonut tunnuksen."
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedian projektit"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipediat"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 (\\$1)"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Kirjautumisilmoitukset"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Merkitse"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Merkitse kaikki luetuksi"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Haluatko varmasti merkitä kaikki ilmoituksesi luetuksi? Ilmoituksesi merkitään luetuiksi kaikilla laitteillasi."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Merkitse luetuksi"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Merkitse lukemattomaksi"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Lisää"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Ilmoitusasetukset"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 ilmoitus|\\$1 ilmoitusta}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Jatka"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Suodata ilmoituksiasi niiden lukutilan ja tyypin mukaan helposti rajataksesi saapuneita ilmoituksiasi."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Suodattimet"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Lue lisää ilmoituksista"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Ilmoitukset auttavat sinua pysymään ajan tasalla muokkauksiisi ja tunnukseesi liittyvistä ajankohtaisista asioista."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Ilmoitukset ja hälytykset"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Lue kaikki lukemattomat viestisi erikielisistä Wikipedioista ja Wikimedia-projekteista yhdessä paikassa."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push-ilmoitukset"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Muokkausilmoitukset"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Otetaanko push-ilmoitukset käyttöön?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Ota push-ilmoitukset käyttöön"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Ei kiitos"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Projektisuodatin"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Kaikki"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Kaikki ilmoitukset"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=Yhdessä projektissa|\\$1 projektissa}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 projekti|\\$1 projektia}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 tyyppi|\\$1 tyyppiä}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Luettu"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Lukematon"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Muokkausvirstanpylväs"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Muokkauksesi on kumottu"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Uusi sähköposti"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Useita epäonnistuneita kirjautumisyrityksiä"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Epäonnistunut kirjautumisyritys"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Kirjautuminen tuntemattomalta laitteelta"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Maininta artikkelin keskustelusivulla"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Maininta muokkausyhteenvedossa"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Epäonnistunut maininta"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Onnistunut maininta"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Maininta keskustelusivulla"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Viesti keskustelusivullasi"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Sivulinkki"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Sivu arvioitu"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Kiitos"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Käännösvirstanpylväs"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Käyttäjäoikeuksien muutos"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Tervetuloa!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Wikidata-yhteys muodostettu"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Merkitse luetuksi"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Merkitse lukemattomaksi"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Lisää"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Ilmoitukset"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Merkitse valitut ilmoitukset"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Maininnat"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Ilmoitus"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Tervetuloviesti"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Linkitys Wikidataan"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Muokkausvirstanpylväs"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Muokkaus palautettu"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Muokkausyhteenvetomaininta"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Sähköposti toiselta käyttäjältä"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Kirjautumisyritykset"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Epäonnistuneet kirjautumisyritykset käyttäjätilillesi"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Kirjautuminen onnistui"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Muu"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Sivulinkki"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Keskustelusivumaininta"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Kiitokset"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Käännösvirstanpylväs"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Käyttäjäoikeuksien muutos"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Viesti keskustelusivulle"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Tervetuloa"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Uusi toiminta Wikipediassa"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 uusi viesti|\\$1 uutta viestiä}} sivulla \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Uusi viesti|Uusia viestejä}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mrd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 milj."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 t."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "\\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historiallinen tapahtuma|\\$1 historiallista tapahtumaa}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Lisää tänä päivänä tapahtuneita historiallisia tapahtumia"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 historiallinen tapahtuma|\\$1 historiallista tapahtumaa}} lisää tänä päivänä"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Pääasiallinen Wikipedia-kielesi ei tue Tänä päivänä -ominaisuutta. Voit päivittää pääasiallisen Wikipediasi sovelluksen asetusvalikossa."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Ei internetyhteyttä"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 kieliversion \\$2 Wikipediassa"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Tänä päivänä"
+    },
+    {
+      "name": "open_article",
+      "value": "Avaa artikkeli"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Napauta 'W' -kuvaketta palataksesi välilehdelle josta aloitit"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "botti"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Napauta valitaksesi kaksi vertailtavaa versiota"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Vertaa"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Muokkausten aikakaavio"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "pienet muutokset"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Tekijä: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Kommentti \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Muutoshistoria"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Pieni muutos"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Lisätty {{PLURAL:\\$1|\\$1 tavu|\\$1 tavua}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Poistettu {{PLURAL:\\$1|\\$1 tavu|\\$1 tavua}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Versio tehtiin \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Vain kaksi versiota voidaan valita"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 muokkaus|\\$1 muokkausta}} vuoden \\$2 jälkeen"
+    },
+    {
+      "name": "page_issues",
+      "value": "Sivun ongelmat"
+    },
+    {
+      "name": "page_location",
+      "value": "Näytä kartalla"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Sinulla ei ole oikeutta muokata tätä sivua"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Tämä sivu on suojattu"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Samankaltaiset sivut"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Muutosten vertailulla on helppo saada kuva artikkeliin tehdyistä muutoksista. Toiminto korostaa artikkelista kohdat, joihin on tehty muutoksia."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Versioiden vertailu"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Muokkaa kirjautumatta sisään"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Et ole kirjautunut sisään"
+    },
+    {
+      "name": "pictured",
+      "value": "kuvassa"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Tyhjennä tallennetut haut"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikkelia"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Keskitä sijaintiisi"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Näytä luettelona"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Näytä karttana"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Näytä lisää artikkeleja"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Tutki kaupunkeja, maita, mantereita, luontokohteita, historiallisia tapahtumia, rakennuksia ja paljon muuta."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Etsi Wikipedia artikkeleita maantieteellisillä paikoilla"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Ota sijainti käyttöön"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Sijaintiasi voidaan käyttää vain, kuin sovellus tai jokin sen osa on näkyvissä näytöllä."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Tutki lähiseudun artikkeleita sallimalla sijainnin käyttö"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Suodata artikkeleita"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Suodata"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Sinulla ei ole tallennettuja paikkoja"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Tallennetut artikkelit"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Luetuimmat"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Luetuimmat artikkelit"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Sijanti käytössä"
+    },
+    {
+      "name": "places_map_title",
+      "value": "Kartta"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Yksikään tallentamistasi artikkeleista ei sisällä sijaintitietoja"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 vastaa “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Hae paikkoja"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Tarkoititko \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Äskettäin haetut"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Kaikki tallennetut artikkelit"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Ehdotetut haut"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Hae tältä alueelta"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Kaikki huippuartikkelit"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Lähistöllä"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Nykyinen sijaintisi"
+    },
+    {
+      "name": "places_title",
+      "value": "Paikat"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "tuntematon etäisyys"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Päivän kuva: \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Virhe haettaessa päivän kuvaa \\$1"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Nauti kauniista päivän kuvasta, jonka yhteisömme on valinnut."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Päivän kuva"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Salli Wikimedia-säätiön kerätä tietoja sovelluksen käyttämisestä käyttökokemuksen parantamiseksi."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Tietosuojakäytäntö"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Ongelma ominaisuudessa"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "Siirtyy profiilinäkymään."
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profiili"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "Tue Wikipediaa lahjoituksella, jolla Wikipedia voidaan säilyttää maksutta kaikkien saatavilla."
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "Kirjautuneena voit seurata muokkauksia, tallentaa artikkeleita laitteeseen ja synkronoida tietoja eri laitteiden välillä."
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Kirjaudu sisään / Liity Wikipediaan"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "Kirjautumalla sisään tai luomalla käyttäjätunnuksen saat paremman vuosikatsauksen vuoden päästä"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "Kirjautumalla sisään tai luomalla käyttäjätunnuksen pääset tutustumaan vuosikatsaukseen ja muuhun yksilöityyn sisältöön."
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "Näytä vuosikatsaus kirjautumalla sisään"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikikirjasto"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikiuutiset"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikisitaatit"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikiaineisto"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiopisto"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikimatkat"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikisanakirja"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "Satunnainen"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Lisätäänkö artikkeli lukulistaan?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Lisäätäänkö “\\$1” lukulistaan?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Kyllä, lisää ne lukulistoihini"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Nämä ovat Wikipedia-sovellukseesi tallennettuja artikkeleita. Säilytetäänkö ne tunnukselle tallennettujen artikkelien rinnalla?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Löydetyt tallennetut artikkelit"
+    },
+    {
+      "name": "reading_list_alert_see_list",
+      "value": "Näytä lukulista"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Tätä merkintää ei ole synkronoitu koska olet saavuttanut merkintöjen lukumäärän rajan tässä listassa."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Odottamaton virhe tapahtui lukulistaasi synkronoidessa."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Tätä luetteloa ei synkronoida, koska olet saavuttanut synkronoitujen listojen lukumäärän rajan."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Luo lukulista"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Kuvaus"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Lukulistan nimi"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Luo uusi lista"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Lukulista poistettu"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ei, poista artikkelit laitteesta"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Laske tällä listalla olevien artikkelien määrää (maksimi \\$1) jatkaaksesi synkronointia kaikilla artikkeleilla."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Olet ylittänyt tunnuskohtaisen rajoituksen, joka on {{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}} tunnusta kohden."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Artikkelia|Artikkeleita}} ei voitu lisätä listaan. Olet kohdannut \\$2 artikkelin rajan listassa \"\\$3\""
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Lukulistan nimi on jo käytössä"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Odottamaton virhe tapahtui lukulistaasi päivittäessä."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Kyllä, säilytä artikkelit laitteessa"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Artikkelit on synkronoitu Wikipedia-tunnukseesi. Säilytetäänkö ne tässä laitteessa uloskirjautumisen jälkeen?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Säilytetäänkö tallennetut artikkelit laitteessa?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Lajittele artikkelit"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Lajittelemattomien artikkeleiden maksimimäärä on 5000. Lajittele olemassaolevat artikkelit listoihin jatkaaksesi lajittelemattomien artikkeleiden synkronointia."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Lajittelemattomien artikkeleiden raja kohdattu"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Tätä lukulistaa tai siinä olevia artikkeleita ei synkronoida; siinä olevien listojen määrää tulee vähentää (raja \\$1), jotta synkronointia voidaan jatkaa."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Olet ylittänyt tunnuskohtaisen rajoituksen, joka on {{PLURAL:\\$1|\\$1 lukulista|\\$1 lukulistaa}} tunnusta kohden."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Olet ylittänyt \\$1 listan tunnuskohtaisen rajoituksen"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Kirjaudu sisään synkronoidaksesi tallennetut artikkelisi"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Kirjaudu sisään tai luo tunnus"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Kirjaudu sisään synkronoidaksesi tallennetut artikkelit"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Kirjaudu sisään tai luo tunnus salliaksesi tallennettujen artikkelien ja lukulistojen synkronoitua laitteiden välillä ja tallentaa käyttäjäasetuksiisi."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Synkronoi tallennetut artikkelisi?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[käyttäjä luotu]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "Valinnainen lyhyt kuvaus"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "Lukulistan nimi"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Lukulistojen synkronointi on poistettu käytöstä Wikipedia-tunnuksellesi toisella laitteella. Sen voi kytkeä takaisin päälle asetuksia päivittämällä."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sykronointi poistettu käytöstä"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Ota synkronointi käyttöön"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Tallennetut artikkelisi ja lukulistasi voidaan nyt tallentaa Wikipedia-tunnuksellesi ja synkronoida Wikipedia-sovellusten välillä."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Otetaanko lukulistan synkronointi käyttöön?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Lukulistojen synkronointi on käytössä tällä tunnuksella. Voit poistaa synkronoinnin käytöstä asetuksissa."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Synkronointi on käytössä"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Lukulistamerkinnän lisääminen epäonnistui. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Odottamaton virhe tapahtui lukulistaasi luodessa. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Odottamaton virhe tapahtui poistaessa lukulistaasi. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Odottamaton virhe tapahtui poistaessa merkintää lukulistasta. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Odottamaton virhe tapahtui lukulistaasi päivittäessä. Yritä myöhemmin uudelleen."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Lukulistaa nimellä “\\$1” ei löytynyt. Varmista, että sinulle on oikea nimi."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikkeli lisätty listaan “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Artikkelin synkronointi ei onnistu"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ei synkronoitu"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Artikkeliraja ylitetty, ei voi synkronoida artikkelia"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Listaraja ylitetty, ei voi synkronoida artikkelia"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artikkeli lisätty latausjonoon"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Laiteraja ylitetty, ei voida synkronoida artikkelia"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Vapauta laitteen muistitilaa ja yritä uudelleen"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Joitain artikkeleita ei synkronoitu, raja saavutettu"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Listasi '\\$1' on uudelleennimetty nimelle '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 lukulista|\\$1 lukulistaa}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Oletuslista tallennetuille artikkeleillesi"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Tallennetut"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Tätä toimintoa ei voi kumota. Kaikki artikkelit, jotka on tallennettu vain {{PLURAL:\\$1|tähän listaan|näihin listoihin}} ei tallenneta."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Poista {{PLURAL:\\$1|lista|listaa}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}} ja {{PLURAL:\\$2|\\$2 lukulista|\\$2 lukulistaa}} synkronoitu tililtäsi"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Luettelo ei synkronoitu, raja saavutettu"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Lajitteluperuste"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "On olemassa \\$1 artikkelin raja lukulistaa kohden. Nykyiset tämän rajan ylittävät listat on jaettu moniin listoihin."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Synkronointi jatkuu, kun internet-yhteys on käytettävissä"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Musta teema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Kirkkauden liukusäädin"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tumma teema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Vaalea teema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Seepiateema"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Syntaksin korostus"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Tekstin koon liukusäädin"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Syntaksin korostus"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Siirry lähdeosioon"
+    },
+    {
+      "name": "reference_title",
+      "value": "Lähde \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Tänään|1=Eilen|\\$1 päivää sitten}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 t"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Äskettäin|\\$1 tunti sitten|\\$1 tuntia sitten}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 t sitten"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Äskettäin|\\$1 tunti sitten|\\$1 tuntia sitten}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:$|0=Juuri nyt|\\$1 minuutti sitten|\\$1 minuuttia sitten}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 min"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Juuri nyt|\\$1 minuutti sitten|\\$1 minuuttia sitten}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 min sitten"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Tässä kuussa|1=Viime kuussa|\\$1 kuukautta sitten}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 sek"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 sek sitten"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Tänä vuonna|1=Viime vuonna|\\$1 vuotta sitten}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Palaa"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Palaa artikkeliin"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Kumottu muokkaus"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "Tallenna kaikki välilehdet"
+    },
+    {
+      "name": "save_view_temp_account_notice",
+      "value": "Käytät tilapäistä tunnusta. Muokkaukset merkitään nimelle \\$1..."
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "Et ole kirjautunut sisään. Kun teet muokkauksen, sinulle luodaan tilapäinen tunnus yksityisyytesi suojelemiseksi."
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Kaikki artikkelit"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "Kaikki välilehdet on tallennettu."
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "Kaikki välilehdet on tallennettu. Näytä lukulista."
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Tätä listaa ei voi poistaa"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Tämän tallennetun sivun kuvien lataaminen epäonnistui."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Artikkelin lataus käynnissä..."
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "Hae lukulistoista"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Lukulistat"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Hae tallennetuista artikkeleista"
+    },
+    {
+      "name": "saved_title",
+      "value": "Tallennettu"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "{{PLURAL:\\$1|Tämän artikkelin tallentamattomaksi jättäminen poistaa sen|Näiden artikkelien tallentamattomaksi jättäminen poistaa ne}} kaikista niihin liittyvistä lukulistoista"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Poista {{PLURAL:\\$1|artikkeli|artikkelia}}?"
+    },
+    {
+      "name": "search_button_accessibility_hint",
+      "value": "Siirtyy hakunäkymään."
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Etsi Wikipediasta"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Tyhjennä"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Wikipedia-haku"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Poistetaanko kaikki äskettäiset haut?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Toimintoa ei voi kumota!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Poista kaikki"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Ei vielä tuoreita hakuja"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Viimeisimmät haut"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Ohjattu sivulta: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Haku"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Päivityksiä serbian kieliversiotukeen"
+    },
+    {
+      "name": "settings_account",
+      "value": "Käyttäjätunnus"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Sovelluksen teema"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Tyhjennä välimuisti"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Välimuistin tyhjentäminen vapauttaa \\$1 tilaa. Tallennetut sivut säilytetään."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Tyhjennetäänkö välimuisti?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Peruuta"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Tyhjennä välimuisti"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Lahjoita"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Ohje ja palaute"
+    },
+    {
+      "name": "settings_home_feed_title",
+      "value": "Etusivun syöte"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Näytä kielet haussa"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Valitse Tutki-syötteen sisältöjen näytettävät kielet."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Omat kielet"
+    },
+    {
+      "name": "settings_new_article_tab_header_text",
+      "value": "Uuden välilehden teema"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push-ilmoitukset"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Yritä uudelleen"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Ilmoituksia lähetetään esimerkiksi kanssamuokkaajilta, hälytyksistä ja huomautuksista tietoturvallisesti ja ajankohtaisista tapahtumista."
+    },
+    {
+      "name": "settings_off",
+      "value": "Pois"
+    },
+    {
+      "name": "settings_on",
+      "value": "Päällä"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Ensisijainen"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Listan ensimmäinen kieli on sovelluksen käyttöliittymän kieli."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Vaihda sovelluksen avausnäkymäksi Haku-välilehti Tutki-välilehden sijaan"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Avaa sovellus Haku-näkymään"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Salli Wikimedian tallentaa tallennetut artikkelisi ja lukulistasi käyttäjäasetuksiisi."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Synkronoi tallennetut artikkelit ja luettelot"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Lukulistasi synkronoidaan taustalla"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Päivitä synkronoidut artikkelit ja lukulistat."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Päivitä synkronoidut lukulistat"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Näytä Tallennettu-lukulista erillisenä listana lukulistanäkymässä. Tämä lista näkyy Android-laitteilla."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Näytä tallennetut lukulistat"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Artikkelien tallennus ja synkronointi"
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "Kirjaudu ulos"
+    },
+    {
+      "name": "settings_temp_account_end_session_message",
+      "value": "Haluatko varmasti poistua tästä istunnosta ja kirjautua ulos? Tälle tilapäiselle tunnukselle ei voi enää kirjautua uudelleen."
+    },
+    {
+      "name": "settings_temp_account_end_session_title",
+      "value": "Poistu istunnosta"
+    },
+    {
+      "name": "settings_temp_accounts_talk_page_footer",
+      "value": "Tilapäinen tunnus vanhentuu 90 vuorokaudessa"
+    },
+    {
+      "name": "settings_title",
+      "value": "Asetukset"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "Vuosikatsauksen poistaminen käytöstä tyhjentää kaikki tallennetut henkilökohtaiset tiedot ja piilottaa vuosikatsauksen."
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Tehty Wikipedia-sovelluksen avulla"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" Wikipediassa:"
+    },
+    {
+      "name": "share_building",
+      "value": "Luodaan Share-a-fact korttia..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” artikkelista “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nartikkelista “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Hae reittiohjeet"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Jaa…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "Wikipedian kautta"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Avaa Kartoissa"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” Wikipedian kautta: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” Wikipedian kautta: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Äskettäin lisätyt"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Otsikko"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Ehdotetut muokkaukset"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "Valitse yksi tai useampi vaihtoehto"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "Muu"
+    },
+    {
+      "name": "survey_submit",
+      "value": "Lähetä"
+    },
+    {
+      "name": "survey_title",
+      "value": "Syy"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Sisällysluettelo"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Sulje"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Sulje sisällysluettelo"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Sisällys"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Piilota sisällysluettelo"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Alaotsikko \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "Sulje välilehti"
+    },
+    {
+      "name": "tabs_empty_view_title",
+      "value": "Välilehtesi näytetään täällä"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "Piilota artikkeliehdotukset"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Avaa välilehti"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "Näytä artikkeliehdotukset"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "Ehdotukset on nyt piilotettu"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "Auta parantamaan välilehtiä. Oletko tyytyväinen tähän toimintoon?"
+    },
+    {
+      "name": "tabs_thumbnail_subtitle",
+      "value": "Aloita haku täältä"
+    },
+    {
+      "name": "tabs_title",
+      "value": "Välilehdet"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktiivinen käyttäjä|\\$1 aktiivista käyttäjää}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Lisää aihe"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Arkistot"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Tietoja keskustelusivuista"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Vaihda kieli"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Pienennä ketju"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Luettu"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Lukematon"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Odottamaton virhe"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Jotain meni vikaan."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Keskustelusivun lataaminen epäonnistui"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Laajenna ketju"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Etsi sivulta"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Avaa kaikki aiheet"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Olemme kaikki tavallisia ihmisiä"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Olethan ystävällinen!"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Vastauksesi julkaistiin onnistuneesti"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Keskustelusi julkaistiin onnistuneesti"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Palaa vastaamaan kaksoisnapauttamalla"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Sivun tiedot"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Ikilinkki"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Tarkista internetyhteytesi."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Kommenttiasi ei voitu julkaista."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Uutta aihetta ei voitu julkaista."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Lue selaimessa"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Tänne viittaavat sivut"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 vastaus|\\$1 vastausta}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Vastaa"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Vastaa käyttäjälle \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Vastauksen syvyys: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Vastaa käyttäjälle \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Muutoshistoria"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Sulje vastausnäkymä"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Jaa keskustelusivu"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Tilaa"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Saat ilmoituksia uusista kommenteista tässä aiheessa."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Tilaus tehty!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Aiheen tilaaminen epäonnistui, yritä uudelleen."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Artikkelikeskustelu"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Keskustelu käyttäjästä"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "Julkaisemalla hyväksyt \\$1Käyttöehdot\\$2 sekä kirjoituksen julkaisemisen peruuttamattomasti \\$3CC BY-SA 4.0\\$4 ja \\$5GFDL\\$6 -lisensseillä."
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Peruuta tilaus"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Et saa enää ilmoituksia uusista tämän aiheen kommenteista."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Olet peruuttanut tilauksen."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Aiheen tilauksen peruuttaminen epäonnistui, yritä uudelleen."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Tietoja käyttäjien keskustelusivuista"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Muokkaukset"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Arkistoituja sivuja ei löytynyt."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Arkistot"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Lue lisää"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Kommenttisi lisättiin"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Jatka muokkaamista"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Muokkaa wikitekstiä"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Parhaat Wikipedia-artikkelit syntyvät yhteistyöllä. Näillä sivuilla käyttäjät keskustella artikkelin sisällöstä ja kehittämisestä. **Aloita luomalla uusi aihe**."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Parhaat Wikipedia-artikkelit syntyvät yhteistyöllä. Tällä sivulla voit keskustella julkisesti käyttäjän \\$1 kanssa, ja myös muut voivat osallistua keskusteluun."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Lisää uusi aihe"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Aloita keskustelu"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Keskustelu alkaa tästä"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Aloita keskustelu käyttäjän \\$1 kanssa"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Hylätäänkö uusi vastaus?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Aiheesi lisättiin"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Kuvaus"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Aiheen kuvaus"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Hylkää vastaus"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "Hylkää aihe"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Hylätäänkö uusi vastaus?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Aihe"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Otsikko"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Ole kiltti, olemme kaikki ihmisiä täällä."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Keskustelusivut"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Käyttäjäryhmät"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Lokit"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Keskustelu"
+    },
+    {
+      "name": "temp_account_alert_read_more_information",
+      "value": "\\$1Käytät tilapäistä tunnusta.\\$2Tunnus vanhenee 90 päivän päästä. Vanhenemisen jälkeen uusi tunnus luodaan seuraavalla kerralla, kun teet muokkauksen kirjautumatta sisään. \\$3Kirjaudu sisään tai luo tunnus saadaksesi tulevat muokkauksesi oman tunnuksesi nimiin sekä päästäksesi käyttämään lisäominaisuuksia."
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "Kirjaudu sisään tai luo tunnus"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2Käytät tällä hetkellä tilapäistä tunnusta.\\$3 Tilapäisellä tunnuksella \\$1 tehtyjä muokkauksia ei siirretä pysyvälle tunnukselle, kun kirjaudut sisään. Kirjaudu sisään tai luo tunnus saadaksesi tulevat muokkauksesi oman tunnuksesi nimiin sekä päästäksesi käyttämään lisäominaisuuksia."
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Lisätietoja"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1Käytät tällä hetkellä tilapäistä tunnusta.\\$2 Tilapäisellä tunnuksella tehtyjä muokkauksia..."
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "Käytät tilapäistä tunnusta"
+    },
+    {
+      "name": "temp_warning_subtitle_format",
+      "value": "Muokkauksesi merkitään nimellä \\$1"
+    },
+    {
+      "name": "temporary_account",
+      "value": "Tilapäinen tunnus"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Käyttöehdot"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Musta"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Tumma"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Oletus"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Järjestelmäasetuksen mukainen"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Vaalea"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Seepia"
+    },
+    {
+      "name": "tip_history_in_search_title",
+      "value": "Historia on siirretty hakuun"
+    },
+    {
+      "name": "today_title",
+      "value": "Tänään"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Opi mitä maailma lukee tänään Wikipediassa."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "$ lukijaa"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Luetuimmat"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Kokeile nyt"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Opas"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "Jatka kirjautumista"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "Anna sähköpostitse lähetetty vahvistuskoodi"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Jatka sisäänkirjautumista"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Syötä kaksivaiheisen vahvistuksen koodi"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Kirjaudu sisään käyttäjätunnuksellesi"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Käytä yhtä varmuuskopiokoodeistasi"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Käytä vahvistuskoodia"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Keskustelusivun lataaminen epäonnistui"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Tuntematon"
+    },
+    {
+      "name": "unwatch",
+      "value": "Lopeta tarkkailu"
+    },
+    {
+      "name": "user_title",
+      "value": "Käyttäjä"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Jatka"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Käyttäjänimi ja käyttäjäsivu"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Varoitus"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Ei kiitos"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Tarkista asetuksesi"
+    },
+    {
+      "name": "view_changes",
+      "value": "Näytä muutokset"
+    },
+    {
+      "name": "watch",
+      "value": "Tarkkaile"
+    },
+    {
+      "name": "watchlist",
+      "value": "Tarkkailulista"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Lisätty tarkkailulistallesi kuukaudeksi."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Lisätty tarkkailulistallesi 1 viikoksi."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Lisätty tarkkailulistallesi 1 vuoden ajaksi."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Lisätty tarkkailulistallesi pysyvästi."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Lisätty tarkkailulistallesi 6 kuukaudeksi."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Lisätty tarkkailulistallesi 3 kuukaudeksi."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Näytä tarkkailulista"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|1 tavu|\\$1 tavua}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 kuukausi"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 viikko"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 vuosi"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Pysyvä"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 kuukautta"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 kuukautta"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Valitse tarkkailulistan ajanjakso"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Tarkkailulistan vanhentuminen"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Muokkausyhteenveto"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Hae artikkeleita"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "Tarkkailulistalle lisäämäsi artikkelit näkyvät täällä"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Suodatin"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Tarkkailulistan aktiivisuus"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Nähdyt muutokset"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Näkemättömät muutokset"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Automatisoidut muutokset"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Botti"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Ihminen (ei botti)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Viimeisimmät versiot"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Viimeisin versio"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Ei viimeisin versio"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Oleellisuus"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Pienet muutokset"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Muut kuin pienet muutokset"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Muutoksen tyyppi"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Luokkamuutokset"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Lokitoiminnot"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Sivujen luonnit"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Sivun muutokset"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata-muokkaukset"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Käyttäjän rekisteröinti ja kokemus"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Rekisteröitynyt"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Rekisteröitymätön"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Lisää kieli..."
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Lue lisää tarkkailulistoista"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Esittelyssä tarkkailulistasi"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Poistettu tarkkailulistaltasi"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Kiitoksesi käyttäjälle \\$1 lähetetty"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Seuraa muutoksia"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Näytä päivitykset"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Kiitä"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Käyttäjän muokkaukset"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Käyttäjäsivu"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Käyttäjän keskustelusivu"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Tarkkaile artikkeleita"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Data ja yksityisyys"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Suositellut luettavat ja pävittäiset artikkelit yhteisöstämme"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Tutki syötettä"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Matkusta takaisin ajassa ja opi mitä tapahtui tänä päivänä historiassa"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Tänä päivänä"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Löydä maamerkkejä lähellä sivua tai etsi paikkoja ympäri maailmaa"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Paikat-välilehti"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Aloitetaan"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Tutki sisältöä uusin tavoin"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Selvä"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia on kirjoitettu yhteistyössä vapaaehtoisten kanssa ja se koostuu yli 40 miljoonasta artikkelista yli 300 kielellä."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Lisätietoja Wikipediasta"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Tietoja Wikipediasta"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia on maailmanlaajuinen projekti luoda vapaa tietosanakirja kaikilla maailman kielillä. \nKäytännössä kuka tahansa, jolla on Internet-yhteys, voi vapaasti osallistua myötävaikuttamalla neutraaleihin, siteerattuihin tietoihin."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Vapaa tietosanakirja"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Lisää uusi kieli"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Lisää tai muokkaa ensisijaisia kieliä"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Laitteesta löytyneet kielet:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Hae yli 300 kielellä"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Lue lisää tietosuojakäytännöstämme ja käyttöehdoistamme"
+    },
+    {
+      "name": "which_came_first_archive_day_score_a11y",
+      "value": "Tulos: \\$1/5"
+    },
+    {
+      "name": "which_came_first_archive_toast_score",
+      "value": "Tuloksesi oli tänä päivänä \\$1/5."
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "Väärin!"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Tutki mitä tänä päivänä on tapahtunut historiassa."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Vapaa tietosanakirja, jota kuka tahansa voi muokata"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, ilmainen tietosanakirja, siirtyy verkkoon."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Ladataan esikatselua tehdyistä muutoksista..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Tämä linkki ohjaa ulkoiselle sivustolle: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ulkoinen linkki"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipediassa ei ole tämännimistä artikkelia"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Sisäistä linkkiä ei löydy"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Tämä linkki vie osoitteeseen '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Linkin esikatselu"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Tallenna muutokset"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Virhe CAPTCHA-varmennuksessa."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA-varmennus vaaditaan."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "wikitextin lähetystä ei voida varmistaa."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Julkaistaan..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "IP-osoitteesi tallentuu muutoshistoriaan. \\$1Kirjautumalla sisään\\$2 parannat yksityisyyttäsi."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Muokkaukset yhdistetään laitteesi IP-osoitteeseen. Jos \\$1 tietoturvasi paranee."
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "Julkaisemalla hyväksyt \\$1käyttöehdot\\$2 ja peruuttomattomasti muokkaustesi lisensoinnin \\$3CC BY-SA 4.0\\$4 ja \\$5GFDL\\$6 lisensseillä. Hyväksyt, että hyperlinkki tai URL on riittää nimeämiseen Creative Commons -lisenssin mukaisesti."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "käyttöehdot"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "Artikkeleita luodaan ja parannellaan luotettavien lähteiden avulla. Meillä kaikilla on tietoa jaettavana, [näin osallistut](\\$1)."
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "Wikipediaa muokattiin {{PLURAL:\\$1|\\$1 kertaa}} per minuutti"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "Wikipediassa oli {{PLURAL:\\$1|\\$1 artikkeli|\\$1 artikkelia}} yli {{PLURAL:\\$2|\\$2 aktiivisen kielen|\\$2 aktiivisten kielien}}. Liityit miljoonien joukkoon laajentamassa tietämystä ja tutkimaan erilaisia aihealueita."
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "Lukulistaan lisättyä artikkelia voi käyttää myös ilman Internet-yhteyttä. Lukulistoja voi myös synkronoida laitteiden välillä."
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "Apin käyttäjillä oli {{PLURAL:\\$1|\\$1 tallennettu artikkeli|\\$1 tallennettuja artikkeleita}}"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "Sovelluksen käyttäjät katsoivat Wikipedian artikkeleita {{PLURAL:\\$1| \\$1 kerran| \\$1 kertaa}}"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "Vuosikatsaus"
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "Ota uusi sovelluskuvake käyttöön"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "perjantai"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "maanantai"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "lauantai"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "sunnuntai"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "torstai"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "tiistai"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "keskiviikko"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Lahjoita"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Lahjoita nyt"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "Tutustu kohokohtiin miten artikkeleita luetaan ja muokataan Wikipediassa."
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "Tutustu Wikipedia-vuoteesi"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "Tutustu kohokohtiin lukemastasi ja muokkaamastasi sisällöstä Wikipedia-sovelluksessa vuonna 2024. Lukuhistoria säilytetään suojattuna. Kohokohdat muodostetaan laitteellesi tallennettujen tietojen perusteella."
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "Lukutunnit"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "Luodut lukulistat"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "Kuinka usein Wikipediaa muokattiin"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "{{PLURAL:\\$1| \\$1 kerta| \\$1 kertaa}} minuutissa"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "Luetuimmat artikkelit englanninkielisessä Wikipediassa"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "Mieluisin lukupäivä"
+    },
+    {
+      "name": "year_in_review_highlights_number_app_editors",
+      "value": "Sovelluksessa tehdyt muokkaukset"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "Useimmin lukemani artikkelit"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "Lukuminuutit"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "Wikipedia-logo"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "Odotamme innolla ensi vuotta!"
+    },
+    {
+      "name": "year_in_review_highlights_times_edited",
+      "value": "Muokkauskerrat"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "Kiitos Wikipedian parissa viettämästäsi vuodesta."
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "Voit tarkastella vuosikatsaustasi profiilissasi."
+    },
+    {
+      "name": "year_in_review_intro_login_title",
+      "value": "Mukauta kirjautumalla sisään"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "Luokat, jotka kiinnostavat sinua eniten"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "Hanki ensi vuoden muokkaajapalkintosi!"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "Mieluisin lukupäivä"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "Ahkerin lukukuukautesi"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "Mieluisin lukuaikasi"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "Sinulla on selviä lukutottumuksia"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Anteliaisuutesi on auttanut Wikipediaa menestymään"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "Lukijat ympäri maailmaa arvostavat panostasi. Viimeisen kahden kuukauden aikana muokkaamasi artikkelit ovat saaneet yhteensä {{PLURAL:\\$1|\\$1 katselukerran|\\$1 katselukertaa}}. Kiitos kaltaistesi vapaaehtoisten, Wikipedia on jatkuvasti kehittyvä, faktaan perustuva ja luotettava tietolähde maailmalle."
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "Muokkauksiasi on näytetty viime aikoina yli {{PLURAL:\\$1|\\$1 kerran|\\$1 kertaa}}"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "Muokkasit {{PLURAL:\\$1|\\$1 kerran|\\$1 kertaa}}"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "Tämä on Wikipedia-vuosikatsaukseni, joka on luotu Wikipedian iOS-sovelluksella."
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "Muita ajatuksia?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Neutraali"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Tyytyväinen"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "Auta parantamaan Wikipedian vuosikatsausta. Oletko tyytyväinen ominaisuuteen? Mitä haluaisit nähdä ensi vuonna?"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "Tyytyväisyyskysely"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "Tyytymätön"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "Erittäin tyytyväinen"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "Erittäin tyytymätön"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "Iltapäivä"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "Ilta"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "Myöhäisilta"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "Keskipäivä"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "Aamu"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "Yö"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Wikipedian w-logo"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Wikimedia Foundation -säätiön logo"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Eilen"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "0 muokkausta artikkeleihin viime aikoina"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Aiemmin lukemasi perusteella"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Kaikki luetuimmat artikkelit"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Toinen satunnainen sivu"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Wikipedian kieliversiosta %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Wikipedian kieliversiossa %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Wikimedia Commonsista"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ei näytettävää historiaa"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Tänään"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Eilen"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Piilota tämä kortti"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Mukauta Tutki-syötettä"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kortti piilotettu"
+    },
+    {
+      "name": "editor_published",
+      "value": "Muokkauksesi julkaistiin."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Artikkelin kuvaus %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Tarkoititko %s?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "WIKIPEDIA HarmonyOS:SSÄ"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "Muokkaukset tässä kuussa"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "muokkaukset tässä kuussa"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "muokkaukset viime kuussa"
+    }
+  ]
+}

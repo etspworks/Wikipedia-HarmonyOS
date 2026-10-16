@@ -1,0 +1,244 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Teltumtu pawl"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Hmanmi caruuk"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "License"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1 kutchuak"
+    },
+    {
+      "name": "about_repositories",
+      "value": "bukbau"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "App cung na ruahnak kuat ding"
+    },
+    {
+      "name": "about_title",
+      "value": "Konglam"
+    },
+    {
+      "name": "about_translators",
+      "value": "Holh Lettu"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Zaanghleicawi nih \\$1 ah an leh."
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "CAPTCHA athar a lak lio"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "A lut lio..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Account sernak ah na min, biathup le biathup fiahnak na telh hrim a hau."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Biathup a khat lo."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Khon lio..."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Holh thimnak"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Holh thimpiak"
+    },
+    {
+      "name": "button_next",
+      "value": "Kal"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Grammar ka remh"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Tial palhmi ka remh"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Link betpiak"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "tuandeuh ta vialte na hloh dih lai maw?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Hlo Dih"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Atartu hngalh a si lo"
+    },
+    {
+      "name": "languages_title",
+      "value": "Holh pawl"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Hi Wikipedia app konglam"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Luhnak"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Chuahnak"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1: in lut"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Pumpak Kilvennak le Zulhphung"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Pawngkam"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Pumpak Kilvenak Policy"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "App kha arfi vun pe"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Hmannak Hngalhawk Phung"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Tamdeuh"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Alak Biahalnak"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Zohchunawk"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "pe \\$1"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "meng \\$1"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Hi cahmai remhnak nawl na ngei lo."
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Hi cahmai hi kilvenpiak a si."
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "App na hmannak ah a that deuh nakhga Wikimedia kha thil sining pawl laknak nawl pe"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Wikipedia ah kawl"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Na kawlmi tete na hloh dih lai maw?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tuah khawh a si lo!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Hlo Dih"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Na kawlmi tete:"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia ah \"\\$1\""
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Cazin pawl"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Na remhmi pawl a langh lio..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA zohfelnak a rawk."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA zohfelnak a herh."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Wikicafang tarlanghmi phichuak a hmu kholo"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Khon lio..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Na IP address ning in na remhmi cu langhter a si lai. Na \\$1 asicun na thlithup kho deuh lai."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Hmannak Hngalhawk Phung"
+    }
+  ]
+}

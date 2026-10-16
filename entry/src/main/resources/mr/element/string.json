@@ -1,0 +1,564 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "विकिपीडिया"
+    },
+    {
+      "name": "about_content_license",
+      "value": "आशय परवाना"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "जर नमूद केले नसेल तर, आशय हा \\$1 परवान्यांतर्गत उपलब्ध आहे."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "क्रिएटिव कॉमन्स अट्ट्रिब्यूशन-शेयरअलाइक लायसंस"
+    },
+    {
+      "name": "about_contributors",
+      "value": "योगदानकर्ते"
+    },
+    {
+      "name": "about_libraries",
+      "value": "वापरलेले ग्रंथभंडार"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "संपूर्ण यादी"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "परवाना"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "आम्हास मुक्त स्रोत संचेतन \\$1 आवडते"
+    },
+    {
+      "name": "about_product_of",
+      "value": "आपल्यासम स्वयंसेवकांच्या मदतीद्वारे \\$1 ने तयार केले"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "स्रोत संकेत \\$1 अंतर्गत उपलब्ध."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "एमआयटी परवाना"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "अॅपबद्दलची प्रतिक्रिया पाठवा"
+    },
+    {
+      "name": "about_title",
+      "value": "च्या विषयी"
+    },
+    {
+      "name": "about_translators",
+      "value": "भाषांतरकार"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 वर स्वयंसेवकांद्वारे भाषांतरीत"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "विकीमेडिया प्रतिष्ठान"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "विकिपीडिया"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "नविन कॅपचा मिळवित आहे..."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "सनोंद प्रवेश करीत आहे..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "खाते उघडण्यास आपण सदस्यनाव,परवलीचा शब्द व परवलीचा शब्दाचे नक्कीकरण टाकणे आवश्यक आहे."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "परवलीचा शब्द जुळत नाही."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "जतन करीत आहे..."
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "पानामध्ये शोधा"
+    },
+    {
+      "name": "action_sort",
+      "value": "निवडा"
+    },
+    {
+      "name": "article_delete",
+      "value": "हटवा"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "भाषा शोधा"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "भाषा निवडा"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "इतर भाषा"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "आपल्या भाषा"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "परत जा"
+    },
+    {
+      "name": "button_next",
+      "value": "पुढील"
+    },
+    {
+      "name": "button_ok",
+      "value": "ठिक आहे"
+    },
+    {
+      "name": "button_publish",
+      "value": "प्रकाशित करा"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "गणकदोष अहवाल द्या"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "नंतरसाठी जतन करा"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "नंतरसाठी जतन केले"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "बंद करा"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 वाजता"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "व्याकरण ठिकठाक केले"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "टंकनदोष सुधरविला"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "दुवे जोडले"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "माफ करा, लेख दाखवू शकलो नाही"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "आपण अजूनही जतन केलेली पाने वाचू शकता"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "आपल्यापाशी आंतरजाल असल्यावर आपण आपले शिफारस केलेले लेख बघु शकता"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "आपण येथे काय वाचत आहात त्याचा मागोवा घ्या"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "दर्शविण्यास काहीच इतिहास नाही"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "नंतर बघण्यास पाने जतन करा, विनाजाल सुद्धा"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "अद्याप जतन केलेली कोणतीही पाने नाहीत"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "निकाल सापडले नाहीत"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "वाचन सुरू ठेवा"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "विशेष लेख"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "विकिपीडियावर आज"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "सर्वात जास्त वाचलेले लेख"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "जास्तीत जास्त वाचलेले"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 वरील उत्कृष्ट"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "जवळपासची स्थाने"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "आपले ठिकाण"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "आजचे चित्र"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "अविशिष्ट लेख"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "आपण हे निश्चित करता काय कि आपणास आपल्या अलीकडील सर्व बाबी वगळायच्या आहेत?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "होय, सर्व वगळा"
+    },
+    {
+      "name": "history_title",
+      "value": "इतिहास"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "अधिक \\$1 सारखे"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "आपल्या जवळपासच्या ठिकाणांबाबत अधिक"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "अधिक जवळचे \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "शोध करा"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "जवळपासचे लेख"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "अविशिष्ट लेख"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "विकिपीडिया मध्ये शोधा"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "लेखक अज्ञात."
+    },
+    {
+      "name": "languages_title",
+      "value": "भाषा बदला"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "अॅप विषयी"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "सनोंद-प्रवेश करा"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "बाहेर पडा"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "आपण निश्चित करता काय कि आपणास निर्गमित व्हायचे आहे?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "सनोंद प्रवेशित \\$1 म्हणून"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "गुप्तता व अटी"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "जवळपास"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "गुप्तता नीती"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "या अॲपचे दरनिर्धारण करा"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "वापरण्याच्या अटी"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "अधिक"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "विकिपीडीया झीरो एफएक्यू"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "झलक"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 फूट"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 कि.मी."
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 मी."
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 मैल"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "कृपया आपल्या उपकरणावर विपत्रपत्ता स्थापित करा व पुन्हा प्रयत्न करा."
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1कोटी"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1लक्ष"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1हजार"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "तुम्हाला हे पान संपादन करण्याचा अधिकार नाही"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "हे पान संरक्षित आहे"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1 साठी आजचे चित्र"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "\\$1 साठी आजचे चित्र आणण्यात अयशस्वी"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "विकिपीडियास, आपण हे अॅप कसे वापरता याबद्दल माहिती घेण्यास परवानगी द्या जेणेकरुन, ते अॅप अधिक चांगले करता येईल."
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "\\$1 हे वाचनयादीत जोडायचे आहे?"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "\\$1 या नावाची वाचन यादी आधीच अस्तित्त्वात आहे."
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "पर्यायी लघु वर्णन"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "वाचन यादी शिर्षक"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "\\$1 येथे लेख जोडला आहे"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "काढून टाका {{PLURAL:\\$1|यादी|याद्या}}?"
+    },
+    {
+      "name": "reference_title",
+      "value": "संदर्भ \\$1"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "या जतन केलेल्या पानासाठीच्या संचिका अधिभारण अयशस्वी"
+    },
+    {
+      "name": "saved_title",
+      "value": "जतन केले"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "साठवू नका {{PLURAL:\\$1|लेख|लेख}}?"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "विकिपीडिया मध्ये शोधा"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "सध्याचे सर्व शोध वगळु?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ही क्रिया परतवू शकत नाही!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "सर्व वगळा"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "अलीकडील शोधलेले"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "पासून पुनर्निदेशन: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "शोधा"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "साहाय्य व प्रतिसाद"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "शोधात भाषा दाखवा"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "माझ्या भाषा"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "अधिसूचना"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "प्राथमिक"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "या अॲपसाठी, यादीतील प्रथम भाषा ही प्राथमिक भाषा म्हणून वापरल्या जाते. ही भाषा बदलण्याने, शोधा वर दाखविलेले, रोजचे आशय  बदलतील(जसे अविशिष्ट लेख)."
+    },
+    {
+      "name": "settings_title",
+      "value": "मांडण्या"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "नुकतेच जोडलेले"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "शीर्षक"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "अनुक्रमणिका"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "बंद करा"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "अनुक्रमणिका बंद करा"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "आशय"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "सुरुवात करा"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "समजले"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "इतर भाषा जोडा"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "आपल्या बदलाची झलक दाखवित आहे..."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "कॅपचा पडताळणीत त्रुटी."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "कॅपचा पडताळणी करणे आवश्यक."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "विकिमजकूर अपभारण निकाल नक्की करण्यास अक्षम."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "प्रकाशन करीत आहे..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "आपल्या उपकरणाच्या अंकपत्त्यास ही संपादने संलग्न होतील. जर आपण \\$1 केले तर आपणास अधिक एकांत मिळू शकतो."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "वापराच्या अटी"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "सर्वात जास्त वाचलेले लेख"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "दर्शविण्यास काहीच इतिहास नाही"
+    }
+  ]
+}

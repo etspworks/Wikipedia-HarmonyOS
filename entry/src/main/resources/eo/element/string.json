@@ -1,0 +1,2616 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Vikipedio"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Enhavopermesilo"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Krom se alimaniere specifita, enhavo estas disponebla laŭ  \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Permesilo Creative Commons Atribuite-Samkondiĉe"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Kontribuantoj"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Bibliotekoj uzataj"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Kompleta listo"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Permesilo"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Ni amas malfermitkodan programaron \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Permesilo de mapoj de lokoj"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Apple Maps estas la provizanto de mapoj de lokoj. \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Ĉi tie vi ekscios pli pri la permesilo"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Farita de la $ kun la helpo de volontuloj kiel vi"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Deponejoj"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Fontokodo disponeblas laŭ la \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT-permesilo"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Sendi rimarkojn pri la aplikaĵo"
+    },
+    {
+      "name": "about_title",
+      "value": "Pri"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tradukantoj"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Tradukita de volontuloj ĉe \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fondaĵo Vikimedio"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Vikipedio"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Ĉu vi ne povas vidi la bildon? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Akiras novan CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Peti konton."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA sekureca kontrolo"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Krei vian konton"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Ĉu vi jam havas konton? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Ensaluti."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Ensalutante..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Vi devas enigi uzantnomon, pasvorton, kaj konfirmi vian pasvorton por krei konton."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Pasvortaj kampoj ne kongruas."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Konservante..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Krei novan konton"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Via Konto"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Via diskutpaĝo"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Aŭtomate subskribi en diskutoj"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Aŭtomata subskribado en diskutoj uzos la subskribon difinitan en la agordopaĝo Subskribo"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferoj pri Diskutpaĝo"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Aldoni al..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Aldoni al legolisto"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Aldoni al listo"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Nuligi"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Trovi en paĝo"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Ŝanĝi lingvon"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Movi al..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Movi al legolisto"
+    },
+    {
+      "name": "action_read",
+      "value": "Legi"
+    },
+    {
+      "name": "action_redo",
+      "value": "Refari"
+    },
+    {
+      "name": "action_remove",
+      "value": "Forigi"
+    },
+    {
+      "name": "action_save",
+      "value": "Konservi"
+    },
+    {
+      "name": "action_saved",
+      "value": "Konservita"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Konservita. Aktivigu por malkonservi."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikolo konservita por poste"
+    },
+    {
+      "name": "action_share",
+      "value": "Konigi"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Diskonigi"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ordigi"
+    },
+    {
+      "name": "action_undo",
+      "value": "Malfari"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Malkonservi"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikolo malkonservita"
+    },
+    {
+      "name": "action_update",
+      "value": "Ĝisdatigi"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Aldoni {{PLURAL:\\$1|\\$1 artikolon|\\$1 artikolojn}} al legolisto"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Rezigni"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Vikipedio, referenco, vikio, encyclopedio, informoj, scio, esplorado, esplori, lerni"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Plene tajlorebla kaj pli facile legebla Esplorfluo. Internaciigo, rendimentaj plibonigoj kaj cimoriparoj."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Elŝutu la vikipedian aplikaĵon por esplori lokojn en via ĉirkaŭaĵo, por sinkronigi artikolojn por eksterreta legado kaj por optimumigu vian legoĝuon."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "La libera enciklopedio"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Ĝustigi artikolan tekstograndon"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Etendi tabelojn"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Agordi ĉiujn tabelojn en ĉiuj artikoloj ke ili estu defaŭlte malfermitaj, inkluzive de Rapidaj faktoj, Referencoj, Notoj kaj Eksteraj ligiloj."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Malpliigi la opakecon de bildoj sur malluma kaj nigra etosoj"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Lego-etosoj"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabelaj agordoj"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Trenu la ŝovilon por ŝanĝi la tekstograndon de artikolo. Uzu la tekstgrandon de via sistemo por aligrandigi aliaj tekstareoj en tiu ĉi aplikaĵo."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Etosaj opcioj"
+    },
+    {
+      "name": "article_delete",
+      "value": "Forigi"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikolo forigita|artikoloj forigitaj}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Trovi lingvon"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Elekti lingvon"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Aliaj lingvoj"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Viaj lingvoj"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Vi ne havas sufiĉan spacon sur via aparato por konservi ĉi tiun artikolon"
+    },
+    {
+      "name": "article_share",
+      "value": "Konigi"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Legas etosajn agordojn"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Reen"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Tuŝetu por reiri"
+    },
+    {
+      "name": "button_next",
+      "value": "Sekva"
+    },
+    {
+      "name": "button_ok",
+      "value": "Bone"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publikigi"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Raporti cimon"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Konservi por poste"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Konservita por poste"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Forigita de la konservitaĵoj"
+    },
+    {
+      "name": "button_skip",
+      "value": "Preterlasi"
+    },
+    {
+      "name": "cancel",
+      "value": "Nuligi"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Krea Komunaĵo CCO"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Vakigi"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Fermi"
+    },
+    {
+      "name": "compass_direction",
+      "value": "je la \\$1 horo"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Esploru Vikipedion por legi pliajn artikolojn"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Neniuj laste legitaj artikoloj"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Aldoni priskribon"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Titola priskribo por \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Ŝanĝante la titolan priskribon, mi konsentas kun la \\$1 kaj nenuligeble eldonas miajn kontribuojn laŭ la permesilo \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Redakti enkondukon"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Redakti titolan priskribon"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Mallongaj priskriboj estas plej bonaj"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publikigi priskribon"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Redakti priskribon"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Provu teni priskribojn mallongaj por ke uzantoj povu kompreni la temon de la artikolo unuavide."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Titolaj priskriboj resumas artikolon por helpi legantojn kompreni la temon unuavide."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Pri"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Pri Vikidatumoj"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Priskriboj estas konservataj sur Vikidatumoj, projekto de la Vikimedia Fondaĵo kiu provizas liberan, kunlaboran, multilingvan, duarangan datumbazon subtenanta Vikipedion kaj aliajn projektojn."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Ekscii pli"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Priskriboj ideale estu ne pli longaj ol unu linio kaj konsistas el ĝis dek vortoj. Ne aperu en ĝi majuskloj (ankaŭ ne komence), krom se la unua vorto estas nomo."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "titola priskribo por artikolo pri la Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "titola priskribo por artikolo pri Monto Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "pentraĵo de Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "plej alta monto de la tero"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Ekzemple:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Konsiletoj por krei priskribojn"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Helpo pri titola priskribo"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Vikidatumoj-manlibro pri skribado de priskriboj"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Farite"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Vi ĵus plibonigis Vikipedion por ĉiu"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Priskribo publikigita!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Ideale unu linio, inter du kaj dek du vortoj"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Skribu mallonge"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Resumas artikolon por helpi legantojn kompreni la temon unuavide"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Titolaj priskriboj"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Ekante, mi promesas ne misuzi ĉi tiun eblon"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Ekredakti"
+    },
+    {
+      "name": "dim_images",
+      "value": "Malheligi bildojn"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Montriĝa teksto"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Celo de ligilo"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Forigi ligilon"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Redakti ligilon"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Redakti"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Tio estas eble ĉar la teksto elektita de vi ne estas redaktebla (ekz. artikola titolo aŭ informkarta titolo) aŭ pro la longo de la elektita teksto"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Ne povis trovi la tekston elektitan de vi."
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Lerni plu pri redaktetoj"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Tio estas redakteto"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Aldoni redaktan resumon"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Ĝustigis gramatikon"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Ĝustigis ortografion"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Aldonis ligilojn"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Kiel ĝi plibonigis la artikolon?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Lerni pli pri via Atentaro"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Atenti ĉi tiun paĝon"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Aŭdacu sed ne malzorgu pri ĝisdatigado de artikoloj. Ne angoru pri misoj: ĉiu versio de paĝo konserviĝas; ajna miso estas facile korektebla far nia komunumo."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Via voĉo gravas"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Ĉiu enhavo estu konfirmebla. Dum aldonado de nova informo al artikolo, redaktanto entekste citu fidindan fonton rekte subtenantan la kontribuon."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Citu fidindajn fontojn"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Ni strebas al senpartie verkitaj artikoloj. Dum redaktado, aspiru juste prezenti la mondon laŭ priskribo de fidindaj fontoj."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Verki senpartie"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Por doni al ĉiu la scion de la mondo, ni bezonas vin partopreni per legado, redaktado, kaj kontribuado pri temoj interesantaj vin."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Liberigu scion"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Redakti fonton"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Elekti dosieron en Vikimedia Komunejo"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Pardonon, ne povis ŝargi la artikolon"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Vi daŭre povas legi konservitajn paĝojn"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Vi povas vidi viajn rekomenditajn artikolojn kiam vi havas retaliron"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Atentadu tion kion vi legis ĉi tie"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Neniu historio por montri"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Krei listojn por lokoj vizitindaj, ŝatataj temoj kaj multe pli"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizu konservitajn artikolojn kun legolistoj"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Konservu paĝojn al ĉi tiu listo por aperigi ilin ĉi tie"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Neniuj paĝoj konservitaj al ĉi tiu listo"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Konservi paĝojn por vidi ilin poste, eksterrete"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Neniuj konservitaj paĝoj ankoraŭ"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Neniuj rezultoj trovitaj"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Neniu mesaĝo afiŝiĝis por ĉi tiu uzanto"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Bonvolu provi denove poste"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Okazis nekonata eraro"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Alia hazarda artikolo"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Ĉar vi legas"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Aldonaj rilataj artikoloj"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Daŭrigi la legadon"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Reen al la Esplorfluo"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Esplori artikolojn proksime al via aktuala loko"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Elstarigita artikolo"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "De \\$1 Vikipedio"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "De Vikipedio"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Tajlori"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Esplori lingvajn agordojn de la Esplorfluo"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Kromajn lingvojn vi povas aldoni ĉe la agorda paĝo 'Miaj lingvoj'."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Karto kaŝita"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Rapida ligilo reen al legado de malfermita artikolo"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Tajlori la Esplorfluon"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Tajlori Esplorfluon"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Kaŝi kartan specon zorgos pri tio ke tiu ĉi kartospeco ne plu aperos en la Esplorfluo."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Esplora taba folio"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Ĉiutaga elstarigita artikolo sur Vikipedio"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Malŝaltita"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Ĉiuj ŝaltitaj"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Ŝaltita"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Ŝaltita \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Ĉiuj \\$1 kartoj kaŝitaj"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Ĉi tiu karto ne estas lingvospecifa, malŝaltanta ĉi tiun karton forigos ĝin de via Esplorfluo."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Ne lingvospecifaj kartoj"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ne lingvospecifa"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Tutmondaj kartoj"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Kaŝi ĉi tiun karton"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Kaŝi ĉiujn kartojn de tipo “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikoloj pri nunaj eventoj"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Se vi kaŝas ĉiujn kartojn sur la Esplorfluo en via lingvo, la Esplortaba folio estos malŝaltita."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Historiaj eventoj en tiu ĉi tago"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Vikipediaj artikoloj proksime al via loko"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Ĉiutaga elstarigita bildo de Komunaĵo"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Generi hazardajn artikolojn por legi"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Sugestoj bazitaj sur legohistorio"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Montri la karton Daŭrigi la legadon"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Se vi malŝaltas la karton Elstarigita artikolo, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Montri la karton Elstarigita artikolo"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Se vi malŝaltas la karton En la novaĵoj, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Montri la karton En la novaĵoj"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Se vi malŝaltas la karton En tiu ĉi tago, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Montri la karton En tiu ĉi tago"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Montri la karton Bildo de la tago"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Se vi malŝaltas la karton Lokoj, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Montri la karton Lokoj"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Se vi malŝaltas la karton Hazardumilo, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Montri la karton Hazardumilo"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Montri la karton Ĉar vi legas"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Se vi malŝaltas la karton Popularaj legaĵoj, la karto estos malŝaltita en ĉiuj disponeblaj lingvoj."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Montri la karton Popularaj legaĵoj"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Ĉiutage plej ofte legitaj artikoloj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Malŝalti la Esplorfluon"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Se vi kaŝas ĉiujn kartojn sur la Esplorfluo, la Esplorflua taba folio estos malŝaltita kaj anstataŭigita de Agorda taba folio"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Ĉu malŝalti la Esplorfluon?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Malŝalti Esploradon"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "La Esplorflua taba folio povas esti re-ŝaltita ĉe la agordoj de la Esplorfluo."
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Ĉu malŝalti la Esplorfluan taban folion?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Se vi malŝaltas la Esplorfluan taban folion, ĝi estos anstataŭigita de taba folio Agordoj."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Se vi elektas montri kartojn sur la Esplorfluo, vi ŝaltas la Esplorfluan taban folion"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Ŝalti Esploradon"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Ĉi tio anstataŭos la taban folion Agordoj per la Esplorflua taba folio. Vi povas aliri la agordojn supre de la Esplorflua taba folio, tuŝetante la dentoradan bildsimbolon"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Ĉu ŝalti la Esplorfluan taban folion?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Kaŝi ĉi tiun karton"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Ĉefa paĝo de vikimediaj projektoj"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hodiaŭ sur Vikipedio"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Ĉiuj popularaj artikoloj"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Popularaj"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Populara je \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Je la \\$1 Vikipedio"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Sur Vikipedio"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Lokoj proksime al"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Lokoj"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "De \\$1 Vikipedio"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "De Vikipedio"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Via loko"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Via loko de \\$1 Vikipedio"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Bildo de la tago"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "De Vikimedia Komunejo"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Hazarda artikolo"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "De \\$1 Vikipedio"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "De Vikipedio"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Hazardumilo"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Io misfunkciis. Bonvolu reprovi poste."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "La aplikaĵo ricevis ne atenditan respondon el la servilo. Bonvolu reprovi poste."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Nevalida CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "La pasvortoj ne kongruas"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Nevalida kodo"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Uzantnomo ne disponebla"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Rezerva kodo"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-teksto"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Enigu la tekston kiun vi vidas supre"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Retpoŝta adreso"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Retpoŝta adreso (nedeviga)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "re-enigu la novan pasvorton"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Konfirmu la novan pasvorton"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "entajpu novan pasvorton"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nova pasvorto"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "re-enigu la pasvorton"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Konfirmu la pasvorton"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "enigu pasvorton"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Pasvorto"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kontrolkodo"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "enigu la uzantnomon"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Uzantnomo"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Viŝi serĉan kampon"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Sekva trovito"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Antaŭa trovito"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Trovi kaj anstataŭigi"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Malŝalti reĝimon de trovado kaj anstataŭigado"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Trovi"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Restarigi"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Retmesaĝo kun instrukcioj pri la restarigo de pasvorto estas sendita"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Plenigu unu el la kampoj ĉi-sube por ricevi instrukcioj pri restarigo de pasvorto per retpoŝto"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Restarigi pasvorton"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Aŭ"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Ĉu vi certas, ke vi volas forigi ĉiujn viajn lastajn erojn?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Jes, forigi ĉion"
+    },
+    {
+      "name": "history_title",
+      "value": "Historio"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Vikipedio, reveni al Esplorado"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Vikipedio, reveni al Konservitaj"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Pliaj kiel \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Pli da lokoj proksime al via loko"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Pliaj proksime de \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Pli da nunaj eventoj"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Viaj konservitaj artikoloj nun povas esti organizitaj en legolistoj kaj esti sinkronigitaj trans aparatoj. Ensalutu por ebligi ke viaj ligolistoj estu konservitaj ĉe viaj uzantopreferoj."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Administri preferojn"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Ĝustigu viajn Legopreferojn inkluzive de teksta grando kaj etoso de la artikola ilobreto aŭ en viaj agordoj de uzanto por optimumigi vian legoĝuon."
+    },
+    {
+      "name": "home_title",
+      "value": "Esplori"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Vikipedio, rumuli ĝis la supro de Esplorado"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Apudaj artikoloj"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Hazarda artikolo"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Serĉi tra Vikipedio"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Aŭtoro estas nekonata."
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Ne"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Jes"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Mia Legolisto"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "De \\$1 Vikipedio"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "De Vikipedio"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "En la novaĵoj"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Enŝovi"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Enmeti ligilon"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Teksta priskribo por legantoj kiuj ne povas vidi la bildon"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Priskribi la bildon"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativa teksto"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Kiel la bildo rilatas la artikolon?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Etikedo montrata apud la ero al ĉiuj legantoj"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Titolo"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centren"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Maldekstren"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Neniel"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Dekstren"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Pozicio de bildo"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Pli da informo"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Elekti bildon"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Tajlorite"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Implicite"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "bilderoj"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Grando de bildo"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Baza"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Kadro"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Sen kadro"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniaturo"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tipo de bildo"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Agordoj pri aŭdvidaĵoj"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Enigi aŭdvidaĵon"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Lingvoj"
+    },
+    {
+      "name": "languages_title",
+      "value": "Ŝanĝi lingvon"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Vikipediaj lingvoj"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Daŭrigi sen ensaluti"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Denove ensaluti en vian konton"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Estis problemo aŭtentigante vian konton. Por povi sinkronigi viajn legolistojn kaj redakti sub via uzantnomo, bonvolu denove ensaluti."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Vi elsalutis"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ĉu vi forgesis vian pasvorton?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Aliĝi al Vikipedio."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Ĉu vi ne havas konton? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Ensaluti en vian konton"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Pri la aplikaĵo"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Ensaluti"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Elsaluti"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ĉu vi certas, ke vi volas elsaluti?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Ensalutinta kiel \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privateco kaj uzkondiĉoj"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Ĉirkaŭe"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Politiko pri privateco"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Taksi la aplikaĵon"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Uzkondiĉoj"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Pli"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Oftaj demandoj pri Vikipedio Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Serĉi tra Vikipedio en preskaŭ 300 lingvoj"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Aldoni lingvojn"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Movi {{PLURAL:\\$1|\\$1 artikolon|\\$1 artikolojn}} al legolisto"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Antaŭrigardi"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 futoj"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mejloj"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Vi ensalutis per provizora pasvorto. Por fini vian ensalutadon, agordu novan pasvorton ĉi tie."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Starigu vian pasvorton"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Bonvolu agordi retpoŝtan konton sur via aparato kaj provi denove."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Interreta konekto mankas"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Ŝalti sciigojn"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Ĉiuj tipoj"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Farite"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projektoj"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Vikimediaj projektoj"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Vikipedioj"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 mesaĝo|\\$1 mesaĝoj}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=En 1 projekto|En \\$1 projektoj}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 projekto|\\$1 projektoj}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1mil"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "de \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 historia evento|\\$1 historiaj eventoj}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Pli da historiaj eventoj en ĉi tiu tago"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 de \\$2 Vikipedio"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "En ĉi tiu tago"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Tuŝetu sur 'W' por reveni al la taba folio de kiu vi startis"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Aŭtoro: \\$1"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Vi ne rajtas redakti ĉi tiun paĝon"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ĉi tiu paĝo estas protektita"
+    },
+    {
+      "name": "pictured",
+      "value": "bildigita"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Forigi la konservitajn serĉojn"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikoloj"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Recentrigi sur via loko"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Montri kiel liston"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Montri kiel mapon"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Montri pli da artikoloj"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Esplori urbojn, landojn, kontinentojn, naturajn orientilojn, historiajn eventojn, konstruaĵojn kaj pli."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Serĉi vikipediajn artikolojn kun geografiaj lokoj"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Ebligi lokon"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Aliro al via loko estas disponebla nur kiam la aplikaĵo aŭ unu el ties ĉefaĵoj estas videbla sur via ekrano."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Esplori artikolojn proksime al via loko ebligante Aliron al la loko"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtri artikolojn"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtrilo"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Vi havas ne konservitajn lokojn"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Konservitaj artikoloj"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Popularaj legaĵoj"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikolo|\\$1 artikoloj}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Popularaj artikoloj"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Loko ŝaltita"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Neniuj de viaj konservitaj artikoloj havas informojn pri loko"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 kongruas kun “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Traserĉi lokojn"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Ĉu vi celis \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Lastaj serĉoj"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Ĉiuj konservitaj artikoloj"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Proponataj serĉoj"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Rezultoj en ĉi tiu areo"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Ĉiuj popularaj artikoloj"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Ĉirkaŭe"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Via nuna loko"
+    },
+    {
+      "name": "places_title",
+      "value": "Lokoj"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "nekonata distanco"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Bildo de la tago por \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Malsukcesis ricevi bildon de la tago por \\$1"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Bildo de la tago"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Permesi al Vikipedio kolekti informojn pri kiel vi uzas la aplikaĵon por helpi ĝin plibonigi"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Ĉu aldoni ĉi tiun artikolon al legolisto?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Ĉu aldoni \"\\$1\" al legolisto?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Jes, aldonu ilin al miaj legolistoj"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Estas artikoloj konservitaj al via vikipedia aplikaĵo. Ĉu vi volas konservi ilin kaj aldoni ilin al legolistoj sinkronigitaj al via konto?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Konservitaj artikoloj trovitaj"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Ĉi tiu ero ne estas sinkronigita, ĉar vi atingis la limon por la nombro de eroj en ĉi tiu listo."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Neatendita eraro okazis dum la sinkronigado de viaj legolistoj."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Ĉi tiu listo ne estas sinkronigita, ĉar vi atingis la limon por la nombro de sinkronigitaj listoj."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Krei legoliston"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Priskribo"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nomo de la legolisto"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Krei novan liston"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Legolisto forigita"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "Serĉi tra legolisto"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Ne, forigi artikolojn de la aparato"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Bonvolu malpliigi la nombron de artikoloj en ĉi tiu listo al \\$1 por daŭrigi la sinkronigadon de ĉiuj artikoloj en ĉi tiu listo."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Vi preterpasis la limon de po {{PLURAL:\\$1|\\$1 artikolo|\\$1 artikoloj}} por konto."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Artikolo|Artikoloj}} ne povis esti aldonita al via listo. Vi atingis la limon de po \\$2 artikoloj por legolisto por \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Nomo de legolisto jam uzata"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Neatendita eraro okazis dum la ĝisdatigado de viaj legolistoj."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Jes, konservi artikolojn sur la aparato"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Estas artikoloj sinkronigitaj al via vikipedia konto. Ĉu vi volas konservi ilin sur via aparato post kiam vi elsalutas?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Ĉu konservi konservitajn artikolojn sur la aparato?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Ordigi artikolojn"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Estas limo de 5000 neordigitaj artikoloj. Bonvolu ordigi viajn ekzistantajn artikolojn en listoj por daŭrigi la sinkronigadon de neordigitaj artikoloj."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Limo-atingo de neordigitaj artikoloj"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Ĉi tiu legolisto kaj la artikoloj konservitaj al ĝi ne estos sinkronigitaj. Bonvolu malpliigi vian nombron de listoj al \\$1 por daŭrigi la sinkronigadon de ĉi tiu listo."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Vi preterpasis la limon de po {{PLURAL:\\$1|\\$1 legolisto|\\$1 legolistoj}} por konto."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Vi atingis la limon de po \\$1 legolistoj por konto"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Ensalutu por sinkronigi viajn konservitajn artikolojn"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Ensaluti aŭ krei novan konton"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Ensalutu por sinkronigi konservitajn artikolojn"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Ensalutu aŭ kreu konton por ebligi ke viaj konservitaj artikoloj kaj legolistoj estu sinkronigitaj trans aparatoj kaj konservitaj al viaj uzanto-preferoj."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Ĉu sinkronigi viajn konservitajn artikolojn?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[uzanto kreita]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "nedeviga mallonga priskribo"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "titolo de la legolisto"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "La sinkronigado de legolistoj estas malŝaltita por via vikipedia konto je alia aparato. Vi povas reŝalti la sinkronigadon ĝisdatigante viajn agordojn."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinkronigado malŝaltita"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Ŝalti sinkronigadon"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Viaj konservitaj artikoloj kaj legolistoj nun povas esti konservataj al via vikipedia konto kaj sinkronigita trans vikipediaj aplikaĵoj."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Ĉu ŝalti la sinkronigadon de legolistoj?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Sinkronigado de legolistoj estas ŝaltita por tiu ĉi konto. Por haltigi la sinkronigadon, vi povas malŝalti la sinkronigadon por tiu ĉi konto ĝisdatigante viajn agordojn."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Sinkronigado estas ŝaltita por tiu ĉi konto"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Neatendita eraro okazis aldonante eron al via legolisto. Bonvolu provi denove poste."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Neatendita eraro okazita kreante vian legoliston. Bonvolu provi denove poste."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Neatendita eraro okazis forigante vian legoliston. Bonvolu provi denove poste."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Neatendita eraro okazis forigante eron el via legolisto. Bonvolu provi denove poste."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Neatendita eraro okazita ĝisdatigante vian legoliston. Bonvolu provi denove poste."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Legolisto kun la nomo \"\\$1\" ne estas trovita. Bonvolu certiĝi ke vi havas la ĝustan nomon."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikolo aldonita al \"\\$1\""
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Ne eblas sinkronigi ĉi tiun artikolon."
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Ne sinkronigita"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Artikola limo preterpasita, ne eblas sinkronigi la artikolon"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Lista limo preterpasita, ne eblas sinkronigi la artikolon"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artikolo envicigita por esti elŝutita"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Aparata limo preterpasita, ne eblas sinkronigi la artikolon"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Liberigu iom da spaco sur via aparato kaj provu denove"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Kelkaj artikoloj ne sinkronigitaj, limo preterpasita"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Via listo '\\$1' estas alinomita al'\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 legolisto|\\$1 legolistoj}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Defaŭlta listo por viaj konservitaj artikoloj"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Konservitaj"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Ĉi tiu ago ne povas esti malfarita. Ajnaj artikoloj konservitaj nur al {{PLURAL:\\$1|ĉi tiu listo|ĉi tiuj listoj}} estas malkonservotaj."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Ĉu forigi la {{PLURAL:\\$1|liston|listojn}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 artikolo|\\$1 artikoloj}} kaj {{PLURAL:\\$2|\\$2 legolisto|\\$2 legolistoj}} sinkronigitaj de via konto"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Listo ne sinkronigita, limo preterpasita"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Ordigi konservitajn artikolojn"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Estas limo de po \\$1 artikoloj por legolisto. Ekzistantaj listoj pli longaj ol ĉi tiu estas dividitaj en plurajn listojn."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "La sinkronigado estas daŭrigota kiam retkonekto estos disponebla"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Nigra etoso"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Brileco-ŝovilo"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Malhela etoso"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Hela etoso"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepia etoso"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Sintaksa Reliefo"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Ŝovilo pri teksta grando"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Sintaksa Reliefo"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referenco \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Hodiaŭ|1=Hieraŭ|Antaŭ \\$1 tagoj}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Antaŭ nelonge|Antaŭ \\$1 horo|Antaŭ \\$1 horoj}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Ĵus|Antaŭ \\$1 minuto|Antaŭ \\$1 minutoj}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Ĉi-jare|1=Pasintjare|$Antaŭ \\$1 jaroj}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Malfarita redakto"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Ĉiuj artikoloj"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Ĉi tiu listo ne povas esti forigita"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Malsukcesis elŝuti bildojn por ĉi tiu konservita paĝo."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Artikolo estas elŝutata..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Legolistoj"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Serĉi konservitajn artikolojn"
+    },
+    {
+      "name": "saved_title",
+      "value": "Konservita"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Se vi malkonservas {{PLURAL:\\$1|ĉi tiun artikolon, ĝi estas forigota|ĉi tiujn artikolojn, ili estas forigotaj}} de ĉiuj ligitaj legolistoj"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Ĉu malkonservi {{PLURAL:\\$1|la artikolon|la artikolojn}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Serĉi tra Vikipedio"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Malplenigi"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Serĉi tra Vikipedio"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Ĉu forigi ĉiujn lastajn serĉojn?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tiu ĉi ago ne povas esti malfarita!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Forigi ĉiujn"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Ankoraŭ neniuj lastaj serĉoj"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Laste serĉata"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Alidirektita el: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Serĉi"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konto"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Legopreferoj"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Malplenigi la kaŝmemorigitajn datumojn"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Malplenigi la kaŝmemorigitajn datumojn liberigos ĉirkaŭ \\$1 da spaco. Tio ne forigos viajn konservitajn paĝojn."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Ĉu malplenigi la datumojn?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Nuligi"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Malplenigi la kaŝmemoron"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Helpo kaj prikomentado"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Montri lingvojn dum serĉado"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Vi povas administri kiuj lingvoj estas montrataj sur via Esplorfluo tajlorante viajn Esplorfluajn agordojn."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Miaj lingvoj"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Sciigoj"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Ĉefa"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "La unua lingvo en ĉi tiu listo estas uzata kiel la ĉefa lingvo por la aplikaĵo."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Agordi la aplikaĵon por malfermi la Serĉan taban folion anstataŭ la Esploran taban folion"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Malfermi la aplikaĵon sur la Serĉa taba folio"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Permesi al Vikimedio konservi viajn konservitajn artikolojn kaj legolistojn al viaj uzanto-preferoj kiam vi ensalutas kaj sinkronigas."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sinkronigitaj konservitaj artikoloj kaj listoj"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Viaj legolistoj estas sinkronigotaj fone"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Peti ĝisdatigon de viaj sinkronigitaj artikoloj kaj legolistoj."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Ĝisdatigi la sinkronigitajn legolistojn"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Montri la konservitan (ekz. defaŭltan) legoliston kiel apartan liston en via legolisto-vido. Ĉi tiu listo aperas sur Android-aparatoj."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Montri konservitan legoliston"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Konservado kaj sinkronigado de artikoloj"
+    },
+    {
+      "name": "settings_title",
+      "value": "Agordoj"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Farita per la vikipedia aplikaĵo"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" ĉe @Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Konstruas karton Konigi-fakton"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” de “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nde “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Vojpriskribo"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Konigi...."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "per @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Malfermi en Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” pere de Vikipedio: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” pere de @Vikipedio: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Ĵus aldonita"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titolo"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Enhavtabelo"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Fermi"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Fermi enhavtabelon"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Enhavaĵoj"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Legita"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Nelegita"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Rememoru ke ni ĉiuj estas homoj ĉi tie"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Bonvolu esti afabla"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Via respondo sukcese publikiĝis"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Via diskuto sukcese publikiĝis"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Diskutpaĝo de artikolo"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Diskutpaĝo de Uzanto"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Nigra"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Malhela"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Defaŭlta"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Hela"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Daŭrigi la ensalutadon"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Bonvolu enigi la dupaŝan kontrolkodon"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Ensaluti en vian konton"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Uzi unu el viaj rezervaj kodoj"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Uzi la kontrolkodon"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Ne povas ŝargi diskutpaĝon"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|\\$1 bajto|\\$1 bajtoj}})"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Uzantopaĝo"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Rekomendataj legaĵoj kaj ĉiutagaj artikoloj de nia komunumo"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Esplorfluo"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Vojaĝu al la pasinteco por ekscii kio okazis hodiaŭ en historio"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "En ĉi tiu tago"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Eltrovi orientilojn proksime al vi aŭ serĉi lokojn tra la mondo"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Taba folio Lokoj"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Komenci"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Novaj manieroj por esplori"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Komprenite"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Vikipedio estas kunlabore verkita de volontuloj kaj konsistas de pli ol 40 milionoj da artikoloj en pli ol 300 lingvoj."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Ekscii pli pri Vikipedio"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Pri Vikipedio"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Vikipedio estas tutmonda projekto por konstrui liberajn enciklopediojn en ĉiuj lingvoj de la mondo. Preskaŭ ĉiu ajn kun retaliro estas libera por kontribui per neŭtralaj informojn, citante fontojn."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "La libera enciklopedio"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Aldoni alian lingvon"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Aldoni aŭ redakti preferatajn lingvojn"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Ni trovis la sekvajn lingvojn sur via aparato:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Serĉi en pli ol 300 lingvoj"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Ricevado de antaŭrigardo de viaj ŝanĝoj..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ĉi tiu ligilo ligas eksteran retejon: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ekstera ligilo"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Vikipedio ne havas artikolon kun tiu ekzakta nomo"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Ne trovis eksteran ligilon"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Ĉi tiu ligilo ligas al '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Ligila antaŭrigardo"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Konservi ŝanĝojn"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA-kontroleraro."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA-kontrolo deviga."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Nekapabla determini la alŝutan rezulton de wikitext."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publikigas..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Redaktoj estos atribuitaj al la IP-adreso de via aparato. Se vi \\$1Ensalutas\\$2, vi havos pli da privateco."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Redaktoj estos atribuitaj al la IP-adreso de via aparato. Se vi \\$1, vi havos pli da privateco."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Uzkondiĉoj"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Hieraŭ"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Ĉar vi legas"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Ĉiuj popularaj artikoloj"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Alia hazarda artikolo"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "De %s Vikipedio"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Je la %s Vikipedio"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "De Vikimedia Komunejo"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Neniu historio por montri"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Hieraŭ"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Kaŝi ĉi tiun karton"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Tajlori Esplorfluon"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Karto kaŝita"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Titola priskribo por %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Ĉu vi celis %s?"
+    }
+  ]
+}

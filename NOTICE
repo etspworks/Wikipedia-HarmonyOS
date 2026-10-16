@@ -1,0 +1,50 @@
+Wikipedia for HarmonyOS
+=======================
+
+This project is an unofficial HarmonyOS (ArkTS / ArkUI) port of the Wikipedia
+iOS app, the official Wikipedia reader for iPhone and iPad by the Wikimedia
+Foundation and its contributors.
+
+Upstream project: https://github.com/wikimedia/wikipedia-ios
+Upstream base:    release 2026.08.11, build 6144 (tag releases/2026.08.11)
+
+The upstream software is distributed under the MIT License, reproduced in the
+LICENSE file at the root of this repository:
+
+    Copyright (c) 2013–2025 Wikimedia Foundation et al.
+
+This port reuses upstream source logic, strings, resources and artwork. All of it
+remains under that MIT License. Modifications made for the HarmonyOS platform are
+released under the same terms.
+
+This port is NOT affiliated with, endorsed by, or supported by the Wikimedia
+Foundation. Please do not report problems with this port to the upstream
+project. "Wikipedia", the Wikipedia puzzle globe and the Wikipedia wordmark are
+trademarks of the Wikimedia Foundation; the MIT License covers the source code,
+not those names or that artwork.
+
+
+Content and services
+--------------------
+
+Articles, images and other content shown in the app are loaded at run time from
+Wikipedia, Wikimedia Commons and Wikidata. Text is available under the Creative
+Commons Attribution-ShareAlike License (CC BY-SA 4.0); media carries the license
+shown on its own file page. None of that content ships in this repository.
+
+The Places map is Huawei Map Kit (Petal Maps). Its map data and attribution are
+provided, and shown on the map, by that service under Huawei's terms.
+
+
+Bundled third-party assets
+--------------------------
+
+* entry/src/main/resources/rawfile/fonts/logo-wikipedia.ttf
+  Wikipedia wordmark glyph font, carried over from upstream
+  (Wikipedia/logo-wikipedia.ttf). Wikimedia Foundation trademark.
+
+* entry/src/main/resources/rawfile/fonts/NotoSerif-Regular.ttf
+  Noto Serif, Copyright 2022 The Noto Project Authors.
+  Licensed under the SIL Open Font License, Version 1.1.
+  https://github.com/notofonts/latin-greek-cyrillic
+  https://openfontlicense.org/

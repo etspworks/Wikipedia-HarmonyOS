@@ -1,0 +1,392 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "wmf_black",
+      "value": "#000000"
+    },
+    {
+      "name": "wmf_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "gray800",
+      "value": "#101418"
+    },
+    {
+      "name": "gray700",
+      "value": "#202122"
+    },
+    {
+      "name": "gray675",
+      "value": "#27292D"
+    },
+    {
+      "name": "gray650",
+      "value": "#2E3136"
+    },
+    {
+      "name": "gray600",
+      "value": "#54595D"
+    },
+    {
+      "name": "gray500",
+      "value": "#72777D"
+    },
+    {
+      "name": "gray400",
+      "value": "#A2A9B1"
+    },
+    {
+      "name": "gray300",
+      "value": "#C8CCD1"
+    },
+    {
+      "name": "gray200",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "gray150",
+      "value": "#EEF2FB"
+    },
+    {
+      "name": "gray100",
+      "value": "#F8F9FA"
+    },
+    {
+      "name": "blue700",
+      "value": "#2A4B8D"
+    },
+    {
+      "name": "blue600",
+      "value": "#3366CC"
+    },
+    {
+      "name": "blue300",
+      "value": "#6699FF"
+    },
+    {
+      "name": "blue100",
+      "value": "#EAF3FF"
+    },
+    {
+      "name": "blue100alpha",
+      "value": "#0D3366CC"
+    },
+    {
+      "name": "blue600alpha",
+      "value": "#336699FF"
+    },
+    {
+      "name": "blue300alpha15",
+      "value": "#266699FF"
+    },
+    {
+      "name": "blue600alpha30",
+      "value": "#4D3366CC"
+    },
+    {
+      "name": "red700",
+      "value": "#B32424"
+    },
+    {
+      "name": "red600",
+      "value": "#DD3333"
+    },
+    {
+      "name": "red100",
+      "value": "#FEE7E6"
+    },
+    {
+      "name": "green700",
+      "value": "#14866D"
+    },
+    {
+      "name": "green600",
+      "value": "#00AF89"
+    },
+    {
+      "name": "green100",
+      "value": "#D5FDF4"
+    },
+    {
+      "name": "green100alpha",
+      "value": "#0D00AF89"
+    },
+    {
+      "name": "green600alpha",
+      "value": "#3300AF89"
+    },
+    {
+      "name": "yellow600",
+      "value": "#FFCC33"
+    },
+    {
+      "name": "beige400",
+      "value": "#E1DAD1"
+    },
+    {
+      "name": "beige300",
+      "value": "#F0E6D6"
+    },
+    {
+      "name": "beige100",
+      "value": "#F8F1E3"
+    },
+    {
+      "name": "taupe600",
+      "value": "#646059"
+    },
+    {
+      "name": "taupe200",
+      "value": "#CBC8C1"
+    },
+    {
+      "name": "purple600",
+      "value": "#6B4BA1"
+    },
+    {
+      "name": "orange600",
+      "value": "#FF9500"
+    },
+    {
+      "name": "orange100",
+      "value": "#F1E34D"
+    },
+    {
+      "name": "orange100alpha",
+      "value": "#0DFF9500"
+    },
+    {
+      "name": "orange600alpha",
+      "value": "#33FF9500"
+    },
+    {
+      "name": "border_dark5",
+      "value": "#0D000000"
+    },
+    {
+      "name": "border_dark0",
+      "value": "#00000000"
+    },
+    {
+      "name": "softblue15",
+      "value": "#266699FF"
+    },
+    {
+      "name": "softgreen15",
+      "value": "#2600AF89"
+    },
+    {
+      "name": "softorange15",
+      "value": "#26FF9500"
+    },
+    {
+      "name": "dark_search_field_background",
+      "value": "#1F8E8E93"
+    },
+    {
+      "name": "light_search_field_background",
+      "value": "#26FFFFFF"
+    },
+    {
+      "name": "light_match_background",
+      "value": "#4DFFCC33"
+    },
+    {
+      "name": "dark_match_background",
+      "value": "#B3F7D779"
+    },
+    {
+      "name": "match_replaced_background",
+      "value": "#D0E4FC"
+    },
+    {
+      "name": "success_green",
+      "value": "#14866D"
+    },
+    {
+      "name": "theme_text",
+      "value": "#202122"
+    },
+    {
+      "name": "theme_secondary_text",
+      "value": "#72777D"
+    },
+    {
+      "name": "theme_link",
+      "value": "#3366CC"
+    },
+    {
+      "name": "theme_accent",
+      "value": "#00AF89"
+    },
+    {
+      "name": "theme_destructive",
+      "value": "#DD3333"
+    },
+    {
+      "name": "theme_warning",
+      "value": "#FF9500"
+    },
+    {
+      "name": "theme_border",
+      "value": "#A2A9B1"
+    },
+    {
+      "name": "theme_new_border",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_paper_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "theme_mid_background",
+      "value": "#F8F9FA"
+    },
+    {
+      "name": "theme_addition",
+      "value": "#266699FF"
+    },
+    {
+      "name": "theme_base_background",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_card_button_background",
+      "value": "#F8F9FA"
+    },
+    {
+      "name": "theme_popover_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "theme_icon",
+      "value": "#C8CCD1"
+    },
+    {
+      "name": "theme_icon_background",
+      "value": "#72777D"
+    },
+    {
+      "name": "theme_accessory_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "theme_input_accessory_button_tint",
+      "value": "#54595D"
+    },
+    {
+      "name": "theme_input_accessory_button_selected_tint",
+      "value": "#202122"
+    },
+    {
+      "name": "theme_input_accessory_button_selected_background",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_keyboard_bar_search_field_background",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_diff_compare_accent",
+      "value": "#FF9500"
+    },
+    {
+      "name": "theme_editor_orange",
+      "value": "#FF9500"
+    },
+    {
+      "name": "theme_soft_editor_orange",
+      "value": "#0DFF9500"
+    },
+    {
+      "name": "theme_editor_purple",
+      "value": "#6B4BA1"
+    },
+    {
+      "name": "theme_editor_green",
+      "value": "#00AF89"
+    },
+    {
+      "name": "theme_soft_editor_green",
+      "value": "#0D00AF89"
+    },
+    {
+      "name": "theme_editor_blue",
+      "value": "#3366CC"
+    },
+    {
+      "name": "theme_soft_editor_blue",
+      "value": "#0D3366CC"
+    },
+    {
+      "name": "theme_editor_gray",
+      "value": "#72777D"
+    },
+    {
+      "name": "theme_editor_match_foreground",
+      "value": "#000000"
+    },
+    {
+      "name": "theme_editor_match_background",
+      "value": "#4DFFCC33"
+    },
+    {
+      "name": "theme_editor_selected_match_background",
+      "value": "#FFCC33"
+    },
+    {
+      "name": "theme_editor_replaced_match_background",
+      "value": "#D0E4FC"
+    },
+    {
+      "name": "theme_editor_button_selected_background",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_editor_keyboard_shadow",
+      "value": "#EAECF0"
+    },
+    {
+      "name": "theme_chrome_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "theme_navigation_bar_tint",
+      "value": "#3366CC"
+    },
+    {
+      "name": "theme_secondary_action",
+      "value": "#2A4B8D"
+    },
+    {
+      "name": "theme_dark_border",
+      "value": "#0D000000"
+    },
+    {
+      "name": "theme_toast_shadow",
+      "value": "#A2A9B1"
+    },
+    {
+      "name": "theme_tag_text",
+      "value": "#3366CC"
+    },
+    {
+      "name": "theme_tag_background",
+      "value": "#1A3366CC"
+    },
+    {
+      "name": "theme_batch_selection_background",
+      "value": "#EAF3FF"
+    },
+    {
+      "name": "theme_success_green",
+      "value": "#14866D"
+    }
+  ]
+}

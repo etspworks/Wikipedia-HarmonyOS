@@ -1,0 +1,2628 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licenza do contido"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "A non ser que se especifique o contrario, o contido está dispoñible baixo unha \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Licenza Creative Commons Atribución-CompartirIgual"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Colaboradores"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Bibliotecas empregadas"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Lista completa"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenza"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Encántanos o software de código aberto \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licenza dos mapas de Sitios"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Sitios utiliza mapas fornecidos por Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Por favor vexa aquí os detalles de licenza"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Feito por \\$1 coa axuda de voluntarios coma vostede"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repositorios"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Código fonte dispoñible baixo a \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Licenza MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Enviar comentarios sobre a aplicación"
+    },
+    {
+      "name": "about_title",
+      "value": "Acerca de"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tradutores"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Esta aplicación foi traducida polos tradutores voluntarios en \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fundación Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Galipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Non pode ver a imaxe? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Obtendo un novo código CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Solicitar unha conta."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Verificación de seguridade con CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Crear a súa conta"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Xa ten unha conta? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Acceder ao sistema"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Accedendo ao sistema..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Debe introducir un nome de usuario, un contrasinal e unha confirmación do contrasinal para crear unha conta."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Os contrasinais non coinciden."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Gardando..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Crear unha nova conta"
+    },
+    {
+      "name": "account_group_title",
+      "value": "A súa conta"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "A súa páxina de conversa"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Asinar automaticamente as conversas"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "A sinatura automática nas conversas usará a sinatura definida na configuración da sinatura"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferencias da páxina de conversa"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Engadir a..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Engadir á lista de lectura"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Engadir á lista"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Atopar na páxina"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Cambiar a lingua"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Mover a..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Mover á lista de lectura"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Seguinte revisión"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Revisión anterior"
+    },
+    {
+      "name": "action_read",
+      "value": "Ler"
+    },
+    {
+      "name": "action_redo",
+      "value": "Refacer"
+    },
+    {
+      "name": "action_remove",
+      "value": "Eliminar"
+    },
+    {
+      "name": "action_save",
+      "value": "Gardar"
+    },
+    {
+      "name": "action_saved",
+      "value": "Gardado"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Gardado. Activar para eliminar o gardado."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artigo gardado para despois"
+    },
+    {
+      "name": "action_share",
+      "value": "Compartir"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Compartir"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ordenar"
+    },
+    {
+      "name": "action_undo",
+      "value": "Desfacer"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Non gardar"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artigo sen gardar"
+    },
+    {
+      "name": "action_update",
+      "value": "Actualizar"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Engadir {{PLURAL:\\$1|\\$1 artigo|\\$1 artigos}} á lista de lectura"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Descartar"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, Galipedia, referencia, wiki, enciclopedia, info, coñecemento, investigación, información, explorar, aprender"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Canle de exploración completamente configurable e doada de ler. Localización, melloras de rendemento e corrección de erros."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Descargue a aplicación de Wikipedia para explorar lugares preto de vostede, sincronizar artigos para ler cando non teña conexión e personalizar a súa experiencia de lectura."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "A enciclopedia libre"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Axustar o tamaño do texto do artigo"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Expandir táboas"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Facer que tódalas táboas en tódolos artigos estean abertas por defecto, incluíndo Caixas de información, Referencias, Notas e Ligazóns externas."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Diminuír a opacidade das imaxes nos temas escuro e negro"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Temas de lectura"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Axustes de táboa"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Mova a barra para cambiar o tamaño do texto do artigo. Use o cambio de tamaño de texto do seu sistema para redimensionar outras áreas de texto da aplicación."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opcións dos temas"
+    },
+    {
+      "name": "article_delete",
+      "value": "Borrar"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artigo eliminado|artigos eliminados}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Atopar lingua"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Escolla unha lingua"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Outras linguas"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "As súas linguas"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Non ten espazo abondo no seu dispositivo para gardar este artigo"
+    },
+    {
+      "name": "article_share",
+      "value": "Compartir"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Controis dos temas de lectura"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Volver"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Toque para volver atrás"
+    },
+    {
+      "name": "button_next",
+      "value": "Seguinte"
+    },
+    {
+      "name": "button_ok",
+      "value": "Aceptar"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publicar"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Informar dun erro"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Gardar para máis tarde"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Gardado para máis tarde"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Quitar dos gardados"
+    },
+    {
+      "name": "button_skip",
+      "value": "Omitir"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Limpar"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Pechar"
+    },
+    {
+      "name": "compass_direction",
+      "value": "ás \\$1"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Explorar Wikipedia para atopar máis artigos para ler"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Non hai artigos lidos recentemente"
+    },
+    {
+      "name": "description_add_title",
+      "value": "Engadir unha descrición"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Descrición do artigo \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Ó alterar a descrición do artigo, acepto os \\$1 e publico irrevogablemente as miñas contribucións baixo a licenza \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Editar introdución"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Editar a descrición do artigo"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "As descricións curtas son mellores"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publicar descrición"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Editar descrición"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Probe a manter as descricións curtas, así os usuarios poden entender o tema do artigo nunha ollada"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "As descricións dos artigos resumen os artigos para axudar ós lectores a entender o tema inmediatamente."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Acerca de"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Sobre Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "As descricións están almacenadas e mantidas en Wikidata, un proxecto da Fundación Wikimedia que proporciona unha base de datos secundaria, gratuíta, colaborativa, multilingüe, que soporta a Wikipedia e outros proxectos."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Máis información"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "As descricións deberían coller nunha liña, e ter entre dúas e doce palabras. Non usan maiúsculas, a non ser que a primeira palabra sexa un nome propio."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "descrición do artigo para un artigo sobre a Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "descrición do artigo para un artigo sobre o monte Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "pintura de Leonardo da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "A montaña máis alta da Terra"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Por exemploː"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Consellos para crear descricións"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Axuda coa descrición do artigo"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Guía de Wikidata para escribir descricións"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Feito"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Acaba de facer a Wikipedia mellor para todos"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Descrición publicada!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealmente unha liña, entre dúas e doce palabras"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Concisa"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Resume un artigo para axudar ós lectores a entender o tema nunha primeira ollada"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Descricións de artigos"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Ó comezar, prometo non utilizar de forma irresponsable esta funcionalidade"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Comezar a editar"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Edición anterior"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Comparar revisións"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Edición amosada"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Comparar revisións"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Amosar"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Agochar"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "abaixo"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "arriba"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Resumo de edición"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Liña \\$1"
+    },
+    {
+      "name": "dim_images",
+      "value": "Atenuación de imaxes"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Texto para mostrar"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Destino da ligazón"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Eliminar ligazón"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Editar a ligazón"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Editar"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Isto pode ocorrer porque o texto que seleccionou non é editable (por exemplo, o título do artigo ou títulos de caixas informativas) ou debido á lonxitude do texto destacado"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "O texto que seleccionou non pode ser localizado"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Saber máis sobre as edicións menores"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Esta é unha edición menor"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Engadir un resumo de edición"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Corrección gramatical"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Corrección ortográfica"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Ligazóns engadidas"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Como mellorou o artigo?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Máis información sobre a túa lista de vixilancia"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Vixiar esta páxina"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Sexa valente, pero non descoidado, na actualización de artigos. Non se preocupe por cometer errosː todas as versións anteriores das páxinas están gardadas, polo tanto a comunidade pode corrixir os erros de forma doada."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "A súa voz é importante"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Todo o contido debe ser verificable. Cando se engade nova información a un artigo, os editores deben proporcionar unha cita dunha fonte fiable que apoie directamente esa contribución."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Citar fontes fiables"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Esforzámonos para que os artigos estean escritos nun ton imparcial. Ó editar, tente dar unha imaxe xusta do mundo tal e como o describen as fontes fiábeis."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Escriba nun ton imparcial"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Para dar a todos acceso ó coñecemento mundial, precisamos que participe na súa creación, lendo, editando e contribuíndo nos asuntos que máis lle interesan."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Liberar o coñecemento"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Seleccionar un ficheiro de Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Sentímolo, non foi posible cargar o artigo"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Aínda pode ler as páxinas gardadas"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Pode ver os seus artigos recomendados cando teña conexión a Internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Manter un rexistro do que fun lendo aquí"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Non hai ningún historial para amosar"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Crear listas de lugares a visitar, os seus temas favoritos e moito máis"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizar os artigos gardados mediante listas de lectura"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Garde páxinas nesta listaxe para velas aparecer aquí"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Non foran gardadas páxinas nesta listaxe"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Gardar páxinas para velas máis tarde, incluso sen conexión"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Aínda non hai páxinas gardadas"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "No se atoparon resultados"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Aínda non foi publicada ningunha mensaxe para este usuario"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Por favor, ténteo de novo máis tarde"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Houbo un erro descoñecido"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Outro artigo aleatorio"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Porque vostede leu"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Artigos relacionados adicionais"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Continuar lendo"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Volver á canle de exploración"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Explorar artigos preto da súa localización actual"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Artigo destacado"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Da Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Personalizar"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Parámetros de lingua da canle de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Poden engadirse linguas na páxina de configuración \"As miñas linguas\"."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Tarxeta oculta"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Ligazón rápida para regresar á lectura dun artigo aberto"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Personalizar a canle de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Personalizar a canle de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ocultar un tipo de carta impedirá que ese tipo de carta apareza na canle de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Pestana de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Artigo destacado do día na Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Desactivado"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "En todas"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Activado"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "En \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Tódalas tarxetas \\$1 están ocultas"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Esta tarxeta non depende da lingua, desactivándoa eliminaraa da súa canle de exploración."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Tarxetas independentes da lingua"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Independente da lingua"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Tarxetas globais"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Ocultar esta tarxeta"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Agochar tódalas tarxetas “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artigos sobre eventos actuais"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Ocultar tódalas tarxetas da canle de exploración en tódalas súas linguas, desactivará a pestana de exploración."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Acontecementos históricos neste día"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Artigos da Wikipedia preto da súa localización"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Imaxe destacada do día en Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Xerar artigos aleatorios para ler"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Suxestións baseadas no historial de lectura"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Amosar a tarxeta de 'Continuar lendo'"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Desactivar a tarxeta do 'Artigo destacado', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Amosar a tarxeta do 'Artigo destacado'"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Desactivar a tarxeta de 'Nas novas', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Amosar a tarxeta 'Nas novas'"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Desactivando a tarxeta 'Neste día', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Amosar a tarxeta 'Neste día'"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Amosar a tarxeta 'Imaxe do día'"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Desactivando a tarxeta de 'Lugares', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Amosar a tarxeta de 'Lugares'"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Desactivando a tarxeta de 'Aleatoria', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Amosar a tarxeta 'Aleatoria'"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Amosar a tarxeta 'Porque leu'"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Desactivando a tarxeta de 'Os máis lidos', desactivará a tarxeta en tódalas linguas dispoñibles."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Amosar a tarxeta 'Os máis lidos'"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Artigos máis lidos do día"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Desactivar a canle de Exploración"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Ocultar tódalas tarxetas da canle Explorar, desactivará a pestana Explorar e será substituída pola pestana Configuración"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Desactivar a canle de Exploración?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Desactivar Explorar"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "A pestana Explorar pode activarse de novo na configuración da canle de exploración"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Desactivar a pestana de Explorar?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Desactivar a pestana de Explorar subsituirá a pestana Explorar por unha pestana de configuración."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Ó escoller amosar tarxetas da canle Explorar, está activando a pestana Explorar"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Activar Explorar"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Isto substituirá a pestana de configuración coa pestana Explorar, pode acceder á configuración dende a parte superior da pestana Explorar premendo na icona da roda dentada"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Activar a pestana Explorar?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Agochar esta tarxeta"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Páxina principal dos proxectos Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hoxe en Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Todos os artigos máis lidos"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Máis lidos"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Máis lidos en \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Na Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Na Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Lugares próximos"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Lugares"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Da Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "A súa localización"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "A súa localización da Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Imaxe do día"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "De Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Artigo ao chou"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Da Wikipedia en \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Artigo aleatorio"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Algo fallou. Por favor, ténteo de novo máis tarde."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "A aplicación recibiu unha resposta inesperada do servidor. Por favor, ténteo de novo máis tarde."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "O CAPTCHA non é válido"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Os contrasinais non coinciden"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Código non válido"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "O nome de usuario non está dispoñible"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Código de copia de seguridade"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Texto CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Insira o texto que ve abaixo"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "exemplo@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Enderezo de correo electrónico"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Enderezo de correo electrónico (opcional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "insira de novo o novo contrasinal"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Confirmar novo contrasinal"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "insira un contrasinal novo"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Novo contrasinal"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "insira de novo o contrasinal"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Confirme contrasinal"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "insira o contrasinal"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Contrasinal"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Código de verificación"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "insira o nome de usuario"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nome de usuario"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Limpar a procura"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Seguinte resultado atopado"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Anterior resultado atopado"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Procurar e substituír"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Pechar localizar e substituír"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Procurar"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Restablecer"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Enviouse un correo electrónico coas instrucións para restablecer o contrasinal"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Encha un dos campos de abaixo para recibir as instrucións de reinicialización"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Restablecer o contrasinal"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Ou"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Está seguro de que quere borrar todos os seus elementos recentes?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Si, borrar todo"
+    },
+    {
+      "name": "history_title",
+      "value": "Historial"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, volver a Explorar"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, volver a Gardado"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Máis coma \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Máis lugares próximos á súa localización"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Máis preto de \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Máis eventos actuais"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Os seus artigos gardados xa poden ser organizados nas listas de lectura e sincronizados ente aparellos. Conéctese para permitir que as súas listas de lectura sexan gardadas nas preferencias de usuario."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Xestionar as preferencias"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Axuste as súas preferencias de lectura (incluíndo tamaño do texto e tema) na barra de ferramentas do artigo ou nas súas preferencias de usuario para unha experiencia de lectura máis confortable."
+    },
+    {
+      "name": "home_title",
+      "value": "Explorar"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, subir a Explorar"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artigos próximos"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Artigo ao chou"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Procurar na Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autor descoñecido."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Da Wikipedia en \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Actualidade"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Inserir"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Inserir ligazón"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Descrición de texto para lectores que non poden ver a imaxe"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Describir esta imaxe"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Texto alternativo"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Como se relaciona esta imaxe co artigo?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Etiqueta que se amosa ó lado do elemento para tódolos lectores"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Lenda"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centro"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Esquerda"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Ningunha"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Dereita"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Posición da imaxe"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Máis información"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Seleccionar unha imaxe"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Personalizado"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Por defecto"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Tamaño da imaxe"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Básico"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Marco"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Sen marco"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatura"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tipo de imaxe"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Configuración multimedia"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Inserir multimedia"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Linguas"
+    },
+    {
+      "name": "languages_title",
+      "value": "Cambiar lingua"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Linguas de Wikipedia"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Continuar sen comezar sesión"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Entrar de novo na súa conta"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Houbo un problema autenticando a súa conta. Para sincronizar as súas listas de lectura e editar co seu nome de usuario, por favor, conéctese de novo ó seu usuario."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Vostede foi desconectado"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Esqueceu o contrasinal?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Unirse a Wikipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Non ten unha conta? \\$1."
+    },
+    {
+      "name": "login_title",
+      "value": "Comezar sesión na súa conta"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Acerca da aplicación"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Acceder"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Saír"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Quere pechar a sesión?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Sesión iniciada como \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privacidade e Condicións"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Preto"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Política de protección de datos"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Avaliar a aplicación"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Termos de Uso"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Máis"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Preguntas frecuentes sobre a Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Procurar en Wikipedia en máis de 300 linguas"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Engadir linguas"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Trasladar {{PLURAL:\\$1|\\$1 artigo|\\$1 artigos}} á lista de lectura"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Vista previa"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 pé|\\$1 pés}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 millas"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Conectouse cun contrasinal temporal. Para rematar a conexión, escolla un novo contrasinal aquí."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Insira o seu contrasinal"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Por favor, configure a súa conta de correo electrónico no seu dispositivo e inténteo de novo."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Sen conexión a Internet"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Activar as notificacións de tipo push"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Feito"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 mil"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "de \\$1 a \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 acontecemento histórico|\\$1 acontecementos históricos}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Máis acontecementos históricos deste día"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 da Wikipedia en \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Neste día"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Prema na \"W\" para volver á pestana na que comezou"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Comparar"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "edicións menores"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autor: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Historial de revisións"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Non ten os permisos necesarios para editar esta páxina"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Esta páxina está protexida"
+    },
+    {
+      "name": "pictured",
+      "value": "retratado"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Limpar as procuras gardadas"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artigos"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Volver a centrar na súa localización"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Amosar como lista"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Amosar como mapa"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Amosar máis artigos"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Explore cidades, países, continentes, monumentos naturais, eventos históricos, edificios e máis."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Procurar artigos de Wikipedia con localizacións xeográficas"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Activar localización"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "O acceso á súa localización só está dispoñible cando a aplicación ou unha das súas características está visible na súa pantalla."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Explore artigos preto da súa localización activando Acceder á localización"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtrar artigos"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtrar"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Non tes lugares gardados"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Artigos gardados"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Os artigos máis lidos"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artigo|\\$1 artigos}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Artigos mais lidos"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Localización activada"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ningún dos seus artigos gardados teñen información de localización"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 correspondente a “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Procurar lugares"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Quixo dicir \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Procurado recentemente"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Todos os artigos gardados"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Procuras suxeridas"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultados nesta área"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Todos os artigos mellores"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Preto"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "A súa situación actual"
+    },
+    {
+      "name": "places_title",
+      "value": "Lugares"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "distancia descoñecida"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Imaxe do día para \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Erro ó recuperar a imaxe do día para \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Permitir que a Fundación Wikimedia recompile información acerca de como utiliza a aplicación para facela mellor"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Engadir este artigo a unha lista de lectura?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Engdir \"\\$1\" á lista de lectura?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Si, engadilos ás miñas listas de lectura"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Hai artigos gardados na súa aplicación Wikipedia. Desexa mantelos e fusionalos coas listas de lectura sincronizadas coa súa conta?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Artigos gardados atopados"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Esta entrada non está sincronizada porque alcanzou o límite do número de entradas desta lista."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Houbo un erro inesperado ó sincronizar as súas listas de lectura."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Esta lista non está sincronizada porque alcanzou o límite de número de listas sincronizadas."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Crear unha listaxe de lectura"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Descrición"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nome da listaxe de lectura"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Crear unha listaxe nova"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "A lista de lectura foi eliminada"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Non, eliminar artigos do dispositivo"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Por favor, reduza o número de artigos nesta lista a \\$1 para continuar a sincronización de tódolos artigos da lista."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Superou o límite de {{PLURAL:\\$1|\\$1 artigo|\\$1 artigos}} por conta."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|O artigo non pode ser engadido|Os artigos non poden ser engadidos}} a esta lista. Chegou ó límite de \\$2 artigos por lista de lectura para \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "O nome da lista de lectura xa está en uso"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Houbo un erro inesperado ó actualizar as súas listas de lectura."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Si, mantener os artigos no dispositivo"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Hai artigos sincronizados na súa conta de Wikipedia. Quere mantelos neste dispositivo despois de desconectarse da súa conta?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Manter os artigos gardados no dispositivo?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Ordenar artigos"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Hai un límite de 5000 artigos para ordenar. Por favor, ordene os seus artigos existentes en listas para continuar a sincronización dos artigos sen ordenar."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Alcanzouse o límite de artigos non ordenados"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Esta lista de lectura e os artigos gardados nela non serán sincronizados, por favor, reduza o seu número de listas a \\$1 para continuar coa sincronización desta lista."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Sobrepasou o límite de {{PLURAL:\\$1|\\$1 lista de lectura|\\$1 listas de lectura}} por conta."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Alcanzou o límite de \\$1 listas de lectura por conta"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Acceda para sincronizar os seus artigos gardados"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Iniciar sesión ou crear unha conta"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Acceda para sincronizar os artigos gardados"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Conéctese ou cree unha conta para permitir que os seus artigos gardados e as súas listas de lectura sexan sincronizados entre dispositivos e gardados nas súas preferencias de usuario."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Quere sincronizar os artigos gardados?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[creada polo usuario]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "descrición breve opcional"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "título da lista de lectura"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "A sincronización das listaxes de lectura foi desactivada para a súa conta da Wikipedia noutro dispositivo. Pode reactivar a sincronización mudando os seus axustes."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sincronización desactivada"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Activar a sincronización"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Os seus artigos gardados e as súas listas de lectura agora poden ser gardadas na súa conta de Wikipedia e sincronizadas entre aplicacións de Wikipedia."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Activar a sincronización das listas de lectura?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "A sincronización das listaxes de lectura está activada para esta conta. Para deter a sincronización, desactive a sincronización para esta conta mudando os seus axustes."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "A sincronización atópase activada nesta conta"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Houbo un erro inesperado ó engadir unha entrada á lista de lectura. Inténteo de novo máis tarde."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Houbo un erro ó crear a lista de lectura. Inténteo de novo máis tarde."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Houbo un erro inesperado ó eliminar a lista de lectura. Inténteo de novo máis tarde."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Houbo un erro inesperado ó quitar unha entrada da lista de lectura. Inténteo de novo máis tarde."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Houbo un erro inesperado ó actualizar a lista de lectura. Inténteo de novo máis tarde."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Non se atopou a lista de lectura denominada «\\$1». Asegúrese de que teña o nome correcto."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Engadiuse o artigo a «\\$1»"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Imposible sincronizar o artigo"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Non sincronizado"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Límite de artigos excedido, non é posible sincronizar o artigo"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Límite de listas excedido, non é posible sincronizar o artigo"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artigo en espera para ser descargado"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Excedeuse o límite de dispositivos, non é posible sincronizar o artigo"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Libere espazo no dispositivo e inténteo de novo"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Algúns artigos non foron sincronizados, o límite foi excedido"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Cambiouse o nome da lista «\\$1» a «\\$2»"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 lista|\\$1 listas}} de lectura"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Lista por defecto para os seus artigos gardados"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Gardado"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Esta acción non pode desfacerse. Tódolos artigos gardados só {{PLURAL:\\$1|nesta lista|nestas listas}} deixarán de ser gardados."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Eliminar {{PLURAL:\\$1|a lista|as listas}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 artigo|\\$1 artigos}} e {{PLURAL:\\$2|\\$2 lista|\\$2 listas}} de lectura sincronizados dende a súa conta"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "A lista non foi sincronizada, o límite foi excedido"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Ordenar os artigos gardados"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Hai un linde de \\$1 artigos por listaxe de lectura. As listaxes actuais que superan este linde foran divididas en varias listaxes."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "A sincronización continuará cando estea dispoñible a conexión a Internet"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Tema escuro"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Cursor de luminosidade"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tema escuro"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Tema claro"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Tema sepia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Resaltado de sintaxe"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Cursor de tamaño do texto"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Resaltado de sintaxe"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referencia \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Hoxe|1=Onte|Hai \\$1 días}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Recentemente|Hai \\$1 hora|Hai \\$1 horas}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Xusto agora|Hai \\$1 minuto|Hai \\$1 minutos}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Este ano|1=O último ano|hai \\$1 anos}}"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Edición revertida"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Todos os artigos"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Esta lista non pode ser eliminada"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Erro ó descargar as imaxes desta páxina gardada."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Descarga de artigo en curso…"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Listas de lectura"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Procurar artigos gardados"
+    },
+    {
+      "name": "saved_title",
+      "value": "Gardado"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Ao non gardar {{PLURAL:\\$1|este artigo, será eliminado|estes artigos, serán eliminados}} de tódalas listas de lectura asociadas"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Non gardar {{PLURAL:\\$1|o artigo|os artigos}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Procurar na Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Limpar"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Procurar na Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Borrar tódalas procuras recentes?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Esta acción non se pode desfacer."
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Borrar todo"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Non hai procuras recentes aínda"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Procurado recentemente"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Redirección desde: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Procurar"
+    },
+    {
+      "name": "settings_account",
+      "value": "Conta"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Tema da aplicación"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Borrar os datos da caché"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Se se borran os datos da caché liberaranse preto de \\$1 de espazo. Non borrará as súas páxinas gardadas."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Borrar os datos da caché?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Cancelar"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Borrar caché"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Axuda e comentarios"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Amosar as linguas ó procurar"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Pode xestionar que linguas se amosan na súa canle de exploración personalizando os parámetros da canle."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "As miñas linguas"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Notificacións de tipo push"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Principal"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "A primeira lingua nesta lista úsase como lingua principal para a app."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Configurar a aplicación para abrir na pestana Procurar no canto da pestana Explorar"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Abrir aplicación na pestana de procura"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Permitir que, cando se autenticar e sincronizar, a Wikimedia garde nas súas preferencias os artigos gardados e as listaxes de lectura."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sincronizar os artigos e as listas gardadas"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "As súas listaxes de lectura serán sincronizadas en segundo plano"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Pedir una atualización dos seus artigos e listaxes de lectura sincronizados."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Actualizar as listas de lectura sincronizadas"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Amosar as listaxes de lectura gardadas (por exemplo, a listaxe padrón) coma unha listaxe separada na vista de listaxes de lectura. Esta listaxe atópase nos dispositivos Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Amosar a lista de lectura Gardados"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Almacenaxe e sincronización de artigos"
+    },
+    {
+      "name": "settings_title",
+      "value": "Configuración"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Feito coa aplicación de Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" en Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Creando unha tarxeta comparte-un-feito..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” de “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nde “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Obter as direccións"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Compartir…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "a través de Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Abrir en Maps"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” vía Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” a través de Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Engadidos recentemente"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Título"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Táboa de contidos"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Pechar"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Pechar táboa de contidos"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Contidos"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Ler"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Non lido"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Lembre, aquí todos somos persoas"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Por favor, sexa amable"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "A súa resposta foi publicada correctamente"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "A súa conversa foi publicada correctamente"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Conversa do artigo"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Conversa de usuario"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Escuro"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Escuro"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Por defecto"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Corresponde ó tema do sistema"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Claro"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Continuar co inicio de sesión"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Escriba o código de verificación de dous factores"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Comezar sesión na súa conta"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Usar un dos seus códigos de copia de seguridade"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Usar código de verificación"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Non se pode cargar a páxina de conversa"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Descoñecido"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Lecturas recomendadas e artigos diarios da nosa comunidade"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Canle Explorar"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Viaxe atrás no tempo para saber que sucedeu un día coma hoxe"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Neste día"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Descubra puntos de referencia preto de vostede ou procure lugares por todo o mundo"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Pestana Lugares"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Comezar"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Novas formas de explorar"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Entendido"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia está escrita de forma colaborativa por voluntarios e consta de máis de 40 millóns de artigos en máis de 300 linguas."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Máis información sobre a Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Sobre Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia é un proxecto mundial para crear enciclopedias libres en tódalas linguas do planeta. Virtualmente calquera persoa que conte con acceso a Internet está invitada a achegar información neutral e respaldada con referencias."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "A enciclopedia libre"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Engadir outra lingua"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Engadir ou modificar as linguas preferidas"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Atopamos as seguintes linguaxes no seu dispositivoː"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Procurar en máis de 300 linguas"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Xenerando previsualización dos teus cambios…"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Esta ligazón leva a un sitio web externoː \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Ligazón externa"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia non ten un artigo con este nome exacto"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Non se atopou ningunha ligazón interna"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Esta ligazón leva a '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Previsualización da ligazón"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Gardar os cambios"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Erro de verificación do CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Necesita verificación CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Non é posible determinar o resultado da subida do wikitexto."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publicando..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "As edicións serán atribuídas ao enderezo IP do seu dispositivo. Se vostede \\$1inicia a sesión\\$2, terá máis privacidade."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "As edicións atribuiranse ao enderezo IP do dispositivo. Se \\$1 terá máis privacidade."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Termos de uso"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Porque vostede leu"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Todos os artigos máis lidos"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Outro artigo aleatorio"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Da Wikipedia en %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Na Wikipedia en %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "De Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Non hai ningún historial para amosar"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Ocultar esta tarxeta"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Personalizar a canle de exploración"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Tarxeta oculta"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Descrición do artigo %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Quixo dicir %s?"
+    }
+  ]
+}

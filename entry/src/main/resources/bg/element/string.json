@@ -1,0 +1,2376 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Уикипедия"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Лиценз на съдържанието"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Криейтив Комънс Признание-Споделяне на споделеното"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Сътрудници"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Използвани библиотеки"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Пълен списък"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Лиценз"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Хранилища"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT лиценз"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Изпращане на отзив за приложението"
+    },
+    {
+      "name": "about_title",
+      "value": "Относно"
+    },
+    {
+      "name": "about_translators",
+      "value": "Преводачи"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Преведено от доброволци на \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Фондация Уикимедия"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Уикипедия"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Заявка за сметка."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Проверка за сигурност с CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Създаване на сметка"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Имате ли вече сметка? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Влизане."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Влизане в системата..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Трябва да въведете потребителско име, парола и потвърждение на паролата, за да създадете сметка."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Паролите не съвпадат."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Съхраняване..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Създаване на сметка"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Вашата сметка"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Анулиране на сметка"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Вашата беседа"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Автоматично подписване на дискусии"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Автоматичното подписване на дискусиите ще използва подписа, установен в настройките на подписа"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Предпочитания за беседа"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Добавяне в…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Добавяне към списъка за четене"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Добавяне към списъка"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Отказ"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Отмяна на редакцията"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Отказване на редакциите"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Търсене в страницата"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Продължаване на редактирането"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Промяна на езика"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Преместване в…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Преместване в списъка за четене"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Следваща версия"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Предишна версия"
+    },
+    {
+      "name": "action_read",
+      "value": "Четене"
+    },
+    {
+      "name": "action_redo",
+      "value": "Повторение"
+    },
+    {
+      "name": "action_remove",
+      "value": "Премахване"
+    },
+    {
+      "name": "action_retry",
+      "value": "Повторен опит"
+    },
+    {
+      "name": "action_save",
+      "value": "Съхраняване"
+    },
+    {
+      "name": "action_saved",
+      "value": "Съхранени"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Съхранено. Активирайте, за да отмените съхраняването."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Статията е запазена за по-късно"
+    },
+    {
+      "name": "action_share",
+      "value": "Споделяне"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Споделяне"
+    },
+    {
+      "name": "action_sort",
+      "value": "Сортиране"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Благодарност за потребителя"
+    },
+    {
+      "name": "action_undo",
+      "value": "Отмяна"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Отмяна на записа"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Статията не е запазена"
+    },
+    {
+      "name": "action_update",
+      "value": "Обновяване"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Не сте редактирали тази седмица. Започнете сега, за да следите приносите си."
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Преглед на съхранените статии"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Затваряне"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Свободната енциклопедия"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Намалете непрозрачността на изображенията за тъмните и черните облици"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Относно тази статия"
+    },
+    {
+      "name": "article_delete",
+      "value": "Изтриване"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Филтър по език"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Избор на език"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Други езици"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Вашите езици"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Прочетете повече"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Източник \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Нямате достатъчно място на вашето устройство, за да запазите тази статия"
+    },
+    {
+      "name": "article_share",
+      "value": "Споделяне"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Назад"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Докоснете, за да се върнете назад"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Назад"
+    },
+    {
+      "name": "button_next",
+      "value": "Следваща"
+    },
+    {
+      "name": "button_ok",
+      "value": "Добре"
+    },
+    {
+      "name": "button_publish",
+      "value": "Публикуване"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Публикуване въпреки предупреждението"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Съобщаване за грешка"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Съхраняване за по-късно"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Съхраняване за по-късно"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Изтриване от записаните"
+    },
+    {
+      "name": "button_skip",
+      "value": "Пропускане"
+    },
+    {
+      "name": "cancel",
+      "value": "Отказ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Криейтив Комънс CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Приложението на Уикипедия вече поддържа следните китайски варианти като основни или вторични езици в приложението, което улеснява четенето, търсенето и редактирането в предпочитаните от Вас варианти:\n\n简体 Китайски, опростен (zh-hans)\n香港繁體 Традиционен хонконгсики (zh-hk)\n澳門繁體 Традиционен макайски (zh-mo)\n大马简体 Опростен малайзийски (zh-my)\n新加坡简体 Опростен сингапурски (zh-sg)\n臺灣正體 Традиционен тайвански (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Актуализации за поддръжка на китайски вариант"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Изчистване"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Затваряне"
+    },
+    {
+      "name": "compass_direction",
+      "value": "в \\$1 часа"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Разгледайте Уикипедия, за да прочетете други статии"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Няма скорошно четени статии"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Актуализиране..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Добавяне на описание"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Описание на статия „\\$1“"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Променяйки описанието на статията, се съгласявам с \\$1 и неотменимо публикувам приноса си под \\$2 лиценз."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Редактиране на въведението"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Редактиране на описанието на статията"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Кратките описания са най-добри"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Публикуване на описанието"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Редактиране на описанието"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Опитайте се да запазите описанията кратки, за да могат потребителите да разберат темата на статията с един поглед"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Описанията на статиите обобщават статия, за да помогнат на читателите да разберат темата с един поглед."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Относно"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "За Уикиданни"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Допълнителна информация"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "картина на Леонардо да Винчи"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Най-високата планина на Земята"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Например:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Съвети за създаване на описания"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Помощ за описания на статии"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Наръчник на Уикиданни за писане на описания"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Готово"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Току-що направихте Уикипедия по-добра за всички"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Описанието е публикувано!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "По възможност един ред, от две до дванадесет думи"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Трябва да е кратко"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Обобщава статия, за да помогне на читателите да разберат темата с един поглед"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Описания на статии"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Започвайки, обещавам да не злоупотребявам с тази възможност"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Започване на редактирането"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Предишна редакция"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Сравняване на версии"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Визуализирана редакция"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Сравняване на версии"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Показване"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Скриване"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Редове \\$1 – \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Преместен е абзац"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "надолу"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "нагоре"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 ред|\\$1 реда}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 раздел|\\$1 раздела}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Преместен абзац \\$2 \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Версията не може да се зареди"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 редакция|\\$1 редакции}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Информация за редактора"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 байт е добавен|\\$1 байта са добавени}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 байт е премахнат|\\$1 байта са премахнати}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Резюме на редакцията"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Въведение"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Ред \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Анонимни потребители не могат да получават благодарности"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Влезте, за да изпратите благодарност"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Изпращане на благодарност"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Изпратете публично благодарност"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Изпращането на благодарност не може да бъде отменено"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|няма промяна в \\$1 ред|няма промяна в \\$1 реда}}"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Показване на текст"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Цел на връзката"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Премахване на препратката"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Редактиране на препратка"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Редактиране"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Научете повече за малките промени"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Това е малка промяна"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Известия за редактиране"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Добавяне описание на редакцията"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Поправена граматична грешка"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Поправена правописна грешка"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Добавени препратки"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Как подобрихте статията?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Научете повече за Вашия списък за наблюдение"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Наблюдаване на страницата"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Сигурни ли сте, че искате да напуснете режима за редактиране, без да публикувате промените?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Няма разлики между версиите"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Изберете файл от Общомедия"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Няма история за показване"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Тази статия все още не е написана на други езици"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Няма налични други езици"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Създавайте списъци с места за пътуване, любими теми и много други"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Организирайте запазените статии в списъци за четене"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Запазете страници в този списък, за да ги видите тук"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Няма запазени страници в този списък"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Запазвайте страници, за да ги видите по-късно, дори офлайн"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Все още няма съхранени страници"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Не бяха открити резултати"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Все още няма публикувани съобщения за този потребител"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Моля, опитайте по-късно"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Възникна неизвестна грешка"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Друга случайна статия"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Защото сте чели"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Други свързани статии"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Продължаване с четенето"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Избрана статия"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "От Уикипедия на \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "От Уикипедия"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Персонализиране"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Дневна избрана статия в Уикипедия"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Скриване на картата"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Статии за текущи събития"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Събития в историята на този ден"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Генериране на произволни статии за четене"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Скриване на картата"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Днес в Уикипедия"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Най-четени"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "В Уикипедия"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Места"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "От Уикипедия на \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "От Уикипедия"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Вашето местоположение"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Картинка на деня"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "От Общомедия"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Случайна статия"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "От Уикипедия на \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "От Уикипедия"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Случайна статия"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Добавяне"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Добавете предложени изображения към статиите в Уикипедия, за да подобрите възприемането им."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Добавяне на изображение"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "От Уикипедия на \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "От Уикипедия"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Избрана статия"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Нещо се обърка. Моля, опитайте по-късно."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Приложението получи неочакван отговор от сървъра. Моля, опитайте отново."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Невалидна CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Паролите не съвпадат"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Невалиден код"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Потребителското име не е достъпно"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Резервен код"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Текст на CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Въведете текста, който виждате по-горе"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Електронна поща"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Имейл (незадължително)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "въведете отново новата парола"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Потвърждаване на новата парола"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "въведете нова парола"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Нова парола"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "въведете паролата отново"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Потвърждаване на паролата"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "въведете парола"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Парола"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Код за потвърждение"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "въведете потребителско име"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Потребителско име"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Изчистване на търсенето"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Следващ резултат от търсенето"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Предишен резултат от търсенето"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Търсене и замяна"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Затваряне на търсене и замяна"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Търсене"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Анулиране"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Беше изпратен имейл с инструкции за повторно установяване на парола"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Попълнете едно от полетата по-долу, за да получите инструкции за промяна на паролата по имейл"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Възстановяване на парола"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Или"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Приложението Уикипедия вече поддържа следните варианти на Ган като основни или вторични езици в рамките на приложението, което улеснява четенето, търсенето и редактирането в предпочитаните от Вас варианти:\n\n贛語 原文 Gan (ган)\n赣语简体 Ган, опростен (ган-ханс)\n贛語 繁體 Ган, традиционен (ган-хант)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Актуализации за поддръжка на ган вариант"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Сигурни ли сте, че искате да изтриете всички скорошни елементи?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Да, изтрий всички"
+    },
+    {
+      "name": "history_title",
+      "value": "История"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Уикипедия, връщане към Изследване"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Уикипедия, връщане към Запазени"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Общност"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "Добавяне или редактиране на езици"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "За теб"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Още статии, подобни на \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Още места близо до вашето местоположение"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Още близо до \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Още актуални събития"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Вашите запазени статии вече могат да бъдат организирани в списъци за четене и синхронизирани между устройствата. Влезте, за да разрешите Вашите списъци за четене да бъдат запазени в потребителските Ви предпочитания."
+    },
+    {
+      "name": "home_tab_title",
+      "value": "Начало"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Управление на предпочитанията"
+    },
+    {
+      "name": "home_title",
+      "value": "Разгледайте!"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Случайна статия"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Търсене в Уикипедия"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Научете повече за предложените редакции"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Вашите отговори подобряват бъдещите предложения."
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Причина"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Проверка"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "От Уикипедия на \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "От Уикипедия"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "В новините"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Вмъкване"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Вмъкване на препратка"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Алтернативен текст"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Описание"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "По средата"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Отляво"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Няма"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Отдясно"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Положение на картината"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Допълнителна информация"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Избиране на изображение"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Персонализиран"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "По подразбиране"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Размер на изображението"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Основно"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Рамка"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Без рамка"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Миниатюра"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Тип на изображението"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Мултимедийни настройки"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Вмъкване на медиен файл"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Езици"
+    },
+    {
+      "name": "languages_title",
+      "value": "Промяна на езика"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Езици на Уикипедия"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Забравена парола?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Присъединете се към Уикипедия."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Нямате сметка? \\$1"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Относно приложението"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Влизане"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Излизане"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Сигурен ли сте, че искате да излезете?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Влезли сте като \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Поверителност и условия"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Наблизо"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Защита на личните данни"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Оценете приложението"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Условия за ползване"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Още"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Добавяне на езици"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Предварителен преглед"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Въведете паролата си"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Не сте свързани с интернет"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Не сега"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "От \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Известие"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "Известие \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Промяна на паролата"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Проверява се за известия..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "В приложението"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "В уеб"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Проверява се за известия..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Нямате нови съобщения"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "В момента не сте абонирани за никакви известия на Уикипедия"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Променете \\$1, за да видите повече съобщения"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Добавете проекти, за да видите повече съобщения"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 филтър|\\$1 филтъра}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Включване на насочени известия"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Известията за редактиране, за всички проекти на Уикимедия вече са достъпни чрез приложението. Включете се за насочени известия, за да сте в течение със съобщенията си в Уикипедия, докато сте в движение."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Филтър за известия"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Всички"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Прочетено"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Непрочетено"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Филтри"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Всички видове"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Видове известия"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Статия"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Беседа \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Разлика"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Потребителска страница на \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Обект в Уикиданни"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Вашата беседа"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Известие от \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Готово"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Проекти"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Тук ще се показват само проекти, в които имате сметка"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Проекти на Уикимедия"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Уикипедии"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 на \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Известия за влизане"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Отбелязване"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Отбелязване на всички като прочетени"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Отбелязване като прочетено"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Отбелязване като непрочетено"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Още"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Настройки за известията"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 съобщение|\\$1 съобщения}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Продължаване"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Филтри"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Научете повече за известията"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Известията Ви помагат да сте информирани за дейността, свързана с Вашите редакции и сметка."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Насочени известия"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Редактиране на известия"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Включване на насочени известия?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Включване на насочени известия"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Не, благодаря"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Филтър по проекти"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Всички"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Всички известия"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 в \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Филтриране по"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=В 1 проект|В \\$1 проекта}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 проект|\\$1 проекта}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 тип|\\$1 типа}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Четене"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 и \\$2 в \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Непрочетено"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Вашата редакция е отменена"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Нов имейл"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Множество неуспешни опити за влизане"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Влизане от непознато устройство"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Благодарност"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Промяна на потребителските права"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Добре дошли!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Създадена е връзка с Уикиданни"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Отбелязване като прочетено"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Отбелязване като непрочетено"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Още"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Известия"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Отбелязване на избраните известия"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Споменавания"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Забележка"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Успешно влизане"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Други"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Благодарност"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Промяна на потребителските права"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Добре дошли!"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Няма данни"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "На този ден"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "бот"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Сравняване"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "малки промени"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Автор: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Коментар \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "История на версиите"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Малка промяна"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|Добавен е \\$1 байт|Добавени са \\$1 байта}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|Премахнат е \\$1 байт|Премахнати са \\$1 байта}}"
+    },
+    {
+      "name": "page_issues",
+      "value": "Проблеми със страницата"
+    },
+    {
+      "name": "page_location",
+      "value": "Преглед върху карта"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Тази страница е защитена"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Подобни страници"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Редактиране без влизане"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Вие не сте влезли в системата"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Филтриране"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Най-четени"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Търсене на места"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Имате предвид \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Наскоро търсено"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Всички запазени статии"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Предложени търсения"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Всички най-четени статии"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Наблизо"
+    },
+    {
+      "name": "places_title",
+      "value": "Места"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Картинка на деня"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "МедияУики"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Уикикниги"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Уикиданни"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Общомедия"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Уикиновини"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Уикицитат"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Уикиизточник"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Уикивидове"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Уикиверситет"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Уикипътешественик"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Уикиречник"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Описание"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Включване на синхронизиране"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Включване на синхронизиране на списъци за четене?"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Не е синхронизирана"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Списък по подразбиране за Вашите запазени статии"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Съхранено"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Има ограничение от \\$1 статии в списъка за четене. Съществуващите списъци с повече от това ограничение бяха разделени на няколко списъка."
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Оцветяване на синтаксиса"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Оцветяване на синтаксиса"
+    },
+    {
+      "name": "reference_title",
+      "value": "Източник \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Днес|1=Вчера|преди \\$1 дни}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "преди \\$1 час"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Върната редакция"
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "Не сте влезли в системата. След като направите редакция, ще Ви бъде създадена временна сметка, за да се защити поверителността Ви."
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Всички статии"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Този списък не може да бъде изтрит"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Неуспех при изтеглянето на изображения за тази съхранена страница."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Извършва се изтегляне на статия..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Списъци за четене"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Търсене в съхранени статии"
+    },
+    {
+      "name": "saved_title",
+      "value": "Съхранени"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Търсене в Уикипедия"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Изчистване"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Търсене в Уикипедия"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Изтриване на всички скорошни търсения?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Това действие не може да бъде отменено!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Изтриване на всички"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Все още няма скорошни търсения"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Наскоро търсено"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Пренасочване от: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Търсене"
+    },
+    {
+      "name": "settings_account",
+      "value": "Сметка"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Облик на приложението"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Изчистване на кешираните данни"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Изчистването на кешираните данни ще освободи около \\$1 от пространството. Съхранените Ви страници няма да бъдат изтрити."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Изчистване на кешираните данни?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Отказ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Изчистване на кеша"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Направете дарение"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Помощ и обратна връзка"
+    },
+    {
+      "name": "settings_home_feed_title",
+      "value": "HTML"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Показване на езиците при търсене"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Моите езици"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Насочени известия"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Опитайте отново"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Основен"
+    },
+    {
+      "name": "settings_title",
+      "value": "Настройки"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Споделяне..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "„1“ \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "чрез Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Отваряне в Карти"
+    },
+    {
+      "name": "share_social_format",
+      "value": "„1“ чрез Уикипедия: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "„1“ чрез Уикипедия: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Наскоро добавено"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Заглавие"
+    },
+    {
+      "name": "survey_title",
+      "value": "Причина"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Съдържание"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Затваряне"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Съдържание"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Добавяне на тема"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Архиви"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Промяна на езика"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Прочетено"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Непрочетено"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Приложението получи неочакван отговор от сървъра. Моля, опитайте отново."
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Нещо се обърка."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Страницата на беседата не може да бъде заредена"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Търсене в страницата"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Информация за страницата"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Постоянна препратка"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Какво сочи насам"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Отговор"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "История на версиите"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Споделяне на беседа"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Абониране"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Отписване"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Приноси"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Няма намерени архивирани страници."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Архиви"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Прочетете повече"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Продължаване на редактирането"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Добавяне на нова тема"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Започване на дискусия"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Започване на дискусия с \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Сигурни ли сте, че искате да откажете отговора?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Вашата тема е добавена"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Описание"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Описание на темата"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Сигурни ли сте, че искате да откажете темата?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Тема"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Заглавие на темата"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Страници на беседи"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Потребителски групи"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Дневници"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Беседа"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Черен"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Тъмен"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "По подразбиране"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Съвпада със системния облик"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Светъл"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Сепия"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Научете какво чете светът днес в Уикипедия."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 читатели"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Най-четени"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Продължаване с влизането"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Използвайте код за потвърждение"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Страницата на беседата не може да бъде заредена"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Неизвестно"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Актуализации за поддръжка на узбекски вариант"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Продължаване"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Предупреждение"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Не, благодаря"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Преглед на настройките"
+    },
+    {
+      "name": "watchlist",
+      "value": "Списък за наблюдение"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Пътувайте назад във времето, за да научите какво се е случило днес в историята"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "На този ден"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Начало"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Нови начини за откриване"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Разбрах"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Научете повече за Уикипедия"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "За Уикипедия"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Свободната енциклопедия"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Добавяне на друг език"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Добавяне или редактиране на предпочитани езици"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Намерихме следните езици на Вашето устройство:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Търсете на над 300 езика"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Прегледайте какво се е случило на този ден в историята."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Безплатна онлайн енциклопедия, която всеки може да редактира"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Уикипедия, безплатната енциклопедия с уики съдържание, става онлайн."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Външна препратка"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Няма намерена вътрешна препратка"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Преглед на препратката"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Съхраняване на промените"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Грешка при проверката на CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Публикуване..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Условия за ползване"
+    },
+    {
+      "name": "wmf_localizations_tests_nonexistent_key",
+      "value": "резервен вариант"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Защото сте чели"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Друга случайна статия"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "От Уикипедия на %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "От Общомедия"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Няма история за показване"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Скриване на картата"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Описание на статия „%s“"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Имате предвид %s?"
+    }
+  ]
+}

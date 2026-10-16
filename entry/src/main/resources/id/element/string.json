@@ -1,0 +1,4808 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lisensi konten"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Konten tersedia di bawah \\$1 kecuali dinyatakan lain."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Lisensi Atribusi-BerbagiSerupa Creative Commons"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Kontributor"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Pustaka yang digunakan"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Daftar lengkap"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisensi"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Kami menyukai perangkat lunak sumber terbuka \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Lisensi peta tempat"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Tempat menggunakan peta yang disediakan oleh Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Silakan lihat di sini untuk rincian lisensi"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Dibuat oleh \\$1 dengan bantuan dari beberapa sukarelawan seperti Anda"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Penyimpanan"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kode sumber tersedia di bawah \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Lisensi MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Kirim umpan balik aplikasi"
+    },
+    {
+      "name": "about_title",
+      "value": "Tentang"
+    },
+    {
+      "name": "about_translators",
+      "value": "Penerjemah"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Diterjemahkan oleh relawan di \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Yayasan Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Tidak dapat melihat gambar? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Memperoleh CAPTCHA baru..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Minta akun."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Pemeriksaan keamanan CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Buat akun Anda"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Sudah memiliki akun? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Masuk log."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Sedang masuk log..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Anda harus memasukkan nama pengguna, kata sandi, dan mengonfirmasi kata sandi untuk membuat sebuah akun."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Kolom kata sandi tidak cocok."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Sedang menyimpan..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Buat akun baru"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Akun Anda"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Hilangkan akun"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Halaman pembicaraan Anda"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Otomatis tanda tangani diskusi"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Tanda tangan otomatis diskusi akan menggunakan tanda tangan yang didefinisikan dalam setting Tanda Tangan"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferensi halaman pembicaraan"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Tambahkan ke..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Tambahkan ke daftar bacaan"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Tambah ke daftar"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Batal"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Buang Suntingan"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Buang suntingan"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Cari di halaman"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Tetap Menyunting"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Ubah bahasa"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Pindahkan ke..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Pindahkan ke daftar bacaan"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Revisi Selanjutnya"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Revisi Sebelumnya"
+    },
+    {
+      "name": "action_read",
+      "value": "Baca"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ulangi"
+    },
+    {
+      "name": "action_remove",
+      "value": "Hapus"
+    },
+    {
+      "name": "action_retry",
+      "value": "Coba lagi"
+    },
+    {
+      "name": "action_save",
+      "value": "Simpan"
+    },
+    {
+      "name": "action_saved",
+      "value": "Tersimpan"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Disimpan. Nyalakan untuk tidak menyimpannya."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikel tersimpan untuk nanti"
+    },
+    {
+      "name": "action_share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Bagikan"
+    },
+    {
+      "name": "action_sort",
+      "value": "Urutkan"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Beri Terima Kasih"
+    },
+    {
+      "name": "action_undo",
+      "value": "Batalkan"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Jangan simpan"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikel batal tersimpan"
+    },
+    {
+      "name": "action_update",
+      "value": "Perbarui"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Tambahkan gambar yang disarankan ke artikel Wikipedia untuk meningkatkan pemahaman pembaca."
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Wawasan suntingan"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "Modul aktivitas dimatikan. \\$1Nyalakan\\$2 untuk melihat pembaruan di tab ini."
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Hapus riwayat bacaan"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Aktivitas"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Anda menyunting {{PLURAL:\\$1|\\$1 kali}} minggu ini."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Dampak Anda"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Tambahkan {{PLURAL:\\$1|\\$1 artikel|\\$1 artikel}} ke daftar bacaan"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Pengaturan lanjutan"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Tutup"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, referensi, wiki, ensiklopedia, info, pengetahuan, penelitian, informasi, jelajahi, belajar"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Sepenuhnya dapat disesuaikan dan lebih mudah membaca umpan Jelajahi. Lokalisasi, peningkatan kinerja, dan perbaikan kesalahan."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Unduh aplikasi Wikipedia untuk menjelajahi tempat-tempat di dekat Anda, menyinkronkan artikel untuk dibaca secara luring dan menyesuaikan pengalaman membaca Anda."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Ensiklopedia bebas"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Sesuaikan ukuran teks artikel"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Perluas tabel"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Tetapkan semua tabel di semua artikel agar dibuka secara default, termasuk Fakta singkat, Referensi, Catatan dan Pranala luar."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Kurangi kegelapan gambar pada tema gelap dan hitam"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Tema bacaan"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Pengaturan Tabel"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "Ikon kontributor ini merayakan kontribusi Anda di dalam aplikasi Wikipedia pada tahun 2025. Ikon ini akan tetap ada hingga Tinjauan Tahunan berikutnya."
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Seret penggeser untuk mengubah ukuran teks artikel. Manfaatkan ukuran teks sistem Anda untuk mengubah ukuran area teks lain di aplikasi."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opsi tema"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Mengenai artikel ini"
+    },
+    {
+      "name": "article_delete",
+      "value": "Hapus"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artikel|artikel}} terhapus"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Aplikasi tidak dapat mengambil konten yang diperbarui tepat waktu. Nanti segarkan halaman ini untuk melihat perubahan Anda."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Cari bahasa"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pilih bahasa"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Bahasa lainnya"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Bahasa Anda"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Baca lebih lanjut"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Referensi \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Riwayat revisi artikel"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Anda tidak memiliki cukup ruang di perangkat Anda untuk menyimpan artikel ini"
+    },
+    {
+      "name": "article_share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Halaman pembicaraan artikel"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kontrol Tema Bacaan"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Kembali"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Ketuk untuk kembali"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Kembali"
+    },
+    {
+      "name": "button_next",
+      "value": "Lanjut"
+    },
+    {
+      "name": "button_ok",
+      "value": "Oke"
+    },
+    {
+      "name": "button_publish",
+      "value": "Terbitkan"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Terbitkan saja"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Laporkan kesalahan"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Simpan untuk nanti"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Disimpan untuk nanti"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Hapus dari tersimpan"
+    },
+    {
+      "name": "button_skip",
+      "value": "Lewati"
+    },
+    {
+      "name": "cancel",
+      "value": "Batal"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Aplikasi Wikipedia sekarang mendukung varian bahasa Tionghoa berikut sebagai bahasa utama atau sekunder di dalam aplikasi, membuatnya lebih mudah untuk membaca, mencari, dan menyunting dalam varian pilihan Anda: \n\n简体 Tionghoa, Sederhana (zh-hans)\n香港繁體 Hong Kong Tradisional (zh-hk)\n澳門繁體 Macau Tradisional (zh-mo)\n大马简体 Malaysia Sederhana (zh-my)\n新加坡简体 Singapore Sederhana (zh-sg)\n臺灣正體 Taiwan Tradisional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Tionghoa"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Hapus"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Pembersihan tembolok selesai."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Pembersihan tembolok sedang berlangsung."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Tutup"
+    },
+    {
+      "name": "compass_direction",
+      "value": "pada pukul \\$1 tepat"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Lanjutkan"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Jelajahi Wikipedia untuk lebih banyak artikel yang ingin dibaca"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Tidak ada artikel yang dibaca baru-baru ini"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Tatar Krimea berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nQırımtatarca, Latin Tatar Krimea Latin (chr-latn)\nкъырымтатарджа, Кирил Tatar Krimea Sirilik (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Tatar Krimea"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Memperbarui..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Tambahkan deskripsi"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Deskripsi artikel untuk \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Dengan mengubah deskripsi artikel, saya setuju dengan \\$1 dan melepaskan kontribusi saya di bawah lisensi \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Sunting pengantar"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Sunting deskripsi artikel"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Deskripsi singkat adalah yang terbaik"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Terbitkan deskripsi"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Sunting deskripsi"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Usahakan agar deskripsi singkat sehingga pengguna dapat memahami subjek artikel dalam sekejap"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Hanya kata benda yang spesifik (misalnya Joko Widodo dan Indomie; presiden dan mi goreng bukan kata benda yang spesifik) yang harus dikapitalisasi, bahkan di awal kalimat."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Deskripsi artikel meringkas artikel untuk membantu pembaca memahami subjek secara sekilas."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Tentang"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Tentang Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Deskripsi disimpan dan dipelihara di Wikidata, proyek Wikimedia Foundation yang menyediakan basis data bebas, sekunder, kolaboratif, multibahasa, yang mendukung Wikipedia dan proyek lainnya."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Informasi lebih lanjut"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Deskripsi idealnya harus sesuai pada satu baris, dan antara dua hingga dua belas kata. Deskripsi tidak dikapitalisasi kecuali kata pertama adalah kata benda yang tepat."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "deskripsi artikel untuk artikel tentang Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "deskripsi artikel untuk artikel tentang Gunung Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "lukisan karya Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "gunung tertinggi di Bumi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Sebagai contoh:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Kiat untuk membuat deskripsi"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Bantuan deskripsi artikel"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Panduan Wikidata untuk menulis deskripsi"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Selesai"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Anda baru saja membuat Wikipedia lebih baik untuk semua orang"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Deskripsi diterbitkan!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealnya satu baris, antara dua hingga dua belas kata"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Jaga agar tetap pendek"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Merangkum artikel untuk membantu pembaca memahami subjek secara sekilas"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Deskripsi artikel"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Dengan memulai, saya berjanji untuk tidak menyalahgunakan fitur ini"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Mulai menyunting"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "Nyalakan Tinjauan Tahunan"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Riwayat revisi artikel"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Suntingan Sebelumnya"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Bandingkan Revisi"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Suntingan yang Ditampilkan"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Bandingkan Revisi"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Tampilkan"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Sembunyikan"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Revisi yang dilakukan pada"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Baris \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Paragraf telah dipindahkan"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "turun"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "naik"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "\\$1 baris"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "\\$1 bagian"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Paragraf dipindahkan \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Tidak bisa memuat revisi."
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Kembalikan"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Apakah Anda yakin ingin mengembalikan suntingan?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Kembalikan suntingan"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Suntingan yang dibalikkan"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "\\$1 suntingan"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Informasi penyunting"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "\\$1 bita ditambahkan"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "\\$1 bita dihapus"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Ringkasan suntingan"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Pengenalan"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Baris \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Pengguna anonim tidak dapat diterimakasihkan"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Terima kasih' adalah cara mudah untuk menunjukkan apresiasi atas pekerjaan penyunting di Wikipedia. Anda harus masuk Wikipedia untuk mengirim 'Terima kasih'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Masuk untuk mengirim 'Terima kasih'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Kirim 'Terima kasih'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Terima kasih' adalah cara mudah untuk menunjukkan penghargaan atas karya penyunting di Wikipedia. 'Terima kasih' tidak dapat diurungkan dan dapat dilihat oleh umum."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Kirim 'Terima kasih' secara publik"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "'Terima kasih' anda telah dikirim kepada \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Anda sudah mengirimkan 'Terima kasih' untuk penyuntingan ini"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Terima kasih tidak bisa dikembalikan"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Ini akan membatalkan perubahan yang dibuat sesuai revisi artikel yang ditampilkan di sini. Untuk melanjutkan, berikan alasan untuk mengembalikan penyuntingan ini."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Revisi telah dibatalkan."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "\\$1 baris tidak disunting"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Ketuk dua kali untuk membuka menu"
+    },
+    {
+      "name": "dim_images",
+      "value": "Redupkan gambar"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Ketuk dua kali untuk memilih jumlah sumbangan."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Ketuk dua kali untuk menyumbangkan \\$1 ke Yayasan Wikimedia."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Ketuk dua kali untuk memberikan izin kepada Yayasan Wikimedia agar dapat mengirim surel kepada Anda."
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "Ketuk dua kali untuk menutup papan ketik input jumlah."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "Ketuk dua kali untuk menyalakan sumbangan bulanan otomatis sebesar jumlah tersebut."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Masukkan jumlah tertentu untuk disumbangkan."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Ketuk dua kali untuk menambahkan biaya transaksi ke jumlah sumbangan."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Terima kasih, para penyumbang terhormat! Kedermawanan Anda membantu menjaga Wikipedia dan proyek pengetahuan bebas lainnya tetap berkembang."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple tidak memegang tanggung jawab atas pengumpulan uang sumbangan ini."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Ya, Yayasan Wikimedia dapat sesekali mengirimi saya surel."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Pertanyaan yang sering diajukan"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Cara lain untuk menyumbang"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Ada masalah saat menyumbang?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Informasi pemotongan pajak"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "Hapus riwayat sumbangan lokal"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Kami akan mengingatkan Anda lagi besok."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Kami tidak dapat menerima sumbangan lebih dari \\$1 \\$2 melalui situs web kami. Silakan hubungi staf penangan sumbangan besar kami di benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Tolong pilih jumlah (minimum \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Jadikan ini sebagai sumbangan rutin bulanan."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Sumbang dengan Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Sumbang dengan Apple Pay atau pilih metode pembayaran lainnya."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Metode pembayaran lain"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Sumbang dengan Apple Pay?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Kemurahan hati Anda sangat berarti bagi kami."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Terima kasih!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Pilih jumlah"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Saya dengan murah hati menambahkan \\$1 untuk mencakupi biaya transaksi sehingga Anda bisa menyimpan 100%% dari sumbangan saya."
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Tampilkan teks"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Tambahkan pranala ke target"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Hapus pranala"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Sunting pranala"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Sunting"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Ini mungkin karena teks yang anda pilih tidak dapat disunting (seperti judul artikel atau judul infobox) atau karena panjang teks yang disorot"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Teks yang Anda pilih tidak dapat ditemukan"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Pelajari lebih lanjut tentang suntingan kecil"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Ini adalah suntingan kecil"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Pemberitahuan suntingan"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Selalu tampilkan pemberitahuan suntingan"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Mohon baca sebelum menyunting"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Semua konten ditampilkan dalam format yang disederhanakan."
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Lihat pratayang web"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Tambahkan ringkasan suntingan"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Perbaikan tata bahasa"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Perbaikan kesalahan ketik"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Penambahan pranala"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Bagaimana Anda menyempurnakan artikel ini?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Pelajari lebih lanjut tentang Daftar Pantauan Anda"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Pantau halaman ini"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Bersikaplah agar berani tetapi tidak sembrono dalam memperbarui artikel. Jangan menderita karena membuat kesalahan: setiap versi halaman sebelumnya disimpan, sehingga kesalahan dapat dengan mudah diperbaiki oleh komunitas kami."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Suara anda sangat penting"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Semua konten harus dapat diverifikasi. Saat menambahkan informasi baru ke artikel, penyunting harus memberikan referensi ke sumber terpercaya yang secara langsung mendukung informasinya."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Kutip sumber tepercaya"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Kami mengupayakan agar artikel ditulis dengan nada netral. Saat menyunting, usahakan untuk membuat perwakilan dunia yang adil seperti yang dijelaskan oleh sumber terpercaya."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Tulislah dengan nada netral"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Untuk memberikan segala orang akses ke pengetahuan dunia, kami membutuhkan anda untuk berpartisipasi dalam pembuatannya dengan membaca, menyunting, dan berkontribusi kepada topik yang paling penting untuk anda."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Bebaskan pengetahuan"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Suntingan Anda diterbitkan."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Sunting sumber"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Apakah Anda yakin ingin meninggalkan mode penyuntingan tanpa menerbitkannya terlebih dahulu?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Apakah Anda yakin ingin membuang suntingan ini?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Tutup mode penyuntingan?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Hapus pencarian"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Tutup pencarian"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "\\$1 total kecocokan ditemukan. Nomor kecocokan yang disorot \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Tidak ada yang cocok"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Hasil pencarian selanjutnya"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Hasil pencarian sebelumnya"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Cari"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Tebal"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Tutup menu pemformatan teks"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Komentar"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Judul"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Kurangi indentasi"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Tambahkan indentasi"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Cetak miring"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Pranala"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Daftar terurut"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Daftar tak berurut"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Paragraf"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Referensi"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Coret"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Judul tingkat 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Judul tingkat 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Judul tingkat 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Judul tingkat 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Tika bawah"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Tika atas"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Templat"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Pemformatan Teks"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Garis bawahi"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "Lakukan operasi penggantian. Jenis penggantian diatur ke \\$1."
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "Hapus penggantian"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Ganti"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Ganti dengan..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Ganti semua"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Ganti semuanya"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "Ganti jenis ganti. Saat ini disetel ke \\$1. Pilih untuk mengubah."
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Ganti"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Ganti satu saja"
+    },
+    {
+      "name": "editor_title",
+      "value": "Penyunting"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Pemformatan teks tebal"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Pindahkan kursor ke bawah ke baris berikutnya."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Pindahkan kursor ke karakter berikutnya."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Pindahkan kursor ke karakter sebelumnya."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Pindahkan kursor ke atas ke baris sebelumnya."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Cari di halaman"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "Pemformatan teks gambar"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "Kurangi pemformatan teks indentasi"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "Tambahkan pemformatan teks indentasi"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Pemformatan teks miring"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "Pemformatan teks pranala"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "Pemformatan teks daftar terurut"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "Pemformatan teks daftar tidak terurut"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Tampilkan menu pemformatan teks"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "Pemformatan teks referensi"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Tampilkan opsi pemformatan lainnya"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "Pemformatan teks templat"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Tidak ada perbedaan antar revisi"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Tidak ada perubahan yang bisa dilihat"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Pilih berkas dari Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Maaf, artikel tidak bisa dimuat"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Anda masih dapat membaca halaman tersimpan"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Anda bisa melihat artikel yang disarankan untuk Anda saat Anda mempunyai sambungan intenet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Melacak apa yang Anda sudah baca di sini"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Tidak ada riwayat yang muncul"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Artikel ini belum ditulis dalam bahasa lain"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Tidak ada bahasa lain"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Buat daftar untuk tempat yang harus dikunjungi, topik favorit dan banyak lagi"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Atur artikel tersimpan dengan daftar bacaan"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Simpan halaman ke daftar ini untuk melihatnya muncul di sini"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Tidak ada halaman yang disimpan ke daftar ini"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Simpan halaman untuk dilihat nanti, bahkan ketika luring"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Tidak ada halaman yang disimpan."
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Tidak ada hasil yang ditemukan"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Belum ada pesan yang diposting untuk pengguna ini"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Silakan coba lagi nanti"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Terjadi sebuah kesalahan yang tidak diketahui"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Artikel sembarang lainnya"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Karena Anda membaca"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Artikel terkait tambahan"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Lanjutkan membaca"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Kembali ke umpan Jelajahi"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Jelajahi artikel di dekat lokasi Anda saat ini"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Artikel pilihan"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Dari Wikipedia \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Dari Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Sesuaikan"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Pengaturan bahasa umpan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Bahasa tambahan dapat ditambahkan di halaman pengaturan ‘Bahasa saya’."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kartu disembunyikan"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Pranala cepat kembali untuk membaca artikel terbuka"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Sesuaikan umpan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Sesuaikan umpan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Menyembunyikan jenis kartu akan menghentikan jenis kartu ini agar tidak muncul di umpan Jelajahi."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Tab Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Artikel pilihan harian di Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Mati"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Nyala semua"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Nyala"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Dalam \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Semua \\$1 kartu disembunyikan"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Kartu ini bukan bahasa khusus, mematikan kartu ini akan menghapusnya dari umpan Jelajahi Anda."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Kartu khusus non-bahasa"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Bukan bahasa khusus"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Kartu global"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Sembunyikan kartu ini"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Sembunyikan semua kartu “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikel mengenai peristiwa saat ini"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Menyembunyikan semua kartu umpan Jelajahi dalam semua bahasa Anda akan mematikan tab Jelajahi."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Peristiwa bersejarah pada hari ini"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Artikel Wikipedia di dekat lokasi Anda"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Gambar pilihan harian dari Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Menghasilkan artikel acak untuk dibaca"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Saran berdasarkan riwayat pembacaan"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Tampilkan kartu Lanjutkan membaca"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Mematikan kartu Artikel pilihan akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Tampilkan kartu Artikel pilihan"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Mematikan kartu Peristiwa terkini akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Tampilkan kartu Peristiwa terkini"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Mematikan kartu Pada hari ini akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Tampilkan kartu Pada hari ini"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Tampilkan kartu Gambar pilihan"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Mematikan kartu Tempat akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Tampilkan kartu Tempat"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Mematikan kartu Pengacak akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Tampilkan kartu Pengacak"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Tampilkan kartu Karena Anda membaca"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Mematikan kartu Bacaan teratas akan mematikan kartu dalam semua bahasa yang tersedia."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Tampilkan kartu Bacaan teratas"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Artikel harian yang paling dibaca"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Matikan umpan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Menyembunyikan semua kartu umpan Jelajahi akan mematikan tab Jelajahi dan menggantinya dengan tab Pengaturan"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Matikan umpan Jelajahi?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Matikan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Tab Jelajahi dapat dinyalakan kembali di pengaturan umpan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Matikan tab Jelajahi?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Mematikan tab Jelajahi akan menggantikan tab Jelajahi dengan tab Pengaturan."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Dengan memilih untuk menampilkan kartu umpan Jelajahi, Anda menyalakan tab Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Hidupkan Jelajahi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Ini akan mengganti tab Pengaturan dengan tab Jelajahi, Anda dapat mengakses Pengaturan dari bagian atas tab Jelajahi dengan mengetuk ikon roda gigi"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Hidupkan tab Jelajahi?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Sembunyikan kartu ini"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Halaman utama proyek Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hari ini di Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Semua artikel bacaan teratas"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Bacaan teratas"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Teratas pada \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Di Wikipedia \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Di Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Tempat terdekat"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Tempat"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Dari Wikipedia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Dari Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Lokasi Anda"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Lokasi Anda dari Wikipedia \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Gambar pilihan"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Dari Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Artikel acak"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Dari Wikipedia \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Dari Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Pengacak"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Tambahkan gambar yang disarankan ke artikel Wikipedia untuk meningkatkan pemahaman pembaca."
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "Berbagi pustaka aplikasi Anda berarti membagikan data tentang daftar dan riwayat Bacaan, preferensi, dan konten umpan Jelajahi Anda. Berkas data ini hanya boleh dibagikan dengan penerima tepercaya untuk digunakan untuk tujuan diagnostik teknis."
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Bagikan pustaka aplikasi?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Terjadi kesalahan saat mengekspor data Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Anda tidak memiliki cukup ruang perangkat untuk mengekspor data pengguna Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Ekspor Data Pengguna"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Tidak ada artikel pilihan untuk tanggal ini."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Temukan artikel yang terbaik di Wikipedia, dipilih setiap hari oleh komunitas kami."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Dari Wikipedia \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Dari Wikipedia"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Bahasa Wikipedia utama Anda tidak mendukung artikel pilihan. Anda dapat mengganti bahasa Wikipedia utama Anda di menu Pengaturan pada aplikasi."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Artikel pilihan"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Ada yang salah. Silakan coba lagi nanti."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Aplikasi menerima tanggapan tak terduga dari peladen. Silakan coba lagi nanti."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA tidak sesuai"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Kata sandi tidak cocok"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Kode salah"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Nama pengguna tidak tersedia"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Kode cadangan"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Teks CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Masukkan teks yang Anda lihat di atas"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "contoh@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Surel"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Alamat surel (Opsional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "masukkan kembali kata sandi baru"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Konfirmasi kata sandi baru"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "masukkan kata sandi baru"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Kata sandi baru"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "masukkan kembali kata sandi"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Konfirmasi kata sandi"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "masukkan kata sandi"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Kata sandi"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kode verifikasi"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "masukkan nama pengguna"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nama pengguna"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Semua"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Hapus pencarian"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Hasil pencarian selanjutnya"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Hasil pencarian sebelumnya"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Cari dan ganti"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Tutup cari dan ganti"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Cari"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Atur ulang"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Sebuah surel dengan instruksi penyetelan ulang kata sandi telah dikirim"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Isi salah satu bidang di bawah untuk menerima instruksi penyetelan ulang kata sandi melalui surel"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Setel ulang kata sandi"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Atau"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Aplikasi Wikipedia sekarang mendukung varian bahasa Gan berikut sebagai bahasa utama atau sekunder dalam aplikasi, sehingga lebih mudah untuk membaca, mencari, dan menyunting dalam varian yang Anda sukai: \n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Sederhana (gan-hans)\n贛語 繁體 Gan, Tradisional (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Apakah Anda yakin ingin menghapus semua butir terkini Anda?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ya, hapus semua"
+    },
+    {
+      "name": "history_title",
+      "value": "Riwayat"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, kembali ke halaman Jelajah"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, kembali ke Tersimpan"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Lainnya yang seperti \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Lebih banyak tempat di dekat lokasi Anda"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Lainnya di sekitar \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Peristiwa terkini lainnya"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Artikel tersimpan Anda sekarang dapat diatur ke dalam daftar bacaan dan disinkronkan di seluruh perangkat. Masuk log untuk membolehkan daftar bacaan Anda disimpan ke preferensi pengguna Anda."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Kelola preferensi"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Sesuaikan preferensi bacaan Anda termasuk ukuran teks dan tema dari bilah alat artikel atau di pengaturan pengguna Anda untuk pengalaman membaca yang lebih nyaman."
+    },
+    {
+      "name": "home_title",
+      "value": "Jelajah"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, gulir ke bagian atas halaman Jelajah"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artikel sekitar"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Artikel acak"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Telusuri Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Pembuat tidak diketahui."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Ada yang tidak beres."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Tidak dapat memuat halaman"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Daftar Bacaan Saya"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Ikuti survei"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "\"Bagikan daftar bacaan\" adalah fitur pengujian dan kami membutuhkan umpan balik Anda untuk meningkatkan atau menghapusnya."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Bisakah Anda membantu kami meningkatkan \"Bagikan daftar bacaan\"?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Impor daftar bacaan bersama"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Dari Wikipedia \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Dari Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Peristiwa terkini"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Sisipkan"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Masukkan pranala"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Deskripsi teks untuk pembaca yang tidak bisa melihat gambarnya"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Deskripsikan berkas ini"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Teks alternatif"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Bagaimana gambar ini berhubungan dengan artikel?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Label yang ditampilkan di sebelahnya untuk semua pembaca"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Takarir"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Tengah"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Kiri"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Tak Ada"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Kanan"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Posisi gambar"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Informasi selengkapnya"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Pilih gambar:"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Ubahsuai"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Bawaan"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Tinggi"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Lebar"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Ukuran gambar"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Dasar"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Bingkai"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Nirbingkai"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatur"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Jenis gambar"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Pengaturan media"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Sisipkan media"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Inuktitut berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Silabis (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Kazakh berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Sirilik (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arab (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Kazakh"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Kurdi berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nKurdî Latînî Kurdi, Latin (ku-latn)\nكوردی Kurdi, Arab (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Kurdi"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Bahasa"
+    },
+    {
+      "name": "languages_title",
+      "value": "Ubah bahasa"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Bahasa Wikipedia"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Lanjutkan tanpa masuk log"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Masuk log kembali ke akun Anda"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Terjadi masalah saat mengautentikasi akun Anda. Untuk menyinkronkan daftar bacaan Anda dan menyunting di bawah nama pengguna Anda, silakan masuk log kembali."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Anda sudah keluar log"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Lupa kata sandi Anda?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Bergabunglah dengan Wikipedia"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Belum mempunyai akun? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Masuk log ke akun Anda"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Tentang aplikasi"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Masuk log"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Keluar log"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Apakah Anda yakin ingin keluar?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Keluar log akan menghapus data akun yang disimpan secara lokal (pemberitahuan dan pesan), tetapi data akun Anda akan tetap tersedia di web dan akan diunduh ulang jika Anda masuk log kembali."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Telah masuk log sebagai \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privasi dan Ketentuan"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Sekitar"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Kebijakan privasi"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Beri nilai aplikasi"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Ketentuan Penggunaan"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Lainnya"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Tanya jawab Wikipedia Zero"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "Artikel yang paling dibaca milik Wikipedia bahasa Inggris"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Cari Wikipedia dalam lebih dari 300 bahasa"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Tambah bahasa"
+    },
+    {
+      "name": "more_menu",
+      "value": "Selengkapnya"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Pindahkan {{PLURAL:\\$1|\\$1 artikel|\\$1 artikel}} ke daftar bacaan"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Pratayang"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 kaki"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Anda masuk log dengan kata sandi sementara. Untuk menyelesaikan masuk log atur kata sandi baru di sini."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Setel kata sandi Anda"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Silakan menyiapkan sebuah akun surel di perangkat Anda dan coba lagi."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Tidak ada sambungan internet"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nanti"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Dari \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Peringatan"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Penyaring Pemberitahuan - sudah menerapkan penyaring"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Filter Proyek - sudah menerapkan filter"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Pemberitahuan yang belum dibaca"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 pemberitahuan"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Ganti Kata Sandi"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Memeriksa pemberitahuan..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Di aplikasi"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Di web"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "Rincian Pemberitahuan"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Memeriksa pemberitahuan..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Anda tidak memiliki pesan"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Anda belum melanggani pemberitahuan Wikipedia apapun"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Ubah \\$1 untuk melihat lebih banyak pesan"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Tambah proyek untuk melihat lebih banyak pesan"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Nyalakan pemberitahuan otomatis"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "Pemberitahuan suntingan untuk semua proyek Wikimedia sekarang tersedia melalui aplikasi. Nyalakan pemberitahuan agar bisa tetap mendapatkan informasi terbaru mengenai pesan Anda di Wikipedia di sepanjang perjalanan."
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Penyaring Pemberitahuan"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Semua"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Baca"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Belum dibaca"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Status Baca"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filter"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Ubah tipe pemberitahuan untuk menyaring mereka ke/dari kotak masuk pemberitahuan Anda. Tipe-tipe yang dimatikan tidak akan dilihat, tetapi konten mereka dan pemberitahuan baru akan bisa dilihat ketika ini dinyalakan kembali."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Semua tipe"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Jenis pemberitahuan"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Arikel"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Halaman pembicaraan \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Beda"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Halaman pengguna \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Butir Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Halaman pembicaraan Anda"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Peringatan dari \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Selesai"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Proyek"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Hanya proyek di mana Anda sudah membuat akun yang akan ditampilkan di sinin"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Proyek Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Pemberitahuan log masuk"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Tandai"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Tandai semua sebagai telah dibaca"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Apakah Anda yakin Anda ingin menandai semua {{PLURAL:\\$1|\\$1 pesan}} di pemberitahuan Anda sudah dibaca? Pemberitahuan Anda akan ditandai sebagai sudah dibaca di semua gawai Anda."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Apakah Anda yakin Anda ingin menandai semua pemberitahuan Anda sudah dibaca? Pemberitahuan Anda akan ditandai sebagai sudah dibaca di semua gawai Anda."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Tandai sudah dibaca"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Tandai belum dibaca"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Lainnya"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Pengaturan pemberitahuan"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 pesan}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Lanjutkan"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Saring pemberitahuan Anda berdasarkan status baca dan jenis agar Anda bisa mempersempit kotak masuk Anda."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Penyaring"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Pelajari lebih lanjut tentang pemberitahuan"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Pemberitahuan membantu Anda selalu tahu akan aktivitas yang berkaitan dengan suntingan dan akun Anda."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Pemberitahuan dan peringatan"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "Baca semua pesan belum dibaca dari berbagai bahasa Wikipedia dan proyek Wikimedia di satu tempat."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "Kotak masuk proyek"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "Nyalakan pemberitahuan agar tetap mendapatkan informasi terbaru mengenai pesan dan peringatan suntingan Anda di sepanjang perjalanan."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Pemberitahuan otomatis"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Pemberitahuan suntingan"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Nyalakan pemberitahuan otomatis?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Nyalakan pemberitahuan otomatis"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Tidak, terima kasih"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "Wikipedia adalah proyek kolaboratif dan mengaktifkan pemberitahuan dapat mempermudah Anda untuk tetap mendapatkan informasi terbaru tentang pesan, peringatan, dan \"terima kasih\" dari sesama penyunting."
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Filter Proyek"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Semua"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Semua pemberitahuan"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 dalam \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Disaring berdasarkan"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|Di \\$1 proyek}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|\\$1 proyek}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|\\$1 tipe}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Baca"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 dan \\$2 dalam \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Belum dibaca"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Pencapaian penyuntingan"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Suntingan Anda dibalikkan"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Email baru"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "Beberapa upaya masuk gagal"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Upaya masuk gagal"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Masuk log dari perangkat tak dikenal"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Sebutan pada halaman pembicaraan artikel"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Sebutan dalam ringkasan suntingan"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Sebutan gagal"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Sebutah berhasil"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Sebutan pada halaman pembicaraan"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Pesan pada halaman pembicaraan Anda"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Pranala halaman"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Halaman ditinjau"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Terima kasih"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Pencapaian terjemahan"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Perubahan hak pengguna"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Selamat datang!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Sambungan Wikidata dibuat"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Tandai sudah dibaca"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Tandai belum dibaca"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Lainnya"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Pemberitahuan"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Tandai pemberitahuan terpilih"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Sebutan"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Perhatian"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Pesan selamat datang"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Hubungan dengan Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Pencapaian suntingan"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Suntingan dibalikkan"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Sebutan ringkasan suntingan"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Email dari pengguna lain"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Upaya masuk"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Upaya masuk log gagal ke akun Anda"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Berhasil masuk log"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Lainnya"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Pranala halaman"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Tinjauan halaman"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "Pengiriman penyebutan gagal"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "Pengiriman penyebutan berhasil"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Penyebutan halaman pembicaraan"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Terima kasih"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Pencapaian terjemahan"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Perubahan hak pengguna"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Pesan halaman pembicaraan"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Selamat datang"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Aktivitas baru di Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 pesan baru}} di \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Pesan baru}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 miliar"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 juta"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ribu"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "dari \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 peristiwa bersejarah|\\$1 peristiwa bersejarah}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Peristiwa bersejarah lainnya pada hari ini"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "\\$1 kejadian historis lainnya pada hari ini"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Bahasa Wikipedia utama Anda tidak mendukung Pada hari ini. Anda dapat mengganti bahasa Wikipedia utama Anda di menu Pengaturan pada aplikasi."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Tidak ada data yang tersedia"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 dari Wikipedia \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Pada hari ini"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Ketuk 'W' untuk kembali ke tab yang Anda mulai dari"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "suntingan bot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Ketuk untuk memilih dua revisi untuk dibandingan"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Bandingkan"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Grafik suntingan dari waktu ke waktu"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "suntingan kecil"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Pembuat: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentar \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Riwayat revisi"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Suntingan kecil"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "\\$1 bita ditambahkan"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "\\$1 bita dihapus"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Revisi dibuat \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Hanya dua revisi bisa dipilih"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "\\$1 suntingan sejak \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Masalah halaman"
+    },
+    {
+      "name": "page_location",
+      "value": "Lihat di peta"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Anda tidak memiliki hak untuk menyunting halaman ini"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Halaman ini dilindungi"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Halaman yang serupa"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Membandingkan revisi membantu menunjukkan bagaimana artikel telah berubah dari waktu ke waktu. Membandingkan dua revisi artikel akan menunjukkan perbedaan antara revisi tersebut dengan menyoroti konten apa pun yang diubah."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Membandingkan revisi"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Sunting tanpa masuk log"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Anda belum masuk log"
+    },
+    {
+      "name": "pictured",
+      "value": "gambar"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Hapus penelusuran tersimpan"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikel"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Pusatkan ulang di lokasi Anda"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Tampilkan sebagai daftar"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Tampilkan sebagai peta"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Tampilkan artikel lainnya"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Jelajahi kota, negara, benua, tengara alam, peristiwa sejarah, bangunan dan lainnya."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Cari artikel Wikipedia dengan lokasi geografis"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Nyalakan lokasi"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Akses ke lokasi Anda hanya tersedia bila aplikasi atau salah satu dari fitur-fiturnya yang terlihat di layar Anda."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Jelajahi artikel di sekitar lokasi Anda dengan menyalakan Akses Lokasi"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Saring artikel"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Penyaring"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Anda tidak memiliki tempat yang tersimpan"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Artikel tersimpan"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Bacaan teratas"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikel|\\$1 artikel}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Artikel bacaan teratas"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Lokasi diaktifkan"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Tidak satu pun dari artikel tersimpan Anda memiliki informasi lokasi"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 sesuai “\\$2”"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Cari Tempat"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Mungkin maksud Anda \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Ditelusuri baru-baru ini"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Semua artikel tersimpan"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Penelusuran yang disarankan"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Hasil di daerah ini"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Semua artikel teratas"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Sekitar"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Lokasi Anda saat ini"
+    },
+    {
+      "name": "places_title",
+      "value": "Tempat"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "jarak tidak diketahui"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Gambar hari ini pada \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Gagal untuk menerima gambar hari ini pada \\$1"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "Dua ekor sapi jantan sedang berlari, sementara sang joki berpegangan pada mereka pada pacu jawi (dari bahasa Minangkabau, \"adu banteng\"), sebuah adu banteng tradisional di Tanah Datar, Sumatera Barat, Indonesia. 2015, Final-45."
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Nikmati gambar yang indah setiap hari yang dipilih oleh komunitas kami."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Gambar pilihan"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Izinkan Wikimedia Foundation untuk mengumpulkan informasi tentang bagaimana Anda menggunakan aplikasi untuk membuat aplikasi yang lebih baik"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Kebijakan privasi"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profil"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "Masuk log atau buat akun untuk mendapatkan tinjauan tahunan yang lebih baik tahun depan."
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "Masuk log atau buat akun untuk melihat Tinjauan Tahunan dan berhak mendapatkan wawasan yang lebih tepersonalisasi."
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "Masuk log untuk mengakses Tinjauan Tahunan"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibuku"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikiberita"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikikutip"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisumber"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispesies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversitas"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikiwisata"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikikamus"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Tambahkan artikel ini ke dalam daftar bacaan?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Tambahkan “\\$1” ke daftar bacaan?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Ya, tambahkan ke daftar bacaan saya"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "Ada artikel yang disimpan ke aplikasi Wikipedia Anda. Apakah Anda ingin menyimpannya dan menggabungkannya dengan daftar bacaan yang disinkronkan ke akun Anda?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Artikel tersimpan ditemukan"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Entri ini tidak disinkronkan karena Anda telah mencapai batas jumlah entri dalam daftar ini."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Terjadi kesalahan tak terduga saat menyinkronkan daftar bacaan Anda."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Daftar ini tidak disinkronkan karena Anda telah mencapai batas jumlah daftar yang disinkronkan."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Buat daftar bacaan"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Deskripsi"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nama daftar bacaan"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Buat daftar baru"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Daftar bacaan dihapus"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Tidak, hapus artikel dari perangkat"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Harap kurangi jumlah artikel Anda dalam daftar ini menjadi \\$1 untuk melanjutkan sinkronisasi semua artikel dalam daftar ini."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Anda telah melampaui batas {{PLURAL:\\$1|\\$1 artikel|\\$1 artikel}} per akun."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Artikel|Artikel}} tidak dapat ditambahkan ke daftar ini. Anda telah mencapai batas \\$2 artikel per daftar bacaan untuk \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Nama daftar bacaan sudah digunakan"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Terjadi kesalahan tak terduga saat memperbarui daftar bacaan Anda."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Ya, simpan artikel di perangkat"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Ada artikel yang disinkronkan ke akun Wikipedia Anda. Apakah Anda ingin menyimpannya di perangkat ini setelah keluar log?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Simpan artikel tersimpan di perangkat?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Urutkan artikel"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Ada batas 5.000 artikel yang tidak diurutkan. Silakan urutkan artikel Anda yang ada ke dalam daftar untuk melanjutkan sinkronisasi artikel yang tidak diurutkan."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Batasan untuk artikel yang tidak diurutkan"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Daftar bacaan ini dan artikel yang disimpan di dalamnya tidak akan disinkronkan, harap kurangi jumlah daftar Anda menjadi \\$1 untuk melanjutkan sinkronisasi daftar ini."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Anda telah melampaui batas {{PLURAL:\\$1|\\$1 daftar bacaan|\\$1 daftar bacaan}} per akun."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Anda telah mencapai batas \\$1 daftar bacaan per akun"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Masuk log untuk menyinkronkan artikel tersimpan Anda"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Masuk log atau buat akun"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Masuk log untuk menyinkronkan artikel tersimpan"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Masuk log atau buat akun untuk memungkinkan artikel tersimpan dan daftar bacaan disinkronkan ke seluruh perangkat dan disimpan ke preferensi pengguna Anda."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Sinkronkan artikel tersimpan Anda?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[dibuat pengguna]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "deskripsi singkat opsional"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "judul daftar bacaan"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Sinkronisasi daftar bacaan telah dinonaktifkan untuk akun Wikipedia Anda di perangkat lain. Anda dapat mengaktifkan kembali sinkronisasi dengan memperbarui pengaturan Anda."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinkronisasi dinonaktifkan"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Nyalakan sinkronisasi"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Artikel tersimpan dan daftar bacaan Anda sekarang dapat disimpan ke akun Wikipedia Anda dan disinkronkan di seluruh aplikasi Wikipedia."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Nyalakan sinkronisasi daftar bacaan?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Sinkronisasi daftar bacaan diaktifkan untuk akun ini. Untuk berhenti menyinkronkan, Anda dapat menonaktifkan sinkronisasi untuk akun ini dengan memperbarui pengaturan Anda."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Sinkronisasi diaktifkan pada akun ini"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Terjadi kesalahan tak terduga saat menambahkan entri ke daftar bacaan Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Terjadi kesalahan tak terduga saat membuat daftar bacaan Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Terjadi kesalahan tak terduga saat menghapus daftar bacaan Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Terjadi kesalahan tak terduga saat menghapus entri dari daftar bacaan Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Terjadi kesalahan tak terduga saat memperbarui daftar bacaan Anda. Silakan coba lagi nanti."
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Daftar bacaan dengan nama “\\$1” tidak ditemukan. Pastikan Anda memiliki nama yang benar."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikel ditambahkan ke “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Tidak dapat menyinkronkan artikel"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Tidak disinkronkan"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Batas artikel terlampaui, tidak dapat menyinkronkan artikel"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Batas daftar terlampaui, tidak dapat menyinkronkan artikel"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artikel diantrekan untuk diunduh"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Batas perangkat terlampaui, tidak dapat menyinkronkan artikel"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Hapus sebagian ruang pada perangkat Anda dan coba lagi"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Beberapa artikel tidak disinkronkan, batas terlampaui"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Daftar Anda '\\$1' telah diganti namanya menjadi '\\$2'"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 daftar bacaan|\\$1 daftar bacaan}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Daftar baku untuk artikel tersimpan Anda"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Tersimpan"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "Tindakan ini tidak bisa dibatalkan. Setiap artikel yang disimpan hanya ke {{PLURAL:\\$1|daftar ini|daftar ini}} akan disimpan."
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Hapus {{PLURAL:\\$1|daftar|daftar}}?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "\\$1 artikel dan \\$2 daftar bacaan disinkronkan dari akun Anda"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Daftar tidak disinkronkan, batas terlampaui"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Urutkan artikel tersimpan"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "Ada batasan \\$1 artikel per daftar bacaan. Daftar yang ada dengan lebih dari batas ini telah dibagi menjadi beberapa daftar."
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Sinkronisasi akan dilanjutkan ketika sambungan internet tersedia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Tema hitam"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "Penggeser kecerahan"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Tema gelap"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Tema terang"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Tema sepia"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Penyorot sintaksis"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Penggeser ukuran teks"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Penyorot Sintaksis"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Lompat ke bagian referensi"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referensi \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Hari ini|1=Kemarin|\\$1 hari yang lalu}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1j"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Baru-baru ini|\\$1 jam yang lalu|\\$1 jam yang lalu}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1j yang lalu"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Baru-baru ini|\\$1 jam yang lalu|\\$1 jam yang lalu}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Baru saja|\\$1 menit yang lalu|\\$1 menit yang lalu}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Baru saja|\\$1 menit yang lalu|\\$1 menit yang lalu}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m yang lalu"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Bulan ini|1=Bulan lalu|\\$1 bulan lalu}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1d"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1d yang lalu"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Tahun ini|1=Tahun lalu|\\$1 tahun yang lalu}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Kembali"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Kembali ke artikel"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Suntingan dikembalikan"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Semua artikel"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Daftar ini tidak dapat dihapus"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Gagal mengunduh gambar untuk halaman ini"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Pengunduhan artikel sedang berlangsung..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Daftar bacaan"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Cari artikel yang disimpan"
+    },
+    {
+      "name": "saved_title",
+      "value": "Tersimpan"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "Membatalkan simpan {{PLURAL:\\$1|artikel ini akan menghapusnya|artikel ini akan menghapusnya}} dari semua daftar bacaan yang terkait"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Batal simpan {{PLURAL:\\$1|artikel|artikel}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Telusuri Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Kosongkan"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Telusuri Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Hapus semua pencarian terkini?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Tindakan ini tidak bisa dibatalkan!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Hapus Semua"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Belum ada pencarian terbaru"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Dicari baru-baru ini"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Dialihkan dari: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Cari"
+    },
+    {
+      "name": "search_widget_announcement_body",
+      "value": "Tambahkan gawit Pencarian Wikipedia ke Layar Utama atau Layar Kunci Anda untuk mendapatkan jawaban lebih cepat, langsung di ujung jari Anda."
+    },
+    {
+      "name": "search_widget_announcement_title",
+      "value": "Gawit Pencarian baru tersedia"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Serbia berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nсрпски ћирилица Serbian, Sirilik (sr-ec)\nsrpski latinica Serbian, Latin (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Serbia"
+    },
+    {
+      "name": "settings_account",
+      "value": "Akun"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Preferensi pembacaan"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Hapus data dalam cache"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Menghapus data cache akan membebaskan sekitar \\$1 ruang. Ini tidak akan menghapus halaman tersimpan Anda."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Hapus data dalam cache?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Batal"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Hapus cache"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Menyumbang"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Bantuan dan masukan"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Tampilkan bahasa di pencarian"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Anda dapat mengelola bahasa mana yang ditampilkan di umpan Jelajahi Anda dengan menyesuaikan pengaturan umpan Jelajahi Anda."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Bahasa saya"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Pemberitahuan otomatis"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Terjadi kesalahan saat memeriksa langganan pemberitahuan yang berkaitan dengan akun Anda."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Tidak dapat berlangganan Echo Notification"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Coba lagi"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "Dapatkan kabar mengenai aktivitas yang terkait dengan akun Anda seperti pesan dari sesama kontributor, peringatan, dan pemberitahuan. Semua disediakan dengan menghormati privasi dan mengambil data terkini."
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Utama"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Bahasa pertama di daftar ini digunakan sebagai bahasa utama untuk aplikasi."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Setel aplikasi untuk membuka tab Pencarian, bukan tab Jelajahi"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Buka aplikasi di tab Pencarian"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Izinkan Wikimedia untuk menyimpan artikel tersimpan Anda dan daftar bacaan ke preferensi pengguna Anda ketika Anda masuk log dan sinkronisasi."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Sinkronisasi artikel tersimpan dan daftar"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Daftar bacaan Anda akan disinkronkan di latar belakang"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Minta pemutakhiran ke artikel yang disinkronkan dan daftar bacaan Anda."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Perbarui daftar bacaan yang disinkronkan"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Menampilkan Daftar bacaan tersimpan (mis. Default) sebagai daftar terpisah dalam tampilan daftar bacaan Anda. Daftar ini muncul di perangkat Android."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Tampilkan Daftar bacaan tersimpan"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Penyimpanan dan sinkronisasi artikel"
+    },
+    {
+      "name": "settings_title",
+      "value": "Pengaturan"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "Mematikan Tinjauan Tahunan akan menghapus semua wawasan tepersonalisasi yang tersimpan dan menyembunyikan Tinjauan Tahunan."
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Dibuat dengan aplikasi Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" pada Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "Membangun kartu Bagikan-fakta..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” dari “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\ndari “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Dapatkan Petunjuk Arah"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Bagikan..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "melalui Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Buka di Peta"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” melalui Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” melalui Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Baru-baru ini ditambahkan"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Judul"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Daftar isi"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Tutup"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Tutup daftar isi"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Konten"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Sembunyikan daftar isi."
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Judul tingkat \\$1"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Tachelhit berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nⵜⴰⵛⵍⵃⵉⵜ Tachelhit, Tifinagh (shi-tfng)\nTaclḥit Tachelhit, Latin (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Tachelhit"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Tajik berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\nтоҷикӣ кирилликӣ Tajik, Sirilik (tg-cyrl)\ntojikī lotinī Tajik, Latin (tg-latn)"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Tajik"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 pengguna aktif}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Tambahkan topik"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Arsip"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Tentang halaman pembicaraan"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Ganti bahasa"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Tutup utas"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Baca"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Belum dibaca"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "Aplikasi menerima tanggapan tak terduga dari peladen. Silakan coba lagi nanti."
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Galat yang tidak diduga"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Ada yang salah."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Tidak dapat memuat halaman pembicaraan"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Perluas utas"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Cari di halaman"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Buka semua utas"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Ingat, kita semua adalah manusia di sini"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Mohon untuk berbaik hati"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Balasan anda telah diterbitkan"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Diskusi anda telah diterbitkan"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "Ketuk dua kali untuk kembali membalas"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Opsi Halaman Pembicaraan Lebih Banyak"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Informasi halaman"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Pranala permanen"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Silakan periksa sambungan internet Anda."
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "Tidak dapat memublikasikan komentar Anda."
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "Tidak dapat memublikasikan topik baru."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Baca di web"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Pranala balik"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 balasan}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Balas"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Balas ke \\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Kedalaman balasan: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Balas ke \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Riwayat revisi"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "Tutup tampilan balasan"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Bagikan halaman pembicaraan"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Berlangganan"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Anda akan menerima pemberitahuan komentar baru dalam topik ini."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Anda telah berlangganan!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "Berlangganan ke topik gagal, silakan coba lagi."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Pembicaraan Artikel"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Pembicaraan pengguna"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Berhenti berlangganan"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Anda tidak akan menerima lagi pemberitahuan tentang komentar baru di topik ini."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Anda telah berhenti berlangganan"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "Gagal berhenti berlangganan topik, harap coba lagi."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Tentang halaman pembicaraan pengguna"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Kontribusi"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Halaman yang diarsipkan tidak ditemukan."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Arsip"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Baca lebih lanjut"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Komentar Anda telah ditambahkan"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Lanjutkan penyuntingan"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Sunting sumber"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "Laman pembicaraan adalah tempat orang berdiskusi tentang cara membuat konten Wikipedia sebaik mungkin. **Mulailah dengan menambahkan topik diskusi baru** untuk terhubung dan berkolaborasi dengan komunitas Wikipediawan."
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "Laman pembicaraan adalah tempat orang mendiskusikan cara membuat konten di Wikipedia sebaik mungkin. Mulai diskusi baru untuk terhubung dan berkolaborasi dengan \\$1. Apa yang Anda katakan di sini akan terlihat oleh publik."
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Tambahkan topik baru"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Mulai sebuah diskusi"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Percakapan dimulai di sini"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Mulai diskusi dengan \\$1"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Apakah Anda yakin ingin membuang balasan baru ini?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Topik Anda telah ditambahkan"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Deskripsi"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Deskripsi Topik"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Buang balasan"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Apakah Anda yakin ingin membuang topik baru ini?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Topik"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Judul topik"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "Laman pembicaraan adalah tempat orang mendiskusikan cara membuat konten di Wikipedia sebaik mungkin. Tambahkan topik diskusi baru untuk terhubung dan berkolaborasi dengan komunitas Wikipediawan.\n\nMohon berbaik hati, kita semua manusia di sini."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "Laman pembicaraan adalah tempat \\$1 orang mendiskusikan cara membuat konten di Wikipedia sebaik mungkin. \\$1 Tambahkan topik diskusi baru untuk terhubung dan berkolaborasi dengan komunitas Wikipediawan."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Harap berbaik hati, kita semua manusia di sini."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Halaman pembicaraan"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Kelompok pengguna"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Log"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Pembicaraan"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Ketentuan penggunaan"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Hitam"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Gelap"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Bawaan"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Cocok dengan tema sistem"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Terang"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Pelajari apa yang sedang dibaca dunia hari ini di Wikipedia."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 pembaca"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Bacaan teratas"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Lanjutkan masuk log"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Silakan masukkan kode verifikasi dua faktor"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Masuk ke akun Anda"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Gunakan salah satu kode cadangan Anda"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Gunakan kode verifikasi"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Tidak bisa memuat halaman pembicaraan"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Tidak diketahui"
+    },
+    {
+      "name": "unwatch",
+      "value": "Batal pantau"
+    },
+    {
+      "name": "user_title",
+      "value": "Pengguna"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Aplikasi Wikipedia kini mendukung varian bahasa Uzbek berikut sebagai bahasa utama maupun bahasa kedua di dalam aplikasi, membuatnya lebih mudah untuk dibaca, cari dan sunting dalam varian pilihan Anda:\n\noʻzbekcha lotin Uzbek, Latin (uz-latin)\nўзбекча кирилл Uzbek, Sirilik (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Pembaruan dukungan untuk varian bahasa Uzbek"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Lanjutkan"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Nama pengguna dan halaman pengguna"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "Moksa adalah **pilihan terakhir** dan **hanya boleh digunakan ketika Anda ingin berhenti menyunting selamanya** dan juga untuk menyembunyikan sebanyak mungkin jejak lawas Anda.\n\nPenghapusan akun di Wikipedia dilakukan dengan mengubah nama akun Anda agar orang lain tidak dapat mengenali kontribusi Anda dalam proses yang disebut penghilangan akun (moksa). **Moksa tidak menjamin anonimitas penuh atau menghapus kontribusi ke proyek-proyek Wiki**."
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Peringatan"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Tidak, terima kasih"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Tinjau preferensi Anda"
+    },
+    {
+      "name": "watch",
+      "value": "Pantau"
+    },
+    {
+      "name": "watchlist",
+      "value": "Daftar pantauan"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selama 1 bulan."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selama 1 pekan."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selama 1 tahun."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selamanya."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selama 6 bulan."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Ditambahkan ke Daftar Pantauan Anda selama 3 bulan."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Lihat Daftar Pantauan"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 bita}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 bulan"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 pekan"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 tahun"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Selamanya"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 bulan"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 bulan"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Pilih jangka waktu Daftar Pantauan"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "Kedaluwarsa daftar pantauan"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "Lihat di diff"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Ringkasan suntingan"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Cari artikel"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "Tidak ada butir dalam Daftar Pantauan Anda"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "Tetapkan kedaluwarsa"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Penyaring"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "Aktivitas Daftar Pantauan"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "Perubahan yang telah dilihat"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "Perubahan yang belum dilihat"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Kontribusi Otomatis"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Manusia (bukan bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Revisi Terkini"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Revisi terkini"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Bukan revisi terkini"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Signifikansi"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Suntingan kecil"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Suntingan tidak kecil"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Jenis perubahan"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Perubahan kategori"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Tindakan tercatat"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Pembuatan halaman"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Suntingan halaman"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Suntingan Wikidata"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Pendaftaran dan pengalaman pengguna"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Terdaftar"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Tidak terdaftar"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Pelajari lebih lanjut tentang Daftar Pantauan"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Memperkenalkan Daftar Pantauan Anda"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Dihapus dari Daftar Pantauan Anda"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Ucapan 'Terima kasih' anda telah terkirim kepada \\$1"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "Telusuri perubahan"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Lihat pembaruan"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Berterimakasih"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Kontribusi pengguna"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Halaman pengguna"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Halaman pembicaraan pengguna"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Pantau artikel"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Data & Privasi"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Bacaan yang disarankan dan artikel harian dari komunitas kami"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Umpan Jelajahi"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Berpergian kembali ke masa lalu untuk mempelajari apa yang terjadi hari ini dalam sejarah"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Hari ini dalam sejarah"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Temukan tengara di dekat Anda atau cari tempat di seluruh dunia"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Tab Tempat"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Memulai"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Cara baru untuk menjelajah"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Mengerti"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia ditulis secara kolaboratif oleh sukarelawan dan terdiri dari lebih dari 40 juta artikel dalam lebih dari 300 bahasa."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Pelajari lebih lanjut tentang Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Tentang Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia adalah proyek global untuk membangun ensiklopedia bebas dalam semua bahasa di dunia. Hampir semua orang dengan akses internet bebas berpartisipasi dengan memberikan kontribusi informasi yang netral dan dikutip."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Ensiklopedia bebas"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Tambahkan bahasa lainnya"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Tambahkan atau sunting bahasa pilihan"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Kami telah menemukan bahasa berikut di perangkat Anda:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Cari dalam lebih dari 300 bahasa"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Pelajari lebih lanjut tentang kebijakan privasi dan ketentuan penggunaan kami"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Jelajahi apa yang terjadi pada hari ini dalam sejarah."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Ensiklopedia online gratis yang bisa disunting oleh siapapun."
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, sebuah ensiklopedia wiki gratis, dirilis."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Mengambil pratayang perubahan Anda..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Pranala ini mengarah ke situs web eksternal: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Pranala luar"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "Wikipedia tidak memiliki artikel dengan nama yang persis seperti ini"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Pranala internal tidak ditemukan"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Pranala ini menuju ke '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Pratayang pranala"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Simpan perubahan"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Kesalahan verifikasi CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Memerlukan verifikasi CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Tidak dapat menentukan hasil unggah teks wiki."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Menerbitkan..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Suntingan akan dikaitkan dengan alamat IP perangkat Anda. Jika Anda \\$1Masuk log\\$2, Anda akan memiliki lebih banyak privasi."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Suntingan akan dihubungkan ke alamat IP perangkat. Jika Anda \\$1 Anda akan memiliki privasi lebih."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Ketentuan Penggunaan"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "Wikipedia disunting {{PLURAL:\\$1|\\$1 kali}} tiap menit"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Wikipedia tersedia dalam lebih dari {{PLURAL:\\$1|\\$1 bahasa}}"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "Tinjauan Tahunan"
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "Ikon aplikasi baru tersedia untuk layar beranda Anda"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Menyumbang"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Menyumbang sekarang"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "Jelajahi Tinjauan Tahunan Wikipedia Anda"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "Seberapa sering Wikipedia disunting"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "Artikel yang paling dibaca di Wikipedia bahasa Inggris"
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "Anda bisa mengakses Tinjauan Tahunan Anda nanti di Profil."
+    },
+    {
+      "name": "year_in_review_noncontributor_slide_subtitle_updated",
+      "value": "Kami senang Wikipedia menjadi bagian dari \\$1 Anda! Dapatkan hadiah istimewa dalam Tinjauan Tahunan \\$2 Anda dengan menjadi kontributor—baik dengan [menyunting Wikipedia](\\$3) atau dengan menyumbang dari aplikasi ke [Yayasan Wikimedia](\\$4), organisasi nirlaba di baliknya. Jika Wikipedia berguna bagi Anda, pertimbangkan untuk menyumbang guna membantu keberlanjutannya di masa depan dan menjaganya agar tetap gratis, bebas iklan, tepercaya, dan dapat diakses oleh semua orang. Jika Anda telah menyumbang di tempat lain, dukungan Anda sangat kami hargai."
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "Bulan di mana Anda paling banyak membaca"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "Terima kasih telah berinvestasi dalam masa depan pengetahuan bebas. Tahun ini, Yayasan Wikimedia meningkatkan teknologi untuk melayani setiap pembaca dan sukarelawan dengan lebih baik, mengembangkan alat yang memberdayakan kolaborasi, dan mendukung Wikipedia dalam lebih banyak bahasa. [Pelajari lebih lanjut tentang pekerjaan kami](\\$1)."
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Kemurahan hati Anda membantu menjaga Wikipedia tetap berkembang."
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "Suntingan Anda telah dilihat lebih dari {{PLURAL:\\$1|\\$1 kali}} baru-baru ini"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "Anda menyunting {{PLURAL:\\$1|\\$1 kali}}"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "Artikel teratas Anda"
+    },
+    {
+      "name": "year_in_review_personalized_reading_title_v3_format_updated",
+      "value": "Anda menghabiskan waktu {{PLURAL:\\$1|\\$1 menit}} membaca {{PLURAL:\\$2|\\$2 artikel}} dalam \\$3"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "Inilah Tinjauan Tahunan saya di Wikipedia. Dibuat dengan aplikasi Wikipedia iOS."
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "Bantu tingkatkan Tinjauan Tahunan Wikipedia. Puas dengan fitur ini? Apa yang ingin Anda lihat tahun depan?"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Karena Anda membaca"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Semua artikel bacaan teratas"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Artikel sembarang lainnya"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Dari Wikipedia %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Di Wikipedia %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Dari Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Tidak ada riwayat yang muncul"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Sembunyikan kartu ini"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Sesuaikan umpan Jelajahi"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kartu disembunyikan"
+    },
+    {
+      "name": "editor_published",
+      "value": "Suntingan Anda diterbitkan."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Deskripsi artikel untuk %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Mungkin maksud Anda %s?"
+    }
+  ]
+}

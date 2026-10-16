@@ -1,0 +1,6912 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "維基百科"
+    },
+    {
+      "name": "about_content_license",
+      "value": "內容許可協議"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "除非另有指定，否則內容皆基於\\$1授權。"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "創用CC 姓名標示-相同方式分享 授權條款"
+    },
+    {
+      "name": "about_contributors",
+      "value": "貢獻者"
+    },
+    {
+      "name": "about_libraries",
+      "value": "使用的函式庫"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "完整清單"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "授權條款"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "我們熱愛開源軟體\\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "地點地圖授權條款"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "請使用由蘋果地圖所提供的地圖。\\$1。"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "請點擊此處以了解授權條款的詳情"
+    },
+    {
+      "name": "about_product_of",
+      "value": "由\\$1在像您一樣的志工的協助助下出品"
+    },
+    {
+      "name": "about_repositories",
+      "value": "儲存庫"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "源代碼依據\\$1授權。"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT 協議"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "傳送應用程式意見回饋"
+    },
+    {
+      "name": "about_title",
+      "value": "關於"
+    },
+    {
+      "name": "about_translators",
+      "value": "翻譯人員"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "由\\$1的志工翻譯"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "維基媒體基金會"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "維基百科"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "看不見圖片嗎？\\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "取得新驗證碼中…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "請求帳號。"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "驗證碼安全性檢查"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "建立您的帳號"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "已經擁有帳號？\\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "登入。"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "登入中..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "您必須輸入使用者名稱、密碼並再一次確認密碼後才能建立帳號。"
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "密碼欄位不符合。"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "儲存中..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "建立新帳號"
+    },
+    {
+      "name": "account_group_title",
+      "value": "您的帳號"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "隱退帳號"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "您的討論頁"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "自動簽名討論"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "討論的自動簽名，會使用在簽名設定裡所定義的簽名"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "討論頁偏好設定"
+    },
+    {
+      "name": "action_add_to",
+      "value": "新增至…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "新增至閱讀清單"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "加入至清單"
+    },
+    {
+      "name": "action_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "捨棄編輯"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "捨棄編輯"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "在頁面裡尋找"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "繼續編輯"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "變更語言"
+    },
+    {
+      "name": "action_move_to",
+      "value": "移動至…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "移動至閱讀清單"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "下一修訂"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "上一修訂"
+    },
+    {
+      "name": "action_read",
+      "value": "閱讀"
+    },
+    {
+      "name": "action_redo",
+      "value": "重做"
+    },
+    {
+      "name": "action_remove",
+      "value": "移除"
+    },
+    {
+      "name": "action_retry",
+      "value": "重試"
+    },
+    {
+      "name": "action_save",
+      "value": "儲存"
+    },
+    {
+      "name": "action_saved",
+      "value": "已儲存"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "已儲存。啟用來取消儲存。"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "條目已儲存供日後使用"
+    },
+    {
+      "name": "action_share",
+      "value": "分享"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "分享"
+    },
+    {
+      "name": "action_sort",
+      "value": "排序"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "感謝使用者"
+    },
+    {
+      "name": "action_undo",
+      "value": "還原"
+    },
+    {
+      "name": "action_unsave",
+      "value": "未儲存"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "條目未儲存"
+    },
+    {
+      "name": "action_update",
+      "value": "更新"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "將建議的圖片加到維基百科條目來加強理解。"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "新增圖片"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "還有其他想法嗎？"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|1}} 次瀏覽"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "本月閱讀的條目"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "條目"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "所有時間影響"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "編輯分析"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "已關閉活動模組。\\$1開啟\\$2來查看在此分頁上的更新。"
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "閱讀分析基於應用程式設定中所設定的主要語言，編輯分析僅限於您的主要應用程式語言。分析會利用本地端資料，但不包含公開的編輯內容。"
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "最後一次用應用程式捐款"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "您必須登入才能開啟此活動分析。"
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "閱讀分析"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "閱讀時間"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "行為時間軸"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[截圖或連結]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "我在使用活動分頁功能時遇到的問題："
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[描述擬定的解決方案]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "- [描述具體問題]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "我期望看到的情況是："
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "問題報告 - 活動分頁"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "開始閱讀與編輯來建立您的歷史"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "沒有可顯示的內容"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "您本週尚未動手編輯，立即開始編輯來追蹤貢獻。"
+    },
+    {
+      "name": "activity_tab_history_callout_body",
+      "value": "在「搜尋分頁」中瀏覽或清除您的閱讀紀錄。"
+    },
+    {
+      "name": "activity_tab_history_callout_body_loggedout",
+      "value": "請在「搜尋分頁」中查找並清除您的閱讀紀錄。無需註冊帳號。"
+    },
+    {
+      "name": "activity_tab_hitory_callout_close",
+      "value": "關閉歷史通知卡"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 時 \\$2 分"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "在維基百科 iOS 版"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "所有時間影響"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1}} 天"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "最長連續時間"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "編輯次數"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "上一次編輯"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "您最近的活動（過去 30 天）"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "從 \\$1 到 \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "感謝次數"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "總編輯次數"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "天"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "您編輯過的條目的瀏覽次數"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "瀏覽次數"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "登入或建立帳號來查看更多編輯和閱讀活動。"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "登入或建立帳號來查看您在維基百科應用程式上的活動。"
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "查看更多閱讀和編輯方面的分析"
+    },
+    {
+      "name": "activity_tab_logged_out_track_what_youve_read",
+      "value": "以全新的方式追蹤您的閱讀紀錄，並查看您隨著時間的貢獻。"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "清除閱讀歷史"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "自您編輯以來最多瀏覽次數"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "中立"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "您本週尚未動手編輯，請新增圖片以增強對條目的理解。"
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "您的閱讀"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "查看您花了多少時間閱讀，以及您在一段時間內探索了哪些條目或主題。"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "閱讀模式"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "選擇要顯示的模組。所有個人資料在您的裝置上都會保持隱私，並且可以隨時清除瀏覽紀錄。"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "保持掌控"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "介紹活動"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "了解更多關於活動的資訊"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "探索對於您的貢獻、以及您所分享知識的影響的分析。"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "影響亮點"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_subtitle_updated",
+      "value": "活動包括已閱讀、已儲存和已編輯條目的完整時間軸。您的閱讀歷史現在位於「搜尋」分頁中。"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_title_updated",
+      "value": "現在正搜尋閱讀歷史"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "檢視閱讀記錄"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "滿意"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "此月份儲存的條目"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "開始編輯"
+    },
+    {
+      "name": "activity_tab_survey_subtitle",
+      "value": "請協助改善活動。您對此功能滿意嗎？"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "滿意度調查"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "本週閱讀時間"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "活動"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "本月的熱門分類"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "跨專案總編輯數"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "不滿意"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "\\$1的閱讀"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "非常滿意"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "非常不滿意"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "檢視編輯歷史記錄"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "檢視閱讀紀錄"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "檢視已儲存條目"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "週"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "您這週編輯了{{PLURAL:\\$1|\\$1}}篇條目。"
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "您這週閱讀了{{PLURAL:\\$1|\\$1}}篇條目。"
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "您這週儲存了{{PLURAL:\\$1|\\$1}}篇條目。"
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "您的影響"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "新增 {{PLURAL:\\$1|\\$1 個條目|\\$1 個條目}}至閱讀清單"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "進階設定"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "您正在使用臨時帳號。帳號會在 90 天後到期。"
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "了解更多。"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "意見回饋已提交"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "關閉"
+    },
+    {
+      "name": "app_onboarding_data_privacy_body",
+      "value": "我們相信，您不應為了參與自由知識的運動而被迫提供個人資料。本應用程式所蒐集的使用資料均為匿名資料。"
+    },
+    {
+      "name": "app_onboarding_data_privacy_links_format",
+      "value": "進一步了解我們的 \\$1 和 \\$2"
+    },
+    {
+      "name": "app_onboarding_data_privacy_policy_link",
+      "value": "隱私政策"
+    },
+    {
+      "name": "app_onboarding_data_privacy_terms_link",
+      "value": "使用條款"
+    },
+    {
+      "name": "app_onboarding_data_privacy_title",
+      "value": "資料與隱私"
+    },
+    {
+      "name": "app_onboarding_feed_preference_community_option",
+      "value": "社群相關的內容"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "維基百科、參考資料、wiki、百科全書、訊息、知識、研究、資訊、探索、學習"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "可完整客製化，且更容易讀取探索摘要。在地化、性能改進、並修正程式錯誤。"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "下載維基百科應用程式來探索您附近的地點，同步條目以離線閱讀，並自訂化您的閱讀體驗。"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "自由的百科全書"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "調整條目文字大小"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "展開表格"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "設定所有表格在所有條目裡來依預設值自動開啓，包含快速預覽、參考資料、備註與外部連結"
+    },
+    {
+      "name": "appearance_settings_icon_contributor_title",
+      "value": "貢獻者"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "在陰暗與漆黑主題裡減少圖片的不透明度"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "閱讀主題"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "表格設定"
+    },
+    {
+      "name": "appearance_settings_set_icon_footer",
+      "value": "貢獻者圖示是用來慶祝您在 2025 年於應用程式上對維基百科做出的貢獻。這會保留到下一次的年度回顧。"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "應用程式圖示"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "拖拉滑動桿來改變條目文字大小。利用您系統的文字大小，來向在應用程式裡其它文字區域做調整。"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "主題選項"
+    },
+    {
+      "name": "article_about_title",
+      "value": "關於此條目"
+    },
+    {
+      "name": "article_delete",
+      "value": "刪除"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|條目|條目}}已刪除"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "應用程式無法即時檢索更新的內容。請稍後重新整理此頁面，以查看您所做出的更改。"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "尋找語言"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "選擇語言"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "其他語言"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "您的語言"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "延伸閱讀"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "參考資料 \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "返回到：\\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "條目修訂紀錄"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "您的裝置沒有足夠的空間來儲存此條目"
+    },
+    {
+      "name": "article_share",
+      "value": "分享"
+    },
+    {
+      "name": "article_tabs_button_accessibility_hint",
+      "value": "導覽至分頁概要"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "條目分頁"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "打開多篇條目並輕鬆在各條目間切換。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "使用分頁瀏覽"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "分頁會自動記住您的滑動位置。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "從您上次結束的地方開始"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "在後台分頁裡開啟連結且不遺失您的位置。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "儲存連結以供事後使用"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_subtitle",
+      "value": "當開啟新分頁時選擇有趣的事實或閱讀建議。"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "個人化您的新分頁"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "了解更多有關分頁"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "引入分頁"
+    },
+    {
+      "name": "article_tabs_max_reached",
+      "value": "已達到分頁限制（最多 \\$1 個）。條目已在目前分頁中開啟。請關閉一個或多個分頁。"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "分頁導覽"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "分頁的入門提示"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "開啟"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "在背景分頁開啟"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "在新分頁開啟"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "條目討論頁"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "閱讀主題控制"
+    },
+    {
+      "name": "article_topic_africa",
+      "value": "非洲"
+    },
+    {
+      "name": "article_topic_architecture",
+      "value": "建築"
+    },
+    {
+      "name": "article_topic_art",
+      "value": "藝術"
+    },
+    {
+      "name": "article_topic_asia",
+      "value": "亞洲"
+    },
+    {
+      "name": "article_topic_biography",
+      "value": "傳記（全部）"
+    },
+    {
+      "name": "article_topic_biology",
+      "value": "生物"
+    },
+    {
+      "name": "article_topic_business_and_economics",
+      "value": "商業與經濟"
+    },
+    {
+      "name": "article_topic_central_america",
+      "value": "中美洲"
+    },
+    {
+      "name": "article_topic_chemistry",
+      "value": "化學"
+    },
+    {
+      "name": "article_topic_comics_and_anime",
+      "value": "漫畫與動畫"
+    },
+    {
+      "name": "article_topic_computers_and_internet",
+      "value": "電腦與網際網路"
+    },
+    {
+      "name": "article_topic_earth_and_environment",
+      "value": "地球與環境"
+    },
+    {
+      "name": "article_topic_education",
+      "value": "教育"
+    },
+    {
+      "name": "article_topic_engineering",
+      "value": "工程"
+    },
+    {
+      "name": "article_topic_entertainment",
+      "value": "娛樂"
+    },
+    {
+      "name": "article_topic_europe",
+      "value": "歐洲"
+    },
+    {
+      "name": "article_topic_fashion",
+      "value": "時尚"
+    },
+    {
+      "name": "article_topic_food_and_drink",
+      "value": "食物與飲品"
+    },
+    {
+      "name": "article_topic_general_science",
+      "value": "一般科學"
+    },
+    {
+      "name": "article_topic_history",
+      "value": "歷史"
+    },
+    {
+      "name": "article_topic_literature",
+      "value": "文學"
+    },
+    {
+      "name": "article_topic_mathematics",
+      "value": "數學"
+    },
+    {
+      "name": "article_topic_medicine_and_health",
+      "value": "醫學與健康"
+    },
+    {
+      "name": "article_topic_military_and_warfare",
+      "value": "軍事與戰爭"
+    },
+    {
+      "name": "article_topic_music",
+      "value": "音樂"
+    },
+    {
+      "name": "article_topic_north_america",
+      "value": "北美洲"
+    },
+    {
+      "name": "article_topic_oceania",
+      "value": "大洋洲"
+    },
+    {
+      "name": "article_topic_performing_arts",
+      "value": "表演藝術"
+    },
+    {
+      "name": "article_topic_philosophy_and_religion",
+      "value": "哲學與宗教"
+    },
+    {
+      "name": "article_topic_physics",
+      "value": "物理"
+    },
+    {
+      "name": "article_topic_politics_and_government",
+      "value": "政治與政府"
+    },
+    {
+      "name": "article_topic_society",
+      "value": "社會"
+    },
+    {
+      "name": "article_topic_south_america",
+      "value": "南美洲"
+    },
+    {
+      "name": "article_topic_sports",
+      "value": "體育"
+    },
+    {
+      "name": "article_topic_technology",
+      "value": "技術"
+    },
+    {
+      "name": "article_topic_transportation",
+      "value": "運輸"
+    },
+    {
+      "name": "article_topic_tv_and_film",
+      "value": "電視與電影"
+    },
+    {
+      "name": "article_topic_video_games",
+      "value": "電子遊戲"
+    },
+    {
+      "name": "article_topic_women",
+      "value": "傳記（女性）"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "當您的編輯發布後會建立臨時帳號「\\$1」。該帳號將在 90 天後到期。"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "已建立臨時帳號"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "返回"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "輕觸返回"
+    },
+    {
+      "name": "button_go_back",
+      "value": "返回"
+    },
+    {
+      "name": "button_next",
+      "value": "下一步"
+    },
+    {
+      "name": "button_ok",
+      "value": "確定"
+    },
+    {
+      "name": "button_publish",
+      "value": "發布"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "仍要發布"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "回報程式錯誤"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "儲存以供日後使用"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "儲存以供日後使用"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "從已儲存移除"
+    },
+    {
+      "name": "button_skip",
+      "value": "略過"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "cc_zero",
+      "value": "創用CC公眾領域貢獻宣告"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列中文變體作為應用程式裡的主要語言或次要語言，使用您偏好的變體以更容易地閱讀、搜尋、編輯：\n\n简体（zh-hans）\n香港繁體（zh-hk）\n澳門繁體（zh-mo）\n大马简体（zh-my）\n新加坡简体（zh-sg）\n臺灣正體（zh-tw）"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "中文變體支援更新"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "清除"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "清除快取完成。"
+    },
+    {
+      "name": "clearing_cache_error",
+      "value": "清除快取時出錯。"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "正在清除快取。"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "關閉所有分頁"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "您是否要關閉所有 \\$1 個分頁？此操作無法取消。"
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "關閉所有 \\$1 個分頁？"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "您是否要關閉 {{PLURAL:\\$1|\\$1}} 個分頁？此操作無法取消。"
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "關閉 {{PLURAL:\\$1|\\$1}} 個分頁？"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "關閉"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "關閉其他分頁"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "關閉分頁？"
+    },
+    {
+      "name": "close_tabs",
+      "value": "關閉分頁"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "已關閉 {{PLURAL:\\$1|\\$1}} 個分頁。"
+    },
+    {
+      "name": "compass_direction",
+      "value": "在 \\$1 時"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "這僅套用到透過此裝置所做過的捐款。"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "確認刪除"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "已刪除本地歷史紀錄"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "繼續"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "瀏覽維基百科以閱讀更多條目"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "沒有最近讀取的條目"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "此月貢獻"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列克里米亞韃靼語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nQırımtatarca，拉丁字母克里米亞韃靼語（chr-latn）\nкъырымтатарджа，西里爾字母克里米亞韃靼語（crh-cyrl）"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "克里米亞韃靼語異體字支援更新"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "自訂"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "更新中…"
+    },
+    {
+      "name": "description_add_title",
+      "value": "添加描述"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "編輯視圖中的元素順序與條目視圖中的元素順序不同。"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1的條目描述"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "透過更改條目描述，我同意\\$1且依據\\$2許可協議不撤銷所發表出我的個人貢獻。"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "編輯首段"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "編輯條目說明"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "簡短的描述是最好的"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "發布描述"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "編輯描述"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "請儘量保持描述簡短，使條目的主題一目了然"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "僅當句子開頭的名詞為專有名詞時才應將其大寫"
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "當您的編輯發布後會建立臨時帳號「\\$1」。該帳號將在 90 天後到期。"
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "條目描述概括了一篇條目，幫助讀者一目了然地理解主題。"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "關於"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "關於維基數據"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "維基數據是維基媒體基金會的專案，提供了一個自由的、協同運作的、多語言的、支撐維基百科和其他專案的輔助資料庫。"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "更多資訊"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "理想情況下，描述應該只有一行，並且長度應介於2到12個字之間。僅當開頭的名詞為專有名詞時才應將其大寫。"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "蒙娜麗莎條目的條目描述"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "聖母峰條目的條目描述"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "李奧納多·達文西的繪畫"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "地球第一高峰"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "例如："
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "建立描述的提示"
+    },
+    {
+      "name": "description_help_title",
+      "value": "條目描述說明"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "關於編寫描述的維基數據指引"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "完成"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "您剛剛完善了維基百科，人人都會受益"
+    },
+    {
+      "name": "description_published_title",
+      "value": "已發布描述！"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "原則上為一行，介於 2 至 12 個字之間"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "保持簡短"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "概括條目以幫助讀者一目了然地了解主題"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "條目描述"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "點擊開始按鈕即表明我不會濫用此功能"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "開始編輯"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "強制電子郵件驗證"
+    },
+    {
+      "name": "developer_settings",
+      "value": "開發人員設定"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "跳過捐贈"
+    },
+    {
+      "name": "developer_settings_dynamic_tabs_group_c_v2",
+      "value": "啟用群組 C 的分頁 V2"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "啟用年度回顧"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "傳送分析給維基媒體基金會實驗室。"
+    },
+    {
+      "name": "developer_settings_suppress_image_rec_post",
+      "value": "請不要發送圖片推薦編輯。"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "條目修訂紀錄"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "已新增：\\$1，新增結束。"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "章節向下移動了 {{PLURAL:\\$1|0=0|\\$1}} 行。轉到新的位置。"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "章節向上移動了 {{PLURAL:\\$1|0=0|\\$1}} 行。轉到新的位置。"
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "已移動章節。轉到之前的位置。"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "章節向下移動了 {{PLURAL:\\$1|0=0|\\$1}} 個段落。轉到新的位置。"
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "章節向上移動了 {{PLURAL:\\$1|0=0|\\$1}} 個段落。轉到新的位置。"
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "已移除：\\$1，移除結束。"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "上一次編輯"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "比較修訂"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "顯示編輯"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "比較修訂"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "已新增內容：\\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "已刪除內容：\\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "折疊\\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "展開\\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "顯示"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "隱藏"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "修訂建立於"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "第\\$1到\\$2行"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "章節已移動"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "向下"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "向上"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 行}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 個段落}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "章節\\$1移動了\\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "無法載入修訂"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "回退"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "您確定要回退這些編輯嗎？"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "回退編輯"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "已回退編輯。"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 次編輯|\\$1 次編輯}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "編者資訊"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 位元組已新增}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 位元組已移除|\\$1 位元組已移除}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "編輯摘要"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "介紹"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "\\$1 行"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "匿名使用者無法被感謝"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "「感謝」是對維基百科編者的編輯工作表示謝意的簡單方式。您必須登入後才能傳送「感謝」。"
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "登入以傳送「感謝」"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "傳送「感謝」"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "「感謝」是對維基百科編者的編輯工作表示謝意的簡單方式。「感謝」無法復原，且可公開檢視。"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "公開發送「感謝」"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "您的感謝已發送給\\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "您已為此次編輯傳送「感謝」"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "感謝無法撤回發送"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "上下文行，未變動的內容：\\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "這將撤消此處顯示的條目修訂所做出的更改。若要繼續，請提供撤消此編輯的原因。"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "已撤銷修訂。"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|共\\$1行尚未編輯}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "輕觸兩次來開啟選單"
+    },
+    {
+      "name": "dim_images",
+      "value": "調暗圖片"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "觸按兩次來選擇捐款金額。"
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "輕觸兩次來捐款 \\$1 給維基媒體基金會。"
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "輕觸兩次來授予維基媒體基金能對您發送電子郵件的權限。"
+    },
+    {
+      "name": "donate_accessibility_keyboard_done_hint",
+      "value": "輕觸兩次來關閉用於輸入金額的鍵盤視圖。"
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "輕觸兩次來啟用每月自動捐贈此金額。"
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "輸入自訂捐款金額。"
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "輕觸兩次來添加交易手續費到捐款金額。"
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "感謝您，親愛的捐款者！您的慷慨贊助會幫助維基百科與其他自由知識專案網站蓬勃發展。"
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple 未對此目的負責籌集資金。"
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "是的，維基媒體基金會可以臨時對我發送電子郵件。"
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "常見問題"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "其他給予方式"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "捐款時遇到麻煩？"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "減稅資訊"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "刪除本地捐款歷史紀錄"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "明天我們會再次提醒您。"
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "我們無法透過我們的網站接受超過 \\$1 \\$2 的捐款。請藉由 benefactors@wikimedia.org 電郵帳號來聯絡我們的贈品專門處理人員。"
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "請選擇金額（最低 \\$1 \\$2）"
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "將此作為每月定期捐款。"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "使用 Apple Pay 捐款"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "使用 Apple Pay 或選擇其他支付方式捐款。"
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "其他付款方式"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "使用 Apple Pay 捐款嗎？"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "您的慷慨行動對我們非常重要。"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "感謝您！"
+    },
+    {
+      "name": "donate_title",
+      "value": "選擇金額"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "我願意慷慨地添加\\$1來支付手續費，這樣對方就可以100%%保有我的捐款。"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_1",
+      "value": "我們不會向任何人販賣或洩漏您的資訊。透過捐款行為，代表您同意與維基媒體基金會、託管維基百科與其他姊妹計劃的非盈利組織、依據我們[捐款方針]（\\$1）的服務提供者分享您的個人資訊。維基媒體基金會與其服務提供者位於美國與其他國家，其隱私權法可能與您的國家不同。更多相關資訊請閱讀我們的[捐款方針]（\\$1）。"
+    },
+    {
+      "name": "donate_wikimedia_fine_print_2",
+      "value": "對於定期捐款者，維基媒體基金會在首次捐款起每隔一個月扣除固定的捐款金額，直至您通知我們停止扣款為止。如果您是在月份上 29 號、30 號，或是 31 號首次發起捐款，會在每月份的最後一天扣款，對於較短的月份，則會盡可能在貼近原始日期的時間進行。若有其他問題，請聯絡 donate@wikimedia.org。"
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "重複分頁"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "顯示文字"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "連結目標"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "移除連結"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "編輯連結"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "編輯"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "這可能是因為您選擇的文字不可編輯（如文章標題或資訊框標題），也可能是因為選中的文字過長"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "無法定位您所選擇的文字"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "了解更多關於小修改"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "這是一個小修改"
+    },
+    {
+      "name": "edit_notices",
+      "value": "編輯提示"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "永遠顯示編輯提示"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "編輯前請先閱讀"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "所有內容均以簡化格式顯示。"
+    },
+    {
+      "name": "edit_sheet_ip_account_notice",
+      "value": "IP 帳號通知"
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "臨時帳號通知"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "顯示網頁預覽"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "添加編輯摘要"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "已新增圖片"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "已新增圖片與說明"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "修正語法"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "修正筆誤"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "新增連結"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "您如何改善此條目？"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "已新增簡短描述"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "已更新簡短描述"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "了解更多關於您的監視清單"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "監視此頁面"
+    },
+    {
+      "name": "edited_article",
+      "value": "已編輯"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "在更新條目的時候可以大膽但不要魯莽。不要為犯錯而苦惱：頁面過去的所有版本都會儲存下來，所以錯誤會很容易被我們的社群糾正。"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "您的想法很重要"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "所有的內容都必須是可查證的。當添加新資訊到條目時，編者應提供能直接證實此貢獻之可靠來源的內文引用。"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "引用可靠的來源"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "我們力求以客觀語氣來編寫條目。在進行編輯時，旨在如同以可靠來源描述來對外公正呈現。"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "以客觀語氣編寫"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "為了讓人人都能閱覽全世界的知識，我們需要您來閱讀條目、編輯條目、向感興趣的主題貢獻，為其添磚加瓦。"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "解開知識的枷鎖"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "已發布您的編輯。"
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "編輯原始碼"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "您確定要放棄發布並離開編輯模式嗎？"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "您確定要捨棄此編輯嗎？"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "關閉編輯模式？"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "清除尋找"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "關閉尋找"
+    },
+    {
+      "name": "editor_find_current_match_info_accessibility",
+      "value": "找到共 \\$1 個相符結果。已凸顯相符號碼 \\$2"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "查無相符結果"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "下一個尋找結果"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "上一個尋找結果"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "尋找"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "粗體"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "關閉文字格式選單"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "註釋"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "標題"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "減少縮排"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "增加縮排"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "斜體"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "連結"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "有序列表"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "無序列表"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "章節"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "參考"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "刪除線"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "副標題 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "副標題 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "副標題 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "副標題 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "下標"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "上標"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "模板"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "文字格式"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "底線"
+    },
+    {
+      "name": "editor_replace_button_format_accessibility",
+      "value": "執行取代操作。設定取代類型為\\$1。"
+    },
+    {
+      "name": "editor_replace_clear_button_accessibility",
+      "value": "清除取代"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "取代"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "取代為…"
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "全部取代"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "取代所有實體"
+    },
+    {
+      "name": "editor_replace_type_button_accessibility",
+      "value": "切換取代類型。目前設定成\\$1。請選擇來進行更改。"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "取代"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "取代單一實體"
+    },
+    {
+      "name": "editor_title",
+      "value": "編輯者"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "粗體文字格式"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "將遊標移至下一行。"
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "將遊標移至下一個字元。"
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "將遊標移至前一個字元。"
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "將遊標移至前一行。"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "在頁面裡尋找"
+    },
+    {
+      "name": "editor_toolbar_image_accessibility",
+      "value": "圖片文字格式"
+    },
+    {
+      "name": "editor_toolbar_indent_decrease_accessibility",
+      "value": "減少縮排文字格式"
+    },
+    {
+      "name": "editor_toolbar_indent_increase_accessibility",
+      "value": "增加縮排文字格式"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "斜體文字格式"
+    },
+    {
+      "name": "editor_toolbar_link_accessibility",
+      "value": "連結文字格式"
+    },
+    {
+      "name": "editor_toolbar_list_ordered_accessibility",
+      "value": "有序列表文字格式"
+    },
+    {
+      "name": "editor_toolbar_list_unordered_accessibility",
+      "value": "無序列表格文字格式"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "開啟文字格式選單"
+    },
+    {
+      "name": "editor_toolbar_reference_accessibility",
+      "value": "參考文字格式"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "顯示更多格式選項"
+    },
+    {
+      "name": "editor_toolbar_template_accessibility",
+      "value": "模板文字格式"
+    },
+    {
+      "name": "editor_wikitext_loading_accessibility",
+      "value": "正在載入編輯器文字"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wikitext 編輯器"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "上個月編輯"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "此月編輯"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "修訂之間無差異"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "沒有做出可觀察到的變更"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "空白編輯摘要"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "從維基共享資源中選擇檔案"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "很抱歉，無法載入條目"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "您仍然可以閱讀已儲存的頁面"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "在有網路時，您可以看到推薦的條目"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "在此記錄您的閱讀歷程"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "無歷史可顯示"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "這篇條目還未被翻譯成其他語言"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "沒有別種語言可用"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "建立前往旅行的地點、喜愛的主題，以及更多其它事物的清單"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "組織已以閱讀清單儲存條目"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "儲存頁面至此清單，以查看在此呈現的頁面"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "沒有頁面儲存至此清單"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "儲存頁面以便日後即使在離線時也可檢視"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "尚未儲存頁面"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "找不到結果"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "尚未對此使用者發佈過訊息"
+    },
+    {
+      "name": "end_session",
+      "value": "結束連線階段"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "請稍後再試"
+    },
+    {
+      "name": "error_unknown",
+      "value": "發生不明錯誤"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "另一個隨機條目"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "您曾閱讀過的"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "額外相關條目"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "繼續閱讀"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "返回探索摘要"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "瀏覽接近您目前位置的條目"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "典範條目"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "來自\\$1維基百科"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "來自維基百科"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "自訂"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "探索摘要語言設定"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "額外的語言可至「我的語言」設定頁面新增。"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "卡片已隱藏"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "返回到閱讀已開啟條目的快速連結"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "自訂探索摘要"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "自訂探索摘要"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "隱藏卡片類型會停止此在探索摘要裡的呈現。"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "探索分頁"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "在維基百科上的每日典範條目"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "關閉"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "開啟所有"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "開啟"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "在 \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "所有\\$1卡片已隱藏"
+    },
+    {
+      "name": "explore_feed_preferences_games_title",
+      "value": "顯示遊戲卡"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "此卡片沒有指定語言，關閉此卡片會一同從您的探索摘要上移除。"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "沒有指定語言的卡片"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "沒有指定語言"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "全域卡片"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "隱藏此卡片"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "隱藏所有「\\$1」卡片"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "有關目前最新事件的條目"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "隱藏在您所有語言上的探索摘要卡片類型會一同關閉探索分頁。"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "在歷史上的今天之事件"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "靠近您所在位置的維基百科條目"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "來自共享資源的每日特色圖片"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "產生隨機條目來閱讀"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "基於閱讀歷史提出的建議"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "顯示繼續閱讀卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "關閉典範條目卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "顯示典範條目卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "關閉新聞卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "顯示在新聞卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "關閉歷史上的今天卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "顯示歷史上的今天卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "顯示每日圖片卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "關閉地點卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "顯示地點卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "關閉隨機條目產生器卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "顯示隨機條目產生器卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "顯示「您曾閱讀過的」卡片"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "關閉最多閱讀卡片會一同關閉所有可用語言上的卡片。"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "顯示最多閱讀卡片"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "為維基百科新增內容的建議"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "顯示建議編輯卡片"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "每日被最多次閱讀的條目"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "關閉探索摘要"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "隱藏所有探索摘要卡片將會關閉探索分頁，並以設定分頁取代之"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "關閉探索摘要？"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "關閉探索"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "探索分頁會在探索摘要設定裡忽略"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "關閉探索分頁？"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "關閉探索分頁會改以設定分頁來取代之。"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "透過挑選來顯示您開啟探索分頁的探索摘要卡片"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "開啟探索"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "這會以探索分頁來取代設定分頁，您可以從探索分頁的頂端使用輕觸齒輪圖示方式來取用設定"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "開啟探索分頁？"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "遊戲"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "隱藏此卡片"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "維基媒體專案首頁"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "維基百科今日焦點"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "所有被閱讀最多次的條目"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "最多閱讀"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "在 \\$1 的熱門條目"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "在\\$1維基百科"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "在維基百科"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "位置接近"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "地點"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "來自\\$1維基百科"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "來自維基百科"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "您的位置"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "您的位置來自於\\$1維基百科"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "每日圖片"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "來自維基共享資源"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "隨機條目"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "來自\\$1維基百科"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "來自維基百科"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "隨機條目產生器"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "新增"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "將建議的圖片加到維基百科條目來加強理解。"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "新增圖片"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "探索維基百科"
+    },
+    {
+      "name": "export_user_data_confirmation_message",
+      "value": "分享您的應用程式庫，包括有關您的閱讀清單、歷史紀錄、偏好設定，以及探索提要內容的資料。此資料檔案應僅與受信任的接收者分享，以用於技術診斷目的。"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "分享應用程式庫？"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "匯出資料時發生錯誤。請稍後再試。"
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "您沒有足夠的裝置空間來匯出您的使用者資料。請稍後再試。"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "匯出使用者資料"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "沒有有關目前日期的典範條目。"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "探索維基百科上的最佳條目，由我們的社群每日精選。"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "來自\\$1維基百科"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "來自維基百科"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "您主要使用的維基百科語言目前不支援典範條目，您可以在應用程式設定選單中變更主要使用的維基百科。"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "典範條目"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "發生錯誤。請稍後再試。"
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "應用程式收到來自伺服器的異常回應，請稍後重試。"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "無效驗證碼"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "密碼不符合"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "無效代碼"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "使用者名稱不可用"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "備份代碼"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "電子郵件代碼"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "驗證碼文字"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "輸入您在上方看到的文字"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "電子郵件"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "電子信箱（非必填）"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "再次輸入新密碼"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "確認新密碼"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "輸入新密碼"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "新密碼"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "再次輸入密碼"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "確認密碼"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "輸入密碼"
+    },
+    {
+      "name": "field_password_title",
+      "value": "密碼"
+    },
+    {
+      "name": "field_token_title",
+      "value": "驗證代碼"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "輸入使用者名稱"
+    },
+    {
+      "name": "field_username_title",
+      "value": "使用者名稱"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "全部"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "清除尋找內容"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "下筆搜尋結果"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "前筆搜尋結果"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "尋找與取代"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "關閉尋找與取代"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "尋找"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "重設"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "一封帶有密碼重設說明的電子郵件已寄出"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "請在下方欄位中選擇一項填入，以透過電子郵件接收密碼重設說明"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "重設密碼"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "或"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "遊玩"
+    },
+    {
+      "name": "games_announcement_title",
+      "value": "遊玩「猜先後」遊戲"
+    },
+    {
+      "name": "games_email_report_body_encountered",
+      "value": "我在使用維基百科遊戲功能時遇到了問題："
+    },
+    {
+      "name": "games_email_report_subject",
+      "value": "問題報告 - 維基百科遊戲"
+    },
+    {
+      "name": "games_wcf_button_play_title",
+      "value": "遊玩今天的遊戲"
+    },
+    {
+      "name": "games_wcf_explore_button_review_title",
+      "value": "檢閱結果"
+    },
+    {
+      "name": "games_wcf_explore_title",
+      "value": "猜先後"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列贛語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\n贛語 原文（gan）\n赣语 简体（gan-hans）\n贛語 繁體（gan-hant）"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "贛語異體字支援更新"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "您確定要刪除您所有的近期項目嗎？"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "是的，刪除全部"
+    },
+    {
+      "name": "history_title",
+      "value": "歷史"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "維基百科，返回探索"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "維基百科，返回已儲存條目"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "社群"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "新增或編輯語言"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_subtitle",
+      "value": "根據您所選主題量身推薦的條目。"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_title",
+      "value": "根據您的興趣"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "跳回到您尚未看完的條目"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_title",
+      "value": "繼續閱讀"
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "模組"
+    },
+    {
+      "name": "home_feed_interests_settings_empty_message",
+      "value": "您的興趣會顯示於此"
+    },
+    {
+      "name": "home_feed_interests_settings_title",
+      "value": "您的興趣"
+    },
+    {
+      "name": "home_feed_modules_featured_article_subtitle",
+      "value": "典範條目是維基百科上內容最好的條目，由編者每日精選。"
+    },
+    {
+      "name": "home_feed_modules_featured_article_title",
+      "value": "典範條目"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_subtitle",
+      "value": "經大幅更新來反應近期或目前備受關注事件的條目"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "新聞動態"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "探索發生在今天日期的歷史事件"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "歷史上的今天"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_subtitle",
+      "value": "維基共享資源每日圖片，由志工貢獻者精選"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_title",
+      "value": "每日圖片"
+    },
+    {
+      "name": "home_feed_modules_settings_title",
+      "value": "模組"
+    },
+    {
+      "name": "home_feed_modules_top_read_subtitle",
+      "value": "今日維基百科上的熱門話題是什麼？"
+    },
+    {
+      "name": "home_feed_modules_top_read_title",
+      "value": "最多人閱讀"
+    },
+    {
+      "name": "home_feed_settings_community_modules_subtitle",
+      "value": "啟用或停用「社群」模組"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "社群"
+    },
+    {
+      "name": "home_feed_settings_for_you_modules_subtitle",
+      "value": "啟用或停用「為您推薦」模組"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "為您推薦"
+    },
+    {
+      "name": "home_feed_settings_modules_title",
+      "value": "模組"
+    },
+    {
+      "name": "home_feed_settings_title",
+      "value": "自訂首頁摘要"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_subtitle",
+      "value": "編輯您的偏好語言"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_title",
+      "value": "語言"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_subtitle",
+      "value": "瀏覽您最近閱讀的條目"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "閱讀歷史"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_subtitle",
+      "value": "編輯您感興趣的主題"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_title",
+      "value": "您的興趣"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "為您推薦"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "更多像\\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "更多靠近您所在位置的地點"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "更多在\\$1附近的相關條目"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "更多目前最新事件"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "您已儲存的條目現在可以整理進閱讀列表，並跨裝置同步。請登入，以允許您的閱讀列表儲存到您的使用者偏好設定。"
+    },
+    {
+      "name": "home_tab_title",
+      "value": "首頁"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "管理偏好設定"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "從條目工具列或在您的使用者設定中，調整您的閱讀偏好設定以取得更舒適的閱讀體驗，包括文字大小及主題。"
+    },
+    {
+      "name": "home_title",
+      "value": "探索"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "維基百科，滾動至探索頁面頂端"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "附近地點相關條目"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "隨機條目"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "搜尋維基百科"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "作者未知。"
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "新增此圖片？"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "請稍後再回來。"
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "目前您沒有更多可用的建議圖片。"
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "發生錯誤。"
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "無法載入頁面"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "決定是否讓建議的圖片加入到維基百科條目裡。"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "查看建議"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "建議是由機器產生，您將根據您的判斷來決定接受或拒絕。"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "接受或拒絕圖片"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_body",
+      "value": "圖片來自於維基共享資源，是由維基百科使用的自由版權圖片資料庫。"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "版權圖片"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "了解更多關於建議編輯"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "新增圖片到條目"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "您的回答可以改善往後建議。"
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "選擇一個或多個選項"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "不相關的圖片"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "沒有足夠資訊來決定"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "圖片令人感到不快"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "為低品質圖片"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "我不清楚圖片的主題"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "其他"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "提交"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "原因"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "新增圖片"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "檢閱條目來了解主題"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "檢閱"
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "檢查圖片及其相關資訊"
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "檢查"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "決定圖片是否有幫助到讀者更好理解這個主題"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "決定"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "查看條目"
+    },
+    {
+      "name": "image_recommendations_email_first_line",
+      "value": "我在使用「新增圖片」建議編輯功能時遇到問題："
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "問題報告 - 新增圖片功能"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "否"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "不確定"
+    },
+    {
+      "name": "image_recs_time_warning_message",
+      "value": "請檢閱條目來了解該主題並檢查圖片"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "是"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "我的閱讀清單"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "參加調查"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "「分享閱讀清單」是一項測試功能，我們需要您的意見回饋來改善、或是移除這項功能。"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "您願意幫助我們改善「分享閱讀清單」嗎？"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "匯入分享閱讀清單"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "來自\\$1維基百科"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "來自維基百科"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "新聞動態"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "插入"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "插入連結"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "新增圖片詳細資訊"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "圖片沒辦法正常顯示給讀者查看時用的文字描述"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "描述此圖片"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "替代文字"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "此圖片與條目有何相關？"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "為所有讀者顯示再項目旁的標籤"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "說明"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "置中"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "置左"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "無"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "置右"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "圖片位置"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "更多資訊"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "選擇圖片"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "自訂"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "預設"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "高度"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "寬度"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "像素"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "圖片大小"
+    },
+    {
+      "name": "insert_media_image_text_wrapping_setting",
+      "value": "在圖片周圍環繞文字"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "基本"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "帶框"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "無框"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "縮圖"
+    },
+    {
+      "name": "insert_media_image_type_settings_footer_title",
+      "value": "您可以設定媒體要如何在頁面上呈現。在大多數情況下，應為與其他頁面一致的縮圖格式。"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "圖片類型"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "媒體設定"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "插入媒體"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列伊努克提圖特語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ，音節文字伊努克提圖特語（ike-cans）\nInuktitut ilisautik，拉丁字母伊努克提圖特語（ike-latn）"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "伊努克提圖特語異體字支援更新"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "以不登入來繼續"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "登入或建立新帳號"
+    },
+    {
+      "name": "ip_account_edit_sheet_subtitle",
+      "value": "一旦您做出編輯，會為您建立\\$1臨時帳號\\$2以保護您的隱私。\\$3了解更多。\\$4\\$5請登入或建立帳號，以讓往後做出的編輯歸在您的名義之下，並使用其他功能。"
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "發佈時將為您建立臨時帳號。"
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "您尚未登入"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列哈薩克語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nҚазақша，哈薩克語（kk）\nҚазақша Кирил，西里爾字母哈薩克語（kk-cyrl）\nqazaqşa latin，拉丁字母哈薩克語（kk-latin）\nتوتە قازاقشا，阿拉伯字母哈薩克語（kk-arab）"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "哈薩克語異體字支援更新"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列庫德語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nKurdî Latînî，拉丁字母庫德語（ku-latn）\nكوردی，阿拉伯字母庫德語（kk-arab）"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "庫德語異體字支援更新"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "語言"
+    },
+    {
+      "name": "languages_title",
+      "value": "變更語言"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "維基百科語言"
+    },
+    {
+      "name": "learn_about_editing",
+      "value": "了解有關編輯"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "了解更多"
+    },
+    {
+      "name": "lockscreen_search_widget_description",
+      "value": "從您的鎖定畫面快速存取搜尋維基百科。"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "以不登入來繼續"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "重新登入您的帳號"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "驗證您的帳號時出現了問題。請重新登入以同步及編輯您的閱讀列表。"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "您已登出"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "忘記您的密碼？"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "加入維基百科。"
+    },
+    {
+      "name": "login_no_account",
+      "value": "還沒有帳號？\\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "登入您的帳號"
+    },
+    {
+      "name": "looking_for_something_new",
+      "value": "想要認識一些新東西嗎？"
+    },
+    {
+      "name": "looks_like_you_havent_made_an_edit",
+      "value": "您本月似乎還沒做過任何編輯。您可以編輯您關心的主題，來擴充可自由取得的知識。"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "關於維基百科應用程式"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "登入"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "登出"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "您確定要登出嗎？"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "登出會刪除您在本地儲存的帳號資料（通知和訊息），不過您的帳號資料仍可在網路上使用，也會在您再次登入後將重新下載。"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "以 \\$1 的身分登入。"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "隱私與條款"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "附近"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "隱私權政策"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "評分應用程式"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "使用條款"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "更多"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "維基百科零計劃常見問題"
+    },
+    {
+      "name": "main_page",
+      "value": "首頁"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_subtitle_updated",
+      "value": "在 \\$1 年，志工們為英文維基百科添加了多達 {{PLURAL:\\$2|\\$2}} 位元組內容。他們共同的努力，為世界帶來了不斷改進、基於事實、可靠的知識資源。我們每一個人，都有可分享的知識，[了解如何參與]（\\$3）。"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "增加了 {{PLURAL:\\$1|\\$1}} 位元組"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_subtitle_updated",
+      "value": "志工們對維基百科的 {{PLURAL:\\$2|\\$2}} 多種不同語言版本做出了 {{PLURAL:\\$1|\\$1}} 次修改。英文維基百科則進行了 {{PLURAL:\\$3|\\$3}} 次修改。每一天、每一刻、每一秒，志工們都在努力改進維基百科。"
+    },
+    {
+      "name": "microsite_yir_english_edits_slide_title_updated",
+      "value": "編輯者今年做出了 {{PLURAL:\\$1|\\$1}} 次修改"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_short_updated",
+      "value": "在 \\$3 年，人們花了 {{PLURAL:\\$1|\\$1}} 小時（約 {{PLURAL:\\$2|\\$2}} 年！）閱讀英文維基百科。"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_subtitle_updated",
+      "value": "在 \\$3 年，人們花了 {{PLURAL:\\$1|\\$1}} 小時（約 {{PLURAL:\\$2|\\$2}} 年！）閱讀英文維基百科。當您想了解我們不斷變化的世界、在朋友之間贏得對事物了解的賭注、或是回答孩子好奇的問題時，維基百科都在您身邊。"
+    },
+    {
+      "name": "microsite_yir_english_reading_slide_title_updated",
+      "value": "大家花了 {{PLURAL:\\$1|\\$1}} 小時閱讀維基百科"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_subtitle_updated",
+      "value": "應用程式的活躍使用者今年儲存了 {{PLURAL:\\$1|\\$1}} 篇條目。將條目增加到閱讀清單可讓您即使在離線時也能查看條目。此外，您還可以透過登入將閱讀清單同步到不同裝置裡。"
+    },
+    {
+      "name": "microsite_yir_english_saved_reading_slide_title_updated",
+      "value": "我們擁有 {{PLURAL:\\$1|\\$1}} 篇已存條目"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "當人們想要了解我們的世界 — 他們都會求助於維基百科。英文維基百科瀏覽量排名前 5 的條目是：\n\n1. \\$1 \n2. \\$2 \n3. \\$3\n4. \\$4\n5. \\$5\n\n要閱讀更多內容，請參訪\\$6我們的專題部落格文章\\$7。"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "最多人閱讀的英語維基百科條目"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "在超過 300 種語言的維基百科裡搜尋"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "新增語言"
+    },
+    {
+      "name": "more_menu",
+      "value": "更多"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "移動 {{PLURAL:\\$1|\\$1 個條目|\\$1 個條目}}至閱讀清單"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "預覽"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 英尺}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 公里"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "{{PLURAL:\\$1|\\$1公尺}}"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 英里"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "您以臨時密碼登入。要完成登入，請在此設定新密碼。"
+    },
+    {
+      "name": "new_password_title",
+      "value": "設定您的密碼"
+    },
+    {
+      "name": "new_tab",
+      "value": "新分頁"
+    },
+    {
+      "name": "next_action_title",
+      "value": "下一步"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "請在您的裝置上設定一個電子郵件地址後，再試一次。"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "無網路連線"
+    },
+    {
+      "name": "not_now_title",
+      "value": "現在不要"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "來自\\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "警告"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "通知篩選 - 已套用篩選"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "計劃篩選 - 已套用篩選"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "帶有未讀標記的通知"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1通知"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "修改密碼"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "正在檢查通知…"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "在App內"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "在 Web"
+    },
+    {
+      "name": "notifications_center_detail_title",
+      "value": "通知詳情"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "正在檢查通知..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "您沒有訊息"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "您目前沒有訂閱任何維基百科通知"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "變動\\$1來查看更多通知"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "添加計劃來查看更多訊息"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1}} 種篩選"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "開啟推送通知"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_text",
+      "value": "所有維基媒體計劃的編輯通知，現在都可以透過該應用程式來取得。選擇使用推送通知，以便即時了解您在維基百科上的訊息。"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "通知篩選"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "所有"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "已讀"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "未讀"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "讀取狀態"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "篩選"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "變動通知類型來對您的通知收件箱裡的進/出內容篩選。在類型為關閉時會不顯示，內容和任何新通知會在再次切換打開後可用。"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "所有類型"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "通知類型"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "條目"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1討論頁"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "差異"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1的使用者頁面"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "維基數據項目"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "您的討論頁"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "來自\\$1的告警"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "完成"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "專案"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "僅有您有建立帳號的專案來出現在此"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "維基媒體專案"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "維基百科"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "登錄通知"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "標記"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "全部標記為已讀"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "您確定要將您所有的 {{PLURAL:\\$1|\\$1}} 則通知為已讀？這將會在您的所有裝置上的通知標記為已讀。"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "您確定要將您的所有通知標記為已讀？這將會在您的所有裝置上的通知標記為已讀。"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "標記為已讀"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "標記為未讀"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "更多"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "通知設置"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1}} 則訊息"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "繼續"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "依照閱讀狀態與類型來篩選您的通知，輕鬆縮小您的收件箱範圍。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "篩選"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "了解更多通知"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "通知可幫助您隨時了解與您的編輯和帳戶相關的活動。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "通知與告警"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "在一個地方查看來自不同語言維基百科和維基媒體計劃的所有未讀訊息。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_title",
+      "value": "計劃收件箱"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_message",
+      "value": "選擇使用推送通知，以便隨時了解您的編輯訊息和告警。"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "推送通知"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "編輯通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "開啟推送通知？"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "開啟推送通知"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "不用了，謝謝"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_subheading",
+      "value": "維基百科是一個協作計劃，打開推送通知來取得以下編輯者最新的訊息、提醒和「感謝」。"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "專案篩選"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "所有"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "所有通知"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1在 \\$2 個專案/收件箱上"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "篩選依照"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "在 {{PLURAL:\\$1|1=1|\\$1}} 個計劃"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1|\\$1}} 個計劃"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1|\\$1}} 種類型"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "已讀"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1，在 \\$3 個專案/收件箱上有 \\$2 個"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "未讀"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "編輯里程碑"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "您的編輯已被回退"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "新郵件"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "多次登錄嘗試失敗"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "嘗試登入失敗"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "使用不熟悉的裝置登入"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "在條目討論頁上的提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "在編輯摘要中提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "未提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "成功提及"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "在討論頁上的提及"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "在您的討論頁的訊息"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "頁面連結"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "已檢閱頁面"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "感謝"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "翻譯里程碑"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "用戶權限變更"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "歡迎！"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "已建立維基數據連接"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "標記為已讀"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "標記為未讀"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "更多"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "標記已選的通知"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "提及"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "通知"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "歡迎訊息"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "與維基數據連接"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "編輯里程碑"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "編輯已被回退"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "編輯摘要提及"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "來自其他使用者的電子郵件"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "登入嘗試"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "嘗試登入您的帳號時失敗"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "登入成功"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "其他"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "頁面連結"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "頁面檢閱"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_failure",
+      "value": "傳送提及失敗"
+    },
+    {
+      "name": "notifications_center_type_title_sent_mention_success",
+      "value": "傳送提及成功"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "討論頁面提及"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "感謝"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "翻譯里程碑"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "使用者權限更改"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "討論頁面訊息"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "歡迎"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "在維基百科上的新活動"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "在\\$2的 {{PLURAL:\\$1|\\$1 則新訊息}}"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|一則新訊息|多則新訊息}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1十億"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1百萬"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1千"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "從 \\$1 到 \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 個歷史事件|\\$1 個歷史事件}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "更多歷史上的今天事件"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "更多 {{PLURAL:\\$1|\\$1|\\$1}} 個在今天的歷史事件"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "您主要使用的語言目前不被支援，您可以在應用程式設定中變更。"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "沒有資料可用"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "來自於\\$2維基百科的 \\$1"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "歷史上的今天"
+    },
+    {
+      "name": "open_article",
+      "value": "開啟條目"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "輕觸「W」來返回至您起始的分頁"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "機器人"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "輕觸來選擇兩個修訂做比較"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "比較"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "在一段時間內編輯的圖式"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "已登入"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "小修改"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "作者：\\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "註釋\\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "修訂紀錄"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "小修改"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "已添加 {{PLURAL:\\$1|\\$1 位元組|\\$1 位元組}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "已移除 {{PLURAL:\\$1|\\$1 位元組|\\$1 位元組}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "修訂於 \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "僅能選擇兩個修訂"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "自\\$2共{{PLURAL:\\$1|\\$1次編輯}}"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "未註冊"
+    },
+    {
+      "name": "page_issues",
+      "value": "頁面問題"
+    },
+    {
+      "name": "page_location",
+      "value": "在地圖上檢視"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "您沒有權限編輯此頁面"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "此頁面受到保護"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "相似的頁面"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "比較修訂能協助顯示出條目隨著時間的內容變化，比較條目裡的兩個修訂時，會透過凸顯出所更改過的內容，來顯示出這些修訂間的差異。"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "比較修訂"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "不登入編輯"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "您尚未登入"
+    },
+    {
+      "name": "percentile_0_01",
+      "value": "0.01"
+    },
+    {
+      "name": "percentile_1",
+      "value": "1"
+    },
+    {
+      "name": "percentile_10",
+      "value": "10"
+    },
+    {
+      "name": "percentile_20",
+      "value": "20"
+    },
+    {
+      "name": "percentile_30",
+      "value": "30"
+    },
+    {
+      "name": "percentile_40",
+      "value": "40"
+    },
+    {
+      "name": "percentile_5",
+      "value": "5"
+    },
+    {
+      "name": "percentile_50",
+      "value": "50"
+    },
+    {
+      "name": "pictured",
+      "value": "如圖"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "清除已儲搜尋"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 個條目"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "重定位您的位置"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "以清單顯示"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "以地圖顯示"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "顯示更多條目"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "瀏覽城市、國家、各大洲、自然地標、歷史事件、建物以及其它更多。"
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "以地理位置來搜尋維基百科條目"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "啟用位置"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "訪問您的位置僅在應用程式，或其一功能在您的螢幕上可見時才可用。"
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "透過啟用位置訪問來瀏覽接近您位置的條目"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "篩選條目"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "篩選"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "您已沒有儲存的地方"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "已儲存條目"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "最多人閱讀"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 個條目|\\$1 個條目}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "被閱讀最多次的條目"
+    },
+    {
+      "name": "places_list_title",
+      "value": "清單"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "位置已啟用"
+    },
+    {
+      "name": "places_map_title",
+      "value": "地圖"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "您所儲存的條目皆未有位置訊息"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1符合「\\$2」"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "搜尋地點"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "您指的是 \\$1 嗎？"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "近期搜尋"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "所有已儲存條目"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "建議搜尋"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "此區域的結果"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "所有熱門條目"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "附近"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "您的目前位置"
+    },
+    {
+      "name": "places_title",
+      "value": "地點"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "未知距離"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "\\$1的每日圖片"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "抓取\\$1的每日圖片失敗"
+    },
+    {
+      "name": "potd_sample_entry_description",
+      "value": "在2015年的Pacu Jawi活動決賽上（來自米南佳保的「奔牛賽」），一名騎師駕馭兩隻奔跑的公牛。這是印度尼西亞西蘇門答臘島丹那達塔爾的傳統奔牛比賽。"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "盡享由我們社群每日挑選的精美圖片。"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "每日圖片"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "允許維基媒體基金會收集有關您如何使用應用程式的資訊，來讓此應用程式能更好"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "隱私權政策"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "功能問題"
+    },
+    {
+      "name": "profile_button_accessibility_hint",
+      "value": "導覽至個人資料檢視。"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "個人資料"
+    },
+    {
+      "name": "profile_button_badge_accessibility_label",
+      "value": "帶有尚未讀取徽章通知的個人資料"
+    },
+    {
+      "name": "profile_page_donate_subtext",
+      "value": "或透過捐款支持維基百科，來讓世界各地的人可免費使用。"
+    },
+    {
+      "name": "profile_page_join_subtext",
+      "value": "在維基百科註冊帳號可讓您追蹤自己的貢獻、儲存離線條目、以及跨裝置同步。"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "登入 / 加入 Wikipedia"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "登入或建立帳號來取得明年的改善年度回顧"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "登入或建立帳號即可查看年度回顧，並獲得更多個人化的分析資訊。"
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "登入以查看年度回顧"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "維基教科書"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "維基數據"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "維基共享資源"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "維基新聞"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "維基語錄"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "維基文庫"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "維基物種"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "維基學院"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "維基導遊"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "維基詞典"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "隨機"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "新增此條目至閱讀清單？"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "添加「\\$1」至閱讀清單嗎？"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "是，將它們添加到我的閱讀列表"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "這些是已儲存在您維基百科應用程式上的條目，您想要保留它們並與已同步閱讀清單來合併至您的帳號上？"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "儲存所找出的條目"
+    },
+    {
+      "name": "reading_list_alert_see_list",
+      "value": "查看閱讀清單"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "此項目尚未同步，因為您已達到此清單的項目上限數目。"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "同步您的閱讀清單時發生意外錯誤。"
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "此清單尚未同步，因為您已達到同步清單的上限數目。"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "建立閱讀清單"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "描述"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "閱讀清單名稱"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "新增清單"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "閱讀清單已刪除"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "搜尋閱讀清單"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "不，從裝置上刪除條目"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "請刪減您在此清單的條目數量至 \\$1 個，以恢復此清單的所有條目同步。"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "您已超出各帳號 {{PLURAL:\\$1|\\$1 個條目}}上限。"
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|條目|條目}}無法添加至此清單。您已達到\\$3裡各閱讀清單的 \\$2 個條目上限"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "閱讀清單名稱已被使用"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "更新您的閱讀清單時發生意外錯誤。"
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "是的，保留條目在裝置上"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "這些條目已同步到您的維基百科帳號，您想要在登出後讓它們保留在您的裝置上嗎？"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "保留在裝置上的已儲存條目？"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "排序條目"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "有 5000 個未排序條目的上限。請排序您現有的條目至清單裡，來繼續未排序條目的同步。"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "命中未排序條目的上限"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "此閱讀清單與儲存在清單裡頭的條目無法同步，請刪減您在清單的條目數量至 \\$1 個，以恢復此清單的同步。"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "您已超出各帳號 {{PLURAL:\\$1|\\$1 個閱讀清單}}上限。"
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "您已達到各帳號 \\$1 個閱讀清單上限"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "登入來同步您所儲存的條目"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "登入或建立帳號"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "登入來同步所儲存的條目"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "登入或建立一個帳號來允許您所儲存的條目與閱讀清單可跨裝置同步，並儲存至您的使用者偏好設定。"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "同步您所儲存的條目？"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[使用者已建立]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "選用簡短描述"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "閱讀清單標題"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "您在其它裝置上的維基百科帳號已停用閱讀清單同步。您可以透過更新您的個人設定來重新啟用。"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "同步已停用"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "啟用同步"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "您所儲存的條目與閱讀清單，現已儲存到您的維基百科帳號並跨維基百科應用程式同步。"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "開啟閱讀清單同步？"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "閱讀清單同步已在此帳號啟用。要停止此功能的話，您可以透過更新您的設定來為此帳號停用。"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "同步功能已在此帳號啟用"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "新增項目至您的閱讀清單時發生意外錯誤。請稍後再試。"
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "建立您的閱讀清單時發生意外錯誤。請稍後再試。"
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "刪除您的閱讀清單時發生意外錯誤。請稍後再試。"
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "從您的閱讀清單移動項目時發生意外錯誤。請稍後再試。"
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "更新您的閱讀清單時發生意外錯誤。請稍後再試。"
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "找不到名為「\\$1」的閱讀清單。請確定是正確的名稱。"
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "條目已添加至「\\$1」"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "無法同步條目"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "尚未同步"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "超出條目上限，無法同步條目"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "超出清單上限，無法同步條目"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "條目已排在要下載的項目"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "超出裝置上限，無法同步條目"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "請在您的裝置裡清出一些空間後再重試"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "因超出上限，一些條目無法同步"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "您的清單「\\$1」已重新命名成「\\$2」"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|\\$1 個閱讀清單|\\$1 個閱讀清單}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "您已儲存條目的預設清單"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "已儲存"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_message",
+      "value": "此操作無法還原，任何儲存至{{PLURAL:\\$1|此清單|這些清單}}的條目將會被取消儲存。"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "刪除{{PLURAL:\\$1|清單|清單}}嗎？"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1|\\$1}} 個條目與 {{PLURAL:\\$2|\\$2|\\$2}} 個閱讀清單已從您的帳號同步"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "因超出上限，清單無法同步"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "排序已儲存條目"
+    },
+    {
+      "name": "reading_lists_split_notification",
+      "value": "在各閱讀清單裡含有 \\$1 個條目的上限限制。現有清單在超過此限制時，會被拆分成多個清單。"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "當網際網路連接可用時，同步便會恢復"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "漆黑主題"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "亮度滑動桿"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "陰暗主題"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "明亮主題"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "棕褐色主題"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "語法醒目標示"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "文字大小滑動桿"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "語法醒目標示"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "跳到參考資料段落"
+    },
+    {
+      "name": "reference_title",
+      "value": "參考資料 \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=今天|1=昨天|\\$1 天前}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 小時"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1 個小時前|\\$1 個小時前}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 小時前"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=最近|\\$1 個小時前|\\$1 個小時前}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=剛剛|\\$1 分鐘前|\\$1 分鐘前}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 分"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=剛剛|\\$1 分鐘前|\\$1 分鐘前}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1 分前"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=本月|1=上個月|\\$1 個月前}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 秒"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1 秒前"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=今年|1=去年|\\$1 年前}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "返回"
+    },
+    {
+      "name": "return_to_article",
+      "value": "返回到條目"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "已回退的編輯"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "儲存所有分頁"
+    },
+    {
+      "name": "save_view_temp_account_notice",
+      "value": "您正在使用臨時帳號。編輯內容會歸在\\$1…"
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "您尚未登入。一旦您做出編輯，會為您建立臨時帳號以保護您的隱私。"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "所有條目"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "已儲存所有分頁"
+    },
+    {
+      "name": "saved_all_tabs_view_reading_list",
+      "value": "已儲存所有分頁。請查看閱讀清單。"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "此清單不能被刪除"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "下載此儲存頁面裡的圖片失敗。"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "條目下載中…"
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "搜尋閱讀清單"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "閱讀清單"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "搜尋已儲存條目"
+    },
+    {
+      "name": "saved_title",
+      "value": "已儲存"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_message",
+      "value": "取消儲存{{PLURAL:\\$1|此條目將會把它|這些條目此條目將會把它們}}從所有相關聯的閱讀清單裡移除"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "取消儲存{{PLURAL:\\$1|條目|條目}}嗎？"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "搜尋維基百科"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "清除"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "搜尋維基百科"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "刪除所有近期搜尋嗎？"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "此操作不能還原！"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "刪除所有"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "尚未有近期搜尋"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "近期搜尋"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "重新導向自：\\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "搜尋"
+    },
+    {
+      "name": "search_widget_announcement_body",
+      "value": "將維基百科搜尋小工具新增至主頁面或鎖定畫面，讓您觸手可及更快獲得答案。"
+    },
+    {
+      "name": "search_widget_announcement_title",
+      "value": "有新的搜尋小工具可用"
+    },
+    {
+      "name": "search_widget_description",
+      "value": "快速存取搜尋維基百科。"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "維基百科"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列塞爾維亞語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nсрпски ћирилица，西里爾字母塞爾維亞語（sr-ec）\nsrpski latinica，拉丁字母塞爾維亞語（sr-el）"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "塞爾維亞語異體字支援更新"
+    },
+    {
+      "name": "settings_account",
+      "value": "帳號"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "應用程式主題"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "清除快取資料"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "清除快取資料將會釋放出 \\$1 空間大小。此操作並不會刪除掉您儲存的頁面。"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "清除快取資料？"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "清除快取"
+    },
+    {
+      "name": "settings_donate",
+      "value": "捐款"
+    },
+    {
+      "name": "settings_explore_games_subtitle",
+      "value": "基於維基百科內容的每日遊戲"
+    },
+    {
+      "name": "settings_explore_games_title",
+      "value": "維基百科遊戲"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "說明與回饋"
+    },
+    {
+      "name": "settings_home_feed_title",
+      "value": "首頁動態"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "搜尋時顯示語言"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "透過自訂您的探索摘要設定，您可以管理在您的探索摘要裡所要顯示出的語言。"
+    },
+    {
+      "name": "settings_legal_sefaty_title",
+      "value": "法律與安全事項聯絡方式"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "我的語言"
+    },
+    {
+      "name": "settings_new_article_tab_header_text",
+      "value": "新分頁主題"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "推送通知"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "檢查您的帳號相關通知訂閱時發生錯誤。"
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "無法檢查 Echo 通知訂閱"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "再試一次"
+    },
+    {
+      "name": "settings_notifications_header",
+      "value": "留意與您帳號相關的行動，例如來自其他貢獻者的訊息、告警和通知。所有提供內容都尊守隱私和包含最新資料。"
+    },
+    {
+      "name": "settings_off",
+      "value": "關閉"
+    },
+    {
+      "name": "settings_on",
+      "value": "開啟"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "主要"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "此列表中最先顯示出的語言被設為此應用程式的首選語言。"
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "設定應用程式成開啟搜尋分頁來取代探索分頁"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "在搜尋分頁開啓應用程式"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "當您登入並同步時，允許維基媒體儲存您的已儲存條目與清單至您的使用者偏好設定"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "同步已儲存條目與清單"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "您的閱讀清單將會在背景執行同步"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "請求更新至您的已同步條目與閱讀清單"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "更新已同步閱讀清單"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "在您的閱讀清單檢視裡將已儲存（例如：預設的）閱讀清單各別顯示。此清單會呈現在 Android 裝置上"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "顯示已儲存的閱讀清單"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "條目的儲存庫與同步"
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "登出"
+    },
+    {
+      "name": "settings_temp_account_end_session_title",
+      "value": "退出連線階段"
+    },
+    {
+      "name": "settings_temp_accounts_talk_page_footer",
+      "value": "臨時帳號將於 90 天後過期"
+    },
+    {
+      "name": "settings_title",
+      "value": "設定"
+    },
+    {
+      "name": "settings_year_in_review_header",
+      "value": "關閉年度回顧將清除所有儲存的個人化分析資訊，並隱藏年度回顧功能。"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "用維基百科應用程式製作"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "維基百科上的「\\$1」："
+    },
+    {
+      "name": "share_building",
+      "value": "建立分享預覽卡中…"
+    },
+    {
+      "name": "share_default_format",
+      "value": "「\\$1」來自於「\\$2」：\\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "「\\$1」\n\n來自於「\\$2」\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "取得路線"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "分享…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "「\\$1」 \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "透過維基百科"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "在地圖中開啟"
+    },
+    {
+      "name": "share_social_format",
+      "value": "「\\$1」透過維基百科：\\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” 透過維基百科：\\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "近期新增"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "標題"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "建議編輯"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "選擇一或多個選項"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "其他"
+    },
+    {
+      "name": "survey_submit",
+      "value": "提交"
+    },
+    {
+      "name": "survey_title",
+      "value": "原因"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "目次"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "關閉"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "關閉目錄"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "目次"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "隱藏目錄"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "副標題\\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "關閉分頁"
+    },
+    {
+      "name": "tabs_empty_view_subtitle",
+      "value": "點擊「+」圖示即可在此空間新增分頁，或長按條目連結以在新分頁中開啟。"
+    },
+    {
+      "name": "tabs_empty_view_title",
+      "value": "您的分頁將顯示在這裡"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "隱藏條目建議"
+    },
+    {
+      "name": "tabs_main_page_description",
+      "value": "在維基百科主頁上發現典範條目、最新新聞、有趣的事實、與關鍵統計數據。"
+    },
+    {
+      "name": "tabs_main_page_subtitle",
+      "value": "維基百科每日精彩內容"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 個分頁}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "開啟分頁"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "顯示條目建議"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "建議現已隱藏"
+    },
+    {
+      "name": "tabs_survey_title",
+      "value": "請協助改善分頁。您對此功能滿意嗎？"
+    },
+    {
+      "name": "tabs_thumbnail_description",
+      "value": "探索維基百科，一個任何人都可編輯的自由百科全書"
+    },
+    {
+      "name": "tabs_thumbnail_subtitle",
+      "value": "在此來開始您的搜尋"
+    },
+    {
+      "name": "tabs_title",
+      "value": "分頁"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列施盧赫語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nⵜⴰⵛⵍⵃⵉⵜ，提非納字母施盧赫語（shi-tfng）\nTaclḥit，拉丁字母施盧赫語（shi-latn）"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "施盧赫語異體字支援更新"
+    },
+    {
+      "name": "tajik_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列塔吉克語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\nтоҷикӣ кирилликӣ，西里爾字母塔吉克語（tg-cyrl）\ntojikī lotinī，拉丁字母塔吉克語（tg-latn）"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "塔吉克語異體字支援更新"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1}} 位活躍使用者"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "新增話題"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "封存"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "關於討論頁面"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "變更語言"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "折疊討論串"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "已讀"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "未讀"
+    },
+    {
+      "name": "talk_page_error_alert_subtitle",
+      "value": "應用程式收到來自伺服器的異常回應。請稍後重試。"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "非預期的錯誤"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "發生不明錯誤。"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "無法載入討論頁"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "展開討論串"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "在頁面裡尋找"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "開啟所有討論串"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "請記住，在此留言的你我都是平凡之人"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "請保持友善"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "您的回覆已成功發布"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "您的討論已成功發布"
+    },
+    {
+      "name": "talk_page_onboarding_button_accessibility_label",
+      "value": "雙擊來返回回覆"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "更多討論頁選項"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "頁面資訊"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "固定連結"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "請檢查您的網路連線。"
+    },
+    {
+      "name": "talk_page_publish_reply_error_title",
+      "value": "無法發布您的留言。"
+    },
+    {
+      "name": "talk_page_publish_topic_error_title",
+      "value": "無法發布新話題。"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "在瀏覽器閱讀"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "連結至此的頁面"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1}} 個回覆"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "回覆"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "回覆給\\$1"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "回覆深度數：\\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "回覆給\\$1"
+    },
+    {
+      "name": "talk_page_reply_terms_and_licenses_ccsa4",
+      "value": "請注意，您的回覆將自動簽上您的使用者名稱。透過保存更改，代表您同意\\$1使用條款\\$2，並同意根據\\$3CC BY-SA 4.0\\$4和\\$5GFDL\\$6許可，來發布您的貢獻。"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "修訂紀錄"
+    },
+    {
+      "name": "talk_page_rply_close_button_accessibility_hint",
+      "value": "關閉回覆檢視"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "分享討論頁"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "訂閱"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "您將收到有關此話題中新留言的通知。"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "您已訂閱！"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "訂閱話題失敗，請重試。"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "條目討論"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "使用者討論"
+    },
+    {
+      "name": "talk_page_topic_compose_terms_and_licenses_ccsa4",
+      "value": "透過發布更改，代表您同意\\$1使用條款\\$2，並且不反悔同意根據\\$3 CC BY-SA 4.0 許可\\$4和\\$5 GFDL \\$6來發布您的貢獻。"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "取消訂閱"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "您將不再收到此主題的新留言通知。"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "您已取消訂閱。"
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "取消訂閱話題失敗，請重試。"
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "關於使用者討論頁面"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "貢獻"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "找不到封存頁面。"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "封存"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "閱讀更多"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "已新增您的留言"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "繼續編輯"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "編輯原始碼"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "討論頁是人們討論如何使維基百科上的內容達到最佳狀態的地方。**首先添加一個新的討論話題**，以便與維基百科社群建立聯絡和協同運作。"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "討論頁是人們討論如何使維基百科上的內容達到最好的地方。開始一個新的討論，以與\\$1聯繫和協作。您在這裡的發言將會公開顯示。"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "新增一個新話題"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "發起討論"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "對話從這裡開始"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "與\\$1開始討論"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "您確定要捨棄這個新的回覆嗎？"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "已新增您的主題"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "描述"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "話題描述"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "捨棄回覆"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "放棄話題"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "您確定要捨棄這個新的話題嗎？"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "話題"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "話題標題"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "討論頁是人們討論如何使維基百科上的內容達到最好的地方。添加一個新的討論話題，來與維基百科社群聯繫和協作。\n\n請保持友善，我們都是在這裡的一份子。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "討論頁是\\$1人們商量何以盡可能完善維基百科內容\\$1的地方。發起新話題，好與維基人社群交往與合作。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "請保持友善，我們都是在這裡的一份子。"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "討論頁"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "使用者群組"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "日誌"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "討論"
+    },
+    {
+      "name": "temp_account_alert_read_more_information",
+      "value": "\\$1您正在使用臨時帳號。\\$2帳號會在 90 天後到期。到期後，下一次您在未登入情況下做出編輯時，會再建立另一個新的帳號。\\$3請登入或建立帳號，以讓往後做出的編輯歸在您的名義之下，並使用其他功能。"
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "登入或建立帳號"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2您目前正在使用臨時帳號。\\$3使用臨時帳號「\\$1」所做過的編輯，不會在您登入時轉移到您的永久帳號。請先登入或建立帳號，讓編輯內容歸在您的名義之下，並使用其他功能。"
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "延伸閱讀"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1您目前正在使用臨時帳號。\\$2以臨時帳號做出了編輯…"
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "您正在使用臨時帳號"
+    },
+    {
+      "name": "temp_warning_subtitle_format",
+      "value": "您的編輯內容會歸在\\$1"
+    },
+    {
+      "name": "temporary_account",
+      "value": "臨時帳號"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "使用條款"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "漆黑"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "陰暗"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "預設"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "符合系統主題"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "明亮"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "棕褐色"
+    },
+    {
+      "name": "tip_history_in_search_subtitle",
+      "value": "在搜尋分頁中尋找您的閱讀歷史。"
+    },
+    {
+      "name": "tip_history_in_search_title",
+      "value": "歷史紀錄已移至搜尋"
+    },
+    {
+      "name": "today_title",
+      "value": "今日"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "了解全世界的人今天都在維基百科上讀些什麼。"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1個讀者"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "最多閱讀"
+    },
+    {
+      "name": "try_now_title",
+      "value": "現在試試"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "教學"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "繼續登入"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "請輸入電子郵件驗證代碼"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "繼續登入"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "請輸入雙重驗證代碼"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "登入至您的帳號"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "使用您的任一備份代碼"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "使用驗證代碼"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "無法載入討論頁"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "未知"
+    },
+    {
+      "name": "unwatch",
+      "value": "取消監視"
+    },
+    {
+      "name": "user_title",
+      "value": "使用者"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "維基百科應用程式現在支援下列烏茲別克語異體字作為應用程式裡的主要語言或次要語言，能以您首選的異體字來更易於閱讀、搜尋、編輯：\n\noʻzbekcha lotin，拉丁字母烏茲別克語（uz-latin）\nўзбекча кирилл，西里爾字母烏茲別克語（uz-cyrl）"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "烏茲別克語異體字支援更新"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "繼續"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "使用者名稱和使用者頁面"
+    },
+    {
+      "name": "vanish_account_warning_body",
+      "value": "隱退是**最後採取的手段**，應該**僅在您希望永遠停止編輯**，並且盡可能隱藏您過去相關操作的情況下使用。\n\n藉由更改您的帳號名稱，維基百科上的帳號刪除已完成，讓其他人無法在稱之為清空帳號的過程中識別出您的貢獻。**隱退並不能保證能完全匿名，或是刪除對計劃的貢獻**。"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "警告"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "不用了，謝謝"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "檢視您的偏好設定"
+    },
+    {
+      "name": "view_changes",
+      "value": "檢視變更"
+    },
+    {
+      "name": "watch",
+      "value": "監視"
+    },
+    {
+      "name": "watchlist",
+      "value": "監視清單"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "添加到您的監視清單 1 個月。"
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "添加到您的監視清單 1 週。"
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "添加到您的監視清單 1 年。"
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "永久添加到您的監視清單。"
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "添加到您的監視清單 6 個月。"
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "添加到您的監視清單 3 個月。"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "查看監視清單"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1}} 位元組"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 個月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 週"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 年"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "永久"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 個月"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 個月"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "選擇監視清單時間週期"
+    },
+    {
+      "name": "watchlist_change_expiry_title",
+      "value": "監視清單逾期"
+    },
+    {
+      "name": "watchlist_diff_action_button_title",
+      "value": "跳到差異"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "編輯摘要"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "搜尋條目"
+    },
+    {
+      "name": "watchlist_empty_view_filter_title",
+      "value": "您沒有監視清單項目"
+    },
+    {
+      "name": "watchlist_empty_view_subtitle",
+      "value": "持續追蹤您感興趣條目的最新狀況。請輕觸在條目的選單，並選擇「監視」來查看條目的變更內容。"
+    },
+    {
+      "name": "watchlist_empty_view_title",
+      "value": "您新增到監視清單的條目會顯示於此"
+    },
+    {
+      "name": "watchlist_expiration_subtitle",
+      "value": "預設會保留頁面，另有選項供臨時監看，範圍可選擇從一週至一年。"
+    },
+    {
+      "name": "watchlist_expiration_title",
+      "value": "設定逾期時間"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "篩選"
+    },
+    {
+      "name": "watchlist_filter_activity_header",
+      "value": "監視清單活動"
+    },
+    {
+      "name": "watchlist_filter_activity_options_seen_changes",
+      "value": "已讀變更"
+    },
+    {
+      "name": "watchlist_filter_activity_options_unseen_changes",
+      "value": "未讀變更"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "自動化貢獻"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "機器人"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "人工（非機器人）"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "最新修訂"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "最新修訂"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "不是最新修訂"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "重要性"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "小修改次數"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "非小修改次數"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "更改類型"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "分類更改次數"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "記錄的操作"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "頁面建立次數"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "頁面編輯次數"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "維基數據編輯數"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "使用者註冊及經驗"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "已註冊"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "未註冊"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "新增語言…"
+    },
+    {
+      "name": "watchlist_number_filters",
+      "value": "調整[{{PLURAL:\\$1|\\$1 篩選功能}}]（wikipedia://watchlist/filter）可查看更多監視清單項目"
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "了解更多關於監視清單"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "介紹您的監視清單"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "已從您的監視清單移除"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "您的「感謝」已發送給\\$1"
+    },
+    {
+      "name": "watchlist_track_subtitle",
+      "value": "監視清單是一種可讓您追蹤對您感興趣的頁面、條目所做出變更的工具。"
+    },
+    {
+      "name": "watchlist_track_title",
+      "value": "追蹤變更"
+    },
+    {
+      "name": "watchlist_updates_subtitle",
+      "value": "您所新增頁面的監視清單可以透過「設定」→「帳號」來存取（例如編輯或討論）。"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "檢視更新"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "感謝"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "使用者貢獻"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "使用者頁面"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "使用者討論頁"
+    },
+    {
+      "name": "watchlist_watch_subtitle",
+      "value": "點擊在條目底端工具列中的星形符號，或是「監視」操作，就可讓您將該頁面新增到您的監視清單。"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "監視條目"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "資料與隱私"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "來自我們社群推薦的讀物及每日條目"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "探索摘要"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "返回時間來了解在歷史上的今天發生了什麼事"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "歷史上的今天"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "發掘接近您所在的地標，或搜尋世界上的地點"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "地點分頁"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "開始使用"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "探索的新方式"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "了解"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "維基百科是由各志願者們協作編寫，並包含超過 300 種語言的 4000 萬個條目。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "了解更多關於維基百科"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "關於維基百科"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "維基百科是一個建立出世界上所有語言的自由百科全書之全球計劃。實質上任何能訪問網際網路的人都可自由參與來貢獻出中立，俱有引用來源的訊息。"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "自由的百科全書"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "新增另一個語言"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "新增或編輯首選語言"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "我們在您的裝置上找到以下語言："
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "在超過 300 種語言裡搜尋"
+    },
+    {
+      "name": "welcome_privacy_subtitle",
+      "value": "我們堅信，使用者不必提供個人資訊，即可參與自由的知識運動。此應用程式會以匿名方式收集使用資料。"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "詳細了解我們的隱私權政策和使用條款。"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "舊檔"
+    },
+    {
+      "name": "which_came_first_archive_subtitle",
+      "value": "自 2024 年 6 月起開始玩遊戲。"
+    },
+    {
+      "name": "which_came_first_archive_title",
+      "value": "猜先後"
+    },
+    {
+      "name": "which_came_first_article_card_open_hint",
+      "value": "開啟與此條目相關的事件"
+    },
+    {
+      "name": "which_came_first_articles_section_title",
+      "value": "來自今日遊戲的條目"
+    },
+    {
+      "name": "which_came_first_average_score_label",
+      "value": "平均分數"
+    },
+    {
+      "name": "which_came_first_best_streak_label",
+      "value": "最長連勝"
+    },
+    {
+      "name": "which_came_first_correct_answer_a11y",
+      "value": "正確答案"
+    },
+    {
+      "name": "which_came_first_correct_feedback",
+      "value": "正確！"
+    },
+    {
+      "name": "which_came_first_correct_feedback2",
+      "value": "+1 分"
+    },
+    {
+      "name": "which_came_first_current_streak_label",
+      "value": "目前連勝"
+    },
+    {
+      "name": "which_came_first_error_title",
+      "value": "發生不明錯誤"
+    },
+    {
+      "name": "which_came_first_footer_a11y",
+      "value": "問題：\\$1/\\$2"
+    },
+    {
+      "name": "which_came_first_game_complete_title",
+      "value": "完成遊戲！"
+    },
+    {
+      "name": "which_came_first_games_played_label",
+      "value": "遊玩的遊戲"
+    },
+    {
+      "name": "which_came_first_incorrect_answer_a11y",
+      "value": "錯誤答案"
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "錯誤！"
+    },
+    {
+      "name": "which_came_first_log_in_button",
+      "value": "登入"
+    },
+    {
+      "name": "which_came_first_log_in_stats_body",
+      "value": "查看您的連續紀錄、得分等"
+    },
+    {
+      "name": "which_came_first_log_in_stats_title",
+      "value": "登入來查看您的遊戲統計數據"
+    },
+    {
+      "name": "which_came_first_next_button",
+      "value": "下一個"
+    },
+    {
+      "name": "which_came_first_nice_work",
+      "value": "做得好！明天再來玩新遊戲吧。"
+    },
+    {
+      "name": "which_came_first_perfect_score",
+      "value": "滿分！"
+    },
+    {
+      "name": "which_came_first_play_archive_button",
+      "value": "遊玩舊檔"
+    },
+    {
+      "name": "which_came_first_retry_button",
+      "value": "重試"
+    },
+    {
+      "name": "which_came_first_see_results_button",
+      "value": "查看結果"
+    },
+    {
+      "name": "which_came_first_share_score_button",
+      "value": "分享分數"
+    },
+    {
+      "name": "which_came_first_share_topics_title",
+      "value": "主題包含："
+    },
+    {
+      "name": "which_came_first_splash_about_button",
+      "value": "關於此遊戲"
+    },
+    {
+      "name": "which_came_first_splash_continue_button",
+      "value": "繼續今天的遊戲"
+    },
+    {
+      "name": "which_came_first_splash_review_button",
+      "value": "檢閱結果"
+    },
+    {
+      "name": "which_came_first_splash_subtitle",
+      "value": "猜猜歷史上的這一天最先發生的事件是什麼。"
+    },
+    {
+      "name": "which_came_first_splash_title",
+      "value": "猜先後"
+    },
+    {
+      "name": "which_came_first_submit_button",
+      "value": "提交"
+    },
+    {
+      "name": "which_came_first_title",
+      "value": "猜先後"
+    },
+    {
+      "name": "which_came_first_your_stats_title",
+      "value": "您的狀態"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "探索在歷史上的今天發生的事件。"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "人人都可編輯的自由線上百科全書"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "自由的 wiki 內容式的百科全書「維基百科」即日上線。"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "取得您的變更預覽中..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "此連結指向外部網站：\\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "外部連結"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "維基百科上沒有名稱為此的條目"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "查無內部連結"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "此連結引至「\\$1」"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "連結預覽"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "儲存變更"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "驗證碼錯誤。"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "需要使用驗證碼驗証。"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "無法確定 wikitext 上傳結果。"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "發布中…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "編輯將使用您裝置的IP位址發布，如果您想保護隱私，請\\$1登入\\$2。"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "編輯將使用您裝置的IP位址發布，如果您想保護隱私，請\\$1。"
+    },
+    {
+      "name": "wikitext_upload_save_terms_and_licenses_ccsa4",
+      "value": "透過發布更改，代表您同意\\$1使用條款\\$2，並且不反悔同意根據\\$3 CC BY-SA 4.0 許可\\$4和\\$5 GFDL \\$6來發布您的貢獻。您同意超連結或網址已足以代表創用 CC 授權條款的姓名標示。"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "使用條款"
+    },
+    {
+      "name": "year_in_review_articles_slide_subtitle",
+      "value": "以下是您在 2025 年閱讀過最多次的條目：\n\\$1"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "維基百科的一心一意都是在我們的全球志願者社群，包括貢獻者、捐款者，以及像您一樣的數十億讀者——大家齊心協力，共同提供無限且可靠的資訊存取。"
+    },
+    {
+      "name": "year_in_review_base_editors_title_updated",
+      "value": "維基百科官方應用程式上的編輯者進行了 {{PLURAL:\\$1|\\$1}} 次編輯。"
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "那些條目是運用可靠的來源共同創建和改進的。我們每個人都有知識可以分享，[歡迎學習如何參與其中]（\\$1）。"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "維基百科每分鐘被編輯 {{PLURAL:\\$1|\\$1}} 次"
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "維基百科在今年擁有超過 {{PLURAL:\\$1|\\$1}} 篇條目，涵蓋超過 {{PLURAL:\\$2|\\$2}} 種活躍的語言版本。您與數百萬人一起擴展知識，探索多元主題。"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "維基百科提供超過 {{PLURAL:\\$1|\\$1}} 種語言版本"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "將條目增加到閱讀清單，可以讓您即使在離線時也能存取條目。此外，您還可以登入帳號，將閱讀清單同步到不同裝置。"
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "應用程式使用者擁有 {{PLURAL:\\$1|\\$1}} 篇已存條目"
+    },
+    {
+      "name": "year_in_review_base_viewed_subtitle",
+      "value": "對於全球各地的人們來說，維基百科是解答問題、查詢學校或工作相關資訊、或學習新知的第一站。"
+    },
+    {
+      "name": "year_in_review_base_viewed_title_updated",
+      "value": "應用程式使用者瀏覽了 {{PLURAL:\\$1|\\$1}} 次維基百科條目"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "年度回顧"
+    },
+    {
+      "name": "year_in_review_categories_slide_subtitle",
+      "value": "分類會把主題相似的條目歸類在一起。在 2025 年，您多次閱讀過以下這些您感興趣分類裡的條目。\n\\$1"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "一張電腦螢幕打開了網頁瀏覽器，並主動瀏覽維基百科條目的動畫插圖。"
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "兩塊維基百科拼圖碎片的插圖，每一塊拼圖碎片都扛著訊息內容。"
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "一塊刻有代表各種語言銘文的石頭的動畫插圖，象徵維基百科如何協作建構來自不同文化與地區的知識。"
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "一個帶有維基百科標誌的拼圖地球儀，代表著全球協作。"
+    },
+    {
+      "name": "year_in_review_contributor_gift_subtitle",
+      "value": "如果您現在不啟用，您可以事後在主題下方的設定裡存取它。"
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "啟動新的應用程式圖示"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_donor_updated",
+      "value": "感謝您投入自由知識的未來。\n\n您作為 \\$1 年捐款者的貢獻，幫助到鋪往自由資訊世界的道路，因此您在主畫面上解鎖了維基百科的「自訂貢獻者圖示」。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_and_donor_updated",
+      "value": "感謝您投入自由知識的未來。\n\n您作為 \\$1 年捐款者與編輯者的貢獻，幫助到鋪往自由資訊世界的道路，因此您在主畫面上解鎖了維基百科的「自訂貢獻者圖示」。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_updated",
+      "value": "感謝您投入自由知識的未來。\n\n您作為 \\$1 年編輯者的貢獻，幫助到鋪往自由資訊世界的道路，因此您在主畫面上解鎖了維基百科的「自訂貢獻者圖示」。"
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "已為您的主畫面解鎖新的應用程式圖示"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "星期五"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "星期一"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "星期六"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "星期日"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "星期四"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "星期二"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "星期三"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "捐款"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "立即捐款"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "查看關於我們閱讀過和編輯過條目的分析，並分享我們這一年在維基百科上的精彩時刻。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "查看您在維基百科應用程式上閱讀過條目的分析，分享您的旅程，並發掘您今年的精彩時刻。"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "探索 Wikipedia 年度回顧"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "探索您的 Wikipedia 年度回顧"
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "Wikipedia 是世界歷史上規模最大的知識資源，且免費提供給世界各地的每一個人。透過 Wikipedia 的視角，回顧 2024 年的點點滴滴。"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_personalized_updated",
+      "value": "查看您在維基百科應用程式上閱讀的條目、以及您在 2024 年做出編輯的分析。您的閱讀歷史會受到保護，分析內容是使用儲存在您裝置上本機資料所計算出的。"
+    },
+    {
+      "name": "year_in_review_feature_explore_body_v3",
+      "value": "查看您在維基百科應用程式上閱讀過條目以及所做過編輯的分析。"
+    },
+    {
+      "name": "year_in_review_feature_explore_footer_v3",
+      "value": "您的閱讀歷史會受到保護。分析內容是使用儲存在您裝置上本機資料所計算出的。"
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "結束"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "閱讀過的條目"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "條目瀏覽量"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "分享精彩內容"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "我感興趣的分類"
+    },
+    {
+      "name": "year_in_review_highlights_changes",
+      "value": "編輯者做過的更改"
+    },
+    {
+      "name": "year_in_review_highlights_collective_time_spent",
+      "value": "閱讀時長"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "建立的閱讀清單數量"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency",
+      "value": "維基百科的編輯頻率"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "每分鐘 {{PLURAL:\\$1|\\$1}} 次"
+    },
+    {
+      "name": "year_in_review_highlights_english_articles",
+      "value": "在英語維基百科上最多人閱讀的條目"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "最喜歡閱讀的日子"
+    },
+    {
+      "name": "year_in_review_highlights_number_app_editors",
+      "value": "應用程式上的編輯"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "我閱讀過最多的條目"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "閱讀分鐘數"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "維基百科標誌"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "我們期待明年！"
+    },
+    {
+      "name": "year_in_review_highlights_times_edited",
+      "value": "編輯時間"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "感謝您與維基百科共度的這一年。"
+    },
+    {
+      "name": "year_in_review_intro_exit_toast_title",
+      "value": "您可以稍後在您的個人資料存取年度回顧"
+    },
+    {
+      "name": "year_in_review_intro_login_title",
+      "value": "登入進行個人化"
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "您最感興趣的分類"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "解鎖您明年的貢獻者獎勵！"
+    },
+    {
+      "name": "year_in_review_noncontributor_slide_subtitle_updated",
+      "value": "我們很高興維基百科成為您在 \\$1 年參與的活動！成為貢獻者，即可在您的 \\$2 年度回顧解鎖特別獎勵—無論是藉由應用程式[編輯維基百科]（\\$3）的行為，或是向其背後的非營利組織[維基媒體基金會]（\\$4）捐款。如果維基百科對您有所幫助，歡迎您考慮捐款，來幫助維基百科維持其未來發展，並保持免費、無廣告、值得信賴且人人皆可用的運作狀態。如果您是透過其他管道捐款，我們由衷感謝您的支持。"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "最喜歡閱讀的日子"
+    },
+    {
+      "name": "year_in_review_personalized_date_month_footer_v3",
+      "value": "您閱讀最多次的月份"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "最喜歡的閱讀時間"
+    },
+    {
+      "name": "year_in_review_personalized_date_title_v3",
+      "value": "您有明確的閱讀規律"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "感謝您為自由知識的未來投入支持。今年，維基媒體基金會改進了技術，以更好地服務每一位讀者和志願者，開發了促進合作的工具，並支持更多語言版本的維基百科。[了解更多關於我們的工作內容]。(\\$1)"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "您的慷慨幫助維基百科持續蓬勃發展"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "全球的讀者感謝您的貢獻。在過去兩個月中，您編輯過的條目被瀏覽了 {{PLURAL:\\$1|\\$1}} 次。正因為有像您這樣的編輯者，維基百科才能持續改進，成為一個以事實為基礎且值得信賴的全球知識資源。"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "您的編輯最近已被瀏覽超過 {{PLURAL:\\$1|\\$1}} 次。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_1",
+      "value": "感謝您成為編輯者志工之一，為世界各地的維基媒體專案做出改變。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_subtitle_2_updated",
+      "value": "像您一樣的志工對維基百科的 {{PLURAL:\\$2|\\$2}} 多個不同語言版本進行了 {{PLURAL:\\$1|\\$1}} 次修改。"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "您作出了 {{PLURAL:\\$1|\\$1}} 次編輯"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "一隻手捏著逐漸變化成一小塊拼圖的維基百科地球儀之動畫插圖，象徵個人對維基百科平台的貢獻。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_1",
+      "value": "您閱讀過關於\\$2\\$1\\$3的內容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_2",
+      "value": "您閱讀過關於\\$3\\$1\\$4和\\$3\\$2\\$4的內容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_subtitle_format_3",
+      "value": "您閱讀過關於\\$4\\$1\\$5、\\$4\\$2\\$5和\\$4\\$3\\$5的內容。"
+    },
+    {
+      "name": "year_in_review_personalized_location_title_format_updated",
+      "value": "您閱讀過的條目裡，最靠近您的地點是\\$1"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "您的熱門條目"
+    },
+    {
+      "name": "year_in_review_personalized_reading_subtitle_format_v3_updated",
+      "value": "我們估計您已列入維基百科全球讀者的前 **PERCENT**。平均每人每年閱讀 {{PLURAL:\\$1|\\$1}} 篇條目。"
+    },
+    {
+      "name": "year_in_review_personalized_reading_title_v3_format_updated",
+      "value": "您在 \\$3 年花了 {{PLURAL:\\$1|\\$1}} 分鐘閱讀了 {{PLURAL:\\$2|\\$2}} 篇條目"
+    },
+    {
+      "name": "year_in_review_personalized_saved_subtitle_format_v3_updated",
+      "value": "這些條目包括\\$1、\\$2和\\$3。每篇儲存的條目都反應了您的興趣，並有助於在維基百科上建立個人化的知識庫。 \n\n今年，活躍的應用程式使用者已儲存了 {{PLURAL:\\$4|\\$4}} 篇條目。"
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "您儲存了 {{PLURAL:\\$1|\\$1}} 篇條目"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "顯示出許多位元組堆疊在一起，象徵著自由知識不斷累積的動畫插圖。"
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "滴答作響的時鐘，象徵人們閱讀維基百科的時間。"
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "一塊帶有維基百科標誌的拼圖從左側顯示。"
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "插圖中展示了一塊維基百科的拼圖碎片與一支筆。"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "這是我的 Wikipedia 年度回顧，由 Wikipedia iOS 應用程式製作。 (https://apps.apple.com/app/wikipedia/id324715238) #WikipediaYearInReview"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "還有其他想法嗎？"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "中立"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "滿意"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "協助改進您的年度回顧功能。您對此功能感到滿意嗎？"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "滿意度調查"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "不滿意"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "非常滿意"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "非常不滿意"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "下午"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "傍晚"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "深夜"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "中午"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "早上"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "晚上"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "維基百科 w 標誌"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "維基媒體基金會標誌"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "昨日"
+    },
+    {
+      "name": "zero_edits_to_articles",
+      "value": "最近對條目做出 0 次編輯"
+    },
+    {
+      "name": "games_card_play",
+      "value": "遊玩"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "您曾閱讀過的"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "所有被閱讀最多次的條目"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "另一個隨機條目"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "來自%s維基百科"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "在%s維基百科"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "來自維基共享資源"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "無歷史可顯示"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "今日"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "昨日"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "隱藏此卡片"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "自訂探索摘要"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "卡片已隱藏"
+    },
+    {
+      "name": "editor_published",
+      "value": "已發布您的編輯。"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s的條目描述"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "您指的是 %s 嗎？"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "在維基百科 HarmonyOS 版"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "此月貢獻"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "此月編輯"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "上個月編輯"
+    }
+  ]
+}

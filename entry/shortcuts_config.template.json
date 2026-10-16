@@ -1,0 +1,43 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "random",
+      "label": "$string:icon_shortcut_random_title",
+      "icon": "$media:random_quick_action",
+      "wants": [
+        {
+          "bundleName": "${bundleName}",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": { "shortcutUri": "wikipedia://random" }
+        }
+      ]
+    },
+    {
+      "shortcutId": "nearby",
+      "label": "$string:icon_shortcut_nearby_title",
+      "icon": "$media:nearby_quick_action",
+      "wants": [
+        {
+          "bundleName": "${bundleName}",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": { "shortcutUri": "wikipedia://places" }
+        }
+      ]
+    },
+    {
+      "shortcutId": "search",
+      "label": "$string:icon_shortcut_search_title",
+      "icon": "$media:search",
+      "wants": [
+        {
+          "bundleName": "${bundleName}",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": { "shortcutUri": "wikipedia://search" }
+        }
+      ]
+    }
+  ]
+}

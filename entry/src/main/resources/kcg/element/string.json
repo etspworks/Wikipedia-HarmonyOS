@@ -1,0 +1,1716 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipidya"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Kwambwat a̱wat kyangmami"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Á̱nietnwuat"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Á̱ nnyia̱ ta̱m ma̱ng tutu nkwambwat"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "A̱tyentyang lis wu"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Kwambwat yak"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Zi̱ cat kyanglilyiit a̱gang a̱vwuoneet \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Kwambwat yak a̱yaata̱si̱la a̱ka̱vwuo"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Apple Maps wa bai ma̱ng a̱yaata̱si̱la a̱ka̱vwuo nyian nta̱m bani. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Ma̱sa̱kut nwuan a̱ji mat a̱cyuang nkhang kwambwat a̱wat"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Tswányuo"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Kwambwat A̱wat MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Ta̱m ma̱ng a̱di̱dam tazwa ap"
+    },
+    {
+      "name": "about_title",
+      "value": "Tazwa"
+    },
+    {
+      "name": "about_translators",
+      "value": "Á̱nietbwan"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Á̱nietbeang di̱ mi̱n teang bya bwuak ma̱ \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Sotbeang Wikimidya"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipidya"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "A si̱ mi̱n di ghwughwu a? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Á̱ shyia̱ di̱ ncat CAPTCHA fai..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Cat a̱la̱n."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Nwuan cok CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Khwuk a̱la̱n ang ka"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "A kan khwuk a̱la̱n a? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Nwuo."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Shyia̱ di̱ nwuai..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Ta hwa a tyia̱ a̱lyoot-a̱tyuta̱m, swang-nwuai, ma̱ng nwuat swang-nwuai shim a kin khwuk a̱la̱n."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Nkyai swang-nwuai tai a̱ghyang bah."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Shyia̱ di̱ saai..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Khwuk a̱la̱n a̰fai"
+    },
+    {
+      "name": "account_group_title",
+      "value": "A̱la̱n Ang Ka"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Peji a̱lyiat ang hu"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "A̱yaalan-cat peji a̱lyiat"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Mbeang mi̱..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Mbeang mi̱ lis fang"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Mbeang mi̱ lis"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Lyang"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Cat mami peji"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Shai a̱lyem"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Shyei nat..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Shyei ndyo nat lis fang"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Khwifeang A̱zanson"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Khwifeang A̱zama"
+    },
+    {
+      "name": "action_read",
+      "value": "Fang"
+    },
+    {
+      "name": "action_redo",
+      "value": "Bu-nyia̱"
+    },
+    {
+      "name": "action_remove",
+      "value": "Turung"
+    },
+    {
+      "name": "action_retry",
+      "value": "Bu-kwan"
+    },
+    {
+      "name": "action_save",
+      "value": "Sak"
+    },
+    {
+      "name": "action_saved",
+      "value": "Á̱ sak"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Sak. Tyia̱ di̱n ta̱m a yok sak."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "A̱ti̱kut nang á̱ sak mat jenjini̱shi"
+    },
+    {
+      "name": "action_share",
+      "value": "Ka̱u"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Ka̱u"
+    },
+    {
+      "name": "action_sort",
+      "value": "Tswang"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Gwai Ma̱ng A̱tyuta̱m"
+    },
+    {
+      "name": "action_undo",
+      "value": "Bwuok ma̱ng"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Yok sak"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Á̱ ngyok sak a̱ti̱kut"
+    },
+    {
+      "name": "action_update",
+      "value": "Tyia̱ fai"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Mbeang {{PLURAL:\\$1|a̱ti̱lut \\$1|a̱yaati̱kut \\$1}} mi̱ lis fang"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Kam"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipidya, ta̱fang, wiki, a̱gban lyen, nkhang, lyen, zop mi̱ zop, nkhang, cyet, myiam"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "A̱sa̱t a̱gban lyen wu"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Shyei shi lyuut a̱ti̱kut"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Ngaat a̱yaatyii"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Á̱pyia̱ a̱lyiat fang"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "A̱yaaseti A̱tyii"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Khaí a̱pyia̱ a̱lyiat"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Tazwa a̱ti̱kut wuni"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ti̱n"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Á̱ nti̱n {{PLURAL:\\$1|a̱ti̱kut|a̱yaati̱kut}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Cat a̱lyem"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Khai a̱lyem"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Lilyem ghyáng"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Lilyem ang hu"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Fang nkyang njhyang"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Ta̱fang \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "Ka̱u"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Bwuok"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Byiam a bwuok"
+    },
+    {
+      "name": "button_next",
+      "value": "Si̱ a̱zanson"
+    },
+    {
+      "name": "button_ok",
+      "value": "Ndei"
+    },
+    {
+      "name": "button_publish",
+      "value": "Shei"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Sak mat jenjini̱shi"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Á̱ sak mat jenjini̱shi"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Turung neet di̱ sak"
+    },
+    {
+      "name": "button_skip",
+      "value": "Fi̱p"
+    },
+    {
+      "name": "cancel",
+      "value": "Lyang"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Caina jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\n简体 A̱lyem Caina, A̱di̱dat (zh-hans)\n香港繁體 Hong Kong Taada (zh-hk)\n澳門繁體 Makawu Taada (zh-mo)\n大马简体 Malesiya A̱di̱dat (zh-my)\n新加坡简体 Si̱nggapo A̱di̱dat (zh-sg)\n臺灣正體 A̱lyem Taiwan Taada (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Caina"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Kak"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Nyim"
+    },
+    {
+      "name": "compass_direction",
+      "value": "di̱ tswam \\$1"
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Á̱ ca̱t yurup"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Kat Wikipidya mat a̱yaati̱kut á̱ghyang a nfang"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "A̱yaati̱kut nang á̱ nfang mmam a̱zama nshyia̱ bah"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Tatar Krimya jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hẏohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\nQırımtatarca, Lati̱n Tatar Krimya Lati̱n (chr-latn)\nкъырымтатарджа, Кирил Tatar Krimya Kirilut (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Tatar Krimya"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Á̱ shyia̱ di̱ tyei fai..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Mbeang wa̱i a̱lyiat"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Wa̱i a̱lyiat a̱lyoot mat \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "A̱son a̱lyiat jhyuk"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Wa̱i a̱lyiat a̱lyoot jhyuk"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "A̱kukum wa̱i a̱lyiat nia lan"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Shei wa̱i a̱lyiat"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Wa̱i a̱lyiat jhyuk"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Tazwa"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Tazwa Wikideita"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Nkhang njhyang"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "wa̱i a̱lyiat a̱lyoot mat a̱ti̱kut tazwa Mona Lisa wu"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "wa̱i a̱lyiat a̱lyoot mat a̱ti̱kut tazwa A̱fan Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "ghwang mbwak Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Tsok shi a̱za lan Swanta"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Kidee:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Beang wa̱i a̱lyiat a̱lyoot"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Beang wa̱i a̱lyiat a̱lyoot"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "A̱gwak-nvak Wikideita mat dyuut wa̱i a̱lyiat"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Mgba̱m"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "A sii beang jhyi Wikipidya mi̱ yet a̱tan ma̱ konyan"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Á̱ shei wa̱i!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Si̱ hu ku lan a̱ni hwa yet lang nyiung, tsi̱tsak swáng a̱lyiat sweang ma̱ng swak ma̱ng sweang"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Sak nhu a̱kum"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Wa̱i a̱lyiat a̱lyoot"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Tsa jhyuk"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Neet:"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Mak Nkhwifeang"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Naat:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Mak Nkhwifeang"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Tsa"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Ta̱kup"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Ndang \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Á̱ shyei a̱tyong"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "a̱byin"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "a̱za"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|lang \\$1|ndang \\$1}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|tamm \\$1|ti̱taa \\$1}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Á̱ shyei a̱tyong \\$1 \\$2"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Nkhang tazwa a̱tyujhyuk"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|Á̱ mbeang bait \\$1|Á̱ mbeang a̱yaabait \\$1}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|Á̱ turung bait \\$1|Á̱ turung a̱yaabait \\$1}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Nam-a̱lyiat jhyuk"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Á̱son"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Lang \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Á̱ si̱ mi̱n gwai ma̱ng á̱nienta̱m a̱sanga̱lyoot bah"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'A̱gwai' yet a̱hyohyoot vak ntsa a̱gwai wa mat ta̱m a̱tyujhyuk mami Wikipidya. Ta hwa a nwuo a si̱ shyia̱ a̱wat ta̱m ma̱ng 'A̱gwai' na."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Nwuo a ta̱m ndyo 'A̱gwai'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Ta̱m ma̱ng 'A̱gwai'"
+    },
+    {
+      "name": "dim_images",
+      "value": "Tyia̱ nghwughwu duduu"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Tsa lyuut"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Fa a̱fwop"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Turung a̱fwop"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Jhyuk a̱fwop"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Jhyuk"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "A̱da̱dei jhyuk wa wu"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Mbeang nam-a̱lyiat jhyuk"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Jhyi a̱gi̱rama"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Jhyi taipo"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Mbeang a̱ka̱fwop"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Nini wa nang a jhyi a̱ti̱kut wuni?"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Sak a̱ghyi tazwa peji huni"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Tyia̱ lyen sa̱t"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Vwuon shyia̱ tsi̱tsak nkhwifeang na bah"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Foo oo, á̱ si̱ si̱ mi̱n kpa̱t a̱ti̱kut wu bah"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "A ni̱ maai fang pejí di̱ á̱ ku sak a̱ni"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nkhang gbangbang tyaat nshyia̱ bah"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Á̱ nsak ku pejí mi̱ lis huni bah"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Sak pejí a nwuan nna jenjini̱shi, ku ma̱ntalang meang"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Á̱ ku sak pejí bah"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Á̱ shyia̱ ku záng bah"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Á̱ ku ta̱m tá̱m ma̱ a̱tyuta̱m wuni bah"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Ma̱sa̱kut a bu kwan jenjini̱shi"
+    },
+    {
+      "name": "error_unknown",
+      "value": "A̱kang ghyuap nyia̱"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "A̱kpeak a̱ti̱kut a̱ghyang"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Da̱nian a fang"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Á̱ghyang a̱yaati̱kut ba̱ bwuo bi̱n"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Ya a̱son ma̱ng fang"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Bwuok a nat tsuung Kat"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Kat a̱yaati̱kut kpa̱mkpaan a̱gbang mi̱ di̱ yong huni si̱ nwan ka"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "A̱ti̱kut kidee"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Neet Wikipidya \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Neet Wikipidya"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Nyia̱ jhyi a̱gwam"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Kat a̱yaaseti a̱lyem tsuung"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "A maai mbeang lilyem ghyáng mami peji a̱yaaseti 'Lilyem nung hu' hu."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Á̱ ta̱kup kati"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Bu-fwop a̱nggang a kin fang a̱gang a̱ti̱kut a̱ghyang"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Nyia̱ tsuung Kat ji jhyi a̱gwam"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Nyia̱ tsuung Kat jhyi a̱gwam"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ta̱kup kak tangka̱i kati na tyia̱ kak tangka̱i kati huni ku yok tyai mi̱ tsuung Kat ji."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Kat tab"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "A̱ti̱kut kidee kuzang mam mami Wikipidya"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Hyat"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Khwuk a̱mgba̱m"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Khwuk"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Khwuk \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Á̱ ta̱kup a̱mgba̱m a̱yaakati \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Kati huni nwai byia̱ a̱lyem khapsak bah, hyaai kati huni na turung nhu neet tsuung Kat ang ji."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "A̱yaakati ba̱ nwai byia̱ a̱lyem khapsak"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Á̱ khap a̱lyem sak bah"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "A̱yaakati swanta"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Ta̱kup kati huni"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Ta̱kup a̱mgba̱m a̱yaakati “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "A̱yaati̱kut tazwa naat mbwuot mi̱ di̱ yong huni."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Naat mbwuot ma̱ nkhang gbangbang mi̱ mam huni"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "A̱yaati̱kut Wikipidya kpa̱mkpaan a̱gbang ang ka"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Ghwughwu kidee kuzang mam neet Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Shyai á̱kpeak a̱yaati̱kut mat fang"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Tsa Kati yaa̱son di̱ fang"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Hyaai Kati a̱ti̱kut kidee hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Tsa Kati a̱ti̱kut kidee"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Hyaai Kati mami nkhang na hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Tsa kati Mi̱ nkhang hu"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Hyaai Kati mi̱ mam huni hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Tsa kati Mi̱ Mam Huni"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Tsa kati Ghwughwu mam hu"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Hyaai Kati a̱ka̱vwuo hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Tsa kati A̱ka̱vwuo"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Hyaai Kati a̱tyia̱kpeak hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Tsa kati A̱tyia̱kpeak"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Tsa kati Danian a fang"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Hyaai Kati fang a̱za hu na ka nhyat kati wu mi̱ a̱mgba̱m lilyem ku shyia̱ a̱ni."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Tsa kati Fang a̱za"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "A̱yaati̱kut nang á̱ ndan fang kuzang mam"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Hyat tsuung Kat"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Ka̱nang a nta̱kup a̱mgba̱m a̱yaakati tsuung Kat a̱ni si̱ a̱hwa na hyat tab Kat hu a̱wot shyak nhu ma̱ng tab A̱yaaseti"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Hyat tsuung Kat a?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Hyat Kat"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "A bu maai khwuk tab Kat hu mi̱ a̱yaaseti tsuung Kat"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Á̱ hyat tab Kat hu a?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Hyaai tab Kat hu na ka nshyak tab Kat hu ma̱ng tab A̱yaaseti."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Khwuk Kat"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Khwuk tab Kat hu a?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Ta̱kup kati huni"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "A̱tsak peji nta̱m Wikimidya wu"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "A̱fwun ka mami Wikipidya"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "A̱mgba̱m a̱yaati̱kut fang a̱za"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Fang a̱za"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Fang a̱za mami \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Mami Wikipidya \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Mami Wikipidya"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "A̱ka̱vwuo kpa̱mkpaan"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "A̱ka̱vwuo"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Neet Wikipidya \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Neet Wikipidya"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "A̱gbang ang ka"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "A̱gbang ang ka neet Wikipidya \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Ghwughwu mam hu"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Neet Wikimidya Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "A̱kpeak a̱ti̱kut"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Neet Wikipidya \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Neet Wikipidya"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "A̱tyia̱kpeak"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Neet Wukipedia n\\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Neet di̱ Wukipedia"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "A̱kace CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Swáng-nwuai tai njhyang bah"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "A̱kace zwunzwuo"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "A̱lyoot-a̱tyuta̱m shyia̱ bah"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Lyuut CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Tyia̱ lyuut hu nang a li tazwa"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Ta̱m-i"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Ta̱m-i (khai nfwuo hwa)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "bu-tyia̱ swang-nwuai swai"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Nwuak swang-nwuai shim"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "tyia̱ swang-nwuai swai"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Swang-nwuai swai"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "bu-tyia̱ swang-nwuai"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Nwuak swang-nwuai shim"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "tyia̱ swang-nwuai"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Swang-nwuai"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Zwunzwuo cat cucuk"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "tyia̱ a̱lyoot-a̱tyuta̱m"
+    },
+    {
+      "name": "field_username_title",
+      "value": "A̱lyoot-a̱tyuta̱m"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Kak shyia̱"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Zang shyia̱ a̱zanson"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Zang shyia̱ a̱zama"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Cat a shyak"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Nyim shyia̱ a shyak"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Shyia̱"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Bu-nyia̱-seti"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Bu-nyia̱-seti swang-nwuai"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Ku"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Gan jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, A̱di̱dat (gan-hans)\n贛語 繁體 Gan, Taada (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "A nwuak a̱cucuk a cat ti̱n a̱mgba̱m a̱yaangga mmam nani ang baa?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ii, ti̱n a̱mgba̱m"
+    },
+    {
+      "name": "history_title",
+      "value": "Nkhang gbangbang"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipidya, bwuok a nat Kat"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipidya, bwuok a nat Nkyang na nang á̱ nsak a̱ni"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Ku tai \\$1 ba̱t"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "A̱ka̱vwuo á̱ghyang kpa̱mkpaan a̱gbang ang ka"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "\\$1 kpa̱mkpaan a̱ghyang"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Naat mbwuot mi̱ di̱ yong huni ghyáng"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Nyia̱ tyok tazwa a̱yaalan-cat"
+    },
+    {
+      "name": "home_title",
+      "value": "Kat"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipidya, luk nat a̱za Kat"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "A̱yaati̱kut kpa̱mkpaan"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "A̱kpeak a̱ti̱kut"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Zop Wikipidya"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "A̱kang a̱tyulyuut."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Neet Wikipidya \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Neet Wikipidya"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Mi̱ nkhang na"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Swat"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Swat a̱fwop"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Wa̱i a̱lyiat lyuut mat á̱nietfang ba̱ si̱ mi̱n ndi ghwughwu hu bah"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Wa̱i ghwughwu hu"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "A̱pyia̱ a̱lyiat"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Ka̱wa̱tyia̱"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "A̱zamyian"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Piit"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "A̱zayak"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Yong ghwughwu"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Nkhang njhyang"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Khai ghwughwu"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Jhyi a̱gwam"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Gbangbang"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Shi ghwughwu"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "A̱tsan"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Fi̱rem"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Sangfi̱rem"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "A̱gban ghwughwu"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Kak tangka̱i ghwughwu"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "A̱yaaseti midya"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Swat midya"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Inuktitut jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Swang a̱tyong (ike-cans)\nInuktitut ilisautik, Inuktitut, Lati̱n (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Ka̱zak jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\nҚазақша Kazak (kk)\nҚазақша Кирил Kazak, Kirilut (kk-cyrl)\nqazaqşa latin Kazak, Lati̱n (kk-latn)\nتوتە قازاقشا Kazak, La̱ra̱ba (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Kazak"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Kurma̱nji jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\n\nKurdî Latînî Kurma̱nji, Lati̱n (ku-latn)\nكوردی Kurma̱nji, La̱ra̱ba (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Kurma̱nji"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Lilyem"
+    },
+    {
+      "name": "languages_title",
+      "value": "Shai a̱lyem"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Lilyem Wikipidya"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Ya a̱son di̱ mi̱n nwuai"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Bu-nwuo ma̱ a̱la̱n ang ka"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Á̱ ka̱n ghwut ma̱ng a̱nwan"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "A bwung swang-nwuai ang ja kee?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Shyia̱ nwuai Wikipidya."
+    },
+    {
+      "name": "login_no_account",
+      "value": "A sang a̱la̱n a? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Nwuo ma̱ a̱la̱n ang ka"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Tazwa ap wu"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Nwuo"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Ghwut"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "A nwuak a̱cucuk a cat ghwut a?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Nwuo nang \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "A̱bala̱lang ma̱ng A̱yaaka̱nda̱n"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Kpa̱mkpaan"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Kwambwat a̱bala̱lang"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Nang ap wu shi"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "A̱yaaka̱nda̱n Nyian Ta̱m"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Nkyang njhyang"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipidya Lilyiri̱m A̱nci̱ri̱ng Gum"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Zop Wikipidya di̠ lilyem ku swak 300 a̠ni"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Mbeang lilyem"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Shyei {{PLURAL:\\$1|a̱ti̱kut \\$1|a̱yaati̱kut \\$1}} nat mi̱ lis fang"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Nwuana̱son"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "a̱ti̱tak \\$1"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "km \\$1"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "m \\$1"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "met \\$1"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Khwuk shei li̱lak"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Mgba̱m"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "a̱cyuang njhyuk"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Author: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Nang \\$1 a̱di̱dam"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Nkhang gbangbang khwifeang"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "A̱da̱dei jhyuk"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Á̱ mbeang {{PLURAL:\\$1|bait \\$1|a̱yaabait \\$1}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Á̱ turung {{PLURAL:\\$1|bait \\$1|a̱yaabait \\$1}}"
+    },
+    {
+      "name": "page_history_revision_time_accessibility_label",
+      "value": "Khwifeang di̱ á̱ nyia \\$1"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Á̱ maai khai nkhwifeang feang nia ma̱nyin"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|Jhyuk \\$1|Njhyuk \\$1}} neet \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Zok peji"
+    },
+    {
+      "name": "page_location",
+      "value": "Di tazwa ta̱si̱la"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "A sang a̱ka̱wat jhyuk peji huni"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Á̱ cok peji huni"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Pejí na̱ tai ghyáng"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Á̱ mai nkhwifeang"
+    },
+    {
+      "name": "pictured",
+      "value": "á̱ tyia̱ ghwughwu"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Kak zop mi̱ zop di̱ á̱ ku saai a̱ni"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "A̱yaati̱kut \\$1"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Khwuk a̱gbang"
+    },
+    {
+      "name": "serbian_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Sabya jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\nсрпски ћирилица Sabya, Kirilut (sr-ec)\nsrpski latinica Sabya, Lati̱n (sr-el)"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Sabya"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Á̱ nnyia̱ ma̱ng ap Wikipidya wu wa"
+    },
+    {
+      "name": "tachelhit_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Tacelhit jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\nⵜⴰⵛⵍⵃⵉⵜ Tacelhit, Tifinagh (shi-tfng)\nTaclḥit Tacelhit, Lati̱n (shi-latn)"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Tacelhit"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Taji̱k"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "A̱lyiat a̱ti̱kut"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "A̱lyiat A̱tyuta̱m"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "A̱dyundyung"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "A̱duduu"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Gbangbang"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "A̱kyenkyai"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sa̱faya"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "A̱kang"
+    },
+    {
+      "name": "uzbek_variants_alert_body",
+      "value": "Ap Wikipidya wu ndi̱n a̱ma zwályiat a̱lyem Uzbek jinii ma̱ninika nang lilyem kuntyin ku nfeang a̱ni mami ap wu, ku si̱ yet doot a kin fang, zop a̱wot a bu jhyuk ma̱ hyohyoot a̱hyoot di̱ zwályiat lan-cat ang ji:\n\noʻzbekcha lotin Uzbek, Lati̱n (uz-latin)\nўзбекча кирилл Uzbek, Kirilut (uz-cyrl)"
+    },
+    {
+      "name": "uzbek_variants_alert_title",
+      "value": "Á̱fai nkhang mi̱ li̱n a̱ma zwalyiat A̱lyem Uzbek"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Tab a̱ka̱vwuo"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Ka̱di zi̱ tsa"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "N fi̱k"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Tazwa Wikipidya"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "A̱sa̱t a̱gban lyen wu"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Mbeang a̱lyem a̱ghyang"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "A̱fwop nta"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Nwuana̱son a̱fwop"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "A̱ka̱shai di̱ á̱ ka̱n sak a̱ni"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Ghyuap di̱ cat cucuk mbwak CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Á̱ cat cucuk mbwak CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Á̱ shyia̱ di̱n shei..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "A̱yaaka̱nda̱n Nyian Ta̱m"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Da̱nian a fang"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "A̱mgba̱m a̱yaati̱kut fang a̱za"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "A̱kpeak a̱ti̱kut a̱ghyang"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Neet Wikipidya %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Mami Wikipidya %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Neet Wikimidya Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nkhang gbangbang tyaat nshyia̱ bah"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Ta̱kup kati huni"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Nyia̱ tsuung Kat jhyi a̱gwam"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Á̱ ta̱kup kati"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Wa̱i a̱lyiat a̱lyoot mat %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

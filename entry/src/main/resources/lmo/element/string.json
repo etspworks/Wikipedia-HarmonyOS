@@ -1,0 +1,2228 @@
+{
+  "string": [
+    {
+      "name": "about_content_license",
+      "value": "Licenza contegnud"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Se l'è minga specifegad diversament, el contegnud l'è disponibil a termin de la \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Licenza Creative Commons Atribuzion-Condivid a l'istessa manera"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Contributor"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Librerie doprade"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Lista completa"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenza"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "A num a ghe pias el programa liber \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licenza de mape de sit"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Sit el droeuva i mape fornide de Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "In piesé, varda chichinscì per i detali de la licenza"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Fad del / de la \\$1, cont el jut de volontari compagn de ti"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Archivi"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Codes sorgent disponibil a termin de la \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Licenza MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Manda on coment a proposit de l'app"
+    },
+    {
+      "name": "about_title",
+      "value": "In quant a"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tradutor"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Tradot di volontari de \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Fondazzion Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Te riesset nò a vedé l'imagin? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Adree a creà on CAPTCHA noeuv..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Domanda on cunt."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Controll de sicurezza con CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Crea el cunt de la toa utenza"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Te gh'hee sgiamó on cunt? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Và dent."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Adree a andà dent..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Per creà on cunt te gh'hee de scriver on nom-utent, ona parolla ciav, e an'mò l'istessa parolla ciav per conferma."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "I parrolle ciav a corrisponden minga."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Adree a salvà..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Crea on cunt noeuv"
+    },
+    {
+      "name": "account_group_title",
+      "value": "El to cunt"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "La toa pagina de ciciarada"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Firma in automatich in di ciciarade"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Per firmà in automatich in di ciciarade la sarà drovada la firma definida in di impostazzion de la firma"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferenza de la pagina de ciciarada"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Sgiontegh a..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Sgiontegh a la lista de letura"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Sgionta a la lista"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Scancella l'operazzion"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Lassa perder i modifeghe"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Troeuva dedent de la pagina"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Cambia lengua"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Sposta a..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Sposta in de la lista de letura"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Version adree"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Version indree"
+    },
+    {
+      "name": "action_read",
+      "value": "Lensg"
+    },
+    {
+      "name": "action_redo",
+      "value": "Fà de noeuv"
+    },
+    {
+      "name": "action_remove",
+      "value": "Toeu via"
+    },
+    {
+      "name": "action_retry",
+      "value": "Proeuva an'mò"
+    },
+    {
+      "name": "action_save",
+      "value": "Salva"
+    },
+    {
+      "name": "action_saved",
+      "value": "Salvad"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Salvad. Ativa per roversà el salvament."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Vos salvada per dopo"
+    },
+    {
+      "name": "action_share",
+      "value": "Condivid"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Condivid"
+    },
+    {
+      "name": "action_sort",
+      "value": "Ordina"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Ringrazzia l'utent"
+    },
+    {
+      "name": "action_undo",
+      "value": "Torna indree"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Roversa el salvament"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Vos minga salvada"
+    },
+    {
+      "name": "action_update",
+      "value": "Atualiza"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Sgionta \\$1 {{PLURAL:\\$1|vos}} a la lista de letura"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Scond"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, riferiment, wiki, enciclopedia, info, conoscenza, ricerca, informazzion, esplorazzion, l'imprender"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Del tut adatabil come a se voeul e facil de vesser lesgiud Esplora feed. Rilevament de la posizzion, migliorament de la resa correzzion de bigat."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Descarega l'app de Wikipedia per esplorà i sit arent a ti, mèt in sincronia i vos per vardài sgiò de conessionn e scerniss come te voeulet la toa esperienza de letura."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "L'encicopedia libera"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Giusta la grandezza del test de la vos"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Slarga foeura i tabelle"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Imposta tute i tabelle in tute i vos de vesser averte per impostazzion predefinida, comprese i Informazzioni svelte, i Riferiment, i Note e i ligam de foeura."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Tira sgiò l'opach di imagin in di tema scur e negher"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Tema de letura"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Impostazzion de la tabella"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Strusa 'l cursor per cambià la grandezza del test de la vos. Droeuva la grandezza del test del to sistema per impostà a la giusta misura alter aree de test in l'aplicazzion."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opzzion del tema"
+    },
+    {
+      "name": "article_about_title",
+      "value": "A proposit de questa vos chì"
+    },
+    {
+      "name": "article_delete",
+      "value": "Scassa"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|vos scancellada|vos scancellade}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "L'aplicazzion l'è stada minga bone de fà a temp a otegnì el contegnud atualizad. Atualiza questa pagina chì pussee tard per vedé i modifeghe portade."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Troeuva lengua"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Cata foeura la lengua"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Alter lengov"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "I to lengue"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Per savénn pussee"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Riferiment \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Te gh'hee minga assee de memoria in del to dispostiv de salvà questa vos chì"
+    },
+    {
+      "name": "article_share",
+      "value": "Condivid"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Controll di tema de letura"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Indree"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Clica per tornà indree"
+    },
+    {
+      "name": "button_next",
+      "value": "Inanz"
+    },
+    {
+      "name": "button_ok",
+      "value": "Va ben"
+    },
+    {
+      "name": "button_publish",
+      "value": "Mèt foeura"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Segnala on error"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Salva per pussee tard"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Salva per pussee tard"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Leva di salvad"
+    },
+    {
+      "name": "button_skip",
+      "value": "Salta inanz"
+    },
+    {
+      "name": "cancel",
+      "value": "Anulla"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "L'aplicazzion de Wikipedia app adess la suporta queste variant chì del cines come prima o segonda lengua dedent de l'aplicazzion, e la fà diventà letura pussee fazzil, cerca e fà i cambiament con la toa variant preferida:\n\n简体 Chinese, Semplificad (zh-hans)\n香港繁體 Hong Kong Tradizzional (zh-hk)\n澳門繁體 Macau Tradizzional (zh-mo)\n大马简体 Malaysia Semplificad (zh-my)\n新加坡简体 Singapore Simplificad (zh-sg)\n臺灣正體 Taiwanes Tradizzional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Atualizazzion al suport di variant del cines noeuve"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Neta"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Sarra su"
+    },
+    {
+      "name": "compass_direction",
+      "value": "Ai ore \\$1"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Esplora la Wikipedia per troeuvà di alter vos de lensger"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Nissuna vos lensgiuda ultimament"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Adess l'aplicazzion Wikipedia la suporta queste variant chì del tartar de Crimea come lengue primarie o secondarie dedente de l'aplicazzion, in manera de fà diventà pussee facil la la letura , la ricerca e la modifega in di variant preferide:\n\nQırımtatatarca , latin tartar de Crimea latin (chr-latn)\nкъырымтатарджа, Кирил Tartar de Crimea cirillich (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Atualiza al suport di variant del Tatar de Crimea"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Adree a atualizà..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Sgiontegh la descrizzion"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Descrizzion de la vos per \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "A cambià la descrizzion de la vos, a aceti i \\$1 e de rilassà irrevocabilment i me contribuzzion a termin de la licenza \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Modifega l'introduzzion"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Modifega la descrizzion de la vos"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "I descrizzion curte a inn mej"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Publica la descrizzion"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Modifega la descrizzion"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Cerca de mantegnì i descrizzion curte in manera che i utent a poden capì de prim intro l'argoment de l'articol."
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Domà i nom propi i gh'hann de vesser scrivud in grand, anca al principi de la fras."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "I descrizzion di articoi a riassumen on articol per ajutà i letor a capì l'articol al prim vedé."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "A proposit de"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "A proposit de Wikidata"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "I descrizzion a inn archiviade e mantegnude in su Wikidata, on proget de la Fondazzion Wikimedia che forniss un databeis secondari, liber, cooperativistich e multilinguistich per che 'l suporta Wikipedia e alter proget."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Pussee de informazzion"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Idealment i descrizzion i gh'havarissen de stà in ona riga e e vesser longhe in fra do e dodes parolle. A inn minga scrivude coi letere grande condemanch che la prima parolla la sia on nom propi."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "descrizzion de la vos per ona vos sora la Monna Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "descrizzion de la vos per ona vos sora 'l Mont Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "piturad del Leonardo da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "La montagna pussee alta del mond"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Per esempiː"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Sugeriment per creà i descrizzion"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Ajut per la descizzion di vos"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Guida de Wikidata per la scritura di descrizzion"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Fad"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "T'hee apena fad Wikipedia pussee bella per tucc"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Descrizzion publicadaǃ"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealment ona riga, in fra do e dodes parolle"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Te gh'hee de vesser concis ti."
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Cunta su in poche parolle l'articol per ajutà i letor a capì de prim intro l'argoment"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Descrizzion de l'articol"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Per comenzà, prometi de minga drovà mal questa fonzion chì"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Taca a modifegà"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Da:"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Confronta io version"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "A:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Confronta i version"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Fà vedé"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Scond"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Righe \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Paragraf spostad"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "de sota"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "de sora"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linea|\\$1 linee}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 sezzion|\\$1 sezzion}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Paragraf spostad \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Impossibil a caregà la version"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|cambiament|cambiamencc}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Informazzion sora l'editor"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "\\$1 bait {{PLURAL:\\$1|sgiontad}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 bait levad}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Riassont de la modifega"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Introduzzion"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Riga \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "I utent senza nom a poden minga vesser ringrazziad"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'Grazzie' a l'è ona manera fazzil de fà vedé la toa considerazzion per ellavorà d'on utent in su Wikipedia. te gh'heet de andà dent per podé mandà el to 'Grazzie'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Và dent per mandà el to 'Grazzie'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Manda el to 'Grazzie'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "'Grazzie' a l'è ona manera facil de fà vedé la toa considerazzion per on utent in suWikipedia. I 'Grazzie' i poden minga vesser anullad e a inn visibel de tucc."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Manda on 'Grazie' publicament"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "El to 'ringrazziament' l'è stad mandad al/a la  \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "T'hee sgiamò mandad on 'Ringrazziament' per qusta modifega chì"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "La spedizzion di ringrazziament la minga vesser anullada"
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 riga minga modifegada|\\$1 righe minga modifegade}}"
+    },
+    {
+      "name": "dim_images",
+      "value": "Smorzament di imagin"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Fà vedé el test"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Destinazzion del ligam"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Lega el ligam"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Modeifega 'l ligam"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Modifega"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Quest el podariss vesser perchè el test che t'hee scernid foeura l'è se pò nò modifegàll (per es. el titol de l'articol o titoi de l'infobox) o per via de la longhezza del test che l'è stad marcad"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Impossibil trovà el test selezionad"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Per savénn pussee sora i modifeghe piscinine"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Questa chì l'è ona modifega piscinina"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Sgionta ona ricapitolazzion di modifeghe"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Giusta la gramatega"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Giusta i refus"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Sgionta i ligam"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Comè che t'hhe mijorad la vos?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Di alter informazzion sora la lista di pagine che te tegnet d'oeugg"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Tegn d'oeugg questa pagina chì"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Te gh'hee de vesser ardimentos ma minga strafusari in de l'atualizà i vos. Cruzzies minga per i possibil error che te podarisset fà: ogni version passada d'ona pagina l'è salvada, donca i error a poden vesser corrensgiud facilment de la comunità."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "La toa vos l'è importanta"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Tucc i contegnud i gh'hann de vesser controllabil. In del sgiontà di informazzion noeuve a ona vos, i editor i gh'hann de fornì opna citazzion d'ona font credibil che sostegnen la contribuzzion."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Cita ona font credibil"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Nun se sforzom che i vos i sien scrivude in manera imparzial. In del fà i cambiament fà a ment de fà ona rapresentazzion polita del mond tat 'me che l'è descrivuda di font atendibil."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Scriv in d'ona manera imparzial"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Per fà in manera de dàgh a tucc l'acess a la conoscenza del mond, a gh'hem bisogn de partecipà a la soa creazzion cont el lensger, el modifegà, e 'l contrbuì a l'argoment che per ti a cunten pussee."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Libera la conoscenza"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Te see sicur che te voeulet bandonà la manera de modifega inanz de publicà?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Lassa indree la modalità de modifega?"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Nissuna diferenza in tra i version"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Nissuna modifega visibil portada"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Cata foeura on fail de Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Ne rincress, se po minga caregà la vos"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Te podet an'mò lensger i pagine salvade"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Te podet vedé i to vos consijade quand che te gh'hee l'internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Manten la memoria del quell che te see stad adree a lensger chichinscì"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nissuna storia de fà vedé"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Quella vos chì l'è stada nananmò scrivuda in di alter lengue"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Nissun'altra lengua disponibil"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Crea di liste di sit de viagiàgh, argoment preferid e tant an'mò"
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organiza i vos salvade in liste de letura"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Salva i pagine in questa lista chì per vedéi a comparì chichinscì"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Nanca ona pagina salvada in questa lista chì"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Salva i pagine per vardài dopo, magara anca quand che te see minga coness"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Per intanta nanca ona pagina salvada"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nanca on risultad trovad"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "A inn stad tacad foeura nan'mò di messagg di messag per quest utent chì"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "In piasé, proeuvegh an'mò pussee tard"
+    },
+    {
+      "name": "error_unknown",
+      "value": "A l'è capitad on error che a se conoss nò"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "On alter articol a sort"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Perchè t'hee lensgiud"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Di alter vos correlade pussee"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Và adree a lensger"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Torna indree al Canal de esplorazzion"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Varda i vos arente al sit indove che te steet adess"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Vos in vedrina"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Da Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Adata come te voeulet"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Esplora i impostazzion de la lengua del Canal de esplorazzion"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "A se poden sgiontà di alter lengue pussee in de la pagina di impostazzion de 'I me lengov'."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Carta foura vista"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Ligam svelt per lensger ona vos averta"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Personaliza el Canal de esplorazzion"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Personaliza Canal de esplorazzion"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Scheda \"Esplora\""
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Vos i vedrina de la sgiornada in su Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Smorzad"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Tuscoss pizzad"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Pizzad"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Pizzad \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Scond questa scheda chì"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Scond tute i “\\$1” schede"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Vos sora i aveniment de adess"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Aveniment in la storia in quell dì chì"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Vos de Wikipedia arent al to sit"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Imagin in spegina de Commons del dì"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Insgenera vos a cas de lensger"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Sugeriment basad sora la letura de la storia"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "I vos pussee lensgiude del dì"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Smorza \"Esplora\""
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Pizza \"Esplora\""
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Incoeu in su Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Tute i vos pussee lensgiude"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Pussee lensgiud"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Vos mijore el \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "In su Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "In su Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Sit arent"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Sit"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Da Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "La toa pozizzion"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Imagin del dì"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Da Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Vos a sort"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Da Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Ona pagina a sort"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Nanca ona vos in spegina l'è disponibil per questa data chì"
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Squaja i vos pussee bei in su Wikipedia, catad foeura de la comunità tut i dì"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Vos in spegina"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "On quaicoss l'è andad stort. In piasé proeuva an'mò dopo"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "CAPTCHA minga bon"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "I parolle ciav i corrisponden nò"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Codes minga bon"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Nom de l'utent minga disponibil"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Test CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Mèt dent el test che te vedet de sora"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "esempi@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Posta eletronica"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Posta eletronica (opzional)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "mèt dent an'mò la parolola ciav noeuva"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Conferma la parolla ciav noeuva"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Mèt denter la parolla ciav noeuva"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Parolla ciav noeuva"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Mèt denter de noeuv la parolla ciav"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Conferma la parolla ciav"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "mèt dent la parolla ciav"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Parolla ciav"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Codes de controll"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Met dent el nom-utent"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Not de l'utent"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Traoeuva e cambia vun con l'alter"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Sarra su el \"Troeuva e cambia vun con l'alter\""
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Treouva"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Imposta de cap"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "A l'è stada mandad on messagg de posta eletronica coi istruzzion per impostà la parolla ciav de noeuv"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Impienìss  vun di do caselle chì de sota per ricever per via de la posta eletronica i istruzzion de impostà de noeuv la parolla ciav"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Imposta de noeuv la parolla ciav"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "O"
+    },
+    {
+      "name": "gan_variants_alert_body",
+      "value": "Adess l'aplicazzion Wikipedia adess la suporta qyesta variant chì del Gan variants come lengue primarie o secondarie dedent de l'aplicazzion, per fà in manera de render pussee facil la letura, la ricerca e la modifega in di to variant preferide:\n\n贛語 原文 Gan (gan)\n赣语 简体 Gan, Semplificad(gan-hans)\n贛語 繁體 Gan, Tradizzional (gan-hant)"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Atualizazzion al suport di variant del Gan noeuve"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Te see sicur che te voeulet scancellà tut i to element recent?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Sì, scassa tuscoss"
+    },
+    {
+      "name": "history_title",
+      "value": "Storia"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, ritorna a Esplora"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, torna indree ai pagine salvade"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Alter, compagn de \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Pussee de sit arent a la toa posizzion"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Di alter lì adree \\$1"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Adess i to vos salvade i poden vesser organizade in liste de letura e fà andà in sicronia in su tut i dispositiv. Và dent per permeter ai to liste de letura de vesser salvade in di to preferenze."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Manesgia i preferenze"
+    },
+    {
+      "name": "home_title",
+      "value": "Esplora"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Vos in del scircondari"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Vos a sort"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Cerca in su Wikipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autor conossud de nissun."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Da Wikipedia in \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Da Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Noeuve"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Mèt denter"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Mèt denter ligam"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Descrizzion testual per i letor che a inn minga boni de vedé l'imagin"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Descriv questa imagin chì"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Test che se 'l pò doprà in scambi"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Comè che questa imagin chì l'è correlada a la vos?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Test che 'l compar tacad a l'element per tucc i letor"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Insegna de descrizzion"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Al center"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "A manzina"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Nissun"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "A drizza"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Posizzion de l'imagin"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Pussee de informazzion"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Cata foeura l'imagin"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Personalizzad"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "De impostazzion predefinida"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Grandezza de l'imagin"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Fondamental"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Cornis"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Senza cornis"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniadura"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Tipo de figura"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Impostazzion di fail audiovisiv"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Mèt denter on fail audiovisiv"
+    },
+    {
+      "name": "inuktitut_variants_alert_body",
+      "value": "L'aplicazzion Wikipedia adess la suporta queste variante chì de l'Inuktitut come lengua primaria o secondaria dedent de l'app, per fà in manera de fa vegnì pussee facil la letura, la ricerca e la modifega in di to variante preferide:\n\nᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ ᓄᑖᖅ Inuktitut, Syllabics (ike-cans)\nInuktitut ilisautik, Inuktitut, Latin (ike-latn)"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Atualizazzion al suport di variant inukitut noeuve"
+    },
+    {
+      "name": "kazakh_variants_alert_body",
+      "value": "L'aplicazzion Wikipedia adess la suporta queste variante chì de l'kazach come lengua primaria o secondaria dedent de l'aplicazzion, per fà in manera de fà vegnì pussee facil la letura, la ricerca e la modifega in di to variante preferide:\n\nҚазақша Kazakh (kk)\nҚазақша Кирил Kazakh, Cirillich (kk-cyrl)\nqazaqşa latin Kazakh, Latin (kk-latn)\nتوتە قازاقشا Kazakh, Arabo (kk-arab)"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Atualizazzion al suport di variant del kazach noeuve"
+    },
+    {
+      "name": "kurdish_variants_alert_body",
+      "value": "L'aplicazzion Wikipedia adess la suporta queste variante chì del curd come lengua primaria o secondaria dedent de l'aplicazzion, per fà in manera de fà vegnì pussee facil la letura, la ricerca e la modifega in di to variante preferide:\n\nKurdî Latînî Kurdish, Latin (ku-latn)\nكوردی Kurdish, Arabic (kk-arab)"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Atualizazzion al suport di variant del curd noeuve"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Lengov"
+    },
+    {
+      "name": "languages_title",
+      "value": "Cambia lengua"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Lengue de Wikipedia"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Và inanz senza autenticàss"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Torna de noeuv dent in del to cunt"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Te see stad disconess"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Sgiontes a Wikipedia"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Te gh'hee nancamò on cunt? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Và dent in del to cunt"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Informazzion sora l'aplicazzion"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Và dent"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Và foeura"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Te see sicur che te voeulet andà foeura?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "A andà foeura te scancellareet i dati del cunt archiviad localment (notifiche e messagg), ma i dati i dati dal cunt i sarann an'mò disponibil in su l'internet e i sarann descaregad de noeuv se te veet dent an'mò."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Te see dent come \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Riservatezza e termin"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Chì adree"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Politega sora la ''riservatezza''"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Giudica l'aplicazzion"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Termin de utilizazzion"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Pussee"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "FAQ de Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Cerca Wikipedia in pussee de 300 lengue"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Sgionta lengue"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Sposta \\$1 {{PLURAL:\\$1|vos}} a la lista de letura"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Anticipazzion"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pee"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mia"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Te see andad denter cont ona parolla ciav temporanea. Per finì de andà dent imposta ona parolla ciav noeuva chichinscì."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Imposta la toa parolla ciav"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Imposta on cunt de posta eletronica in sul to dispositiv e proeva an'mò."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "A gh'è minga de conession a l'internet"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Da \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Allarma"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Notifeghe con distintiv minga lensgiud"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 notifeghe"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Cambia la parolla ciav"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Adree a controllà i notifeghe..."
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "In su l'internet"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Adree a controllà i notifeghe..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Te gh'hee nanca on messagg"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Per intanta te seet iscrivud a nanca voeuna di notifeghe de Wikipedia"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Modifega \\$1 per vedé pussee de messagg"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Sgionta proget per vedé pussee messagg"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 filter}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Ativa i notifeghe push"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Tute"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Lensgiude"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Minga lensgiude"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Stat de letura"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filter"
+    },
+    {
+      "name": "notifications_center_filters_types_footer",
+      "value": "Modifica i tipi de notifica per filtrai de dent/de foeura de la toa casella de posta. I tipi disattivati i sarann minga visibil, ma 'l so contegnud e i tute i notifeghe noeuve i sarann disponibil al pizzàss de nouev de l'interutor."
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Tucc i sorte"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Sorte de notifeghe"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Vos"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Diferenze"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "pagina de l'utenza de \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Element Wikidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "La toa pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Allarma de \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Fad"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Proget"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Domà i proget che t'hee tirad in pee on cunt per lor a compararann chichinscì"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Proget Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedie"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Notifeghe de entrada"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Marcador"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Marca tute come sgiamo lensgiude"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Te see sicur che te voeulet segnà tucc i {{PLURAL:\\$1|\\$1 messagg}} di to notifiche come lensgiud? I to notifiche i sarann segnade 'me lensgiude in su tucc i to dispositiv."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Te see sicur che te voeulet segnà tucc i to notifiche come lensgiude? I to notifiche i sarann segnade 'me lensgiude in su tucc i to dispositiv."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Segna com lensgiud"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Segna come minga lensgiud"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "An'mò"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Impostazzion di notifeghe"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 messagg}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Và inanz"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_message",
+      "value": "Filtra i to notifiche per stat de letura e tipo per fò diventà  facilment la toa casella de posta pusse picola."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filter"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Per savénn pussee a proposit di notifiche"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "I notifiche i te juten a stà informad de l'atività conligada ai to modifiche e al to cunt."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Notifiche e allarma"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_project_inboxes_message",
+      "value": "varda tucc i messagg minga lensgiud di Wikipedie in lengue diferente e di alter proget Wikimedia in d'on soll loeugh."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Modifega i notifeghe"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "No, grazzie"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Tuscoss"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Tute i notifiche"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 in \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Fitrad de"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=In 1 proget|In \\$1 proget}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 proget|\\$1 proget}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 tipo|\\$1 tipi}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Lensgiuda"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 e \\$2 in \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Minga lensgiude"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "La toa modifega l'è stada roversada"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Noeuva posta eletronica"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_unknown_device",
+      "value": "Tantativ de andà dent fallad"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Acess d'on dispositiv che a se conoss nò"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "Menziona in la pagina de ciciarada de l'articol"
+    },
+    {
+      "name": "notifications_center_subheader_mention_edit_summary",
+      "value": "Menziona in del riassont di modifeghe"
+    },
+    {
+      "name": "notifications_center_subheader_mention_failed",
+      "value": "Menzion fallada"
+    },
+    {
+      "name": "notifications_center_subheader_mention_successful",
+      "value": "Menzion andada ben"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Menzion in la pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Messagg in la toa pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Ligam a la pagina"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Pagina vardada de noeuv"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Grazzie"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Preja miliar di traduzzion"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Cambi di dirit de l'utent"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Benvegnudǃ / Benrivadǃ"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Marca come lensgiude"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Marca come nancamò lensgiude"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Pussee"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Notifeghe"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Segna i notifiche scernide foeura"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Menzion"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Avis"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Messagg de benvegnud"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Conession con Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Modifega preja miliar"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Modifeda roversada"
+    },
+    {
+      "name": "notifications_center_type_title_edit_summary_mention",
+      "value": "Menzion del riassont di modifeghe"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "Posta eletronica d'on alter utent"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Tentativ de andà dent"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Tentativ de andà dent in del to cunt fallad"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Andad dent con sucess"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Alter"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Ligam a la pagina"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Revision de la pagina"
+    },
+    {
+      "name": "notifications_center_type_title_talk_page_mention",
+      "value": "Menzion pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Grazzie"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Preja miliar di traduzzion"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Modifega dirit de l'utent"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Messagg de la pagina de ciciarada"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Benvegnud"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Noeuva atività in su Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 messagg noeuv}} in su \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|messagg noeuv}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "dal \\$1 al \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "\\$1 {{PLURAL:\\$1|aveniment storich}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Pussee de aveniment storich in quell dì chì"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 aveniment storich pussee}} in quell dì chì"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "La toa lengua principal de Wikipedia a l'è minga suportada in quell dì chì. Te podet atualizà la toa pagina principal de Wikipedia in del menu Impostazzion de l'aplicazzion."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Nanca on dato disponibil"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 da Wikipedia in \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "in quell dì chì"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "Modifeghe di bot"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Clica per catà foeura do version de paragonà"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Paragona"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Grafich di modifeghe in del cors del temp"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "modifeghe piscinine"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autor: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Coment \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Storia di modifeghe"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Modifega piscinina"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "{{PLURAL:\\$1|Sgiontad}} \\$1 bait"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|Levad}} \\$1 bait"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "A podet vesser catade foeura domà do revision"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|1 modifega|\\$1 modifeghe}} dal \\$2"
+    },
+    {
+      "name": "page_issues",
+      "value": "Problema de la pagina"
+    },
+    {
+      "name": "page_location",
+      "value": "Varda in su la mapa"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Te gh'hee minga i dirit de fàgh di cambiament a questa pagina chì"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Questa pagina chì l'è protensgiuda"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Pagine compagne"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "el paragon in fra i version l'ajuta a fà vedé comè che ona vos l'è cambiada in del cors del temp. A paragonà do version d'ona vos i sarann fade vedé i diferenza in fra de lor cont el marcà tucc i contegnud che a inn stad cambiad."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Paragon in fra i version"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Te see minga andad dent"
+    },
+    {
+      "name": "pictured",
+      "value": "dissegnad"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Scancella i ricerche salvade"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 vos"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Centra an'mò el to sit"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Fà vedé come ona lista"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Fà vedé come ona mapa"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Fà vedé pussee de articoi"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Esplora zità, paes, continent, sit naturai, aveniment storiche, edifizzi e poeu an'mò."
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Perchè t'hee lensgiud"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Tute i vos pussee lensgiude"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "On alter articol a sort"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Da Wikipedia in %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "In su Wikipedia in %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Da Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nissuna storia de fà vedé"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Scond questa scheda chì"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Personaliza Canal de esplorazzion"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Carta foura vista"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Descrizzion de la vos per %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    }
+  ]
+}

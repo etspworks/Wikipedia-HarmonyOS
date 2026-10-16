@@ -1,0 +1,3600 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Licencja"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "O ile nie zaznaczono inaczej, treść jest dostępna na licencji \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons: uznanie autorstwa, na tych samych warunkach"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Autorzy"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Użyte biblioteki"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Pełna lista"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licencja"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Kochamy otwartoźródłowe oprogramowanie \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Licencja na mapy miejsc"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Miejsca korzystają z map dostarczonych przez Apple Maps 1$"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Zobacz szczegóły licencji"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Stworzone przez \\$1 z pomocą wolontariuszy takich jak Ty"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repozytoria"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Kod źródłowy dostępny na licencji \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Licencja MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Wyślij opinię o aplikacji"
+    },
+    {
+      "name": "about_title",
+      "value": "O aplikacji"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tłumacze"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Przetłumaczono przez wolontariusza na \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Nie widać obrazka? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Uzyskiwanie nowego CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Wniosek o założenie konta."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Kontrola bezpieczeństwa CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Utwórz konto"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Masz już konto? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Zaloguj się"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Logowanie..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "W celu utworzenia konta, użytkownik musi wprowadzić nazwę użytkownika, hasło i potwierdzenie hasła."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Hasła nie są identyczne."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Zapisywanie..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Utwórz nowe konto"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Twoje konto"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Twoja strona dyskusji"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Dyskusje z auto-podpisem"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Automatyczne podpisywanie dyskusji wykorzysta podpis zdefiniowany w ustawieniach podpisu"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Preferencje strony dyskusji"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Dodaj do..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Dodaj do listy czytanych"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Dodaj do listy"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Porzuć zmiany"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Znajdź na stronie"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Zmień język"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Przenieś do..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Przejdź do listy lektur"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Następna wersja"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Poprzednia wersja"
+    },
+    {
+      "name": "action_read",
+      "value": "Czytaj"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ponów"
+    },
+    {
+      "name": "action_remove",
+      "value": "Usuń"
+    },
+    {
+      "name": "action_retry",
+      "value": "Ponów"
+    },
+    {
+      "name": "action_save",
+      "value": "Zapisz"
+    },
+    {
+      "name": "action_saved",
+      "value": "Zapisane"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Zapisane. Aktywuj,by nie zapisywać."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artykuł zapisany na później"
+    },
+    {
+      "name": "action_share",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sortuj"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Podziękuj użytkownikowi"
+    },
+    {
+      "name": "action_undo",
+      "value": "Cofnij"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Niezapisane"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artykuł niezapisany"
+    },
+    {
+      "name": "action_update",
+      "value": "Aktualizuj"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "Zgłoszenie problemu – karta „Aktywność”"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Dodaj {{PLURAL:\\$1|\\$1 artykuł|\\$1 artykuły}} do listy do przeczytania"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Odrzuć"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, referencje, wiki, encyklopedia, informacje, wiedza, badania, informacje, eksploracja, nauka"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "W pełni konfigurowalny i łatwiejszy do odczytania kanał Eksploruj. Lokalizacja, ulepszenia wydajności i poprawki błędów."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Pobierz aplikację Wikipedia, aby odkrywać miejsca w pobliżu, synchronizować artykuły do czytania offline i dostosowywać sposób czytania."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Wolna encyklopedia"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Dostosuj rozmiar tekstu artykułu"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Rozwiń tabele"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "Ustaw wszystkie tabele we wszystkich artykułach, aby były domyślnie otwarte, w tym krótkie fakty, przypisy, notatki i linki zewnętrzne."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Zmniejsz nieprzezroczystość zdjęć w ciemnych i czarnych motywach"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Motywy czytania"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Ustawienia tabeli"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "Przeciągnij suwak, aby zmienić rozmiar tekstu artykułu. Użyj rozmiaru tekstu systemowego, aby zmienić rozmiar innych obszarów tekstu w aplikacji."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opcje motywu"
+    },
+    {
+      "name": "article_about_title",
+      "value": "O tym artykule"
+    },
+    {
+      "name": "article_delete",
+      "value": "Usuń"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|artykuł usunięty|artykuły usunięte}}"
+    },
+    {
+      "name": "article_fetcher_error_updated_content_timeout",
+      "value": "Aplikacja nie mogła na czas pobrać zaktualizowanej zawartości. Odśwież tę stronę później, aby zobaczyć odzwierciedlenie zmian."
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Znajdź język"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Wybierz język"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Inne języki"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Twoje języki"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Czytaj więcej"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Przypis \\$1"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Masz za mało miejsca na urządzeniu, by zapisać ten artykuł"
+    },
+    {
+      "name": "article_share",
+      "value": "Udostępnij"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Kontrolki motywów czytania"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Wstecz"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Stuknij, aby wrócić"
+    },
+    {
+      "name": "button_next",
+      "value": "Następny"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Opublikuj"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Zgłoś błąd"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Zapisz na później"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Zapisane na później"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Usuń z zapisanych"
+    },
+    {
+      "name": "button_skip",
+      "value": "Pomiń"
+    },
+    {
+      "name": "cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Aplikacja Wikipedia obsługuje teraz następujące warianty języka chińskiego jako podstawowe lub dodatkowe języki w aplikacji, co ułatwia czytanie, wyszukiwanie i edycję w preferowanych wariantach:\n\n简体 Chiński Uproszczony (zh-hans)\n香港繁體 Hongkong Tradycyjny (zh-hk)\n澳門繁體 Makau Tradycyjny (zh-mo)\n大马简体 Malezja Uproszczony (zh-my)\n新加坡简体 Singapur Uproszczony (zh-sg)\n臺灣正體 Tajwański Tradycyjny (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Aktualizacje obsługi chińskiego wariantu"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Wyczyść"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zamknij"
+    },
+    {
+      "name": "compass_direction",
+      "value": "O \\$1 godzinie"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Kontynuuj"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Przeglądaj Wikipedię, aby przeczytać więcej artykułów"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Brak ostatnio czytanych artykułów"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_body",
+      "value": "Aplikacja Wikipedia obsługuje teraz następujące warianty krymskotatarskie jako podstawowe lub dodatkowe języki w aplikacji, co ułatwia czytanie, wyszukiwanie i edycję w preferowanych wariantach:\n\nQırımtatarca, łacińska krymskotatarska łacina (chr-latn) \nкъырымтатарджа, Кирил krymskotatarski cyrylica (crh-cyrl)"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantu krymskotatarskiego"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Aktualizowanie..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Dodaj opis"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "Kolejność elementów w widoku edycji będzie inna niż w widoku artykułu."
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Opis artykułu dla \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Zmieniając opis artykułu, wyrażam zgodę na \\$1 i nieodwołalnie wydawać będę swoje wkłady na podstawie licencji \\$2."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Edytuj wprowadzenie artykułu"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Edytuj krótki opis artykułu"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Najlepsze są krótkie opisy"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Opublikuj opis"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Edytuj opis"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Staraj się, aby opisy były krótkie, aby użytkownicy mogli szybko zrozumieć temat artykułu"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Tylko rzeczowniki własne powinny być pisane wielką literą, nawet na początku zdania."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Opisy artykułów podsumowują artykuł, aby ułatwić czytelnikom szybkie zrozumienie tematu."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "O tytule"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "O Wikidanych"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Opisy są przechowywane i utrzymywane w Wikidanych, projekcie Wikimedia Foundation, który stanowi bezpłatną, opartą na współpracy, wielojęzyczną bazę danych drugorzędnych wspierającą Wikipedię i inne projekty."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Więcej informacji"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Opisy powinny idealnie pasować do jednej linii i zawierać od dwóch do dwunastu słów. Nie są one pisane wielkimi literami, chyba że pierwsze słowo jest właściwym rzeczownikiem."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "opis artykułu dla artykułu o Mona Lisie"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "opis artykułu dla artykułu o Mount Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "obraz Leonarda da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "najwyższy szczyt Ziemi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Na przykład:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Wskazówki dotyczące tworzenia opisów"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Pomoc w opisie artykułu"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Przewodnik Wikidanych dotyczący tworzenia opisów"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Gotowe"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Właśnie sprawiłeś, że Wikipedia jest lepsza dla wszystkich"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Opis opublikowany!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Lepsza jedna linia, od dwóch do dwunastu słów"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Pisz krótko"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Podsumowuje artykuł, aby pomóc czytelnikom w zrozumieniu tematu na pierwszy rzut oka"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Opisy artykułów"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Na początek obiecuję, że nie będę niewłaściwie używać tej funkcji"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Rozpocznij edycję"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Ustawienia programisty"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Poprzednia edycja"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Porównaj wersje"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Wyświetlono Edytuj"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Porównaj wersje"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Pokaż"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Ukryj"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Linie \\$1 – \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Przesunięty akapit"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "w dół"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "w górę"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 linia|\\$1 linie|\\$1 linii}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 sekcja|\\$1 sekcje|\\$1 sekcji}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Akapit przesunięty"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Nie udało się załadować wersji"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 edycja|\\$1 edycje|\\$1 edycji}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Informacje o edytorze"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "Dodano {{PLURAL:\\$1|\\$1 bajt|\\$1 bajty|\\$1 bajtów}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "Usunięto {{PLURAL:\\$1|\\$1 bajt|\\$1 bajty|\\$1 bajtów}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Opis zmian"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Wprowadzenie"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Linia \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Nie możesz dziękować anonimowym użytkownikom"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Podziękowania są prostym sposobem na okazanie wdzięczności za wkład edytora w Wikipedię. Musisz być zalogowany, aby wysłać podziękowanie."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Zaloguj się, aby wysłać podziękowanie"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Wyślij podziękowanie"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Podziękowania są prostym sposobem na okazanie wdzięczności za wkład edytora w Wikipedię. Nie mogą zostać cofnięte i są publicznie widoczne dla innych."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Wyślij podziękowanie"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Twoje podziękowanie zostało wysłane do \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Wysłano już podziękowanie za tę edycję"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Podziękowania nie mogą zostać anulowane"
+    },
+    {
+      "name": "dim_images",
+      "value": "Przyciemnij obrazy"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Dziękujemy!"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Wyświetlany tekst"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Adres linku"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Usuń link"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Edytuj link"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Edytuj"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_message",
+      "value": "Może to być spowodowane tym, że wybrany tekst nie jest edytowalny (np. Tytuł artykułu lub tytuły informacyjne) lub z powodu długości podświetlonego tekstu"
+    },
+    {
+      "name": "edit_menu_item_could_not_find_selection_alert_title",
+      "value": "Nie można znaleźć wybranego tekstu"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Dowiedz się więcej o drobnych zmianach"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "To jest drobna zmiana"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Dodaj podsumowanie edycji"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Poprawiono pisownię"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Poprawiono literówkę"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Dodane linki"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Jak poprawiłeś stronę?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Dowiedz się więcej o liście obserwowanych"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Obserwuj tę stronę"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Bądź odważny, ale nie lekkomyślny w aktualizowaniu artykułów. Nie zadręczaj się błędami: każda poprzednia wersja strony jest zapisywana, więc błędy mogą być łatwo naprawione przez naszą społeczność."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Twój głos jest ważny"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Wszystkie treści muszą być weryfikowalne. Dodając nowe informacje do artykułu, redaktorzy powinni podać bezpośrednie odniesienie do wiarygodnego źródła, które bezpośrednio wspiera ten artykuł."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Cytuj wiarygodne źródła"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Staramy się, aby artykuły były pisane w sposób bezstronny. Podczas edycji staraj się rzetelnie przedstawiać świat, tak jak opisują to wiarygodne źródła."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Pisz bezstronnym tonem"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Aby zapewnić wszystkim dostęp do wiedzy o świecie, musimy uczestniczyć w jej tworzeniu, czytając, edytując i przyczyniając się do tematów, które są dla Ciebie najważniejsze."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Uwolnij wiedzę"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Czy na pewno chcesz opuścić tryb edycji bez wcześniejszego opublikowania?"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Porzucić tryb edycji?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Wyczyść znajdź"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Zamknij znajdź"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Znajdź"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Pogrubienie"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Zamknij menu formatowania tekstu"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Komentarz"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Nie ma różnic pomiędzy wersjami"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Nie wprowadzono widocznych zmian"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Wybierz plik z Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Niestety nie udało się wczytać artykułu"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Nadal możesz czytać zapisane strony"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Możesz zobaczyć polecane artykuły, gdy masz Internet"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Śledź to, co tutaj czytałeś"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Nie ma historii do pokazania"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Ten artykuł nie został jeszcze napisany w innych językach"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Brak innych dostępnych języków"
+    },
+    {
+      "name": "empty_no_reading_lists_message",
+      "value": "Twórz listy miejsc, do których chciałbyś podróżować, ulubionych tematów i wielu innych."
+    },
+    {
+      "name": "empty_no_reading_lists_title",
+      "value": "Organizuj zapisane artykuły za pomocą list do czytania"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Zapisz strony na tej liście, aby wyświetlić je tutaj"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Brak stron zapisanych na tej liście"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Zapisz strony, aby wyświetlić je później, nawet offline"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Nie zapisano jeszcze żadnych stron"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nie znaleziono"
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Nie dodano jeszcze żadnych wiadomości dla tego użytkownika"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Spróbuj ponownie później"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Wystąpił nieznany błąd"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Inny losowy artykuł"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Ponieważ czytasz"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Dodatkowe artykuły powiązane"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Czytaj dalej"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Powrót do kanału Eksploruj"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Przeglądaj artykuły dotyczące miejsc blisko twojej obecnej lokacji"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Wyróżniony artykuł"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Z \\$1 Wikipedii"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedii"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Dostosuj"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Ustawienia języków Odkryj"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Dodatkowe języki można dodać na stronie ustawień „Moje języki”."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Karta ukryta"
+    },
+    {
+      "name": "explore_feed_preferences_continue_reading_description",
+      "value": "Szybki link do przeczytania otwartego artykułu"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Dostosuj kanał Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Dostosuj kanał Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Ukrywanie typu karty spowoduje, że ten typ karty nie pojawi się w kanale Eksploruj."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Karta Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Dzisiejszy wyróżniony artykuł w Wikipedii"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Brak"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Na wszystkich"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Włączony"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "W \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Wszystkie karty %@ są ukryte"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Ta karta nie jest specyficzna dla języka, wyłączenie tej karty spowoduje jej usunięcie z kanału Eksploruj."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Karty niezwiązane z językiem"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Nie dotyczy konkretnego języka"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Karty globalne"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Ukryj tę kartę"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Ukryj wszystkie \"%@\" karty"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artykuły o bieżących wydarzeniach"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Ukrywanie wszystkich kart paszportowych Eksploruj we wszystkich językach spowoduje wyłączenie karty Eksploruj."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Wydarzenia w historii w tym dniu"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Artykuły w Wikipedii blisko twojej lokacji"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Wyróżniony obraz z Wikimedia Commons"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Wylosuj artykuł do przeczytania"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Sugestie oparte na historii czytania"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Pokaż kartę Czytaj dalej"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_footer_text",
+      "value": "Wyłączenie karty Wyróżniony artykuł wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Pokaż kartę Wyróżniony artykuł"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Wyłączenie karty W wiadomościach wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Pokaż kartę W wiadomościach"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Wyłączenie karty W tym dniu wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Pokaż kartę W tym dniu"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Pokaż kartę Grafika dnia"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Wyłączenie karty Miejsca wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Pokaż kartę Miejsca"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Wyłączenie karty Losowy artykuł wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Pokaż kartę Randomizera"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Pokaż kartę Ponieważ czytasz"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Wyłączenie karty Najczęściej czytane wyłączy tę kartę we wszystkich dostępnych językach"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Pokaż kartę Najczęściej czytane"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Sugestie dotyczące dodania treści do Wikipedii"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Pokaż kartę Sugerowane edycje"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Najczęściej dzisiaj czytane artykuły"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Wyłącz kanał Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Wyłączenie wszystkich kart wyłączy Odkryj i zastąpi je Ustawieniami"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Wyłączyć kanał Eksploruj?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Włącz Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Odkryj może być włączone ponownie w ustawieniach Odkryj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Włączyć kartę Eksploruj?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Wyłączenie Odkryj zastąpi je Ustawieniami"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Wybierając opcję wyświetlania kart Eksploruj, włączasz kartę Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Włącz Eksploruj"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Spowoduje to zastąpienie karty Ustawienia kartą Eksploruj. Dostęp do ustawień można uzyskać u góry karty Eksploracja, dotykając ikony koła zębatego"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Włączyć kartę Eksploruj?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Ukryj tę kartę"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Strona główna projektów Wikimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Dzisiaj w Wikipedii"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Wszystkie najczęściej czytane artykuły"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Najczęściej czytane"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Najlepsze na \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Na \\$1 Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "W Wikipedii"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Miejsca w pobliżu"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Miejsca"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Z \\$1 Wikipedii"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Z Wikipedii"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Twoje położenie"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Twoja lokalizacja z \\$1 Wikipedii"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Grafika dnia"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Losowy artykuł"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Z \\$1 Wikipedii"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Z Wikipedii"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Losowy artykuł"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Dodaj"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Dodaj sugerowane obrazy do artykułów w Wikipedii, aby pomóc czytelnikom w ich zrozumieniu."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Dodaj obraz"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Polecany artykuł nie jest dostępny w tym dniu."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Odkryj najlepsze artykuły w Wikipedii, wybierane codziennie przez naszą społeczność."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Z Wikipedii \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Z Wikipedii"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Twój podstawowy język Wikipedii nie obsługuje polecanych artykułów. Możesz zaktualizować swoją podstawową Wikipedię w menu Ustawienia aplikacji."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Wyróżniony artykuł"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Coś poszło nie tak. Spróbuj ponownie później."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Aplikacja otrzymała nieoczekiwaną odpowiedź z serwera. Spróbuj ponownie później."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Niepoprawna CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Hasła nie są takie same"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Nieprawidłowy kod"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Niedostępna nazwa użytkownika"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Kod kopii zapasowej"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Tekst CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Wpisz tekst, który widzisz powyżej"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Adres e‐mail"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Adres e-mail (opcjonalnie)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "ponownie wprowadź nowe hasło"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Potwierdź nowe hasło"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "wprowadź nowe hasło"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nowe hasło"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "wprowadź ponownie hasło"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Potwierdź hasło"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "wprowadź hasło"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Hasło"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Kod weryfikacyjny"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "wprowadź nazwę użytkownika"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Nazwa użytkownika"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Wymaż tekst do szukania"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Następny wynik wyszukiwania"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Poprzedni wynik wyszukiwania"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Znajdź i zamień"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Zamknij znajdź i zamień"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Znajdź"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Zresetuj"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Wysłano wiadomość e-mail z instrukcjami resetowania hasła"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Wypełnij jedno z poniższych pól, aby uzyskać e-mail z instrukcją, jak zresetować hasło"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Zresetuj hasło"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Lub"
+    },
+    {
+      "name": "games_email_report_subject",
+      "value": "Zgłoszenie problemu – gry Wikipedii"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantów Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Czy na pewno chcesz usunąć wszystkie swoje ostatnie elementy?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Tak, usuń wszystko"
+    },
+    {
+      "name": "history_title",
+      "value": "Historia"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, wróć do Odkryj"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, wróć do Zapisane"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Społeczność"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "Społeczność"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "Dla Ciebie"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "Dla Ciebie"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Więcej jak \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Więcej miejsc w pobliżu Twojej lokalizacji"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Więcej niedaleko"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Więcej aktualnych wydarzeń"
+    },
+    {
+      "name": "home_reading_list_prompt",
+      "value": "Zapisane artykuły można teraz porządkować w listy do czytania i synchronizować na różnych urządzeniach. Zaloguj się, aby umożliwić zapisanie list czytelniczych zgodnie z preferencjami użytkownika."
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Zarządzaj preferencjami"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": "Dostosuj preferencje czytania, w tym rozmiar tekstu i motyw z paska narzędzi artykułu lub w ustawieniach użytkownika, aby zapewnić wygodniejsze czytanie."
+    },
+    {
+      "name": "home_title",
+      "value": "Odkryj"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, przewiń do góry Odkryj"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Niedalekie artykuły"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Losowy artykuł"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Szukaj w Wikipedii"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autor nieznany."
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "W tej chwili nie są już dostępne żadne sugerowane obrazy."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Zdecyduj, czy sugerowany obraz powinien zostać umieszczony w artykule w Wikipedii."
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Dowiedz się więcej o sugerowanych edycjach"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Inne"
+    },
+    {
+      "name": "image_recommendations_email_title",
+      "value": "Zgłoszenie problemu – funkcja „Dodaj obraz”"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nie"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Tak"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Z \\$1 Wikipedii"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Z Wikipedii"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "W wiadomościach"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Wstaw"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Wstaw link"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Opis tekstu dla czytelników którzy nie widzą grafiki"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Opisz ten obraz"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Tekst alternatywny"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Jak ten obraz odnosi się do artykułu?"
+    },
+    {
+      "name": "insert_media_caption_description",
+      "value": "Etykieta wyświetlana obok elementu dla wszystkich czytelników"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Podpis"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Wyśrodkowane"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Do lewej"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Brak"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Do prawej"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Pozycja obrazu"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Więcej informacji"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Wybierz obraz"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Niestandardowy"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Domyślnie"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Wysokość"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Szerokość"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Rozmiar obrazu"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Podstawowy"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Ramka"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Bez obramowania"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniatura"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Typ obrazu"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Ustawienia multimediów"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Wstaw media"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantów Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantu kazachskiego"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantu kurdyjskiego"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Języki"
+    },
+    {
+      "name": "languages_title",
+      "value": "Zmień język"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Języki Wikipedii"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Dowiedz się więcej"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Kontynuuj bez logowania"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Zaloguj się ponownie na swoje konto"
+    },
+    {
+      "name": "logged_out_subtitle",
+      "value": "Wystąpił problem z uwierzytelnieniem Twojego konta. Aby zsynchronizować listy czytelnicze i edytować je pod nazwą użytkownika, zaloguj się ponownie."
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Zostałeś wylogowany"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Nie pamiętasz hasła?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Dołącz do Wikipedii."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nie masz konta? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Zaloguj się na swoje konto"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "O aplikacji"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Zaloguj się"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Wyloguj"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Czy na pewno chcesz się wylogować?"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure_message",
+      "value": "Wylogowanie spowoduje usunięcie przechowywanych lokalnie danych konta (powiadomienia i wiadomości), ale dane konta będą nadal dostępne w Internecie i zostaną ponownie pobrane po ponownym zalogowaniu."
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Zalogowano jako \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Prywatność i warunki"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "W pobliżu"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Polityka prywatności"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Oceń aplikację"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Warunki użytkowania"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Więcej"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero FAQ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Szukaj w Wikipedii w ponad 300 językach"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Dodaj języki"
+    },
+    {
+      "name": "more_menu",
+      "value": "Więcej"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Przenieś {{PLURAL:\\$1|\\$1 artykuł|\\$1 artykuły}} do listy do przeczytania"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Podgląd"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 stopy"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mile"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Zalogowałeś się z użyciem hasła tymczasowego. Aby dokończyć logowanie ustal nowe hasło"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Wpisz swoje hasło"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Dalej"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Skonfiguruj konto e-mail w tym urządzeniu i spróbuj jeszcze raz."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Brak połączenia z internetem"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nie teraz"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Od \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Uwaga"
+    },
+    {
+      "name": "notifications_center_applied_filters_accessibility_label",
+      "value": "Filtr powiadomień - ma zastosowane filtry"
+    },
+    {
+      "name": "notifications_center_applied_project_filters_accessibility_label",
+      "value": "Filtr projektów - ma zastosowane filtry"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "Powiadomienia z nieprzeczytaną plakietką"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Zmień hasło"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Sprawdzanie powiadomień..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "W aplikacji"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Przez stronę"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Sprawdzanie powiadomień..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Nie masz żadnych wiadomości"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Obecnie nie subskrybujesz żadnych powiadomień Wikipedii"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Dodaj projekty, aby zobaczyć więcej wiadomości"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Włącz powiadomienia push"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Filtr powiadomień"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Wszystkie"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Stan przeczytania"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filtry"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Wszystkie typy"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Rodzaje powiadomień"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Artykuł"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Strona dyskusji \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Różnica"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Strona użytkownika \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Element Wikidanych"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Twoja strona dyskusji"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Gotowe"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projekty"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Tutaj pojawią się tylko projekty, dla których utworzyłeś konto"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Projekty Wikimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipedie"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Powiadomienie logowania"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Oznacz"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Oznacz wszystko jako przeczytane"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Oznacz jako przeczytane"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Oznacz jako nieprzeczytane"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Więcej"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Ustawienia powiadomień"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Kontynuuj"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filtry"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Dowiedz się więcej o powiadomieniach"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_message",
+      "value": "Powiadomienia pomagają informować Cię o aktywności związanej z Twoimi zmianami i kontem."
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Powiadomienia i alerty"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Powiadomienia push"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Edycja powiadomień"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Włączyć powiadomienia push?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Włącz powiadomienia push"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nie, dziękuję"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Filtr projektów"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Wszystkie powiadomienia"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Twoja zmiana została cofnięta"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nowy e-mail"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Logowanie z nieznanego urządzenia"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Odnośnik do strony"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Podziękowania"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Witaj!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Nawiązano połączenie z Wikidanymi"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Oznacz jako przeczytane"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Oznacz jako nieprzeczytane"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Więcej"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Powiadomienia"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Zaznacz wybrane powiadomienia"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Wzmianki"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Wiadomość"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Wiadomość powitalna"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Połączenie z Wikidanymi"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-mail od innego użytkownika"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "Próby logowania"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts_subtitle",
+      "value": "Nieudane próby logowania na Twoje konto"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "Zalogowano pomyślnie"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Inne"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Odnośnik do strony"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Podziękowania"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "Zmiana uprawnień użytkownika"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Wiadomość na stronie dyskusji"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Witaj"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Nowa aktywność w Wikipedii"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mld"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 mln"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 tys."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "Pomiędzy \\$1 a \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 wydarzenie historyczne|\\$1 wydarzenia historyczne|\\$1 wydarzeń historycznych}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Więcej wydarzeń historycznych w tym dniu"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Brak dostępnych danych"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 z \\$2 Wikipedii"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "W tym dniu..."
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Stuknij w 'W' żeby powrócić to początkowej karty"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "edycje bota"
+    },
+    {
+      "name": "page_history_compare_accessibility_hint",
+      "value": "Stuknij, aby wybrać dwie wersje do porównania"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Porównaj"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "drobne edycje"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autor: \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Historia wersji"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Drobna zmiana"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "Dodano {{PLURAL:\\$1|1 bajt|\\$1 bajty|\\$1 bajtów}}"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "Usunięto {{PLURAL:\\$1|1 bajt|\\$1 bajty|\\$1 bajtów}}"
+    },
+    {
+      "name": "page_history_revisions_comparison_warning",
+      "value": "Wybrane moga być tylko dwie wersje"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 edycja|\\$1 edycji}} od \\$2"
+    },
+    {
+      "name": "page_location",
+      "value": "Zobacz na mapie"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Nie masz uprawnień do edytowania tej strony"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Ta strona jest zabezpieczona"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Podobne strony"
+    },
+    {
+      "name": "panel_compare_revisions_text",
+      "value": "Porównanie wersji pomaga pokazać, jak artykuł zmieniał się na przestrzeni czasu. Porównanie dwóch wersji artykułu pokaże różnicę między tymi wersjami poprzez podświetlenie dowolnej treści, która została zmieniona."
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Porównaj wersje"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Nie jesteś zalogowany"
+    },
+    {
+      "name": "pictured",
+      "value": "z obrazkiem"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Wyczyść zapisane wyszukiwania"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artykułów"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Wyśrodkuj ponownie na swojej lokalizacji"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Pokaż jako listę"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Pokaż jako mapę"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Pokaż więcej artykułów"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Odkrywaj miasta, kraje, kontynenty, zabytki przyrody, wydarzenia historyczne, budynki i wiele innych."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "Wyszukaj artykuły w Wikipedii z lokalizacjami geograficznymi"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Włącz lokalizację"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Dostęp do Twojej lokalizacji jest dostępny tylko wtedy, gdy aplikacja lub jedna z jej funkcji jest widoczna na ekranie."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Odkryj artykuły niedaleko Twojej lokalizacji poprzez włączenie Usług lokalizacji"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Filtruj artykuły"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filtr"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Nie masz zapisanych miejsc"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Zapisane artykuły"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Najczęściej czytane"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|artykuł|artykuły|artykułów}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Najczęściej czytane artykuły"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Usługa lokalizacji włączona"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Żaden z twoich zapisanych artykułów nie ma informacji o lokalizacji"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Szukaj miejsc"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Czy chodziło Ci o \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Ostatnio wyszukiwane"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Wszystkie zapisane artykuły"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Proponowane wyszukiwania"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Wyniki w tym rejonie"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "Wszystkie najlepsze artykuły"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "W pobliżu"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Twoja aktualna lokalizacja"
+    },
+    {
+      "name": "places_title",
+      "value": "Miejsca"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "odległość nieznana"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Ilustracja dnia na \\$1"
+    },
+    {
+      "name": "potd_widget_description",
+      "value": "Ciesz się pięknym codziennym zdjęciem wybranym przez naszą społeczność."
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Grafika dnia"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Pozwól Fundacji Wikimedia zbierać informacje o tym, jak korzystasz z aplikacji, aby ją ulepszać"
+    },
+    {
+      "name": "profile_year_in_review_login_subtitle",
+      "value": "Zaloguj się lub utwórz konto, aby ponownie zobaczyć Podsumowanie roku i uzyskać dostęp do bardziej spersonalizowanych informacji."
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "Zaloguj się, aby uzyskać dostęp do Podsumowania roku"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidane"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikicytaty"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikiźródła"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiwersytet"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikipodróże"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wikisłownik"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Dodaj ten artykuł do listy do przeczytania?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "Dodać \"\\$1\" do listy czytania?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Tak, dodaj je do mojej listy"
+    },
+    {
+      "name": "reading_list_add_saved_subtitle",
+      "value": "W Twojej aplikacji w Wikipedii są zapisane artykuły. Czy chcesz je zachować i połączyć z listami do czytania zsynchronizowanymi z Twoim kontem?"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Znaleziono zapisane artykuły"
+    },
+    {
+      "name": "reading_list_api_error_entry_limit",
+      "value": "Wpis nie został zsynchronizowany, ponieważ osiągnięto limit liczby wpisów na tej liście."
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Wystąpił nieoczekiwany błąd podczas synchronizacji list do czytania."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Ta lista nie jest zsynchronizowana, ponieważ osiągnąłeś limit liczby zsynchronizowanych list."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Utwórz listę do czytania"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Opis"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Nazwa listy do czytania"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Utwórz nową listę"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Lista do czytania została usunięta"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nie, usuń artykuły z urządzenia"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Zmniejsz liczbę artykułów na tej liście do \\$1, aby wznowić synchronizację wszystkich artykułów na tej liście."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Przekroczyłeś limit {{PLURAL:\\$1|\\$1 artykułu|\\$1 artykułów}} na konto."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Artykuł nie może być dodany|Artykuły nie mogą być dodane}} do tej listy. Został osiągnięty limit \\$2 artykułów na listę dla \\$3"
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Nazwa listy została już użyta"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Wystąpił nieoczekiwany błąd podczas synchronizacji list do czytania."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Tak, zachowaj artykuły na urządzeniu"
+    },
+    {
+      "name": "reading_list_keep_subtitle",
+      "value": "Istnieją artykuły zsynchronizowane z Twoim kontem Wikipedia. Czy chcesz je zachować na tym urządzeniu po wylogowaniu?"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Zachować na urządzeniu zapisane artykuły?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sortuj artykuły"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_subtitle",
+      "value": "Istnieje limit 5000 nieposortowanych artykułów. Posortuj istniejące artykuły na listy, aby kontynuować synchronizowanie nieposortowanych artykułów."
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Limit trafień dla nieposortowanych artykułów"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_message",
+      "value": "Ta lista do czytania i zapisane na niej artykuły nie zostaną zsynchronizowane. Zmniejsz liczbę list do \\$1, aby wznowić synchronizację tej listy."
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Przekroczono limit {{PLURAL:\\$1|\\$1 lista czytelnicza |\\$1 list czytelniczych}} na konto."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Osiągnięto limit list czytania \\$1 na konto"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Zaloguj się, aby zsynchronizować Twoje zapisane artykuły"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Zaloguj się lub utwórz konto"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Zaloguj się, aby zsynchronizować zapisane artykuły"
+    },
+    {
+      "name": "reading_list_login_subtitle",
+      "value": "Zaloguj się lub utwórz konto, aby umożliwić synchronizację zapisanych artykułów i list do czytania na różnych urządzeniach i zapisać je w preferencjach użytkownika."
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Zsynchronizować zapisane artykuły?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_ [użytkownik utworzył]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "opcjonalny krótki opis"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "tytuł listy do czytania"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_message",
+      "value": "Synchronizacja listy czytania została wyłączona dla Twojego konta Wikipedia na innym urządzeniu. Możesz ponownie włączyć synchronizację, aktualizując ustawienia."
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Synchronizacja wyłączona"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Włącz synchronizację"
+    },
+    {
+      "name": "reading_list_sync_enable_subtitle",
+      "value": "Zapisane artykuły i listy do czytania można teraz zapisać na koncie w Wikipedii i zsynchronizować z aplikacjami Wikipedii."
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Włączyć synchronizację list czytelniczych?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_message",
+      "value": "Synchronizacja list do przeczytania jest włączona dla tego konta. Aby wyłączyć synchronizację list, zmień ustawienia."
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "Synchronizacja list do przeczytania jest włączona dla tego konta"
+    },
+    {
+      "name": "reading_list_unable_to_add_entry",
+      "value": "Wystąpił nieoczekiwany błąd podczas dodawania wpisu do listy rzeczy do przeczytania. Spróbuj ponownie później."
+    },
+    {
+      "name": "reading_list_unable_to_create",
+      "value": "Wystąpił nieoczekiwany błąd podczas tworzenia listy rzeczy do przeczytania. Spróbuj ponownie później."
+    },
+    {
+      "name": "reading_list_unable_to_delete",
+      "value": "Wystąpił nieoczekiwany błąd podczas usuwania listy rzeczy do przeczytania. Spróbuj ponownie później."
+    },
+    {
+      "name": "reading_list_unable_to_remove_entry",
+      "value": "Wystąpił nieoczekiwany błąd podczas usuwania pozycji z listy czytelniczej. Spróbuj ponownie później."
+    },
+    {
+      "name": "reading_list_unable_to_update",
+      "value": "Wystąpił nieoczekiwany błąd podczas aktualizowania listy czytelniczej. Spróbuj ponownie później."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artykuł dodany do “\\$1”"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Nie można zsynchronizować artykułu"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nie zsynchronizowane"
+    },
+    {
+      "name": "reading_lists_article_not_synced_article_limit_exceeded",
+      "value": "Limit artykułów przekroczony, nie można zsynchronizować artykułu"
+    },
+    {
+      "name": "reading_lists_article_not_synced_list_limit_exceeded",
+      "value": "Limit list przekroczony, nie można zsynchronizować artykułu"
+    },
+    {
+      "name": "reading_lists_article_queued_to_be_downloaded",
+      "value": "Artykuł zakolejkowany do pobrania"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_failed",
+      "value": "Przekroczono limit urządzenia, nie można zsynchronizować artykułu"
+    },
+    {
+      "name": "reading_lists_article_save_to_disk_recovery_suggestion",
+      "value": "Zwolnij trochę miejsca na urządzeniu i spróbuj ponownie"
+    },
+    {
+      "name": "reading_lists_articles_not_synced_limit_exceeded",
+      "value": "Nie można było zsynchronizować niektórych artykułów, limit przekroczony"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Domyślna lista dla Twoich zapisanych artykułów"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Zapisane"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "Usunąć {{PLURAL:\\$1|listę|listy}}?"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Listy nie zostały zsynchronizowane, przekroczono limit"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Sortuj zapisane artykuły"
+    },
+    {
+      "name": "reading_lists_sync_error_no_internet_connection",
+      "value": "Synchronizacja zostanie wznowiona, gdy połączenie internetowe będzie dostępne"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Czarny motyw"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Ciemny motyw"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Jasny motyw"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Motyw sepii"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Podświetlanie składni"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "Suwak rozmiaru tekstu"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Podświetlanie składni"
+    },
+    {
+      "name": "reference_section_button_accessibility_label",
+      "value": "Przejdź do sekcji referencyjnej"
+    },
+    {
+      "name": "reference_title",
+      "value": "Przypis \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Dzisiaj|1=Wczoraj|\\$1 dni temu}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Ostatnio|\\$1 godzinę temu|\\$1 godziny temu|\\$1 godzin temu}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h temu"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Przed chwilą|\\$1 minutę temu|\\$1 minuty temu|\\$1 minut temu}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m temu"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s temu"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Cofnięto edycję"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Wszystkie artykuły"
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Tej listy nie można usunąć"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Nie udało się pobrać obrazów dla tej zapisanej strony."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Trwa pobieranie artykułu..."
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Listy do przeczytania"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Wyszukaj zapisane artykuły"
+    },
+    {
+      "name": "saved_title",
+      "value": "Zapisane"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Szukaj w Wikipedii"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Wyczyść"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Szukaj w Wikipedii"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Usunąć wszystkie ostatnie wyszukiwania?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ta akcja nie może zostać cofnięta!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Usuń wszystko"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Brak ostatnich wyszukiwań"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Ostatnio wyszukiwane"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Przekierowanie z: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Wyszukiwanie"
+    },
+    {
+      "name": "serbian_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantów serbskich"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konto"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Preferencje czytania"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Wyczyść dane z pamięci podręcznej"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "Wyczyszczenie danych z pamięci podręcznej zwolni około \\$1 miejsca. Nie spowoduje to usunięcia zapisanych stron."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Czy wyczyścić dane z pamięci podręcznej?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Anuluj"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Wyczyść pamięć podręczną"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Pomoc i opinie"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Pokaż języki w wyszukiwarce"
+    },
+    {
+      "name": "settings_languages_feed_customization",
+      "value": "Możesz zarządzać językami, które są wyświetlane na Twoim kanale Eksploruj, dostosowując ustawienia kanału Eksploruj."
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Moje języki"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Powiadomienia push"
+    },
+    {
+      "name": "settings_notifications_echo_failure_message",
+      "value": "Wystąpił błąd podczas sprawdzania subskrypcji powiadomień związanych z Twoim kontem."
+    },
+    {
+      "name": "settings_notifications_echo_failure_title",
+      "value": "Nie można sprawdzić subskrypcji powiadomień Echo"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Spróbuj ponownie"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Główny"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Pierwszy język na tej liście jest używany jako podstawowy język aplikacji."
+    },
+    {
+      "name": "settings_search_footer_text",
+      "value": "Ustaw aplikację tak, aby otwierała się na karcie Szukaj zamiast na karcie Eksploruj"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "Otwórz aplikację na karcie Szukaj"
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_footer_text",
+      "value": "Zezwalaj Wikimedia na zapisywanie zapisanych artykułów i list do czytania zgodnie z preferencjami użytkownika podczas logowania i synchronizacji."
+    },
+    {
+      "name": "settings_storage_and_syncing_enable_sync_title",
+      "value": "Synchronizuj zapisane artykuły i listy"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Twoje listy do czytania zostaną zsynchronizowane w tle"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_footer_text",
+      "value": "Poproś o aktualizację zsynchronizowanych artykułów i list do czytania."
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Zaktualizuj zsynchronizowane listy czytania"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_footer_text",
+      "value": "Pokaż zapisaną (np. Domyślną) listę czytelniczą jako osobną listę w widoku list czytelniczych. Ta lista pojawia się na urządzeniach z Androidem."
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Pokaż zapisaną listę czytania"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Przechowywanie i synchronizacja artykułów"
+    },
+    {
+      "name": "settings_title",
+      "value": "Ustawienia"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Wykonane za pomocą aplikacji Wikipedia"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1” w Wikipedii:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "„\\$1” z „\\$1”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "„\\$1”\n\nz „\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Uzyskaj wskazówki"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Udostępnij..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "„\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "przez Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Otworzyć na Mapach"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” via Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "\"\\$1\" przez Wikipedię: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Ostatnio dodane"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Tytuł"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Sugerowane edycje"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Spis treści"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zamknij"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Zamknij spis treści"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Zawartości"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Ukryj spis treści"
+    },
+    {
+      "name": "tachelhit_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantów Tachelhit"
+    },
+    {
+      "name": "tajik_variants_alert_title",
+      "value": "Aktualizacje obsługi wariantów tadżyckich"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Dodaj wątek"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Zmień język"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Czytaj"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Nieprzeczytane"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Niespodziewany błąd"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Coś poszło nie tak."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Nie można wczytać strony dyskusji"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Rozwiń wątek"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Znajdź na stronie"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Otwórz wszystkie wątki"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Pamiętaj, wszyscy jesteśmy ludźmi"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Zachowuj się uprzejmie"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Twoja odpowiedź została pomyślnie opublikowana"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Twoja dyskusja została pomyślnie opublikowana"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Dyskusja o artykule"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Dyskusja użytkownika"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Czytaj więcej"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Twój komentarz został dodany"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Rozpocznij dyskusję"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Opis"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Dyskusja"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Czarny"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Ciemna"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Domyślnie"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Dopasowane do motywu systemowego"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Jasna"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Dowiedz się, co dziś czyta świat w Wikipedii."
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Kontynuuj logowanie"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Wprowadź kod weryfikacji dwuskładnikowej"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Zaloguj się na swoje konto"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Użyj jednego ze swoich kodów zapasowych"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Użyj kodu weryfikacyjnego"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Nie można wczytać strony dyskusji"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Nieznany"
+    },
+    {
+      "name": "user_title",
+      "value": "Użytkownik"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Ostrzeżenie"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nie, dziękuję"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Sprawdź swoje preferencje"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 miesiąc"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 tydzień"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 rok"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Stały"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 miesięcy"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 miesiące"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Strona użytkownika"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "Polecane lektury i codzienne artykuły z naszej społeczności"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Przeglądaj kanał"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "Cofnij się w czasie, aby dowiedzieć się, co wydarzyło się dzisiaj w historii"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "W tym dniu"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Odkrywaj punkty orientacyjne w pobliżu lub szukaj miejsc na całym świecie"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Rozpocznij"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nowe metody eksploracji"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Jasne"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "Wikipedia jest tworzona wspólnie przez wolontariuszy i składa się z ponad 40 milionów artykułów w ponad 300 językach."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Dowiedz się więcej o Wikipedii"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "O Wikipedii"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia to globalny projekt mający na celu tworzenie darmowych encyklopedii we wszystkich językach świata. Praktycznie każdy, kto ma dostęp do Internetu, może brać udział, przekazując neutralne, cytowane informacje."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Wolna encyklopedia"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Dodaj kolejny język"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Dodaj lub edytuj preferowane języki"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Na Twoim urządzeniu znaleźliśmy następujące języki:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Wyszukuj w ponad 300 językach"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "Dowiedz się, co wydarzyło się tego dnia w historii."
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Bezpłatna encyklopedia online, którą każdy może edytować"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Wikipedia, darmowa encyklopedia treści wiki, jest dostępna online."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Uzyskiwanie podglądu wprowadzonych zmian..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Ten link prowadzi do zewnętrznej strony internetowej: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Link zewnętrzny"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "W Wikipedii nie ma artykułu o dokładnie takiej nazwie"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Nie znaleziono linku wewnętrznego"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Ten link prowadzi do '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Podgląd linku"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Zapisz zmiany"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Błąd weryfikacji CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Potrzebna weryfikacja CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Nie można określić wyniku pobierania wiki tekstu."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publikowanie..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Zmiany będą oznaczone przez adres IP urządzenia. Jeśli \\$1się zalogujesz\\$2 otrzymasz wyższy poziom prywatności."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Zmiany będą oznaczone przez adres IP urządzenia. Jeśli \\$1, otrzymasz wyższy poziom prywatności."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Warunki użytkowania"
+    },
+    {
+      "name": "year_in_review_base_editors_subtitle",
+      "value": "Wolontariusze wprowadzili 555 647 zmian w ponad 300 wersjach językowych Wikipedii. Każdego dnia, o każdej godzinie wolontariusze pracują nad ulepszaniem Wikipedii."
+    },
+    {
+      "name": "year_in_review_base_edits_subtitle_updated",
+      "value": "W tym roku Wikipedia była edytowana średnio \\$1 razy na minutę. Artykuły są tworzone wspólnie i ulepszane przy użyciu wiarygodnych źródeł. Wszyscy mamy wiedzę do podzielenia się, [dowiedz się, jak wziąć w tym udział](\\$2)."
+    },
+    {
+      "name": "year_in_review_base_reading_subtitle_updated",
+      "value": "W tym roku Wikipedia miała ponad \\$1 milion artykułów w ponad \\$2 językach. Dołączyłeś(-aś) do milionów ludzi, poszerzających wiedzę i zgłębiających różnorodne tematy."
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Wikipedia była (i jest) dostępna w ponad 300 językach"
+    },
+    {
+      "name": "year_in_review_base_saved_subtitle",
+      "value": "Aktywni użytkownicy aplikacji iOS mieli w tym roku ponad 62,2 miliona list do przeczytania. Dodawanie do nich artykułów pozwala na czytanie ich nawet bez dostępu do internetu. Możesz się zalogować, aby synchronizować zawartość list między urządzeniami."
+    },
+    {
+      "name": "year_in_review_base_saved_title_updated",
+      "value": "Mieliśmy ponad \\$1 mln list do przeczytania"
+    },
+    {
+      "name": "year_in_review_collective_article_views",
+      "value": "Animowana ilustracja przedstawiająca ekran komputera z otwartą przeglądarką internetową i aktywnym przeglądaniem artykułu w Wikipedii."
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": " Ilustracja dwóch kawałków puzzli Wikipedii, z których każdy przenosi informację."
+    },
+    {
+      "name": "year_in_review_collective_languages",
+      "value": "Animowana ilustracja przedstawiająca kamień z wyrytymi inskrypcjami w różnych językach, symbolizującymi sposób, w jaki Wikipedia wspólnie gromadzi wiedzę z różnych kultur i regionów."
+    },
+    {
+      "name": "year_in_review_collective_saved_articles",
+      "value": "Kula z puzzli, opowiadająca logo Wikipedii, reprezentująca globalną współpracę."
+    },
+    {
+      "name": "year_in_review_feature_announcement_body",
+      "value": "Zobacz, jakie artykuły czytano i edytowano, oraz podziel się najważniejszymi wydarzeniami z naszego roku w Wikipedii."
+    },
+    {
+      "name": "year_in_review_feature_announcement_body_personalized",
+      "value": "Zobacz podsumowanie artykułów, które czytasz w aplikacji Wikipedii, podziel się swoją podróżą i odkryj najważniejsze wydarzenia z mijającego roku."
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "Zobacz Podsumowanie roku w Wikipedii"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "Zobacz swoje Podsumowanie roku w Wikipedii."
+    },
+    {
+      "name": "year_in_review_feature_explore_body",
+      "value": "Wikipedia jest największym zasobem wiedzy, jaki kiedykolwiek zgromadzono w historii świata i jest on dostępny swobodnie dla każdego, wszędzie. Oto przegląd 2024 roku przez pryzmat Wikipedii."
+    },
+    {
+      "name": "year_in_review_finish",
+      "value": "Zakończ"
+    },
+    {
+      "name": "year_in_review_personalized_donate_subtitle",
+      "value": "Dziękujemy za inwestowanie w przyszłość wolnej wiedzy. W tym roku Fundacja Wikimedia udoskonaliła technologię, aby lepiej służyła każdemu czytelnikowi i wolontariuszowi, pomagała we współpracy oraz wspierała Wikipedię w kolejnych językach. [Dowiedz się więcej o naszej pracy](\\$1)."
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Twoja hojność pomogła Wikipedii w dalszym rozwoju"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "Czytelnicy na całym świecie doceniają Twój wkład. W ciągu ostatnich 2 miesięcy artykuły, które edytowałeś(-aś), uzyskały łącznie \\$1 wyświetleń. Dzięki takim redaktorom jak Ty, Wikipedia jest stale rozwijającym się, opartym na faktach i wiarygodnym źródłem wiedzy dla świata"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_title_format_updated",
+      "value": "Twoje edycje zostały ostatnio wyświetlone więcej niż \\$1 razy"
+    },
+    {
+      "name": "year_in_review_personalized_explore",
+      "value": "Animowana ilustracja ręki trzymającej kulę Wikipedii, która stopniowo przekształca się w mały element układanki, symbolizujący indywidualny wkład w rozwój platformy."
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "Zapisałeś(-aś) {{PLURAL:\\$1|\\$1 artykuł|\\$1 artykuły|\\$1 artykułów}}"
+    },
+    {
+      "name": "year_in_review_personalized_user_edits",
+      "value": "Animowana ilustracja przedstawiająca bajty układające się jeden na drugim, symbolizujące nieustanne tworzenie wolnej wiedzy."
+    },
+    {
+      "name": "year_in_review_personalized_weekday",
+      "value": "Tykający zegar, symbolizujący czas spędzony przez ludzi czytających Wikipedię."
+    },
+    {
+      "name": "year_in_review_personalized_you_read",
+      "value": "Puzzel z logo Wikimedia wchodzący z lewej strony."
+    },
+    {
+      "name": "year_in_review_personalized_your_edits_views",
+      "value": "Ilustracja przedstawiająca puzzel Wikipedii obok długopisu."
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Neutralny"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Logo „W” Wikipedii"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Logo Fundacji Wikimedia"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Ponieważ czytasz"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Wszystkie najczęściej czytane artykuły"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Inny losowy artykuł"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Z %s Wikipedii"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Na %s Wikipedia"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Z Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Nie ma historii do pokazania"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Ukryj tę kartę"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Dostosuj kanał Eksploruj"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Karta ukryta"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Opis artykułu dla %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Czy chodziło Ci o %s?"
+    }
+  ]
+}

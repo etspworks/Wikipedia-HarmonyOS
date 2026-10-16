@@ -1,0 +1,5404 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lizenz vum Inhalt"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Wann et net anescht uginn ass, ass den Inhalt ënnert enger \\$1 disponibel."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative-Commons-Attribution-ShareAlike Lizenz"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Auteuren"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Benotzt Bibliothéiken"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Komplett Lëscht"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lizenz"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Mir appreciéieren Open Source Software \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Kaartelizenz vu „Plazen“"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "„Plazen“ benotzt Kaarte vun Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Kuckt wgl. hei fir Detailer iwwer d'Lizenz"
+    },
+    {
+      "name": "about_product_of",
+      "value": "E Produkt vun der \\$1 mat der Hëllef vu Fräiwëllege wéi Iech"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Quellcode disponibel ënner enger \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT-Lizenz"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Feedback vun der App schécken"
+    },
+    {
+      "name": "about_title",
+      "value": "Iwwer"
+    },
+    {
+      "name": "about_translators",
+      "value": "Iwwersetzer"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Vu Fräiwëllegen op \\$1 iwwersat"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Kënnt Dir d'Bild net gesinn? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "En neie CAPTCHA kréien."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Benotzerkont ufroen."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA-Sécherheets-Check"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Äre Benotzerkont uleeën"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Hutt Dir schonn e Benotzerkont? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Aloggen."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Aloggen..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Dir musst e Benotzernumm, e Passwuert an d'Confirmatioun vum Passwuert agi fir e Benotzerkont opzemaachen."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "D'Passwierder sinn net identesch."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Späicheren..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "En neie Benotzerkont uleeën"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Äre Benotzerkont"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Kont opléisen"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Är Diskussiounssäit"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Diskussiounen automatesch ënnerschreiwen"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Beim automateschen Ënnerschreiwe vun Diskussioune gëtt d'Ënnerschrëft benotzt, déi an den Ënnerschrëftastellungen definéiert ass"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Diskussiounssäitenastellungen"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Derbäisetzen op..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Op d'Lieslëscht setzen"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Op d'Lëscht setzen"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Ofbriechen"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Ännerung verwerfen"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Ännerunge verwerfen"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Op der Säit sichen"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Virufuere mat Änneren"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Sprooch wiesselen"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Réckelen op..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Op d'Lieslëscht réckelen"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Nächst Versioun"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Vireg Versioun"
+    },
+    {
+      "name": "action_read",
+      "value": "Liesen"
+    },
+    {
+      "name": "action_redo",
+      "value": "Widderhuelen"
+    },
+    {
+      "name": "action_remove",
+      "value": "Ewechhuelen"
+    },
+    {
+      "name": "action_retry",
+      "value": "Nach eng Kéier probéieren"
+    },
+    {
+      "name": "action_save",
+      "value": "Späicheren"
+    },
+    {
+      "name": "action_saved",
+      "value": "Gespäichert"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Gespäichert. Aktivéiere fir ze läschen."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artikel fir spéider gespäichert"
+    },
+    {
+      "name": "action_share",
+      "value": "Deelen"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Deelen"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sortéieren"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Dem Benotzer Merci soen"
+    },
+    {
+      "name": "action_undo",
+      "value": "Réckgängeg maachen"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Läschen"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikel net gespäichert"
+    },
+    {
+      "name": "action_update",
+      "value": "Aktualiséieren"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Setzt virgeschloe Biller a Wikipedia-Artikelen derbäi fir d'Verständnis ze verbesseren."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Biller derbäisetzen"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Wëllt Dir nach eppes soen?"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|\\$1 Opruff|\\$1 Opriff}}"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Artikelen, déi dëse Mount gelies goufen"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Artikelen"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "Gesamtimpakt"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Ännerungsablécker"
+    },
+    {
+      "name": "activity_tab_customize_empty_state",
+      "value": "D'Aktivitéitsmoduler sinn desaktivéiert. \\$1Aktivéiert se\\$2 fir Aktualiséierungen an dësem Tab ze gesinn."
+    },
+    {
+      "name": "activity_tab_customize_footer",
+      "value": "D'Liesablécker ginn op Basis vun Ären App-Sproochen aus den Astellunge generéiert an d'Ännerungsablécker sinn op d'Haaptsprooch vun Ärer App limitéiert. D'Ablécker baséieren op lokalen Donnéeën, mat Ausnam vun den Ännerungen, déi ëffentlech sinn."
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "Leschten Don iwwer d'App"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "Dir musst ageloggt sinn, fir dësen Aktivitéitsabléck z'aktivéieren."
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "Liesablécker"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "Lieszäit"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[Screenshotten oder Linken]"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "Näischt fir ze weisen"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "Gesamtimpakt"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 Dag|\\$1 Deeg}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "bescht Serie"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "Ännerungen"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "fir d'lescht geännert"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Är rezent Aktivitéit (lescht 30 Deeg)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "Vum \\$1 bis de(n) \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "Mercien"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "Ännerungen insgesamt"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Dag"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "Opriff vun Artikelen, déi Dir geännert hutt"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Opriff"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "Loggt Iech an oder leet e Kont un, fir méi Ännerungs- a Liesaktivitéiten ze gesinn."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Loggt Iech an oder leet e Kont un, fir Är Aktivitéit an der Wikipedia-App ze gesinn."
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Méi Lies- an Ännerungsablécker weisen"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Lieshistorique eidel maachen"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "Meeschtgekuckt zanter Ärer Ännerung"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Neutral"
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "Är Liesaktivitéit"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "Kuckt Iech un, wéi vill Zäit Dir mat Liese verbruecht hutt a wat fir Artikelen oder Theemen Dir iwwer d'Zäit exploréiert hutt."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Liesgewunnechten"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "Sicht eraus, wat fir Moduler ugewise solle ginn. All perséinlech Donnéeë bleiwe privat op Ärem Apparat an de Browsing-Historique kann zu all Moment geläscht ginn."
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Behaalt alles am Grëff"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "Mir presentéieren: „Aktivitéit“"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "Méi iwwer „Aktivitéit“ gewuer ginn"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_subtitle",
+      "value": "Entdeckt Ablécker iwwer Är Kontributiounen an d'Reechwäit vum Wëssen, dat Dir gedeelt hutt."
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "Impakt-Highlights"
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Lies-Historique weisen"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Zefridden"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Artikelen, déi dëse Mount gespäichert goufen"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Ufänke mat Änneren"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "Zefriddenheetsëmfro"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "Lieszäit dës Woch"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Aktivitéit"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "Top-Kategorien dëse Mount"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "Ännerungen op alle Projeten insgesamt"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Onzefridden"
+    },
+    {
+      "name": "activity_tab_usernames_reading_title",
+      "value": "Liesaktivitéit vum \\$1"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Ganz zefridden"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Ganz onzefridden"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Historique vun den Ännerunge weisen"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Lies-Historique weisen"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Gespäichert Artikele weisen"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Woch"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Dir hutt dës Woch {{PLURAL:\\$1|\\$1 Ännerung|\\$1 Ännerunge}} gemaach."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Dir hutt dës Woch {{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikele}} gelies."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Dir hutt dës Woch {{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikele}} gespäichert."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Ären Impakt"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|Een Artikel|\\$1 Artikelen}} op d'Lieslëscht derbäisetzen"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Erweidert Astellungen"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Dir benotzt en temporäre Kont. De Kont leeft an 90 Deeg of."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Méi gewuer ginn."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Feedback ofgeschéckt"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Verwerfen"
+    },
+    {
+      "name": "app_onboarding_data_privacy_links_format",
+      "value": "Gitt méi iwwer eis \\$1 a(n) \\$2 gewuer"
+    },
+    {
+      "name": "app_onboarding_data_privacy_policy_link",
+      "value": "Dateschutzrichtlinnen"
+    },
+    {
+      "name": "app_onboarding_data_privacy_terms_link",
+      "value": "Benotzungsbedingungen"
+    },
+    {
+      "name": "app_onboarding_feed_preference_in_the_news",
+      "value": "An den Neiegkeeten"
+    },
+    {
+      "name": "app_onboarding_feed_preference_personalized_disabled",
+      "value": "Dir musst Interessen derbäisetzen, fir personaliséiert Recommandatioune fir Contenu ze kréien. Dir kënnt dat an de virege Schrëtter maachen oder méi spéit an den Astellungen."
+    },
+    {
+      "name": "app_onboarding_feed_preference_personalized_option",
+      "value": "Personaliséierte Contenu"
+    },
+    {
+      "name": "app_onboarding_feed_preference_picture_of_the_day",
+      "value": "Bild vum Dag"
+    },
+    {
+      "name": "app_onboarding_feed_preference_title",
+      "value": "Wat wëllt Dir fir d'éischt gesinn?"
+    },
+    {
+      "name": "app_onboarding_intro_body",
+      "value": "Wikipedia ass eng fräi Online-Enzyklopedie mat 65 Milliounen Artikelen, déi vun enger Communautéit vu Fräiwëllegen op méi wéi 300 Sprooche kollaborativ geschriwwen an a Stand gehale ginn."
+    },
+    {
+      "name": "app_onboarding_intro_learn_more",
+      "value": "Méi iwwer Wikipedia gewuer ginn"
+    },
+    {
+      "name": "app_onboarding_intro_title",
+      "value": "All d'Wësse vun der Welt"
+    },
+    {
+      "name": "app_onboarding_languages_add_edit",
+      "value": "Är Sproochen derbäisetzen oder änneren"
+    },
+    {
+      "name": "app_onboarding_languages_notice",
+      "value": "Op Ärem Apparat hu mir dës Sprooche fonnt:"
+    },
+    {
+      "name": "app_onboarding_languages_primary_label",
+      "value": "Primär"
+    },
+    {
+      "name": "app_onboarding_loading_title",
+      "value": "Loosst eis Äre Feed opbauen…"
+    },
+    {
+      "name": "app_onboarding_page_indicator",
+      "value": "Säit \\$1 vu(n) \\$2"
+    },
+    {
+      "name": "app_onboarding_personalization_body_2",
+      "value": "Mir sammele minimal Donnéeën, déi anonymiséiert sinn."
+    },
+    {
+      "name": "app_onboarding_personalization_title",
+      "value": "Gitt Ärem Virwëtz no"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedia, Referenz, Wiki, Enzyklopedie, Info, Wëssen, Fuerschung, Informatioun, Entdecken, Léieren"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Luet d'Wikipedia-App erof, fir Plazen an Ärer Géigend z'entdecken, Artikelen ze synchroniséieren, sou datt Dir se offline liese kënnt, a fir Äert Lieserliefnes unzepassen."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Déi fräi Enzyklopedie"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Tabellen opklappen"
+    },
+    {
+      "name": "appearance_settings_icon_contributor_title",
+      "value": "Contributeur"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabellenastellungen"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "App-Symbol"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Iwwer dësen Artikel"
+    },
+    {
+      "name": "article_delete",
+      "value": "Läschen"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|Artikel|Artikele}} geläscht"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Sprooch fannen"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Sprooch eraussichen"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Aner Sproochen"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Är Sprooch"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Liest méi"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Referenz \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "Zeréck op: \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Versiounshistorique vum Artikel"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Dir hutt net genuch op Ärem Apparat fir dësen Artikel ze späicheren"
+    },
+    {
+      "name": "article_share",
+      "value": "Deelen"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "Tabs erënnere sech automatesch un Är Scrollpositioun."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "Fuert do virun, wou Dir opgehal hutt"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "Maacht Linken an Hannergrondtabs op, ouni Är Positioun ze verléieren."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "Linke fir méi spéit späicheren"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "Personaliséiert Ären neien Tab"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "Méi iwwer Tabs gewuer ginn"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Tabs-Navigatioun"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Opmaachen"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "An engem Hannergrond-Tab opmaachen"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "An engem neien Tab opmaachen"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Diskussiounssäit vum Artikel"
+    },
+    {
+      "name": "article_topic_africa",
+      "value": "Afrika"
+    },
+    {
+      "name": "article_topic_architecture",
+      "value": "Architektur"
+    },
+    {
+      "name": "article_topic_art",
+      "value": "Konscht"
+    },
+    {
+      "name": "article_topic_asia",
+      "value": "Asien"
+    },
+    {
+      "name": "article_topic_biography",
+      "value": "Biografien (all)"
+    },
+    {
+      "name": "article_topic_biology",
+      "value": "Biologie"
+    },
+    {
+      "name": "article_topic_business_and_economics",
+      "value": "Geschäft an Ekonomie"
+    },
+    {
+      "name": "article_topic_central_america",
+      "value": "Mëttelamerika"
+    },
+    {
+      "name": "article_topic_chemistry",
+      "value": "Chimie"
+    },
+    {
+      "name": "article_topic_comics_and_anime",
+      "value": "Comics an Anime"
+    },
+    {
+      "name": "article_topic_computers_and_internet",
+      "value": "Computer an Internet"
+    },
+    {
+      "name": "article_topic_earth_and_environment",
+      "value": "Äerd an Ëmwelt"
+    },
+    {
+      "name": "article_topic_education",
+      "value": "Educatioun"
+    },
+    {
+      "name": "article_topic_engineering",
+      "value": "Ingenieurswiesen"
+    },
+    {
+      "name": "article_topic_entertainment",
+      "value": "Ënnerhalung"
+    },
+    {
+      "name": "article_topic_europe",
+      "value": "Europa"
+    },
+    {
+      "name": "article_topic_fashion",
+      "value": "Moud"
+    },
+    {
+      "name": "article_topic_food_and_drink",
+      "value": "Iessen a Gedrénks"
+    },
+    {
+      "name": "article_topic_general_science",
+      "value": "Allgemeng Wëssenschaft"
+    },
+    {
+      "name": "article_topic_history",
+      "value": "Geschicht"
+    },
+    {
+      "name": "article_topic_literature",
+      "value": "Literatur"
+    },
+    {
+      "name": "article_topic_mathematics",
+      "value": "Mathematik"
+    },
+    {
+      "name": "article_topic_medicine_and_health",
+      "value": "Medezin a Gesondheet"
+    },
+    {
+      "name": "article_topic_military_and_warfare",
+      "value": "Militär a Krich"
+    },
+    {
+      "name": "article_topic_music",
+      "value": "Musek"
+    },
+    {
+      "name": "article_topic_north_america",
+      "value": "Nordamerika"
+    },
+    {
+      "name": "article_topic_oceania",
+      "value": "Ozeanien"
+    },
+    {
+      "name": "article_topic_philosophy_and_religion",
+      "value": "Philosophie a Relioun"
+    },
+    {
+      "name": "article_topic_physics",
+      "value": "Physik"
+    },
+    {
+      "name": "article_topic_politics_and_government",
+      "value": "Politik a Regierung"
+    },
+    {
+      "name": "article_topic_society",
+      "value": "Gesellschaft"
+    },
+    {
+      "name": "article_topic_south_america",
+      "value": "Südamerika"
+    },
+    {
+      "name": "article_topic_sports",
+      "value": "Sport"
+    },
+    {
+      "name": "article_topic_technology",
+      "value": "Technologie"
+    },
+    {
+      "name": "article_topic_transportation",
+      "value": "Transport"
+    },
+    {
+      "name": "article_topic_tv_and_film",
+      "value": "Televisioun a Filmer"
+    },
+    {
+      "name": "article_topic_video_games",
+      "value": "Computerspiller"
+    },
+    {
+      "name": "article_topic_women",
+      "value": "Biografien (Fraen)"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Den temporäre Kont \\$1 gouf no der Verëffentlechung vun Ärer Ännerung ugeluecht. E wäert an 90 Deeg oflafen."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Temporäre Kont ugeluecht"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Zeréck"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Tippe fir zréckzegoen"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Zeréck goen"
+    },
+    {
+      "name": "button_next",
+      "value": "Weider"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Verëffentlechen"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Trotzdeem publizéieren"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "E Feeler mellen"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Fir spéider späicheren"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Fir spéider gespäichert"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Vu gespäichert ewechhuelen"
+    },
+    {
+      "name": "button_skip",
+      "value": "Iwwersprangen"
+    },
+    {
+      "name": "cancel",
+      "value": "Ofbriechen"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Eidel maachen"
+    },
+    {
+      "name": "clearing_cache_error",
+      "value": "Feeler beim eidel Maache vum Cache."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "All Tabs zoumaachen"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Wëllt Dir all \\$1 Tabs zoumaachen? Dës Aktioun kann net réckgängeg gemaach ginn."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "All \\$1 Tabs zoumaachen?"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "Wëllt Dir {{PLURAL:\\$1|\\$1 Tab|\\$1 Tabs}} zoumaachen? Dës Aktioun kann net réckgängeg gemaach ginn."
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 Tab|\\$1 Tabs}} zoumaachen?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zoumaachen"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Aner Tabs zoumaachen"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Tab zoumaachen?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Tabs zoumaachen"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 Tab|\\$1 Tabs}} zougemaach."
+    },
+    {
+      "name": "collect_prize_title",
+      "value": "Sammelt Äre Präis an!"
+    },
+    {
+      "name": "compass_direction",
+      "value": "um \\$1 Auer"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Dat gëllt just fir Donen, déi vun dësem Apparat aus gemaach ginn."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Läsche confirméieren"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Lokalen Historique geläscht"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Virufueren"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Wikipedia fir méi Artikelen entdecken"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Keng rezent geliesen Artikelen"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "Kontributiounen dëse Mount"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Upassen"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Aktualiséieren..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Beschreiwung derbäisetzen"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Artikelbeschreiwung fir \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Andeems ech d'Artikelbeschreiwung änneren, erklären ech mech mat de \\$1 averstanen an domat, datt meng Kontributiounen ënner der Lizenz \\$2 verëffentlecht gëtt an dat net widderruff ka ginn."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Aleedung änneren"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Artikelbeschreiwung änneren"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Kuerz Beschreiwunge sinn am beschten"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Beschreiwung verëffentlechen"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Beschreiwung änneren"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Probéiert d'Beschreiwunge kuerz ze halen, sou datt Benotzer d'Theema vum Artikel op ee Bléck erkenne kënnen"
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Den temporäre Kont \\$1 gouf no der Verëffentlechung vun Ärer Ännerung ugeluecht. E wäert an 90 Deeg oflafen."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Artikelbeschreiwunge resüméieren een Artikel, sou datt d'Lieser d'Theema op ee Bléck erkenne kënnen."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Iwwer"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Iwwer Wikidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Méi Informatiounen"
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "Artikelbeschreiwung fir en Artikel iwwert d'Mona Lisa"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "Artikelbeschreiwung fir en Artikel iwwer de Mount Everest"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Tablo vum Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "héchste Bierg vun der Welt"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Zum Beispill:"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Hëllef fir d'Artikelbeschreiwung"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Wikidata-Guide fir Beschreiwungen ze schreiwen"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Fäerdeg"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Dir hutt grad d'Wikipedia fir jidderee besser gemaach"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Beschreiwung verëffentlecht!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealerweis eng Zeil, tëscht zwee an zwielef Wierder"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Haalt Iech kuerz"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Resuméiert en Artikel fir dem Lieser ze hëllefen de Sujet op ee Bléck ze verstoen"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Artikelbeschreiwungen"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Ufänke mat Änneren"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Entwécklerastellungen"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "Joresréckbléck aktivéieren"
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Versiounshistorique vum Artikel"
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_down",
+      "value": "Abschnitt {{PLURAL:\\$1|0=0 Zeilen|\\$1 Zeil|\\$1 Zeilen}} no ënne geréckelt. Op déi nei Positioun goen."
+    },
+    {
+      "name": "diff_change_paragraph_lines_moved_up",
+      "value": "Abschnitt {{PLURAL:\\$1|0=0 Zeilen|\\$1 Zeil|\\$1 Zeilen}} erop geréckelt. Op déi nei Positioun goen."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Abschnitt geréckelt. Op déi vireg Positioun goen."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Vireg Ännerung"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Versioune vergläichen"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Gewisen Ännerung"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Versioune vergläichen"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Inhalt derbäigesat, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Inhalt ewechgeholl, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 zouklappen"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 opklappen"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Weisen"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Verstoppen"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Zeile(n) \\$1–\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Abschnitt geréckelt"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "erof"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "erop"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 Zeil|\\$1 Zeilen}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 Abschnitt|\\$1 Abschnitter}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Abschnitt \\$2 \\$1 geréckelt"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Versioun konnt net geluede ginn"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Zerécksetzen"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Sidd Dir sécher, datt Dir dës Ännerungen zrécksetze wëllt?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Ännerungen zerécksetzen"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Ännerungen zréckgesat."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 Ännerung|\\$1 Ännerungen}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 Byte derbäigesat}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 Byte ewechgeholl}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Resümmee vun der Ännerung"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Aféierung"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Zeil \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Anonym Benotzer kënne kee Merci kréien"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "E „Merci“ ass eng einfach Manéier, fir auszedrécken, datt een engem Editeur seng Aarbecht op der Wikipedia appreciéiert. Dir musst ageloggt sinn, fir e „Merci“ schécken ze kënnen."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Mellt Iech u fir e „Merci“ ze schécken"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "„Merci“ schécken"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "E „Merci“ ass eng einfach Manéier, fir auszedrécken, datt een engem Editeur seng Aarbecht op der Wikipedia appreciéiert. E „Merci“ kann net réckgängeg gemaach ginn an ass ëffentlech siichtbar."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "„Merci“ ëffentlech schécken"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Äre „Merci“ gouf dem \\$1 geschéckt"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Dir hutt schonn e „Merci“ fir dës Ännerung geschéckt"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Mercie kënnen net zréckgeholl ginn"
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "D'Versioun gouf réckgängeg gemaach."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 Zeil net geännert|\\$1 Zeilen net geännert}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "Duebel tippe fir de Menü opzemaachen"
+    },
+    {
+      "name": "dim_images",
+      "value": "Biller dimmen"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "Duebel tippe fir de Betrag vum Don ze wielen."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Duebel tippe fir \\$1 un d'Wikimedia Foundation ze spenden."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "Duebel tippe fir der Wikimedia Foundation z'erlaben Iech E-Mailen ze schécken."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Jo, d'Wikimedia Foundation däerf mir heiansdo eng E-Mail schécken."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Dacks gestallte Froen"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Aner Méiglechkeete fir en Don ze maachen"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Problemer beim Spenden?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Informatiounen iwwer d'steierlech Ofsetzbarkeet"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "Lokalen Historique vun den Done läschen"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Mir erënneren Iech muer nach eng Kéier."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Mir kënnen iwwer eis Websäit keng Donen iwwer \\$2 \\$1 akzeptéieren. Kontaktéiert wgl. eist Personal fir gréisser Done iwwer benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Wielt wgl. ee Betrach (mindestens \\$2 \\$1)."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Iwwer Apple Pay bezuelen"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Spend iwwer Apple Pay oder wielt eng aner Bezuelmethod."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Aner Bezuelmethod"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Iwwer Apple Pay spenden?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Är Generositéit bedeit eis vill."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Merci!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Wielt ee Betrag"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Text weisen"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Linkzil"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Link ewechhuelen"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Link änneren"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Änneren"
+    },
+    {
+      "name": "edit_minor_learn_more_text",
+      "value": "Méi iwwer kleng Ännerunge gewuer ginn"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Dëst ass eng kleng Ännerung"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Ännerungshiweiser"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Ännerungshiweiser ëmmer uweisen"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Wgl. virum ännere liesen"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "E Resümmee vun der Ännerung derbäisetzen"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Bild derbäigesat"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Bild a Beschrëftung derbäigesat"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Grammaire verbessert"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Tippfeeler verbessert"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Linken derbäigesat"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Wéi hutt Dir den Artikel verbessert?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Kuerzbeschreiwung derbäigesat"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Kuerzbeschreiwung aktualiséiert"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Méi iwwer Är Iwwerwaachungslëscht gewuer ginn"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Dës Säit iwwerwaachen"
+    },
+    {
+      "name": "edited_article",
+      "value": "Geännert"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Är Stëmm ass wichteg"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Är Ännerung gouf verëffentlecht."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Quelltext änneren"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Sidd Dir sécher, datt Dir den Ännerungsmodus verloosse wëllt, ouni virdrun ze verëffentlechen?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Sidd Dir sécher, datt Dir dës Ännerung verwerfe wëllt?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Sichen eidelmaachen"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Sichen zoumaachen"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Nächst Sichresultat"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Viregt Sichresultat"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Sichen"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Fett"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Kommentar"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Iwwerschrëft"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Indentéierung verklengeren"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Indentéierung vergréisseren"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursiv"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Link"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Sortéiert Lëscht"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Onsortéiert Lëscht"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Abschnitt"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Referenz"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Duerchsträichen"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Ënneriwwerschrëft 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Ënneriwwerschrëft 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Ënneriwwerschrëft 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Ënneriwwerschrëft 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Déifgestallt"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Héichgestallt"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Schabloun"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Textformatéierung"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Ënnersträichen"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Ersetzen"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Ersetzen duerch..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "All ersetzen"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "All Instanzen ersetzen"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Ersetzen"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Eenzel Instanz ersetzen"
+    },
+    {
+      "name": "editor_title",
+      "value": "Editeur"
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Op der Säit sichen"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wikitext-Editeur"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "Ännerungen de leschte Mount"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "Ännerungen dëse Mount"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Keen Ënnerscheed tëscht de Versiounen"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Eidele Resümmee vun der Ännerung"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "E Fichier op Wikimedia Commons eraussichen"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Leider konnt den Artikel net geluede ginn"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Dir kënnt trotzdem gespäichert Säite liesen"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Dir kënnt Är recommandéiert Artikele gesi wann Dir Internet hutt."
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Behaalt eng Trace vun deem wat Dir hei gelies hutt"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Keen Historique vu Versioune weisen"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Dësen Artikel gouf nach op kenger anerer Sprooch geschriwwen"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Keng aner Sprooch disponibel"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Späichert Säiten an dëser Lëscht fir se hei ze gesinn"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "An dëser Lëscht si keng Säite gespäichert"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Säite späichere fir se spéider offline ze kucken"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Nach keng gespäichert Säiten"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Näischt fonnt"
+    },
+    {
+      "name": "end_session",
+      "value": "Sessioun ofschléissen"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Probéiert wgl. méi spéit nach eng Kéier"
+    },
+    {
+      "name": "error_unknown",
+      "value": "En onbekannte Feeler ass geschitt"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "En aneren zoufällegen Artikel"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Well Dir dat gelies hutt"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Virufuere mat Liesen"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Zréck op den Entdecke-Feed"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Entdeckt Artikelen an der aktueller Noperschaft."
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Recommandéierten Artikel"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Vu Wikipedia op \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Vu Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Upassen"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Sproochastellunge vum Entdecke-Feed"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Zousätzlech Sprooche kënnen op der Astellungssäit „Meng Sproochen“ derbäigesat ginn."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Kaart verstoppt"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Den Entdecke-Feed personaliséieren"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Entdecke-Feed personaliséieren"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Artikel vum Dag op Wikipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Aus"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Fir all un"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Un"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Fir \\$1 un"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "All \\$1 Kaarte si verstoppt"
+    },
+    {
+      "name": "explore_feed_preferences_games_title",
+      "value": "„Spiller“-Kaart weisen"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Dës Kaart ass net sproochspezifesch, wann Dir dës Kaart ausmaacht, gëtt se aus Ärem Entdecke-Feed erausgeholl."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Net-sproochespezifesch Kaarten"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Net sproochspezifesch"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Global Kaarten"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Dës Kaart verstoppen"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "All „\\$1“-Kaarte verstoppen"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Artikelen iwwer aktuell Evenementer"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Wann Dir all d'Kaarte vum Entdecke-Feed fir all Sprooche verstoppt, gëtt den Entdecken-Tab desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Evenementer an der Vergaangenheet op dësem Dag"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedia-Artikel an Ärer Géigend"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Zoufälleg Artikele fir ze liese generéieren"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Virschléi op basis vum Lieshistorique"
+    },
+    {
+      "name": "explore_feed_preferences_show_games_footer_text",
+      "value": "Wann Dir d'Kaart „Spiller“ desaktivéiert, da gëtt d'Kaart fir all disponibel Sprooch desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Wann Dir d'Kaart „An den Neiegkeeten“ desaktivéiert, da gëtt d'Kaart fir all déi disponibel Sproochen desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Kaart „An den Neiegkeeten“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Wann Dir d'Kaart „Op dësem Dag“ desaktivéiert, da gëtt d'Kaart fir all déi disponibel Sproochen desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Kaart „Op dësem Dag“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Kaart „Bild vum Dag“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Wann Dir d'Kaart „Plazen“desaktivéiert, da gëtt d'Kaart fir all déi disponibel Sproochen desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Kaart „Plazen“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Wann Dir d'Kaart „Zoufallsgenerator“ desaktivéiert, da gëtt d'Kaart fir all disponibel Sprooch desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Kaart „Zoufallsgenerator“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Kaart „Well Dir dat gelies hutt“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Wann Dir d'Kaart „Am dackste gelies“ desaktivéiert, da gëtt d'Kaart fir all déi disponibel Sproochen desaktivéiert."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Kaart „Am dackste gelies“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Virschléi fir Inhalt op Wikipedia derbäizesetzen"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Kaart „Ännerungsvirschléi“ weisen"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Entdecke-Feed desaktivéieren"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Wann Dir all d'Kaarte vum Entdecke-Feed verstoppt, gëtt den Entdecken-Tab desaktivéiert an duerch en Astellungen-Tab ersat"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Entdecke-Feed desaktivéieren?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Entdecken desaktivéieren"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Den Entdecken-Tab kann an den Astellunge vum Entdecke-Feed erëm aktivéiert ginn"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Den Entdecken-Tab desaktivéieren?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Wann Dir den Entdecken-Tab desaktivéiert, gëtt den Entdecken-Tab duerch en Astellungen-Tab ersat."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Wann Dir Kaarte vum Entdecke-Feed weise wëllt, aktivéiert Dir den Explore-Tab"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Entdecken aktivéieren"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Heiduerch gëtt den Astellungen-Tab duerch den Entdecken-Tab ersat. Dir kënnt op d'Astellungen zougräifen, andeems Dir am Entdecken-Tab uewen op d'Zännradsymbol tippt."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Den Entdecken-Tab aktivéieren?"
+    },
+    {
+      "name": "explore_games_title",
+      "value": "Spiller"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Dës Kaart verstoppen"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Haaptsäit vun de Wikimedia-Projeten"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Haut op Wikipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Déi am dackste geliesten Artikelen"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Am dackste gelies"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Déi beléifst de(n) \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Op der Wikipedia op \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Op Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Plazen nobäi"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Plazen"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Vu Wikipedia op \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Vu Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Är Plaz"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Är Positioun vun der Wikipedia op \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Bild vum Dag"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Vu Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Zoufällegen Artikel"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Vu Wikipedia op \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Vu Wikipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Zoufallsgenerator"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Derbäisetzen"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Setzt virgeschloe Biller a Wikipedia-Artikelen derbäi fir d'Verständnis ze verbesseren."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "E Bild derbäisetzen"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Benotzerdaten exportéieren"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Vun der Wikipedia op \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Vun der Wikipedia"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Et ass eppes schifgaangen. Probéiert wgl. méi spéit nach eng Kéier."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "D'App krut eng onerwaart Äntwert vum Server. Probéiert wgl. méi spéit nach eng Kéier."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Ongültege CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "D'Passwierder, déi Dir aginn hutt, sinn net identesch"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ongültege Code"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Benotzernumm net disponibel"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Backup-Code"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "E-Mail-Code"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-Text"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Gitt den Text an, deen Dir hei driwwer gesitt"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "beispill@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-Mail"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-Mail (Fakultativ)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "neit Passwuert nees aginn"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Neit Passwuert confirméieren"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "neit Passwuert aginn"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Neit Passwuert"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "Passwuert nees aginn"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Passwuert confirméieren"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Passwuert aginn"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Passwuert"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Verificatiouns-Code"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Benotzernumm aginn"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Benotzernumm"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "All"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Sichen eidelmaachen"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Nächst Sichresultat"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Viregt Sichresultat"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Sichen an Ersetzen"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Sichen an Ersetzen zoumaachen"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Sichen"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Zerécksetzen"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "Eng E-Mail mat Instruktioune wéi d'Passwuert zréckgesat gi kann, gouf gschéckt"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Passwuert zerécksetzen"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Oder"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "Spillen"
+    },
+    {
+      "name": "games_announcement_title",
+      "value": "„Wat koum als éischt?“ spillen"
+    },
+    {
+      "name": "games_wcf_button_play_title",
+      "value": "Spill vum Dag spillen"
+    },
+    {
+      "name": "games_wcf_explore_button_review_title",
+      "value": "Resultater nokucken"
+    },
+    {
+      "name": "games_wcf_explore_complete_subtitle",
+      "value": "Dir krut \\$1/\\$2 Punkten am Spill vun haut. Dat nächst Spill fänkt a(n) \\$3 un"
+    },
+    {
+      "name": "games_wcf_explore_in_progress_subtitle",
+      "value": "Dir sidd bei der Fro Nr. \\$1. Rot weider, wateren Evenement als éischt op dësem Dag an der Geschicht koum."
+    },
+    {
+      "name": "games_wcf_explore_title",
+      "value": "Wat koum als éischt?"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Sidd Dir sécher, datt Dir all Är rezent Elementer läsche wëllt?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Jo, all läschen"
+    },
+    {
+      "name": "history_title",
+      "value": "Versiounen"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "Wikipedia, zeréck bei d'Entdecken"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "Wikipedia, zréck op Gespäichert"
+    },
+    {
+      "name": "home_community_empty_feed_button_title",
+      "value": "De Feed upassen"
+    },
+    {
+      "name": "home_community_tab_title",
+      "value": "Communautéit"
+    },
+    {
+      "name": "home_edit_languages_title",
+      "value": "Sproochen derbäisetzen oder änneren"
+    },
+    {
+      "name": "home_feed_for_you_based_on_interests_title",
+      "value": "Op Basis vun Ären Interessen"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_subtitle",
+      "value": "Virschléi op Basis vun engem rezenten Artikel aus Ärem Historique"
+    },
+    {
+      "name": "home_feed_for_you_because_you_read_title",
+      "value": "Well Dir dat gelies hutt"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_subtitle",
+      "value": "Gitt zeréck op Artikelen, déi Dir net fäerdeg gelies hutt"
+    },
+    {
+      "name": "home_feed_for_you_continue_reading_title",
+      "value": "Viruliesen"
+    },
+    {
+      "name": "home_feed_for_you_settings_header",
+      "value": "Wann Dir e Modul desaktivéiert, da gëtt et an Ärem „Fir Iech“-Feed verstoppt. Dir kënnt zu all Moment erëm hei reaktivéieren."
+    },
+    {
+      "name": "home_feed_for_you_settings_title",
+      "value": "Moduler"
+    },
+    {
+      "name": "home_feed_interests_deselect_all",
+      "value": "Auswiel ophiewen"
+    },
+    {
+      "name": "home_feed_interests_header_title",
+      "value": "Wat interesséiert Iech?"
+    },
+    {
+      "name": "home_feed_interests_non_mainspace_toast",
+      "value": "Nëmmen Artikelen am Haaptnummraum kënnen als Interessen derbäigesat ginn."
+    },
+    {
+      "name": "home_feed_interests_search_placeholder",
+      "value": "No engem Artikel sichen"
+    },
+    {
+      "name": "home_feed_interests_selected_count",
+      "value": "{{PLURAL:\\$1|\\$1 ausgewielt}}"
+    },
+    {
+      "name": "home_feed_interests_settings_empty_message",
+      "value": "Är Interesse kommen heihinner stoen"
+    },
+    {
+      "name": "home_feed_interests_settings_title",
+      "value": "Är Interessen"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_subtitle",
+      "value": "Artikelen, déi substanziell aktualiséiert goufen, fir rezent oder aktuell Evenementer vun allgemengem Interessi erëmzeginn"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "An den Neiegkeeten"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "Entdeckt historesch Evenementer op dësem Dag"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "Op dësem Dag"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_subtitle",
+      "value": "Deeglech Biller op Wikimedia Commons, erausgesicht vu fräiwëllege Participanten"
+    },
+    {
+      "name": "home_feed_modules_picture_of_the_day_title",
+      "value": "Bild vum Dag"
+    },
+    {
+      "name": "home_feed_modules_settings_header",
+      "value": "Wann Dir e Modul desaktivéiert, da gëtt et an Ärem „Communautéit“-Feed verstoppt. Dir kënnt zu all Moment erëm hei reaktivéieren. Et ka sinn, datt verschidde Moduler fir Är Sprooch net disponibel sinn."
+    },
+    {
+      "name": "home_feed_modules_settings_title",
+      "value": "Moduler"
+    },
+    {
+      "name": "home_feed_modules_top_read_subtitle",
+      "value": "Wat ass haut op Wikipedia am Trend?"
+    },
+    {
+      "name": "home_feed_modules_top_read_title",
+      "value": "Am dackste gelies"
+    },
+    {
+      "name": "home_feed_settings_community_modules_subtitle",
+      "value": "Aktivéiert an desaktivéiert „Communautéit“-Moduler"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "Communautéit"
+    },
+    {
+      "name": "home_feed_settings_for_you_modules_subtitle",
+      "value": "Aktivéiert an desaktivéiert „Fir Iech“-Moduler"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "Fir Iech"
+    },
+    {
+      "name": "home_feed_settings_modules_title",
+      "value": "Moduler"
+    },
+    {
+      "name": "home_feed_settings_title",
+      "value": "De Start-Feed personaliséieren"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_subtitle",
+      "value": "Theemen an Artikelen, déi Äre Contenu matbestëmmen"
+    },
+    {
+      "name": "home_feed_settings_whats_driving_title",
+      "value": "Wat beaflosst Äre Feed?"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_subtitle",
+      "value": "Ännert Är preferéiert Sproochen"
+    },
+    {
+      "name": "home_feed_whats_driving_languages_title",
+      "value": "Sproochen"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_subtitle",
+      "value": "Gitt duerch d'Artikelen, déi Dir viru Kuerzem gelies hutt"
+    },
+    {
+      "name": "home_feed_whats_driving_reading_history_title",
+      "value": "Lieshistorique"
+    },
+    {
+      "name": "home_feed_whats_driving_settings_header",
+      "value": "Dës Theemen an Artikele beaflossen, wat Dir an Ärem „Fir Iech“-Feed ze gesi kritt. Huelt dat ewech, wat Dir net méi wëllt, oder setzt nei Interessen derbäi."
+    },
+    {
+      "name": "home_feed_whats_driving_settings_title",
+      "value": "Wat beaflosst Äre Feed?"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_subtitle",
+      "value": "Ännert d'Theemen, déi Iech interesséieren"
+    },
+    {
+      "name": "home_feed_whats_driving_your_interests_title",
+      "value": "Är Interessen"
+    },
+    {
+      "name": "home_for_you_tab_title",
+      "value": "Fir Iech"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Méi wéi \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Méi aus der Géigend, wou Dir elo sidd"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Méi nobäi vun \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Méi aktuell Evenementer"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Astellunge geréieren"
+    },
+    {
+      "name": "home_title",
+      "value": "Entdecken"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "Wikipedia, no uewe scrolle fir z'Entdecken"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Artikelen nobäi"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Zoufällegen Artikel"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Op Wikipedia sichen"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Auteur onbekannt."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Dëst Bild derbäisetzen?"
+    },
+    {
+      "name": "image_rec_empty_title",
+      "value": "Fir de Moment hu mir keng weider Billervirschléi fir Iech."
+    },
+    {
+      "name": "image_rec_error_subtitle",
+      "value": "Et ass eppes schif gaangen."
+    },
+    {
+      "name": "image_rec_error_title",
+      "value": "Säit konnt net geluede ginn"
+    },
+    {
+      "name": "image_rec_onboarding_item_1_body",
+      "value": "Decidéiert, ob ee virgeschloent Bild an ee Wikipediaartikel derbäigesat soll ginn."
+    },
+    {
+      "name": "image_rec_onboarding_item_1_title",
+      "value": "E Virschlag weisen"
+    },
+    {
+      "name": "image_rec_onboarding_item_2_body",
+      "value": "D'Virschléi si maschinnegeneréiert an et ass un Iech fir mat Ärem Urteelsverméigen ze decidéieren, ob Dir se akzeptéiert oder ofleent."
+    },
+    {
+      "name": "image_rec_onboarding_item_2_title",
+      "value": "E Bild akzeptéieren oder refuséieren"
+    },
+    {
+      "name": "image_rec_onboarding_item_3_title",
+      "value": "Lizenzéiert Biller"
+    },
+    {
+      "name": "image_rec_onboarding_learn_more_button",
+      "value": "Méi iwwer Ännerungsvirschléi gewuer ginn"
+    },
+    {
+      "name": "image_rec_onboarding_title",
+      "value": "E Bild an een Artikel derbäisetzen"
+    },
+    {
+      "name": "image_rec_survey_instructions_1",
+      "value": "Är Äntwerte wäerten zukünfteg Virschléi besser maachen."
+    },
+    {
+      "name": "image_rec_survey_instructions_2",
+      "value": "Wielt eng oder méi Optiounen"
+    },
+    {
+      "name": "image_rec_survey_option_1",
+      "value": "Bild ass net relevant"
+    },
+    {
+      "name": "image_rec_survey_option_2",
+      "value": "Net genuch Informatioune fir ze decidéieren"
+    },
+    {
+      "name": "image_rec_survey_option_3",
+      "value": "Bild ass verletzend"
+    },
+    {
+      "name": "image_rec_survey_option_4",
+      "value": "Bild huet eng niddreg Qualitéit"
+    },
+    {
+      "name": "image_rec_survey_option_5",
+      "value": "Ech kenne mech mat dësem Theema net aus"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Anerer"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Schécken"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Grond"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Bild derbäisetzen"
+    },
+    {
+      "name": "image_rec_tooltip_1_body",
+      "value": "Liest Iech den Artikel duerch fir d'Theema ze verstoen."
+    },
+    {
+      "name": "image_rec_tooltip_2_body",
+      "value": "Inspizéiert d'Bild an déi dozougehéiereg Informatiounen."
+    },
+    {
+      "name": "image_rec_tooltip_2_title",
+      "value": "Inspizéieren"
+    },
+    {
+      "name": "image_rec_tooltip_3_body",
+      "value": "Entscheet, ob d'Bild dem Lieser dobäi hëlleft d'Theema besser ze verstoen."
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Entscheeden"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Artikel weisen"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Nee"
+    },
+    {
+      "name": "image_recs_not_sure_title",
+      "value": "Net sécher"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Jo"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Meng Lieslëscht"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Bei der Ëmfro matmaachen"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_subtitle",
+      "value": "„Lieslëscht deelen“ ass eng Testfunktioun a mir sinn op Äre Feedback ugewise fir se ze verbesseren oder eventuell ewechzehuelen."
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_title",
+      "value": "Kéint Dir eis hëllefe fir d'Funktioun „Lieslëscht deelen“ besser ze maachen?"
+    },
+    {
+      "name": "import_shared_reading_list_title",
+      "value": "Gedeelte Lieslëscht importéieren"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Vu Wikipedia op \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Vu Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "An den Neiegkeeten"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Drasetzen"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Link drasetzen"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "Bilddetailer derbäisetzen"
+    },
+    {
+      "name": "insert_media_alternative_text_description",
+      "value": "Textbeschreiwung fir Lieser, déi d'Bild net gesi kënnen"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Beschreift dëst Bild"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Alternativtext"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Wéi hänkt dëst Bild mam Artikel zesummen?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Beschrëftung"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Zentréiert"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Lénks"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Keng"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Riets"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Positioun vum Bild"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Méi Informatiounen"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Bild eraussichen"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Personaliséiert"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Standard"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Héicht"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Breet"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "Px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Gréisst vum Bild"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Einfach"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Rumm"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Ouni Rumm"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Miniaturbild"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Bildtyp"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Medienastellungen"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Medien drasetzen"
+    },
+    {
+      "name": "ip_account_cta_bottom",
+      "value": "Virufueren ouni anzeloggen"
+    },
+    {
+      "name": "ip_account_cta_top",
+      "value": "Loggt Iech an oder maacht e Kont op"
+    },
+    {
+      "name": "ip_account_warning_subtitle",
+      "value": "Beim Verëffentleche gëtt en temporäre Kont fir Iech ugeluecht."
+    },
+    {
+      "name": "ip_account_warning_title",
+      "value": "Dir sidd net ageloggt"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Sproochen"
+    },
+    {
+      "name": "languages_title",
+      "value": "Sprooch änneren"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipedia-Sproochen"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Méi gewuer ginn"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Virufueren ouni anzeloggen"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Dir sidd elo ausgeloggt"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Hutt Dir Äert Passwuert vergiess?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Bei Wikipedia matmaachen."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Hutt Dir kee Benotzerkont? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "An Äre Benotzerkont aloggen"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Iwwer d'App"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Aloggen"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Ausloggen"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Sidd Dir sécher, datt Dir Iech wëllt ausloggen?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Ageloggt als \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Dateschutz a Konditiounen"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "An der Noperschaft"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Dateschutzrichtlinnen"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "D'App bewäerten"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Benotzungs-Bedingungen"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Méi"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Wikipedia Zero FAQ"
+    },
+    {
+      "name": "main_page",
+      "value": "Haaptsäit"
+    },
+    {
+      "name": "microsite_yir_english_edits_bytes_slide_title_updated",
+      "value": "{{PLURAL:\\$1|\\$1 Byte}} derbäigesat"
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_subtitle_updated",
+      "value": "Wann d'Leit eppes iwwer d'Welt gewuer gi wëllen, da ginn se Wikipedia. Déi 5 meeschtbesicht Artikelen op der Wikipedia op Englesch waren:\n\n1. \\$1\n2. \\$2\n3. \\$3\n4. \\$4\n5. \\$5\n\nLiest méi an \\$6eisem Blogantrag\\$7."
+    },
+    {
+      "name": "microsite_yir_english_top_read_slide_title",
+      "value": "Déi meeschtgelies Artikelen op der Wikipedia op Englesch"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Op Wikipedia a méi wéi 300 Sprooche sichen"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Sproochen derbäisetzen"
+    },
+    {
+      "name": "more_menu",
+      "value": "Méi"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "{{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikelen}} op d'Lieslëscht réckelen"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Kucken ouni ofzespäicheren"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 Fouss}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "{{PLURAL:\\$1|\\$1 Meter}}"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 Meilen"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "Dir sidd mat engem temporäre Passwuert ageloggt. Fir d'Aloggen ofzeschléissen, leet een neit Passwuert hei fest."
+    },
+    {
+      "name": "new_password_title",
+      "value": "Leet Äert Passwuert fest"
+    },
+    {
+      "name": "new_tab",
+      "value": "Neien Tab"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Nächst"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Configuréiert wgl. en E-Mail-Kont op Ärem Apparat a probéiert nach eng Kéier."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Keng Internet Verbindung"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Net elo"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Vum \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Warnung"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1-Notifikatioun"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Passwuert änneren"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "An der App"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Dir hutt keng Messagen"
+    },
+    {
+      "name": "notifications_center_empty_not_subscribed",
+      "value": "Dir sidd de Moment op keng Wikipedia-Notifikatiounen abonéiert"
+    },
+    {
+      "name": "notifications_center_empty_state_filters_subtitle",
+      "value": "Ännert \\$1 fir méi Messagen ze gesinn"
+    },
+    {
+      "name": "notifications_center_empty_state_no_projects_selected",
+      "value": "Setzt Projeten derbäi fir méi Messagen ze gesinn"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 Filter|\\$1 Filteren}}"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Push-Notifikatiounen aschalten"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Notifikatiounsfilter"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "All"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Liesen"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Net gelies"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Liesstatus"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Filteren"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "All Typpen"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Notifikatiounstyppen"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Artikel"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 Diskussiounssäit"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Ënnerscheed"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Benotzersäit vum \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Wikidata-Element"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Är Diskussiounssäit"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Warnung vum \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Fäerdeg"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Projeten"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_footer",
+      "value": "Nëmme Projeten, fir déi Dir e Kont opgemaach hutt, ginn hei opgelëscht"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Wikimedia-Projeten"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wikipediaen"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Markéieren"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "All als gelies markéieren"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_confirmation_format",
+      "value": "Sidd Dir sécher, datt Dir {{PLURAL:\\$1|deen ee Message|all \\$1 Messagë}} vun Ären Notifikatiounen als gelies markéiere wëllt? Är Notifikatioune ginn op all Ären Apparater als gelies markéiert."
+    },
+    {
+      "name": "notifications_center_mark_all_as_read_missing_number",
+      "value": "Sidd Dir sécher, datt Dir all Är Notifikatiounen als gelies markéiere wëllt? Är Notifikatioune ginn op all Ären Apparater als gelies markéiert."
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Als gelies markéieren"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Als net gelies markéieren"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Méi"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Notifikatiounsastellungen"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 Message|\\$1 Messagen}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Virufueren"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Filteren"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Méi iwwer Notifikatioune gewuer ginn"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Push-Notifikatiounen"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Notifikatioune bei Ännerungen"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_heading",
+      "value": "Push-Notifikatiounen aktivéieren?"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_primary_button",
+      "value": "Push-Notifikatiounen aktivéieren"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Nee, merci"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Projet-Filter"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "All"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "All Notifikatiounen"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Gefiltert vum"
+    },
+    {
+      "name": "notifications_center_status_in_projects",
+      "value": "{{PLURAL:\\$1|1=An 1 Projet|A(n) \\$1 Projeten}}"
+    },
+    {
+      "name": "notifications_center_status_in_projects_plain",
+      "value": "{{PLURAL:\\$1|1=1 Projet|\\$1 Projeten}}"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 Typ|\\$1 Typpen}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Liesen"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Net gelies"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "Är Ännerung gouf zréckgesat"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "Nei E-Mail"
+    },
+    {
+      "name": "notifications_center_subheader_login_success_unknown_device",
+      "value": "Alogge vun engem onbekannten Apparat"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Säitelink"
+    },
+    {
+      "name": "notifications_center_subheader_page_reviewed",
+      "value": "Säit nogekuckt"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Merci"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "Ännerung vun de Benotzerrechter"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Wëllkomm!"
+    },
+    {
+      "name": "notifications_center_subheader_wikidata_connection",
+      "value": "Wikidata-Verbindung hirgestallt"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Als gelies markéieren"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Als net gelies markéieren"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Méi"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Notifikatiounen"
+    },
+    {
+      "name": "notifications_center_toolbar_mark_accessibility_label",
+      "value": "Ausgewielt Notifikatioune markéieren"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Mentiounen"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Begréissungs-Message"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Verbindung mat Wikidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_reverted",
+      "value": "Ännerung zréckgesat"
+    },
+    {
+      "name": "notifications_center_type_title_email_from_other_user",
+      "value": "E-Mail vun engem anere Benotzer"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Anerer"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "Säitelink"
+    },
+    {
+      "name": "notifications_center_type_title_page_review",
+      "value": "Säiteniwwerpréiwung"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Merci!"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "Message op der Diskussiounssäit:"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Wëllkomm"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Nei Aktivitéit op Wikipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 neie Message|\\$1 nei Messagen}} op \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Neie Message|Nei Messagen}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 Mrd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 Mio."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 D"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "vu(n) \\$1 bis \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|een historescht Evenement|\\$1 historesch Evenementer}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Weider historesch Evenementer op dësem Dag"
+    },
+    {
+      "name": "on_this_day_footer_showing_event_count",
+      "value": "{{PLURAL:\\$1|\\$1 weidert historescht Evenement|\\$1 weider historesch Evenementer}} op dësem Dag"
+    },
+    {
+      "name": "on_this_day_language_does_not_support_error",
+      "value": "Är primär Wikipedia-Sprooch ënnerstëtzt „Op dësem Dag“ net. Dir kënnt Är primär Wikipedia-Sprooch am Astellungsmenü vun Ärer App aktualiséieren."
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Keng Donnéeën disponibel"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 vu Wikipedia op \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Op dësem Dag"
+    },
+    {
+      "name": "open_article",
+      "value": "Artikel opmaachen"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "Bot"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Vergläichen"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Grafik vun den Ännerungen iwwer d'Zäit"
+    },
+    {
+      "name": "page_history_logged_in_edits",
+      "value": "ageloggt"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "kleng Ännerungen"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Auteur: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Kommentar \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Historique vun de Versiounen"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Kleng Ännerung"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "({{PLURAL:\\$1|1 Byte|\\$1 Byte}}) derbäigesat"
+    },
+    {
+      "name": "page_history_revision_size_diff_subtraction",
+      "value": "{{PLURAL:\\$1|\\$1 Byte}} ewechgeholl"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|1 Ännerung|\\$1 Ännerungen}} zanter \\$2"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "net ugemellt"
+    },
+    {
+      "name": "page_issues",
+      "value": "Problemer mat der Säit"
+    },
+    {
+      "name": "page_location",
+      "value": "Op enger Kaart weisen"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Dir hutt net d'Recht fir dës Säit z'änneren"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Dës Säit ass gespaart"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Änlech Säiten"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Versioune vergläichen"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Änneren ouni anzeloggen"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Dir sidd net ageloggt"
+    },
+    {
+      "name": "percentile_0_01",
+      "value": "0,01"
+    },
+    {
+      "name": "percentile_1",
+      "value": "1"
+    },
+    {
+      "name": "percentile_10",
+      "value": "10"
+    },
+    {
+      "name": "percentile_20",
+      "value": "20"
+    },
+    {
+      "name": "percentile_30",
+      "value": "30"
+    },
+    {
+      "name": "percentile_40",
+      "value": "40"
+    },
+    {
+      "name": "percentile_5",
+      "value": "5"
+    },
+    {
+      "name": "percentile_50",
+      "value": "50"
+    },
+    {
+      "name": "pictured",
+      "value": "als Bild"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Gespäichert Ufroe, fir ze sichen, läschen"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 Artikelen"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Op Är Plaz nei zentréieren"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Als Lëscht weisen"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Als Kaart weisen"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Méi Artikele weisen"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Entdeckt Stied, Länner, Kontinenter, natierlech Formatiounen, Naturgebidder, historesch Evenementer, Gebaier an nach villes méi."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "No Wikipedia-Artikele mat geographesche Plaze sichen"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Standuert aktivéieren"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "Den Zougrëff op Äre Standuert ass just disponibel, wann d'App oder eng vun hire Funktiounen op Ärem Schierm visibel ass."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "Entdeckt Artikelen aus Ärem Ëmfeld duerch d'Aschalte vun der Lokalisatioun"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Artikele filteren"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Filteren"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "Dir hutt keng gespäichert Plazen"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Gespäichert Artikelen"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "Am dackste gelies"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|Een Artikel|\\$1 Artikelen}}"
+    },
+    {
+      "name": "places_filter_top_read_articles",
+      "value": "Am dackste gelies Artikelen"
+    },
+    {
+      "name": "places_list_title",
+      "value": "Lëscht"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "Geolokalisatioun aktivéiert"
+    },
+    {
+      "name": "places_map_title",
+      "value": "Kaart"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Kee vun Äre gespäicherten Artikelen huet Lokalisatiouns-Informatiounen"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1, déi op „\\$2“ passen"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Plaze sichen"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Mengt Dir \\$1?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "Rezent gesicht"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "All gespäichert Artikelen"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "Proposéiert Recherchen"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "Resultater aus dëser Géigend"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "all déi beléift Artikelen"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Nobäi"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Är aktuell Plaz"
+    },
+    {
+      "name": "places_title",
+      "value": "Plazen"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "onbekannt Distanz"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Bild vum Dag vum \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Bild vum Dag vum \\$1 konnt net erofgeluede ginn"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Bild vum Dag"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Der Wikimedia Foundation erlaben Informatiounen iwwer d'Benotze vun der App ze sammele fir se ze verbesseren."
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Dateschutzrichtlinnen"
+    },
+    {
+      "name": "problem_with_feature_title",
+      "value": "Problem mat der Funktioun"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "Profil"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "Aloggen / Bei Wikipedia matmaachen"
+    },
+    {
+      "name": "profile_page_logged_out_year_in_review_subtext",
+      "value": "Loggt Iech an oder leet e Benotzerkont u fir d'nächst Joer e verbesserte Joresréckbléck ze kréien"
+    },
+    {
+      "name": "profile_year_in_review_login_title",
+      "value": "Loggt Iech a fir op de Joresréckbléck zouzegräifen"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWiki"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wikibooks"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wikidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Wikimedia Commons"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wikinews"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wikiquote"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wikisource"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wikispecies"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wikiversity"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wikivoyage"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiktionnaire"
+    },
+    {
+      "name": "reading_challenge_random_article_button",
+      "value": "Zoufällegen Artikel"
+    },
+    {
+      "name": "reading_challenge_random_button",
+      "value": "Zoufälleg"
+    },
+    {
+      "name": "reading_list_add_generic_hint_title",
+      "value": "Dësen Artikel op eng Lieslëscht derbäisetzen?"
+    },
+    {
+      "name": "reading_list_add_hint_title",
+      "value": "\"\\$1\" op eng Lieslëscht derbäisetzen?"
+    },
+    {
+      "name": "reading_list_add_saved_button_title",
+      "value": "Jo, setzt s'op meng Lieslëschten derbäi"
+    },
+    {
+      "name": "reading_list_add_saved_title",
+      "value": "Gespäichert Artikele fonnt"
+    },
+    {
+      "name": "reading_list_alert_see_list",
+      "value": "Lieslëscht weisen"
+    },
+    {
+      "name": "reading_list_api_error_generic",
+      "value": "Beim Synchroniséiere vun Äre Lieslëschten ass en onerwaarte Feeler geschitt."
+    },
+    {
+      "name": "reading_list_api_error_list_limit",
+      "value": "Dës Lëscht ass net synchroniséiert, well Dir d'Limitt fir d'Zuel vu synchroniséierte Lëschten erreecht hutt."
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Lieslëscht uleeën"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Beschreiwung"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Numm vun der Lieslëscht"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Eng nei Lëscht uleeën"
+    },
+    {
+      "name": "reading_list_deleted_accessibility_notification",
+      "value": "Lieslëscht geläscht"
+    },
+    {
+      "name": "reading_list_detail_search_placeholder",
+      "value": "Lieslëscht duerchsichen"
+    },
+    {
+      "name": "reading_list_do_not_keep_button_title",
+      "value": "Nee, Artikele vum Apparat läschen"
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_message",
+      "value": "Reduzéiert wgl. d'Zuel vun den Artikelen op dëser Lëscht op \\$1, fir nees mat der Synchronisatioun vun allen Artikelen op dëser Lëscht weiderzefueren."
+    },
+    {
+      "name": "reading_list_entry_limit_exceeded_title",
+      "value": "Dir hutt d'Limitt {{PLURAL:\\$1|vun \\$1 Artikel|vu(n) \\$1 Artikele}} pro Kont iwwerschratt."
+    },
+    {
+      "name": "reading_list_entry_limit_reached",
+      "value": "{{PLURAL:\\$1|Den Artikel kann|D'Artikele kënnen}} net op dës Lëscht gesat ginn. Dir hutt d'Limitt vu(n) \\$2 Artikele pro Lieslëscht fir \\$3 erreecht."
+    },
+    {
+      "name": "reading_list_exists_with_same_name",
+      "value": "Numm vun der Lieslëscht gëtt scho benotzt"
+    },
+    {
+      "name": "reading_list_generic_error",
+      "value": "Beim Aktualiséiere vun Äre Lieslëschten ass en onerwaarte Feeler geschitt."
+    },
+    {
+      "name": "reading_list_keep_button_title",
+      "value": "Jo, Artikelen um Apparat halen"
+    },
+    {
+      "name": "reading_list_keep_title",
+      "value": "Gespäichert Artikelen um Apparat halen?"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Artikele sortéieren"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_title",
+      "value": "Limitt fir net-zortéiert Artikelen"
+    },
+    {
+      "name": "reading_list_list_limit_exceeded_title",
+      "value": "Dir hutt d'Limitt {{PLURAL:\\$1|vun \\$1 Lieslëscht|vu(n) \\$1 Lieslëschte}} pro Kont iwwerschratt."
+    },
+    {
+      "name": "reading_list_list_limit_reached",
+      "value": "Dir hutt d'Limitt vu(n) \\$1 Lieslëschte pro Kont erreecht"
+    },
+    {
+      "name": "reading_list_login_button_title",
+      "value": "Alogge fir Är gespäichert Artikelen ze synchroniséieren"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Aloggen oder e Kont uleeën"
+    },
+    {
+      "name": "reading_list_login_or_create_account_title",
+      "value": "Alogge fir gespäichert Artikelen ze synchroniséieren"
+    },
+    {
+      "name": "reading_list_login_title",
+      "value": "Är gespäichert Artikele synchroniséieren?"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[user created]"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "fakultativ Kuerzbeschreiwung"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "Titel vun der Lieslëscht"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Synchronisatioun desaktivéiert"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Synchronisatioun aktivéieren"
+    },
+    {
+      "name": "reading_list_sync_enable_title",
+      "value": "Synchronisatioun vu Lieslëschten aschalten?"
+    },
+    {
+      "name": "reading_list_sync_enabled_panel_title",
+      "value": "D'Synchronisatioun ass op dësem Benotzerkonto aktivéiert"
+    },
+    {
+      "name": "reading_list_with_provided_name_not_found",
+      "value": "Eng Lieslëscht mam Numm \"\\$1\" gouf net fonnt. Vergewëssert Iech wgl. datt Dir de richtegen Numm hutt."
+    },
+    {
+      "name": "reading_lists_article_added_confirmation",
+      "value": "Artikel op „\\$1“ derbäigesat"
+    },
+    {
+      "name": "reading_lists_article_api_failure",
+      "value": "Den Artikel konnt net synchroniséiert ginn"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Net synchroniséiert"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "Är Lëscht '\\$1' gouf op '\\$2' ëmbenannt"
+    },
+    {
+      "name": "reading_lists_count",
+      "value": "{{PLURAL:\\$1|Eng Lieslëscht|\\$1 Lieslëschten}}"
+    },
+    {
+      "name": "reading_lists_default_list_description",
+      "value": "Standard-Lëscht fir Är gespäichert Artikelen"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Gespäichert"
+    },
+    {
+      "name": "reading_lists_delete_reading_list_alert_title",
+      "value": "{{PLURAL:\\$1|Lëscht|Lëschte}} läschen?"
+    },
+    {
+      "name": "reading_lists_large_sync_completed",
+      "value": "{{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikelen}} a(n) {{PLURAL:\\$2|\\$2 Lieslëscht|\\$2 Lieslëschte}} vun Ärem Benotzerkont synchroniséiert"
+    },
+    {
+      "name": "reading_lists_list_not_synced_limit_exceeded",
+      "value": "Lëscht net synchroniséiert, Limitt iwwerschratt"
+    },
+    {
+      "name": "reading_lists_sort_saved_articles",
+      "value": "Gespäichert Artikelen sortéieren"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Schwaarze Layout"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Däischtere Modus"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Helle Modus"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Sepia-Modus"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Ervirhiewe vun der Syntax"
+    },
+    {
+      "name": "reference_title",
+      "value": "Referenz: \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Haut|1=Gëschter|Viru(n) \\$1 Deeg}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 h"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Rezent|virun enger Stonn|viru(n) \\$1 Stonnen}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "viru(n) \\$1h"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Rezent|virun enger Stonn|viru(n) \\$1 Stonnen}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Elo grad|Virun enger Minutt|Viru(n) \\$1 Minutten}}"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Elo grad|Virun enger Minutt|Viru(n) \\$1 Minutten}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "viru(n) \\$1 m"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Dëse Mount|1=Leschte Mount|Viru(n) \\$1 Méint}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "viru(n) \\$1 s"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Dëst Joer|1=Lescht Joer|Viru(n) \\$1 Joer}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Zeréck"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Zeréck op den Artikel"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Zréckgesaten Ännerung"
+    },
+    {
+      "name": "save_all_tabs",
+      "value": "All Tabs späicheren"
+    },
+    {
+      "name": "save_view_temp_account_warning",
+      "value": "Dir sidd net ageloggt. Soubal Dir eng Ännerung maacht, gëtt en temporäre Kont fir Iech ugeluecht, fir Är Privatsphär ze schützen."
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "All Artikelen"
+    },
+    {
+      "name": "saved_all_tabs",
+      "value": "All Tabs gespäichert."
+    },
+    {
+      "name": "saved_default_reading_list_tag",
+      "value": "Dës Lëscht kann net geläscht ginn"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "D'Biller fir dës gespäichert Säit konnten net erofgeluede ginn."
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Erofluede vum Artikel ass am Gaang …"
+    },
+    {
+      "name": "saved_reading_lists_search_placeholder",
+      "value": "Lieslëschten duerchsichen"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Lieslëschten"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "An de gespäicherten Artikele sichen"
+    },
+    {
+      "name": "saved_title",
+      "value": "Gespäichert"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "{{PLURAL:\\$1|Artikel|Artikele}} läschen?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Op Wikipedia sichen"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Eidel maachen"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Op Wikipedia sichen"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "All rezent Ufroe fir ze siche läschen?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Dës Aktioun kann net réckgängeg gemaach ginn!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "All läschen"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Nach keng rezent Sich"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Rezent gesicht"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Virugeleet vun: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Sichen"
+    },
+    {
+      "name": "search_widget_description",
+      "value": "Schnellzougrëff fir op Wikipedia ze sichen."
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "settings_account",
+      "value": "Benotzerkont"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Ausgesi vun der App"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Tëschegespäichert Date läschen"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "D'Läsche vun tëschegespäicherten Donnéeën mécht ongeféier \\$1 Plaz fräi. Är gespäichert Säite ginn net geläscht."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Tëschegespäichert Date läschen?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Ofbriechen"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Tëschespäicher eidelmaachen"
+    },
+    {
+      "name": "settings_community_feed_title",
+      "value": "Communautéit"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Spenden"
+    },
+    {
+      "name": "settings_explore_games_title",
+      "value": "Wikipedia-Spiller"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Hëllef a Feedback"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Sprooche beim Siche weisen"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Meng Sproochen"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Push-Notifikatiounen"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Nach eng Kéier probéieren"
+    },
+    {
+      "name": "settings_off",
+      "value": "Aus"
+    },
+    {
+      "name": "settings_on",
+      "value": "Un"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Primär"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "Déi éischt Sprooch an dëser Lëscht gëtt als primär Sprooch fir d'App consideréiert."
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_no",
+      "value": "Nee"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_title",
+      "value": "Synchronisatioun vu Lieslëschten ausschalten?"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_yes",
+      "value": "Jo"
+    },
+    {
+      "name": "settings_storage_and_syncing_full_sync",
+      "value": "Är Lieslëschte ginn am Hannergrond synchroniséiert"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Synchroniséiert Lieslëschten aktualiséieren"
+    },
+    {
+      "name": "settings_storage_and_syncing_show_default_reading_list_title",
+      "value": "Gespäichert Lieslëscht weisen"
+    },
+    {
+      "name": "settings_storage_and_syncing_title",
+      "value": "Artikelspäicher a Synchronisatioun"
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "Ausloggen"
+    },
+    {
+      "name": "settings_temp_accounts_talk_page_footer",
+      "value": "Den temporäre Kont leeft an 90 Deeg of"
+    },
+    {
+      "name": "settings_title",
+      "value": "Astellungen"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "Mat der Wikipedia-App gemaach"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" op Wikipedia:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "\"\\$1\" vu(n) \"\\$2\": \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "\"\\$1\"\n\nvu(n) \"\\$2\"\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Navigéieren"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Deelen..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "\"\\$1\" \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "iwwer Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Op der Kaart opmaachen"
+    },
+    {
+      "name": "share_social_format",
+      "value": "\"\\$1\" iwwer Wikipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "\"\\$1\" via Wikipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Rezent derbäigesat"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titel"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "Ännerungsvirschléi"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "Wielt eng oder méi Optiounen"
+    },
+    {
+      "name": "survey_submit",
+      "value": "Ofschécken"
+    },
+    {
+      "name": "survey_title",
+      "value": "Grond"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Inhaltsverzeechnes"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zoumaachen"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Inhaltsverzeechnes zoumaachen"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Inhalt"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Inhaltsverzeechnes verstoppen"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Ënneriwwerschrëft \\$1"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "Tab zoumaachen"
+    },
+    {
+      "name": "tabs_hide_suggested_articles",
+      "value": "Artikelvirschléi verstoppen"
+    },
+    {
+      "name": "tabs_navbar_title_format",
+      "value": "{{PLURAL:\\$1|\\$1 Tab|\\$1 Tabs}}"
+    },
+    {
+      "name": "tabs_open_tab",
+      "value": "Tab opmaachen"
+    },
+    {
+      "name": "tabs_show_suggested_articles",
+      "value": "Artikelvirschléi weisen"
+    },
+    {
+      "name": "tabs_suggested_articles_hide_suggestions_confirmation",
+      "value": "Virschléi sinn elo verstoppt"
+    },
+    {
+      "name": "tabs_thumbnail_subtitle",
+      "value": "Fänkt Är Sich hei un"
+    },
+    {
+      "name": "tabs_title",
+      "value": "Tabs"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 aktive Benotzer|\\$1 aktiv Benotzer}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Sujet derbäisetzen"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Archiven"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Iwwer Diskussiounssäiten"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Sprooch wiesselen"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Gelies"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Net gelies"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Onerwaarte Feeler"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Et ass eppes schif gaangen."
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Diskussiounssäit konnt net geluede ginn"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Op der Säit sichen"
+    },
+    {
+      "name": "talk_page_new_banner_subtitle",
+      "value": "Denkt dru, mir sinn hei all Mënschen"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Sidd wgl. fein"
+    },
+    {
+      "name": "talk_page_new_reply_success_text",
+      "value": "Är Äntwert gouf verëffentlecht"
+    },
+    {
+      "name": "talk_page_new_topic_success_text",
+      "value": "Är Diskussioun gouf verëffentlecht"
+    },
+    {
+      "name": "talk_page_overflow_menu_accessibility",
+      "value": "Méi Diskussiounssäitenoptiounen"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Informatiounen iwwer d'Säit"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Permanente Link"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "Kuckt wgl. Är Internetverbindung no."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Am Browser liesen"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Linken op dës Säit"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 Äntwert|\\$1 Äntwerten}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Äntweren"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Dem \\$1 äntweren"
+    },
+    {
+      "name": "talk_page_reply_depth_accessibility_label",
+      "value": "Äntwertdéift: \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Dem \\$1 äntweren"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Historique vun de Versiounen"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Diskussiounssäit deelen"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Abonéieren"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "Dir kritt Notifikatiounen iwwer nei Kommentaren zu dësem Sujet."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Dir sidd ageschriwwen!"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Artikeldiskussiounssäit"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Benotzerdiskussiounssäit"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Ofbestellen"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "Dir kritt keng Notifikatioune méi fir nei Kommentaren zu dësem Sujet."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "Dir hutt Iech ofgemellt."
+    },
+    {
+      "name": "talk_page_user_about",
+      "value": "Iwwer Benotzerdiskussiounssäiten"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Kontributiounen"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "Keng archivéiert Säite fonnt."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Archiven"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Liest méi"
+    },
+    {
+      "name": "talk_pages_comment_added_alert_title",
+      "value": "Äre Kommentar gouf derbäigesat"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Virufuere mat Änneren"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Quelltext änneren"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "En neit Theema derbäisetzen"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Eng Diskussioun ufänken"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "D'Diskussioun fänkt hei un"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Eng Diskussioun mam \\$1 ufänken"
+    },
+    {
+      "name": "talk_pages_reply_compose_close_confirmation_title",
+      "value": "Sidd Dir sécher, datt Dir dës nei Äntwert verwerfe wëllt?"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "Äert Theema gouf derbäigesat"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Beschreiwung"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Beschreiwung vum Theema"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Äntwert verwerfen"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "Sidd Dir sécher, datt Dir dëst neit Theema verwerfe wëllt?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Theema"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Titel vum Theema"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Sidd wgl. fein, mir sinn alleguerte Mënschen hei."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Diskussiounssäiten"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Benotzergruppen"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Logbicher"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Diskussioun"
+    },
+    {
+      "name": "temp_account_edit_sheet_cta_top",
+      "value": "Loggt Iech an oder maacht e Kont op"
+    },
+    {
+      "name": "temp_account_edit_sheet_subtitle",
+      "value": "\\$2Dir benotzt am Moment en temporäre Kont.\\$3 Ännerungen, déi Dir mam temporäre Kont \\$1 maacht, ginn net op Äre permanente Kont iwwerdroen, wann Dir Iech aloggt. Fir datt, nieft anere Virdeeler, Är Kontributiounen Ärem Benotzernumm zougeuerdent ginn, loggt Iech an oder leet e Kont un."
+    },
+    {
+      "name": "temp_account_toast_read_more_title",
+      "value": "Méi liesen"
+    },
+    {
+      "name": "temp_account_toast_title",
+      "value": "\\$1Dir benotzt am Moment en temporäre Kont.\\$2 Ännerungen, déi Dir mam temporäre Kont..."
+    },
+    {
+      "name": "temp_account_warning_title",
+      "value": "Dir benotzt en temporäre Kont"
+    },
+    {
+      "name": "temporary_account",
+      "value": "Temporäre Kont"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Benotzungskonditiounen"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Schwaarz"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Däischter"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Standard"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Hell"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "today_title",
+      "value": "Haut"
+    },
+    {
+      "name": "top_read_widget_description",
+      "value": "Gitt gewuer, wat d'Welt haut esou op der Wikipedia liest."
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 Lieser"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Am dackste gelies"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Elo probéieren"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Uleedung"
+    },
+    {
+      "name": "two_factor_email_login_continue",
+      "value": "Virufuere mam Aloggen"
+    },
+    {
+      "name": "two_factor_email_login_instructions",
+      "value": "Gitt wgl. den E-Mail-Verifizéierungscode an"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Virufuere mam Aloggen"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Gitt wgl. den Zwee-Faktor-Verifizéierungscode an"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "An Äre Benotzerkont aloggen"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Benotzt ee vun Äre Backup-Coden"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Verificatiouns-Code benotzen"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Diskussiounssäit konnt net geluede ginn"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Onbekannt"
+    },
+    {
+      "name": "unwatch",
+      "value": "Net méi iwwerwaachen"
+    },
+    {
+      "name": "user_title",
+      "value": "Benotzer"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Virufueren"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Benotzernumm a Benotzersäit"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Warnung"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Nee, merci"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Kuckt Är Astellungen no"
+    },
+    {
+      "name": "view_changes",
+      "value": "Ännerunge weisen"
+    },
+    {
+      "name": "watch",
+      "value": "Iwwerwaachen"
+    },
+    {
+      "name": "watchlist",
+      "value": "Iwwerwaachungslëscht"
+    },
+    {
+      "name": "watchlist_added_toast_one_month",
+      "value": "Fir 1 Mount op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_one_week",
+      "value": "Fir 1 Woch op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_one_year",
+      "value": "Fir 1 Joer op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_permanently",
+      "value": "Dauerhaft op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_six_months",
+      "value": "Fir 6 Méint op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_three_months",
+      "value": "Fir 3 Méint op Är Iwwerwaachungslëscht gesat."
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "Iwwerwaachungslëscht weisen"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "({{PLURAL:\\$1|1 Byte|\\$1 Byte}})"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 Mount"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 Woch"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 Joer"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Dauerhaft"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 Méint"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 Méint"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Resümmee vun der Ännerung"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Artikele sichen"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Filter"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_header",
+      "value": "Automatiséiert Kontributiounen"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Mënsch (kee Bot)"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_header",
+      "value": "Lescht Versiounen"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_latest_revision",
+      "value": "Aktuell Versioun"
+    },
+    {
+      "name": "watchlist_filter_latest_revisions_options_not_latest_revision",
+      "value": "Net déi aktuell Versioun"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Gréisst"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Kleng Ännerungen"
+    },
+    {
+      "name": "watchlist_filter_significance_options_non_minor_edits",
+      "value": "Net-kleng Ännerungen"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Typ vun der Ännerung"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Kategorienännerungen"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Protokolléiert Aktiounen"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Ugeluecht Säiten"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Säitenännerungen"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Wikidata-Ännerungen"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Benotzerumeldung an -erfarung"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Ugemellt"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Net ugemellt"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Sprooch derbäisetzen..."
+    },
+    {
+      "name": "watchlist_onboarding_button_title",
+      "value": "Méi iwwer Iwwerwaachungslëschte gewuer ginn"
+    },
+    {
+      "name": "watchlist_onboarding_title",
+      "value": "Mir presentéieren Är Iwwerwaachungslëscht"
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Vun Ärer Iwwerwaachungslëscht erofgeholl"
+    },
+    {
+      "name": "watchlist_thanks_success",
+      "value": "Äre „Merci“ gouf dem \\$1 geschéckt"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Aktualiséierunge weisen"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Merci"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Benotzerkontributiounen"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Benotzersäit"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Benotzerdiskussiounssäit"
+    },
+    {
+      "name": "watchlist_watch_title",
+      "value": "Artikelen iwwerwaachen"
+    },
+    {
+      "name": "welcome_data_privacy_title",
+      "value": "Donnéeën & Privatsphär"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Entdecke-Feed"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Op dësem Dag"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "Entdeckt Kuckeswäertes an Ärer Géigend oder sicht no Plazen op der ganzer Welt"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Fir unzefänken"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Nei Manéiere fir z'entdecken"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Verstan"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Méi iwwer Wikipedia gewuer ginn"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Iwwer Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Déi fräi Enzyklopedie"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Eng aner Sprooch derbäisetzen"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Preferéiert Sproochen derbäisetzen oder änneren"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Op Ärem Apparat hu mir dës Sprooche fonnt:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "A méi wéi 300 Sprooche sichen"
+    },
+    {
+      "name": "welcome_privacy_terms_button_text",
+      "value": "Gitt méi iwwer eis Dateschutzrichtlinnen a Benotzungsbedingunge gewuer"
+    },
+    {
+      "name": "which_came_first_archive_day_score_a11y",
+      "value": "Punktestand: \\$1 vu 5"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "Archiv"
+    },
+    {
+      "name": "which_came_first_archive_subtitle",
+      "value": "Spillt Spiller zanter Juni 2024."
+    },
+    {
+      "name": "which_came_first_archive_title",
+      "value": "Wat koum als éischt?"
+    },
+    {
+      "name": "which_came_first_archive_toast_score",
+      "value": "Dir hutt haut \\$1/5 Punkte kritt."
+    },
+    {
+      "name": "which_came_first_articles_section_title",
+      "value": "Artikele vum Spill vun haut"
+    },
+    {
+      "name": "which_came_first_best_streak_label",
+      "value": "bescht Serie"
+    },
+    {
+      "name": "which_came_first_correct_answer_a11y",
+      "value": "Richteg Äntwert"
+    },
+    {
+      "name": "which_came_first_correct_feedback",
+      "value": "Richteg!"
+    },
+    {
+      "name": "which_came_first_correct_feedback2",
+      "value": "+1 Punkt"
+    },
+    {
+      "name": "which_came_first_current_streak_label",
+      "value": "aktuell Serie"
+    },
+    {
+      "name": "which_came_first_error_title",
+      "value": "Et ass eppes schif gaangen"
+    },
+    {
+      "name": "which_came_first_footer_a11y",
+      "value": "Fro \\$1 vu(n) \\$2"
+    },
+    {
+      "name": "which_came_first_games_played_label",
+      "value": "Spiller gespillt"
+    },
+    {
+      "name": "which_came_first_incorrect_answer_a11y",
+      "value": "Falsch Äntwert"
+    },
+    {
+      "name": "which_came_first_incorrect_feedback",
+      "value": "Falsch!"
+    },
+    {
+      "name": "which_came_first_log_in_button",
+      "value": "Aloggen"
+    },
+    {
+      "name": "which_came_first_log_in_stats_body",
+      "value": "Kuckt Är Serien, Punkten a méi"
+    },
+    {
+      "name": "which_came_first_log_in_stats_title",
+      "value": "Loggt Iech an, fir Är Spillstatistiken ze kucken"
+    },
+    {
+      "name": "which_came_first_next_game_time",
+      "value": "Nächst Spill an \\$1"
+    },
+    {
+      "name": "which_came_first_play_archive_button",
+      "value": "Aus dem Archiv spillen"
+    },
+    {
+      "name": "which_came_first_see_results_button",
+      "value": "Resultat weisen"
+    },
+    {
+      "name": "which_came_first_share_score_button",
+      "value": "Punkten deelen"
+    },
+    {
+      "name": "which_came_first_share_score_summary",
+      "value": "Ech krut haut \\$1/\\$2 Punkte bei „Wat koum als éischt?“."
+    },
+    {
+      "name": "which_came_first_splash_about_button",
+      "value": "Iwwer dëst Spill"
+    },
+    {
+      "name": "which_came_first_splash_continue_button",
+      "value": "Mam Spill vun haut virufueren"
+    },
+    {
+      "name": "which_came_first_splash_review_button",
+      "value": "Resultater nokucken"
+    },
+    {
+      "name": "which_came_first_splash_subtitle",
+      "value": "Rot, wateren Evenement als éischt op dësem Dag an der Geschicht koum."
+    },
+    {
+      "name": "which_came_first_splash_title",
+      "value": "Wat koum als éischt?"
+    },
+    {
+      "name": "which_came_first_title",
+      "value": "Wat koum als éischt?"
+    },
+    {
+      "name": "which_came_first_your_stats_title",
+      "value": "Är Statistik"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Fräi Online-Enzyklopedie, déi jiddereen ännere kann"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Kucken ouni ze späichere vun Ären Ännerunge gëtt preparéiert..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "Dëse Link féiert op eng extern Websäit: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Externe Link"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "D'Wikipedia huet keen Artikel mat genau dësem Numm"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Keen interne Link fonnt"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Dëse Link féiert op „\\$1“"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Preview vum Link"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Ännerunge späicheren"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Feeler beim Nokucke vum CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "CAPTCHA-Iwwerpréiwung obligatoresch."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Verëffentlechen..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_or_login",
+      "value": "Ännerunge ginn der IP-Adress vun Ärem Apparat zougeuerdent. Wann Dir \\$1Iech aloggt\\$2, profitéiert Dir vu méi Dateschutz."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Ännerunge ginn der IP-Adress vun Ärem Apparat zougeuerdent. Wann Dir \\$1, profitéiert Dir vu méi Dateschutz."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Benotzungs-Bedingungen"
+    },
+    {
+      "name": "year_in_review_base_edits_title_updated",
+      "value": "D'Wikipedia gouf {{PLURAL:\\$1|\\$1 Mol}} pro Minutt geännert"
+    },
+    {
+      "name": "year_in_review_base_reading_title_updated",
+      "value": "Wikipedia war a méi wéi {{PLURAL:\\$1|\\$1 Sprooch|\\$1 Sproochen}} disponibel"
+    },
+    {
+      "name": "year_in_review_button_title",
+      "value": "Joresréckbléck"
+    },
+    {
+      "name": "year_in_review_collective_edits",
+      "value": "Eng Illustratioun vun zwee Wikipedia-Puzzelstécker, allebéid mat engem Deel vun Informatiounen."
+    },
+    {
+      "name": "year_in_review_contributor_gift_title",
+      "value": "Neit Symbol vun der App aktivéieren"
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_donor_updated",
+      "value": "Merci fir Ären Investissement an d'Zukunft vum fräie Wëssen.\n\nÄr Kontributiounen als Donateur op \\$1 droen dozou bäi, dee Wee a Richtung vun enger Welt voller fräier Informatiounen fräizemaachen, an dofir hutt Dir e personaliséiert Symbol fir Wikipedia-Contributeure fir Äre Startbildschierm fräigeschalt."
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_and_donor_updated",
+      "value": "Merci fir Ären Investissement an d'Zukunft vum fräie Wëssen.\n\nÄr Kontributiounen als Donateur an Editeur op \\$1 droen dozou bäi, dee Wee a Richtung vun enger Welt voller fräier Informatiounen fräizemaachen, an dofir hutt Dir e personaliséiert Symbol fir Wikipedia-Contributeure fir Äre Startbildschierm fräigeschalt."
+    },
+    {
+      "name": "year_in_review_contributor_slide_subtitle_editor_updated",
+      "value": "Merci fir Ären Investissement an d'Zukunft vum fräie Wëssen.\n\nÄr Kontributiounen als Editeur op \\$1 droen dozou bäi, dee Wee a Richtung vun enger Welt voller fräier Informatiounen fräizemaachen, an dofir hutt Dir e personaliséiert Symbol fir Wikipedia-Contributeure fir Äre Startbildschierm fräigeschalt."
+    },
+    {
+      "name": "year_in_review_contributor_slide_title",
+      "value": "Neit App-Symbol fir Äre Startbildschierm fräigeschalt"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Maacht elo en Don"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title",
+      "value": "Entdeckt de Wikipedia-Réckbléck"
+    },
+    {
+      "name": "year_in_review_feature_announcement_title_personalized",
+      "value": "Entdeckt Äre Wikipedia-Joresréckbléck"
+    },
+    {
+      "name": "year_in_review_highlights_articles_viewed",
+      "value": "Zuel vun de gekuckten Artikelen"
+    },
+    {
+      "name": "year_in_review_highlights_button_title",
+      "value": "Highlights deelen"
+    },
+    {
+      "name": "year_in_review_highlights_categories",
+      "value": "Kategorien, déi mech interesséiert hunn"
+    },
+    {
+      "name": "year_in_review_highlights_created_lists",
+      "value": "Zuel vun de Lieslëschten, déi ugeluecht goufen"
+    },
+    {
+      "name": "year_in_review_highlights_edit_frequency_value",
+      "value": "{{PLURAL:\\$1|\\$1 Mol}} pro Minutt"
+    },
+    {
+      "name": "year_in_review_highlights_favorite_day",
+      "value": "Liblingsdag fir ze liesen"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "Artikelen, déi ech am meeschte gelies hunn"
+    },
+    {
+      "name": "year_in_review_highlights_reading_time",
+      "value": "Minutte gelies"
+    },
+    {
+      "name": "year_in_review_highlights_share_logo_caption",
+      "value": "Wikipedia-Logo"
+    },
+    {
+      "name": "year_in_review_highlights_subtitle",
+      "value": "Mir freeën eis op d'nächst Joer!"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "Merci, datt Dir Äert Joer mat Wikipedia verbruecht hutt."
+    },
+    {
+      "name": "year_in_review_most_read_categories_title",
+      "value": "Är interessantst Kategorien"
+    },
+    {
+      "name": "year_in_review_non_contributor_slide_title",
+      "value": "Schalt Äert Contributeur-Symbol fir d'nächst Joer fräi!"
+    },
+    {
+      "name": "year_in_review_personalized_date_day_footer_v3",
+      "value": "Liblingsdag fir ze liesen"
+    },
+    {
+      "name": "year_in_review_personalized_date_time_footer_v3",
+      "value": "Liblingszäit fir ze liesen"
+    },
+    {
+      "name": "year_in_review_personalized_donate_title",
+      "value": "Är Generositéit hëlleft, fir datt Wikipedia weider floréiert"
+    },
+    {
+      "name": "year_in_review_personalized_editing_title_format_updated",
+      "value": "Dir hutt {{PLURAL:\\$1|\\$1 Mol}} geännert"
+    },
+    {
+      "name": "year_in_review_personalized_most_read_articles_title",
+      "value": "Är Top-Artikelen"
+    },
+    {
+      "name": "year_in_review_personalized_reading_subtitle_format_v3_updated",
+      "value": "Domat gehéiert Dir eise Schätzungen no zu den ieweschte(n) **PERCENT** vu Wikipedia-Lieser weltwäit. D'Duerchschnëttspersoun liest {{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikelen}} am Joer."
+    },
+    {
+      "name": "year_in_review_personalized_saved_title_format",
+      "value": "Dir hutt {{PLURAL:\\$1|\\$1 Artikel|\\$1 Artikele}} gespäichert"
+    },
+    {
+      "name": "year_in_review_share_text",
+      "value": "Hei ass mäi Wikipedia-Joresréckbléck. Mat der Wikipedia-iOS-App erstallt"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "Wëllt Dir nach eppes soen?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Neutral"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Zefridden"
+    },
+    {
+      "name": "year_in_review_survey_subtitle",
+      "value": "Hëlleft mat fir de Wikipedia-Joresréckbléck ze verbesseren. Sidd Dir zefridde mat dëser Funktioun? Wat géift Dir d'nächst Joer gäre gesinn?"
+    },
+    {
+      "name": "year_in_review_survey_title",
+      "value": "Zefriddenheetsëmfro"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "Onzefridden"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "Ganz zefridden"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "Ganz onzefridden"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Logo vun der Wikimedia Foundation"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Gëschter"
+    },
+    {
+      "name": "games_card_play",
+      "value": "Spillen"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Well Dir dat gelies hutt"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Déi am dackste geliesten Artikelen"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "En aneren zoufällegen Artikel"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Vu Wikipedia op %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Op der Wikipedia op %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Vu Wikimedia Commons"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Keen Historique vu Versioune weisen"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "Haut"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Gëschter"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Dës Kaart verstoppen"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Entdecke-Feed personaliséieren"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Kaart verstoppt"
+    },
+    {
+      "name": "editor_published",
+      "value": "Är Ännerung gouf verëffentlecht."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Artikelbeschreiwung fir %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Mengt Dir %s?"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "Kontributiounen dëse Mount"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "Ännerungen dëse Mount"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "Ännerungen de leschte Mount"
+    }
+  ]
+}

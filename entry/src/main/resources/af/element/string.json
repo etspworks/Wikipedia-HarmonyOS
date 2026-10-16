@@ -1,0 +1,888 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Bydraers"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Biblioteke gebruik"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Volledige lys"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisensie"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Ons is lief vir oopbronprogrammatuur \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Geskep deur die \\$1 met die hulp van vrywilligers soos u"
+    },
+    {
+      "name": "about_repositories",
+      "value": "kodebanke"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Bronkode beskikbaar onder die \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT-lisensie"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Stuur toep terugvoer"
+    },
+    {
+      "name": "about_title",
+      "value": "Aangaande"
+    },
+    {
+      "name": "about_translators",
+      "value": "Vertalers"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Vertaal deur vrywilligers by \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedia Foundation"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Verkry ’n nuwe CAPTCHA…"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Skep u rekening"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Alreeds ’n gebruiker? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Teken aan."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Besig om aan te meld..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "U moet 'n gebruikersnaam, wagwoord, en wagwoordbevestiging invoer om 'n gebruiker te skep."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Wagwoordvelde stem nie ooreen nie."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Besig om te stoor…"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Skep ’n nuwe rekening"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Voeg by…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Voeg by leeslys"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Voeg by lys"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Kanselleer"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Soek in blad"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Skuif na…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Skuif na leeslys"
+    },
+    {
+      "name": "action_read",
+      "value": "Lees"
+    },
+    {
+      "name": "action_remove",
+      "value": "Verwyder"
+    },
+    {
+      "name": "action_save",
+      "value": "Bewaar"
+    },
+    {
+      "name": "action_saved",
+      "value": "Bewaar"
+    },
+    {
+      "name": "action_share",
+      "value": "Deel"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sorteer"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Nee dankie"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Die vry ensiklopedie"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Soek taal"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Kies taal"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Ander tale"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "U tale"
+    },
+    {
+      "name": "article_share",
+      "value": "Deel"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Terug"
+    },
+    {
+      "name": "button_next",
+      "value": "Volgende"
+    },
+    {
+      "name": "button_ok",
+      "value": "Goed"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publiseer"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Rapporteer ’n fout"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Bewaar vir later"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Bewaar vir later"
+    },
+    {
+      "name": "button_skip",
+      "value": "Slaan oor"
+    },
+    {
+      "name": "cancel",
+      "value": "Kanselleer"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Sluit"
+    },
+    {
+      "name": "compass_direction",
+      "value": "by \\$1 uur"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Verken Wikipedia vir meer artikels om te lees"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Grammatika gekorrigeer"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Spelfout gekorrigeer"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Skakels bygevoeg"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Geen resultate gevind nie"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Voorbladartikel"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Uit Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Uit Wikipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Pas aan"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Op Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Op Wikipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Nabygeleë plekke"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Plekke"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Uit Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Uit Wikipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "U ligging"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "U ligging uit Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Prent van die dag"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Uit Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Lukrake artikel"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Uit Wikipedia in \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Uit Wikipedia"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Wagwoorde stem nie ooreen nie"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Ongeldige kode"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Gebruikersnaam onbeskikbaar"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Rugsteunkode"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-teks"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Voer die bostaande teks in"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "voorbeeld@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-pos"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-pos (opsioneel)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "voer u wagwoord weer in"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Bevestig nuwe wagwoord"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "voer nuwe wagwoord in"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Nuwe wagwoord"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "voer wagwoord weer in"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Bevestig wagwoord"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "voer wagwoord in"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Wagwoord"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Bevestigingskode"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "voer gebruikersnaam in"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Gebruikersnaam"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Herstel"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "'n E-pos is gestuur met instruksies om die wagwoord te herstel"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Herstel wagwoord"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Of"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Skrap alle onlangse items?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ja, skrap alles"
+    },
+    {
+      "name": "history_title",
+      "value": "Geskiedenis"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Nog soos \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Meer nabygeleë plekke"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Meer naby aan \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "Verken"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Oplaaier onbekend."
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Uit Wikipedia in \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Uit Wikipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "In die nuus"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Tale"
+    },
+    {
+      "name": "languages_title",
+      "value": "Verander taal"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Wikipedia-tale"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "U wagwoord vergeet?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Sluit aan by Wikipedia"
+    },
+    {
+      "name": "login_no_account",
+      "value": "Nog nie geregistreer nie? \\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "Meld aan met u rekening"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Oor die toep"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Teken aan"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Teken uit"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Is u seker u wil uitteken?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Aangeteken as \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privaatheid en Voorwaardes"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Naby"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Privaatheidsbeleid"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Gradeer toep"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Gebruiksvoorwaardes"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Meer"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Gewilde vrae oor Wikipedia Zero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Deursoek Wikipedia in bykans 300 tale"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Voeg tale by"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Voorskou"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 voet"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 myl"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Stel u wagwoord"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 mjd."
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 m."
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 k."
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "tussen \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 uit Wikipedia in \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Op dié dag"
+    },
+    {
+      "name": "original_tab_button_popover_description",
+      "value": "Raak op die 'W' om terug te gaan na die eerste oortjie"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "U het nie die regte om hierdie blad te wysig nie"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Hierdie blad is beskerm"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 artikels"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Toon as lys"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Toon as vouer"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Toon nog artikels"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "Verken stede, lande, vastelande, natuurlike landmerke, geskiedkundige gebeure, geboue en meer."
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 artikel|\\$1 artikels}}"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Nabygeleë"
+    },
+    {
+      "name": "places_title",
+      "value": "Plekke"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "onbekende afstand"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Prent van die dag vir \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Laat Wikimedia toe om inligting in te samel oor hoe u die toep gebruik om sodoende die toep te verbeter"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Sorteer artikels"
+    },
+    {
+      "name": "reference_title",
+      "value": "Verwysing \\$1"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "Leeslyste"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Soek"
+    },
+    {
+      "name": "saved_title",
+      "value": "Gestoor"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Deursoek Wikipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Maak skoon"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Soek in Wikipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Skrap alle onlangse soektogte?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Hierdie aksie kan nie ongedaan gemaak word nie!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Skrap Alles"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Onlangse soektogte"
+    },
+    {
+      "name": "search_title",
+      "value": "Soek"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Leesvoorkeure"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "My tale"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Kennisgewings"
+    },
+    {
+      "name": "settings_title",
+      "value": "Voorkeure"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" op @Wikipedia:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” uit “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\nuit “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Kry Aanwysings"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Deel…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "via @Wikipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Open in Kaarte"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Onlangs bygevoeg"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Titel"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Inhoudsopgawe"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Sluit"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Sluit Inhoudsopgawe"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Inhoud"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Steek die inhoudsopgawe"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Bespreking"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Swart"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Donker"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Verstek"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Meld aan met u rekening"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Op dié dag"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Het dit"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Meer inligting oor Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Oor Wikipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "Wikipedia is ’n wêreldwye projek om vry ensiklopedieë te bou in alle tale in die wêreld. Omtrent enigeen met Internettoegang kan deelneem deur neutrale inligting met verwysings by te dra."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Die vry ensiklopedie"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Voeg ’n ander taal toe"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Voeg voorkeurtale by of redigeer hulle"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Ons het die volgende tale op die toestel gekry:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Deursoek Wikipedia in bykans 300 tale"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Verkry voorskou van u wysigings..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Dié skakel gaan na '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Skakelvoorskou"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA-verifikasiefout."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Benodig CAPTCHA verifikasie."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Kon nie wikiteks oplaai resultaat bekom nie."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publiseer…"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Wysigings sal toegeskryf word aan die IP-adres van u toestel. Indien u \\$1 sal u meer privaatheid geniet."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Gebruiksvoorwaardes"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Uit Wikipedia in %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Op Wikipedia in %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Uit Wikimedia Commons"
+    }
+  ]
+}

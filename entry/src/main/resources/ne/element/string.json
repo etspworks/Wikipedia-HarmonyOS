@@ -1,0 +1,1724 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "विकिपिडिया"
+    },
+    {
+      "name": "about_content_license",
+      "value": "सामग्री इजाजतपत्र"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "खुलाइएको समयमा बाहेक, सामग्री \\$1 मातहत उपलब्ध छ"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "क्रियटिभ कमन्स एट्रिव्युसन- सेयर अलाइक"
+    },
+    {
+      "name": "about_contributors",
+      "value": "योगदानकर्ताहरू"
+    },
+    {
+      "name": "about_libraries",
+      "value": "प्रयोग भएका पुस्तकालयहरू"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "पुरा सूची"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "अनुज्ञापत्र"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "हामी खुल्लास्रोत सफ्टवेयर मन पाराउँछौँ \\$1"
+    },
+    {
+      "name": "about_repositories",
+      "value": "रिपोजिटरीहरू"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "स्रोतकोड \\$1 मातहत उपलब्ध"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT License"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "अनुप्रयोगबारे प्रतिक्रिया पठाउनुहोस्"
+    },
+    {
+      "name": "about_title",
+      "value": "बारेमा"
+    },
+    {
+      "name": "about_translators",
+      "value": "अनुवादकहरू"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "\\$1 का स्वयंसेवकहरूद्वारा अनुवाद गरिएको"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "विकिमिडिया फाउन्डेसन"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "विकिपिडिया"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "खाता अनुरोध गर्नुहोस् ।"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "खाता खोल्नुहोस्"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "प्रवेश गर्नुहोस्."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "प्रवेश गर्दै..."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "सङ्ग्रह गर्दै..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "नयाँ खाता खोल्नुहोस्"
+    },
+    {
+      "name": "account_group_title",
+      "value": "तपाईकाे खाता"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "तपाईकाे वार्तालाप पृष्ठ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "यहाँ थप्नुहोस्…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "अध्ययन सूचीमा थप गर्नुहोस्"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "सूचीमा थप्नुहाेस्"
+    },
+    {
+      "name": "action_cancel",
+      "value": "रद्द गर्नुहोस्"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "सम्पादनहरू रद्द गर्नुहोस्"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "पृष्ठमा खोज्नुहोस्"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "भाषा परिवर्तन गर्नुहोस्"
+    },
+    {
+      "name": "action_move_to",
+      "value": "मा सार्ने…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "अध्ययन सूचीमा थप गर्नुहोस्"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "अर्काे पूनरावलाेकन"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "अघिल्लाे पूनरावलाेकन"
+    },
+    {
+      "name": "action_read",
+      "value": "पढ्नुहोस्"
+    },
+    {
+      "name": "action_redo",
+      "value": "पुन: कायम गर्नुहाेस्"
+    },
+    {
+      "name": "action_remove",
+      "value": "हटाउनुहोस्"
+    },
+    {
+      "name": "action_retry",
+      "value": "पुनः प्रयास गर्नुहोस्"
+    },
+    {
+      "name": "action_save",
+      "value": "सङ्ग्रह गर्नुहोस्"
+    },
+    {
+      "name": "action_saved",
+      "value": "सुरक्षित गरिएको"
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "पछिको लागि लेख साँचियो"
+    },
+    {
+      "name": "action_share",
+      "value": "साझा गर्नुहोस्"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "साझा गर्नुहोस्"
+    },
+    {
+      "name": "action_sort",
+      "value": "क्रम मिलाउनुहोस्"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "प्रयाेगकर्तालाई धन्यवाद दिनुहाेस्"
+    },
+    {
+      "name": "action_undo",
+      "value": "पुर्ववत गर्नुहोस्"
+    },
+    {
+      "name": "action_unsave",
+      "value": "संग्रहबाट हटाउनुहोस्"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "लेख सङ्ग्रहबाट हटाइयो"
+    },
+    {
+      "name": "action_update",
+      "value": "अद्यावधिक गर्नुहोस्"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "यस महिना पढिएका लेखहरू"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "लेखहरू"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "तपाईंले कति समय पढ्नुभएको छ र कुन लेख वा विषयहरू समयसँगै अन्वेषण गर्नुभएको छ हेर्नुहोस्।"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "पढ्ने ढाँचाहरू"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_subtitle",
+      "value": "कुन मोड्युलहरू प्रदर्शन गर्ने छनौट गर्नुहोस्। सबै व्यक्तिगत डेटा तपाईंको उपकरणमा निजी रहन्छ र ब्राउजिङ इतिहास जुनसुकै बेला खाली गर्न सकिन्छ।"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "यस महिना सुरक्षित गरिएका लेखहरू"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "यस महिनाका शीर्ष श्रेणीहरू"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "हप्ता"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "पठन सूचीमा {{PLURAL:\\$1|\\$1 लेख|\\$1 लेखहरू}} थप्नुहाेस्"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "खारेज गर्नुहोस्"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "विकिपिडिया, सन्दर्भ, विकि, विश्वकाेश, जानकारी, ज्ञान, अनुसन्धान, जानकारी, अन्वेषण, सिक्नुहाेस्"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "एक स्वतन्त्र विश्वकोश"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "लेखको पाठ आकार मिलाउने"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "तालिकालाई खाेल्नुहाेस्"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "थीम विकल्पहरू"
+    },
+    {
+      "name": "article_about_title",
+      "value": "यस लेखको बारेमा"
+    },
+    {
+      "name": "article_delete",
+      "value": "मेटाउने"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "भाषा खोज्नुहोस्"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "भाषा छान्नुहोस्"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "अन्य भाषाहरू"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "तपाईंको भाषा"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "थप पढ्नुहोस्"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "सन्दर्भ \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "साझा गर्नुहोस्"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "पछाडि"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "पछाडि जानको लागि ट्याप गर्नुहोस्"
+    },
+    {
+      "name": "button_next",
+      "value": "अर्को"
+    },
+    {
+      "name": "button_ok",
+      "value": "ठीक छ"
+    },
+    {
+      "name": "button_publish",
+      "value": "प्रकाशित गर्नुहोस्"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "बग उजुरी गर्ने"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "पछिको लागि सङ्ग्रह गर्नुहोस्"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "पछिको लागि सङ्ग्रह गरिएको"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "सङ्ग्रह गरिएकोबाट हटाउनुहोस्"
+    },
+    {
+      "name": "button_skip",
+      "value": "छोड्नुहोस्"
+    },
+    {
+      "name": "cancel",
+      "value": "रद्द गर्नुहोस्"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "खाली गर्नुहोस्"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "बन्द गर्नुहोस्"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "अद्यावधिक गर्दै..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "विवरण थप्नुहोस्"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1का लागि शीर्षक जानकारी"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "परिचय सम्पादन गर्नुहोस्"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "शीर्षक विवरण सम्पादन गर्नुहाेस्"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "छाेटा विवरणहरू उपयुक्त हुन्छन्"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "सार्वजनिक विवरण"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "विवरण सम्पादन गर्नुहोस्"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "बारेमा"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "विकिपिडियाको बारेमा"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "अधिक जानकारी"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "पृथ्वीको सबैभन्दा अग्लो हिमाल"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "उदाहरणका लागि"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "भयो"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "तपाईंले विकिपिडियालाई सबैको लागि अझ राम्रो बनाउनु भएकाे छ"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "यसलाई छोटो राख्नुहोस्"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "सम्पादन सुरुवात गर्नुहोस्"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "देखि:"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "लाई:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "संशोधनहरू तुलना गर्नुहोस्"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "\\$1 खुमच्याउनुहोस"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "\\$1 फैलाउनुहोस्"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "देखाउनुहोस्"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "लुकाउनुहोस्"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "तल"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "माथि"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "संशोधन खोल्न सकिएन"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "पूर्ववत गर्नुहोस्"
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 सम्पादन|\\$1 सम्पादनहरू}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "सम्पादक जानकारी"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 बाइट थपियो|\\$1 बाइटहरू थपिए}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 बाइट हटाइयाे|\\$1 बाइटहरू हटाइयाे}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "सम्पादन सारांश"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "परिचय"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "पङ्क्ति \\$1"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "धन्यवाद पठाउनुहोस्"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "सम्पादन"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "सम्पादन साशंस थप्नुहोस्"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "व्याकरण ठीक बनाइयो"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "विवरण ठीक गरियो"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "थप गरिएका लिङ्कहरू"
+    },
+    {
+      "name": "edited_article",
+      "value": "सम्पादन गरिएको"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "विश्वको ज्ञानमा सबैलाई पहुँच दिनको लागि, हामीले तपाईलाई सबैभन्दा महत्त्वपूर्ण विषयहरू पढेर, सम्पादन गरेर र योगदान गरेर यसको सिर्जनामा सहभागी हुन आवश्यक छ।"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "माफ गर्नुहोस् लेख खोल्न सकिएन"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "तपाईँले सङ्ग्रह गरिसकिएका पृष्ठहरू पढ्न सक्नुहुने छ"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "तपाईँलाई सिफारिस गरिएका लेखहरू तपाईँसँग इन्टरनेट भएको बेला देखिने छ"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "देखाउने इतिकास छैन"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "पछि या अफलाइनमा पढ्न पृष्ठहरू सङ्ग्रहर गर्नुहोस्"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "कुनै पनि सङ्ग्रहगरिएका पृष्ठहरू छैनन्"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "कुनै नतिजाहरू भेटिएनन्"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "तपाईंले यो लेख पढ्नुभएको हुनाले"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "पढ्ने कार्य जारी राख्नुहोस्"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "विशेष लेख"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "लुकाइएको कार्ड"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "बन्द"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "सबैमा खुला"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "खुला"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "खुला \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "सबै %@ लुकाइएका कार्डहरू"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "विकिपिडियामा आज"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "धेरै पढिएका सबै लेखहरू"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "धेरै पढिएको"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "\\$1 मा धेरै पढिएको"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 विकिपिडियामा"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "विकिपिडियामा"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "नजिकैका स्थानहरू"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "स्थानहरू"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 विकिपिडिया बाट"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "विकिपिडियाबाट"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "तपाईँको स्थान"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "\\$1 विकिपिडियाबाट तपाईँको अवस्थिति"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "आजको तस्बिर"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "विकिमिडिया कमन्सबाट"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "कुनै लेख"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "विकिपिडिया \\$1 बाट"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "विकिपिडियाबाट"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "क्रमरहित ढङ्गले चुनिएको लेख"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "प्रमुख लेख"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "केहि गलत भयो। फेरी प्रयास गर्नु होला।"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "अमान्य CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "पासवर्डहरू मिलेनन्"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "अमान्य कोड"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "प्रयोगकर्ता नाम उपलब्ध छैन"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "जगेडा कोड"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "क्याप्चा पाठ"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "माथि देख्नु भएको अक्षरहरू लेख्नुहोस्"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "इमेल"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "इमेल (वैकल्पिक)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "पासवर्ड पुनः प्रविष्ट गर्नुहोस्"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "नयाँ पासवर्ड निश्चित गर्नुहोस्"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "नयाँ प्रवेश शब्द लेख्नुहोस्"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "नयाँ पासवर्ड"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "प्रवेश शब्द फेरि लेख्नुहोस्"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "पासवर्ड निश्चित गर्नुहोस्"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "प्रवेश शब्द लेख्नुहोस्"
+    },
+    {
+      "name": "field_password_title",
+      "value": "प्रवेश शब्द"
+    },
+    {
+      "name": "field_token_title",
+      "value": "प्रमाणिकरण कोड"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "प्रयोगकर्ता नाम प्रविष्टि गर्नुहोस्"
+    },
+    {
+      "name": "field_username_title",
+      "value": "प्रयोगकर्ताको नाम"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "खोजेर बदल्ने"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "खाेज्नुहाेस्"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "पूर्वरूपमा फर्काउनुहोस्"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "पासवर्ड पूर्वनिर्धारित गर्नुहोस्"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "अथवा"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "हो, सबै मेट्नुहोस्"
+    },
+    {
+      "name": "history_title",
+      "value": "इतिहास"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 जस्तो अरु"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "तपाईंको स्थान नजिकै थप ठाउँहरू"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "नजिकै थप \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "अधिक वर्तमानका घटनाहरू"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "अभिरुचीहरू व्यवस्थापन गर्नुहोस्"
+    },
+    {
+      "name": "home_title",
+      "value": "अन्वेषण"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "नजिकैका लेखहरू"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "कुनै लेख"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "विकिपिडियामा खोज्नुहोस्"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "अज्ञात लेखक।"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 विकिपिडिया बाट"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "विकिपिडियाबाट"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "समाचारमा"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "घुसाउनुहोस्"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "यो चित्रलाइ वर्णन गर्नुहोस्"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "केन्द्र"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "बायाँ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "कुनै पनि होइन"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "दायाँ"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "थप जानकारी"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "चित्र छान्नुहोस्"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "उचाइ"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "चौडाइ"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "तस्वीर आकार"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "सामान्य"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "ढाँचा"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "ढाँचा बिहिन"
+    },
+    {
+      "name": "insert_media_image_type_settings_footer_title",
+      "value": "तपाईं पृष्ठमा मिडिया वस्तु कसरी देखा पर्दछ सेट गर्न सक्नुहुन्छ। यो थम्बनेल ढाँचा लगभग सबै अवस्थामा अन्य पृष्ठहरूसँग मिल्दोजुल्दो हुनुपर्छ।"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "तस्वीरकाे प्रकार"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "भाषाहरू"
+    },
+    {
+      "name": "languages_title",
+      "value": "भाषा परिवर्तन गर्नुहोस्"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "विकिपिडिया भाषहरू"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "प्रवेश नगरीकन सम्पादन सुरु गर्नुहोस्"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "आफ्नो खातामा पुन प्रवेश गर्नुहोस्"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "के पासवर्ड भुल्नुभयो?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "विकिपिडियामा सहभागीहुनुहोस्।"
+    },
+    {
+      "name": "login_title",
+      "value": "खातामा प्रवेश गर्नुहोस्"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "विकिपिडिया अनुप्रयोगको बारेमा"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "प्रवेश गर्नुहोस्"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "निर्गमन गर्नुहोस्"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "के तपाईं निर्गमन गर्न चहानुहुन्छ?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "\\$1 का रूपमा लगइन गरियो"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "गोपनीयता र सर्तहरू"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "नजिकै"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "गोप्नियता नीति"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "एपलाई रेट गर्नुहोस्"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "प्रयोगका सर्तहरू"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "थप"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "विकिपिडिया शून्य प्रायः सोधिने प्रश्नहरू"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "विकिपिडिया करिब ३०० भाषाहरूमा खोज्नुहोस्।"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "भाषाहरू थप्नुहोस्"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "पूर्वावलोकन"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 फिट"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 कि.मी."
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 मि"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 माइल"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "तपाईँ अस्थायी पासवर्ड प्रयोग गरेर लगइन गर्नु भएको छ। लग इन कार्य सकाउन यहाँ नयाँ पासवर्ड राख्नुहोस्।"
+    },
+    {
+      "name": "new_password_title",
+      "value": "नयाँ पासवर्ड राख्नुहोस्"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "तपाईँको उपकरणमा नयाँ इमेल ठेगाना राख्नुहोस् र पुनःप्रयास गर्नुहोस्।"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 बाट"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "सुचना"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 सूचना"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "जानकारीहरू बन्द गर्नुहोस्"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "सबै"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "अन्तर"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1को प्रयोगकर्ता पृष्ठ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "विकिडाटा सामग्री"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "तपाईकाे वार्तालाप पृष्ठ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "भयो"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "परियोजनाहरू"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "विकिमिडिया परियोजनाहरू"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "थप"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "जारी राख्नुहोस्"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "पर्दैन, धन्यवाद"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "सबै"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "सबै सूचनाहरू"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "नयाँ इमेल"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "धन्यवाद"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "स्वागतम्!"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "थप"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "सूचनाहरू"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "सूचना"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "स्वागत सन्देश"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "अन्य"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "धन्यवाद"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "स्वागतम्"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "विकिपिडियामा नयाँ गतिविधि"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 बिलियन"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 मिलियन"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 हजार"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "देखि \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 ऐतिहासिक घटनाक्रम|\\$1 ऐतिहासिक घटनाक्रमहरू}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "यस दिनका ऐतिहासिक घटनाक्रमहरू"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "आजको दिनमा"
+    },
+    {
+      "name": "open_article",
+      "value": "लेख खोल्नुहोस्"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "यन्त्रका सम्पादनहरू"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "तुलना गर्नुहोस्"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "तपाईंलाई यो पृष्ठ सम्पादन गर्ने अधिकार छैन"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "यो पृष्ठ सुरक्षण गरिएको छ"
+    },
+    {
+      "name": "pictured",
+      "value": "तस्विरमा"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "सङ्ग्रह गरिएका खोजहरू हटाउनुहोस्"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 लेखहरू"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "तपाईँको स्थानमा पुनःकेन्द्रीकरण गर्नुहोस्"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "सूचीको रूपमा देखाउनुहोस्"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "नसक्साको रूपमा देखाउनुहोस्"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "थप लेखहरू देखाउनुहोस्"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "स्थान सक्षम पार्नुहोस्"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "कुनै पनि सङ्ग्रह गरिएका स्थानहरू छैनन्"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "सङ्ग्रह गरिएका लेखहरू"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "धेरै पढिएको"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 लेख|\\$1 लेखहरू}}"
+    },
+    {
+      "name": "places_location_enabled",
+      "value": "स्थान सक्षम पारिएको छ"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "स्थानहरू खोज्नुहोस्"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "के तपाईंको खोजाई: \\$1 हो?"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "भर्खरैका खोजहरू"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "सुझाव खोजीहरू"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "नजिकै"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "तपाईंको हालको स्थान"
+    },
+    {
+      "name": "places_title",
+      "value": "स्थानहरू"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "अज्ञात दूरी"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "अनुप्रयोगलाई अझ राम्रो बनाउनका लागि तपाईंले अनुप्रयोगको उपयोग कसरी गर्नुहुन्छ भन्नेबारे विकिपिडियालाई जानकारी सङ्कलन गर्ने अनुमति दिनुहोस्"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "गोपनीयता नीति"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "मिडियाविकि"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "विकिपुस्तक"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "विकिडाटा"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "विकिमिडिया कमन्स"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "विकिसमाचार"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "विकिकथन"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "विकिस्रोत"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "विकिप्रजाति"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "विकिविश्वविद्यालय"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "विकियात्रा"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "विक्सनरी"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "विवरण"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "प्रवेश गर्ने/नयाँ खाता बनाउने"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "सङ्ग्रह गरिएको"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "कालो विषयवस्तु"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "चमक स्लाइडर"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "अध्यारो विषयवस्तु"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "उज्यालो विषयवस्तु"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "सेपिया विषयवस्तु"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "पाठ आकार स्लाइडर"
+    },
+    {
+      "name": "reference_title",
+      "value": "सन्दर्भ \\$1"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=हालै|\\$१ घण्टा अगाडि|\\$१ घण्टा अगाडी}}"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "सबै लेखहरू"
+    },
+    {
+      "name": "saved_reading_lists_title",
+      "value": "अध्ययन सूचीहरू"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "खोजिएका पृष्ठहरू सुरक्षित"
+    },
+    {
+      "name": "saved_title",
+      "value": "सङ्ग्रह गर्ने"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "विकिपिडियामा खोज्नुहोस्"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "खाली"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "विकिपिडियामा खोज्नुहोस्"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "सबै मेट्ने"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "भर्खरैका खोजहरू"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "\\$1: बाट अनुप्रेषित"
+    },
+    {
+      "name": "search_title",
+      "value": "खोज्नुहोस्"
+    },
+    {
+      "name": "settings_account",
+      "value": "खाता"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "अध्ययन अभिरूचिहरू"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "रद्द गर्नुहोस्"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "मेरा भाषाहरू"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "सूचनाहरू"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "पुन प्रयास गर्नुहोस"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "प्राथमिक"
+    },
+    {
+      "name": "settings_search_open_app_on_search",
+      "value": "खोजी ट्याबमा एप खोल्नुहोस्"
+    },
+    {
+      "name": "settings_title",
+      "value": "मेरो अभिरुचिहरू"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "@Wikipedia मा \"\\$1\" :"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "दिशा पत्ता लगाउनुहोस्"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "साझेदारी गर्नुहोस्…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "नक्सामा खोल्नुहोस्"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "भर्खरै थपिएका"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "शीर्षक"
+    },
+    {
+      "name": "suggested_edits_title",
+      "value": "सुझाइएका सम्पादनहरू"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "विषयसूची"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "बन्द गर्नुहोस्"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "विषयसूची बन्द गर्नहोस्"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "सामग्रीहरू"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "विषयसूची बन्द गर्नहोस्"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "पढिएकाे"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "जवाफ दिनुहोस्"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1लाई जवाफ दिनुहोस्"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "सदस्यता लिनुहोस्"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "सदस्यता खारेज गर्नुहोस्"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "योगदानहरू"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "थप पढ्नुहोस्"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "सम्पादन जारी राख्नुहोस्"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "नयाँ विषय थप्नुहोस्"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "छलफल सुरु गर्नुहोस्"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "तपाईंको विषय थपियो।"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "वर्णन"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "विषय खारेज गर्नुहोस्"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_title",
+      "value": "के तपाइँ यो नयाँ विषयलाई खारेज गर्न निश्चित हुनुहुन्छ?"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "विषय"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "विषय शीर्षक"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "वार्तालाप पृष्ठ"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "वार्तालाप"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "कालो"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "गाढा"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "पूर्वनिर्धारित"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "हल्का"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "सेपिया"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "स्वशिक्षा"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "लग इन जारी राख्नुहोस् ।"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "अज्ञात"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "जारी राख्नुहोस्"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "चेतावनी"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "स्थायी"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "आजको दिनमा"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "सुरु गर्नुहोस्"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "अन्वेषण गर्ने नयाँ तरिका"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "मैले बुझेँ"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "विकिपिडियाको बारेमा थप जान्नुहोस्"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "विकिपिडियाको बारेमा"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "एक स्वतन्त्र विश्वकोष"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "अर्को भाषा थप्नुहोस्"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "बाह्य कडीहरू"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "लिङ्क पूर्वावलोकन"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "परिवर्तन प्रकाशित गर्नुहोस्"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "प्रकाशन गर्दै..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "सम्पादनहरू तपाईँको उपकरणको आईपी ठेगानामा श्रेय दिइनेछ। यदि तपाईँ \\$1 गर्नुहुन्छ भने तपाईँसँग थप गोपनीयता हुनेछ।"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "प्रयोगका सर्तहरू"
+    },
+    {
+      "name": "year_in_review_highlights_articles_read",
+      "value": "पढिएका लेखहरू"
+    },
+    {
+      "name": "year_in_review_highlights_personalized_articles",
+      "value": "मैले सबैभन्दा धेरै पढेका लेखहरू"
+    },
+    {
+      "name": "year_in_review_highlights_title",
+      "value": "विकिपिडियामा वर्ष बिताउनु भएकोमा धन्यवाद।"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "तपाईंले यो लेख पढ्नुभएको हुनाले"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "धेरै पढिएका सबै लेखहरू"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s विकिपिडियामा"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "विकिमिडिया कमन्सबाट"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "देखाउने इतिकास छैन"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "लुकाइएको कार्ड"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%sका लागि शीर्षक जानकारी"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "के तपाईंको खोजाई: %s हो?"
+    }
+  ]
+}

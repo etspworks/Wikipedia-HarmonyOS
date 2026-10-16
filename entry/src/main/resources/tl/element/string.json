@@ -1,0 +1,432 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Lisensiya ng nilalaman"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Maliban kung nakasaad, magagamit ang nilalaman sa ilalim ng \\$1"
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Lisensiyang Creative Commons Attribution-ShareAlike"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Mga Nag-ambag"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Mga ginamit ng library"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Kumpletong listahan"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lisensiya"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Mahal namin ang open source na software \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Lisensiya ng mapa ng mga lugar"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Ginagamit ng mga lugar ang mapa ng Apple Maps. \\$1"
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Tingnan rito para sa detalye ng lisensiya"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Ginawa ng \\$1 sa tulong mga nagboluntaryong tulad mo"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Mga Repositoryo"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Magagamit ang source code sa ilalim ng \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Lisensiyang MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Magpadala ng feedback"
+    },
+    {
+      "name": "about_title",
+      "value": "Patungkol"
+    },
+    {
+      "name": "about_translators",
+      "value": "Mga Nagsalin"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Sinalin ng mga boluntaryo sa \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Pundasyong Wikimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Di makita ang larawan? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Kumukuha ng bagong CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Humiling ng account"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA security check"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Gawin ang account"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "May account ka na? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Mag-login."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Nagla-login..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Kailangan mong magpasok ng username, password, at pagkumpirma sa password para magawa ang account mo."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Hindi nagtutugma ang mga password."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Sine-save..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Gumawa ng bagong account"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Account Mo"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Mag-request ng pagtanggal ng account"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Usapan Mo"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Agarang paglagda sa talakayan"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Mga preferensya ng pahinng pang-usap"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Idagdag sa…"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Idagdag sa listahan"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Huwag na ituloy ang mga edit"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Hanapin sa pahina"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Ituloy ang Pag-edit"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Palitan ang wika"
+    },
+    {
+      "name": "action_redo",
+      "value": "Gawin muli"
+    },
+    {
+      "name": "action_save",
+      "value": "Itala"
+    },
+    {
+      "name": "action_saved",
+      "value": "Na-save na"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Nai-save. I-activate para i-unsave."
+    },
+    {
+      "name": "action_sort",
+      "value": "Ayusin"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Artikulo ay tinanggalan ng save"
+    },
+    {
+      "name": "article_delete",
+      "value": "Huling tawad, buburahin mo na ba?"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Hanapin ang wika"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Pumili ng wika"
+    },
+    {
+      "name": "button_next",
+      "value": "Kasunod"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Sapagkat iyong binasa"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Mula sa Wikipediang \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Mula sa Wikipedia"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Sa Wikipediang \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Sa Wikipedia"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Mga lugar"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Mula sa Wikipediang \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Mula sa Wikipedia"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Mula sa Wikimedia Commons"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Mula sa Wikipediang \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Mula sa Wikipedia"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Sigurado kang gusto mong burahin ang lahat ng mga kamakailang aytem?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Oo, Burahin lahat"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Di-kilalang tagapatnugot"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Mula sa Wikipediang \\$1"
+    },
+    {
+      "name": "languages_title",
+      "value": "Baguhin ang wika"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 talampakan"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milya"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 mula sa Wikipediang \\$2"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Wala kang karapatang baguhin ang pahinang ito"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Nakasanggalang ang pahinang ito"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 mga artikulo"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "Igitna ang iyong lokasyon"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Ipakita sa mapa"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "Ni isa sa iyong artikulong nai-save ay may impormasyon sa lokasyon"
+    },
+    {
+      "name": "places_title",
+      "value": "Mga lugar"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Pahintulutan ang Pundasyong Wikimedia na mangalap ng impormasyon tungkol sa kung paano mo ginagamit ang app upang maipabuti ito"
+    },
+    {
+      "name": "reading_list_new_list_description_placeholder",
+      "value": "Maikling deskripsiyon (optional)"
+    },
+    {
+      "name": "reading_list_new_list_name_placeholder",
+      "value": "Pamagat ng Listahang-binasa"
+    },
+    {
+      "name": "saved_pages_progress_syncing",
+      "value": "Kasalukuyang dinadownload ang article..."
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Hanapin sa Wikipedia"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Kamakailang hinanap"
+    },
+    {
+      "name": "search_title",
+      "value": "Hanapin"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Mga nilalaman"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Basahin"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Hindi pa nababasa"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Gamitin ang isa sa mga iyong 'backup codes'"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Kinukuhang muli ang paunang tingin ng iyong mga pagbabago..."
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Paunang tingin sa kawing"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "May mali sa pagpapa-totoo (beripikasyon) sa CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Kinakailangan ng pagpapa-totoo (beripikasyon) ng CAPTCHA"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Hindi matukoy ang kinalabasan ng pagkarga ng wikitext"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Itinatala..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Mga tuntunin sa paggamit"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Sapagkat iyong binasa"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Mula sa Wikipediang %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Sa Wikipediang %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Mula sa Wikimedia Commons"
+    }
+  ]
+}

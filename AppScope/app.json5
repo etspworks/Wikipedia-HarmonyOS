@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.etspworks.Wikipedia.hmos",
+    "vendor": "etspworks",
+    "versionCode": 6144,
+    "versionName": "2026.08.11",
+    "buildVersion": "1",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}

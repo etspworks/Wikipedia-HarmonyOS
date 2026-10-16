@@ -1,0 +1,496 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikkipehdija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "De Lezänz för der Ennhalld"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Wann nit annders aanjejovve, de Ennhallde sin ze hann onger ene \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Lezänz, et Wiggerjävve es zohjelohße onger dersällve Bedengonge"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Schrihver"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Jebruchte Projrammbibblijothke"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Kumplätte Leß"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Lezänz"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Mer han Projrame med offe Quälle jähn \\$1"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Jemaht vun de \\$1, zesamme med Lück wi Dir."
+    },
+    {
+      "name": "about_repositories",
+      "value": "Repossetohreje"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "De Projrmm-Quälle sin ze han onger \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "dem MIT sing Lezänz"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "En Rökmäldong jävve"
+    },
+    {
+      "name": "about_title",
+      "value": "Övver"
+    },
+    {
+      "name": "about_translators",
+      "value": "Övversäzer"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Övvesaz vun Freihwelleje op \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "de Wikkimehdija Schtefftong"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikkipehdija"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Ben e neu Kaptscha aam holle ..."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Aam Enlogge …"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Do moss ene Metmaacher_Nahme, e Paßwoot un en Beschtähtejong för et Paßwoot enjävve, öm ene Zohjang aanzelähje."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "De Paßwööter paße nit zersamme."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Ben aam Afseschere …"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "De Schprohch fenge"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Söhg en Schprohch uß"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Ander Schprohche"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Ding Schprohche"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Retuhr"
+    },
+    {
+      "name": "button_next",
+      "value": "Näx"
+    },
+    {
+      "name": "button_ok",
+      "value": "Lohß Jonn!"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Ene Fähler mälde"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "För schpääder faßjehallde"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "För schpääder faßjehallde"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Zohmaache"
+    },
+    {
+      "name": "compass_direction",
+      "value": "öm \\$1 Uhr"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Jrammatek reparrehrt"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Tipfähler fott jemaat"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Lengks derbei jedonn"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Schahd, mer kunnte dä Atikkel nit lahde"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Do kanns emmer noch de op Dingem Jeräht faßjehallde Sigge lässe."
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Do kanns Ding ämfohle Atikelle sinn, wann De en Verbendong mem Internet häs"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "Donn faßhallde, wat De heh jelässe häs"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Mer han kein Verjangeheit zom Aanzeije"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Donn Sigge märrke, öm se spääder ze lässe, esujaa der ohne en Verbendong mem Internet"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Kein faßjehallde Sigge bes jäz."
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nix jefonge"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Wigger lässe"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "De bäste Atikelle"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Hück op de Wikkipehdija"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "All de mihts jelässe Sigge"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Jähn jelässe aam \\$1"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Pläz en der Nöhde vun"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Belld vum Daach"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Ene zohfälleje Atikel"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Wells De veraftesch all Ding neujere Saache fott schmiiße?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Joh, donn alle fottschmieße"
+    },
+    {
+      "name": "history_title",
+      "value": "Väsjohne"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mih ähnlesch wi \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "Mih uß Dinger Nöhde"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mih en de Nöhde vun \\$1"
+    },
+    {
+      "name": "home_title",
+      "value": "Ußfochsche"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Nearby articles"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Ene zohfälleje Atikel"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "En de Wikkipehdija söhke"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Onbikannt, wä dat huhjelahde hät"
+    },
+    {
+      "name": "languages_title",
+      "value": "De Schprohch wääßele"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Övver di Äpp"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Enlogge"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Ußlogge"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Wells De verhaftesch ußlogge?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Ennjelogg als \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Rääschlesche Krohm"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "En de Nöhde"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Rääjelle för der Daateschotz un de Jeheimhaldung"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Donn di Äpp beoordeijle"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Bedengonge för der Jebruch"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mih"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Öff jeschtallte Frohre övver de Wikkiphedija Zero, un de Antwoote dozoh"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Vörschou"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 Fohß"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 Killomehter"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 Mehter"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 Meile"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "Bes esu johd un donn op Dingem Apparahd en Adräß för de e-mail ennreeschte."
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "Do häs nit dat Rääsch, heh di Sigg ze ändere"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Heh di Sigg es jeschöz."
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Et Beld vum Daach för \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "Kunnd et Beld vum Daach nit lahde för \\$1"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "Donn de Wikkimehdija-Schteffong älaube, Enfommazjuhne drövver opzesammelle, wi De heh di Äpp bruchs, öme se bäßer maache ze künne."
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "Mer kunnte kein Bellder för heh di faßjehallde Sigg eronger lahde."
+    },
+    {
+      "name": "saved_title",
+      "value": "Faßjehallde"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "En de Wikkipehdija söhke"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Wells De verhaftesch alle Söhke verjäße maache?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Dat kam_mer nit zerök nämme!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Alle fottschmieße"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Köözlesch jesöhk"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Ömjeleit vun: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Söhke"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Hölp un Rökmäldonge"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Schprohche beim Söhke aanzeije"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Mih Schprohche"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Houpschprohch"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "De eezde Schprohch e heh dä Leß es och de Houpschprohch fö di Äpp. Di ze änndere bedügg, de dääschlesche Saache ze änndere, wi de Featured Sigge, di beijm Ußfochsche kumme."
+    },
+    {
+      "name": "settings_title",
+      "value": "Enschtällonge"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "„\\$1“ op @Wikipedia:"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "vun de @Wikipedia"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Enhalldsverzeijschneß"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Zohmaache"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Ed Enhalldsverzeijschneß zohmaache"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Enhalld"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Wigger"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Wiggermaache"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Donn nor_ren Schprohch dobei"
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "Ben en Vör_Aanseesch vun dä Änderonge aam holle."
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Kaptscha-Fähler."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Et Kaptscha moß jepröhv wähde."
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "Mer künne nit eruß fenge, wat beim Huhlahde för ene Wikkitägs eruß jekumme es."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Aam Affschpeijschere …"
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "Ding Änderonge wähde dä IP-Adräß vun Dingem Apparaht zohjeschrevve. Wann De \\$1, beß De jät prevahter."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Bedengonge för der Jebruch"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "All de mihts jelässe Sigge"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Mer han kein Verjangeheit zom Aanzeije"
+    }
+  ]
+}

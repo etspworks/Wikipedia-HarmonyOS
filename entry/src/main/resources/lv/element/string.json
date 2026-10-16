@@ -1,0 +1,820 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Vikipēdija"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Satura licence"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Izmantotās bibliotēkas"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Pilns saraksts"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licence"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Pirmkods pieejams zem \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT licence"
+    },
+    {
+      "name": "about_title",
+      "value": "Par"
+    },
+    {
+      "name": "about_translators",
+      "value": "Tulkotāji"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Vikipēdija"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Iegūst jaunu CAPTCHA..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Pieprasīt kontu."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA drošības pārbaude"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Izveidot savu kontu"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Pieslēgties."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Pieslēdzās..."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Saglabā..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Izveidot jaunu kontu"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Tavs konts"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Tava diskusiju lapa"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Automātiski parakstīt diskusijas"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Diskusiju lapu izvēlnes"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Pievienot..."
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Pievienot sarakstam"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Atcelt"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Atrast lapā"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Mainīt valodu"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Pārvietot uz..."
+    },
+    {
+      "name": "action_read",
+      "value": "Lasīt"
+    },
+    {
+      "name": "action_remove",
+      "value": "Noņemt"
+    },
+    {
+      "name": "action_save",
+      "value": "Saglabāt"
+    },
+    {
+      "name": "action_saved",
+      "value": "Saglabāts"
+    },
+    {
+      "name": "action_share",
+      "value": "Dalīties"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Dalīties"
+    },
+    {
+      "name": "action_sort",
+      "value": "Kārtot"
+    },
+    {
+      "name": "action_update",
+      "value": "Atjaunināt"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Paslēpt"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Brīvā enciklopēdija"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Tabulu iestatījumi"
+    },
+    {
+      "name": "article_delete",
+      "value": "Dzēst"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Atrast valodu"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Izvēlies valodu"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Citas valodas"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Tavas valodas"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Atsauce \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "Dalīties"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Atpakaļ"
+    },
+    {
+      "name": "button_next",
+      "value": "Tālāk"
+    },
+    {
+      "name": "button_ok",
+      "value": "Labi"
+    },
+    {
+      "name": "button_publish",
+      "value": "Publicēt"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Ziņot par kļūdu"
+    },
+    {
+      "name": "button_skip",
+      "value": "Izlaist"
+    },
+    {
+      "name": "cancel",
+      "value": "Atcelt"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Aizvērt"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Gatavs"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "No:"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Salīdzināt versijas"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Ievads"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Sūtīt pateicību"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Labot saiti"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Labot"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Šis ir maznozīmīgs labojums"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Labota gramatika"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Labota pareizrakstības kļūda"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Pievienotas saites"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Uzraudzīt šo lapu"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "labojumi pagājušajā mēnesī"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Izvēlēties failu no Wikimedia Commons"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Nav atrasts neviens rezultāts"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Vēl viens nejaušs raksts"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Turpini lasīt"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Šodien Vikipēdijā"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Vietas"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Tava atrašanās vieta"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Dienas attēls"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Nejauša lapa"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Nejauša lapa"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Nederīgs CAPTCHA"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Nederīgs kods"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA teksts"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "piemers@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "E-pasts"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "E-pasts (nav obligāti)"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Jaunā parole"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "ievadi paroli"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Parole"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Verifikācijas kods"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ievadi lietotājvārdu"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Lietotājvārds"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Atrast un aizvietot"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Atrast"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Atiestatīt"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Atiestatīt paroli"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Vai"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Jā, dzēst visu"
+    },
+    {
+      "name": "history_title",
+      "value": "Vēsture"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Nejauša lapa"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Meklēt Vikipēdijā"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Autors nezināms."
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Ziņās"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Ievietot"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Ievietot saiti"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Paraksts"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Centrā"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Pa kreisi"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "Pa labi"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Attēla pozīcija"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Vairāk informācijas"
+    },
+    {
+      "name": "languages_title",
+      "value": "Mainīt valodu"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Par lietotni"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Pieslēgties"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Iziet"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Privātuma politika un nosacījumi"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Tuvumā"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Privātuma politika"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Novērtē lietotni"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Lietošanas noteikumi"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Vairāk"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Vikipēdija Zero BUJ"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Meklē Vikipēdijā gandrīz 300 valodās"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Pievienot valodas"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Priekšskatījums"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 pēdas"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 jūdzes"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "Ieslēgt paziņojumus"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Gatavs"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Atzīmēt"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Atzīmēt visus kā izlasītus"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Atzīmēt kā lasītu"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Atzīmēt kā nelasītu"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Vairāk"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Salīdzināt"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Autors: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Komentārs \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Versiju hronoloģija"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Maznozīmīgs labojums"
+    },
+    {
+      "name": "page_history_stats_text",
+      "value": "{{PLURAL:\\$1|\\$1 labojumi|\\$1 labojums|\\$1 labojumi}} kopš \\$2"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Šī lapa ir aizsargāta"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Versiju salīdzināšana"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 rakstu"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Iespējot atrašanās vietu"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Saglabātie raksti"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 raksti|\\$1 raksts|\\$1 raksti}}"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Meklēt"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "Visi saglabātie raksti"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Tuvumā"
+    },
+    {
+      "name": "places_title",
+      "value": "Vietas"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "nezināms attālums"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Apraksts"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Kārtot rakstus"
+    },
+    {
+      "name": "reading_list_sync_disabled_panel_title",
+      "value": "Sinhronizācija izslēgta"
+    },
+    {
+      "name": "reading_list_sync_enable_button_title",
+      "value": "Iespējot sinhronizāciju"
+    },
+    {
+      "name": "reading_lists_article_not_synced",
+      "value": "Nav sinhronizēts"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Saglabāts"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_syntax_highlighting_switch",
+      "value": "Sintakses izcelšana"
+    },
+    {
+      "name": "reading_themes_controls_syntax_highlighting",
+      "value": "Sintakses izcelšana"
+    },
+    {
+      "name": "reference_title",
+      "value": "Atsauce \\$1"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "reverted_edit_title",
+      "value": "Atcelts labojums"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Visi raksti"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "Meklēt"
+    },
+    {
+      "name": "saved_title",
+      "value": "Saglabāts"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Meklēt Vikipēdijā"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Meklēt Vikipēdijā"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Dzēst visu"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Pāradresēts no: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Meklēt"
+    },
+    {
+      "name": "settings_account",
+      "value": "Konts"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Atcelt"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Palīdzība un atsauksmes"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Rādīt valodas meklēšanā"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Manas valodas"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Paziņojumi"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Galvenā"
+    },
+    {
+      "name": "settings_storage_and_syncing_server_sync_title",
+      "value": "Sinhronizēt ar serveri"
+    },
+    {
+      "name": "settings_title",
+      "value": "Iestatījumi"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Saņemt norādes"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Dalīties..."
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Atvērt iekš Maps"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Satura rādītājs"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Aizvērt"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Aizvērt satura rādītāju"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Saturs"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Lūdzu, esi jauks"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "raksta diskusija"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Noklusējuma"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sēpija"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Lapu veidošana"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Šajā dienā"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Sapratu"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Uzzini vairāk par Vikipēdiju"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Par Vikipēdiju"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Brīvā enciklopēdija"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Pievienot citu valodu"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Saites pirmskats"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Saglabāt veiktās izmaiņas"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "CAPTCHA verifikācijas kļūda."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Nepieciešama CAPTCHA verifikācija."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Publicē..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Lietošanas noteikumi"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Vēl viens nejaušs raksts"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "labojumi pagājušajā mēnesī"
+    }
+  ]
+}

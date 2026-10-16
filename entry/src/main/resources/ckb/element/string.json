@@ -1,0 +1,2156 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "ویکیپیدیا"
+    },
+    {
+      "name": "about_content_license",
+      "value": "مۆڵەتی ناوەڕۆک"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "مەگەر بە پێچەوانەوە وترابێت، ناوەڕۆک بەردەستە لەژێر \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "مۆڵەتنامەی Creative Commons Attribution-ShareAlike"
+    },
+    {
+      "name": "about_contributors",
+      "value": "بەشداربووان"
+    },
+    {
+      "name": "about_libraries",
+      "value": "کتێبخانە بەکارھاتووەکان"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "پێڕستی تەواو"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "مۆڵەت"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "ئێمە نەرمامێری سەرچاوە کراوەی \\$1 بە دڵە"
+    },
+    {
+      "name": "about_product_of",
+      "value": "دروست کراوە لەلایەن \\$1 بە یارمەتی خۆبەخشانی وەک تۆ"
+    },
+    {
+      "name": "about_repositories",
+      "value": "عەمبارەکان"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "سەرچاوەی کۆدەکان بەردەستن لەژێر \\$1"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "مۆڵەتی MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ناردنی وەڵام لەسەر بەرنامەکە"
+    },
+    {
+      "name": "about_title",
+      "value": "سه‌باره‌ت"
+    },
+    {
+      "name": "about_translators",
+      "value": "وەرگێڕەکان"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "وەرگێڕدراوە لەلایەن خۆ بەخشان لە \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "دامەزراوەی ویکیمیدیا"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "ویکیپیدیا"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "ناتوانیت وێنەکە ببینیت؟ \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "کاپچایەکی تر ئامادە دەکرێت..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "داخوازی ھەژمار."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "پشکنینی دڵنیاکردنەوەی کاپچا"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "ھەژمارەکەت دروست بکە"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "ھەژمارێکت ھەیە؟ \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "چوونە ژوورەوە"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "چوونە ناوەوە..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "پێویستە ھەژمارناوێک، تێپەڕوشەیەک، و دڵنیابوونەوەی تێپەڕوشە تۆماربکەی بۆ دروستکردنی ھەژمارێک."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "تێپەڕوشەکە ھەڵەیە"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "پاشەکەوتکردن..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "ھەژمارێکی نوێ دروست بکە"
+    },
+    {
+      "name": "account_group_title",
+      "value": "هەژمارەکەت"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "پەڕەی لێدوانەکەت"
+    },
+    {
+      "name": "action_add_to",
+      "value": "زیادکردن بۆ..."
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "زیادکردن بۆ پێڕستی خوێندنەوە"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "زیاکردن بۆ پێڕست"
+    },
+    {
+      "name": "action_cancel",
+      "value": "ھەڵوەشاندنەوە"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "دەستبەرداری دەستکارییەکان ببە"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "دۆزینەوە لەنێو پەڕە"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "گۆڕینی زمان"
+    },
+    {
+      "name": "action_move_to",
+      "value": "لۆگی گواستنەوە..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "گواستنەوە بۆ پێڕستی خوێندنەوە"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "پێداچوونەوەی دواتر"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "پێداچوونەوەی پێشووتر"
+    },
+    {
+      "name": "action_read",
+      "value": "خوێندنەوە"
+    },
+    {
+      "name": "action_redo",
+      "value": "کردنەوە"
+    },
+    {
+      "name": "action_remove",
+      "value": "لابردن"
+    },
+    {
+      "name": "action_retry",
+      "value": "ھەوڵداناوە"
+    },
+    {
+      "name": "action_save",
+      "value": "پاشەکەوتکردن"
+    },
+    {
+      "name": "action_saved",
+      "value": "پاشەکەوت کرا"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "پاشەکەوتکرا. چالاکی بکە بۆ سڕینەوە."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "وتارەکە بۆ دواتر پاشەکەوتکرا"
+    },
+    {
+      "name": "action_share",
+      "value": "هاوبەشی کردن"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "ھاوبەشکردن"
+    },
+    {
+      "name": "action_sort",
+      "value": "ڕیزکردن"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "سوپاسکردنی بەکارهێنەر"
+    },
+    {
+      "name": "action_undo",
+      "value": "پووچەڵکردنەوە"
+    },
+    {
+      "name": "action_unsave",
+      "value": "سڕینەوە"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "وتارەکە سڕدرایەوە"
+    },
+    {
+      "name": "action_update",
+      "value": "نوێکردنەوە"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "زیادکردنی {{PLURAL:\\$1|\\$1 وتار|\\$1 وتار}} بۆ پێڕستی خوێندنەوە"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "لێگەڕان"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "ویکیپیدیا، سەرچاوە، ویکی، ئینسایکڵۆپیدیا، زانیاری، زانین، توێژینەوە، گەڕان، فێربوون، زانستنامە"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "ئینسایکڵۆپیدیای ئازاد"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "ڕێکخستنی قەبارەی دەقی وتار"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "فراوانکردنی خشتەکان"
+    },
+    {
+      "name": "appearance_settings_expand_tables_footer",
+      "value": "ھەموو خشتەکانی وتارەکان بە کراوەیی بەجێبھێڵە لە حاڵەتی بنچینەیی، بە زانیارییە خێراکان و پەراوێزەکان و تێبینییەکان و بەستەرە دەرەکییەکانیشەوە."
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "کەمکردنەوەی کاڵیی وێنەکان لەسەر بەرگی تاریک"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "بەرگی خوێندنەوە"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ھەڵبژاردەکانی خشتە"
+    },
+    {
+      "name": "appearance_settings_text_sizing_example_text",
+      "value": "ئەم خزێنەرەی سەرەوە بەکارببە بۆ گۆڕینی قەبارەی دەقەکان. بۆ گۆڕینی قەبارەی ھەندێک لە دەقەکان، پێویستە لە سیستمی ئامێرەکەتەوە دەستکاری قەبارەی دەقەکان بکەیت."
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "ھەڵبژاردەی بەرگەکان"
+    },
+    {
+      "name": "article_about_title",
+      "value": "دەربارەی ئەم وتارە"
+    },
+    {
+      "name": "article_delete",
+      "value": "سڕینەوە"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|وتارەکە}} سڕدرایەوە"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "دۆزینەوەی زمان"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "ھەڵبژاردنی زمان"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "زمانەکانی تر"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "زمانەکانت"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "زیاتر بخوێنەوە"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "سەرچاوە \\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "ھاوبەشکردن"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "کۆنترۆڵەکانی بەرگەکانی خوێندنەوە"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "گەڕانەوە"
+    },
+    {
+      "name": "button_go_back",
+      "value": "بگەڕێوە"
+    },
+    {
+      "name": "button_next",
+      "value": "دواتر"
+    },
+    {
+      "name": "button_ok",
+      "value": "باشە"
+    },
+    {
+      "name": "button_publish",
+      "value": "بڵاوکردنەوە"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ھەر بڵاوی بکەرەوە"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "سکاڵای کێشەیەک بدە"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "پاشەکەوتکردن بۆ دواتر"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "پاشەکەوت کرا بۆ دواتر"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "لە خەزێنەکراوەکانی لابەرە"
+    },
+    {
+      "name": "button_skip",
+      "value": "پەڕاندن"
+    },
+    {
+      "name": "cancel",
+      "value": "ھەڵوەشاندنەوە"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "سڕینەوە"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "داخستن"
+    },
+    {
+      "name": "compass_direction",
+      "value": "لە کاتژمێر \\$1"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "ویکیپیدیا بگەڕێ بۆ دۆزینەوەی وتاری زیاتر بۆ خوێندنەوەیان"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "وتاری خوێندراوە نییە"
+    },
+    {
+      "name": "description_add_title",
+      "value": "زیادکردنی وەسف"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "وەسفی ناونیشان بۆ \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "دەستکاریی پێشەکی"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "پاشەکەوتکردنی دەربارە"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "دەربارە"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "دەربارەی ویکیدراوە"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "زانیاریی زیاتر"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "بۆ نموونە:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "کرا"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "با کورت بێت"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "وتارەکە کورت دەکاتەوە بۆ یارمەتیدانی خوێنەران لە تێگەیشتنی بابەتەکە بە سەیرکردنێکی"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "دەستکاریی پێشوو"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "پێداچوونەوەکان بەراورد بکە"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "دەستکاریی پیشاندراو"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "پێداچوونەوەکان بەراورد بکە"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "نیشان بدە"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "بشارەوە"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "پێداچوونەوە ئەنجام دراوە لە"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "دێڕەکانی \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "پەڕەگراف گوێزرایەوە بۆ"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "خوارەوە"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "سەرەوە"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 دێڕ}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 بەش}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "پەڕەگرافەکە \\$2 گوێزرایەوە بۆ \\$1"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "نەتواندرا پێداچوونەوەکە باربکرێت"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "گەڕاندنەوە"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "ئایا دڵنیایت کە دەتەوێت دەستکارییەکان بگەڕێنیتەوە؟"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "گەڕاندنەوەی دەستکارییەکان"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "دەستکارییەکان گەڕێندرانەوە."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 دەستکاری}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "زانیاریی دەستکاریکەر"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "کورتەی دەستکاری"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "پێشەکی"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "دێڕی \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "ناتواندرێت بەکارھێنەرە بێناوەکان سپاس بکرێن"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "'سپاس' ڕێگەیەکی ئاسانە بۆ پێزانینی کاری بەکارھێنەرێکی ویکیپیدیا. دەبێت لە ژوورەوە بیت بۆ سپاسکردن."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "بچۆ ژوورەوە بۆ ناردنی 'سپاس'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "سپاس بکە"
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "بەئاشکرا 'سپاس' بنێرە"
+    },
+    {
+      "name": "dim_images",
+      "value": "وێنەی کز"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "لابردنی بەستەر"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "بەستەرەکان دەستکاری بکە"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "دەستکاری"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "چاککردنی ڕێزمان"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "چاککردنی ھەڵەی ڕێنووس"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "بەستەرەکان زیاد کرا"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "ببورە، نەتوانرا وتارەکە بیشان بدرێت"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "دەتوانیت وتارە خەزێنە کراوەکانت بخوێنیتەوە"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "دەتوانیت وتارە پێشنیازکراوەکانت ببینیت کاتێک کە ئینتەرنێتت کار پێ کرد"
+    },
+    {
+      "name": "empty_no_history_message",
+      "value": "ئەو شتانەی کە خوێندوتنەوە لێرەن"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ھیچ مێژوویەک نییە بۆ بینین"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "پەڕەکان خەزێنە بکە بۆ بینینیان لە دواتردا، بە ئۆفڵاینیش بەردەستن"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "ھێشتا ھیچ پەڕەیەک پاشەکەوت نەکراوە"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "ھیچ ئەنجامێک نەدۆزرایەوە"
+    },
+    {
+      "name": "error_unknown",
+      "value": "ھەڵەیەکی نەناسراو ڕوویدا."
+    },
+    {
+      "name": "explore_another_random",
+      "value": "وتارێکی تر بە ھەڵکەوت"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "لەبەر ئەوەی ئەمەت خوێندەوە:"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "بەردەوامبوون لە خوێندنەوە"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "بە وتارەکانی نزیک ناوچەکەت بگەڕێ"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "وتاری ھەڵبژێردراو"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "لە \\$1 ویکیپیدیا"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "لە ویکیپیدیا"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "شاردنەوەی کارت"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "شاردنەوەی ئەم کارتە"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "پەڕەی دەستپێکی پرۆژەکانی ویکیمیدیا"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "ئەمڕۆ لە ویکیپیدیا"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "ھەموو وتارە زۆرترین خوێندراوەکان"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "زۆرترین خوێندراوە"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "بەناوبانگترین لە \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "لە ویکیپیدیای \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "لە ویکیپیدیا"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "شوێنە نزیکەکان"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "شوێنەکان"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "لە \\$1 ویکیپیدیا"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "لە ویکیپیدیا"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "شوێنی تۆ"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "ناونیشانەکەی لە ویکیپیدیای \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "وێنەی ئەمڕۆ"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "لە ویکیمیدیا کۆمنزەوە"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "وتاری ھەڕەمەکی"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "لە ویکیپیدیای \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "لە ویکیپیدیا"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "ھەڵکەوت"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "کاپچای ھەڵە"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "تێپەڕوشەکان ھەماھەنگ نین"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "کۆدەکە ھەڵەیە"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ناوی بەکارھێنەر بەردەست نییە"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "کۆدی باک-ئەپ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "نووسینی کاپچا"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "ئەو نووسینەی کە لەسەرەوە دەیبینی داخڵ بکە"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ئیمەیڵ"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ئیمەیڵ (ئارەزوومەندانە)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "تێپەڕوشە دووبارە بکەرەوە"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "تێپەروشەی نوێ پشتڕاست بکەرەوە"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "تێپەڕوشەی نوێ داخڵ بکە"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "تێپەڕوشەی نوێ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "تێپەڕوشە دووبارە بکەرەوە"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "تێپەروشە پشتڕاست بکەرەوە"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "تێپەروشە داخڵ بکە"
+    },
+    {
+      "name": "field_password_title",
+      "value": "تێپەڕوشە"
+    },
+    {
+      "name": "field_token_title",
+      "value": "کۆدی دووپاتکردنەوە"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ناوی بەکارهێنەر بنووسە"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ناوی بەکارھێنەر"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "دۆزینەوە"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "دووبارە ڕێکخستنەوە"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "پۆستێکی ئەلیکترۆنی کە فێرکاری ڕێکخستنەوەی تێپەڕوشە لەخۆ دەگرێت نێردرا"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "یەکێک لەم بۆشاییانەی خوارەوە پڕ بکەرەوە بۆ ئەوەی فێرکاری گۆڕینی تێپەڕوشەکەت پێ بگات بە ئیمەیڵ."
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "ڕێکخستنەوەی تێپەڕوشە"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "یان"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "دڵنیای کە دەتەوێت ھەموو پەڕەکانت بسڕیتەوە؟"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "بەڵێ، ھەمووی بسڕەوە"
+    },
+    {
+      "name": "history_title",
+      "value": "مێژوو"
+    },
+    {
+      "name": "home_button_explore_accessibility_label",
+      "value": "ویکیپیدیا، گەڕانەوە بۆ گەڕان"
+    },
+    {
+      "name": "home_button_saved_accessibility_label",
+      "value": "ویکیپیدیا، گەڕانەوە بۆ خەزێنەکراوەکان"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "زیاتر وەک \\$1"
+    },
+    {
+      "name": "home_nearby_footer",
+      "value": "شوێنی زیاتر لە نزیک شوێنەکەت"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "زیاتر لە نزیک \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "ڕووداوی زیاتر لە ئێستادا"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "بەڕێوەبردنی ھەڵبژاردەکان"
+    },
+    {
+      "name": "home_themes_prompt",
+      "value": " دەتوانیت بژاردەی خوێندنەوە و قەبارەی دەقەکان و ڕووکەش لە تووڵباڕی وتارەکانەوە یانیش لە ھەڵبژاردەکانەوە ڕێک بخەیت بۆ بەدەستھێنانی ئەزموونێکی خوێندنەوەی باشتر."
+    },
+    {
+      "name": "home_title",
+      "value": "دۆزینەوە"
+    },
+    {
+      "name": "home_title_accessibility_label",
+      "value": "ویکیپیدیا، گەڕانەوە بۆ سەری گەڕان"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "وتارەکانی پەیوەندیدار بە ناوچەکەت"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "وتاری ھەڕەمەکی"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "گەڕان بە ویکیپیدیادا"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "نووسەر نەناسراوە."
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "لە ویکیپیدیا"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "لە ھەواڵەکاندا"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "تێخستن"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "تێخستنی بەستەر"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "دەقی جێگرەوە"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "ناوەڕاست"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "چەپ"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "ھیچیان"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "ڕاست"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "شوێنی وێنە"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "زانیاریی زیاتر"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "وێنەیەک ھەڵبژێرە"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "بنچینەیی"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "پیکسڵ"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "قەبارەی وێنە"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "بنەڕەتی"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "چوارچێوە"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "بێچوارچێوە"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "وێنۆک"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "جۆری وێنە"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "ڕێکخستنەکانی میدیا"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "تێخستنی میدیا"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "زمانەکان"
+    },
+    {
+      "name": "languages_title",
+      "value": "گۆڕینی زمان"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "زمانەکانی ویکیپیدیا"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "بەردەوام بە بەبێ چوونەژوورەوە"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "بچۆرەوە نێو ھەژمارەکەت"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "تێپەڕوشەکەت لەبیر کردووە؟"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "بەشداربوونی ویکیپیدیا"
+    },
+    {
+      "name": "login_no_account",
+      "value": "ھەژمارت نییە؟  \\$1."
+    },
+    {
+      "name": "login_title",
+      "value": "بچۆ ژوورەوە بۆ ناو ھەژمارەکەت"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "سەبارەت بە بەرنامەکە"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "چوونە ناوەوە"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "دەرچوون"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "دڵنیای کە دەتەوێت بچیە دەرەوە؟"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "چووە ناوەوە بە ھەژماری \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "تایبەتێتی و مەرجەکان"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "لەم نزیکانە"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "سیاسەتی تایبەتێتی"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "پلەدان بە بەرنامەکە"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "مەرجەکانی بەکارھێنان"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "زیاتر"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "پرسیارە دووپاتکراوەکانی ویکیپیدیا سفر"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "بە زیاتر لە ٣٠٠ زمان بگەڕێ لە ویکیپیدیادا"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "زمان زیاد بکە"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "پێشبینین"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 پێ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 کیلۆمەتر"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 مەتر"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 میل"
+    },
+    {
+      "name": "new_password_instructions",
+      "value": "تۆ بە تێپەڕوشەیەکی کاتیی ھاتوویتە ژوورەوە. بۆ تەواوکردنی چوونە ژوورەوە تێپەڕوشەیەکی نوێ لێرە دابنێ."
+    },
+    {
+      "name": "new_password_title",
+      "value": "تێپەڕوشەکەت بنووسە"
+    },
+    {
+      "name": "no_email_account_alert",
+      "value": "تکایە ھەژماری ئیمەیڵێک جێگیر بکە لە ئامێرەکەت و ھەوڵ بدەرەوە."
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "پەیوەندیی ئینتەرنێت نییە"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "لە \\$1ەوە"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "ھۆشدار"
+    },
+    {
+      "name": "notifications_center_badge_button_accessibility_label",
+      "value": "ئاگادارکەرەوەکان بە نیشانەی نەخوێندراوەوە"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "ئاگادارکەرەوەی \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "گۆڕینی تێپەڕوشە"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "گەڕان بۆ ئاگادارییەکان..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "لەنێو بەرنامە"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "لە وێب"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "ھیچ پەیامێکت نییە"
+    },
+    {
+      "name": "notifications_center_feed_news_notification_button_text",
+      "value": "ئاگادارییەکان کار پێ بکە"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "ھەموو"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "خوێندراوە"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "نەخوێندراوە"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "دۆخی خوێندنەوە"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "ھەموو جۆرەکان"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "جۆرەکانی ئاگادارکەرەوەکان"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "وتار"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "پەڕەی وتووێژی \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "جیاوازی"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "پەڕەی بەکارھێنەری \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "بەندی ویکیدراوە"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "پەڕەی لێدوانەکەت"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "ھۆشدار لە \\$1ەوە"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "کرا"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "پڕۆژەکان"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "پرۆژەکانی ویکیمیدیا"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "ویکیپیدیاکان"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2ی \\$1"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "نیشانکردن"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "ھەموویان وەک خوێندراوە نیشان بکە"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "نیشانکردن وەک خوێندراوە"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "نیشانکردن وەک نەخوێندراوە"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "زیاتر"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "ڕێکخستنەکانی ئاگاداری"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 پەیام|\\$1 پەیام}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "بەردەوام بە"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "نا سپاس"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "ھەموو"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "ھەموو ئاگادارییەکان"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 لە \\$2"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "خوێندراوە"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 و \\$2 لە \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "نەخوێندراوە"
+    },
+    {
+      "name": "notifications_center_subheader_edit_reverted",
+      "value": "دەستکارییەکەت گەڕێندرایەوە"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "ئیمەیڵی نوێ"
+    },
+    {
+      "name": "notifications_center_subheader_login_fail_known_device",
+      "value": "چەند ھەوڵێکی چوونەژوورەوەی سەرنەکەوتوو"
+    },
+    {
+      "name": "notifications_center_subheader_mention_article_talk_page",
+      "value": "ئاماژەپێدان لە پەڕەی وتوویژی وتار"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "بەستەری پەڕە"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "سپاس"
+    },
+    {
+      "name": "notifications_center_subheader_user_rights_change",
+      "value": "گۆڕانی مافەکانی بەکارھێنەر"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "بەخێربێیت!"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "زیاتر"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ھیتر"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "بەستەری پەڕە"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "سپاس"
+    },
+    {
+      "name": "notifications_center_type_title_user_rights_change",
+      "value": "گۆڕانی مافەکانی بەکارھێنەر"
+    },
+    {
+      "name": "notifications_center_type_title_user_talk_page_messsage",
+      "value": "پەیامی پەڕەی وتووێژ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "بەخێربێیت"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "چالاکیی نوێ لە ویکیپیدیا"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "لە \\$1 بۆ \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 ڕووداوی مێژوویی|\\$1 ڕووداوە مێژووییەکان}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "ڕووداوی مێژوویی زیاتر لەمڕۆدا"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 لە ویکیپیدیای \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "لەم ڕۆژەدا"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "دەستکارییەکانی بۆت"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "مێژووی پێداچوونەوە"
+    },
+    {
+      "name": "page_protected_can_not_edit",
+      "value": "تۆ مەفەکانی دەستکاریکردنی ئەم پەڕەیەت نییە."
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "ئەم پەڕەیە پارێزراوە"
+    },
+    {
+      "name": "pictured",
+      "value": "وێنەکراو"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "سڕینەوەی گەڕانە خەزنکراوەکان"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 وتار"
+    },
+    {
+      "name": "places_accessibility_recenter_map_on_user_location",
+      "value": "ڕێکخستنەوەی ناوچەکەت"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "وەک پێڕست نیشانی بدە"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "وەک نەخشە بیشانی بدە"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "وتاری زیادتر پیشان بدە"
+    },
+    {
+      "name": "places_empty_search_description",
+      "value": "بگەڕێ بەناو شارەکان، وڵاتەکان، کیشوەرەکان، شوێنە سروشتییەکان، ڕووداوە مێژووییەکان، تەلارەکان و زیاتر."
+    },
+    {
+      "name": "places_empty_search_title",
+      "value": "بۆ وتارەکانی ویکیپیدیا بگەڕێ بە ناوچەی جوگرافیاوە"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "لۆکەیشن کار پێ بکە"
+    },
+    {
+      "name": "places_enable_location_description",
+      "value": "تەنھا کاتێک زانیاری شوێنەکەت وەردەگیرێت کە ئاپەکە یان یەکێک لە تایبەتمەندییەکانی بەکار دەھێنیت."
+    },
+    {
+      "name": "places_enable_location_title",
+      "value": "ئەو وتارانە بگەڕێ کە باس لە شوێنەکانی دەوروبەرت دەکەن بە کارپێکردنی لۆکەیشن"
+    },
+    {
+      "name": "places_filter_no_saved_places",
+      "value": "ھیچ شوێنێکی پاشەکەوتکراوت نییە"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "وتارە خەزێنەکراوەکان"
+    },
+    {
+      "name": "places_filter_top_articles",
+      "value": "زۆرترین خوێندراوە"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 وتار|\\$1 وتار}}"
+    },
+    {
+      "name": "places_no_saved_articles_have_location",
+      "value": "ھیچ کامێک لە وتارە پاشەکەوتکراوەکانت زانیاری ناوچەییان نییە"
+    },
+    {
+      "name": "places_search_articles_that_match",
+      "value": "\\$1 لە «\\$2» دەچێت"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "بە شوێنەکاندا بگەڕێ"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "ئایا مەبەستت لە \\$1 بوو؟"
+    },
+    {
+      "name": "places_search_recently_searched_header",
+      "value": "گەڕانە نوێکان"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "وتارە پاشەکەوتکراوەکان"
+    },
+    {
+      "name": "places_search_suggested_searches_header",
+      "value": "گەڕانە پێشنیارکراوەکان"
+    },
+    {
+      "name": "places_search_this_area",
+      "value": "ئەم ناوچەیە بگەڕێ"
+    },
+    {
+      "name": "places_search_top_articles",
+      "value": "بەناوبانگترین وتارەکان"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "لەم نزیکانەدا"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "شوێنی ئێستات"
+    },
+    {
+      "name": "places_title",
+      "value": "شوێنەکان"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "دوورییەکی نەزانراوە"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "وێنەی ڕۆژ بۆ \\$1"
+    },
+    {
+      "name": "potd_empty_error_description",
+      "value": "ھێنانی وێنەی ڕۆژ بۆ \\$1 شکستی ھێنا"
+    },
+    {
+      "name": "preference_summary_eventlogging_opt_in",
+      "value": "ڕێگەدان بە دامەزراوەی ویکیمیدیا بۆ کۆکردنەوەی زانیاری لەبارەی چۆنیەتی بەکارھێنانی بەرنامەکە لەلایەن تۆوە، بە مەبەستی باشترکردنی بەرنامەکە"
+    },
+    {
+      "name": "reading_lists_conflicting_reading_list_name_updated",
+      "value": "پێڕستی '\\$1' ناوی گۆڕدرا بۆ '\\$2'."
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "پاشەکەوت کرا"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "ڕووکاری ڕەش"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_brightness_slider",
+      "value": "خزێنەری ڕووناکی"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ڕووکەشی تاریک"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "ڕووکەشی ڕووناک"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "ڕووکەشی قاوەیی تێر (سپیا)"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_text_size_slider",
+      "value": "خزێنەری قەبارەی دەق"
+    },
+    {
+      "name": "reference_title",
+      "value": "سەرچاوە \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=ئەمڕۆ|دوێنێ|\\$1 ڕۆژ لەمەوبەر}}"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=لەم ماوەیەدا|\\$1 سەعات لەمەوبەر|\\$1 سەعات لەمەوبەر}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=ھەر ئێستا|\\$1 دەقە لەمەوبەر|\\$1 دەقە لەمەوبەر}}"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=ئەم ساڵ|Last year|\\$1 ساڵ لەمەوبەر}}"
+    },
+    {
+      "name": "saved_pages_image_download_error",
+      "value": "داگرتنی وێنەکان بۆ ئەم وتارە خەزن کراوە شکستی ھێنا"
+    },
+    {
+      "name": "saved_title",
+      "value": "پاشەکەوت کرا"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "گەڕان بە ویکیپیدیادا"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "گەڕان بە ویکیپیدیادا"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "دڵنیایت دەتەوێت ھەموو تازە گەڕانەکانت بسڕیتەوە؟"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "ئەم فرمانە ناتوانرێت بگەڕێندرێتەوە!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "هەمووی بسڕەوە"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "گەڕانە نوێکان"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "ڕەوانەکراوە لە: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "گەڕان"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "ھەڵبژاردەکانی خوێندنەوە"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "کاشی دراوە پاک بکەرەوە"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_message",
+      "value": "پاککردنەوەی دراوەی کاش \\$1 لە مێمۆریت بۆ دەگەڕێنێتەوە. پەڕە پاشەکەوتکراوەکانت ناسڕێتەوە."
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "پاککردنەوەی دراوەی کاش؟"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "ھەڵوەشاندنەوە"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "پاککردنەوەی کاش"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "یارمەتی و فیدباک"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "زمانەکان نیشان بدە لە گەڕان"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "زمانەکانم"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "ھۆشدارەکان"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "سەرەکی"
+    },
+    {
+      "name": "settings_primary_language_details",
+      "value": "یەکەم زمانی ئەم لیستە وەک زمانی سەرەکی ئەپەکە بەکاردێت."
+    },
+    {
+      "name": "settings_title",
+      "value": "ڕێکخستنەکان"
+    },
+    {
+      "name": "share_a_fact_made_with",
+      "value": "بە بەرنامەی ویکیپیدیا دروستکراوە"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "«\\$1» لەسەر @Wikipedia:"
+    },
+    {
+      "name": "share_building",
+      "value": "کارتێکی ڕاستییەک-ھاوبەش-بکە دروست دەکرێت..."
+    },
+    {
+      "name": "share_default_format",
+      "value": "«\\$1» لە «\\$2»: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "«\\$1»\n\nلە «\\$2»\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "وەرگرتنی ئاڕاستەکان"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "ھاوبەشکردن..."
+    },
+    {
+      "name": "share_message_format",
+      "value": "«\\$1» \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "لەڕێی @ویکیپیدیا"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "کردنەوە لە نەخشەدا"
+    },
+    {
+      "name": "share_social_format",
+      "value": "«\\$1» بە ویکیپیدیا: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "«\\$1» بە @ویکیپیدیا: \\$2"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "خشتەی ناوەڕۆکەکان"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "داخستن"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "داخستنی خشتەی ناوەڕۆکەکان"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "ناوەڕۆکەکان"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "زانیاریی پەڕە"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "بەستەری ھەمیشەیی"
+    },
+    {
+      "name": "talk_page_publish_reply_error_subtitle",
+      "value": "تکایە پەیوەندیی ئینتەرنێتیت بپشکنە."
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "خوێندنەوە لە وێب"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "بەستەرەکان بە ئێرەوە"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "وەڵامدانەوە"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "وەڵامدانەوەی \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "وەڵامدانەوەی \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "مێژووی پێداچوونەوەکان"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "پەڕەی وتووێژ بڵاو بکەرەوە"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "بەشدار بە"
+    },
+    {
+      "name": "talk_page_subscribed_alert_subtitle",
+      "value": "ئاگاداریت لەسەر لێدوانە نوێیەکانی ئەم بابەتە بۆ دێت."
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "بەشداریت کرد!"
+    },
+    {
+      "name": "talk_page_subscription_failed_alert",
+      "value": "بەشداریکردن لە بابەتەکەدا شکستی ھێنا، تکایە ھەوڵ بدەرەوە."
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "وتووێژی وتار"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "بەشدار مەبە"
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_subtitle",
+      "value": "چیتر ئاگادارییەکانت لەسەر لێدوانە نوێیەکانی ئەم بابەتە بۆ نایەت."
+    },
+    {
+      "name": "talk_page_unsubscribed_alert_title",
+      "value": "چیتر بەشدار نیت."
+    },
+    {
+      "name": "talk_page_unsubscription_failed_alert",
+      "value": "بەشدارینەکردن لە بابەتەکەدا شکستی ھێنا، تکایە ھەوڵ بدەرەوە."
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "بەشدارییەکان"
+    },
+    {
+      "name": "talk_pages_archives_empty_title",
+      "value": "ھیچ پەڕەیەکی ئەرشیفکراو نەدۆزرایەوە."
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "ئەرشیڤەکان"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "زیاتر بخوێنەوە"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "بەردەوامبە لە دەستکاریکردن"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "وەسفی بابەت"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "پەڕەی وتووێژ"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "گرووپەکانی بەکارھێنەر"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "لۆگەکان"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "لێدوان"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "ڕەش"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "تاریک"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "بنچینەیی"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "ھاوشێوەی شێوازی سیستەم"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "ڕووناک"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "قاوەیی تێر"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 خوێنەر"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "زۆرترین خوێندراوە"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "بەردەوامبوونی چوونەژوورەوە"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "تکایە کۆدی دڵنیاکردنەوەی دووجاری داخڵ بکە"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "بچۆ ژوورەوە بۆ ناو ھەژمارەکەت"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "یەکێک لە کۆدی باک-ئەپەکانت بەکاربھێنە"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "کۆدی دووپاتکردنەوە بەکاربھێنە"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "نەزانراو"
+    },
+    {
+      "name": "unwatch",
+      "value": "لابردنی چاودێری"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "ناوی بەکارھێنەر و پەڕەی بەکارھێنەر"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "ئاگاداری"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "نا سپاس"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "بەسەر ھەڵبژاردەکانتدا بچۆرەوە"
+    },
+    {
+      "name": "watch",
+      "value": "چاودێریی بکە"
+    },
+    {
+      "name": "watchlist",
+      "value": "پێرستی چاودێری"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "پاڵێوەر"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "بەشدارییەکانی بەکارھێنەر"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "پەڕەی بەکارھێنەر"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "پەڕەی وتووێژی بەکارھێنەر"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_description",
+      "value": "ئەو وتارانەی لە لایەن کۆمەڵگەکەمانەوە پێشنیار کراون"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "گەڕان و دۆزینەوە لە پەڕەی سەرەکی"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_description",
+      "value": "بگەڕێوە بۆ مێژوو تا بزانی ئەمڕۆ لە مێژوودا چی ڕوویداوە"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "لەم ڕۆژەدا"
+    },
+    {
+      "name": "welcome_exploration_places_description",
+      "value": "شوێنەواری نزیک خۆت بدۆزەرەوە یانیش بۆ شوێنەکانی تری جیھان بگەڕێ"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "خانەی شوێنەکان"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "دەست پێ بکە"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "ڕێگەی نوێ بۆ گەڕان"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "تێگەیشتم"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_description",
+      "value": "ویکیپیدیا لە لایەن خۆبەخشان دەنووسرێتەوە و ھەنووکە زیاتر لە ٤٠ ملیۆن وتار بە زیاتر لە ٣٠٠ زمانی جیاواز ھەن."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "زیاتر فێرببە دەربارەی ویکیپیدیا"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "لەبارەی ویکیپیدیاوە"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_description",
+      "value": "ویکیپیدیا پرۆژەیەکی جیھانییە بۆ دروستکردنی ئینسایکڵۆپیدیای ئازاد بە ھەموو زمانەکانی جیھان. ھەمووکەسێک دەتوانێت بەشداری لە ویکیپیدیا بکات بەڵام بە مەرجی بێلایەنیی و دانانی سەرچاوەی جێباوەڕ بۆ نووسراوەکانیان و پەسەندکردنی مەرجەکانی بەکارھێنان و سیاسەتەکان."
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "ئینسایکڵۆپیدیای ئازاد"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "زیادکردنی زمانێکی تر"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "زیادکردن یان دەستکاریکردنی زمانەکان"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "ئەم زمانانەمان لەسەر ئامێرەکەت دۆزییەوە:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "بە زیاتر لە ٣٠٠ زمان بگەڕێ"
+    },
+    {
+      "name": "widget_onthisday_description",
+      "value": "بزانە لەمڕۆی مێژوودا چی ڕوویداوە."
+    },
+    {
+      "name": "wikitext_preview_changes",
+      "value": "گۆڕانکارییەکانت بیشان دەدرێن..."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_description",
+      "value": "ئەم بەستەرە دەچێتە سەر ماڵپەڕێکی دەرەکی: \\$1"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "بەستەری دەرەکی"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_description",
+      "value": "ویکیپیدیا پەڕەیەکی نییە بەو ناوەوە"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "ھیچ بەستەرێکی ناوخۆیی نەدۆزراوەیەوە"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "ئەم بەستەرە دەتگەێنێت بە «\\$1»"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "پێشبینی بەستەر"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "پاشەکەوتکردنی گۆڕانکارییەکان"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "ھەڵە لە دڵنیاکردنەوەی کاپچا"
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "پێویستت بە دووپاتکردنەوەی کاپچایە"
+    },
+    {
+      "name": "wikitext_upload_result_unknown",
+      "value": "نەتواندر ئەنجامی ویکیدەقی بارکراو بەدەست بھێندرێت."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "بڵاوکردنەوە..."
+    },
+    {
+      "name": "wikitext_upload_save_anonymously_warning",
+      "value": "دەستکارییەکان دەدرێنە پاڵ ناونیشانی ئای پییەکەی مۆبایلەکەت. ئەگەر \\$1 ئای پییەکەت دەشاردرێتەوە."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "مەرجەکانی بەکارھێنان"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "لەبەر ئەوەی ئەمەت خوێندەوە:"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "ھەموو وتارە زۆرترین خوێندراوەکان"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "وتارێکی تر بە ھەڵکەوت"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "لە %s ویکیپیدیا"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "لە ویکیپیدیای %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "لە ویکیمیدیا کۆمنزەوە"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ھیچ مێژوویەک نییە بۆ بینین"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "شاردنەوەی کارت"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "وەسفی ناونیشان بۆ %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "ئایا مەبەستت لە %s بوو؟"
+    }
+  ]
+}

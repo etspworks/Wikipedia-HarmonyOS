@@ -1,0 +1,2492 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wikipedii"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Syväindölicenzii"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Ku ei toizin mainittane, syväindö on suadavannu \\$1-licenziel."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike -licenzii"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Kirjuttajat"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Käytetyt kirjastot"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Tävvelline luvettelo"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Licenzii"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Suvaičemmo vällän lähtekoodan ohjelmistoloi \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Paikat-kartan licenzii"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Paikkoin kartat tullah Apple Maps -palvelus. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Licenziitiijot"
+    },
+    {
+      "name": "about_product_of",
+      "value": "\\$1 luajittu yhtes sinun jyttyzien omatahtozienke"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Tiedovarastot"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Lähtekoodu on suadavannu \\$1-licenzien ehtoloin mugah."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "MIT-licenzii"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Sano oma mieli sobivutukses"
+    },
+    {
+      "name": "about_title",
+      "value": "Tieduo"
+    },
+    {
+      "name": "about_translators",
+      "value": "Kiändäjät"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Omatahtozien kiännetty sivul \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Wikimedii-fondu"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wikipedii"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Etgo näi kuvua? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Hommatah uuttu CAPTCHA-varmendustu…"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Pakiče käyttäitunnustu"
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "CAPTCHA-varmendus"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Luaji tili"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Ongo sinul jo tili? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Kirjuttai."
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Kirjuttahes"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Sinul pidäy työndiä käyttäjännimi, peittosana da peittosanan varmendus, što voit luadie käyttäjän."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Peittosanat ei olla yhtenyttymät."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Tallendetah..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Luaji uuzi tili"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Omassas tili"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Hävitä tili"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Paginsivu"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Allekirjuta avtomuattizesti"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions_setting_explanation",
+      "value": "Allekirjuta paginviestit avtomuattizesti azetuksien allekirjutuksel"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Paginsivuloin azetukset"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Ližiä…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Ližiä luvendulistah"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Ližiä listah"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Hylgiä"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Hylgiä kohendus"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Hylgiä kohendukset"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Eči täl sivul"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Jatka edituičendua"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Vaihta kieli"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Siirrä kohtah…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Siirrä luvendulistah"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Tulii versii"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Iellembäine versii"
+    },
+    {
+      "name": "action_read",
+      "value": "Luve"
+    },
+    {
+      "name": "action_redo",
+      "value": "Rua uvvessah"
+    },
+    {
+      "name": "action_remove",
+      "value": "Ota iäre"
+    },
+    {
+      "name": "action_retry",
+      "value": "Opi uvvessah"
+    },
+    {
+      "name": "action_save",
+      "value": "Tallenda"
+    },
+    {
+      "name": "action_saved",
+      "value": "Tallendettu"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Tallendettu. Aktivoiče, što otat iäre."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Artiklu tallendettu myöhembäkse"
+    },
+    {
+      "name": "action_share",
+      "value": "Jua"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Jua"
+    },
+    {
+      "name": "action_sort",
+      "value": "Sortiruiče"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Passiboiče käyttäjiä"
+    },
+    {
+      "name": "action_undo",
+      "value": "Älä rua"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Älä tallenda"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Heitetty artiklan tallendamine"
+    },
+    {
+      "name": "action_update",
+      "value": "Päivitä"
+    },
+    {
+      "name": "activity_tab_add_images_subtitle",
+      "value": "Ližiä Wikipedii-artiklah ehtotettuloi fotoloi, što kohendat ellendämisty."
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Ližiä fotoloi"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Muudu duumua?"
+    },
+    {
+      "name": "activity_tab_amount_article_views",
+      "value": "{{PLURAL:\\$1|\\$1 kačondukerdu|\\$1 kačondukerdua}}"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Täl kuul luvetut kirjutukset"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Kirjutukset"
+    },
+    {
+      "name": "activity_tab_customize_all_time_impact",
+      "value": "Kaiken aijan vaikutus"
+    },
+    {
+      "name": "activity_tab_customize_editing_insights",
+      "value": "Editoičendupiäkohtat"
+    },
+    {
+      "name": "activity_tab_customize_last_in_app_donation",
+      "value": "Jälgimäine lahjoitus sobivutukses"
+    },
+    {
+      "name": "activity_tab_customize_logout_warning",
+      "value": "Sinul pidäy olla kirjois, što voit panna piäle tämän aktiivižuspiäkohtan."
+    },
+    {
+      "name": "activity_tab_customize_reading_insights",
+      "value": "Luvendupiäkohtat"
+    },
+    {
+      "name": "activity_tab_customize_time_spent_reading",
+      "value": "Luvendah käytetty aigu"
+    },
+    {
+      "name": "activity_tab_customize_timeline_of_behavior",
+      "value": "Ičenviendän aigujana"
+    },
+    {
+      "name": "activity_tab_email_fifth_line",
+      "value": "[Ekruanufotot libo linkat]"
+    },
+    {
+      "name": "activity_tab_email_first_line",
+      "value": "Olen vastavunnuh probliemanke Aktiivižussivu-ominažuonke"
+    },
+    {
+      "name": "activity_tab_email_fourth_line",
+      "value": "[Kuvaile tahtottuu ičenviendiä]"
+    },
+    {
+      "name": "activity_tab_email_second_line",
+      "value": "– [Kuvaile tarkua probliemua]"
+    },
+    {
+      "name": "activity_tab_email_third_line",
+      "value": "Ičenviendy, kudamua tahtozin nähtä, on:"
+    },
+    {
+      "name": "activity_tab_email_title",
+      "value": "Probliemuraportu - Aktiivižussivu"
+    },
+    {
+      "name": "activity_tab_empty_subtitle",
+      "value": "Rubie lugemah da editoiččemah, što luajit omassas histouriedu"
+    },
+    {
+      "name": "activity_tab_empty_title",
+      "value": "Ei ole kačottavua"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Et ole editoinnuh täl nedälil. Alla nygöi, što voit sebrata omassas panostu."
+    },
+    {
+      "name": "activity_tab_history_callout_body",
+      "value": "Šelaile libo tyhjendä omassas luvenduhistourii **Eččosivul**."
+    },
+    {
+      "name": "activity_tab_history_callout_body_loggedout",
+      "value": "Lövvä da tyhjendä omassas luvenduhistourii **Eččosivul**. Et tarviče tilii."
+    },
+    {
+      "name": "activity_tab_hitory_callout_close",
+      "value": "Salbua histourii-ilmoituskarti"
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1 h \\$2 min"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "WIKIPEDIA iOSAS"
+    },
+    {
+      "name": "activity_tab_impact_all_time_title",
+      "value": "Kaiken aijan vaikutus"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_format",
+      "value": "{{PLURAL:\\$1|\\$1 päivy|\\$1 päiviä}}"
+    },
+    {
+      "name": "activity_tab_impact_best_streak_label",
+      "value": "paras butki"
+    },
+    {
+      "name": "activity_tab_impact_edits_label",
+      "value": "kohendukset"
+    },
+    {
+      "name": "activity_tab_impact_last_edited_label",
+      "value": "jälgimäzekse editoitu"
+    },
+    {
+      "name": "activity_tab_impact_recent_activity_title",
+      "value": "Sinun veres aktiivižus (mennyt 30 päiviä)"
+    },
+    {
+      "name": "activity_tab_impact_recent_startend_accessibility",
+      "value": "Päiväs \\$1 päivässäh \\$2"
+    },
+    {
+      "name": "activity_tab_impact_thanks_label",
+      "value": "passibot"
+    },
+    {
+      "name": "activity_tab_impact_total_edits_label",
+      "value": "editoičendat kaikkiedah"
+    },
+    {
+      "name": "activity_tab_impact_views_day",
+      "value": "Päivy"
+    },
+    {
+      "name": "activity_tab_impact_views_title",
+      "value": "Sinun editoituloin kirjutuksien kačondukerrat"
+    },
+    {
+      "name": "activity_tab_impact_views_views",
+      "value": "Kačondukerrat"
+    },
+    {
+      "name": "activity_tab_log_in_or_create_account",
+      "value": "Kirjuttai libo luaji tili, što näit enämbäl editoičendu- da luvenduaktiivižuttu."
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Kirjuttai libo luaji tili, što näit omassas aktiivižuon Wikipedii-sobivutukses."
+    },
+    {
+      "name": "activity_tab_logged_out_title",
+      "value": "Kačo ližiä luvendu- da editoičendupiäkohtii"
+    },
+    {
+      "name": "activity_tab_logged_out_track_what_youve_read",
+      "value": "Sebrua, midä olet lugenuh da kačo sinun panos aijan mugah uvvel luavul"
+    },
+    {
+      "name": "activity_tab_menu_clear_history",
+      "value": "Tyhjendä luvenduhistourii"
+    },
+    {
+      "name": "activity_tab_most_viewed",
+      "value": "Eniten kačottu sinun editoičendan jälgeh"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Neitral’noi"
+    },
+    {
+      "name": "activity_tab_no_edits_title",
+      "value": "Et ole editoinnuh täl nedälil. Ližiä fotoloi, što kohendat kirjutuksen ellendämisty."
+    },
+    {
+      "name": "activity_tab_no_username_reading_title",
+      "value": "Sinun luvendu"
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_subtitle",
+      "value": "Kačo, äijängo aigua olet menetännyh lugijen da midä kirjutuksii da teemoi olet tutkinuh aijan mugah."
+    },
+    {
+      "name": "activity_tab_onboarding_first_item_title",
+      "value": "Luvendutottumukset"
+    },
+    {
+      "name": "activity_tab_onboarding_fourth_item_title",
+      "value": "Pyzy haldivoičendas"
+    },
+    {
+      "name": "activity_tab_onboarding_header",
+      "value": "Ezitelläh Aktiivižus"
+    },
+    {
+      "name": "activity_tab_onboarding_second_button_title",
+      "value": "Luve ližiä Aktiivižuoh näh"
+    },
+    {
+      "name": "activity_tab_onboarding_second_item_title",
+      "value": "Vaikutuksen piäkohtat"
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_subtitle_updated",
+      "value": "Aktiivižuoh kuuluu levei aigujana luvettulois, tallendettulois da editoitulois kirjutuksis. Sinun luvenduhistourii on nygöi Eččosivul."
+    },
+    {
+      "name": "activity_tab_onboarding_third_item_title_updated",
+      "value": "Luvenduhistourii on nygöi Ečos."
+    },
+    {
+      "name": "activity_tab_read_title",
+      "value": "Ozuta luvenduhistourii"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "Tyydyväine"
+    },
+    {
+      "name": "activity_tab_saved",
+      "value": "Täl kuul tallendetut kirjutukset"
+    },
+    {
+      "name": "activity_tab_start_editing",
+      "value": "Zavodi edituija"
+    },
+    {
+      "name": "activity_tab_survey_subtitle",
+      "value": "Avvuta kohemdamah Aktiivižuttu. Oletgo tyydyväine tämän ominažuonke?"
+    },
+    {
+      "name": "activity_tab_survey_title",
+      "value": "Tyydyväžysankiettu"
+    },
+    {
+      "name": "activity_tab_time_spent_reading",
+      "value": "Luvendah menetetty aigu täl nedälil"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "Aktiivižus"
+    },
+    {
+      "name": "activity_tab_top_categories",
+      "value": "Huippukirjutukset täl kuul"
+    },
+    {
+      "name": "activity_tab_total_edits",
+      "value": "Edotoičendat kaikkiedah projektoin välil"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "Tyydymätöi"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "Ylen tyydyväine"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "Ylen tyydymätöi"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": "Ozuta editoičenduhistourii"
+    },
+    {
+      "name": "activity_tab_view_reading_history",
+      "value": "Ozuta luvenduhistourii"
+    },
+    {
+      "name": "activity_tab_view_saved_articles",
+      "value": "Ozuta tallendetut kirjutukset"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "Nedäli"
+    },
+    {
+      "name": "activity_tab_you_edited",
+      "value": "Kohendit {{PLURAL:\\$1|\\$1 kerran|\\$1 kerdua}} täl nedälil."
+    },
+    {
+      "name": "activity_tab_you_read",
+      "value": "Luvit {{PLURAL:|\\$1 kirjutuksen|\\$1 kirjutustu}} täl nedälil."
+    },
+    {
+      "name": "activity_tab_you_saved",
+      "value": "Tallendit {{PLURAL:\\$1|\\$1 kirjutuksen|\\$1 kirjutustu}} täl nedälil."
+    },
+    {
+      "name": "activity_tab_your_impact",
+      "value": "Sinun vaikutus"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Ližiä {{PLURAL:\\$1|\\$1 kirjutus|\\$1 kirjutustu}} luvendulistah"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Ližäazetukset"
+    },
+    {
+      "name": "alert_temporary_account",
+      "value": "Käytät väliaigastu tilii. Tili vahnanou 90 päivän mendyy."
+    },
+    {
+      "name": "alert_temporary_account_learn_more",
+      "value": "Luve ližiä."
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "Työndö työnnetty"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Hylgiä"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wikipedii, vihjavus, wiki, tiedosanakniigu, informacii, tiedo, tutkimus, tutki, opastu"
+    },
+    {
+      "name": "app_store_release_notes",
+      "value": "Täyzin kohendettavu da kebjiembäh lugiettavu Tutki-feedu. Paikallistamistu da pidokyvyn sego programmuhairehien kohendamistu."
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Wikipedii-sobivutuksel voit tutkie lähäl olijoi kohtii, täyttiä kirjutuksii lugiettavakse internettuyhtevyttäh da sobivuttua omassas luvendukogemustu."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Välly tiedosanakniigu"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Reguliiruiče kirjutuksien tekstan suuruttu"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Vällendä tablicu"
+    },
+    {
+      "name": "appearance_settings_icon_contributor_title",
+      "value": "Kohendai"
+    },
+    {
+      "name": "appearance_settings_image_dimming_footer",
+      "value": "Vähendä fotoloin mutakkovuttu pimies da mustas teemas"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Luvenduteemu"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Spiskuazetukset"
+    },
+    {
+      "name": "appearance_settings_set_icon_header",
+      "value": "Sobivutusikonku"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Teemuazetukset"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Täh kirjutukseh näh"
+    },
+    {
+      "name": "article_delete",
+      "value": "Ota iäre"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|kirjutus|kirjutustu}} otettu iäre"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Eči kieli"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Valliče kieli"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Toizet kielet"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Omat kielet"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Luve ližiä"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Viiteh \\$1"
+    },
+    {
+      "name": "article_return_button_accessibility_title",
+      "value": "Mene järilleh kirjutukseh \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Kirjutuksen versiihistourii"
+    },
+    {
+      "name": "article_save_error_not_enough_space",
+      "value": "Sinun laittehes eule tarbehekse sijua kirjutuksen tallendamizeh"
+    },
+    {
+      "name": "article_share",
+      "value": "Jua"
+    },
+    {
+      "name": "article_tabs_button_accessibility_label",
+      "value": "Kirjutusvälilehtet"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_subtitle",
+      "value": "Avua mondu kirjutustu da vaihta niilöin välil kebjieh."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_1_title",
+      "value": "Šelaile sivuloin välil"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_subtitle",
+      "value": "Välilehtet mustetah sivun kohtu avtomuattizesti."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_2_title",
+      "value": "Jatka sie, kunne jäit"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_subtitle",
+      "value": "Avua linkoi tavuksel menettämättäh kohtua sivul."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_3_title",
+      "value": "Tallenda linkoi myöhembäkse"
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_subtitle",
+      "value": "Valliče, tahtotgo nähtä vesselii faktoi libo luvenduehtotuksii, konzu avuat uvven välilehten."
+    },
+    {
+      "name": "article_tabs_feature_announcement_item_4_title",
+      "value": "Personaliiruiče omassas uuzi välilehti"
+    },
+    {
+      "name": "article_tabs_feature_announcement_sub_cta",
+      "value": "Luve ližiä välilehtilöih näh"
+    },
+    {
+      "name": "article_tabs_feature_announcement_title",
+      "value": "Ozuttelus välilehtet"
+    },
+    {
+      "name": "article_tabs_navigation",
+      "value": "Välilehtišelailu"
+    },
+    {
+      "name": "article_tabs_onboarding_tooltip",
+      "value": "Välilehtien ruadoinstrumentunevvot uuzile käyttäjile"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "Avua"
+    },
+    {
+      "name": "article_tabs_open_background_tab",
+      "value": "Avua välilehti taga-alal"
+    },
+    {
+      "name": "article_tabs_open_new_tab",
+      "value": "Avua uvves välilehtes"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Kirjutuksen paginsivu"
+    },
+    {
+      "name": "article_toolbar_reading_themes_controls_toolbar_item",
+      "value": "Luvenduteemoin ohjaimet"
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_subtitle",
+      "value": "Väliaigaine tili \\$1 luajittih, konzu sinun muokkavo jullattih. Se vahnanou 90 päivän mendyy."
+    },
+    {
+      "name": "article_view_controller_editing_temp_account_created_title",
+      "value": "Väliaigaine tili luajittu"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Järilleh"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Plikkua, što piäzet järilleh"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Mene järilleh"
+    },
+    {
+      "name": "button_next",
+      "value": "Tulii"
+    },
+    {
+      "name": "button_ok",
+      "value": "OK"
+    },
+    {
+      "name": "button_publish",
+      "value": "Julgua"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Julgua yksikai"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Anna tiedoh programmuhaireh"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Tallenda tuliekse aigua"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Tallendettu tuliekse aigua"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Ota iäre tallendettulois"
+    },
+    {
+      "name": "button_skip",
+      "value": "Jätä huomuamattah"
+    },
+    {
+      "name": "cancel",
+      "value": "Hylgiä"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Päivityksii kitain kielen kieliversiitugeh"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Tyhjendä"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Välimuston tyhjendämine on valmis."
+    },
+    {
+      "name": "clearing_cache_error",
+      "value": "Probliemu välimuston tyhjendämizes"
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Välimustuo tyhjendetäh."
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "Salbua kai välilehtet"
+    },
+    {
+      "name": "close_all_tabs_confirmation",
+      "value": "Tahtotgo salvata kai \\$1 välilehtie? Tädä ruaduo ei voi peruuttua."
+    },
+    {
+      "name": "close_all_tabs_confirmation_number",
+      "value": "Salvatahgo kai \\$1 välilehtie?"
+    },
+    {
+      "name": "close_all_tabs_confirmation_subtitle_with_value",
+      "value": "Tahtotgo salvata {{PLURAL:\\$1|\\$1 välilehten|\\$1 välilehtie}}? Tädä ruaduo ei voi peruuttua."
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "Salvatahgo {{PLURAL:|\\$1 välilehti|\\$1 välilehtie}}?"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Salbua"
+    },
+    {
+      "name": "close_other_tabs",
+      "value": "Salbua toizet välilehtet"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "Salvatahgo välilehti?"
+    },
+    {
+      "name": "close_tabs",
+      "value": "Salbua välilehtet"
+    },
+    {
+      "name": "closed_all_tabs_confirmation_with_value",
+      "value": "{{PLURAL:|\\$1 välilehti|\\$1 välilehtie}} salvattu."
+    },
+    {
+      "name": "collect_prize_title",
+      "value": "Ota vastah omassas palkindo!"
+    },
+    {
+      "name": "compass_direction",
+      "value": "č. \\$1"
+    },
+    {
+      "name": "confirm_donation_history_deletion_subtitle",
+      "value": "Tämä koskehes vaiku täl laittehel luajittuloi lahjoituksii."
+    },
+    {
+      "name": "confirm_donation_history_deletion_title",
+      "value": "Varmenda iäreotto"
+    },
+    {
+      "name": "confirmed_donation_history_deletion",
+      "value": "Paikalline histourii otettu iäre"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Jatka"
+    },
+    {
+      "name": "continue_reading_empty_description",
+      "value": "Tutki Wikipediedu, što lövvät ližiä kirjutuksii lugiettavakse"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Ei vastevai lugiettuloi kirjutuksii"
+    },
+    {
+      "name": "contributions_this_month",
+      "value": "Panos täl kuul"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Päivityksii krimantatuaran kieliversiitugeh"
+    },
+    {
+      "name": "customize_action_title",
+      "value": "Sobivuta"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Päivitetäh..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Ližiä kuvavus"
+    },
+    {
+      "name": "description_article_introduction_warning_message",
+      "value": "Vuittiloin jälletys on kohendusnägymäs erijyttyine kui luvendunägymäs."
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Kirjutuksen kuva \\$1"
+    },
+    {
+      "name": "description_edit_license",
+      "value": "Muuttamal kirjutuksen kuvavustu hyväksyn \\$1 da peruuttamattomah julguan omassani muokkavot \\$2-licenziel."
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Editoiče ozutteluu"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Editoiče kirjutuksen kuvavustu"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Lyhyččäzet kuvavukset ollah parahii"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Julgua kuvavus"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Editoiče kuvavustu"
+    },
+    {
+      "name": "description_edit_warning",
+      "value": "Opi pidiä kuvavus lyhyönny, što käyttäjät ellendetäh kirjutuksen aiheh yhtel silmävyksel"
+    },
+    {
+      "name": "description_edit_warning_casing",
+      "value": "Vaiku proprit pidäs kirjuttua suurel algukirjaimel, hos net oldas virkehen allus."
+    },
+    {
+      "name": "description_editing_temp_account_created_subtitle",
+      "value": "Väliaigaine tili \\$1 luajittih, konzu sinun muokkavo jullattih. Se vahnanou 90 päivän mendyy."
+    },
+    {
+      "name": "description_help_about_description",
+      "value": "Lyhyt kuvavus koncentriiruiččou kirjutuksen da avvuttau ellendämäh sen aihehen ruttoh."
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Tieduo"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Tieduo Wikidatah näh"
+    },
+    {
+      "name": "description_help_more_info_description",
+      "value": "Kuvavukset tallendetah Wikidatah. Se on Wikimedii-fondan hoijettu välläh editoidavu monikieline tiedokandu, kudai ruadau Wikipedien da toizien wikiprojektoin tuvennu."
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Ližätieduo"
+    },
+    {
+      "name": "description_help_tips_description",
+      "value": "Kuvavuksil pidäs syndyö yhtele rivile da olla 2–12 sanua pitky. Niilöi ei kirjuteta suurel algukirjaimel, ku enzimäine sana ei olle propri."
+    },
+    {
+      "name": "description_help_tips_example_description_one",
+      "value": "kuvavus kirjutuksele Mona Lisah näh"
+    },
+    {
+      "name": "description_help_tips_example_description_two",
+      "value": "kuvavus kirjutuksele Mount Everestah näh"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "Leonardo da Vincin kartin"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Muan korgevin mägi"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Ezimerkikse:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Nevvoloi kuvavuksen kirjuttamizeh niškoi"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Kirjutuksen kuvavuksen ohjavo"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Wikidata-ohjavo kuvavuksien kirjuttamizeh niškoi"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Ruattu"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Luajit justih Wikipedies paremban kaikile"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Kuvavus jullattu!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Idealizeh yksi rivi, kahtes kahtehkymmeneh sanah"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Pie kuvavus lyhyönny"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Kirjutuksen yhtehvedo kebjiendäy syväindön ellendämisty yhtel silmävyksel"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Kirjutuksen kuvavukset"
+    },
+    {
+      "name": "description_welcome_promise_title",
+      "value": "Algajen uskaldan, što en käytä viäräh tädä ominažuttu"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Zavodi edituija"
+    },
+    {
+      "name": "developer_force_email_auth",
+      "value": "Pakoita sähköpoštutovestus"
+    },
+    {
+      "name": "developer_settings",
+      "value": "Kehittäjien azetukset"
+    },
+    {
+      "name": "developer_settings_bypass_donation",
+      "value": "Jätä bokkah lahjoitus"
+    },
+    {
+      "name": "developer_settings_enable_year_in_review",
+      "value": "Ota käyttöh vuozikačelmu"
+    },
+    {
+      "name": "developer_settings_send_analytics_to_wmflabs",
+      "value": "Työnnä anualizua wmflabsale."
+    },
+    {
+      "name": "diff_article_revision_history",
+      "value": "Kirjutuksen versiihistourii"
+    },
+    {
+      "name": "diff_change_added",
+      "value": "Ližävys, \\$1, ližävyksen loppu."
+    },
+    {
+      "name": "diff_change_paragraph_moved",
+      "value": "Kappalehtu siirretty. Mene iellizeh kohtah."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_down",
+      "value": "Kappalehtu siirretty {{PLURAL:\\$1|0=0 ozua|\\$1 oza|\\$1 ozua}} alahpäi. Mene uudeh kohtah."
+    },
+    {
+      "name": "diff_change_paragraph_sections_moved_up",
+      "value": "Kappalehtu siirretty {{PLURAL:\\$1|0=0 ozua|\\$1 oza|\\$1 ozua}} ylähpäi. Mene uudeh kohtah."
+    },
+    {
+      "name": "diff_change_removal",
+      "value": "Otto iäre, \\$1, iäre oton agju."
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Ielline kohendus"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Versielöin verdailu"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Ozutettu kohendus"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Versielöin verdailu"
+    },
+    {
+      "name": "diff_content_added",
+      "value": "Syväindyö ližätty, \\$1"
+    },
+    {
+      "name": "diff_content_removed",
+      "value": "Syväindyö otettu iäre, \\$1"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Lyhendä \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Vällendä \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Ozuta"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Peitä"
+    },
+    {
+      "name": "diff_header_revision_accessibility_text",
+      "value": "Versii luajittu"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Rivit \\$1–\\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Kappaleh siirretty"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "alah"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "yläh"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 rivi|\\$1 rivii}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 kappaleh|\\$1 kappalehtu}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Kappaleh siirretty \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Ei voidu täyttiä tarkistustu"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Sua järilleh"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Tahtotgo varmah kumata kohendukset?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Kumua kohendukset"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Kohendukset kumattu."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 kohendus|\\$1 kohendustu}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Kohendajan tiijot"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 tavu ližätty|\\$1 tavuu ližätty}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 tavu otettu iäre|\\$1 tavuu otettu iäre}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Kohenda yhtehveduo"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Intro"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Rivi \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Aniniimoi käyttäjii ei voi passiboija"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Passiboloin työndö on kebjei taba kunnivoija toizen käyttäjän ruaduo Wikipedienke. Sinul pidäy olla kirjutannuhes, što voit työndiä passibon."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Kirjuttai, što voit työndiä passibon"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Työnnä passibot"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Passiboloin työndö on kebjei taba kunnivoija toizen käyttäjän ruaduo Wikipedienke. Passibon työndyö ei voi peruuttua, da passibot ollah julgizii."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Työnnä passibo julgizesti"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Työtty passibo käyttäjäle \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Olet jo työndänyh passibon tälle kohenduksele"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Passibon työndyö ei voi peruuttua"
+    },
+    {
+      "name": "diff_unchanged_contextual_line",
+      "value": "Konteksturivi, muuttumatoi: \\$1"
+    },
+    {
+      "name": "diff_undo_message",
+      "value": "Tämä kumuau täs ozutettavis versielöis luajitut muutokset kirjutukseh. Što voit jatkua, anna syy tämän kohenduksen kumuamizeh."
+    },
+    {
+      "name": "diff_undo_success",
+      "value": "Versii kumattih."
+    },
+    {
+      "name": "diff_unedited_lines_format",
+      "value": "{{PLURAL:\\$1|\\$1 kohendamatoi rivi|\\$1 kohendamattomua rivii}}"
+    },
+    {
+      "name": "diff_user_button_accessibility_text",
+      "value": "N’apsahuta kahteči, što avuat men’un"
+    },
+    {
+      "name": "dim_images",
+      "value": "Hämärdä kuvii"
+    },
+    {
+      "name": "donate_accessibility_amount_button_hint",
+      "value": "N’apsahuta kahteči, što voit vallita lahjoituksen miärän."
+    },
+    {
+      "name": "donate_accessibility_donate_hint_format",
+      "value": "Lahjoita \\$1 Wikimedii-fondale n’apsahuttamal."
+    },
+    {
+      "name": "donate_accessibility_email_opt_in_hint",
+      "value": "N’apsahuta kahteči, što annat Wikimedii-fondale luvan työndiä sähköpoštua sinulles."
+    },
+    {
+      "name": "donate_accessibility_monthly_recurring_hint",
+      "value": "N’apsahuttamal kahteči otat käyttöh joga kuudu ruattavan lahjoituksen täl summal."
+    },
+    {
+      "name": "donate_accessibility_textfield_hint",
+      "value": "Työnnä sobivutettu lahjoitussummu."
+    },
+    {
+      "name": "donate_accessibility_transaction_fee_hint",
+      "value": "Ližiä tapahtuman kaččelendumakso lahjoitussummah n’apsahuttamal kahteči."
+    },
+    {
+      "name": "donate_already_donated",
+      "value": "Passibo lahjoitukses! Avvutat Wikipediedy da sen vällän tiijonsuandan projektoi menemäh hyvin olemal rahmannoi."
+    },
+    {
+      "name": "donate_apple_fine_print",
+      "value": "Apple ei vastua dengankerävös täh tarkoitukseh."
+    },
+    {
+      "name": "donate_email_opt_in_text",
+      "value": "Da, Wikimedii-fondu suau toiči työndiä ičelleni sähköpoštua."
+    },
+    {
+      "name": "donate_help_frequently_asked_questions",
+      "value": "Puaksuh kyzytyt kyzymykset"
+    },
+    {
+      "name": "donate_help_other_ways_to_give",
+      "value": "Toizet tavat andua"
+    },
+    {
+      "name": "donate_help_problems_donating",
+      "value": "Probliemua lahjoittamizes?"
+    },
+    {
+      "name": "donate_help_tax_deductibility_information",
+      "value": "Naloganvähendystiijot"
+    },
+    {
+      "name": "donate_history_delete",
+      "value": "Ota iäre paikalline lahjoitushistourii"
+    },
+    {
+      "name": "donate_later_title",
+      "value": "Mustoitammo sinuu uvvessah huomei."
+    },
+    {
+      "name": "donate_maximum_error_text",
+      "value": "Emmo voi hyväksyö lahjoituksii enämbäl kui \\$1 \\$2 meijän verkosaital. Ota yhtevytty meijän suurien lahjoituksien ruadajih adresas benefactors@wikimedia.org."
+    },
+    {
+      "name": "donate_minimum_error_text",
+      "value": "Valliče summu (vähimyölleh \\$1 \\$2)."
+    },
+    {
+      "name": "donate_monthly_recurring_text",
+      "value": "Luaji täs joga kuudu toistui lahjoitus."
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Lahjoita Apple Payl"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Lahjoita Apple Payl libo valliče toine maksotaba."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Toine maksotaba"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Lahjoitetahgo Apple Payl?"
+    },
+    {
+      "name": "donate_success_subtitle",
+      "value": "Meile on ylen merkiččii dielo, gu olet muga rahmannoi."
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Passibo!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Valliče summu"
+    },
+    {
+      "name": "donate_transaction_fee_opt_in_text",
+      "value": "Ližiän andelijahasti \\$1 kattamah siirdomenot, što voitto pidiä 100%% omassani lahjoitukses."
+    },
+    {
+      "name": "duplicate_tab",
+      "value": "Monista välilehti"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Ozuta tekstu"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Linkan objektu"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Ota iäre linku"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Kohenda linkua"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Kohenda"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Tämä on pieni kohendus"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Kohendusilmoitukset"
+    },
+    {
+      "name": "edit_notices_always_display",
+      "value": "Ozuta ainos kohendusilmoitukset"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Luve enne kohendamistu"
+    },
+    {
+      "name": "edit_preview_simplified_format_message",
+      "value": "Kai syväindö ozutetah yksinkerdazes muvvos."
+    },
+    {
+      "name": "edit_sheet_temp_account_notice",
+      "value": "Ilmoitus väliaigazes tilis"
+    },
+    {
+      "name": "edit_show_web_preview",
+      "value": "Ozuta verkoezikaččelu"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Ližiä kohendusyhtehvedo"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Ližätty kuva"
+    },
+    {
+      "name": "edit_summary_choice_added_image_and_caption",
+      "value": "Ližätty kuva da kuvatekstu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Kielioppii kohendettu"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Kirjutushaireh kohendettu"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Ližätty linkoi"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Kuibo kohendit kirjutustu?"
+    },
+    {
+      "name": "edit_summary_short_description_added",
+      "value": "Lyhyččäine kuvavus ližätty"
+    },
+    {
+      "name": "edit_summary_short_description_updated",
+      "value": "Päivitetty lyhyččäine kuvavus"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Luve ližiä omih tarkailulistoih näh"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Tarkaile tädä sivuu"
+    },
+    {
+      "name": "edited_article",
+      "value": "Kohendettu"
+    },
+    {
+      "name": "editing_welcome_be_bold_subtitle",
+      "value": "Kohenda rohkiesti ga älä tolkuttomasti. Älä ebäröiče hairehien luadimistu, sendäh gu meijän yhtehižö voibi tarbehen mugah suaja järilleh iellizen versien."
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Sinun iäni on tärgei"
+    },
+    {
+      "name": "editing_welcome_citations_subtitle",
+      "value": "Kaikel syväindöl ainos pidäy olla varmendettavua. Kirjutukseh kirjutettavile väittehile pidäs ližätä luotettavu viiteh, kudamas väittehen syväindö tovendetah."
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Vihjua luotettavih viittehih"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_subtitle",
+      "value": "Kirjutuksen vivahtuksel pidäy olla neitral’noi. Opi kirjuttua tazapainozesti luotettavien lähtehien mugah."
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Kirjuta puolovehettomal vivahtuksel"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_subtitle",
+      "value": "Tarvičemmo sinuu lugemah, kirjuttamah da parandamah sinun mieldy kiinnittäjii tiemoi, što voizimmo tarita kaikile muailman parastu tieduo."
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Vällendä tiedo"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Sinun kohendus on jullattu."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Kohenda wikitekstua"
+    },
+    {
+      "name": "editor_exit_confirmation_body",
+      "value": "Oletgo varmu, ku tahtot loppie kohendamizen julguamattah muutoksii?"
+    },
+    {
+      "name": "editor_exit_confirmation_message",
+      "value": "Tahtotgo varmah hyllätä tämän kohenduksen?"
+    },
+    {
+      "name": "editor_find_clear_button_accessibility",
+      "value": "Tyhjendä eččo"
+    },
+    {
+      "name": "editor_find_close_button_accessibility",
+      "value": "Salbua eččo"
+    },
+    {
+      "name": "editor_find_current_match_info_zero_results_accessibility",
+      "value": "Ei eččotuloksii"
+    },
+    {
+      "name": "editor_find_next_button_accessibility",
+      "value": "Tulii eččotulos"
+    },
+    {
+      "name": "editor_find_previous_button_accessibility",
+      "value": "Jälgimäine eččotulos"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Eči"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Sangei"
+    },
+    {
+      "name": "editor_keyboard_close_text_format_menu_accessibility",
+      "value": "Salbua tekstanmuodoilumen’u"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Kommentuarii"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Rubriekku"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Vähendä abzacua"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Ližiä abzacua"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Kursiivu"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Linku"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Jälletetty luvettelo"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Jällettämätöi luvettelo"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Kappaleh"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Lähteh"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Yliviivavus"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Alirubriekku 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Alirubriekku 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Alirubriekku 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Alirubriekku 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Alaindeksu"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Yläindeksu"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Šablon"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Tekstan muodoilu"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Alleviivavus"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Pane sijah"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Pane sijah tulijal..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Pane kai sijah"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Pane sijah"
+    },
+    {
+      "name": "editor_title",
+      "value": "Redaktor"
+    },
+    {
+      "name": "editor_toolbar_bold_accessibility",
+      "value": "Sangei tekstu"
+    },
+    {
+      "name": "editor_toolbar_cursor_down_accessibility",
+      "value": "Siirrä kursoru tulijale rivile."
+    },
+    {
+      "name": "editor_toolbar_cursor_next_accessibility",
+      "value": "Siirrä kursoru tulijah merkih."
+    },
+    {
+      "name": "editor_toolbar_cursor_previous_accessibility",
+      "value": "Siirrä kursoru iellizeh merkih."
+    },
+    {
+      "name": "editor_toolbar_cursor_up_accessibility",
+      "value": "Siirrä kursoru iellizele rivile."
+    },
+    {
+      "name": "editor_toolbar_find_accessibility",
+      "value": "Eči täl sivul"
+    },
+    {
+      "name": "editor_toolbar_italics_accessibility",
+      "value": "Kursiivutekstu"
+    },
+    {
+      "name": "editor_toolbar_open_text_format_menu_accessibility",
+      "value": "Avua tekstanmuodoilumen’u"
+    },
+    {
+      "name": "editor_toolbar_show_more_accessibility",
+      "value": "Ozuta ližiä muodoiluvaihtoehtoloi"
+    },
+    {
+      "name": "editor_wikitext_textview_accessibility",
+      "value": "Wikiteksturedaktor"
+    },
+    {
+      "name": "edits_last_month",
+      "value": "kohenduksii jälgimäzel kuul"
+    },
+    {
+      "name": "edits_this_month",
+      "value": "kohenduksii täl kuul"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Ei eroloi versielöin välil"
+    },
+    {
+      "name": "empty_diff_single_title",
+      "value": "Nägyjii kohenduksii ei ruattu"
+    },
+    {
+      "name": "empty_edit_summary",
+      "value": "Tyhjy kohendusyhtehvedo"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Valliče failu Wikimedii Commonsas"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Prostikkua, ei voidu täyttiä kirjutustu"
+    },
+    {
+      "name": "empty_no_feed_action_message",
+      "value": "Voit yksikai lugie tallendettuloi sivuloi"
+    },
+    {
+      "name": "empty_no_feed_message",
+      "value": "Näit piäteldyt kirjutukset, konzu sinul on internet-yhtevys"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Ei ozutettavua histouriedu"
+    },
+    {
+      "name": "empty_no_other_article_languages_message",
+      "value": "Kirjutustu eule vie kirjutettu toizil kielil."
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Toizii kielii ei suadavannu"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_message",
+      "value": "Tallenda sivuloi täh luvetteloh, što näit net tiä"
+    },
+    {
+      "name": "empty_no_saved_pages_in_reading_list_title",
+      "value": "Ei sivuloi tallendetunnu täh luvetteloh"
+    },
+    {
+      "name": "empty_no_saved_pages_message",
+      "value": "Tallenda sivuloi, što voit myöhembä kačella niilöi sežo ilmai yhtevytty"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Ei tallendettuloi sivuloi vie"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Tuloksii ei löydynyh."
+    },
+    {
+      "name": "empty_talk_page_title",
+      "value": "Käyttäjäle eule vie työtty viestilöi"
+    },
+    {
+      "name": "end_session",
+      "value": "Lope istundo"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Opi myöhembä uvvessah"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Tapahtui tundematoi haireh"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Toine piävyndähine kirjutus"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Sendäh gu aijemba luvit"
+    },
+    {
+      "name": "explore_because_you_read_footer",
+      "value": "Toizet liittyjät kirjutukset"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Jatka luvendua"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Järilleh Tutki-feedah"
+    },
+    {
+      "name": "explore_enable_location_title",
+      "value": "Tutki kirjutuksii lähäl sinuu"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Piäteldy kirjutus"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Wikipedies"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Sobivuta"
+    },
+    {
+      "name": "explore_feed_language_settings",
+      "value": "Tutki-feedan kieliazetukset"
+    },
+    {
+      "name": "explore_feed_preferences_additional_languages_footer_text",
+      "value": "Ližiä kielii voibi ližätä Omat kielet -nägymäs."
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Karti peitetty"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed",
+      "value": "Sobivuta Tutki-feedua"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_action_title",
+      "value": "Sobivuta Tutki-feedua"
+    },
+    {
+      "name": "explore_feed_preferences_customize_explore_feed_footer_text",
+      "value": "Tämän kartitiipan peittämine loppiu niilöin tariččemizen Tutki-feedah."
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Tutki-välilehti"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Piäteldy kirjutus Wikipedies"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Kai \\$1 kartii peitetty"
+    },
+    {
+      "name": "explore_feed_preferences_global_card_footer_text",
+      "value": "Tämä karti eule ripu kieles, da sen otandu käytös ottau sen iäre omassas Tutki-feedas."
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Kielis rippumattomat kartit"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Kieles rippumatoi"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Globualizet kartit"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Peitä tämä karti"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Peitä kai \\$1-kartit"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Kirjutukset aijankohtazis tapahtumis"
+    },
+    {
+      "name": "explore_feed_preferences_languages_footer_text",
+      "value": "Kaikkien Tutki-feedukartiloin otandu käytös kaikil kielil ottau Tutki-välilehten käytös."
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Tapahtumat histouries täl päivymiäräl"
+    },
+    {
+      "name": "explore_feed_preferences_places_description",
+      "value": "Wikipedii-kirjutukset lähäl sinuu"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Päivän piäteldy foto Commonsas"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Luaji piävyndähizii kirjutuksii lugiettavakse"
+    },
+    {
+      "name": "explore_feed_preferences_related_pages_description",
+      "value": "Luvenduhistourieh perustujat ehtotukset"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Ozuta \"Jatka lugemistu\" -karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_footer_text",
+      "value": "Uudizis-kartin otandu iäre ottau sen käytös kaikil kielil."
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Ozuta Uudizis-karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_footer_text",
+      "value": "Tänäpäi-kartin otandu iäre ottau sen käytös kaikil kielil."
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Ozuta Tänäpäi-karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Ozuta Päivän kuva -karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_footer_text",
+      "value": "Kohtat-kartin otandu iäre ottau sen käytös kaikil kielil."
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Ozuta Kohtat-karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_footer_text",
+      "value": "Piävyndähistämine-kartin otandu iäre ottau sen käytös kaikil kielil."
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Ozuta Piävyndähistämine-karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Ozuta Sendäh gu luvit -karti"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_footer_text",
+      "value": "Lugiettuvimat-kartin otandu iäre ottau sen käytös kaikil kielil."
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Ozuta Lugiettuvimat-karti"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_description",
+      "value": "Ehtotuksii syväindön ližiämizekse Wikipedieh"
+    },
+    {
+      "name": "explore_feed_preferences_suggested_edits_title",
+      "value": "Ozuta Ehtotetut kohendukset -karti"
+    },
+    {
+      "name": "explore_feed_preferences_top_read_description",
+      "value": "Päivän eniten lugietut kirjutukset"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Ota käytös Tutki-feedu"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_message",
+      "value": "Kaikkien Tutki-feedan kartiloin peittämine ottau nägymän kogonah iäre da korvuau sen Azetukset-nägymäl"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Tahtotgo varmah ottua Tutki-feedan iäre?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Ota Tutki-feedu iäre"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_message",
+      "value": "Tutki-välilehten voibi ottua uvvessah käyttöh Tutki-feedan azetuksis"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Tahtotgo varmah ottua Tutki-välilehten iäre?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_feed_disclosure",
+      "value": "Tutki-välilehten iärestämine korvuau sen Azetukset-välilehtel."
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_feed_alert_message",
+      "value": "Gu vallinnet Tutki-feedan kartiloi, otat Tukti-feedan käyttöh"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Ota Tutki-välilehti käyttöh"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_message",
+      "value": "Azetukset-knopku korvatah Tutki-knopkal, Azetuksih piäzöy n’apsahuttamal gaikan kuvua Tutki-nägymän ylälaijas"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Tahtotgo ottua Tutki-välilehten käyttöh?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Peitä tämä karti"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Wikimedii-projektan piäsivu"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Tänäpäi Wikipedies"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Kai lugiettuvimat kirjutukset"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Lugiettuvimat"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Parahimat \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Wikipedies"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Kohtat lähäl"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Kohtat"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Wikipedies"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Sinun kohtu"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Sinun kohtu Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Päivän kuva"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Wikimedii Commonsas"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Piävyndähine kirjutus"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Wikipedies"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Piävyndähistämine"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Ližiä"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_body",
+      "value": "Ližiä Wikipedii-artiklah ehtotettuloi fotoloi, što kohendat ellendämisty."
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Ližiä kuva"
+    },
+    {
+      "name": "explore_wikipedia",
+      "value": "Tunnustu Wikipedieh"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Tahtotgo varmah jagua sobivutuskirjaston?"
+    },
+    {
+      "name": "export_user_data_generic_error",
+      "value": "Sinun tiedoloin viendäs tapahtui haireh. Opi myöhembä uvvessah."
+    },
+    {
+      "name": "export_user_data_space_error",
+      "value": "Sinun laittehes eule tarbehekse sijua käyttäitiedoloin viendäh. Opi myöhembä uvvessah."
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Vie käyttäitiijot"
+    },
+    {
+      "name": "featured_widget_content_failure_for_date",
+      "value": "Ehtotettu kirjutus eule suadavannu tänäpäi."
+    },
+    {
+      "name": "featured_widget_description",
+      "value": "Lövvä parahat Wikipedien kirjutukset, kudamii meijän yhtehižö valliččou joga päiviä."
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Wikipedien kieliversies \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Wikipedies"
+    },
+    {
+      "name": "featured_widget_language_failure",
+      "value": "Sinun enzivuoroine Wikipedii-kieli ei anna tugie Ehtotettuu kirjutustu. Voit päivittiä Wikipedien azetuksii sobivutuksen azetuksis."
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Ehtotettu kirjutus"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Mitah ei lykystännyh. Opi myöhembä uvvessah."
+    },
+    {
+      "name": "fetcher_error_unexpected_response",
+      "value": "Sobivutus otti vastah vuottamattoman vastavuksen serveralpäi. Opi myöhembä uvvessah."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Hairielline CAPTCHA"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Peittosanat ei olla yhtenjyttymät"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Koodu ei päi"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Käyttäinimi eule suadavannu"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Varmuskoupiikoodu"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "Sähköpoštukoodu"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "CAPTCHA-tekstu"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Kirjuta ielolii tekstu"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "ezimerki@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Sähköpoštu"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Sähköpoštu (omatahtoine)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "anna uuzi peittosana uvvessah"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Lujua uuzi peittosana"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "anna uuzi peittosana"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Uuzi peittosana"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "anna peittosana uvvessah"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Lujua peittosana"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "anna peittosana"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Peittosana"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Varmenduskoodu"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "anna käyttäinimi"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Käyttäinimi"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Kai"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Tyhjendä eččo"
+    },
+    {
+      "name": "find_next_button_accessibility",
+      "value": "Tulii eččotulos"
+    },
+    {
+      "name": "find_previous_button_accessibility",
+      "value": "Jälgimäine eččotulos"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Eči da pane sijah"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Salbua eččo da pane sijah"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Eči"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Tuo järilleh"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Libo"
+    },
+    {
+      "name": "games_announcement_play_button",
+      "value": "Kižua"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Tovengo tahtot ottua iäre kai jälgimäzet kohtehet?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Muga, ota kai iäre!"
+    },
+    {
+      "name": "history_title",
+      "value": "Histourii"
+    },
+    {
+      "name": "home_feed_modules_in_the_news_title",
+      "value": "Uudizis"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_subtitle",
+      "value": "Tänäpäi tapahtunnuzii histouriellizii tapahtumii"
+    },
+    {
+      "name": "home_feed_modules_on_this_day_title",
+      "value": "Tänäpäi"
+    },
+    {
+      "name": "languages_title",
+      "value": "Vaihta kieli"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Kirjuttai"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Lähäl"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Käyttöehtot"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Enämbi"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "{{PLURAL:\\$1|\\$1 jalgu|\\$1 jalgua}}"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 mil’ua"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Ruattu"
+    },
+    {
+      "name": "saved_title",
+      "value": "Tallendettu"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Wikipedii-eččo"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Jälgimäzet ečot"
+    },
+    {
+      "name": "search_title",
+      "value": "Eččo"
+    },
+    {
+      "name": "settings_title",
+      "value": "Azetukset"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Piästetäh ilmah..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "käyttöehtot"
+    },
+    {
+      "name": "games_card_play",
+      "value": "Kižua"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Sendäh gu aijemba luvit"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Kai lugiettuvimat kirjutukset"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Toine piävyndähine kirjutus"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "Wikipedien kieliversies %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Wikipedien kieliversies %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Wikimedii Commonsas"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Ei ozutettavua histouriedu"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Peitä tämä karti"
+    },
+    {
+      "name": "explore_customize_feed",
+      "value": "Sobivuta Tutki-feedua"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Karti peitetty"
+    },
+    {
+      "name": "editor_published",
+      "value": "Sinun kohendus on jullattu."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Kirjutuksen kuva %s"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "WIKIPEDIA HarmonyOSAS"
+    },
+    {
+      "name": "activity_tab_contributions_this_month",
+      "value": "Panos täl kuul"
+    },
+    {
+      "name": "activity_tab_edits_this_month",
+      "value": "kohenduksii täl kuul"
+    },
+    {
+      "name": "activity_tab_edits_last_month",
+      "value": "kohenduksii jälgimäzel kuul"
+    }
+  ]
+}

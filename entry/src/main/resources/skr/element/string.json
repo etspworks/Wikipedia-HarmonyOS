@@ -1,0 +1,2108 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "وکیپیڈیا"
+    },
+    {
+      "name": "about_content_license",
+      "value": "مواد دا لائسینس"
+    },
+    {
+      "name": "about_contributors",
+      "value": "ونگاراں"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "پوری تندیر"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "لائیسنس"
+    },
+    {
+      "name": "about_repositories",
+      "value": "مخزن"
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "ایم آئی ٹی لائسنس"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "ایپ فیڈبیک بھیڄو"
+    },
+    {
+      "name": "about_title",
+      "value": "تعارف"
+    },
+    {
+      "name": "about_translators",
+      "value": "مترجمین"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "وکی میڈیا فاؤنڈیشن"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "وکیپیڈیا"
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "کھاتے دی ارداس۔"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "اپݨاں کھاتا کھولو"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "پہلے کھاتہ ہے پیا؟\\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "لاگ ان تھیوو"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "لاگ ان تھیندا پئے۔۔۔"
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "نواں کھاتہ کھولݨ کیتے تہاکں ورتݨ آلا ناں، پاسورڈ تے پاسورڈ دی تصدیق درج کرݨی پوسی۔"
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "بچیندا پئے۔۔۔"
+    },
+    {
+      "name": "account_creation_title",
+      "value": "نواں کھاتہ کھولو"
+    },
+    {
+      "name": "account_group_title",
+      "value": "تہاݙا کھاتہ"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "تہاݙا ڳالھ مہاڑ ورقہ"
+    },
+    {
+      "name": "action_add_to",
+      "value": "شامل کرو۔۔۔"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "پڑھݨ تندیر وچ شامل کرو"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "تندیر وچ رلاؤ"
+    },
+    {
+      "name": "action_cancel",
+      "value": "منسوخ"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "تبدیلی مکاؤ"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "تبدیلیاں مکاؤ"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "ورقے وچ لبھو"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "تبدیلی جاری رکھو"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "زبان وٹاؤ"
+    },
+    {
+      "name": "action_move_to",
+      "value": "تے ون٘ڄو..."
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "پڑھݨ تندیر وچ ٹورو"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "اڳلی دہرائی"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "پچھلی دہرائی"
+    },
+    {
+      "name": "action_read",
+      "value": "پڑھو"
+    },
+    {
+      "name": "action_redo",
+      "value": "ولدا کرو"
+    },
+    {
+      "name": "action_remove",
+      "value": "ہٹاؤ"
+    },
+    {
+      "name": "action_retry",
+      "value": "ولدا کوشش کرو"
+    },
+    {
+      "name": "action_save",
+      "value": "بچاؤ"
+    },
+    {
+      "name": "action_saved",
+      "value": "محفوظ"
+    },
+    {
+      "name": "action_share",
+      "value": "شیئر"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "شیئر"
+    },
+    {
+      "name": "action_sort",
+      "value": "چھانٹ"
+    },
+    {
+      "name": "action_undo",
+      "value": "واپس"
+    },
+    {
+      "name": "action_unsave",
+      "value": "غیر محفوظ"
+    },
+    {
+      "name": "action_update",
+      "value": "اپ ݙیٹ"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "تصویراں شامل کرو"
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "غیر جانبدار"
+    },
+    {
+      "name": "activity_tab_satisfied",
+      "value": "مطمئن"
+    },
+    {
+      "name": "activity_tab_title",
+      "value": "سرگرمی"
+    },
+    {
+      "name": "activity_tab_unsatisfied",
+      "value": "غیر مطمئن"
+    },
+    {
+      "name": "activity_tab_very_satisfied",
+      "value": "ݙاڈھا تسلی بخش"
+    },
+    {
+      "name": "activity_tab_very_unsatisfied",
+      "value": "ݙاڈھا تسلی بخش"
+    },
+    {
+      "name": "activity_tab_view_editing_history",
+      "value": " تبدیلی دا تاریخچہ ݙیکھو"
+    },
+    {
+      "name": "activity_tab_week_graph_label",
+      "value": "ہفتہ"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "مطالعہ دی فہرست وچ \\$1 شامل کرو"
+    },
+    {
+      "name": "alt_text_feedback_survey_toast_title",
+      "value": "فیڈبیک جمع تھی ڳئی"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "مکاؤ"
+    },
+    {
+      "name": "app_onboarding_data_privacy_policy_link",
+      "value": "رازداری پالیسی"
+    },
+    {
+      "name": "app_onboarding_feed_preference_in_the_news",
+      "value": "خبراں وچ"
+    },
+    {
+      "name": "app_onboarding_feed_preference_picture_of_the_day",
+      "value": "اڄ دی تصویر"
+    },
+    {
+      "name": "app_onboarding_languages_primary_label",
+      "value": "ابتدائی"
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "مفت انسائیکلوپیڈیا"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "ٹیبل ودھاؤ"
+    },
+    {
+      "name": "appearance_settings_icon_contributor_title",
+      "value": "ونگارو"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "ٹیبل ترتیباں"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "تھیم دے اختیارات"
+    },
+    {
+      "name": "article_about_title",
+      "value": "ایں مضمون بارے"
+    },
+    {
+      "name": "article_delete",
+      "value": "مٹاؤ"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "{{PLURAL:\\$1|مضمون|مضمون}}مٹ ڳیا"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "زبان ڳولو"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "زبان چݨو"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "ٻیاں زباناں"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "تہاݙیاں زباناں"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "ٻیا پڑھو"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "حوالہ\\$1"
+    },
+    {
+      "name": "article_share",
+      "value": "شیئر"
+    },
+    {
+      "name": "article_tabs_open",
+      "value": "کھولو"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "پچھوں"
+    },
+    {
+      "name": "button_go_back",
+      "value": "واپس ڄُلو"
+    },
+    {
+      "name": "button_next",
+      "value": "اڳوں تے ونڄو"
+    },
+    {
+      "name": "button_ok",
+      "value": "ٹھیک ہے"
+    },
+    {
+      "name": "button_publish",
+      "value": "چھاپو"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "ول وی شائع کرو"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "بڳ دی رپورٹ کرو"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "محفوظ تھئے وچوں ہٹاؤ"
+    },
+    {
+      "name": "button_skip",
+      "value": "چھوڑو"
+    },
+    {
+      "name": "cancel",
+      "value": "منسوخ"
+    },
+    {
+      "name": "cc_zero",
+      "value": "کریٹیو کامنز سی سی صفر"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "صاف"
+    },
+    {
+      "name": "close_all_tabs",
+      "value": "سارے ٹیب بند کرو"
+    },
+    {
+      "name": "close_all_tabs_confirmation_title_with_value",
+      "value": "{{PLURAL:\\$1|\\$1 ٹیب|\\$1 ٹیباں}} بند کروں؟"
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "بند کرو"
+    },
+    {
+      "name": "close_tab_confirmation",
+      "value": "ٹیب بند کروں؟"
+    },
+    {
+      "name": "close_tabs",
+      "value": "ٹیباں بند کرو"
+    },
+    {
+      "name": "compass_direction",
+      "value": "\\$1 وڄے تے"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "اپ ڈیٹ تھیندا پئے۔۔۔"
+    },
+    {
+      "name": "description_add_title",
+      "value": "وضاحت شامل کرو"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "\\$1 کیتے مضمون تفصیل"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\n\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "تعارف وچ تبدیلی کرو"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "مضمون  تفصیل وچ تبدیلی کرو"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "تفصیل شائع کرو"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "وضاحت وچ تبدیلی کرو"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "تعارف"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "وکی ڈیٹا بارے"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "ٻیاں معلومات"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "مثال دے طور تے:"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "تھی ڳیا"
+    },
+    {
+      "name": "description_published_title",
+      "value": "تفصیل شائع تھی ڳئی!"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "عنوان دی تفصیل"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "لکھݨ شروع کرو"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "پچھلی تبدیلی"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "کوں"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "ݙِکھاؤ"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "لُکاؤ"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "پیرا ہٹ ڳیا"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "تلے"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "اُتے"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "پچھاں واپس کرو"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "تبدیلیاں پچھلی حالت تے واپس کرو"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "تبدیلیاں واپس تھی ڳیاں۔"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "تبدیلی دا خلاصہ"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "تعارف"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "سطر \\$1"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "'شکریہ' بھیڄو"
+    },
+    {
+      "name": "dim_images",
+      "value": "مدھم تصویر"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "لنک ہٹاؤ"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "روابط وچ ترمیم کرو"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "لکھو"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "تبدیلی دا خلاصہ شامل کرو"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "درستی قواعد"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "درستی املا"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "لنک شامل کیتا"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "ایں ورقے تے پارھا ݙیوو"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "تہاݙی اواز اہم ہے"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "لبھو"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "سرخی"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "پیرا"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "نکی سرخی ٣"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "ݙکھاؤݨ کیتے کوئی تاریخچہ کائنی"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "کوئی نتیجہ نی لبھا"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "ولدا بعد وچ کوشش کرو۔ تھورا ہوسی۔"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "ہک ٻیا پوکھواں مضمون"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "پڑھݨ جاری رکھو"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "خاص مضمون"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "لوڑ مطابق بݨاؤ"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "ٹیب پھلورو"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "بند"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "ساریاں تے"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "آن"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "\\$1 تے"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "عالمی کارڈ"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "ایں کارڈ کوں لکاؤ"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "پھلور بند کرو"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "پھلور چالو کرو"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "ایں کارڈ کوں لکاؤ"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "اڄ وکی پیڈیا تے"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا تے"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "وکیپیڈیا تے"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "نیڑے جاہیں"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "جاہیں"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "تہاݙا مقام"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "اڄ دی تصویر"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "وِکیمیڈیا کامنز کنوں"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "پوکھواں مضمون"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "وکیپیڈیا کنوں"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا کنوں"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "وکیپیڈیا کنوں"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "خاص مضامین"
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "غلط کیپچا"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "پاس ورڈ ہکو سنویں کائنی"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "غلط کوڈ"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "ورتݨ آلا ناں موجود کائنی"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "بیک اپ کوڈ"
+    },
+    {
+      "name": "field_backup_token_title_email",
+      "value": "ای میل کوڈ"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "کیپچا عبارت"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "example@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "ای میل"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "ای میل (مرضی ہے)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "نواں پاس ورڈ ولدا لکھو"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "نویں پاس ورڈ دی تصدیق کرو"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "نواں پاس ورڈ درج کرو"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "نواں پاس ورڈ"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "پاس ورڈ ولدا لکھو"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "پاس ورڈ دی تصدیق کرو"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "پاس ورڈ درج کرو"
+    },
+    {
+      "name": "field_password_title",
+      "value": "پاس ورڈ"
+    },
+    {
+      "name": "field_token_title",
+      "value": "تصدیقی کوڈ"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "ورتݨ آلا ناں درج کرو"
+    },
+    {
+      "name": "field_username_title",
+      "value": "ورتݨ آلا ناں"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "لبھو تے تبدیل کرو"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "فائل بند کرو تے تبدیل کرو"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "لبھو"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "ولدا ٹھیک کرو"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "پاس ورڈ ولدا ٹھیک کرو"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "یا"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "جیا سبھ مٹاؤ"
+    },
+    {
+      "name": "history_title",
+      "value": "تاریخچہ"
+    },
+    {
+      "name": "home_feed_settings_community_section_title",
+      "value": "برادری"
+    },
+    {
+      "name": "home_feed_settings_for_you_section_title",
+      "value": "تہاݙے کیتے"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "\\$1 وانگوں ٻئے"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "ترجیحاں منیج کرو"
+    },
+    {
+      "name": "home_title",
+      "value": "پھرولو"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "نیڑے دے مضمون"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "پوکھواں مضمون"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "وکیپیڈیا وچ ڳولو"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "نامعلوم مصنف"
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "ٻیا"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "جمع کرواؤ"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "سبب"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "کو"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "جیا"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "\\$1 وکیپیڈیا کنوں"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "وکیپیڈیا کنوں"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "خبراں وچ"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "درج کرو"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "لنک پاؤ"
+    },
+    {
+      "name": "insert_media_add_image_details_title",
+      "value": "تصویر تفصیلاں شامل کرو"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "عنوان"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "مرکز"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "کھٻے"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "کوئی وی کائنی"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "سڄے"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "تصویر پوزیشن"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "ٻیاں معلومات"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "تصویر چݨو"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "پہلے کنوں طے تھیا ہویا"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "اُچائی"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "چوڑائی"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "فوٹو دا سائز"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "بنیادی"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "فریم"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "فریم بغیر"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "تھمب نیل"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "تصویر قسم"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "میڈیا ترتیباں"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "میڈیا پاؤ"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "زباناں"
+    },
+    {
+      "name": "languages_title",
+      "value": "زبان وٹاؤ"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "وکی پیڈیا دی زباناں"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "وکی پیڈیا جائن کرو۔"
+    },
+    {
+      "name": "login_no_account",
+      "value": "تہاݙا کھاتہ کائنی؟\\$1"
+    },
+    {
+      "name": "login_title",
+      "value": "آپݨے کھاتے وچ لاگ ان تھیوو"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "ایپ بارے"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "لاگ ان تھیوو"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "لاگ آؤٹ"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "بھلا تہاکوں پک ہے جو تساں لاگ آؤٹ تھیوݨ چاہندو؟"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "رازداری تے شرائط"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "نیڑے"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "رازداری پالیسی"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "ورتݨ شرطاں"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "ٻئے"
+    },
+    {
+      "name": "main_page",
+      "value": "پہلا پرت"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "زباناں شامل کرو"
+    },
+    {
+      "name": "more_menu",
+      "value": "ٻئے"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "پیشگی ݙکھالا"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 فٹ"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 کلو میٹر"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 میٹر"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 میل"
+    },
+    {
+      "name": "new_password_title",
+      "value": "پاس ورڈ درج کرو"
+    },
+    {
+      "name": "new_tab",
+      "value": "نویں ٹیب"
+    },
+    {
+      "name": "next_action_title",
+      "value": "اڳلا"
+    },
+    {
+      "name": "not_now_title",
+      "value": "ہُݨ نہ"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "\\$1 کنوں"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "الرٹ"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "\\$1 اطلاعہ نامہ"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "پاس ورڈ وٹاؤ"
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "ایپ وچ"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "ویب تے"
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "تہاݙے کیتے کوئی سنیہے کائنی"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "یکے"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "پڑھا ہویا"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "کائنی پڑھا"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "چھاݨے"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "ساریاں قسماں"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "مضمون"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "\\$1 ڳالھ مہاڑ ورقہ"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "فرق"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "\\$1 دا ورتݨ ورقہ"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "وکی ڈیٹا آئٹم"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "تہاݙا ڳالھ مہاڑ ورقہ"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "\\$1 کنوں الرٹ"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "تھی ڳیا"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "منصوبے"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "وکیمیڈیا منصوبے"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "وکیپیڈیا"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$1 \\$2"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "لاگ ان اطلاعواں"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "نشان"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "نشان لاؤ جو سارا پڑھ گھدے"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "نشان لاؤ جو پڑھ گھدے"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "نشان لاؤ جو کائنی پڑھا"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "ٻئے"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "اطلاعواں ترتیباں"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "جاری رکھو"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "چھاݨے"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "اطلاع نامے تے الرٹ"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "کو، شکریہ"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "یکے"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "جملہ اطلاعاں"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$2 وچ \\$1"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "پڑھا ہویا"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "کائنی پڑھا"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "نویں ای میل"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "ورقہ لنک"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "شکریہ"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "ست بسم اللہ!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "نشان لاؤ جو پڑھ گھدے"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "نشان لاؤ جو کائنی پڑھا"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "ٻئے"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "اطلاع نامے"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "ذکر کرݨ"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "نوٹس"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "ست بسم اللہ سنیہا"
+    },
+    {
+      "name": "notifications_center_type_title_login_attempts",
+      "value": "لاگ ان کوششاں"
+    },
+    {
+      "name": "notifications_center_type_title_login_success",
+      "value": "لاگ ان کامیاب"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "ٻیا"
+    },
+    {
+      "name": "notifications_center_type_title_page_link",
+      "value": "ورقہ لنک"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "شکریہ"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "ست بسم اللہ"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1 ارب"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1 ملین"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1 ہزار"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": " \\$1 توں - \\$2"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "کوئی ڈیٹا دستیاب کائنی"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "ایں ݙینہ کوں"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "بوٹ"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "معمولی تبدیلیاں"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "مصنف: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "تبصرہ \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "دہرائی دا ریکارڈ"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "معمولی تبدیلی"
+    },
+    {
+      "name": "page_history_revision_size_diff_addition",
+      "value": "({{PLURAL:\\$1|1 بائٹ|\\$1 بائٹاں}}) شامل تھئے"
+    },
+    {
+      "name": "page_history_unregistered_edits",
+      "value": "اݨ رجسٹرڈ"
+    },
+    {
+      "name": "page_issues",
+      "value": "ورقے دے مسئلے"
+    },
+    {
+      "name": "page_location",
+      "value": "نقشے تے ݙیکھو"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "ہکوجہے ورقے"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 مضمون"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "تندیر ݙکھاؤ"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "نقشہ ݙکھاؤ"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "ٻئے مضمون ݙکھاؤ"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "چھاݨاں"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "محفوظ تھئے مضامین"
+    },
+    {
+      "name": "places_search_saved_articles",
+      "value": "سارے محفوظ مضمون"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "نیڑے"
+    },
+    {
+      "name": "places_title",
+      "value": "جاہیں"
+    },
+    {
+      "name": "places_unknown_distance",
+      "value": "نامعلوم پندھ"
+    },
+    {
+      "name": "profile_button_accessibility_label",
+      "value": "پروفائل"
+    },
+    {
+      "name": "profile_page_join_title",
+      "value": "وکی پیڈیا نال رلت کرو/ لاگ ان تھیوو"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "میڈیا وکی"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "وکی کتاباں"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "وکی ڈیٹا"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "وِکیمیڈیا کامنز"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "وکی خبراں"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "وکی ٻول"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "وکی ماخذ"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "وکی سپیشیز"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "وکی ورسٹی"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "وکی سیرسپاٹا"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "وکشنری"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "تفصیل"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "نویں لسٹ بݨاؤ"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "مضموناں دی چھانٹی کرو"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "محفوظ"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "کالا تھیم"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "ڳوڑھا تھیم، مرکزی خیال"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "پھکا تھیم"
+    },
+    {
+      "name": "reference_title",
+      "value": "حوالہ\\$1"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1h"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1h پہلے"
+    },
+    {
+      "name": "relative_date_minutes_abbreviated",
+      "value": "\\$1m"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m پہلے"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1s"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s پہلے"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "سارے مضمون"
+    },
+    {
+      "name": "saved_search_default_text",
+      "value": "محفوظ تھئے مضمون ڳولو"
+    },
+    {
+      "name": "saved_title",
+      "value": "محفوظ"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "وکیپیڈیا وچ ڳولو"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "صاف"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "وکیپیڈیا وچ ڳولو"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "اے کم واپس نی تھی سڳدا"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "سارے مٹاؤ"
+    },
+    {
+      "name": "search_title",
+      "value": "ڳولو"
+    },
+    {
+      "name": "search_widget_wikipedia_title",
+      "value": "وکیپیڈیا"
+    },
+    {
+      "name": "settings_account",
+      "value": "کھاتہ"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "پڑھݨ ترجیحاں"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "منسوخ"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "کیشی صاف کرو"
+    },
+    {
+      "name": "settings_community_feed_title",
+      "value": "برادری"
+    },
+    {
+      "name": "settings_donate",
+      "value": "عطیہ ݙیوو"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "مدد تے ردعمل"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "میݙیاں زباناں"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "اطلاع نامے"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "ولدا کوشش کرو"
+    },
+    {
+      "name": "settings_off",
+      "value": "بند"
+    },
+    {
+      "name": "settings_on",
+      "value": "آن"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "ابتدائی"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_no",
+      "value": "کو"
+    },
+    {
+      "name": "settings_storage_and_syncing_disable_sync_alert_yes",
+      "value": "جیا"
+    },
+    {
+      "name": "settings_temp_account_end_session_confirm",
+      "value": "لاگ آؤٹ"
+    },
+    {
+      "name": "settings_title",
+      "value": "ترتیباں"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "وکیپیڈیا تے \"\\$1\":"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "شیئر۔۔۔"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "نقشیاں وچ کھولو"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "حالیہ ودھارے"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "عنوان"
+    },
+    {
+      "name": "survey_instructions",
+      "value": "ہک یا ودھ آٓپشن چݨو"
+    },
+    {
+      "name": "survey_other_placeholder",
+      "value": "ٻیا"
+    },
+    {
+      "name": "survey_submit",
+      "value": "جمع کرواؤ"
+    },
+    {
+      "name": "survey_title",
+      "value": "سبب"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "بند کرو"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "شامل حصے"
+    },
+    {
+      "name": "tabs_close_tab",
+      "value": "ٹیب بند کرو"
+    },
+    {
+      "name": "tabs_title",
+      "value": "ٹیباں"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "موضوع شامل کرو"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "آرکائیواں"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "ڳالھ مہاڑ ورقیاں بارے"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "زبان وٹاؤ"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "پڑھا ہویا"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "کائنی پڑھا"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "ورقے وچ لبھو"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "معلومات ورقہ"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "مستقل لنک"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "ویب وچ پڑھو"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "جواب"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "\\$1 کوں جواب ݙیوو"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "\\$1 کوں جواب ݙیوو"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "دہرائی دا ریکارڈ"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "سبسکرائب کرو"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "مضمون ڳالھ مہاڑ"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "ورتݨ آلے دی ڳالھ مہاڑ"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "اݨ سبسکرائب کرو"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "ونگاراں"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "آرکائیواں"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "ٻیا پڑھو"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "تبدیلی جاری رکھو"
+    },
+    {
+      "name": "talk_pages_empty_view_body_article",
+      "value": "ڳالھ مہاڑ ورقے تے تے بھُوم ڳوجھی تے مواد کوں بہتر بݨاوݨ کیتے لوک بحث کریندے ہن۔ وکی پیڈیا برادری نال رل تے کم کرݨ تے رابطے کیتے  ** نواں بحث دا موضوع شامل کرݨ نال شروع کرو۔ **"
+    },
+    {
+      "name": "talk_pages_empty_view_body_user",
+      "value": "ڳالھ مہاڑ ورقے تے بھُوم ڳوجھی تے مواد کوں ممکن حد تائیں بہتر بݨاوݨ کیتے لوک بحث کریندے ہن۔ \\$1 نال رل تے کم کرݨ تے رابطے کیتے  نواں بحث دا موضوع شامل کرݨ نال شروع کرو۔ تساں اتھاں جو کجھ وی آکھسو لوکاں دے ݙیکھݨ کیتے عوامی ہوسی۔"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "نواں عنوان شامل کرو"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "بحت شروع کرو"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "\\$1 نال بحث شروع کرو"
+    },
+    {
+      "name": "talk_pages_topic_added_alert_title",
+      "value": "تہاݙا موضوع شامل تھیا ہائی"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "تفصیل"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "موضوع تفصیل"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "جواب منسوخ کرو"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_topic",
+      "value": "موضوع مکاؤ"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "موضوع"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "موضوع عنوان"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body",
+      "value": "ڳالھ مہاڑ ورقے تے بھُوم ڳوجھی تے مواد کوں ممکن حد تائیں بہتر بݨاوݨ کیتے لوک بحث کریندے ہن۔ وکی پیڈیا برادری نال رل تے کم کرݨ تے رابطے کیتے  نواں بحث دا موضوع شامل کرݨ نال شروع کرو۔\nسوہݨا، مہربانی کرو، اتھ اساں سارے انسان ہیں۔"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_ios15",
+      "value": "ڳالھ مہاڑ ورقے تے تے بھُوم ڳوجھی تے مواد کوں بہتر  بݨاوݨ کیتے \\$1people بحث کریندے ہن جہڑا \\$1 تھی سڳدے۔ وکی پیڈیا برادری نال رل تے کم کرݨ تے رابطے کیتے  ** نواں بحث دا موضوع شامل کرݨ نال شروع کرو۔ **"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "ڳالھ مہاڑ ورقے"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "لاگز"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "ڳالھ مہاڑ"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "کالا"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "گہرا"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "پہلے کنوں طے تھیا ہویا"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "پھکّا"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "بھورا"
+    },
+    {
+      "name": "today_title",
+      "value": "اڄ"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 قارئین"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "ٹیٹوریل"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "لاگ ان جاری رکھو"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "آپݨے کھاتے وچ لاگ ان تھیوو"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "تصدیقی کوڈ ورتو"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "نامعلوم"
+    },
+    {
+      "name": "user_title",
+      "value": "ورتݨ آلا"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "جاری رکھو"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "ݙراوا"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "کو، شکریہ"
+    },
+    {
+      "name": "watch",
+      "value": "پارھا ݙیوو"
+    },
+    {
+      "name": "watchlist",
+      "value": "پارھا تندیر"
+    },
+    {
+      "name": "watchlist_added_toast_view_watchlist",
+      "value": "پارھاتندیر ݙیکھو"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "ہک مہیناں"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "ہک ہفتہ"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "ہک سال"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "مستقل"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "٦ مہینے"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "ترائے مہینے"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "تبدیلی دا خلاصہ"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "ورتݨ آلے دیاں ونگاراں"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "ورتݨ آلے دا ورقہ"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "ورتݨ آلے دا ڳالھ مہاڑ ورقہ"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "ایں ݙینہ کوں"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "شروع کرو"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "گھن گھندا"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "وکی پیڈیا بارے ٻیا سکھو"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "وکیپیڈیا دا تعارف"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "ٻئی زبان رلاؤ"
+    },
+    {
+      "name": "which_came_first_archive_nav_title",
+      "value": "آرکائیو"
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "ٻاہرلا لنک"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "کوئی اندرلا لنک کائنی لبھا"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "تبدیلیاں محفوظ کرو"
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "شائع تھیندا پئے۔۔۔"
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "ورتݨ شرطاں"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "عطیہ"
+    },
+    {
+      "name": "year_in_review_personalized_edit_views_subtitle_format_updated",
+      "value": "دنیا بھر دے پڑھݨ ہار تہاݙی ہتھ بھرائی کوں سُلاہیندن۔  پچھلے 2 مہیناں وچ، تُہاݙے وٹا پھیر کردہ مضامین کوں \\$1 کل ملاحظات ملے ہِن۔  تہاݙے سویں ایڈیٹرز دا شکریہ، ویکیپیڈیا دنیا کیتے ہک پکا بہتر کرݨ آالا، حقائق تے مبنی، اَتے قابلِ اعتماد علمی وسیلہ ہے۔"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "غیر جانبدار"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "مطمئن"
+    },
+    {
+      "name": "year_in_review_survey_unsatisfied",
+      "value": "غیر مطمئن"
+    },
+    {
+      "name": "year_in_review_survey_very_satisfied",
+      "value": "ݙاڈھا تسلی بخش"
+    },
+    {
+      "name": "year_in_review_survey_very_unsatisfied",
+      "value": "ݙاڈھا تسلی بخش"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "شام"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "سویر"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "رات"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "کل"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "ہک ٻیا پوکھواں مضمون"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "%s وکیپیڈیا کنوں"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "%s وکیپیڈیا تے"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "وِکیمیڈیا کامنز کنوں"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "ݙکھاؤݨ کیتے کوئی تاریخچہ کائنی"
+    },
+    {
+      "name": "relative_date_today",
+      "value": "اڄ"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "کل"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "ایں کارڈ کوں لکاؤ"
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "%s کیتے مضمون تفصیل"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "\n%s / %s"
+    }
+  ]
+}

@@ -1,0 +1,3276 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "Wicipedia"
+    },
+    {
+      "name": "about_content_license",
+      "value": "Trwydded cynnwys"
+    },
+    {
+      "name": "about_content_license_details",
+      "value": "Oni nodir yn wahanol, mae'r cynnwys o dan drwydded \\$1."
+    },
+    {
+      "name": "about_content_license_details_share_alike_license",
+      "value": "Creative Commons Attribution-ShareAlike License"
+    },
+    {
+      "name": "about_contributors",
+      "value": "Cyfranwyr"
+    },
+    {
+      "name": "about_libraries",
+      "value": "Llyfrgelloedd a ddefnyddiwyd"
+    },
+    {
+      "name": "about_libraries_complete_list",
+      "value": "Rhestr lawn"
+    },
+    {
+      "name": "about_libraries_license",
+      "value": "Trwydded"
+    },
+    {
+      "name": "about_libraries_licenses_title",
+      "value": "Mae meddalwedd cod agored yn wych \\$1"
+    },
+    {
+      "name": "about_places_maps_license",
+      "value": "Trwydded mapiau Lleoliadau"
+    },
+    {
+      "name": "about_places_maps_license_details",
+      "value": "Mae Lleoliadau yn defnyddio mapiau a darparwyd gan Apple Maps. \\$1."
+    },
+    {
+      "name": "about_places_maps_license_details_link_text",
+      "value": "Gweler manylion y trwydded yma"
+    },
+    {
+      "name": "about_product_of",
+      "value": "Crëwyd gan \\$1 gyda help gwirfoddolwyr fel chi"
+    },
+    {
+      "name": "about_repositories",
+      "value": "Storfeydd"
+    },
+    {
+      "name": "about_repositories_app_source_license",
+      "value": "Cod ffynhonnell ar gael o dan y \\$1."
+    },
+    {
+      "name": "about_repositories_app_source_license_mit",
+      "value": "Trwydded MIT"
+    },
+    {
+      "name": "about_send_feedback",
+      "value": "Rhoi adborth am yr ap"
+    },
+    {
+      "name": "about_title",
+      "value": "Ynghylch"
+    },
+    {
+      "name": "about_translators",
+      "value": "Cyfieithwyr"
+    },
+    {
+      "name": "about_translators_details",
+      "value": "Cyfieithwyd gan wirfoddolwyr ar \\$1"
+    },
+    {
+      "name": "about_wikimedia_foundation",
+      "value": "Sefydliad Wicimedia"
+    },
+    {
+      "name": "about_wikipedia",
+      "value": "Wicipedia"
+    },
+    {
+      "name": "account_creation_captcha_cannot_see_image",
+      "value": "Methu gweld y ddelwedd? \\$1"
+    },
+    {
+      "name": "account_creation_captcha_obtaining",
+      "value": "Wrthi'n nôl CAPTCHA newydd..."
+    },
+    {
+      "name": "account_creation_captcha_request_account",
+      "value": "Gwneud gais am gyfrif."
+    },
+    {
+      "name": "account_creation_captcha_title",
+      "value": "Gwiriad diogelwch CAPTCHA"
+    },
+    {
+      "name": "account_creation_create_account",
+      "value": "Creu cyfrif"
+    },
+    {
+      "name": "account_creation_have_account",
+      "value": "Oes gen ti gyfrif? \\$1"
+    },
+    {
+      "name": "account_creation_log_in",
+      "value": "Mewngofnodi"
+    },
+    {
+      "name": "account_creation_logging_in",
+      "value": "Wrthi'n mewngofnodi..."
+    },
+    {
+      "name": "account_creation_missing_fields",
+      "value": "Rhaid i chi roi enw defnyddiwr, cyfrinair, a chadarnhau'r cyfrinair i greu cyfrif."
+    },
+    {
+      "name": "account_creation_passwords_mismatched",
+      "value": "Nid yw meysydd cyfrinair yn cyfateb."
+    },
+    {
+      "name": "account_creation_saving",
+      "value": "Wrthi'n cadw..."
+    },
+    {
+      "name": "account_creation_title",
+      "value": "Creu cyfrif newydd"
+    },
+    {
+      "name": "account_group_title",
+      "value": "Eich Cyfrif"
+    },
+    {
+      "name": "account_request_vanishing",
+      "value": "Gorchuddio cyfrif"
+    },
+    {
+      "name": "account_talk_page_title",
+      "value": "Eich tudalen sgwrs"
+    },
+    {
+      "name": "account_talk_preferences_auto_sign_discussions",
+      "value": "Llofnodi sgyrsiau'n awtomatig"
+    },
+    {
+      "name": "account_talk_preferences_title",
+      "value": "Dewisiadau tudalen sgwrs"
+    },
+    {
+      "name": "action_add_to",
+      "value": "Ychwanegu at…"
+    },
+    {
+      "name": "action_add_to_reading_list",
+      "value": "Ychwanegu at eich rhestr ddarllen"
+    },
+    {
+      "name": "action_add_to_reading_list_short",
+      "value": "Ychwanegu at restr"
+    },
+    {
+      "name": "action_cancel",
+      "value": "Canslo"
+    },
+    {
+      "name": "action_discard_edit",
+      "value": "Canslo Golygiad"
+    },
+    {
+      "name": "action_discard_edits",
+      "value": "Canslo golygiadau"
+    },
+    {
+      "name": "action_find_in_page",
+      "value": "Chwilio'r testun"
+    },
+    {
+      "name": "action_keep_editing",
+      "value": "Parhau i olygu"
+    },
+    {
+      "name": "action_language_accessibility",
+      "value": "Newid iaith"
+    },
+    {
+      "name": "action_move_to",
+      "value": "Symud i…"
+    },
+    {
+      "name": "action_move_to_reading_list",
+      "value": "Symud i restr ddarllen"
+    },
+    {
+      "name": "action_next_revision_accessibility",
+      "value": "Golygiad Nesaf"
+    },
+    {
+      "name": "action_previous_revision_accessibility",
+      "value": "Golygiad Blaenorol"
+    },
+    {
+      "name": "action_read",
+      "value": "Darllen"
+    },
+    {
+      "name": "action_redo",
+      "value": "Ail-wneud"
+    },
+    {
+      "name": "action_remove",
+      "value": "Dileu"
+    },
+    {
+      "name": "action_retry",
+      "value": "Ail-geisio"
+    },
+    {
+      "name": "action_save",
+      "value": "Cadw"
+    },
+    {
+      "name": "action_saved",
+      "value": "Cadwyd"
+    },
+    {
+      "name": "action_saved_accessibility",
+      "value": "Cadwyd. Galluogi i ddad-gadw."
+    },
+    {
+      "name": "action_saved_accessibility_notification",
+      "value": "Cadwyd yr erthygl ar gyfer nes ymlaen"
+    },
+    {
+      "name": "action_share",
+      "value": "Rhannu"
+    },
+    {
+      "name": "action_share_accessibility",
+      "value": "Rhannu"
+    },
+    {
+      "name": "action_sort",
+      "value": "Trefnu"
+    },
+    {
+      "name": "action_thank_user_accessibility",
+      "value": "Diolch y defnyddiwr"
+    },
+    {
+      "name": "action_undo",
+      "value": "Dadwneud"
+    },
+    {
+      "name": "action_unsave",
+      "value": "Dad-gadw"
+    },
+    {
+      "name": "action_unsaved_accessibility_notification",
+      "value": "Dad-gadwyd yr erthygl"
+    },
+    {
+      "name": "action_update",
+      "value": "Diweddaru"
+    },
+    {
+      "name": "activity_tab_add_images_title",
+      "value": "Ychwanegu delweddau"
+    },
+    {
+      "name": "activity_tab_additional_thoughts",
+      "value": "Unrhyw feddyliau ychwanegol?"
+    },
+    {
+      "name": "activity_tab_articles_read",
+      "value": "Erthyglau a ddarllenwyd y mis hwn"
+    },
+    {
+      "name": "activity_tab_articles_read_graph_label",
+      "value": "Erthyglau"
+    },
+    {
+      "name": "activity_tab_generic_no_edits",
+      "value": "Nid ydych wedi golygu yr wythnos hon. Dechreuwch nawr i olrhain eich cyfraniadau."
+    },
+    {
+      "name": "activity_tab_hours_minutes_read",
+      "value": "\\$1h \\$2m"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_ios",
+      "value": "AR WICIPEDIA iOS"
+    },
+    {
+      "name": "activity_tab_logged_out_subtitle",
+      "value": "Mewngofnodwch neu crëwch gyfrif i weld eich gweithgaredd ar ap Wicipedia."
+    },
+    {
+      "name": "activity_tab_neutral",
+      "value": "Niwtral"
+    },
+    {
+      "name": "add_articles_to_reading_list",
+      "value": "Ychwanegu {{PLURAL:\\$1|\\$1 erthygl}} at restr ddarllen"
+    },
+    {
+      "name": "advanced_settings_title",
+      "value": "Gosodiadau uwch"
+    },
+    {
+      "name": "announcements_dismiss",
+      "value": "Cau"
+    },
+    {
+      "name": "app_store_keywords",
+      "value": "Wicipedia, cyfeirio, wici, gwyddoniadur, gwybodaeth, ymchwil, archwilio, dysgu"
+    },
+    {
+      "name": "app_store_short_description",
+      "value": "Lawrlwythwch ap Wicipedia i archwilio lleoedd yn agos atoch chi, cysoni erthyglau i'w darllen all-lein ac addasu eich profiad darllen."
+    },
+    {
+      "name": "app_store_subtitle",
+      "value": "Y gwyddoniadur rhydd"
+    },
+    {
+      "name": "appearance_settings_adjust_text_sizing",
+      "value": "Addasu maint testun yr erthygl"
+    },
+    {
+      "name": "appearance_settings_expand_tables",
+      "value": "Ehangu tablau"
+    },
+    {
+      "name": "appearance_settings_reading_themes",
+      "value": "Themâu darllen"
+    },
+    {
+      "name": "appearance_settings_set_automatic_table_opening",
+      "value": "Gosodiadau Tabl"
+    },
+    {
+      "name": "appearance_settings_theme_options",
+      "value": "Opsiynau thema"
+    },
+    {
+      "name": "article_about_title",
+      "value": "Ynglŷn â'r erthygl hon"
+    },
+    {
+      "name": "article_delete",
+      "value": "Dileu"
+    },
+    {
+      "name": "article_deleted_accessibility_notification",
+      "value": "Wedi dileu {{PLURAL:\\$1|erthygl}}"
+    },
+    {
+      "name": "article_languages_filter_placeholder",
+      "value": "Chwilio am iaith"
+    },
+    {
+      "name": "article_languages_label",
+      "value": "Dewisiwch iaith"
+    },
+    {
+      "name": "article_languages_others",
+      "value": "Ieithoedd eraill"
+    },
+    {
+      "name": "article_languages_yours",
+      "value": "Eich ieithoedd"
+    },
+    {
+      "name": "article_read_more_title",
+      "value": "Darllen mwy"
+    },
+    {
+      "name": "article_reference_view_title",
+      "value": "Cyfeiriad \\$1"
+    },
+    {
+      "name": "article_revision_history",
+      "value": "Hanes golygiad erthygl"
+    },
+    {
+      "name": "article_share",
+      "value": "Rhannu"
+    },
+    {
+      "name": "article_talk_page",
+      "value": "Tudalen sgwrs erthygl"
+    },
+    {
+      "name": "back_button_accessibility_label",
+      "value": "Yn ôl"
+    },
+    {
+      "name": "back_button_popover_title",
+      "value": "Tapiwch i fynd yn ôl"
+    },
+    {
+      "name": "button_go_back",
+      "value": "Nôl"
+    },
+    {
+      "name": "button_next",
+      "value": "Nesaf"
+    },
+    {
+      "name": "button_ok",
+      "value": "Iawn"
+    },
+    {
+      "name": "button_publish",
+      "value": "Cyhoeddi"
+    },
+    {
+      "name": "button_publish_anyway",
+      "value": "Cyhoeddi sut bynnag"
+    },
+    {
+      "name": "button_report_a_bug",
+      "value": "Riportio nam"
+    },
+    {
+      "name": "button_save_for_later",
+      "value": "Cadw ar gyfer nes ymlaen"
+    },
+    {
+      "name": "button_saved_for_later",
+      "value": "Cadwyd"
+    },
+    {
+      "name": "button_saved_remove",
+      "value": "Dileu o gadwyd"
+    },
+    {
+      "name": "button_skip",
+      "value": "Anwybyddu"
+    },
+    {
+      "name": "cancel",
+      "value": "Canslo"
+    },
+    {
+      "name": "cc_zero",
+      "value": "Creative Commons CC0"
+    },
+    {
+      "name": "chinese_variants_alert_body",
+      "value": "Mae ap Wicipedia bellach yn cefnogi'r amrywiadau Tsieinëeg canlynol fel ieithoedd cynradd neu eilaidd o fewn yr ap, gan ei gwneud hi'n haws darllen, chwilio a golygu yn eich hoff amrywiadau:\n\n简体 Chinese, Simplified (zh-hans)\n香港繁體 Hong Kong Traditional (zh-hk)\n澳門繁體 Macau Traditional (zh-mo)\n大马简体 Malaysia Simplified (zh-my)\n新加坡简体 Singapore Simplified (zh-sg)\n臺灣正體 Taiwanese Traditional (zh-tw)"
+    },
+    {
+      "name": "chinese_variants_alert_title",
+      "value": "Diweddariadau i gefnogaeth amrywiad Tsieineaidd"
+    },
+    {
+      "name": "clear_title_accessibility_label",
+      "value": "Clirio"
+    },
+    {
+      "name": "clearing_cache_complete",
+      "value": "Clirio'r storfa wedi'i gwblhau."
+    },
+    {
+      "name": "clearing_cache_in_progress",
+      "value": "Wrthi'n clirio'r storfa."
+    },
+    {
+      "name": "close_button_accessibility_label",
+      "value": "Cau"
+    },
+    {
+      "name": "compass_direction",
+      "value": "am \\$1 o'r gloch"
+    },
+    {
+      "name": "continue_button_title",
+      "value": "Parhau"
+    },
+    {
+      "name": "continue_reading_empty_title",
+      "value": "Dim erthyglau wedi eu darllen yn ddiweddar"
+    },
+    {
+      "name": "crimean_tatar_variants_alert_title",
+      "value": "Diweddariadau i gefnogaeth Tatareg y Crimea"
+    },
+    {
+      "name": "data_migration_status",
+      "value": "Wrthi'n diweddaru..."
+    },
+    {
+      "name": "description_add_title",
+      "value": "Ychwanegu disgrifiad"
+    },
+    {
+      "name": "description_edit_for_article",
+      "value": "Disgrifiad erthygl am \\$1"
+    },
+    {
+      "name": "description_edit_length_warning",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "description_edit_pencil_introduction",
+      "value": "Golygu'r cyflwyniad"
+    },
+    {
+      "name": "description_edit_pencil_title",
+      "value": "Golygu disgrifiad yr erthygl"
+    },
+    {
+      "name": "description_edit_placeholder_title",
+      "value": "Disgrifiadau byr sydd orau"
+    },
+    {
+      "name": "description_edit_publish",
+      "value": "Cyhoeddi disgrifiad"
+    },
+    {
+      "name": "description_edit_title",
+      "value": "Golygu disgrifiad"
+    },
+    {
+      "name": "description_help_about_title",
+      "value": "Ynghylch"
+    },
+    {
+      "name": "description_help_about_wikidata",
+      "value": "Ynglŷn â Wicidata"
+    },
+    {
+      "name": "description_help_more_info_title",
+      "value": "Mwy o wybodaeth"
+    },
+    {
+      "name": "description_help_tips_example_title_one",
+      "value": "paentiad gan Leonardo Da Vinci"
+    },
+    {
+      "name": "description_help_tips_example_title_two",
+      "value": "Mynydd uchaf y Ddaear"
+    },
+    {
+      "name": "description_help_tips_for_example",
+      "value": "Er enghraifft:"
+    },
+    {
+      "name": "description_help_tips_title",
+      "value": "Cyngor ar ysgrifennu disgrifiadau"
+    },
+    {
+      "name": "description_help_title",
+      "value": "Cymorth disgrifiadau erthygl"
+    },
+    {
+      "name": "description_help_wikidata_guide",
+      "value": "Canllaw Wicidata ar ysgrifennu disgrifiadau"
+    },
+    {
+      "name": "description_published_button_title",
+      "value": "Iawn"
+    },
+    {
+      "name": "description_published_subtitle",
+      "value": "Rydych chi wedi gwella Wicipedia i bawb"
+    },
+    {
+      "name": "description_published_title",
+      "value": "Disgrifiad wedi cyhoeddi!"
+    },
+    {
+      "name": "description_welcome_concise_sub_title",
+      "value": "Dim ond un llinell yn ddelfrydol, rhwng dau a ddeuddeg gair"
+    },
+    {
+      "name": "description_welcome_concise_title",
+      "value": "Cadwch hi'n fyr"
+    },
+    {
+      "name": "description_welcome_descriptions_sub_title",
+      "value": "Mae hynny'n crynhoi erthygl i helpu ddarllenwyr i ddeall pwnc yn fras"
+    },
+    {
+      "name": "description_welcome_descriptions_title",
+      "value": "Disgrifiadau erthygl"
+    },
+    {
+      "name": "description_welcome_start_editing_button",
+      "value": "Dechrau golygu"
+    },
+    {
+      "name": "diff_compare_header_from_info_heading",
+      "value": "Golygiad Blaenorol"
+    },
+    {
+      "name": "diff_compare_header_heading",
+      "value": "Cymharu Golygiadau"
+    },
+    {
+      "name": "diff_compare_header_to_info_heading",
+      "value": "Golygiad a Ddangosir"
+    },
+    {
+      "name": "diff_compare_title",
+      "value": "Cymharu Golygiadau"
+    },
+    {
+      "name": "diff_context_cell_collapse_section",
+      "value": "Lleihau \\$1"
+    },
+    {
+      "name": "diff_context_cell_expand_section",
+      "value": "Ehangu \\$1"
+    },
+    {
+      "name": "diff_context_lines_collapsed_button_title",
+      "value": "Dangos"
+    },
+    {
+      "name": "diff_context_lines_expanded_button_title",
+      "value": "Cuddio"
+    },
+    {
+      "name": "diff_multi_line_format",
+      "value": "Llinellau \\$1 - \\$2"
+    },
+    {
+      "name": "diff_paragraph_moved",
+      "value": "Symudwyd y paragraff"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_down",
+      "value": "i lawr"
+    },
+    {
+      "name": "diff_paragraph_moved_direction_up",
+      "value": "i fyny"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_line",
+      "value": "{{PLURAL:\\$1|\\$1 llinell|\\$1 llinell|\\$1 linell|\\$1 llinell}}"
+    },
+    {
+      "name": "diff_paragraph_moved_distance_section",
+      "value": "{{PLURAL:\\$1|\\$1 adran}}"
+    },
+    {
+      "name": "diff_paragraph_moved_format",
+      "value": "Symudwyd y paragraff \\$1 \\$2"
+    },
+    {
+      "name": "diff_revision_error_title",
+      "value": "Ni ellir llwytho golygiad"
+    },
+    {
+      "name": "diff_rollback",
+      "value": "Gwrthdroi"
+    },
+    {
+      "name": "diff_rollback_alert_message",
+      "value": "Ydych chi wir eisiau gwrthdroi'r golygiadau?"
+    },
+    {
+      "name": "diff_rollback_alert_title",
+      "value": "Gwrthdroi golygiadau"
+    },
+    {
+      "name": "diff_rollback_success",
+      "value": "Wedi gwrthdroi golygiadau."
+    },
+    {
+      "name": "diff_single_header_editor_number_edits_format",
+      "value": "{{PLURAL:\\$1|\\$1 golygiadau|\\$1 golygiad|\\$1 olygiad|\\$1 golygiad}}"
+    },
+    {
+      "name": "diff_single_header_editor_title",
+      "value": "Gwybodaeth am y golygydd"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_added",
+      "value": "{{PLURAL:\\$1|\\$1 beit wedi'i ychwanegu|\\$1 beit wedi'i ychwanegu|\\$1 feit wedi'i ychwanegu|\\$1 beit wedi'i ychwanegu}}"
+    },
+    {
+      "name": "diff_single_header_subtitle_bytes_removed",
+      "value": "{{PLURAL:\\$1|\\$1 beit wedi'i tynnu|\\$1 beit wedi'i tynnu|\\$1 feit wedi'i tynnu|\\$1 beit wedi'i tynnu}}"
+    },
+    {
+      "name": "diff_single_header_summary_heading",
+      "value": "Crynodeb golygu"
+    },
+    {
+      "name": "diff_single_intro_title",
+      "value": "Agoriad"
+    },
+    {
+      "name": "diff_single_line_format",
+      "value": "Llinell \\$1"
+    },
+    {
+      "name": "diff_thanks_anonymous_no_thanks",
+      "value": "Ni ellir diolch defnyddwyr dienw"
+    },
+    {
+      "name": "diff_thanks_login_subtitle",
+      "value": "Gallwch ddweud 'Diolch' i werthfawrogi gwaith golygydd arall ar Wicipedia. Rhaid ichi fewngofnodi i ddweud 'Diolch'."
+    },
+    {
+      "name": "diff_thanks_login_title",
+      "value": "Mewngofnodi i ddweud 'Diolch'"
+    },
+    {
+      "name": "diff_thanks_send_button_title",
+      "value": "Dweud 'Diolch'"
+    },
+    {
+      "name": "diff_thanks_send_subtitle",
+      "value": "Gallwch ddweud 'Diolch' i werthfawrogi gwaith golygydd arall ar Wicipedia. Ni ellir wrthdroi 'Diolch' ac maen nhw'n weladwy i bawb."
+    },
+    {
+      "name": "diff_thanks_send_title",
+      "value": "Dweud 'Diolch' yn gyhoeddus"
+    },
+    {
+      "name": "diff_thanks_sent",
+      "value": "Rydych chi wedi dweud 'Diolch' i \\$1"
+    },
+    {
+      "name": "diff_thanks_sent_already",
+      "value": "Rydych chi eisoes wedi dweud 'Diolch' am y golygiad hwn"
+    },
+    {
+      "name": "diff_thanks_sent_cannot_unsend",
+      "value": "Ni ellir wrthdroi 'Diolch'."
+    },
+    {
+      "name": "dim_images",
+      "value": "Tywyllu delweddau"
+    },
+    {
+      "name": "donate_payment_method_prompt_apple_pay_button_title",
+      "value": "Cyfrannu gydag Apple Pay"
+    },
+    {
+      "name": "donate_payment_method_prompt_message",
+      "value": "Cyfrannu gydag Apple Pay neu ffordd talu arall."
+    },
+    {
+      "name": "donate_payment_method_prompt_other_button_title",
+      "value": "Ffordd talu arall"
+    },
+    {
+      "name": "donate_payment_method_prompt_title",
+      "value": "Cyfrannu gydag Apple Pay?"
+    },
+    {
+      "name": "donate_success_title",
+      "value": "Diolch o galon!"
+    },
+    {
+      "name": "donate_title",
+      "value": "Dewiswch swm"
+    },
+    {
+      "name": "edit_link_display_text_title",
+      "value": "Testun i'w arddangos"
+    },
+    {
+      "name": "edit_link_link_target_title",
+      "value": "Targed y ddolen"
+    },
+    {
+      "name": "edit_link_remove_link_title",
+      "value": "Dileu'r ddolen"
+    },
+    {
+      "name": "edit_link_title",
+      "value": "Golygu dolen"
+    },
+    {
+      "name": "edit_menu_item",
+      "value": "Golygu"
+    },
+    {
+      "name": "edit_minor_text",
+      "value": "Golygiad bychan yw hwn"
+    },
+    {
+      "name": "edit_notices",
+      "value": "Hysbysiadau golygu"
+    },
+    {
+      "name": "edit_notices_please_read",
+      "value": "Darllenwch hwn cyn golygu"
+    },
+    {
+      "name": "edit_summary_add_summary_text",
+      "value": "Rhoi crynodeb golygu"
+    },
+    {
+      "name": "edit_summary_choice_added_image",
+      "value": "Ychwanegwyd delwedd"
+    },
+    {
+      "name": "edit_summary_choice_fixed_grammar",
+      "value": "Trwsiwyd y ramadeg"
+    },
+    {
+      "name": "edit_summary_choice_fixed_typos",
+      "value": "Trwsiwyd rhai gwallau teipio"
+    },
+    {
+      "name": "edit_summary_choice_linked_words",
+      "value": "Ychwanegwyd dolenni"
+    },
+    {
+      "name": "edit_summary_placeholder_text",
+      "value": "Sut wnaethoch chi wella'r erthygl?"
+    },
+    {
+      "name": "edit_watch_list_learn_more_text",
+      "value": "Dysgu mwy am eich Rhestr Gwylio"
+    },
+    {
+      "name": "edit_watch_this_page_text",
+      "value": "Gwylio'r dudalen hon"
+    },
+    {
+      "name": "editing_welcome_be_bold_title",
+      "value": "Dweud eich dweud"
+    },
+    {
+      "name": "editing_welcome_citations_title",
+      "value": "Dyfynnu ffynonnellau dibynadwy"
+    },
+    {
+      "name": "editing_welcome_impartial_tone_title",
+      "value": "Ysgrifennwch yn ddiduedd"
+    },
+    {
+      "name": "editing_welcome_set_knowledge_free_title",
+      "value": "Rhyddhau gwybodaeth i'r byd"
+    },
+    {
+      "name": "editor_edit_published",
+      "value": "Cyhoeddwyd eich golygiad."
+    },
+    {
+      "name": "editor_edit_source",
+      "value": "Golygu cod"
+    },
+    {
+      "name": "editor_exit_confirmation_title",
+      "value": "Cau'r modd golygu?"
+    },
+    {
+      "name": "editor_find_textfield_accessibility",
+      "value": "Canfod"
+    },
+    {
+      "name": "editor_keyboard_bold_accessibility",
+      "value": "Trwm"
+    },
+    {
+      "name": "editor_keyboard_comment_accessibility",
+      "value": "Sylw"
+    },
+    {
+      "name": "editor_keyboard_heading_button",
+      "value": "Pennawd"
+    },
+    {
+      "name": "editor_keyboard_indent_decrease_accessibility",
+      "value": "Dadfewnoli"
+    },
+    {
+      "name": "editor_keyboard_indent_increase_accessibility",
+      "value": "Mewnoli"
+    },
+    {
+      "name": "editor_keyboard_italics_accessibility",
+      "value": "Italig"
+    },
+    {
+      "name": "editor_keyboard_link_accessibility",
+      "value": "Dolen"
+    },
+    {
+      "name": "editor_keyboard_list_ordered_accessibility",
+      "value": "Rhestr wedi'i threfnu"
+    },
+    {
+      "name": "editor_keyboard_list_unordered_accessibility",
+      "value": "Rhestr heb ei threfnu"
+    },
+    {
+      "name": "editor_keyboard_paragraph_button",
+      "value": "Paragraff"
+    },
+    {
+      "name": "editor_keyboard_reference_accessibility",
+      "value": "Cyfeiriad"
+    },
+    {
+      "name": "editor_keyboard_strikethrough_accessibility",
+      "value": "Llinell drwodd"
+    },
+    {
+      "name": "editor_keyboard_subheading1_button",
+      "value": "Is-bennawd 1"
+    },
+    {
+      "name": "editor_keyboard_subheading2_button",
+      "value": "Is-bennawd 2"
+    },
+    {
+      "name": "editor_keyboard_subheading3_button",
+      "value": "Is-bennawd 3"
+    },
+    {
+      "name": "editor_keyboard_subheading4_button",
+      "value": "Is-bennawd 4"
+    },
+    {
+      "name": "editor_keyboard_subscript_accessibility",
+      "value": "Isysgrif"
+    },
+    {
+      "name": "editor_keyboard_superscript_accessibility",
+      "value": "Uwchysgrif"
+    },
+    {
+      "name": "editor_keyboard_template_accessibility",
+      "value": "Templed"
+    },
+    {
+      "name": "editor_keyboard_text_formatting_title",
+      "value": "Fformatio Testun"
+    },
+    {
+      "name": "editor_keyboard_underline_accessibility",
+      "value": "Tanlinellu"
+    },
+    {
+      "name": "editor_replace_textfield_accessibility",
+      "value": "Disodli"
+    },
+    {
+      "name": "editor_replace_textfield_placeholder",
+      "value": "Disodli gyda..."
+    },
+    {
+      "name": "editor_replace_type_all",
+      "value": "Disodli'r cyfan"
+    },
+    {
+      "name": "editor_replace_type_all_accessibility",
+      "value": "Disodli pob achos"
+    },
+    {
+      "name": "editor_replace_type_single",
+      "value": "Disodli"
+    },
+    {
+      "name": "editor_replace_type_single_accessibility",
+      "value": "Disodli un achos"
+    },
+    {
+      "name": "empty_diff_compare_title",
+      "value": "Dim gwahaniaeth rhwng fersiynau"
+    },
+    {
+      "name": "empty_insert_media_title",
+      "value": "Dewiswch ffeil o Gomin Wicimedia"
+    },
+    {
+      "name": "empty_no_article_message",
+      "value": "Mae'n ddrwg gennym, ni ellir llwytho'r erthygl"
+    },
+    {
+      "name": "empty_no_history_title",
+      "value": "Dim hanes ar gael"
+    },
+    {
+      "name": "empty_no_other_article_languages_title",
+      "value": "Dim ieithoedd eraill ar gael"
+    },
+    {
+      "name": "empty_no_saved_pages_title",
+      "value": "Dim tudalennau wedi'u cadw eto"
+    },
+    {
+      "name": "empty_no_search_results_message",
+      "value": "Dim canlyniadau"
+    },
+    {
+      "name": "error_generic_recovery_suggestion",
+      "value": "Ceisiwch eto yn nes ymlaen"
+    },
+    {
+      "name": "error_unknown",
+      "value": "Digwyddodd gwall anhysbys"
+    },
+    {
+      "name": "explore_another_random",
+      "value": "Erthygl arall ar hap"
+    },
+    {
+      "name": "explore_because_you_read",
+      "value": "Darllenoch chi"
+    },
+    {
+      "name": "explore_continue_reading_heading",
+      "value": "Parhau i ddarllen"
+    },
+    {
+      "name": "explore_detail_back_button_title",
+      "value": "Nôl i'r ffrwd Archwilio"
+    },
+    {
+      "name": "explore_featured_article_heading",
+      "value": "Erthygl ddethol"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_language_wikipedia",
+      "value": "o'r Wicipedia \\$1"
+    },
+    {
+      "name": "explore_featured_article_sub_heading_from_wikipedia",
+      "value": "Ar Wicipedia"
+    },
+    {
+      "name": "explore_feed_customize_accessibility_title",
+      "value": "Addasu"
+    },
+    {
+      "name": "explore_feed_preferences_card_hidden_title",
+      "value": "Cuddiwyd y cerdyn"
+    },
+    {
+      "name": "explore_feed_preferences_explore_tab",
+      "value": "Tab Archwilio"
+    },
+    {
+      "name": "explore_feed_preferences_featured_article_description",
+      "value": "Erthygl ddethol ddyddiol ar Wicipedia"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_off",
+      "value": "Na"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_all_languages_on",
+      "value": "Ie am bopeth"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_global_cards_on",
+      "value": "Ie"
+    },
+    {
+      "name": "explore_feed_preferences_feed_card_visibility_languages_count",
+      "value": "Ar gael ar \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_feed_cards_hidden_title",
+      "value": "Wedi cuddio pob cerdyn \\$1"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_description",
+      "value": "Cardiau sydd ddim yn dibynnu ar iaith"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_subtitle",
+      "value": "Ddim yn dibynnu ar iaith"
+    },
+    {
+      "name": "explore_feed_preferences_global_cards_title",
+      "value": "Cardiau cydwici"
+    },
+    {
+      "name": "explore_feed_preferences_hide_card_action_title",
+      "value": "Cuddio'r cerdyn hwn"
+    },
+    {
+      "name": "explore_feed_preferences_hide_feed_cards_action_title",
+      "value": "Cuddio pob cerdyn “\\$1”"
+    },
+    {
+      "name": "explore_feed_preferences_in_the_news_description",
+      "value": "Erthyglau am faterion cyfoes"
+    },
+    {
+      "name": "explore_feed_preferences_on_this_day_description",
+      "value": "Digwyddiadau mewn hanes ar y dydd hwn"
+    },
+    {
+      "name": "explore_feed_preferences_potd_description",
+      "value": "Delwedd ddethol ddyddiol o Gomin"
+    },
+    {
+      "name": "explore_feed_preferences_randomizer_description",
+      "value": "Cynhyrchu erthyglau ar hap i'w darllen"
+    },
+    {
+      "name": "explore_feed_preferences_show_continue_reading_title",
+      "value": "Dangos cerdyn Parhau i ddarllen"
+    },
+    {
+      "name": "explore_feed_preferences_show_featured_article_title",
+      "value": "Dangos cerdyn Erthygl dethol"
+    },
+    {
+      "name": "explore_feed_preferences_show_news_title",
+      "value": "Dangos cerdyn Yn y newyddion"
+    },
+    {
+      "name": "explore_feed_preferences_show_on_this_day_title",
+      "value": "Dangos cerdyn Ar y dydd hwn"
+    },
+    {
+      "name": "explore_feed_preferences_show_picture_of_the_day_title",
+      "value": "Dangos cerdyn Delwedd y dydd"
+    },
+    {
+      "name": "explore_feed_preferences_show_places_title",
+      "value": "Dangos cerdyn Lleoedd"
+    },
+    {
+      "name": "explore_feed_preferences_show_randomizer_title",
+      "value": "Dangos cerdyn Hapiwr"
+    },
+    {
+      "name": "explore_feed_preferences_show_related_pages_title",
+      "value": "Dangos cerdyn Darllenoch chi"
+    },
+    {
+      "name": "explore_feed_preferences_show_top_read_title",
+      "value": "Dangos cerdyn Poblogaidd"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_action_title",
+      "value": "Diffodd ffrwd Archwilio"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_feed_alert_title",
+      "value": "Diffodd y ffrwd Archwilio?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_action_title",
+      "value": "Diffodd Archwilio"
+    },
+    {
+      "name": "explore_feed_preferences_turn_off_explore_tab_title",
+      "value": "Diffodd y tab Archwilio?"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_action_title",
+      "value": "Galluogi Archwilio"
+    },
+    {
+      "name": "explore_feed_preferences_turn_on_explore_tab_title",
+      "value": "Galluogi'r tab Archwilio?"
+    },
+    {
+      "name": "explore_hide_card_prompt",
+      "value": "Cuddio'r cerdyn hwn"
+    },
+    {
+      "name": "explore_main_page_description",
+      "value": "Prif dudalen prosiectau Wicimedia"
+    },
+    {
+      "name": "explore_main_page_heading",
+      "value": "Heddiw ar Wicipedia"
+    },
+    {
+      "name": "explore_most_read_footer",
+      "value": "Pob erthygl poblogaidd"
+    },
+    {
+      "name": "explore_most_read_generic_heading",
+      "value": "Poblogaidd"
+    },
+    {
+      "name": "explore_most_read_more_list_title_for_date",
+      "value": "Poblogaidd ar \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_language_wikipedia",
+      "value": "Ar Wicipedia \\$1"
+    },
+    {
+      "name": "explore_most_read_sub_heading_on_wikipedia",
+      "value": "Ar Wicipedia"
+    },
+    {
+      "name": "explore_nearby_heading",
+      "value": "Llefydd gerllaw"
+    },
+    {
+      "name": "explore_nearby_placeholder_heading",
+      "value": "Lleoedd"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_language_wikipedia",
+      "value": "Ar Wicipedia \\$1"
+    },
+    {
+      "name": "explore_nearby_placeholder_sub_heading_on_wikipedia",
+      "value": "Gan Wicipedia"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location",
+      "value": "Eich lleoliad"
+    },
+    {
+      "name": "explore_nearby_sub_heading_your_location_from_language_wikipedia",
+      "value": "Eich lleoliad o Wicipedia \\$1"
+    },
+    {
+      "name": "explore_potd_heading",
+      "value": "Delwedd y dydd"
+    },
+    {
+      "name": "explore_potd_sub_heading",
+      "value": "Comin Wikimedia"
+    },
+    {
+      "name": "explore_random_article_heading",
+      "value": "Erthygl ar hap"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_language_wikipedia",
+      "value": "Wicipedia \\$1"
+    },
+    {
+      "name": "explore_random_article_sub_heading_from_wikipedia",
+      "value": "Wicipedia"
+    },
+    {
+      "name": "explore_randomizer",
+      "value": "Hapiwr"
+    },
+    {
+      "name": "explore_suggested_edits_footer",
+      "value": "Ychwanegu"
+    },
+    {
+      "name": "explore_suggested_edits_image_recs_title",
+      "value": "Ychwanegu delwedd"
+    },
+    {
+      "name": "export_user_data_confirmation_title",
+      "value": "Rhannu llyfrgell yr ap?"
+    },
+    {
+      "name": "export_user_data_title",
+      "value": "Allforio Data Defnyddiwr"
+    },
+    {
+      "name": "featured_widget_from_language_wikipedia",
+      "value": "Wicipedia \\$1"
+    },
+    {
+      "name": "featured_widget_from_wikipedia",
+      "value": "Wicipedia"
+    },
+    {
+      "name": "featured_widget_title",
+      "value": "Erthygl ddethol"
+    },
+    {
+      "name": "fetcher_error_generic",
+      "value": "Digwyddodd gwall. Ceisiwch eto nes ymlaen."
+    },
+    {
+      "name": "field_alert_captcha_invalid",
+      "value": "Mae'r CAPTCHA yn anghywir"
+    },
+    {
+      "name": "field_alert_password_confirm_mismatch",
+      "value": "Mae'r cyfrineiriau'n wahanol"
+    },
+    {
+      "name": "field_alert_token_invalid",
+      "value": "Cod annilys"
+    },
+    {
+      "name": "field_alert_username_unavailable",
+      "value": "Nid yw'r  enw-defnyddiwr yma ar gael"
+    },
+    {
+      "name": "field_backup_token_title",
+      "value": "Cod wrth gefn"
+    },
+    {
+      "name": "field_captcha_placeholder",
+      "value": "Testun CAPTCHA"
+    },
+    {
+      "name": "field_captcha_title",
+      "value": "Teipiwch y testun a welwch uchod"
+    },
+    {
+      "name": "field_email_placeholder",
+      "value": "enghraifft@example.org"
+    },
+    {
+      "name": "field_email_title",
+      "value": "Cyfeiriad e-bost"
+    },
+    {
+      "name": "field_email_title_optional",
+      "value": "Cyfeiriad e-bost (dewisol)"
+    },
+    {
+      "name": "field_new_password_confirm_placeholder",
+      "value": "Ail-deipiwch eich cyfrinair"
+    },
+    {
+      "name": "field_new_password_confirm_title",
+      "value": "Cadarnhau'r Cyfrinair"
+    },
+    {
+      "name": "field_new_password_placeholder",
+      "value": "Rhowch gyfrinair newydd"
+    },
+    {
+      "name": "field_new_password_title",
+      "value": "Cyfrinair newydd"
+    },
+    {
+      "name": "field_password_confirm_placeholder",
+      "value": "rhowch eich cyfrinair eto"
+    },
+    {
+      "name": "field_password_confirm_title",
+      "value": "Cadarnhau'r Cyfrinair"
+    },
+    {
+      "name": "field_password_placeholder",
+      "value": "Rhowch gyfrinair"
+    },
+    {
+      "name": "field_password_title",
+      "value": "Cyfrinair"
+    },
+    {
+      "name": "field_token_title",
+      "value": "Cod dilysu"
+    },
+    {
+      "name": "field_username_placeholder",
+      "value": "Rhowch enw defnyddiwr"
+    },
+    {
+      "name": "field_username_title",
+      "value": "Enw Defnyddiwr"
+    },
+    {
+      "name": "filter_options_all",
+      "value": "Popeth"
+    },
+    {
+      "name": "find_clear_button_accessibility",
+      "value": "Clirio maes canfod"
+    },
+    {
+      "name": "find_infolabel_number_matches",
+      "value": "\\$1 / \\$2"
+    },
+    {
+      "name": "find_replace_header",
+      "value": "Canfod a disodli"
+    },
+    {
+      "name": "find_replace_header_close_accessibility",
+      "value": "Cae'r blwch canfod a disodli"
+    },
+    {
+      "name": "find_textfield_accessibility",
+      "value": "Chwilio"
+    },
+    {
+      "name": "forgot_password_button_title",
+      "value": "Ailosod"
+    },
+    {
+      "name": "forgot_password_email_sent",
+      "value": "danfonwyd ebost gyda chyfarwyddiadau ail-osod cyfrinair atoch"
+    },
+    {
+      "name": "forgot_password_instructions",
+      "value": "Llenwch un o'r meysydd isod er mwyn i chi dderbyn cyfarwyddiadau sut i ailosod eich cyfrinair drwy ebost"
+    },
+    {
+      "name": "forgot_password_title",
+      "value": "Ailosod cyfrinair"
+    },
+    {
+      "name": "forgot_password_username_or_email_title",
+      "value": "Neu"
+    },
+    {
+      "name": "gan_variants_alert_title",
+      "value": "Diweddariadau i gymorth Gan"
+    },
+    {
+      "name": "history_clear_confirmation_heading",
+      "value": "Hollol sicr eich bod am ddileu'r cyfan?"
+    },
+    {
+      "name": "history_clear_delete_all",
+      "value": "Ie! Dileu'r cyfan!"
+    },
+    {
+      "name": "history_title",
+      "value": "Hanes"
+    },
+    {
+      "name": "home_more_like_footer",
+      "value": "Mwy fel \\$1"
+    },
+    {
+      "name": "home_nearby_location_footer",
+      "value": "Mwy gerllaw \\$1"
+    },
+    {
+      "name": "home_news_footer",
+      "value": "Mwy o faterion cyfoes"
+    },
+    {
+      "name": "home_themes_action_title",
+      "value": "Rheoli dewisiadau"
+    },
+    {
+      "name": "home_title",
+      "value": "Archwilio"
+    },
+    {
+      "name": "icon_shortcut_nearby_title",
+      "value": "Erthyglau gerllaw"
+    },
+    {
+      "name": "icon_shortcut_random_title",
+      "value": "Erthygl ar hap"
+    },
+    {
+      "name": "icon_shortcut_search_title",
+      "value": "Chwilio Wicipedia"
+    },
+    {
+      "name": "image_gallery_unknown_owner",
+      "value": "Awdur anhysbys."
+    },
+    {
+      "name": "image_rec_add_image_title",
+      "value": "Ychwanegu'r ddelwedd hon?"
+    },
+    {
+      "name": "image_rec_empty_subtitle",
+      "value": "Ceisiwch ddod yn ôl wedyn."
+    },
+    {
+      "name": "image_rec_survey_option_6",
+      "value": "Arall"
+    },
+    {
+      "name": "image_rec_survey_submit_button",
+      "value": "Cyflwyno"
+    },
+    {
+      "name": "image_rec_survey_title",
+      "value": "Rheswm"
+    },
+    {
+      "name": "image_rec_title",
+      "value": "Ychwanegu delwedd"
+    },
+    {
+      "name": "image_rec_tooltip_1_title",
+      "value": "Adolygu"
+    },
+    {
+      "name": "image_rec_tooltip_3_title",
+      "value": "Penderfynu"
+    },
+    {
+      "name": "image_rec_view_article",
+      "value": "Gweld erthygl"
+    },
+    {
+      "name": "image_recs_no_title",
+      "value": "Na"
+    },
+    {
+      "name": "image_recs_yes_title",
+      "value": "Ie"
+    },
+    {
+      "name": "import_shared_reading_list_default_title",
+      "value": "Fy rhestr ddarllen"
+    },
+    {
+      "name": "import_shared_reading_list_survey_prompt_button_take_survey",
+      "value": "Cymryd yr arolwg"
+    },
+    {
+      "name": "in_the_news_sub_title_from_language_wikipedia",
+      "value": "Wicipedia \\$1"
+    },
+    {
+      "name": "in_the_news_sub_title_from_wikipedia",
+      "value": "Wicipedia"
+    },
+    {
+      "name": "in_the_news_title",
+      "value": "Ar y Newyddion"
+    },
+    {
+      "name": "insert_action_title",
+      "value": "Mewnosod"
+    },
+    {
+      "name": "insert_link_title",
+      "value": "Mewnosod dolen"
+    },
+    {
+      "name": "insert_media_alternative_text_placeholder",
+      "value": "Disgrifiwch y ddelwedd hon"
+    },
+    {
+      "name": "insert_media_alternative_text_title",
+      "value": "Testun amgen"
+    },
+    {
+      "name": "insert_media_caption_caption_placeholder",
+      "value": "Sut mae'r ddelwedd hon yn berthnasol i'r erthygl?"
+    },
+    {
+      "name": "insert_media_caption_title",
+      "value": "Pennawd"
+    },
+    {
+      "name": "insert_media_image_position_setting_center",
+      "value": "Canol"
+    },
+    {
+      "name": "insert_media_image_position_setting_left",
+      "value": "Chwith"
+    },
+    {
+      "name": "insert_media_image_position_setting_none",
+      "value": "Dim"
+    },
+    {
+      "name": "insert_media_image_position_setting_right",
+      "value": "De"
+    },
+    {
+      "name": "insert_media_image_position_settings_title",
+      "value": "Lleoliad y ddelwedd"
+    },
+    {
+      "name": "insert_media_image_preview_more_information_action_title",
+      "value": "Rhagor o wybodaeth"
+    },
+    {
+      "name": "insert_media_image_preview_select_image_action_title",
+      "value": "Dewis delwedd"
+    },
+    {
+      "name": "insert_media_image_size_setting_custom",
+      "value": "Cyfaddas"
+    },
+    {
+      "name": "insert_media_image_size_setting_default",
+      "value": "Rhagosodedig"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_height",
+      "value": "Uchder"
+    },
+    {
+      "name": "insert_media_image_size_settings_measure_width",
+      "value": "Lled"
+    },
+    {
+      "name": "insert_media_image_size_settings_px_unit_name",
+      "value": "px"
+    },
+    {
+      "name": "insert_media_image_size_settings_title",
+      "value": "Maint y ddelwedd"
+    },
+    {
+      "name": "insert_media_image_type_setting_basic",
+      "value": "Sylfaenol"
+    },
+    {
+      "name": "insert_media_image_type_setting_frame",
+      "value": "Ffrâm"
+    },
+    {
+      "name": "insert_media_image_type_setting_frameless",
+      "value": "Di-ffrâm"
+    },
+    {
+      "name": "insert_media_image_type_setting_thumbnail",
+      "value": "Bawdlun"
+    },
+    {
+      "name": "insert_media_image_type_settings_title",
+      "value": "Math y ddelwedd"
+    },
+    {
+      "name": "insert_media_media_settings_title",
+      "value": "Gosodiadau cyfryngau"
+    },
+    {
+      "name": "insert_media_title",
+      "value": "Mewnosod cyfryngau"
+    },
+    {
+      "name": "inuktitut_variants_alert_title",
+      "value": "Diweddariadau i gymorth Inuktitut"
+    },
+    {
+      "name": "kazakh_variants_alert_title",
+      "value": "Diweddariadau i gymorth Casacheg"
+    },
+    {
+      "name": "kurdish_variants_alert_title",
+      "value": "Diweddariadau i gymorth Cwrdeg"
+    },
+    {
+      "name": "languages_settings_title",
+      "value": "Ieithoedd"
+    },
+    {
+      "name": "languages_title",
+      "value": "Newid iaith"
+    },
+    {
+      "name": "languages_wikipedia",
+      "value": "Ieithoedd Wicipedia"
+    },
+    {
+      "name": "learn_more_title",
+      "value": "Dysgu mwy"
+    },
+    {
+      "name": "logged_out_continue_without_logging_in_button_title",
+      "value": "Parhau heb fewngofnodi"
+    },
+    {
+      "name": "logged_out_log_back_in_button_title",
+      "value": "Mewngofnodi i'ch cyfrif"
+    },
+    {
+      "name": "logged_out_title",
+      "value": "Rydych chi wedi allgofnodi"
+    },
+    {
+      "name": "login_forgot_password",
+      "value": "Ydych chi wedi anghofio eich cyfrinair?"
+    },
+    {
+      "name": "login_join_wikipedia",
+      "value": "Ymuno â Wicipedia."
+    },
+    {
+      "name": "login_no_account",
+      "value": "Dim cyfrif gennych? \\$1."
+    },
+    {
+      "name": "login_title",
+      "value": "Mewngofnodwch i'ch cyfri"
+    },
+    {
+      "name": "main_menu_about",
+      "value": "Am yr ap"
+    },
+    {
+      "name": "main_menu_account_login",
+      "value": "Mewngofnodi"
+    },
+    {
+      "name": "main_menu_account_logout",
+      "value": "Allgofnodi"
+    },
+    {
+      "name": "main_menu_account_logout_are_you_sure",
+      "value": "Ydych chi'n sicr eich bod am allgofnodi?"
+    },
+    {
+      "name": "main_menu_account_title_logged_in",
+      "value": "Mewngofnodwyd fel \\$1"
+    },
+    {
+      "name": "main_menu_heading_legal",
+      "value": "Telerau a phreifatrwydd"
+    },
+    {
+      "name": "main_menu_nearby",
+      "value": "Gerllaw"
+    },
+    {
+      "name": "main_menu_privacy_policy",
+      "value": "Polisi preifatrwydd"
+    },
+    {
+      "name": "main_menu_rate_app",
+      "value": "Rhoi sgôr am yr ap"
+    },
+    {
+      "name": "main_menu_terms_of_use",
+      "value": "Telerau Defnyddio"
+    },
+    {
+      "name": "main_menu_title",
+      "value": "Mwy"
+    },
+    {
+      "name": "main_menu_zero_faq",
+      "value": "Cwestiynau Cyffredin Wicipedia Sero"
+    },
+    {
+      "name": "more_languages_tooltip_description",
+      "value": "Chwilio Wicipedia mewn dros 300 o ieithoedd"
+    },
+    {
+      "name": "more_languages_tooltip_title",
+      "value": "Ychwanegu ieithoedd"
+    },
+    {
+      "name": "more_menu",
+      "value": "Rhagor"
+    },
+    {
+      "name": "move_articles_to_reading_list",
+      "value": "Symud {{PLURAL:\\$1|\\$1 erthygl}} i'r rhestr ddarllen"
+    },
+    {
+      "name": "navbar_title_mode_edit_wikitext_preview",
+      "value": "Rhagolwg"
+    },
+    {
+      "name": "nearby_distance_label_feet",
+      "value": "\\$1 troedfedd"
+    },
+    {
+      "name": "nearby_distance_label_km",
+      "value": "\\$1 km"
+    },
+    {
+      "name": "nearby_distance_label_meters",
+      "value": "\\$1 m"
+    },
+    {
+      "name": "nearby_distance_label_miles",
+      "value": "\\$1 milltir"
+    },
+    {
+      "name": "new_password_title",
+      "value": "Gosodwch eich cyfrinair"
+    },
+    {
+      "name": "next_action_title",
+      "value": "Nesaf"
+    },
+    {
+      "name": "no_internet_connection",
+      "value": "Dim cysylltiad gwe"
+    },
+    {
+      "name": "not_now_title",
+      "value": "Nes ymlaen"
+    },
+    {
+      "name": "notifications_center_agent_description_from_format",
+      "value": "Gan \\$1"
+    },
+    {
+      "name": "notifications_center_alert",
+      "value": "Rhybudd"
+    },
+    {
+      "name": "notifications_center_cell_notification_type_accessibility_label_format",
+      "value": "Hysbysiad \\$1"
+    },
+    {
+      "name": "notifications_center_change_password",
+      "value": "Newid cyfrinair"
+    },
+    {
+      "name": "notifications_center_checking_for_notifications",
+      "value": "Wrthi'n chwilio am hysbysiadau..."
+    },
+    {
+      "name": "notifications_center_destination_app",
+      "value": "Mewnol"
+    },
+    {
+      "name": "notifications_center_destination_web",
+      "value": "Yn y porwr"
+    },
+    {
+      "name": "notifications_center_empty_checking_for_notifications",
+      "value": "Wrthi'n chwilio am hysbysiadau..."
+    },
+    {
+      "name": "notifications_center_empty_no_messages",
+      "value": "Dim negeseuon"
+    },
+    {
+      "name": "notifications_center_empty_state_num_filters",
+      "value": "{{PLURAL:\\$1|\\$1 hidlydd}}"
+    },
+    {
+      "name": "notifications_center_filters_accessibility_label",
+      "value": "Hidlydd Hysbysiadau"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_all",
+      "value": "Popeth"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_read",
+      "value": "Wedi'i ddarllen"
+    },
+    {
+      "name": "notifications_center_filters_read_status_item_title_unread",
+      "value": "Heb ei ddarllen"
+    },
+    {
+      "name": "notifications_center_filters_read_status_section_title",
+      "value": "Statws darllen"
+    },
+    {
+      "name": "notifications_center_filters_title",
+      "value": "Hidlyddion"
+    },
+    {
+      "name": "notifications_center_filters_types_item_title_all",
+      "value": "Pob math"
+    },
+    {
+      "name": "notifications_center_filters_types_section_title",
+      "value": "Mathau o hysbysiadau"
+    },
+    {
+      "name": "notifications_center_go_to_article",
+      "value": "Erthygl"
+    },
+    {
+      "name": "notifications_center_go_to_article_talk_format",
+      "value": "Tudalen sgwrs \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_diff",
+      "value": "Gwahan"
+    },
+    {
+      "name": "notifications_center_go_to_user_page",
+      "value": "Tudalen defnyddiwr \\$1"
+    },
+    {
+      "name": "notifications_center_go_to_wikidata_item",
+      "value": "Eitem Wicidata"
+    },
+    {
+      "name": "notifications_center_go_to_your_talk_page",
+      "value": "Eich tudalen sgwrs"
+    },
+    {
+      "name": "notifications_center_header_alert_from_agent",
+      "value": "Rhybudd o \\$1"
+    },
+    {
+      "name": "notifications_center_done",
+      "value": "Iawn"
+    },
+    {
+      "name": "notifications_center_inbox_title",
+      "value": "Prosiectau"
+    },
+    {
+      "name": "notifications_center_inbox_wikimedia_projects_section_title",
+      "value": "Prosiectau Wicimedia"
+    },
+    {
+      "name": "notifications_center_inbox_wikipedias_section_title",
+      "value": "Wicipediau"
+    },
+    {
+      "name": "notifications_center_language_project_name_format",
+      "value": "\\$2 \\$1"
+    },
+    {
+      "name": "notifications_center_login_notifications",
+      "value": "Hysbysiadau mewngofnodi"
+    },
+    {
+      "name": "notifications_center_mark",
+      "value": "Marcio"
+    },
+    {
+      "name": "notifications_center_mark_all_as_read",
+      "value": "Marcio fel wedi'i ddarllen"
+    },
+    {
+      "name": "notifications_center_mark_as_read",
+      "value": "Marcio fel wedi'i ddarllen"
+    },
+    {
+      "name": "notifications_center_mark_as_unread",
+      "value": "Marcio fel heb ei ddarllen"
+    },
+    {
+      "name": "notifications_center_more_action_accessibility_label",
+      "value": "Rhagor"
+    },
+    {
+      "name": "notifications_center_notifications_settings",
+      "value": "Gosodiadau hysbysiadau"
+    },
+    {
+      "name": "notifications_center_num_selected_messages_format",
+      "value": "{{PLURAL:\\$1|\\$1 neges}}"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_continue_action",
+      "value": "Parhau"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_filters_title",
+      "value": "Hidlyddion"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_learn_more_action",
+      "value": "Dysgwch fwy am hysbysiadau"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_notifications_alerts_title",
+      "value": "Hysbysiadau a rhybuddion"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_push_notifications_title",
+      "value": "Hysbysiadau byw"
+    },
+    {
+      "name": "notifications_center_onboarding_modal_title",
+      "value": "Hysbysiadau golygu"
+    },
+    {
+      "name": "notifications_center_onboarding_panel_secondary_button",
+      "value": "Dim diolch"
+    },
+    {
+      "name": "notifications_center_project_filters_accessibility_label",
+      "value": "Hidlydd Prosiectau"
+    },
+    {
+      "name": "notifications_center_status_all",
+      "value": "Popeth"
+    },
+    {
+      "name": "notifications_center_status_all_notifications",
+      "value": "Pob hysbysiad"
+    },
+    {
+      "name": "notifications_center_status_double_concatenation",
+      "value": "\\$1 yn \\$2"
+    },
+    {
+      "name": "notifications_center_status_filtered_by",
+      "value": "Hidlwyd gan"
+    },
+    {
+      "name": "notifications_center_status_in_types",
+      "value": "{{PLURAL:\\$1|1=1 math|\\$1 fath|\\$1 math}}"
+    },
+    {
+      "name": "notifications_center_status_read",
+      "value": "Wedi'i ddarllen"
+    },
+    {
+      "name": "notifications_center_status_triple_concatenation",
+      "value": "\\$1 a \\$2 mewn \\$3"
+    },
+    {
+      "name": "notifications_center_status_unread",
+      "value": "Heb ei ddarllen"
+    },
+    {
+      "name": "notifications_center_subheader_edit_milestone",
+      "value": "Carreg filltir golygu"
+    },
+    {
+      "name": "notifications_center_subheader_email_from_other_user",
+      "value": "E-bost newydd"
+    },
+    {
+      "name": "notifications_center_subheader_mention_talk_page",
+      "value": "Crybwylliad ar dudalen sgwrs"
+    },
+    {
+      "name": "notifications_center_subheader_message_user_talk_page",
+      "value": "Neges ar eich tudalen sgwrs"
+    },
+    {
+      "name": "notifications_center_subheader_page_link",
+      "value": "Dolen dudalen"
+    },
+    {
+      "name": "notifications_center_subheader_thanks",
+      "value": "Diolch"
+    },
+    {
+      "name": "notifications_center_subheader_translate_milestone",
+      "value": "Carreg filltir cyfieithu"
+    },
+    {
+      "name": "notifications_center_subheader_welcome",
+      "value": "Croeso!"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_read",
+      "value": "Marcio fel wedi'i ddarllen"
+    },
+    {
+      "name": "notifications_center_swipe_mark_as_unread",
+      "value": "Marcio fel heb ei ddarllen"
+    },
+    {
+      "name": "notifications_center_swipe_more",
+      "value": "Mwy"
+    },
+    {
+      "name": "notifications_center_title",
+      "value": "Hysbysiadau"
+    },
+    {
+      "name": "notifications_center_type_item_description_mentions",
+      "value": "Crybwylliadau"
+    },
+    {
+      "name": "notifications_center_type_item_description_notice",
+      "value": "Rhybudd"
+    },
+    {
+      "name": "notifications_center_type_item_description_welcome_verbose",
+      "value": "Neges groeso"
+    },
+    {
+      "name": "notifications_center_type_title_connection_with_wikidata",
+      "value": "Cysylltiad â Wicidata"
+    },
+    {
+      "name": "notifications_center_type_title_edit_milestone",
+      "value": "Carreg filltir golygu"
+    },
+    {
+      "name": "notifications_center_type_title_other",
+      "value": "Arall"
+    },
+    {
+      "name": "notifications_center_type_title_thanks",
+      "value": "Diolch"
+    },
+    {
+      "name": "notifications_center_type_title_translation_milestone",
+      "value": "Carreg filltir cyfieithu"
+    },
+    {
+      "name": "notifications_center_type_title_welcome",
+      "value": "Croeso"
+    },
+    {
+      "name": "notifications_push_fallback_body_text",
+      "value": "Gweithgaredd newydd ar Wicipedia"
+    },
+    {
+      "name": "notifications_push_talk_body_format",
+      "value": "{{PLURAL:\\$1|\\$1 neges newydd}} ar \\$2"
+    },
+    {
+      "name": "notifications_push_talk_title_format",
+      "value": "{{PLURAL:\\$1|Neges newydd|Negeseuon newydd}}"
+    },
+    {
+      "name": "number_billions",
+      "value": "\\$1B"
+    },
+    {
+      "name": "number_millions",
+      "value": "\\$1M"
+    },
+    {
+      "name": "number_thousands",
+      "value": "\\$1K"
+    },
+    {
+      "name": "on_this_day_detail_header_date_range",
+      "value": "o \\$1 - \\$2"
+    },
+    {
+      "name": "on_this_day_detail_header_title",
+      "value": "{{PLURAL:\\$1|\\$1 digwyddiad hanesyddol|\\$1 ddigwyddiad hanesyddol|\\$1 digwyddiad hanesyddol}}"
+    },
+    {
+      "name": "on_this_day_footer",
+      "value": "Mwy o ddigwyddiadau hanesyddol ar y diwrnod hwn"
+    },
+    {
+      "name": "on_this_day_no_internet_error",
+      "value": "Dim data ar gael"
+    },
+    {
+      "name": "on_this_day_sub_title_for_date_from_language_wikipedia",
+      "value": "\\$1 o Wicipedia \\$2"
+    },
+    {
+      "name": "on_this_day_title",
+      "value": "Ar y dydd hwn"
+    },
+    {
+      "name": "page_history_bot_edits",
+      "value": "Golygiadau gan fot"
+    },
+    {
+      "name": "page_history_compare_title",
+      "value": "Cymharu"
+    },
+    {
+      "name": "page_history_graph_accessibility_label",
+      "value": "Graff golygiadau dros amser"
+    },
+    {
+      "name": "page_history_minor_edits",
+      "value": "golygiadau bychain"
+    },
+    {
+      "name": "page_history_revision_author_accessibility_label",
+      "value": "Awdur: \\$1"
+    },
+    {
+      "name": "page_history_revision_comment_accessibility_label",
+      "value": "Sylw \\$1"
+    },
+    {
+      "name": "page_history_revision_history_title",
+      "value": "Hanes golygu"
+    },
+    {
+      "name": "page_history_revision_minor_edit_accessibility_label",
+      "value": "Golygiad bychan"
+    },
+    {
+      "name": "page_issues",
+      "value": "Problemau â'r dudalen"
+    },
+    {
+      "name": "page_location",
+      "value": "Gweld ar fap"
+    },
+    {
+      "name": "page_protected_can_not_edit_title",
+      "value": "Mae'r dudalen hon wedi'i gwarchod"
+    },
+    {
+      "name": "page_similar_titles",
+      "value": "Tudalennau tebyg"
+    },
+    {
+      "name": "panel_compare_revisions_title",
+      "value": "Cymharu golygiadau"
+    },
+    {
+      "name": "panel_not_logged_in_continue_edit_action_title",
+      "value": "Golygu heb fewngofnodi"
+    },
+    {
+      "name": "panel_not_logged_in_title",
+      "value": "Rydych chi heb fewngofnodi"
+    },
+    {
+      "name": "pictured",
+      "value": "delwedd"
+    },
+    {
+      "name": "places_accessibility_clear_saved_searches",
+      "value": "Clirio chwiliadau sydd wedi'u cadw"
+    },
+    {
+      "name": "places_accessibility_group",
+      "value": "\\$1 erthygl"
+    },
+    {
+      "name": "places_accessibility_show_as_list",
+      "value": "Dangos fel rhestr"
+    },
+    {
+      "name": "places_accessibility_show_as_map",
+      "value": "Dangos ar fap"
+    },
+    {
+      "name": "places_accessibility_show_more",
+      "value": "Dangos mwy o erthyglau"
+    },
+    {
+      "name": "places_enable_location_action_button_title",
+      "value": "Galluogi lleoliad"
+    },
+    {
+      "name": "places_filter_articles_action_sheet_title",
+      "value": "Hidlo erthyglau"
+    },
+    {
+      "name": "places_filter_button_title",
+      "value": "Hidlo"
+    },
+    {
+      "name": "places_filter_saved_articles",
+      "value": "Erthyglau wedi'u cadw"
+    },
+    {
+      "name": "places_filter_top_articles_count",
+      "value": "{{PLURAL:\\$1|\\$1 erthygl}}"
+    },
+    {
+      "name": "places_search_default_text",
+      "value": "Chwilio Lleoedd"
+    },
+    {
+      "name": "places_search_did_you_mean",
+      "value": "Oeddech chi'n golygu \\$1?"
+    },
+    {
+      "name": "places_search_top_articles_that_match_scope",
+      "value": "Gerllaw"
+    },
+    {
+      "name": "places_search_your_current_location",
+      "value": "Eich lleoliad cyfredol"
+    },
+    {
+      "name": "places_title",
+      "value": "Lleoedd"
+    },
+    {
+      "name": "potd_description_prefix",
+      "value": "Delwedd y Dydd am \\$1"
+    },
+    {
+      "name": "potd_widget_title",
+      "value": "Delwedd y dydd"
+    },
+    {
+      "name": "privacy_policy_title",
+      "value": "Polisi preifatrwydd"
+    },
+    {
+      "name": "project_name_mediawiki",
+      "value": "MediaWici"
+    },
+    {
+      "name": "project_name_wikibooks",
+      "value": "Wicilyfrau"
+    },
+    {
+      "name": "project_name_wikidata",
+      "value": "Wicidata"
+    },
+    {
+      "name": "project_name_wikimedia_commons",
+      "value": "Comin Wikimedia"
+    },
+    {
+      "name": "project_name_wikinews",
+      "value": "Wicinewyddion"
+    },
+    {
+      "name": "project_name_wikiquote",
+      "value": "Wiciddyfynnu"
+    },
+    {
+      "name": "project_name_wikisource",
+      "value": "Wicidestun"
+    },
+    {
+      "name": "project_name_wikispecies",
+      "value": "Wicifywyd"
+    },
+    {
+      "name": "project_name_wikiversity",
+      "value": "Wiciysgol"
+    },
+    {
+      "name": "project_name_wikivoyage",
+      "value": "Wicidaith"
+    },
+    {
+      "name": "project_name_wiktionary",
+      "value": "Wiciadur"
+    },
+    {
+      "name": "reading_list_create_new_list_button_title",
+      "value": "Creu rhestr ddarllen"
+    },
+    {
+      "name": "reading_list_create_new_list_description",
+      "value": "Disgrifiad"
+    },
+    {
+      "name": "reading_list_create_new_list_reading_list_name",
+      "value": "Enw'r restr ddarllen"
+    },
+    {
+      "name": "reading_list_create_new_list_title",
+      "value": "Creu rhestr newydd"
+    },
+    {
+      "name": "reading_list_limit_hit_for_unsorted_articles_button_title",
+      "value": "Trefnu erthyglau"
+    },
+    {
+      "name": "reading_list_login_or_create_account_button_title",
+      "value": "Mewngofnodi neu greu cyfrif"
+    },
+    {
+      "name": "reading_list_name_user_created_annotation",
+      "value": "_[crëwyd gan ddefnyddiwr]"
+    },
+    {
+      "name": "reading_lists_default_list_title",
+      "value": "Cadwyd"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_black_theme_button",
+      "value": "Thema du"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_dark_theme_button",
+      "value": "Thema dywyll"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_light_theme_button",
+      "value": "Thema golau"
+    },
+    {
+      "name": "reading_themes_controls_accessibility_sepia_theme_button",
+      "value": "Thema sepia"
+    },
+    {
+      "name": "reference_title",
+      "value": "Cyfeiriad \\$1"
+    },
+    {
+      "name": "relative_date_days_ago",
+      "value": "{{PLURAL:\\$1|0=Heddiw|1=Ddoe|\\$1 diwrnod yn ôl}}"
+    },
+    {
+      "name": "relative_date_hours_abbreviated",
+      "value": "\\$1 awr"
+    },
+    {
+      "name": "relative_date_hours_ago",
+      "value": "{{PLURAL:\\$1|0=Yn ddiweddar|\\$1 awr yn ôl}}"
+    },
+    {
+      "name": "relative_date_hours_ago_abbreviated",
+      "value": "\\$1 awr yn ôl"
+    },
+    {
+      "name": "relative_date_hrs_ago",
+      "value": "{{PLURAL:\\$1|0=Yn ddiweddar|\\$1 awr yn ôl}}"
+    },
+    {
+      "name": "relative_date_min_ago",
+      "value": "{{PLURAL:\\$1|0=Nawr|\\$1 munud yn ôl|\\$1 funud yn ôl|\\$1 munud yn ôl}}"
+    },
+    {
+      "name": "relative_date_minutes_ago",
+      "value": "{{PLURAL:\\$1|0=Nawr|\\$1 munud yn ôl|\\$1 funud yn ôl|\\$1 munud yn ôl}}"
+    },
+    {
+      "name": "relative_date_minutes_ago_abbreviated",
+      "value": "\\$1m yn ôl"
+    },
+    {
+      "name": "relative_date_months_ago",
+      "value": "{{PLURAL:\\$1|0=Y mis hwn|1=Y mis diwethaf|\\$1 mis yn ôl}}"
+    },
+    {
+      "name": "relative_date_seconds_abbreviated",
+      "value": "\\$1 eiliad"
+    },
+    {
+      "name": "relative_date_seconds_ago_abbreviated",
+      "value": "\\$1s yn ôl"
+    },
+    {
+      "name": "relative_date_years_ago",
+      "value": "{{PLURAL:\\$1|0=Eleni|1=Llynedd|\\$1 mlynedd yn ôl}}"
+    },
+    {
+      "name": "return_button_title",
+      "value": "Nôl"
+    },
+    {
+      "name": "return_to_article",
+      "value": "Nôl i erthygl"
+    },
+    {
+      "name": "saved_all_articles_title",
+      "value": "Pob erthygl"
+    },
+    {
+      "name": "saved_title",
+      "value": "Arbedwyd"
+    },
+    {
+      "name": "saved_unsave_article_and_remove_from_reading_lists_title",
+      "value": "Dad-gadw {{PLURAL:\\$1|erthygl|erthyglau}}?"
+    },
+    {
+      "name": "search_button_accessibility_label",
+      "value": "Chwilio Wicipedia"
+    },
+    {
+      "name": "search_clear_title",
+      "value": "Clirio"
+    },
+    {
+      "name": "search_field_placeholder_text",
+      "value": "Chwilio ar Wicipedia"
+    },
+    {
+      "name": "search_recent_clear_confirmation_heading",
+      "value": "Dileu'r holl chwiliadau?"
+    },
+    {
+      "name": "search_recent_clear_confirmation_sub_heading",
+      "value": "Ni ellir dadwneud y weithred hon!"
+    },
+    {
+      "name": "search_recent_clear_delete_all",
+      "value": "Dileu'r cyfan"
+    },
+    {
+      "name": "search_recent_empty",
+      "value": "Dim chwiliadau diweddar eto"
+    },
+    {
+      "name": "search_recent_title",
+      "value": "Chwiliadau diweddar"
+    },
+    {
+      "name": "search_result_redirected_from",
+      "value": "Ailgyfeiriwyd o: \\$1"
+    },
+    {
+      "name": "search_title",
+      "value": "Chwilio"
+    },
+    {
+      "name": "settings_account",
+      "value": "Cyfrif"
+    },
+    {
+      "name": "settings_appearance",
+      "value": "Dewisiadau darllen"
+    },
+    {
+      "name": "settings_clear_cache",
+      "value": "Clirio data wedi'i storio"
+    },
+    {
+      "name": "settings_clear_cache_are_you_sure_title",
+      "value": "Clirio data wedi'i storio?"
+    },
+    {
+      "name": "settings_clear_cache_cancel",
+      "value": "Canslo"
+    },
+    {
+      "name": "settings_clear_cache_ok",
+      "value": "Clirio storfa"
+    },
+    {
+      "name": "settings_donate",
+      "value": "Rhoi arian"
+    },
+    {
+      "name": "settings_help_and_feedback",
+      "value": "Cymorth ac adborth"
+    },
+    {
+      "name": "settings_language_bar",
+      "value": "Dangos yr ieithoedd wrth chwilio"
+    },
+    {
+      "name": "settings_my_languages",
+      "value": "Fy ieithoedd"
+    },
+    {
+      "name": "settings_notifications",
+      "value": "Hysbysiadau byw"
+    },
+    {
+      "name": "settings_notifications_echo_failure_try_again",
+      "value": "Ceisiwch eto"
+    },
+    {
+      "name": "settings_primary_language",
+      "value": "Cynradd"
+    },
+    {
+      "name": "settings_title",
+      "value": "Gosodiadau"
+    },
+    {
+      "name": "share_article_name_on_wikipedia",
+      "value": "\"\\$1\" ar Wicipedia:"
+    },
+    {
+      "name": "share_default_format",
+      "value": "“\\$1” o “\\$2”: \\$3"
+    },
+    {
+      "name": "share_email_format",
+      "value": "“\\$1”\n\no “\\$2”\n\n\\$3"
+    },
+    {
+      "name": "share_get_directions_in_maps",
+      "value": "Cael Cyfeiriadau"
+    },
+    {
+      "name": "share_menu_item",
+      "value": "Rhannu…"
+    },
+    {
+      "name": "share_message_format",
+      "value": "“\\$1” \\$2"
+    },
+    {
+      "name": "share_on_twitter_sign_off",
+      "value": "trwy Wicipedia"
+    },
+    {
+      "name": "share_open_in_maps",
+      "value": "Agor yn Mapiau"
+    },
+    {
+      "name": "share_social_format",
+      "value": "“\\$1” trwy Wicipedia: \\$2"
+    },
+    {
+      "name": "share_social_mention_format",
+      "value": "“\\$1” trwy Wicipedia: \\$2"
+    },
+    {
+      "name": "sort_by_recently_added_action",
+      "value": "Ychwanegwyd yn ddiweddar"
+    },
+    {
+      "name": "sort_by_title_action",
+      "value": "Teitl"
+    },
+    {
+      "name": "table_of_contents_button_label",
+      "value": "Tabl cynnwys"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_hint",
+      "value": "Cau"
+    },
+    {
+      "name": "table_of_contents_close_accessibility_label",
+      "value": "Cau'r Tabl cynnwys"
+    },
+    {
+      "name": "table_of_contents_heading",
+      "value": "Cynnwys"
+    },
+    {
+      "name": "table_of_contents_hide_button_label",
+      "value": "Cuddio'r tabl cynnwys"
+    },
+    {
+      "name": "table_of_contents_subheading_label",
+      "value": "Is-bennawd \\$1"
+    },
+    {
+      "name": "talk_page_active_users_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 defnyddiwr gweithgar|\\$1 ddefnyddiwr gweithgar|\\$1 defnyddiwr gweithgar}}"
+    },
+    {
+      "name": "talk_page_add_topic_button",
+      "value": "Ychwanegu pwnc"
+    },
+    {
+      "name": "talk_page_archives",
+      "value": "Archifau"
+    },
+    {
+      "name": "talk_page_article_about",
+      "value": "Ynglŷn â thudalennau sgwrs"
+    },
+    {
+      "name": "talk_page_change_language",
+      "value": "Newid iaith"
+    },
+    {
+      "name": "talk_page_collapse_thread_button",
+      "value": "Lleihau edefyn"
+    },
+    {
+      "name": "talk_page_discussion_read_accessibility_label",
+      "value": "Wedi'i ddarllen"
+    },
+    {
+      "name": "talk_page_discussion_unread_accessibility_label",
+      "value": "Heb ei ddarllen"
+    },
+    {
+      "name": "talk_page_error_alert_title",
+      "value": "Gwall anhysbys"
+    },
+    {
+      "name": "talk_page_error_loading_subtitle",
+      "value": "Digwyddodd gwall"
+    },
+    {
+      "name": "talk_page_error_loading_title",
+      "value": "Ni ellir llwytho tudalen sgwrs"
+    },
+    {
+      "name": "talk_page_expand_thread_button",
+      "value": "Agor edefyn"
+    },
+    {
+      "name": "talk_page_find_in_page_button",
+      "value": "Chwilio yn y dudalen"
+    },
+    {
+      "name": "talk_page_menu_open_all",
+      "value": "Agor pob edefyn"
+    },
+    {
+      "name": "talk_page_new_banner_title",
+      "value": "Byddwch yn gyfeillgar"
+    },
+    {
+      "name": "talk_page_page_info",
+      "value": "Gwybodaeth am y dudalen"
+    },
+    {
+      "name": "talk_page_permanent_link",
+      "value": "Dolen barhaol"
+    },
+    {
+      "name": "talk_page_read_in_web",
+      "value": "Darllen yn y porwr"
+    },
+    {
+      "name": "talk_page_related_links",
+      "value": "Beth sy'n cysylltu yma"
+    },
+    {
+      "name": "talk_page_replies_count_accessibilty_label",
+      "value": "{{PLURAL:\\$1|\\$1 ateb}}"
+    },
+    {
+      "name": "talk_page_reply_button",
+      "value": "Ateb"
+    },
+    {
+      "name": "talk_page_reply_button_accessibility_label",
+      "value": "Ateb i \\$1"
+    },
+    {
+      "name": "talk_page_reply_placeholder_format",
+      "value": "Ateb i \\$1"
+    },
+    {
+      "name": "talk_page_revision_history",
+      "value": "Hanes golygu"
+    },
+    {
+      "name": "talk_page_share_button",
+      "value": "Rhannu tudalen sgwrs"
+    },
+    {
+      "name": "talk_page_subscribe_to_topic",
+      "value": "Tanysgrifio"
+    },
+    {
+      "name": "talk_page_subscribed_alert_title",
+      "value": "Rydych chi wedi tanysgrifio!"
+    },
+    {
+      "name": "talk_page_title_article_talk",
+      "value": "Sgwrs Erthygl"
+    },
+    {
+      "name": "talk_page_title_user_talk",
+      "value": "Sgwrs Defnyddiwr"
+    },
+    {
+      "name": "talk_page_unsubscribe_to_topic",
+      "value": "Dad-danysgrifio"
+    },
+    {
+      "name": "talk_page_user_contributions",
+      "value": "Cyfraniadau"
+    },
+    {
+      "name": "talk_pages_archives_view_title",
+      "value": "Archifau"
+    },
+    {
+      "name": "talk_pages_coffee_roll_read_more",
+      "value": "Darllen mwy"
+    },
+    {
+      "name": "talk_pages_compose_close_confirmation_keep",
+      "value": "Parhau i olygu"
+    },
+    {
+      "name": "talk_pages_edit_source",
+      "value": "Golygu cod"
+    },
+    {
+      "name": "talk_pages_empty_view_button_article_add_topic",
+      "value": "Ychwanegu pwnc newydd"
+    },
+    {
+      "name": "talk_pages_empty_view_button_user_start_discussion",
+      "value": "Dechrau trafodaeth newydd"
+    },
+    {
+      "name": "talk_pages_empty_view_header_article",
+      "value": "Mae'r sgwrs yn dechrau yma"
+    },
+    {
+      "name": "talk_pages_empty_view_header_user",
+      "value": "Dechrau sgwrs gyda \\$1"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder",
+      "value": "Disgrifiad"
+    },
+    {
+      "name": "talk_pages_topic_compose_body_placeholder_accessibility",
+      "value": "Disgrifiad y pwnc"
+    },
+    {
+      "name": "talk_pages_topic_compose_close_confirmation_discard_reply",
+      "value": "Tynnu ateb"
+    },
+    {
+      "name": "talk_pages_topic_compose_navbar_title",
+      "value": "Pwnc"
+    },
+    {
+      "name": "talk_pages_topic_compose_title_placeholder",
+      "value": "Teitl y pwnc"
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_body_note_ios15",
+      "value": "Byddwch yn gyfeillgar, rydyn ni gyd yn bobl go iawn."
+    },
+    {
+      "name": "talk_pages_topic_reply_onboarding_title",
+      "value": "Tudalennau sgwrs"
+    },
+    {
+      "name": "talk_pages_user_groups",
+      "value": "Grwpiau defnyddiwr"
+    },
+    {
+      "name": "talk_pages_user_logs",
+      "value": "Logiau"
+    },
+    {
+      "name": "talk_pages_view_title",
+      "value": "Sgwrs"
+    },
+    {
+      "name": "terms_of_use_title",
+      "value": "Telerau defnydd"
+    },
+    {
+      "name": "theme_black_display_name",
+      "value": "Du"
+    },
+    {
+      "name": "theme_dark_display_name",
+      "value": "Tywyll"
+    },
+    {
+      "name": "theme_default_display_name",
+      "value": "Rhagosodedig"
+    },
+    {
+      "name": "theme_default_explanation",
+      "value": "Defnyddio thema'r system"
+    },
+    {
+      "name": "theme_light_display_name",
+      "value": "Golau"
+    },
+    {
+      "name": "theme_sepia_display_name",
+      "value": "Sepia"
+    },
+    {
+      "name": "top_read_widget_readers_count",
+      "value": "\\$1 o ddarllenwyr"
+    },
+    {
+      "name": "top_read_widget_title",
+      "value": "Poblogaidd"
+    },
+    {
+      "name": "try_now_title",
+      "value": "Ceisiwch nawr"
+    },
+    {
+      "name": "tutorial_title",
+      "value": "Tiwtorial"
+    },
+    {
+      "name": "two_factor_login_continue",
+      "value": "Parhau i fewngofnodi"
+    },
+    {
+      "name": "two_factor_login_instructions",
+      "value": "Rhowch god dilysu dau ffactor"
+    },
+    {
+      "name": "two_factor_login_title",
+      "value": "Mewngofnodwch i'ch cyfri"
+    },
+    {
+      "name": "two_factor_login_with_backup_code",
+      "value": "Defnyddio cod wrth gefn"
+    },
+    {
+      "name": "two_factor_login_with_regular_code",
+      "value": "Defnyddio cod dilysu"
+    },
+    {
+      "name": "unable_to_load_talk_page_title",
+      "value": "Ni ellir llwytho tudalen sgwrs"
+    },
+    {
+      "name": "unknown_generic_text",
+      "value": "Anhysbys"
+    },
+    {
+      "name": "unwatch",
+      "value": "Dad-wylio"
+    },
+    {
+      "name": "user_title",
+      "value": "Defnyddiwr"
+    },
+    {
+      "name": "vanish_account_continue_button_title",
+      "value": "Parhau"
+    },
+    {
+      "name": "vanish_account_username_field",
+      "value": "Enw defnyddiwr a thudalen defnyddiwr"
+    },
+    {
+      "name": "vanish_account_warning_title",
+      "value": "Rhybudd"
+    },
+    {
+      "name": "variants_alert_dismiss_button",
+      "value": "Dim diolch"
+    },
+    {
+      "name": "variants_alert_preferences_button",
+      "value": "Adolygu eich dewisiadau"
+    },
+    {
+      "name": "watch",
+      "value": "Gwylio"
+    },
+    {
+      "name": "watchlist",
+      "value": "Rhestr wylio"
+    },
+    {
+      "name": "watchlist_byte_change",
+      "value": "{{PLURAL:\\$1|\\$1 beit|\\$1 beit|\\$1 feit|\\$1 beit}}"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_month",
+      "value": "1 mis"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_week",
+      "value": "1 wythnos"
+    },
+    {
+      "name": "watchlist_change_expiry_option_one_year",
+      "value": "1 flwyddyn"
+    },
+    {
+      "name": "watchlist_change_expiry_option_permanent",
+      "value": "Parhaol"
+    },
+    {
+      "name": "watchlist_change_expiry_option_six_months",
+      "value": "6 mis"
+    },
+    {
+      "name": "watchlist_change_expiry_option_three_months",
+      "value": "3 mis"
+    },
+    {
+      "name": "watchlist_change_expiry_subtitle",
+      "value": "Dewiswch gyfnod amser y Rhestr Gwylio"
+    },
+    {
+      "name": "watchlist_edit_summary_accessibility",
+      "value": "Crynodeb golygu"
+    },
+    {
+      "name": "watchlist_empty_view_button_title",
+      "value": "Chwilio erthyglau"
+    },
+    {
+      "name": "watchlist_filter",
+      "value": "Hidlo"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_bot",
+      "value": "Bot"
+    },
+    {
+      "name": "watchlist_filter_automated_contributions_options_human",
+      "value": "Dynol (nid bot)"
+    },
+    {
+      "name": "watchlist_filter_significance_header",
+      "value": "Arwyddocâd"
+    },
+    {
+      "name": "watchlist_filter_significance_options_minor_edits",
+      "value": "Golygiadau bychain"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_header",
+      "value": "Math o newid"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_category_changes",
+      "value": "Newidiadau i gategorïau"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_logged_actions",
+      "value": "Cofnodion log"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_creations",
+      "value": "Tudalennau a grëwyd"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_page_edits",
+      "value": "Golygiadau i dudalen"
+    },
+    {
+      "name": "watchlist_filter_type_of_change_options_wikidata_edits",
+      "value": "Golygiadau Wicidata"
+    },
+    {
+      "name": "watchlist_filter_user_registration_header",
+      "value": "Cofrestru a phrofiad defnyddwyr"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_registered",
+      "value": "Cofrestrwyd"
+    },
+    {
+      "name": "watchlist_filter_user_registration_options_unregistered",
+      "value": "Heb gofrestru"
+    },
+    {
+      "name": "watchlist_filters_add_language",
+      "value": "Ychwanegu iaith..."
+    },
+    {
+      "name": "watchlist_removed",
+      "value": "Tynnwyd oddi ar eich Rhestr Wylio"
+    },
+    {
+      "name": "watchlist_updates_title",
+      "value": "Gweld diweddariadau"
+    },
+    {
+      "name": "watchlist_user_button_thank",
+      "value": "Diolch"
+    },
+    {
+      "name": "watchlist_user_button_user_contributions",
+      "value": "Cyfraniadau defnyddiwr"
+    },
+    {
+      "name": "watchlist_user_button_user_page",
+      "value": "Tudalen ddefnyddiwr"
+    },
+    {
+      "name": "watchlist_user_button_user_talk_page",
+      "value": "Tudalen sgwrs defnyddiwr"
+    },
+    {
+      "name": "welcome_exploration_explore_feed_title",
+      "value": "Ffrwd Archwilio"
+    },
+    {
+      "name": "welcome_exploration_on_this_day_title",
+      "value": "Ar y dydd hwn"
+    },
+    {
+      "name": "welcome_exploration_places_title",
+      "value": "Tab Lleoliadau"
+    },
+    {
+      "name": "welcome_explore_continue_button",
+      "value": "Dechrau arni"
+    },
+    {
+      "name": "welcome_explore_new_ways_title",
+      "value": "Ffyrdd newydd i archwilio"
+    },
+    {
+      "name": "welcome_explore_tell_me_more_done_button",
+      "value": "Iawn"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more",
+      "value": "Dysgwch fwy am Wicipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_more_about",
+      "value": "Ynglŷn â Wicipedia"
+    },
+    {
+      "name": "welcome_intro_free_encyclopedia_title",
+      "value": "Y gwyddoniadur rhydd"
+    },
+    {
+      "name": "welcome_languages_add_button",
+      "value": "Ychwanegu iaith arall"
+    },
+    {
+      "name": "welcome_languages_add_or_edit_button",
+      "value": "Ychwanegu neu olygu hoff ieithoedd"
+    },
+    {
+      "name": "welcome_languages_description",
+      "value": "Rydyn ni wedi canfod yr ieithoedd canlynol ar eich ddyfais:"
+    },
+    {
+      "name": "welcome_languages_search_title",
+      "value": "Chwilio mewn dros 300 iaith"
+    },
+    {
+      "name": "widget_onthisday_placeholder_article_snippet",
+      "value": "Gwyddoniadur rhydd ar-lein y gall unrhyw un olygu"
+    },
+    {
+      "name": "widget_onthisday_placeholder_event_snippet",
+      "value": "Mae Wicipedia, y gwyddoniadur rhydd, yn mynd ar-lein."
+    },
+    {
+      "name": "wikitext_preview_link_external_preview_title",
+      "value": "Dolen allanol"
+    },
+    {
+      "name": "wikitext_preview_link_not_found_preview_title",
+      "value": "Dim dolen mewnol"
+    },
+    {
+      "name": "wikitext_preview_link_preview_description",
+      "value": "Mae'r ddolen hon yn arwain at '\\$1'"
+    },
+    {
+      "name": "wikitext_preview_link_preview_title",
+      "value": "Rhagolwg dolen"
+    },
+    {
+      "name": "wikitext_preview_save_changes_title",
+      "value": "Cadw newidiadau"
+    },
+    {
+      "name": "wikitext_upload_captcha_error",
+      "value": "Cafwyd nam wrth wiro'r CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_captcha_needed",
+      "value": "Mae angen gwiro'r CAPTCHA."
+    },
+    {
+      "name": "wikitext_upload_save",
+      "value": "Wrthi'n cyhoeddi..."
+    },
+    {
+      "name": "wikitext_upload_save_terms_name",
+      "value": "Telerau Defnyddio"
+    },
+    {
+      "name": "year_in_review_day_friday",
+      "value": "ar Ddydd Gwener"
+    },
+    {
+      "name": "year_in_review_day_monday",
+      "value": "ar Ddydd Llun"
+    },
+    {
+      "name": "year_in_review_day_saturday",
+      "value": "ar Ddydd Sadwrn"
+    },
+    {
+      "name": "year_in_review_day_sunday",
+      "value": "ar Ddydd Sul"
+    },
+    {
+      "name": "year_in_review_day_thursday",
+      "value": "ar Ddydd Iau"
+    },
+    {
+      "name": "year_in_review_day_tuesday",
+      "value": "ar Ddydd Mawrth"
+    },
+    {
+      "name": "year_in_review_day_wednesday",
+      "value": "ar Ddydd Mercher"
+    },
+    {
+      "name": "year_in_review_donate",
+      "value": "Rhoi arian"
+    },
+    {
+      "name": "year_in_review_donate_now",
+      "value": "Rhoi nawr"
+    },
+    {
+      "name": "year_in_review_survey_additional_thoughts",
+      "value": "Unrhyw feddyliau ychwanegol?"
+    },
+    {
+      "name": "year_in_review_survey_neutral",
+      "value": "Niwtral"
+    },
+    {
+      "name": "year_in_review_survey_satisfied",
+      "value": "Bodlon"
+    },
+    {
+      "name": "year_in_review_time_afternoon",
+      "value": "Prynhawn"
+    },
+    {
+      "name": "year_in_review_time_evening",
+      "value": "Nos"
+    },
+    {
+      "name": "year_in_review_time_late_night",
+      "value": "Hwyr"
+    },
+    {
+      "name": "year_in_review_time_midday",
+      "value": "Canol dydd"
+    },
+    {
+      "name": "year_in_review_time_morning",
+      "value": "Bore"
+    },
+    {
+      "name": "year_in_review_time_night",
+      "value": "Nos"
+    },
+    {
+      "name": "year_in_review_wikipedia_w_accessibility_label",
+      "value": "Logo W Wicipedia"
+    },
+    {
+      "name": "year_in_review_wmf_logo_accessibility_label",
+      "value": "Logo Sefydliad Wicimedia"
+    },
+    {
+      "name": "yesterday_title",
+      "value": "Ddoe"
+    },
+    {
+      "name": "explore_because_you_read_heading",
+      "value": "Darllenoch chi"
+    },
+    {
+      "name": "explore_top_read_footer",
+      "value": "Pob erthygl poblogaidd"
+    },
+    {
+      "name": "explore_random_footer",
+      "value": "Erthygl arall ar hap"
+    },
+    {
+      "name": "explore_from_wikipedia_format",
+      "value": "o'r Wicipedia %s"
+    },
+    {
+      "name": "explore_on_wikipedia_format",
+      "value": "Ar Wicipedia %s"
+    },
+    {
+      "name": "explore_from_commons",
+      "value": "Comin Wikimedia"
+    },
+    {
+      "name": "search_recent_empty_title",
+      "value": "Dim hanes ar gael"
+    },
+    {
+      "name": "relative_date_yesterday",
+      "value": "Ddoe"
+    },
+    {
+      "name": "explore_hide_this_card",
+      "value": "Cuddio'r cerdyn hwn"
+    },
+    {
+      "name": "explore_card_hidden_toast",
+      "value": "Cuddiwyd y cerdyn"
+    },
+    {
+      "name": "editor_published",
+      "value": "Cyhoeddwyd eich golygiad."
+    },
+    {
+      "name": "editor_description_for_article",
+      "value": "Disgrifiad erthygl am %s"
+    },
+    {
+      "name": "editor_length_counter",
+      "value": "%s / %s"
+    },
+    {
+      "name": "places_did_you_mean_format",
+      "value": "Oeddech chi'n golygu %s?"
+    },
+    {
+      "name": "activity_tab_hours_on_wikipedia_harmonyos",
+      "value": "AR WICIPEDIA HarmonyOS"
+    }
+  ]
+}
