@@ -81,28 +81,37 @@ does, open the same dialog and generate it again.
 
 ## Function List Comparison
 
-| Category | Rows | Both | iOS | HarmonyOS |
+| Module | Rows | Both | iOS | HarmonyOS |
 |---|---:|---:|---:|---:|
-| Onboarding | 20 | 10 (50%) | 9 | 1 |
-| Explore feed and games | 103 | 58 (56%) | 35 | 10 |
-| Home tab (experimental) | 23 | 1 (4%) | 22 | 0 |
-| Article reader | 145 | 79 (54%) | 54 | 12 |
-| Editing | 164 | 15 (9%) | 144 | 5 |
-| Talk pages | 50 | 17 (34%) | 31 | 2 |
-| Page history and diffs | 32 | 9 (28%) | 21 | 2 |
+| Welcome | 11 | 10 (91%) | 0 | 1 |
+| App Onboarding | 9 | 0 (0%) | 9 | 0 |
+| Explore | 70 | 42 (60%) | 17 | 11 |
+| Which Came First | 26 | 16 (62%) | 9 | 1 |
+| Image Recommendations | 11 | 0 (0%) | 11 | 0 |
+| Home | 23 | 1 (4%) | 22 | 0 |
+| Article | 177 | 87 (49%) | 75 | 15 |
+| Editor | 138 | 7 (5%) | 131 | 0 |
+| Talk Page | 50 | 17 (34%) | 31 | 2 |
+| Page History | 32 | 9 (28%) | 21 | 2 |
 | Search | 43 | 25 (58%) | 14 | 4 |
 | Places | 35 | 18 (51%) | 3 | 14 |
-| Saved and reading lists | 67 | 35 (52%) | 24 | 8 |
-| Activity and history | 48 | 25 (52%) | 20 | 3 |
-| Account, profile and notifications | 123 | 83 (67%) | 30 | 10 |
+| Saved | 67 | 35 (52%) | 24 | 8 |
+| Activity | 48 | 25 (52%) | 20 | 3 |
+| Tabs | 18 | 10 (56%) | 7 | 1 |
+| App Shell | 49 | 17 (35%) | 32 | 0 |
+| Profile | 28 | 27 (96%) | 0 | 1 |
+| Log In | 36 | 23 (64%) | 7 | 6 |
+| Notifications Center | 33 | 9 (27%) | 21 | 3 |
+| Watchlist | 15 | 14 (93%) | 1 | 0 |
+| Donate | 23 | 7 (30%) | 16 | 0 |
 | Settings | 142 | 78 (55%) | 45 | 19 |
-| Donating | 33 | 7 (21%) | 26 | 0 |
-| App shell, tabs and alerts | 80 | 30 (38%) | 45 | 5 |
-| Widgets and system | 14 | 0 (0%) | 14 | 0 |
+| Temporary Account | 11 | 10 (91%) | 1 | 0 |
+| Widgets | 14 | 0 (0%) | 14 | 0 |
+| Global | 13 | 3 (23%) | 6 | 4 |
 | **Total** | **1122** | **490 (44%)** | **537** | **95** |
 
 The iOS list has 1027 functions and this port's list has 600. Most iOS-only rows sit in a few
-places: the source editor's tools (144 of the 164 Editing rows; here the editor is a plain
+places: the source editor's tools (131 of the 138 Editor rows; here the editor is a plain
 wikitext field with an edit summary and Publish), developer and experiment screens, the
 experimental Home tab, the native donation form (donating opens the Wikimedia web page here), and
 the widgets and quick actions outside the app. Most HarmonyOS-only rows are buttons the iOS list
